@@ -1,8 +1,8 @@
 {
   "type": "FeatureCollection",
   "properties": {
-    "created_at": "2026-06-28T17:23:43.862060+00:00",
-    "count": 85,
+    "created_at": "2026-06-28T17:34:27.580478+00:00",
+    "count": 106,
     "stats": {
       "feed_id": "game-all",
       "feed_label": "ゲーム",
@@ -28,7 +28,7 @@
         "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja"
       ],
       "rss_url": "https://www.gamedeveloper.com/rss.xml",
-      "fetched": 961,
+      "fetched": 957,
       "fetched_by_url": {
         "https://www.gamedeveloper.com/rss.xml": 50,
         "https://www.gamesindustry.biz/feed": 100,
@@ -40,21 +40,21 @@
         "https://www.nag.co.za/feed/": 10,
         "https://www.kakuchopurei.com/feed/": 10,
         "https://www.afkgaming.com/feed": 0,
-        "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20India&hl=en-IN&gl=IN&ceid=IN:en": 80,
+        "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20India&hl=en-IN&gl=IN&ceid=IN:en": 79,
         "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Philippines&hl=en-PH&gl=PH&ceid=PH:en": 78,
-        "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Eastern%20Europe&hl=en&gl=PL&ceid=PL:en": 43,
-        "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Africa&hl=en&gl=ZA&ceid=ZA:en": 79,
+        "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Eastern%20Europe&hl=en&gl=PL&ceid=PL:en": 74,
+        "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Africa&hl=en&gl=ZA&ceid=ZA:en": 44,
         "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Southeast%20Asia&hl=en-SG&gl=SG&ceid=SG:en": 77,
         "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA&hl=ja&gl=JP&ceid=JP:ja": 75,
         "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja": 79,
         "https://news.google.com/rss/search?q=%E6%B5%B7%E5%A4%96%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA&hl=ja&gl=JP&ceid=JP:ja": 75,
-        "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja": 78
+        "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja": 77
       },
-      "filtered": 879,
-      "resolved": 85,
-      "unresolved": 794,
-      "rules": 59,
-      "known_places": 61,
+      "filtered": 875,
+      "resolved": 106,
+      "unresolved": 769,
+      "rules": 71,
+      "known_places": 73,
       "loaded_data_files": [
         "data/place_rules.json",
         "data/unresolved_known_places_12.json",
@@ -173,6 +173,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          104.1954,
+          35.8617
+        ]
+      },
+      "properties": {
+        "title": "Chinese video games gain global appeal through technology, cultural storytelling - irishsun.com",
+        "source": "irishsun.com",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbWJMS0dtZHFFeXNpQjJ5WFNMZFhIZEZmYUJkQXNUQm0tbGtJMHBpWmJkSXpsTFB0SERZRVJMSk1yOVVfWjdWc19fMjV1Z3JGMVZLSkZZb3JOaURTQWVRQ0R0R2E0elljRkRFRXVSX296cHJCd0s3cl9NR1hrTkM0bmRSbjdPSklTSGVfVlYtZGtVbThWN05jemJyZVI5WVdiNHVEYlAtbFUtQ25zTEphdEVuM3pZTnJZTXVv?oc=5",
+        "published_at": "2026-06-27T16:15:00+00:00",
+        "representative_place": "Chinese video games cultural storytelling",
+        "place_label": "中国",
+        "sort_place_label": "中国",
+        "geocode_query": "China",
+        "place_type": "cultural_industry_region",
+        "location_precision": "country",
+        "place_reason": "game-all未解決記事のタイトルに『Chinese video games』とあり、中国産ゲームの技術・文化的語りを扱う記事として中国に置く（一致語: Chinese video games gain global appeal）",
+        "confidence": 0.68,
+        "rule_id": "observed_chinese_video_games_cultural_storytelling_202606",
+        "matched_text": "Chinese video games gain global appeal",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -98.5795,
           39.8283
         ]
@@ -192,6 +219,60 @@
         "confidence": 0.72,
         "rule_id": "observed_us_monthly_game_charts_202606",
         "matched_text": "US Monthly Charts",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4737,
+          31.2304
+        ]
+      },
+      "properties": {
+        "title": "Supercell's Vladislav Perge on building communities and player trust",
+        "source": "Latest Updates | PocketGamer.biz",
+        "link": "https://www.pocketgamer.biz/inside-supercells-approach-to-community-management-with-vladislav-perge/",
+        "published_at": "2026-06-26T13:30:00+00:00",
+        "representative_place": "Pocket Gamer Connects Summit Shanghai speaker session",
+        "place_label": "中国-上海市",
+        "sort_place_label": "中国-上海市",
+        "geocode_query": "Shanghai China",
+        "place_type": "event_site",
+        "location_precision": "city",
+        "place_reason": "game-all未解決記事のタイトルにPGC Shanghai、summaryにPocket Gamer Connects Summit Shanghaiが明示されているため上海に置く",
+        "confidence": 0.88,
+        "rule_id": "observed_pgc_shanghai_speaker_202607",
+        "matched_text": "Pocket Gamer Connects Summit Shanghai",
+        "match_source": "rule"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5795,
+          39.8283
+        ]
+      },
+      "properties": {
+        "title": "007 First Light was the highest-grossing game in May in the US",
+        "source": "Game World Observer",
+        "link": "https://gameworldobserver.com/2026/06/26/007-first-light-was-the-highest-grossing-game-in-may-in-the-us",
+        "published_at": "2026-06-26T13:28:30+00:00",
+        "representative_place": "United States monthly game market data",
+        "place_label": "米国",
+        "sort_place_label": "米国",
+        "geocode_query": "United States",
+        "place_type": "market_region",
+        "location_precision": "country",
+        "place_reason": "game-all未解決記事のタイトルに『in May in the US』、summaryに『U.S. gaming market』とあり、米国市場データの記事として米国に置く（一致語: highest-grossing game in May in the US）",
+        "confidence": 0.76,
+        "rule_id": "observed_007_first_light_us_market_202606",
+        "matched_text": "highest-grossing game in May in the US",
         "match_source": "known_place_title"
       }
     },
@@ -335,6 +416,60 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.436,
+          55.3781
+        ]
+      },
+      "properties": {
+        "title": "\"The question isn't whether it's the right intent, it is whether it will actually work\": The Mobile Mavens on the UK's social media ban",
+        "source": "Latest Updates | PocketGamer.biz",
+        "link": "https://www.pocketgamer.biz/the-question-isnt-whether-its-the-right-intent-it-is-whether-it-will-actually-work-the-mobile-mavens-on-the-uks-social-media-ban/",
+        "published_at": "2026-06-25T14:36:00+00:00",
+        "representative_place": "UK social media ban and game services discussion",
+        "place_label": "英国",
+        "sort_place_label": "英国",
+        "geocode_query": "United Kingdom",
+        "place_type": "regulatory_region",
+        "location_precision": "country",
+        "place_reason": "game-all未解決記事のタイトル・summaryに英国政府の未成年向けSNS規制とゲームサービスへの影響が明示されているため英国に置く（一致語: UK's social media ban）",
+        "confidence": 0.8,
+        "rule_id": "observed_uk_social_media_ban_games_202606",
+        "matched_text": "UK's social media ban",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1954,
+          35.8617
+        ]
+      },
+      "properties": {
+        "title": "Beyond Tencent and NetEase: How China's genre specialists took on the global charts",
+        "source": "Latest Updates | PocketGamer.biz",
+        "link": "https://www.pocketgamer.biz/chinese-publishers-hold-six-of-the-top-10-as-the-export-pack-widens/",
+        "published_at": "2026-06-25T14:35:00+00:00",
+        "representative_place": "Chinese mobile publishers global charts",
+        "place_label": "中国",
+        "sort_place_label": "中国",
+        "geocode_query": "China",
+        "place_type": "industry_region",
+        "location_precision": "country",
+        "place_reason": "game-all未解決記事のタイトル・summaryにChinese publishers / Chinaが明示され、中国系モバイルパブリッシャーの海外展開を扱う記事として中国に置く（一致語: China）",
+        "confidence": 0.72,
+        "rule_id": "observed_chinese_publishers_global_mobile_charts_202606",
+        "matched_text": "China",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.009,
           37.3349
         ]
@@ -416,6 +551,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.0,
+          48.0
+        ]
+      },
+      "properties": {
+        "title": "Google Play is preparing to reduce its commission in the European Union, the United Kingdom, and the United States",
+        "source": "Game World Observer",
+        "link": "https://gameworldobserver.com/2026/06/25/google-play-is-preparing-to-reduce-its-commission-in-the-european-union-the-united-kingdom-and-the-united-states",
+        "published_at": "2026-06-25T13:51:46+00:00",
+        "representative_place": "Google Play fee changes in EU, UK and US",
+        "place_label": "欧州連合・英国・米国",
+        "sort_place_label": "欧州連合・英国・米国",
+        "geocode_query": "European Union United Kingdom United States",
+        "place_type": "regulatory_region",
+        "location_precision": "multi_region",
+        "place_reason": "game-all未解決記事のタイトル・summaryにEU、英国、米国が明示されており、Google Playの手数料・課金規制対応地域として複合地域に置く（一致語: European Union, the United Kingdom, and the United States）",
+        "confidence": 0.72,
+        "rule_id": "observed_google_play_commission_eu_uk_us_202606",
+        "matched_text": "European Union, the United Kingdom, and the United States",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -98.5795,
           39.8283
         ]
@@ -470,6 +632,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -51.9253,
+          -14.235
+        ]
+      },
+      "properties": {
+        "title": "Sony is reportedly enforcing \"stricter guidelines\" against so-called \"shovelware\" PlayStation games",
+        "source": "GamesIndustry.biz Latest Articles Feed",
+        "link": "https://www.gamesindustry.biz/sony-is-reportedly-enforcing-stricter-guidelines-against-so-called-shovelware-playstation-games",
+        "published_at": "2026-06-24T20:01:30+00:00",
+        "representative_place": "Brazilian-based Afil Games / PlayStation policy article",
+        "place_label": "ブラジル",
+        "sort_place_label": "ブラジル",
+        "geocode_query": "Brazil",
+        "place_type": "studio_region",
+        "location_precision": "country",
+        "place_reason": "game-all未解決記事のsummaryに『Brazilian-based Afil Games』と明示されており、対象パブリッシャーの地域属性としてブラジルに置く",
+        "confidence": 0.72,
+        "rule_id": "observed_brazilian_afil_games_shovelware_policy_202606",
+        "matched_text": "Brazilian-based Afil Games",
+        "match_source": "rule"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           125.0,
           25.0
         ]
@@ -489,6 +678,60 @@
         "confidence": 0.66,
         "rule_id": "observed_jagex_runescape_asia_publishing_202606",
         "matched_text": "RuneScape to Japan, South Korea, and South East Asia",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          48.0
+        ]
+      },
+      "properties": {
+        "title": "Google Play opens up billing options and lowers store fees from June 30",
+        "source": "Mobilegamer.biz",
+        "link": "https://mobilegamer.biz/google-play-opens-up-billing-options-and-drops-store-fees-from-june-30/",
+        "published_at": "2026-06-24T17:19:17+00:00",
+        "representative_place": "Google Play fee changes in EU, UK and US",
+        "place_label": "欧州連合・英国・米国",
+        "sort_place_label": "欧州連合・英国・米国",
+        "geocode_query": "European Union United Kingdom United States",
+        "place_type": "regulatory_region",
+        "location_precision": "multi_region",
+        "place_reason": "game-all未解決記事のタイトル・summaryにEU、英国、米国が明示されており、Google Playの手数料・課金規制対応地域として複合地域に置く（一致語: Google Play opens up billing options）",
+        "confidence": 0.72,
+        "rule_id": "observed_google_play_commission_eu_uk_us_202606",
+        "matched_text": "Google Play opens up billing options",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9603,
+          50.9375
+        ]
+      },
+      "properties": {
+        "title": "Nigeria to bring first-ever developer delegation and booth to Gamescom 2026",
+        "source": "Latest Updates | PocketGamer.biz",
+        "link": "https://www.pocketgamer.biz/nigeria-to-bring-first-ever-developer-delegation-and-booth-to-gamescom-2026/",
+        "published_at": "2026-06-24T12:40:00+00:00",
+        "representative_place": "Nigeria developer delegation to Gamescom Cologne",
+        "place_label": "ドイツ-ノルトライン＝ヴェストファーレン州-ケルン",
+        "sort_place_label": "ドイツ-ノルトライン＝ヴェストファーレン州-ケルン",
+        "geocode_query": "Cologne Germany",
+        "place_type": "event_site",
+        "location_precision": "city",
+        "place_reason": "game-all未解決記事のsummaryに『Gamescom 2026 in Germany』および『Cologne show』とあり、ナイジェリア開発者代表団の出展先としてケルンに置く（一致語: Nigeria to bring first-ever developer delegation and booth to Gamescom 2026）",
+        "confidence": 0.78,
+        "rule_id": "observed_nigeria_gamescom_cologne_202606",
+        "matched_text": "Nigeria to bring first-ever developer delegation and booth to Gamescom 2026",
         "match_source": "known_place_title"
       }
     },
@@ -524,6 +767,60 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          24.9384,
+          60.1699
+        ]
+      },
+      "properties": {
+        "title": "Save up to €138 on PGC Nordics before Super Early Bird ends on Thursday 25th",
+        "source": "Latest Updates | PocketGamer.biz",
+        "link": "https://www.pocketgamer.biz/save-up-to-138-on-pgc-nordics-ends-thursday-25th/",
+        "published_at": "2026-06-24T10:00:00+00:00",
+        "representative_place": "Pocket Gamer Connects Nordics Helsinki",
+        "place_label": "フィンランド-ヘルシンキ",
+        "sort_place_label": "フィンランド-ヘルシンキ",
+        "geocode_query": "Helsinki Finland",
+        "place_type": "event_site",
+        "location_precision": "city",
+        "place_reason": "game-all未解決記事のsummaryに『return to Helsinki』とあり、PGC Nordicsの開催地としてヘルシンキに置く（一致語: PGC Nordics）",
+        "confidence": 0.86,
+        "rule_id": "observed_pgc_nordics_helsinki_202606",
+        "matched_text": "PGC Nordics",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4737,
+          31.2304
+        ]
+      },
+      "properties": {
+        "title": "SocialPeta CMO Summer Liu to speak at PGC Shanghai",
+        "source": "Latest Updates | PocketGamer.biz",
+        "link": "https://www.pocketgamer.biz/socialpeta-cmo-summer-liu-to-speak-at-pgc-shanghai/",
+        "published_at": "2026-06-24T10:00:00+00:00",
+        "representative_place": "Pocket Gamer Connects Summit Shanghai speaker session",
+        "place_label": "中国-上海市",
+        "sort_place_label": "中国-上海市",
+        "geocode_query": "Shanghai China",
+        "place_type": "event_site",
+        "location_precision": "city",
+        "place_reason": "game-all未解決記事のタイトルにPGC Shanghai、summaryにPocket Gamer Connects Summit Shanghaiが明示されているため上海に置く（一致語: SocialPeta CMO Summer Liu to speak at PGC Shanghai）",
+        "confidence": 0.88,
+        "rule_id": "observed_pgc_shanghai_speaker_202607",
+        "matched_text": "SocialPeta CMO Summer Liu to speak at PGC Shanghai",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           8.6753,
           9.082
         ]
@@ -551,8 +848,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          78.9629,
-          20.5937
+          24.9384,
+          60.1699
+        ]
+      },
+      "properties": {
+        "title": "The 23 conference tracks that will be at PG Connects Nordics this October 20th and 21st",
+        "source": "Latest Updates | PocketGamer.biz",
+        "link": "https://www.pocketgamer.biz/the-23-conference-tracks-that-will-be-at-pg-connects-nordics-this-october-20-21/",
+        "published_at": "2026-06-23T14:40:00+00:00",
+        "representative_place": "Pocket Gamer Connects Nordics Helsinki",
+        "place_label": "フィンランド-ヘルシンキ",
+        "sort_place_label": "フィンランド-ヘルシンキ",
+        "geocode_query": "Helsinki Finland",
+        "place_type": "event_site",
+        "location_precision": "city",
+        "place_reason": "game-all未解決記事のsummaryに『return to Helsinki』とあり、PGC Nordicsの開催地としてヘルシンキに置く",
+        "confidence": 0.86,
+        "rule_id": "observed_pgc_nordics_helsinki_202606",
+        "matched_text": "PGC Nordics",
+        "match_source": "rule"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5946,
+          12.9716
         ]
       },
       "properties": {
@@ -560,16 +884,16 @@
         "source": "Pratidin Time",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSGlsUm9aNm1CQWpPMkFNVklzNGNuOEJXWlBGVjRaZDRZdGIwcldYMkptVm9uc2VENVFHVGxzTGpzSzc2dXRvOF8xLTFTYWpmbk10ZlI5eE5YUTdOeFZhbnNFcm9hVnJVdGRRNnhDSURwNXFPX19HN3VkZ2l5dnNLSHprbzFUMFdrSHFvN0I3OExJUjhLU1IzaHpjN2hCSjBVaVdfaE40STRCdVVmeTBwbWUxVGhvSkd3dUJ4ZdIBvAFBVV95cUxNSGlsUm9aNm1CQWpPMkFNVklzNGNuOEJXWlBGVjRaZDRZdGIwcldYMkptVm9uc2VENVFHVGxzTGpzSzc2dXRvOF8xLTFTYWpmbk10ZlI5eE5YUTdOeFZhbnNFcm9hVnJVdGRRNnhDSURwNXFPX19HN3VkZ2l5dnNLSHprbzFUMFdrSHFvN0I3OExJUjhLU1IzaHpjN2hCSjBVaVdfaE40STRCdVVmeTBwbWUxVGhvSkd3dUJ4ZQ?oc=5",
         "published_at": "2026-06-23T14:03:46+00:00",
-        "representative_place": "India AAA game development discussion",
-        "place_label": "インド",
-        "sort_place_label": "インド",
-        "geocode_query": "India",
-        "place_type": "industry_region",
-        "location_precision": "country",
-        "place_reason": "未解決記事のタイトルに『India Can Build AAA Hits』とあり、インドのAAAゲーム開発可能性を扱う記事としてインドに置く（一致語: India Can Build AAA Hits）",
-        "confidence": 0.62,
-        "rule_id": "observed_unleash_avatar_india_202606",
-        "matched_text": "India Can Build AAA Hits",
+        "representative_place": "Aeos Games / Unleash the Avatar",
+        "place_label": "インド-カルナータカ州-ベンガルール",
+        "sort_place_label": "インド-カルナータカ州-ベンガルール",
+        "geocode_query": "Bengaluru Karnataka India",
+        "place_type": "studio_site",
+        "location_precision": "city",
+        "place_reason": "game-all出力で『Unleash the Avatar』がインド一般に吸われていたが、記事タイトルはAeos Gamesの作品記事であり、Aeos Gamesはベンガルール拠点の開発会社として確認できるためベンガルールに置く（一致語: Unleash the Avatar）",
+        "confidence": 0.84,
+        "rule_id": "observed_aeos_games_unleash_avatar_bengaluru_202606",
+        "matched_text": "Unleash the Avatar",
         "match_source": "known_place_title"
       }
     },
@@ -632,6 +956,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          104.1954,
+          35.8617
+        ]
+      },
+      "properties": {
+        "title": "Neverness to Everness steers towards $50m in two months on mobile",
+        "source": "Latest Updates | PocketGamer.biz",
+        "link": "https://www.pocketgamer.biz/neverness-to-everness-steers-towards-50m-in-two-months-on-mobile/",
+        "published_at": "2026-06-23T11:40:00+00:00",
+        "representative_place": "Chinese mobile publishers global charts",
+        "place_label": "中国",
+        "sort_place_label": "中国",
+        "geocode_query": "China",
+        "place_type": "industry_region",
+        "location_precision": "country",
+        "place_reason": "game-all未解決記事のタイトル・summaryにChinese publishers / Chinaが明示され、中国系モバイルパブリッシャーの海外展開を扱う記事として中国に置く",
+        "confidence": 0.72,
+        "rule_id": "observed_chinese_publishers_global_mobile_charts_202606",
+        "matched_text": "China",
+        "match_source": "rule"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.009,
           37.3349
         ]
@@ -652,6 +1003,60 @@
         "rule_id": "apple_cupertino_headquarters",
         "matched_text": "Apple",
         "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4737,
+          31.2304
+        ]
+      },
+      "properties": {
+        "title": "Kingsoft's Claire Yang joins PGC Shanghai to talk mid-sized studio survival",
+        "source": "Latest Updates | PocketGamer.biz",
+        "link": "https://www.pocketgamer.biz/kingsofts-claire-yang-joins-pgc-shanghai-to-talk-mid-sized-studio-survival/",
+        "published_at": "2026-06-23T08:57:00+00:00",
+        "representative_place": "Pocket Gamer Connects Summit Shanghai speaker session",
+        "place_label": "中国-上海市",
+        "sort_place_label": "中国-上海市",
+        "geocode_query": "Shanghai China",
+        "place_type": "event_site",
+        "location_precision": "city",
+        "place_reason": "game-all未解決記事のタイトルにPGC Shanghai、summaryにPocket Gamer Connects Summit Shanghaiが明示されているため上海に置く（一致語: PGC Shanghai）",
+        "confidence": 0.88,
+        "rule_id": "observed_pgc_shanghai_speaker_202607",
+        "matched_text": "PGC Shanghai",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1954,
+          35.8617
+        ]
+      },
+      "properties": {
+        "title": "Three myths that cost Western games companies in the Chinese market",
+        "source": "Latest Updates | PocketGamer.biz",
+        "link": "https://www.pocketgamer.biz/three-myths-that-cost-western-games-companies-in-the-chinese-market/",
+        "published_at": "2026-06-22T14:50:00+00:00",
+        "representative_place": "Chinese mobile publishers global charts",
+        "place_label": "中国",
+        "sort_place_label": "中国",
+        "geocode_query": "China",
+        "place_type": "industry_region",
+        "location_precision": "country",
+        "place_reason": "game-all未解決記事のタイトル・summaryにChinese publishers / Chinaが明示され、中国系モバイルパブリッシャーの海外展開を扱う記事として中国に置く",
+        "confidence": 0.72,
+        "rule_id": "observed_chinese_publishers_global_mobile_charts_202606",
+        "matched_text": "China",
+        "match_source": "rule"
       }
     },
     {
@@ -848,6 +1253,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          104.1954,
+          35.8617
+        ]
+      },
+      "properties": {
+        "title": "The devs of Chinese hit The Scroll of Taiwu on what Western devs get wrong in China - and why they rejected generative AI",
+        "source": "GamesIndustry.biz Latest Articles Feed",
+        "link": "https://www.gamesindustry.biz/how-dare-we-use-something-like-that-on-someones-dream-why-generative-ai-artwork-is-a-no-go-for-the-scroll-of-taiwu",
+        "published_at": "2026-06-17T11:00:00+00:00",
+        "representative_place": "Chinese mobile publishers global charts",
+        "place_label": "中国",
+        "sort_place_label": "中国",
+        "geocode_query": "China",
+        "place_type": "industry_region",
+        "location_precision": "country",
+        "place_reason": "game-all未解決記事のタイトル・summaryにChinese publishers / Chinaが明示され、中国系モバイルパブリッシャーの海外展開を扱う記事として中国に置く（一致語: China）",
+        "confidence": 0.72,
+        "rule_id": "observed_chinese_publishers_global_mobile_charts_202606",
+        "matched_text": "China",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.2913,
           52.1326
         ]
@@ -884,16 +1316,16 @@
         "source": "Games Industry Africa",
         "link": "https://gamesindustryafrica.com/2026/06/15/south-african-studio-nyamakop-earns-games-for-change-2026-nomination-for-relooted/?utm_source=rss&utm_medium=rss&utm_campaign=south-african-studio-nyamakop-earns-games-for-change-2026-nomination-for-relooted",
         "published_at": "2026-06-15T03:44:00+00:00",
-        "representative_place": "South African studio Nyamakop",
+        "representative_place": "South African studio Nyamakop / Relooted",
         "place_label": "南アフリカ",
         "sort_place_label": "南アフリカ",
         "geocode_query": "South Africa",
         "place_type": "studio_region",
         "location_precision": "country",
-        "place_reason": "未解決記事のタイトルに『South African Studio Nyamakop』とあり、記事本文でも南アフリカのスタジオとして扱われているため国単位に置く（一致語: Nyamakop）",
-        "confidence": 0.64,
-        "rule_id": "observed_nyamakop_south_africa_202606",
-        "matched_text": "Nyamakop",
+        "place_reason": "game-allの未解決・解決済み出力で『South African studio makes waves』『top South African studio』『new South African video game』がRelooted系の記事として現れており、Relootedは南アフリカのスタジオNyamakop開発として確認できるため、南アフリカ一般ではなくNyamakop/Relootedとして扱う（一致語: Relooted）",
+        "confidence": 0.78,
+        "rule_id": "observed_nyamakop_relooted_south_africa_202606",
+        "matched_text": "Relooted",
         "match_source": "known_place_title"
       }
     },
@@ -1064,8 +1496,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          78.9629,
-          20.5937
+          73.8567,
+          18.5204
         ]
       },
       "properties": {
@@ -1073,16 +1505,16 @@
         "source": "Newspatrolling.com",
         "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZFo1cjVnZzRhVHNieUUwMzZtNFRQdVlMaGFqRnZ1enZJSlZhd1FzUERuZDdkdVhfNkFOdGx3bDVUN0xOYVd0ZW9JOFpkSXRDVHNqWlpwLTF3VEhiU3NHVmw4d3pWQmJJOTFydkJoa3BTTXd4elFWRExvUHFGWlBkbVFmbGIwTGJVZHJoajYwNlkxOER6ekxpbGl2ZFRWeTlRd05RUFZtSjhqLVBxNFM1Z2hkRVRtc1lVM2xOTDlwR1BuN1VQX3VhcU5NamVpbzA?oc=5",
         "published_at": "2026-06-04T07:00:00+00:00",
-        "representative_place": "India Games Showcase",
-        "place_label": "インド",
-        "sort_place_label": "インド",
-        "geocode_query": "India",
-        "place_type": "showcase_region",
-        "location_precision": "country",
-        "place_reason": "未解決記事のタイトル・summaryに『India Games Showcase』とあり、インドのゲーム紹介枠として国単位に置く（一致語: NODWIN Gaming and Nodding Heads Games Partner with Summer Game Fest）",
-        "confidence": 0.7,
-        "rule_id": "observed_india_games_showcase_202606",
-        "matched_text": "NODWIN Gaming and Nodding Heads Games Partner with Summer Game Fest",
+        "representative_place": "Nodding Heads Games",
+        "place_label": "インド-マハーラーシュトラ州-プネー",
+        "sort_place_label": "インド-マハーラーシュトラ州-プネー",
+        "geocode_query": "Pune Maharashtra India",
+        "place_type": "studio_site",
+        "location_precision": "city",
+        "place_reason": "Nodding Heads GamesまたはRaji系の記事は、インド一般ではなく同スタジオの所在地であるプネーに置く（一致語: Nodding Heads Games）",
+        "confidence": 0.82,
+        "rule_id": "observed_nodding_heads_games_pune_202606",
+        "matched_text": "Nodding Heads Games",
         "match_source": "known_place_title"
       }
     },
@@ -1091,8 +1523,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          78.9629,
-          20.5937
+          73.8567,
+          18.5204
         ]
       },
       "properties": {
@@ -1100,16 +1532,16 @@
         "source": "IT Voice Media",
         "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWGl3WjU4N1BfV2hlQ0dybkIzU2ZBSjdabXhXTEVNMklHOUY5aWRXelBqNUpnbWJhSDlFeGxILUNNY0VaQjE0bTZIRmdGZ3lfbGZINUVtWkRSZkZtVlkwSFNYUlVrTkVzdEEwNTVlWjRla00ySGVRVkowTHJKaGNseGJmYjdzZEJMbDNRLWNibTBxQ29vSTNGQlZ3OHdtWmhlM20yMUNrS1dzSkZvcUJxT3g1aGRBNVFsNGlULWRVOEpvYlFSLXFNYg?oc=5",
         "published_at": "2026-06-04T06:11:54+00:00",
-        "representative_place": "India Games Showcase",
-        "place_label": "インド",
-        "sort_place_label": "インド",
-        "geocode_query": "India",
-        "place_type": "showcase_region",
-        "location_precision": "country",
-        "place_reason": "未解決記事のタイトル・summaryに『India Games Showcase』とあり、インドのゲーム紹介枠として国単位に置く（一致語: NODWIN Gaming and Nodding Heads Games Partner with Summer Game Fest）",
-        "confidence": 0.7,
-        "rule_id": "observed_india_games_showcase_202606",
-        "matched_text": "NODWIN Gaming and Nodding Heads Games Partner with Summer Game Fest",
+        "representative_place": "Nodding Heads Games",
+        "place_label": "インド-マハーラーシュトラ州-プネー",
+        "sort_place_label": "インド-マハーラーシュトラ州-プネー",
+        "geocode_query": "Pune Maharashtra India",
+        "place_type": "studio_site",
+        "location_precision": "city",
+        "place_reason": "Nodding Heads GamesまたはRaji系の記事は、インド一般ではなく同スタジオの所在地であるプネーに置く（一致語: Nodding Heads Games）",
+        "confidence": 0.82,
+        "rule_id": "observed_nodding_heads_games_pune_202606",
+        "matched_text": "Nodding Heads Games",
         "match_source": "known_place_title"
       }
     },
@@ -1253,6 +1685,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "title": "Ukraine’s Video Game Industry Is a Soft Power Superweapon - uatv.ua",
+        "source": "uatv.ua",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSi1vdVJHd0xobXZFWU5IVGNZczJkRk1xMkxzMTRrZTdLWTJ3cm56bTlEazQxekUyek04ZmFqd2lIMkxFVkNYVWYwdlZWMzF6VXJ2M1NndUFfV3hObjN3ZzBkcXhHMDliU2lTTnp4ZzRlSzZWNzk3TXR3akl1YjZCQWZXVQ?oc=5",
+        "published_at": "2026-05-18T07:00:00+00:00",
+        "representative_place": "Ukraine video game industry",
+        "place_label": "ウクライナ",
+        "sort_place_label": "ウクライナ",
+        "geocode_query": "Ukraine",
+        "place_type": "industry_region",
+        "location_precision": "country",
+        "place_reason": "未解決記事のタイトルに『Ukraine’s Video Game Industry』とあり、ウクライナのゲーム産業を扱う記事として国単位に置く（一致語: Ukraine’s Video Game Industry）",
+        "confidence": 0.78,
+        "rule_id": "observed_ukraine_video_game_industry_202605",
+        "matched_text": "Ukraine’s Video Game Industry",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           33.0226,
           34.7071
         ]
@@ -1361,33 +1820,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          22.9375,
-          -30.5595
-        ]
-      },
-      "properties": {
-        "title": "South African studio makes waves with futuristic heist game about reclaiming looted artefacts - News24",
-        "source": "News24",
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOOEVEeFNJdEJqbHRjWmwxckFoemdrb1lidHdrYmF1cDdpMUhyUno5cnJKVmh6dWl3V1lVSWgzSjhGTWljZkhuMzRfQW5RV2ROZ2VKTlRnQUVidTZiRWtpNkE3ZHNtdHdfVy11bXIxVWxOdTBMLUlVTUYteFplcjcwc0NPUmpiNlJYeTd5dU5SNFMwT1RTSFRWVi0wSGUxbkFUdkNKaUFqNGNaeVVhcXpnWnZQS0dRbDZwQks3SXZSblFtVDVEWHFEeTFWcldoakR3QUxtMng4NEExOTRsS3c?oc=5",
-        "published_at": "2026-04-25T07:00:00+00:00",
-        "representative_place": "South African games industry",
-        "place_label": "南アフリカ",
-        "sort_place_label": "南アフリカ",
-        "geocode_query": "South Africa",
-        "place_type": "industry_region",
-        "location_precision": "country",
-        "place_reason": "未解決記事に『SAʼs gaming landscape』『South Africa’s R7bn gaming industry』『South African studio』など南アフリカのゲーム産業が明示されているため国単位に置く（一致語: South African studio makes waves）",
-        "confidence": 0.64,
-        "rule_id": "observed_south_africa_gaming_landscape_202604",
-        "matched_text": "South African studio makes waves",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           121.774,
           12.8797
         ]
@@ -1407,33 +1839,6 @@
         "confidence": 0.72,
         "rule_id": "observed_filipino_sepak_takraw_game_202604",
         "matched_text": "Super Smash Bros. meets Sepak Takraw",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          17.6791,
-          1.6508
-        ]
-      },
-      "properties": {
-        "title": "\"Ads remain the most common and viable monetisation model across Africa's gaming markets today\" - Pocket Gamer.biz",
-        "source": "Pocket Gamer.biz",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQmtWZ3pLVlNac1ZqTEJpLUQ0a0c5N2RzYTRqLTFvMGdvbm9NVWh3THdBN3IxVHRLeTdTOXRPUjFhYlZXNndWUGdtVFo4SUYxaF9hMFdocm1QOTdnTDlmYU9IWXZtSEp4c20tUld4TjQ0azhYaEdtRkFBaUs4a2p6UTVLVlhTQ2dXZXhPVHJjOHBwZjByNm13bFFvUzJUSVBHTU5IcTk3R2lfM21lVXRUU0NGVGhaXzQwU1ZDRWRB?oc=5",
-        "published_at": "2026-04-06T07:00:00+00:00",
-        "representative_place": "Africa games market",
-        "place_label": "アフリカ",
-        "sort_place_label": "アフリカ",
-        "geocode_query": "Africa",
-        "place_type": "industry_region",
-        "location_precision": "continent_region",
-        "place_reason": "未解決記事のタイトルにAfrica全体のゲーム市場・産業が明示されており、特定国ではなくアフリカ地域の話題として地域代表点に置く（一致語: Africa's gaming markets）",
-        "confidence": 0.56,
-        "rule_id": "observed_africa_gaming_market_202606",
-        "matched_text": "Africa's gaming markets",
         "match_source": "known_place_title"
       }
     },
@@ -1474,33 +1879,6 @@
         ]
       },
       "properties": {
-        "title": "Game on! Why a fast, reliable fibre internet connection is key to the success of SAʼs gaming landscape - ITWeb",
-        "source": "ITWeb",
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQdURaQTF1NG5acHZnLVh5SlR2TlAxWXAyTkJzMUgyYlliZHQ3SmhEQmJ2QXVtekQ4SUlDOEtMdUJ1X2tBN2FxNDgyWUN5dEZaZHlkajNfcHRSdUZVajNfQUFuUlBPMl9xNWhQelRrNTlfd3dZcUZQVE1GM0dzNjF0NVpPcHExUm1rUWtHdDBGV1Bvanc3UUx0ZEZWdEd6TURXVUlteGhJWkdOamlVVUZQVFhTaXU1eGlRV0lkdVB3WjgxbXU4QWo5UERDcFR4Q2xVNXFfOEFRckNrLTRjQUNQX213?oc=5",
-        "published_at": "2026-04-01T07:00:00+00:00",
-        "representative_place": "South African games industry",
-        "place_label": "南アフリカ",
-        "sort_place_label": "南アフリカ",
-        "geocode_query": "South Africa",
-        "place_type": "industry_region",
-        "location_precision": "country",
-        "place_reason": "未解決記事に『SAʼs gaming landscape』『South Africa’s R7bn gaming industry』『South African studio』など南アフリカのゲーム産業が明示されているため国単位に置く（一致語: SAʼs gaming landscape）",
-        "confidence": 0.64,
-        "rule_id": "observed_south_africa_gaming_landscape_202604",
-        "matched_text": "SAʼs gaming landscape",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.9375,
-          -30.5595
-        ]
-      },
-      "properties": {
         "title": "Inside South Africa’s R7bn gaming industry, and how Raymond Ledwaba is trying to change it - EWN",
         "source": "EWN",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQ2h1STVRc1hWeEJleHBWYVJHZGpJcWJTcThSZllNd0RBU21nUG9VTmhHNTVZWTRiY2V5RTNyU3hZSk5RTjlQaEo2RUZkZUM2TkVob2s3WnF3T1dUZmNaVjBUbm4zRlVVZlNsNmJjb0dkM0laUEJxZGJUN1dfbVp5WFhfZUk4MXVtMWluWlFJX296cDhHaW9VZG84NHBucnpXaDhWbVd5bUJUZ2REMGRLQWkxbmJTLWxnMVozUEVoZw?oc=5",
@@ -1511,8 +1889,8 @@
         "geocode_query": "South Africa",
         "place_type": "industry_region",
         "location_precision": "country",
-        "place_reason": "未解決記事に『SAʼs gaming landscape』『South Africa’s R7bn gaming industry』『South African studio』など南アフリカのゲーム産業が明示されているため国単位に置く（一致語: South Africa’s R7bn gaming industry）",
-        "confidence": 0.64,
+        "place_reason": "未解決記事に『SAʼs gaming landscape』または『South Africa’s R7bn gaming industry』と明示される場合のみ、南アフリカのゲーム産業全体の記事として国単位に置く。『South African studio』のように開発会社が主語になり得る語では一致させない（一致語: South Africa’s R7bn gaming industry）",
+        "confidence": 0.58,
         "rule_id": "observed_south_africa_gaming_landscape_202604",
         "matched_text": "South Africa’s R7bn gaming industry",
         "match_source": "known_place_title"
@@ -1555,74 +1933,20 @@
         ]
       },
       "properties": {
-        "title": "What's behind the big reaction to a new South African video game? - CBC",
-        "source": "CBC",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQnJVcUdvbEhLM3Z5ZDJuQ1lZVHBnczJwTHdBa2czSVB4c2lIMjdmd3VkcktnTFhoaG9jNGxGWHl6am1BQ1pjaVBMYXFYMzQxZkpjc0J2Z2M4MXlvNGtZY1VQcUdLa2RSOF8tbzRUWnFRT3Y2bElZS2hNS1lEVTVYc3pzdGlVYjh0SXVCTnF4dGR6b1d5Yl9pcXhyR0JKa0lQLWdZZURzNVRaTjB5?oc=5",
-        "published_at": "2026-03-18T07:00:00+00:00",
-        "representative_place": "South African games industry",
-        "place_label": "南アフリカ",
-        "sort_place_label": "南アフリカ",
-        "geocode_query": "South Africa",
-        "place_type": "industry_region",
-        "location_precision": "country",
-        "place_reason": "未解決記事に『SAʼs gaming landscape』『South Africa’s R7bn gaming industry』『South African studio』など南アフリカのゲーム産業が明示されているため国単位に置く（一致語: new South African video game）",
-        "confidence": 0.64,
-        "rule_id": "observed_south_africa_gaming_landscape_202604",
-        "matched_text": "new South African video game",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.9375,
-          -30.5595
-        ]
-      },
-      "properties": {
         "title": "Bad news about new video game from top South African studio - MyBroadband",
         "source": "MyBroadband",
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWWRVTlE1eW9VeDVGckFuMTRnX2hNOUtHWlJQZVg3dlBfNGdhUTVTajFSZmZjeXZHM3A0Z19RaDY5QV9oRXhwT3NrNTYwMEhvZHRHTW1fTlVLY1VsX2VRTVJ6d0lGMUlsa2pIZFdYVHRQdXBRZXk5N1FkRVJhM0lTa0lZMkwtTEROVjN4aU03X184MnhZTjRpRER4NklGajJLZHAtMFRnMGR4bmUyTnc?oc=5",
         "published_at": "2026-02-21T08:00:00+00:00",
-        "representative_place": "South African games industry",
-        "place_label": "南アフリカ",
-        "sort_place_label": "南アフリカ",
-        "geocode_query": "South Africa",
-        "place_type": "industry_region",
-        "location_precision": "country",
-        "place_reason": "未解決記事に『SAʼs gaming landscape』『South Africa’s R7bn gaming industry』『South African studio』など南アフリカのゲーム産業が明示されているため国単位に置く（一致語: top South African studio）",
-        "confidence": 0.64,
-        "rule_id": "observed_south_africa_gaming_landscape_202604",
-        "matched_text": "top South African studio",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.9375,
-          -30.5595
-        ]
-      },
-      "properties": {
-        "title": "Video game Relooted tasks you with reclaiming African artifacts in museums - CBC",
-        "source": "CBC",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdEJpb19Sd0o1RDFyLTdLNFgwZXc3cE5WLThuU3ZOX3U0VDBLX3JwbXJJZ3VsM1UxRDNhMGRDd3E5cVpRUk95emNYV3hnQzFCWnhoQlI1ZmQxdERYdVpMSy1TOVhYb0hJNXFIenlsU1VFcGJld0p4WmN5aXBGeFlVRTZCZkhSUQ?oc=5",
-        "published_at": "2026-02-10T08:00:00+00:00",
-        "representative_place": "South African studio Nyamakop",
+        "representative_place": "South African studio Nyamakop / Relooted",
         "place_label": "南アフリカ",
         "sort_place_label": "南アフリカ",
         "geocode_query": "South Africa",
         "place_type": "studio_region",
         "location_precision": "country",
-        "place_reason": "未解決記事のタイトルに『South African Studio Nyamakop』とあり、記事本文でも南アフリカのスタジオとして扱われているため国単位に置く（一致語: Relooted）",
-        "confidence": 0.64,
-        "rule_id": "observed_nyamakop_south_africa_202606",
-        "matched_text": "Relooted",
+        "place_reason": "game-allの未解決・解決済み出力で『South African studio makes waves』『top South African studio』『new South African video game』がRelooted系の記事として現れており、Relootedは南アフリカのスタジオNyamakop開発として確認できるため、南アフリカ一般ではなくNyamakop/Relootedとして扱う（一致語: top South African studio）",
+        "confidence": 0.78,
+        "rule_id": "observed_nyamakop_relooted_south_africa_202606",
+        "matched_text": "top South African studio",
         "match_source": "known_place_title"
       }
     },
@@ -1673,8 +1997,8 @@
         "geocode_query": "India",
         "place_type": "cultural_industry_region",
         "location_precision": "country",
-        "place_reason": "未解決記事のタイトルに『Indian video games』とあり、インド産ゲームの神話表現を扱う記事としてインドに置く（一致語: Indian video games finally bring mythology into storyline）",
-        "confidence": 0.64,
+        "place_reason": "未解決記事のタイトルに『Indian video games finally bring mythology into storyline』と明示される場合のみ、インド産ゲームの神話表現を扱う記事としてインドに置く。『Indian video games』単体では広すぎるため一致させない（一致語: Indian video games finally bring mythology into storyline）",
+        "confidence": 0.6,
         "rule_id": "observed_indian_video_games_mythology_202601",
         "matched_text": "Indian video games finally bring mythology into storyline",
         "match_source": "known_place_title"
@@ -1685,8 +2009,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          78.9629,
-          20.5937
+          -63.5752,
+          44.6488
+        ]
+      },
+      "properties": {
+        "title": "Ubisoft shuts down Halifax mobile gaming studio; affected employees hint at union busting - The Times of India",
+        "source": "The Times of India",
+        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOaWlRNmkxOG9laDFpRFJqSEIzZUpqclJwNm5Ga3NwN016c0F3Z0RYSFMzWXlvWmNqYko0dFdLTVE3cnYwRDVXaEpZWDZmYU5rZ0ZjWDVzaVVtajFTTGFJbkxYTjE2Ukg0NnNGcm9qaXBKYldXSzZBSllWLXUwX1ZyREp6ZXZaWm1FM3QwcHMwdUhhZ3dkZVJyY1BDTWRPVWpwajhpaWlRTTFMQnNSSFVKckdOekhQMl9XbElBTS00VGlNLW1rdjh4X19NRDJ0TGJUNWpwR25TNzdXMEx2UVZpeGVPcGZjTl80WkM0NWplUGNzUHBjeXlWWWE2N2jSAYICQVVfeXFMTU1DdVMxTnJuc3hfT1REZWxmUDRYc2lYa193ZTJaSEgzYlBxSDVEV3ZQclYtX1owQU5yb3o0X1lQSnZTUEs4azNiMmZBT0JIUzNVWlFHTTU5eFRJdEQ4V3lGVUhiVThTaEtULTNUVkZBQ0Q1ZENzOHNLZnlfUDlYNHR3bmlYc043VlQ4ZmNuM2JJRXBGdExiRUJGRktqZnFqYTVVa19OcUttRVhuR2pYaFIzQXFjanljc1pCY0JJUjRSdXRxRHZDeGRjemwzSGhVTFdjcThrRm10bWFMUUVQMGdqRHBWR1cwMWhiOVk1eUI2RGpEV2hTaHdwQVo1WDI1U0pn?oc=5",
+        "published_at": "2026-01-08T08:00:00+00:00",
+        "representative_place": "Halifax mobile gaming studio closure",
+        "place_label": "カナダ-ノバスコシア州-ハリファックス",
+        "sort_place_label": "カナダ-ノバスコシア州-ハリファックス",
+        "geocode_query": "Halifax Nova Scotia Canada",
+        "place_type": "studio_site",
+        "location_precision": "city",
+        "place_reason": "未解決記事のタイトルに『Halifax mobile gaming studio』と明示されているため、閉鎖対象のスタジオ所在地としてハリファックスに置く（一致語: Ubisoft shuts down Halifax mobile gaming studio）",
+        "confidence": 0.86,
+        "rule_id": "observed_ubisoft_halifax_closure_202601",
+        "matched_text": "Ubisoft shuts down Halifax mobile gaming studio",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5946,
+          12.9716
         ]
       },
       "properties": {
@@ -1694,16 +2045,16 @@
         "source": "Moneycontrol.com",
         "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQNWZkamlhSjdhVVA0Z1owUFMyYWduRjNmX3JOazNTU0tFTmpDQ1pRMlNKUk9iRktfUEtoaFhYYmNTTjR3MVJ4Z3pYMnZfbzVyX1pfMUh6cFhnOHZaMGRaYlVwc2ZrOUFnM1JpdVU3dzBlREJ3aTlDcnE5Qy1KTUVKTEtpekswVFRsTk9Ra1BlbXc1dU9ERHJIWkZyUFFkeWNOYUJXY0VEMks4bFBUWlZITmZUbE5DcGZYbmkwcDh1Y1FxekxmRTdzSWVNaU15UmJuYnlJd3JKY3JsT3NaODdBLXd30gHnAUFVX3lxTE9NYVBYOXQ0bi0tZnVuTVRmdllmWlBBN3NiaWJyZHM1eC1BNVo0UUJ3Q2JtVGNtOGVtS0YxbzBNUks4dkdpbHB1a05YMC1hdHhES2JLTndxXzZTNzVJcThZaUUyM0ZMR1R4SHRGVVkwQjBYRjluQ3AyQnV3WUNDX01nNHZDcW92YnQ5VGhKc2hLbGFrdTJHb3l6OTVGMDFGVi0xQ1hZZmY2d0VDMHMyMWZ4ZDBpSlhXZnJaNHJDM0Q3a293NjdMWkFnZERKVXpFaGpYdzk4eGoyNVhyQWRLN3p6Y21WYm93QQ?oc=5",
         "published_at": "2025-10-14T07:00:00+00:00",
-        "representative_place": "India AAA game development discussion",
-        "place_label": "インド",
-        "sort_place_label": "インド",
-        "geocode_query": "India",
-        "place_type": "industry_region",
-        "location_precision": "country",
-        "place_reason": "未解決記事のタイトルに『India Can Build AAA Hits』とあり、インドのAAAゲーム開発可能性を扱う記事としてインドに置く（一致語: Unleash the Avatar）",
-        "confidence": 0.62,
-        "rule_id": "observed_unleash_avatar_india_202606",
-        "matched_text": "Unleash the Avatar",
+        "representative_place": "Aeos Games / Unleash the Avatar",
+        "place_label": "インド-カルナータカ州-ベンガルール",
+        "sort_place_label": "インド-カルナータカ州-ベンガルール",
+        "geocode_query": "Bengaluru Karnataka India",
+        "place_type": "studio_site",
+        "location_precision": "city",
+        "place_reason": "game-all出力で『Unleash the Avatar』がインド一般に吸われていたが、記事タイトルはAeos Gamesの作品記事であり、Aeos Gamesはベンガルール拠点の開発会社として確認できるためベンガルールに置く（一致語: Varun Mayya's Aeos Games）",
+        "confidence": 0.84,
+        "rule_id": "observed_aeos_games_unleash_avatar_bengaluru_202606",
+        "matched_text": "Varun Mayya's Aeos Games",
         "match_source": "known_place_title"
       }
     },
@@ -1739,60 +2090,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          78.9629,
-          20.5937
-        ]
-      },
-      "properties": {
-        "title": "Top Indian Video Games: Exploring the Best Creations - Maps of India",
-        "source": "Maps of India",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUEItS1JlVDhhQzhVVEdpdUVzMTVhY1RPdk4wN2JKbThZbnM3aHdSSFUzN2ZtR0laRFlMNVpXenZ6aVJXRWtQUFdPSTdtbUxsSGhfM21sVDY2ZWw1dDJPYURrdWJrbzliMDh2bXIyNnVId3NWdUlhMFJfZVVzSV81UjNGUHNVUnJ1bHNrQVEzdko?oc=5",
-        "published_at": "2025-09-30T07:00:00+00:00",
-        "representative_place": "Indian video game storytelling",
-        "place_label": "インド",
-        "sort_place_label": "インド",
-        "geocode_query": "India",
-        "place_type": "cultural_industry_region",
-        "location_precision": "country",
-        "place_reason": "未解決記事のタイトルに『Indian video games』とあり、インド産ゲームの神話表現を扱う記事としてインドに置く（一致語: Indian video games）",
-        "confidence": 0.64,
-        "rule_id": "observed_indian_video_games_mythology_202601",
-        "matched_text": "Indian video games",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.9375,
-          -30.5595
-        ]
-      },
-      "properties": {
-        "title": "Relooted: African Gamers Steal Back Stolen History - EBONY Magazine",
-        "source": "EBONY Magazine",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBHVWg1R3h1cnN6dDZqSm9QX2t0OTdsVnpvV2R2NmxDbW0xN1lKTFhHRTFJNWJQa011amhtbkJGWFRybmNBNHZKUWFtQmdXQXVhdjZQc3NqOUFDVEs2cDVSWkt5bWRmZw?oc=5",
-        "published_at": "2025-07-09T07:00:00+00:00",
-        "representative_place": "South African studio Nyamakop",
-        "place_label": "南アフリカ",
-        "sort_place_label": "南アフリカ",
-        "geocode_query": "South Africa",
-        "place_type": "studio_region",
-        "location_precision": "country",
-        "place_reason": "未解決記事のタイトルに『South African Studio Nyamakop』とあり、記事本文でも南アフリカのスタジオとして扱われているため国単位に置く（一致語: Relooted）",
-        "confidence": 0.64,
-        "rule_id": "observed_nyamakop_south_africa_202606",
-        "matched_text": "Relooted",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           108.2772,
           14.0583
         ]
@@ -1812,33 +2109,6 @@
         "confidence": 0.76,
         "rule_id": "observed_vietnam_gameverse_2025",
         "matched_text": "Country’s Video Games Industry",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.9375,
-          -30.5595
-        ]
-      },
-      "properties": {
-        "title": "Rescue African artifacts from colonizers' museums in the heist game Relooted - Engadget",
-        "source": "Engadget",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcmJ1Z1hQeHFZZVUyZzdpbENWQlVpUDJFUW95S1ZlWTRjTEhtT2ctdXpjcktqR1pHenVXVVFKV29Ic29wbVh0c0g1NHNtVnpqbTEyYW84Ui12bmNnSmlMaFprNC0yRnItYVg4aUl3ZnlSTFZGZklEY01Eby10UDY4dWNpdXdkbEYyMFJFbmJHaFZMM3N1UGpXc0lDQlBSRkF2d1pmOG9HcjZnOFI3dVUwemMtOF9fVzNLVHNDbW1iUQ?oc=5",
-        "published_at": "2025-06-06T07:00:00+00:00",
-        "representative_place": "South African studio Nyamakop",
-        "place_label": "南アフリカ",
-        "sort_place_label": "南アフリカ",
-        "geocode_query": "South Africa",
-        "place_type": "studio_region",
-        "location_precision": "country",
-        "place_reason": "未解決記事のタイトルに『South African Studio Nyamakop』とあり、記事本文でも南アフリカのスタジオとして扱われているため国単位に置く（一致語: Relooted）",
-        "confidence": 0.64,
-        "rule_id": "observed_nyamakop_south_africa_202606",
-        "matched_text": "Relooted",
         "match_source": "known_place_title"
       }
     },
@@ -1901,8 +2171,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          78.9629,
-          20.5937
+          77.5946,
+          12.9716
         ]
       },
       "properties": {
@@ -1910,43 +2180,16 @@
         "source": "LinkedIn",
         "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQm5sdnVrQ2ZMVDdBSXpNQ09rQ3ZuQ182VVFKblJOSFo0aXI3MzV5cTFZTmpPT3QzdEFjM2RHZk9qbFRXUU9RNGlpZHU1QXYteDJSbXh5TUlZbnB3U2lISXVSdmFCWkVlTVBDLVVISEstRENYUThRdXFwZWNqc2RrMTdsUkNZeks2RXdScy1TdTdiMVJlNFdsbmNIeW5RV3UxRVQzMVllSWtxVW9jS2tJQmVwRG8wcDVub3d3SlhRUEx4WW0wX2VDRzRidEE1eDltSWc?oc=5",
         "published_at": "2025-04-14T07:00:00+00:00",
-        "representative_place": "India AAA game development discussion",
-        "place_label": "インド",
-        "sort_place_label": "インド",
-        "geocode_query": "India",
-        "place_type": "industry_region",
-        "location_precision": "country",
-        "place_reason": "未解決記事のタイトルに『India Can Build AAA Hits』とあり、インドのAAAゲーム開発可能性を扱う記事としてインドに置く（一致語: Unleash the Avatar）",
-        "confidence": 0.62,
-        "rule_id": "observed_unleash_avatar_india_202606",
+        "representative_place": "Aeos Games / Unleash the Avatar",
+        "place_label": "インド-カルナータカ州-ベンガルール",
+        "sort_place_label": "インド-カルナータカ州-ベンガルール",
+        "geocode_query": "Bengaluru Karnataka India",
+        "place_type": "studio_site",
+        "location_precision": "city",
+        "place_reason": "game-all出力で『Unleash the Avatar』がインド一般に吸われていたが、記事タイトルはAeos Gamesの作品記事であり、Aeos Gamesはベンガルール拠点の開発会社として確認できるためベンガルールに置く（一致語: Unleash the Avatar）",
+        "confidence": 0.84,
+        "rule_id": "observed_aeos_games_unleash_avatar_bengaluru_202606",
         "matched_text": "Unleash the Avatar",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          78.9629,
-          20.5937
-        ]
-      },
-      "properties": {
-        "title": "GDC 2025: The Indian Video Games Industry Was Represented by… Real-Money Gaming Again - IGN India",
-        "source": "IGN India",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNU1Ia0x4M1FIZThqa28zLVdLcmtTYTRSUHF0ZDE1dTU4TzlpOHVGT3dLOXBiWklOcHk0WWdVWkc1Si1tM1BNY2xRYXk1cFdIMFhmZG56cGRmQ0dwNjd2Y1hZcDRfS3BuSklXU1FYbWVQdHltTXFocTZWMkFaQlF6TkxWaVRUWjNlX3FOYmlmcF83LXI2TXlCSWpmelpKSThWZ3hkZkJiOEV5RVp2ekFpSTFYUlFRc1dqV2ZwMmRqMzAyNWw2?oc=5",
-        "published_at": "2025-03-21T07:00:00+00:00",
-        "representative_place": "Indian video game storytelling",
-        "place_label": "インド",
-        "sort_place_label": "インド",
-        "geocode_query": "India",
-        "place_type": "cultural_industry_region",
-        "location_precision": "country",
-        "place_reason": "未解決記事のタイトルに『Indian video games』とあり、インド産ゲームの神話表現を扱う記事としてインドに置く（一致語: Indian video games）",
-        "confidence": 0.64,
-        "rule_id": "observed_indian_video_games_mythology_202601",
-        "matched_text": "Indian video games",
         "match_source": "known_place_title"
       }
     },
@@ -2036,6 +2279,60 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          104.1954,
+          35.8617
+        ]
+      },
+      "properties": {
+        "title": "China’s gaming industry comes of age - East Asia Forum",
+        "source": "East Asia Forum",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1xUFdEdkZvLVhTQU56Rk1Qb3ZoVnFVdDk5aXVkQWM2OHE2NGlHUV8zMU5oS201NmtFN2QyS3VaNllpN2REUl9LLUp3Rng2TjVDZDhmenJrbFA1MVM3WGhMWWM1UHBSVGdQR2x2SFFPQzQ2d0x6ZHlwN3pxV1hTUQ?oc=5",
+        "published_at": "2024-11-16T08:00:00+00:00",
+        "representative_place": "Chinese mobile publishers global charts",
+        "place_label": "中国",
+        "sort_place_label": "中国",
+        "geocode_query": "China",
+        "place_type": "industry_region",
+        "location_precision": "country",
+        "place_reason": "game-all未解決記事のタイトル・summaryにChinese publishers / Chinaが明示され、中国系モバイルパブリッシャーの海外展開を扱う記事として中国に置く（一致語: China）",
+        "confidence": 0.72,
+        "rule_id": "observed_chinese_publishers_global_mobile_charts_202606",
+        "matched_text": "China",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1954,
+          35.8617
+        ]
+      },
+      "properties": {
+        "title": "[Big read] Chinese games rake in 100 billion RMB from overseas users - ThinkChina",
+        "source": "ThinkChina",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTEd0bGtMVm1PaWFfTkI2eDdmQ3JIbTg4d3k1ZUZsaFZZYzVKTTNjVEp2Q3hRRkVGb01HeDZqbWJJYVY0cVRjMEFhakVBaG1OV1hxSmdPUkJxNXhWdUtzeTBYVFNEekprVm9rdDBGZDlLNHFieUdNSDZFSW14eHZiQ2hYSUxReU1SLXhDTGpuQVgxSWpiaUlz?oc=5",
+        "published_at": "2024-11-06T08:00:00+00:00",
+        "representative_place": "Chinese mobile publishers global charts",
+        "place_label": "中国",
+        "sort_place_label": "中国",
+        "geocode_query": "China",
+        "place_type": "industry_region",
+        "location_precision": "country",
+        "place_reason": "game-all未解決記事のタイトル・summaryにChinese publishers / Chinaが明示され、中国系モバイルパブリッシャーの海外展開を扱う記事として中国に置く（一致語: China）",
+        "confidence": 0.72,
+        "rule_id": "observed_chinese_publishers_global_mobile_charts_202606",
+        "matched_text": "China",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.009,
           37.3349
         ]
@@ -2109,6 +2406,33 @@
         "confidence": 0.66,
         "rule_id": "apple_cupertino_headquarters",
         "matched_text": "Apple",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          18.5204
+        ]
+      },
+      "properties": {
+        "title": "All About 'Raji: An Ancient Epic' Video Game Played By PM Modi With Gamers - NDTV",
+        "source": "NDTV",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUUtnMnM3S2lWOHZZdXhjRUlycXVBOEotRE1haVNUVXdlNmZCQ0RmRHZES1ktUXVJQWtMYU5vZ1BlNVNJSTJzWmJzR1ZueFNRTGdfRG5vUTVCZ1hMN0dKNlIxUnJCS1JuZ0JDQmV5SS1hbWY1QUpweWdTdm5aR2hDZ2JDU3BsTTFMYlNfQTJSYnFhZUkyT1VrdzU4UGJ5VXFXMDFNREY2TXlkZlBkR3JwdEIwdTAzd3hDblNEREU2b0R6SWlRTHVnY3Nn0gHSAUFVX3lxTFBXWjF2ckFXbmNkVlBNX2NIQjhkdnp6SkZjWlRNTU5JSmNRQjB5bE0xcEg2MFJDWnV4bU1hdG9Gd0dCQVU3aE90bkNrNnhUaUVsNnJ0a05vYlpqSzJPaGtVLTNFblQ0MnFPYWp4M0FZdS1naWlCZmxVZ0wxTEp2MV9reHExWmRrTkxESnFjVHdjc0l3OThfTjI0S1dRNm1ZYVFJWjV6a2laeFA3TktSUENnanh4YmVvRXE0SVVmM2VwWkE0ck0wUDlOTWZfc01rOE9kUQ?oc=5",
+        "published_at": "2024-04-13T07:00:00+00:00",
+        "representative_place": "Nodding Heads Games",
+        "place_label": "インド-マハーラーシュトラ州-プネー",
+        "sort_place_label": "インド-マハーラーシュトラ州-プネー",
+        "geocode_query": "Pune Maharashtra India",
+        "place_type": "studio_site",
+        "location_precision": "city",
+        "place_reason": "Nodding Heads GamesまたはRaji系の記事は、インド一般ではなく同スタジオの所在地であるプネーに置く（一致語: Raji: An Ancient Epic）",
+        "confidence": 0.82,
+        "rule_id": "observed_nodding_heads_games_pune_202606",
+        "matched_text": "Raji: An Ancient Epic",
         "match_source": "known_place_title"
       }
     },
@@ -2198,6 +2522,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          104.1954,
+          35.8617
+        ]
+      },
+      "properties": {
+        "title": "Capcom sees game sales in India passing those in China in decade - The Business Times",
+        "source": "The Business Times",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeWltTk02X0FwVFg0c1NWSl9vbXNMVXdGSmhMUWV4R0FEVHRQbHBfM2xCY3JoNzBzMUdlY0ViVW5Sc0JDV2Q3Qi1RTEFLTUo2a0ZkSUZZcVIzS0pRcEpJejNkZW9DakNmU1N0Si0wdTZNcjRDX1BPSEtRTk9Oek1fQUFVak13cVl3MGhhU0J3bm9nQzdEZ0xpclFzeF9kX0JsWXZ1YmVOR3E0QQ?oc=5",
+        "published_at": "2023-09-25T07:00:00+00:00",
+        "representative_place": "Chinese mobile publishers global charts",
+        "place_label": "中国",
+        "sort_place_label": "中国",
+        "geocode_query": "China",
+        "place_type": "industry_region",
+        "location_precision": "country",
+        "place_reason": "game-all未解決記事のタイトル・summaryにChinese publishers / Chinaが明示され、中国系モバイルパブリッシャーの海外展開を扱う記事として中国に置く（一致語: China）",
+        "confidence": 0.72,
+        "rule_id": "observed_chinese_publishers_global_mobile_charts_202606",
+        "matched_text": "China",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.009,
           37.3349
         ]
@@ -2217,33 +2568,6 @@
         "confidence": 0.66,
         "rule_id": "apple_cupertino_headquarters",
         "matched_text": "Apple",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          17.6791,
-          1.6508
-        ]
-      },
-      "properties": {
-        "title": "Olivier Madiba pioneers the African video game industry - We are Tech",
-        "source": "We are Tech",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZ045cVJnM2VQOXBySDNoZ2VpMDI2ajNjR1ZfQmZoMUZTNVlDamdRa01tSmlaX3oxWUd3Y2NpSWYyUm03ZGhuQXBuUGNnZ2htTzMtNW5WeHl4ekFKZGZJOHZlS2dQRU15SXYyVFNoLUJZbnFSSmRhRTUwaHBhbkhNSXNDMG9QcENBS1hiTkJYaERxdGJIQ01MRHk2cFM5WFplTVFjUU14MHVXQQ?oc=5",
-        "published_at": "2023-05-10T11:10:24+00:00",
-        "representative_place": "Africa games market",
-        "place_label": "アフリカ",
-        "sort_place_label": "アフリカ",
-        "geocode_query": "Africa",
-        "place_type": "industry_region",
-        "location_precision": "continent_region",
-        "place_reason": "未解決記事のタイトルにAfrica全体のゲーム市場・産業が明示されており、特定国ではなくアフリカ地域の話題として地域代表点に置く（一致語: African Video Game Industry）",
-        "confidence": 0.56,
-        "rule_id": "observed_africa_gaming_market_202606",
-        "matched_text": "African Video Game Industry",
         "match_source": "known_place_title"
       }
     },
@@ -2360,6 +2684,114 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          104.1954,
+          35.8617
+        ]
+      },
+      "properties": {
+        "title": "In China, Singapore and South Korea, gaming’s dark side put under spotlight - South China Morning Post",
+        "source": "South China Morning Post",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeHdqWTNBRm9ycl9NdDRLUF9tNnRZRjEyU2VIRHlaTXRMa2prS1dHdUlzTU1HMmdhaFRYZEZsNGtYY2pUbEpsb2dpcTFPQldqanUteUFUeXc4MlVQUGJYMzZRQ3FsZ0pfbkNZRVRVbVhHY056WC1SaVc1VHVFbTRHMmhtbFVfYS1Udjc0MDFhWUs4SkFVWncweFA2Ykt2MFZOQ3dKRzhEeEY2U0pPekJpVEVmemvSAbQBQVVfeXFMTlA4eS1YQnRaRTk3dmR5OVRFOVpqd3EwOVNZZGFxMThiS3FBSFkyWjVPQWY4MktmZjdqT0RLRnh0YlZXTU9pWndKYWlTcXQxQXJDdVJ1Wm4zLWtHbjE0dFFxQ3FBRUQ3WTlvZ2hVbnByTFVjd3dNWG5zcE5jR29uOXlnYVMyelpxWFE2NVFmS20tNVJBTnlPTVVHUFllQW5ObTBNaE9SSnVTbUZkd1pLc0xVR0VB?oc=5",
+        "published_at": "2021-09-10T07:00:00+00:00",
+        "representative_place": "Chinese mobile publishers global charts",
+        "place_label": "中国",
+        "sort_place_label": "中国",
+        "geocode_query": "China",
+        "place_type": "industry_region",
+        "location_precision": "country",
+        "place_reason": "game-all未解決記事のタイトル・summaryにChinese publishers / Chinaが明示され、中国系モバイルパブリッシャーの海外展開を扱う記事として中国に置く（一致語: China）",
+        "confidence": 0.72,
+        "rule_id": "observed_chinese_publishers_global_mobile_charts_202606",
+        "matched_text": "China",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1954,
+          35.8617
+        ]
+      },
+      "properties": {
+        "title": "ByteDance-Tencent feud a boon to small gaming studios - South China Morning Post",
+        "source": "South China Morning Post",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWDk3dzMzNGxDd09aNG1XRVNHMElWVlVUU0d2dTVaUkxyLWwzVnJ2d205UzlaXzNmWnk1bldWdElQQTBHdFdocFRqNmpWbmd3QjU3c3hnOUpEa1R6Ql9SMkJyVEV0SlJZNEdaSWo1OGlFTkV1S2JpZmthbXRDV0JSa2g3OE5LblZVeFBVdWdLdWphcUtBREN4QlQ1NnRzaEdxNTFOR3dzU0hHSk1yLXRUZ1ZMcWdnWV9BanM00gG7AUFVX3lxTE9MZ1RqMWtiLURZUHlwelI2SDUwQ0FYYkxBMVdSYjBDSGs1SXFxSkIwWUZoY3FhcFAyd1pGVUh2OTVVMGZPNENFVnVJZkdKeTVfdUlyRXJfWmdYbnNrb2VCVUFTUEg5LWJNUlU4ejBvcjQ4NW1ET3NLSXo1andBTVV1Wk9BM1hGZkY2TVVXWU1VVjNUVlJ5RUtveko4T3BaMGZOYno1LVMzcVc5WlVta3ZuS0kyLXFELVhVNk0?oc=5",
+        "published_at": "2021-04-21T07:00:00+00:00",
+        "representative_place": "Chinese mobile publishers global charts",
+        "place_label": "中国",
+        "sort_place_label": "中国",
+        "geocode_query": "China",
+        "place_type": "industry_region",
+        "location_precision": "country",
+        "place_reason": "game-all未解決記事のタイトル・summaryにChinese publishers / Chinaが明示され、中国系モバイルパブリッシャーの海外展開を扱う記事として中国に置く（一致語: China）",
+        "confidence": 0.72,
+        "rule_id": "observed_chinese_publishers_global_mobile_charts_202606",
+        "matched_text": "China",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1954,
+          35.8617
+        ]
+      },
+      "properties": {
+        "title": "'ByteDance acquires game studio Moonton at around US$4b' - chinadailyhk",
+        "source": "chinadailyhk",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1kQXVFUkFpY1QzUDFaMkdwbHk4aGUyT2FsVE1MMDktbndpellQUUNkVnM5azRZdU1nN0ZuYVdWYlhwNmlkOTkwZWpldmhDS0wwOWluQUtpUVpfZw?oc=5",
+        "published_at": "2021-03-22T07:00:00+00:00",
+        "representative_place": "Chinese mobile publishers global charts",
+        "place_label": "中国",
+        "sort_place_label": "中国",
+        "geocode_query": "China",
+        "place_type": "industry_region",
+        "location_precision": "country",
+        "place_reason": "game-all未解決記事のタイトル・summaryにChinese publishers / Chinaが明示され、中国系モバイルパブリッシャーの海外展開を扱う記事として中国に置く（一致語: China）",
+        "confidence": 0.72,
+        "rule_id": "observed_chinese_publishers_global_mobile_charts_202606",
+        "matched_text": "China",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1954,
+          35.8617
+        ]
+      },
+      "properties": {
+        "title": "A Malaysian hijabi and a Singlish-speaking robot: inclusive video games - South China Morning Post",
+        "source": "South China Morning Post",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMHNTbEk3SEtGa0p2cWE1T1ZxMVFJYjBHdG11QjdhNnZ3WGIzY3g0Q0NxajZaUERXek9pcHUwMnQxNHZJLURudXlCRHJoUzliN2ltbzJCTkhFcDA0X0hhelpQa0k2RVI4ZlVyQmM0RTBwMUEyNWtaOG43b3Q5YllHOW9ickUtRTJZcVFUWF9pZjU5Q05URGdhSXVSa3V3Q2NVdElBakN3R2UyaHQzN2huRENHc9IBswFBVV95cUxNYnhiV0RtTHRKOE5ZbGU2NTVUUk5KRG50MFlOY3FHY3ZMMDFNVVl0ZnA3ZWpLYW9KLTVwMGJwRXZJdlZCUmlLS0k4cHBtUnUyV2w0ejhuemdjMk1pVFc3Q3JkNlA3RnRmVDZaTmRzZ01aRVhsbzdtQkxETWxBTDB5V0U0WUFXN3Jhc3BvbHRXY2VjU21XVlRfWmRVb0hmNzRXRFNtS1c2WjdKTFk2WVJVaDBuYw?oc=5",
+        "published_at": "2020-09-24T07:00:00+00:00",
+        "representative_place": "Chinese mobile publishers global charts",
+        "place_label": "中国",
+        "sort_place_label": "中国",
+        "geocode_query": "China",
+        "place_type": "industry_region",
+        "location_precision": "country",
+        "place_reason": "game-all未解決記事のタイトル・summaryにChinese publishers / Chinaが明示され、中国系モバイルパブリッシャーの海外展開を扱う記事として中国に置く（一致語: China）",
+        "confidence": 0.72,
+        "rule_id": "observed_chinese_publishers_global_mobile_charts_202606",
+        "matched_text": "China",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           121.0508,
           14.5503
         ]
@@ -2387,6 +2819,114 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          104.1954,
+          35.8617
+        ]
+      },
+      "properties": {
+        "title": "Fantasy game created in Southeast Asia, and inspired by it too – for once - South China Morning Post",
+        "source": "South China Morning Post",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYVB0Zk5LbFlaNFU1RzBIeVJTbmVWMmNnX3dDdXotNk1vNDNYR2tfS0xUbzJUVXh2MWtmZDdKVVlyRlBQRWJTNjNaN0d1WHZ3Qi1hdEk4SjNSYVNxSFVvS3dPUFoxOGhhNXQxeW54bzVWVWUxVUUzRmljbG1ueXVpVEduYnVKZlctcm5mUGRCMktUYVpvb0szZnI5Rk1iSDlfTE0xT25BdkJFOVpYdXhHYUlRUDlDQdIBtgFBVV95cUxOR3pUSnZWSVpWVEh6a3pkWU9hRDNxUjAwblVfUW8zOWhraHAyc2FwaVFMQ0dFM3VVSDRjS0VsOW4tNm9kSmZJOWtJSzdsMHNjN3FEYS04NnBLQXBmSVNoTF8wZFFJZGhXOXlVQWp6LUY3amZRRW5HWHhRTHJ3VHNNU08yUXVEa3AzTllGcGNCR0pYOHd6Nl9kcExZTFNiUWFLUEU1bXFqRVBZN1lKZkFLazlBVWJWdw?oc=5",
+        "published_at": "2020-07-17T07:00:00+00:00",
+        "representative_place": "Chinese mobile publishers global charts",
+        "place_label": "中国",
+        "sort_place_label": "中国",
+        "geocode_query": "China",
+        "place_type": "industry_region",
+        "location_precision": "country",
+        "place_reason": "game-all未解決記事のタイトル・summaryにChinese publishers / Chinaが明示され、中国系モバイルパブリッシャーの海外展開を扱う記事として中国に置く（一致語: China）",
+        "confidence": 0.72,
+        "rule_id": "observed_chinese_publishers_global_mobile_charts_202606",
+        "matched_text": "China",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1954,
+          35.8617
+        ]
+      },
+      "properties": {
+        "title": "【新作情報】事前登録15万突破！中国人Pが語る放置系『無限放置物語』のこだわりとは？ - chinagamenews.net",
+        "source": "chinagamenews.net",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1UT2l3SmFIbUNKRDczbHlYSE5DbjZDbWtxczQ4RDZXenJSZ193aVN2R3V1VnJOd2p6NnNEOFlwM2JBWXJwZUozMTgxdDI0MVhsU3BQbw?oc=5",
+        "published_at": "2020-07-16T07:00:00+00:00",
+        "representative_place": "Chinese mobile publishers global charts",
+        "place_label": "中国",
+        "sort_place_label": "中国",
+        "geocode_query": "China",
+        "place_type": "industry_region",
+        "location_precision": "country",
+        "place_reason": "game-all未解決記事のタイトル・summaryにChinese publishers / Chinaが明示され、中国系モバイルパブリッシャーの海外展開を扱う記事として中国に置く（一致語: China）",
+        "confidence": 0.72,
+        "rule_id": "observed_chinese_publishers_global_mobile_charts_202606",
+        "matched_text": "China",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1954,
+          35.8617
+        ]
+      },
+      "properties": {
+        "title": "Horror video game’s ghosts, demons from Indonesian folklore make it a hit - South China Morning Post",
+        "source": "South China Morning Post",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeFBaWmxPSGJTVGdDazg4Yk5FcEpWLVhSMHZVVm15bUtyLXdhdFJJcS1iYVBGeGwyY3dtYnlYV2FKT2tJQUNuN1lwcjFGS2E0Tk4zaF9nWDhEUmRkV0VnTUdxcHc5RXc0czcwbVgxaW1xdExQR1JkS0lCRzd1dmhPYmRwV0gxajlleHVfdU9kLTh3a3hXTzFjNm9ESTRHX1dtTkpKM0dzNFV2ZkZwZ3pTZXNn0gGyAUFVX3lxTFBZTDF4Q25kcmtOcDBhYlJFbHY3cllCdHdvamtrR2VKcFhwMW9DSGJPeUs4NWFSUnBMcUZzZmU0N1ljYVRQM05TLTBxRDZMUFRzWmVRUmtEcEdzZDYwbjNCaUZnWENHR0RRbnhGbzNMSzAtb3VDaTEtM0JtdEVRdi1MNEtqOTVkaU5YM0NlenBZUjdSdlhleEtPSlpoQlIyazdyRVN5NG03Q2g1NThjbmJueVE?oc=5",
+        "published_at": "2020-06-13T07:00:00+00:00",
+        "representative_place": "Chinese mobile publishers global charts",
+        "place_label": "中国",
+        "sort_place_label": "中国",
+        "geocode_query": "China",
+        "place_type": "industry_region",
+        "location_precision": "country",
+        "place_reason": "game-all未解決記事のタイトル・summaryにChinese publishers / Chinaが明示され、中国系モバイルパブリッシャーの海外展開を扱う記事として中国に置く（一致語: China）",
+        "confidence": 0.72,
+        "rule_id": "observed_chinese_publishers_global_mobile_charts_202606",
+        "matched_text": "China",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1954,
+          35.8617
+        ]
+      },
+      "properties": {
+        "title": "Exclusive | Singapore’s Sea to develop more games, financial services in Southeast Asia expansion - South China Morning Post",
+        "source": "South China Morning Post",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSHBiNE80NXlRaTc5dDhGSWdTeWd4MEV4RDZKTmlPbXBXTV9obDIxYVQ1X0FKNVdyRXZBWVF3T2diMDh1Y3R6R0hIQmw0NjVXcGJzekEyRG5DOHRIZDNXNHFrSi0yUHEyRmNWc0VDbjNRNTF6UFh0cHoyQlpMR2E0MXU3UVQzWUFMSGgxb1dKUkdMeU9pc1ZneVR5WThSVEVlY3FCeU1mVkNEZVBGbzdZT0F3NlpYVlFHZmE2d0Jn0gG-AUFVX3lxTE8xaFpjLXJIN0l2TEFsSWwwcU9mbVNCampwSUM5SXRzVXYxc0hpdHJyaWF0bWJTbkthOUxUazc5NUNKN3oxcVd0U3d0WmVKR0Exb1hxeWFTLVJDQkVOU05fdFFHaGU1RUNlVkJPbElPNXpWMFg4R0QzYk1tdUpTdVZ0OHJLYzRLY2s1OW9XdXByWjBOMUJqWW8zc3RpYkdERHhUMGtlVF9ic3otaGF2SDJfYkF2TUdqdVV0Qi1CcXc?oc=5",
+        "published_at": "2018-06-26T07:00:00+00:00",
+        "representative_place": "Chinese mobile publishers global charts",
+        "place_label": "中国",
+        "sort_place_label": "中国",
+        "geocode_query": "China",
+        "place_type": "industry_region",
+        "location_precision": "country",
+        "place_reason": "game-all未解決記事のタイトル・summaryにChinese publishers / Chinaが明示され、中国系モバイルパブリッシャーの海外展開を扱う記事として中国に置く（一致語: China）",
+        "confidence": 0.72,
+        "rule_id": "observed_chinese_publishers_global_mobile_charts_202606",
+        "matched_text": "China",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.009,
           37.3349
         ]
@@ -2406,6 +2946,33 @@
         "confidence": 0.66,
         "rule_id": "apple_cupertino_headquarters",
         "matched_text": "Apple",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1954,
+          35.8617
+        ]
+      },
+      "properties": {
+        "title": "How Poland turned into a video game powerhouse - South China Morning Post",
+        "source": "South China Morning Post",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQM3Nfa3hieXJFLXFhakhFRVRtNUxob2kzLTRuQWI5Qm40ZUpsR05ZREs5bWEzdnp5aU90VVIyQ1hBWkFJQmpRbGk1aHVtWDJ6MU9mSGh5T0ZBeVFSUFZEdjN4Y2FnaXJSNWZMSEVqTWo0SG9zclRINEZ1X0xrY0Q1OUw3dFlUbXJBYnN2LUJ6czV5bnRGM3d1ZFdKUmhzaDFzaEstby1HaVlSSVlRdGfSAa4BQVVfeXFMUEhxdWhTekxWejMyVmQ5Q3V2MVdLMExJc05aZkY5b0lNcFhIN0VBRGJzOG9ERUxOR1paQ0NubGpTaXhtc1BvM1ZlVF9jT1VPeE05YURrM0VMU3ZVU1d3TWdpNkFXTUJVNjJ6YXZwRVh5YmtaaDROMmxFNDEtaFBfRzg4NlMxQ1FLQVFQcXIzbVVjVll4TnhHYkZzR25IVzJXbExvMmw0U25rZk5PS3ln?oc=5",
+        "published_at": "2015-07-24T07:00:00+00:00",
+        "representative_place": "Chinese mobile publishers global charts",
+        "place_label": "中国",
+        "sort_place_label": "中国",
+        "geocode_query": "China",
+        "place_type": "industry_region",
+        "location_precision": "country",
+        "place_reason": "game-all未解決記事のタイトル・summaryにChinese publishers / Chinaが明示され、中国系モバイルパブリッシャーの海外展開を扱う記事として中国に置く（一致語: China）",
+        "confidence": 0.72,
+        "rule_id": "observed_chinese_publishers_global_mobile_charts_202606",
+        "matched_text": "China",
         "match_source": "known_place_title"
       }
     }
