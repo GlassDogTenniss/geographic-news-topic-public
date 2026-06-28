@@ -1,21 +1,23 @@
 {
   "type": "FeatureCollection",
   "properties": {
-    "created_at": "2026-06-28T16:32:08.618584+00:00",
-    "count": 0,
+    "created_at": "2026-06-28T16:42:59.436324+00:00",
+    "count": 13,
     "stats": {
       "feed_id": "google-news-game-africa-en",
       "feed_label": "Google News: Africa gaming",
       "rss_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Africa&hl=en&gl=ZA&ceid=ZA:en",
       "fetched": 79,
       "filtered": 79,
-      "resolved": 0,
-      "unresolved": 79,
-      "rules": 9,
-      "known_places": 11,
+      "resolved": 13,
+      "unresolved": 66,
+      "rules": 34,
+      "known_places": 36,
       "loaded_data_files": [
         "data/place_rules.json",
-        "data/unresolved_known_places_12.json"
+        "data/unresolved_known_places_12.json",
+        "data/unresolved_known_places_13.json",
+        "data/unresolved_known_places_14.json"
       ],
       "topic_keywords": [
         "game",
@@ -37,5 +39,357 @@
       ]
     }
   },
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.6791,
+          1.6508
+        ]
+      },
+      "properties": {
+        "title": "New market: on the gaming industry global map, Africa is making its move - Telquel.ma",
+        "source": "Telquel.ma",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcDZXN0xncVdNUUJCTDkzN2xtSFpnZVJEOTZNLUFxbmlDMmx4Vmtmc2pnckljT1FUXzkwQkxZMXliZGJ3alQ4aUczMDdVZ0wwS0duSzF2b3hJa0t4c1o4RDNaWmxqMXN3cnI2OE9vRi0zVjJZOHYyTGo1TFBISWcyRHJ3ZGNrYmd2aEVfMzNoMFJWdjZ6dzJTM3paYnZhZzNETE9WUnVBS213UQ?oc=5",
+        "published_at": "2026-06-05T15:48:06+00:00",
+        "representative_place": "Africa games market",
+        "place_label": "アフリカ",
+        "sort_place_label": "アフリカ",
+        "geocode_query": "Africa",
+        "place_type": "industry_region",
+        "location_precision": "continent_region",
+        "place_reason": "未解決記事のタイトルにAfrica全体のゲーム市場・産業が明示されており、特定国ではなくアフリカ地域の話題として地域代表点に置く（一致語: Africa is making its move）",
+        "confidence": 0.56,
+        "rule_id": "observed_africa_gaming_market_202606",
+        "matched_text": "Africa is making its move",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.6791,
+          1.6508
+        ]
+      },
+      "properties": {
+        "title": "Gaming: Africa Plays Its Own Game - Africa News Agency",
+        "source": "Africa News Agency",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9IODJmSXlONXA3TENzeEtHR3F0SzFYYTUwLWZNWS02eFl3OUhQYjdnbm9ic2hSYjRlV29vSTdjNFF1UUN1YkJxYVI5VFJGMThjU2tzMzI3RWpOUzVCemZrdjFlWGtBLXFRUUg1Slp1TldFUQ?oc=5",
+        "published_at": "2026-05-27T03:01:11+00:00",
+        "representative_place": "Africa games market",
+        "place_label": "アフリカ",
+        "sort_place_label": "アフリカ",
+        "geocode_query": "Africa",
+        "place_type": "industry_region",
+        "location_precision": "continent_region",
+        "place_reason": "未解決記事のタイトルにAfrica全体のゲーム市場・産業が明示されており、特定国ではなくアフリカ地域の話題として地域代表点に置く（一致語: Africa Plays Its Own Game）",
+        "confidence": 0.56,
+        "rule_id": "observed_africa_gaming_market_202606",
+        "matched_text": "Africa Plays Its Own Game",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9375,
+          -30.5595
+        ]
+      },
+      "properties": {
+        "title": "South African studio makes waves with futuristic heist game about reclaiming looted artefacts - News24",
+        "source": "News24",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOOEVEeFNJdEJqbHRjWmwxckFoemdrb1lidHdrYmF1cDdpMUhyUno5cnJKVmh6dWl3V1lVSWgzSjhGTWljZkhuMzRfQW5RV2ROZ2VKTlRnQUVidTZiRWtpNkE3ZHNtdHdfVy11bXIxVWxOdTBMLUlVTUYteFplcjcwc0NPUmpiNlJYeTd5dU5SNFMwT1RTSFRWVi0wSGUxbkFUdkNKaUFqNGNaeVVhcXpnWnZQS0dRbDZwQks3SXZSblFtVDVEWHFEeTFWcldoakR3QUxtMng4NEExOTRsS3c?oc=5",
+        "published_at": "2026-04-25T07:00:00+00:00",
+        "representative_place": "South African games industry",
+        "place_label": "南アフリカ",
+        "sort_place_label": "南アフリカ",
+        "geocode_query": "South Africa",
+        "place_type": "industry_region",
+        "location_precision": "country",
+        "place_reason": "未解決記事に『SAʼs gaming landscape』『South Africa’s R7bn gaming industry』『South African studio』など南アフリカのゲーム産業が明示されているため国単位に置く（一致語: South African studio makes waves）",
+        "confidence": 0.64,
+        "rule_id": "observed_south_africa_gaming_landscape_202604",
+        "matched_text": "South African studio makes waves",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.6791,
+          1.6508
+        ]
+      },
+      "properties": {
+        "title": "\"Ads remain the most common and viable monetisation model across Africa's gaming markets today\" - Pocket Gamer.biz",
+        "source": "Pocket Gamer.biz",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQmtWZ3pLVlNac1ZqTEJpLUQ0a0c5N2RzYTRqLTFvMGdvbm9NVWh3THdBN3IxVHRLeTdTOXRPUjFhYlZXNndWUGdtVFo4SUYxaF9hMFdocm1QOTdnTDlmYU9IWXZtSEp4c20tUld4TjQ0azhYaEdtRkFBaUs4a2p6UTVLVlhTQ2dXZXhPVHJjOHBwZjByNm13bFFvUzJUSVBHTU5IcTk3R2lfM21lVXRUU0NGVGhaXzQwU1ZDRWRB?oc=5",
+        "published_at": "2026-04-06T07:00:00+00:00",
+        "representative_place": "Africa games market",
+        "place_label": "アフリカ",
+        "sort_place_label": "アフリカ",
+        "geocode_query": "Africa",
+        "place_type": "industry_region",
+        "location_precision": "continent_region",
+        "place_reason": "未解決記事のタイトルにAfrica全体のゲーム市場・産業が明示されており、特定国ではなくアフリカ地域の話題として地域代表点に置く（一致語: Africa's gaming markets）",
+        "confidence": 0.56,
+        "rule_id": "observed_africa_gaming_market_202606",
+        "matched_text": "Africa's gaming markets",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9375,
+          -30.5595
+        ]
+      },
+      "properties": {
+        "title": "Game on! Why a fast, reliable fibre internet connection is key to the success of SAʼs gaming landscape - ITWeb",
+        "source": "ITWeb",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQdURaQTF1NG5acHZnLVh5SlR2TlAxWXAyTkJzMUgyYlliZHQ3SmhEQmJ2QXVtekQ4SUlDOEtMdUJ1X2tBN2FxNDgyWUN5dEZaZHlkajNfcHRSdUZVajNfQUFuUlBPMl9xNWhQelRrNTlfd3dZcUZQVE1GM0dzNjF0NVpPcHExUm1rUWtHdDBGV1Bvanc3UUx0ZEZWdEd6TURXVUlteGhJWkdOamlVVUZQVFhTaXU1eGlRV0lkdVB3WjgxbXU4QWo5UERDcFR4Q2xVNXFfOEFRckNrLTRjQUNQX213?oc=5",
+        "published_at": "2026-04-01T07:00:00+00:00",
+        "representative_place": "South African games industry",
+        "place_label": "南アフリカ",
+        "sort_place_label": "南アフリカ",
+        "geocode_query": "South Africa",
+        "place_type": "industry_region",
+        "location_precision": "country",
+        "place_reason": "未解決記事に『SAʼs gaming landscape』『South Africa’s R7bn gaming industry』『South African studio』など南アフリカのゲーム産業が明示されているため国単位に置く（一致語: SAʼs gaming landscape）",
+        "confidence": 0.64,
+        "rule_id": "observed_south_africa_gaming_landscape_202604",
+        "matched_text": "SAʼs gaming landscape",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9375,
+          -30.5595
+        ]
+      },
+      "properties": {
+        "title": "Inside South Africa’s R7bn gaming industry, and how Raymond Ledwaba is trying to change it - EWN",
+        "source": "EWN",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQ2h1STVRc1hWeEJleHBWYVJHZGpJcWJTcThSZllNd0RBU21nUG9VTmhHNTVZWTRiY2V5RTNyU3hZSk5RTjlQaEo2RUZkZUM2TkVob2s3WnF3T1dUZmNaVjBUbm4zRlVVZlNsNmJjb0dkM0laUEJxZGJUN1dfbVp5WFhfZUk4MXVtMWluWlFJX296cDhHaW9VZG84NHBucnpXaDhWbVd5bUJUZ2REMGRLQWkxbmJTLWxnMVozUEVoZw?oc=5",
+        "published_at": "2026-03-30T07:00:00+00:00",
+        "representative_place": "South African games industry",
+        "place_label": "南アフリカ",
+        "sort_place_label": "南アフリカ",
+        "geocode_query": "South Africa",
+        "place_type": "industry_region",
+        "location_precision": "country",
+        "place_reason": "未解決記事に『SAʼs gaming landscape』『South Africa’s R7bn gaming industry』『South African studio』など南アフリカのゲーム産業が明示されているため国単位に置く（一致語: South Africa’s R7bn gaming industry）",
+        "confidence": 0.64,
+        "rule_id": "observed_south_africa_gaming_landscape_202604",
+        "matched_text": "South Africa’s R7bn gaming industry",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9375,
+          -30.5595
+        ]
+      },
+      "properties": {
+        "title": "What's behind the big reaction to a new South African video game? - CBC",
+        "source": "CBC",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQnJVcUdvbEhLM3Z5ZDJuQ1lZVHBnczJwTHdBa2czSVB4c2lIMjdmd3VkcktnTFhoaG9jNGxGWHl6am1BQ1pjaVBMYXFYMzQxZkpjc0J2Z2M4MXlvNGtZY1VQcUdLa2RSOF8tbzRUWnFRT3Y2bElZS2hNS1lEVTVYc3pzdGlVYjh0SXVCTnF4dGR6b1d5Yl9pcXhyR0JKa0lQLWdZZURzNVRaTjB5?oc=5",
+        "published_at": "2026-03-18T07:00:00+00:00",
+        "representative_place": "South African games industry",
+        "place_label": "南アフリカ",
+        "sort_place_label": "南アフリカ",
+        "geocode_query": "South Africa",
+        "place_type": "industry_region",
+        "location_precision": "country",
+        "place_reason": "未解決記事に『SAʼs gaming landscape』『South Africa’s R7bn gaming industry』『South African studio』など南アフリカのゲーム産業が明示されているため国単位に置く（一致語: new South African video game）",
+        "confidence": 0.64,
+        "rule_id": "observed_south_africa_gaming_landscape_202604",
+        "matched_text": "new South African video game",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9375,
+          -30.5595
+        ]
+      },
+      "properties": {
+        "title": "Bad news about new video game from top South African studio - MyBroadband",
+        "source": "MyBroadband",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWWRVTlE1eW9VeDVGckFuMTRnX2hNOUtHWlJQZVg3dlBfNGdhUTVTajFSZmZjeXZHM3A0Z19RaDY5QV9oRXhwT3NrNTYwMEhvZHRHTW1fTlVLY1VsX2VRTVJ6d0lGMUlsa2pIZFdYVHRQdXBRZXk5N1FkRVJhM0lTa0lZMkwtTEROVjN4aU03X184MnhZTjRpRER4NklGajJLZHAtMFRnMGR4bmUyTnc?oc=5",
+        "published_at": "2026-02-21T08:00:00+00:00",
+        "representative_place": "South African games industry",
+        "place_label": "南アフリカ",
+        "sort_place_label": "南アフリカ",
+        "geocode_query": "South Africa",
+        "place_type": "industry_region",
+        "location_precision": "country",
+        "place_reason": "未解決記事に『SAʼs gaming landscape』『South Africa’s R7bn gaming industry』『South African studio』など南アフリカのゲーム産業が明示されているため国単位に置く（一致語: top South African studio）",
+        "confidence": 0.64,
+        "rule_id": "observed_south_africa_gaming_landscape_202604",
+        "matched_text": "top South African studio",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9375,
+          -30.5595
+        ]
+      },
+      "properties": {
+        "title": "Video game Relooted tasks you with reclaiming African artifacts in museums - CBC",
+        "source": "CBC",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdEJpb19Sd0o1RDFyLTdLNFgwZXc3cE5WLThuU3ZOX3U0VDBLX3JwbXJJZ3VsM1UxRDNhMGRDd3E5cVpRUk95emNYV3hnQzFCWnhoQlI1ZmQxdERYdVpMSy1TOVhYb0hJNXFIenlsU1VFcGJld0p4WmN5aXBGeFlVRTZCZkhSUQ?oc=5",
+        "published_at": "2026-02-10T08:00:00+00:00",
+        "representative_place": "South African studio Nyamakop",
+        "place_label": "南アフリカ",
+        "sort_place_label": "南アフリカ",
+        "geocode_query": "South Africa",
+        "place_type": "studio_region",
+        "location_precision": "country",
+        "place_reason": "未解決記事のタイトルに『South African Studio Nyamakop』とあり、記事本文でも南アフリカのスタジオとして扱われているため国単位に置く（一致語: Relooted）",
+        "confidence": 0.64,
+        "rule_id": "observed_nyamakop_south_africa_202606",
+        "matched_text": "Relooted",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.6791,
+          1.6508
+        ]
+      },
+      "properties": {
+        "title": "Xsolla Supports Release of “State of the African Video Game Industry 2026” Report - Business Wire",
+        "source": "Business Wire",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRUpaUW1oZ19XT0plRnRiYzE5R0h5ajN0bW5vNUUyQlNvVy11VkI2R0UyS095SnZFdGRQaDBZZ2xOVjRVZ2F2X2tmaW9vNzBJRTlleFg1MXd6RkR5dzJHMktnNDBpdjV2cENmT2pfM2x5c090YTdESFd4TGFmQUtITXhZWGppT2ZEWU9wckxoMUotZG5wdjAxWFBlRG5XYUM4V19GeFZUOC1qYVVwcU1LVWJsQkpESmlPRzQyeS1xajExNjRkc0VfQ0VjUlhaMGdPNnc?oc=5",
+        "published_at": "2026-02-09T08:00:00+00:00",
+        "representative_place": "Africa games market",
+        "place_label": "アフリカ",
+        "sort_place_label": "アフリカ",
+        "geocode_query": "Africa",
+        "place_type": "industry_region",
+        "location_precision": "continent_region",
+        "place_reason": "未解決記事のタイトルにAfrica全体のゲーム市場・産業が明示されており、特定国ではなくアフリカ地域の話題として地域代表点に置く（一致語: African Video Game Industry）",
+        "confidence": 0.56,
+        "rule_id": "observed_africa_gaming_market_202606",
+        "matched_text": "African Video Game Industry",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9375,
+          -30.5595
+        ]
+      },
+      "properties": {
+        "title": "Relooted: African Gamers Steal Back Stolen History - EBONY Magazine",
+        "source": "EBONY Magazine",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBHVWg1R3h1cnN6dDZqSm9QX2t0OTdsVnpvV2R2NmxDbW0xN1lKTFhHRTFJNWJQa011amhtbkJGWFRybmNBNHZKUWFtQmdXQXVhdjZQc3NqOUFDVEs2cDVSWkt5bWRmZw?oc=5",
+        "published_at": "2025-07-09T07:00:00+00:00",
+        "representative_place": "South African studio Nyamakop",
+        "place_label": "南アフリカ",
+        "sort_place_label": "南アフリカ",
+        "geocode_query": "South Africa",
+        "place_type": "studio_region",
+        "location_precision": "country",
+        "place_reason": "未解決記事のタイトルに『South African Studio Nyamakop』とあり、記事本文でも南アフリカのスタジオとして扱われているため国単位に置く（一致語: Relooted）",
+        "confidence": 0.64,
+        "rule_id": "observed_nyamakop_south_africa_202606",
+        "matched_text": "Relooted",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9375,
+          -30.5595
+        ]
+      },
+      "properties": {
+        "title": "Rescue African artifacts from colonizers' museums in the heist game Relooted - Engadget",
+        "source": "Engadget",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcmJ1Z1hQeHFZZVUyZzdpbENWQlVpUDJFUW95S1ZlWTRjTEhtT2ctdXpjcktqR1pHenVXVVFKV29Ic29wbVh0c0g1NHNtVnpqbTEyYW84Ui12bmNnSmlMaFprNC0yRnItYVg4aUl3ZnlSTFZGZklEY01Eby10UDY4dWNpdXdkbEYyMFJFbmJHaFZMM3N1UGpXc0lDQlBSRkF2d1pmOG9HcjZnOFI3dVUwemMtOF9fVzNLVHNDbW1iUQ?oc=5",
+        "published_at": "2025-06-06T07:00:00+00:00",
+        "representative_place": "South African studio Nyamakop",
+        "place_label": "南アフリカ",
+        "sort_place_label": "南アフリカ",
+        "geocode_query": "South Africa",
+        "place_type": "studio_region",
+        "location_precision": "country",
+        "place_reason": "未解決記事のタイトルに『South African Studio Nyamakop』とあり、記事本文でも南アフリカのスタジオとして扱われているため国単位に置く（一致語: Relooted）",
+        "confidence": 0.64,
+        "rule_id": "observed_nyamakop_south_africa_202606",
+        "matched_text": "Relooted",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.6791,
+          1.6508
+        ]
+      },
+      "properties": {
+        "title": "Olivier Madiba pioneers the African video game industry - We are Tech",
+        "source": "We are Tech",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZ045cVJnM2VQOXBySDNoZ2VpMDI2ajNjR1ZfQmZoMUZTNVlDamdRa01tSmlaX3oxWUd3Y2NpSWYyUm03ZGhuQXBuUGNnZ2htTzMtNW5WeHl4ekFKZGZJOHZlS2dQRU15SXYyVFNoLUJZbnFSSmRhRTUwaHBhbkhNSXNDMG9QcENBS1hiTkJYaERxdGJIQ01MRHk2cFM5WFplTVFjUU14MHVXQQ?oc=5",
+        "published_at": "2023-05-10T11:10:24+00:00",
+        "representative_place": "Africa games market",
+        "place_label": "アフリカ",
+        "sort_place_label": "アフリカ",
+        "geocode_query": "Africa",
+        "place_type": "industry_region",
+        "location_precision": "continent_region",
+        "place_reason": "未解決記事のタイトルにAfrica全体のゲーム市場・産業が明示されており、特定国ではなくアフリカ地域の話題として地域代表点に置く（一致語: African Video Game Industry）",
+        "confidence": 0.56,
+        "rule_id": "observed_africa_gaming_market_202606",
+        "matched_text": "African Video Game Industry",
+        "match_source": "known_place_title"
+      }
+    }
+  ]
 }

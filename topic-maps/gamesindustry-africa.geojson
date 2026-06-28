@@ -1,21 +1,23 @@
 {
   "type": "FeatureCollection",
   "properties": {
-    "created_at": "2026-06-28T16:32:08.618584+00:00",
-    "count": 0,
+    "created_at": "2026-06-28T16:42:59.436324+00:00",
+    "count": 7,
     "stats": {
       "feed_id": "gamesindustry-africa",
       "feed_label": "Games Industry Africa",
       "rss_url": "https://gamesindustryafrica.com/feed/",
       "fetched": 10,
       "filtered": 10,
-      "resolved": 0,
-      "unresolved": 10,
-      "rules": 9,
-      "known_places": 11,
+      "resolved": 7,
+      "unresolved": 3,
+      "rules": 34,
+      "known_places": 36,
       "loaded_data_files": [
         "data/place_rules.json",
-        "data/unresolved_known_places_12.json"
+        "data/unresolved_known_places_12.json",
+        "data/unresolved_known_places_13.json",
+        "data/unresolved_known_places_14.json"
       ],
       "topic_keywords": [
         "game",
@@ -32,5 +34,195 @@
       "exclude_keywords": []
     }
   },
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6753,
+          9.082
+        ]
+      },
+      "properties": {
+        "title": "Galaxy Pilgrim: Inside the Nigerian Contributions to Yellow Emperor Games’ Three-Year Passion Project",
+        "source": "Games Industry Africa",
+        "link": "https://gamesindustryafrica.com/2026/06/24/galaxy-pilgrim-inside-the-nigerian-contributions-to-yellow-emperor-games-three-year-passion-project/?utm_source=rss&utm_medium=rss&utm_campaign=galaxy-pilgrim-inside-the-nigerian-contributions-to-yellow-emperor-games-three-year-passion-project",
+        "published_at": "2026-06-24T06:12:48+00:00",
+        "representative_place": "ナイジェリアのゲーム開発者貢献",
+        "place_label": "ナイジェリア",
+        "sort_place_label": "ナイジェリア",
+        "geocode_query": "Nigeria",
+        "place_type": "contributor_region",
+        "location_precision": "country",
+        "place_reason": "未解決記事に『Nigerian contributions』『several Nigerian developers』とあり、作品全体ではなくナイジェリア在住・出身開発者の貢献を扱う記事として国単位に置く（一致語: Nigerian contributions）",
+        "confidence": 0.58,
+        "rule_id": "observed_galaxy_pilgrim_nigerian_contributors_202606",
+        "matched_text": "Nigerian contributions",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4699,
+          50.5039
+        ]
+      },
+      "properties": {
+        "title": "Applications Open for Roots & Pixels Programme Bringing African Women Game Developers to Belgium",
+        "source": "Games Industry Africa",
+        "link": "https://gamesindustryafrica.com/2026/06/19/applications-open-for-roots-pixels-programme-bringing-african-women-game-developers-to-belgium/?utm_source=rss&utm_medium=rss&utm_campaign=applications-open-for-roots-pixels-programme-bringing-african-women-game-developers-to-belgium",
+        "published_at": "2026-06-19T04:38:00+00:00",
+        "representative_place": "Roots & Pixels programme in Belgium",
+        "place_label": "ベルギー",
+        "sort_place_label": "ベルギー",
+        "geocode_query": "Belgium",
+        "place_type": "programme_site",
+        "location_precision": "country",
+        "place_reason": "未解決記事に『programme hosted in Belgium』とあり、南アフリカ・ケニア・ウガンダの女性開発者をベルギーで受け入れるプログラムとして開催国に置く（一致語: Roots & Pixels）",
+        "confidence": 0.7,
+        "rule_id": "observed_roots_pixels_belgium_202606",
+        "matched_text": "Roots & Pixels",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9603,
+          50.9375
+        ]
+      },
+      "properties": {
+        "title": "Arabic Games and Devcom Open Scholarship Applications for North African Developers",
+        "source": "Games Industry Africa",
+        "link": "https://gamesindustryafrica.com/2026/06/17/arabic-games-and-devcom-open-scholarship-applications-for-north-african-developers/?utm_source=rss&utm_medium=rss&utm_campaign=arabic-games-and-devcom-open-scholarship-applications-for-north-african-developers",
+        "published_at": "2026-06-17T03:57:00+00:00",
+        "representative_place": "devcom / gamescom events in Cologne",
+        "place_label": "ドイツ-ノルトライン＝ヴェストファーレン州-ケルン",
+        "sort_place_label": "ドイツ-ノルトライン＝ヴェストファーレン州-ケルン",
+        "geocode_query": "Cologne Germany",
+        "place_type": "event_site",
+        "location_precision": "city",
+        "place_reason": "未解決記事に『North African Developers』向け奨学金とあり、参加先が『events this August in Cologne, Germany』と説明されているためイベント開催地に置く（一致語: North African Developers）",
+        "confidence": 0.72,
+        "rule_id": "observed_arabic_games_devcom_cologne_202606",
+        "matched_text": "North African Developers",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9375,
+          -30.5595
+        ]
+      },
+      "properties": {
+        "title": "South African Studio Nyamakop Earns Games for Change 2026 Nomination for Relooted",
+        "source": "Games Industry Africa",
+        "link": "https://gamesindustryafrica.com/2026/06/15/south-african-studio-nyamakop-earns-games-for-change-2026-nomination-for-relooted/?utm_source=rss&utm_medium=rss&utm_campaign=south-african-studio-nyamakop-earns-games-for-change-2026-nomination-for-relooted",
+        "published_at": "2026-06-15T03:44:00+00:00",
+        "representative_place": "South African studio Nyamakop",
+        "place_label": "南アフリカ",
+        "sort_place_label": "南アフリカ",
+        "geocode_query": "South Africa",
+        "place_type": "studio_region",
+        "location_precision": "country",
+        "place_reason": "未解決記事のタイトルに『South African Studio Nyamakop』とあり、記事本文でも南アフリカのスタジオとして扱われているため国単位に置く（一致語: Nyamakop）",
+        "confidence": 0.64,
+        "rule_id": "observed_nyamakop_south_africa_202606",
+        "matched_text": "Nyamakop",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6753,
+          9.082
+        ]
+      },
+      "properties": {
+        "title": "Nigerian Studio Inuv8 Unveils Project OVERRIDE",
+        "source": "Games Industry Africa",
+        "link": "https://gamesindustryafrica.com/2026/06/12/nigerian-studio-inuv8-unveils-project-override/?utm_source=rss&utm_medium=rss&utm_campaign=nigerian-studio-inuv8-unveils-project-override",
+        "published_at": "2026-06-12T07:07:52+00:00",
+        "representative_place": "Nigerian Studio Inuv8",
+        "place_label": "ナイジェリア",
+        "sort_place_label": "ナイジェリア",
+        "geocode_query": "Nigeria",
+        "place_type": "studio_region",
+        "location_precision": "country",
+        "place_reason": "未解決記事のタイトルに『Nigerian Studio Inuv8』とあり、Project OVERRIDEの開発元としてナイジェリアの開発シーンを扱う記事のため国単位に置く（一致語: Project OVERRIDE）",
+        "confidence": 0.68,
+        "rule_id": "observed_inuv8_nigeria_202606",
+        "matched_text": "Project OVERRIDE",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4241,
+          -33.9249
+        ]
+      },
+      "properties": {
+        "title": "South Africa’s Free Lives and Cozy Lives Turn Heads at Wholesome Direct with Dressmaker",
+        "source": "Games Industry Africa",
+        "link": "https://gamesindustryafrica.com/2026/06/10/south-africas-free-lives-and-cozy-lives-turn-heads-at-wholesome-direct-with-dressmaker/?utm_source=rss&utm_medium=rss&utm_campaign=south-africas-free-lives-and-cozy-lives-turn-heads-at-wholesome-direct-with-dressmaker",
+        "published_at": "2026-06-10T04:49:00+00:00",
+        "representative_place": "Free Lives / Cozy Lives",
+        "place_label": "南アフリカ-西ケープ州-ケープタウン",
+        "sort_place_label": "南アフリカ-西ケープ州-ケープタウン",
+        "geocode_query": "Free Lives Cape Town South Africa",
+        "place_type": "studio_site",
+        "location_precision": "city",
+        "place_reason": "未解決記事に『South Africa’s Free Lives and Cozy Lives』とあり、Free Livesはケープタウン拠点の南アフリカのゲーム開発スタジオとして確認できるためケープタウンに置く（一致語: Free Lives）",
+        "confidence": 0.78,
+        "rule_id": "observed_free_lives_cape_town_202606",
+        "matched_text": "Free Lives",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.0473,
+          -26.2041
+        ]
+      },
+      "properties": {
+        "title": "Johannesburg Studio Riker Reveals Text-Driven Mystery",
+        "source": "Games Industry Africa",
+        "link": "https://gamesindustryafrica.com/2026/06/08/johannesburg-studio-riker-reveals-text-driven-mystery/?utm_source=rss&utm_medium=rss&utm_campaign=johannesburg-studio-riker-reveals-text-driven-mystery",
+        "published_at": "2026-06-08T03:55:00+00:00",
+        "representative_place": "Johannesburg studio Riker",
+        "place_label": "南アフリカ-ハウテン州-ヨハネスブルグ",
+        "sort_place_label": "南アフリカ-ハウテン州-ヨハネスブルグ",
+        "geocode_query": "Johannesburg South Africa",
+        "place_type": "studio_site",
+        "location_precision": "city",
+        "place_reason": "未解決記事のタイトルに『Johannesburg Studio Riker』とあり、summaryでも『Johannesburg-based developer Riker』と説明されているためヨハネスブルグに置く（一致語: Johannesburg Studio Riker）",
+        "confidence": 0.86,
+        "rule_id": "observed_riker_johannesburg_202606",
+        "matched_text": "Johannesburg Studio Riker",
+        "match_source": "known_place_title"
+      }
+    }
+  ]
 }

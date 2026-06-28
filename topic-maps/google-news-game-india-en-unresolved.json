@@ -1,19 +1,21 @@
 {
   "ok": true,
-  "created_at": "2026-06-28T16:32:08.618584+00:00",
+  "created_at": "2026-06-28T16:42:59.436324+00:00",
   "stats": {
     "feed_id": "google-news-game-india-en",
     "feed_label": "Google News: India gaming",
     "rss_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20India&hl=en-IN&gl=IN&ceid=IN:en",
-    "fetched": 80,
-    "filtered": 80,
-    "resolved": 0,
-    "unresolved": 80,
-    "rules": 9,
-    "known_places": 11,
+    "fetched": 79,
+    "filtered": 79,
+    "resolved": 11,
+    "unresolved": 68,
+    "rules": 34,
+    "known_places": 36,
     "loaded_data_files": [
       "data/place_rules.json",
-      "data/unresolved_known_places_12.json"
+      "data/unresolved_known_places_12.json",
+      "data/unresolved_known_places_13.json",
+      "data/unresolved_known_places_14.json"
     ],
     "topic_keywords": [
       "game",
@@ -34,46 +36,11 @@
   },
   "unresolved": [
     {
-      "title": "‘Unleash the Avatar’ is Making Gamers Believe India Can Build AAA Hits - Pratidin Time",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSGlsUm9aNm1CQWpPMkFNVklzNGNuOEJXWlBGVjRaZDRZdGIwcldYMkptVm9uc2VENVFHVGxzTGpzSzc2dXRvOF8xLTFTYWpmbk10ZlI5eE5YUTdOeFZhbnNFcm9hVnJVdGRRNnhDSURwNXFPX19HN3VkZ2l5dnNLSHprbzFUMFdrSHFvN0I3OExJUjhLU1IzaHpjN2hCSjBVaVdfaE40STRCdVVmeTBwbWUxVGhvSkd3dUJ4ZdIBvAFBVV95cUxNSGlsUm9aNm1CQWpPMkFNVklzNGNuOEJXWlBGVjRaZDRZdGIwcldYMkptVm9uc2VENVFHVGxzTGpzSzc2dXRvOF8xLTFTYWpmbk10ZlI5eE5YUTdOeFZhbnNFcm9hVnJVdGRRNnhDSURwNXFPX19HN3VkZ2l5dnNLSHprbzFUMFdrSHFvN0I3OExJUjhLU1IzaHpjN2hCSjBVaVdfaE40STRCdVVmeTBwbWUxVGhvSkd3dUJ4ZQ?oc=5",
-      "source": "Pratidin Time",
-      "published_at": "2026-06-23T14:03:46+00:00",
-      "summary": "‘Unleash the Avatar’ is Making Gamers Believe India Can Build AAA Hits    Pratidin Time"
-    },
-    {
       "title": "Video Game Market Size, Trends, Growth Report - 2035 - Market Research Future",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8zVXRKNk41ZUlISlM1di1MeU9xZ2ZMN3l1dEh0Qmh3dmJiZWhVc0lmNHNiei1ZaENQQkx1SnFwT2c1elBZNS1ZdXBESVQzVGY3WHZ4dUlBN19YYjdnNDF3ZU43QVpGRzVDQ0U2R1VDM0M4VWRPNXZr?oc=5",
       "source": "Market Research Future",
       "published_at": "2026-06-22T07:00:00+00:00",
       "summary": "Video Game Market Size, Trends, Growth Report - 2035    Market Research Future"
-    },
-    {
-      "title": "NODWIN Gaming and Nodding Heads Games Partner with Summer Game Fest for the Inaugural ‘India Games Showcase - Newspatrolling.com",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZFo1cjVnZzRhVHNieUUwMzZtNFRQdVlMaGFqRnZ1enZJSlZhd1FzUERuZDdkdVhfNkFOdGx3bDVUN0xOYVd0ZW9JOFpkSXRDVHNqWlpwLTF3VEhiU3NHVmw4d3pWQmJJOTFydkJoa3BTTXd4elFWRExvUHFGWlBkbVFmbGIwTGJVZHJoajYwNlkxOER6ekxpbGl2ZFRWeTlRd05RUFZtSjhqLVBxNFM1Z2hkRVRtc1lVM2xOTDlwR1BuN1VQX3VhcU5NamVpbzA?oc=5",
-      "source": "Newspatrolling.com",
-      "published_at": "2026-06-04T07:00:00+00:00",
-      "summary": "NODWIN Gaming and Nodding Heads Games Partner with Summer Game Fest for the Inaugural ‘India Games Showcase    Newspatrolling.com"
-    },
-    {
-      "title": "NODWIN Gaming and Nodding Heads Games Partner with Summer Game Fest for the Inaugural ‘India Games Showcase’ - IT Voice Media",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWGl3WjU4N1BfV2hlQ0dybkIzU2ZBSjdabXhXTEVNMklHOUY5aWRXelBqNUpnbWJhSDlFeGxILUNNY0VaQjE0bTZIRmdGZ3lfbGZINUVtWkRSZkZtVlkwSFNYUlVrTkVzdEEwNTVlWjRla00ySGVRVkowTHJKaGNseGJmYjdzZEJMbDNRLWNibTBxQ29vSTNGQlZ3OHdtWmhlM20yMUNrS1dzSkZvcUJxT3g1aGRBNVFsNGlULWRVOEpvYlFSLXFNYg?oc=5",
-      "source": "IT Voice Media",
-      "published_at": "2026-06-04T06:11:54+00:00",
-      "summary": "NODWIN Gaming and Nodding Heads Games Partner with Summer Game Fest for the Inaugural ‘India Games Showcase’    IT Voice Media"
-    },
-    {
-      "title": "Entry-Level Salaries for Game Developers in India: 2026 Data | Outlook Respawn - Outlook Respawn",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcE1aaURtemYydFVTQk90d1VYR0I5ZUNqcU1QWnRvS2hJQ203eFR3NmtteEY1MDZZcFU0X3NtdzF4NHlKck0tZnp4TmpxZ2czQXZnWkJUWG1lalQwMUh5dUIxTHliVEtWWWxUTGVKWHJ2ajFVNTJ4N21NWVgwTjZnN1BkQjEySzd4UmpIMTJEZklWVnROSlJTLTZfaEZkWDdpdk9QUXdTa0dMT3dyMmN2N28tMNIBwAFBVV95cUxPVkVYdHZMMWppbWhrbEhORmhGZW5nWm9qWEJucmpJTnNlUlN3M0FrZjc1UGRoZVNHTUF2d3EzUnlJSFFDdjRXek40VmRfLW9SelItQUJEdG1kS25hdG8tNG9fYUdwNC14eDc1ZXJHcUhvSWVnZHlOay1LT25wYzBJdFBxcFFaZUFrRVdOWGx0TTREejJLMHlSMW53TGRPOVZZVjNFY1VxTzRvWTJORmhIVHk4cVV6VUdwbHZyMElXVVY?oc=5",
-      "source": "Outlook Respawn",
-      "published_at": "2026-06-03T07:00:00+00:00",
-      "summary": "Entry-Level Salaries for Game Developers in India: 2026 Data | Outlook Respawn    Outlook Respawn"
-    },
-    {
-      "title": "List of 2,364 Gaming Startups in India & Market Trends (May 2026) - Tracxn",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUTRaZmVqckVLVldua0NKUFlWRjdzR01wdmtnOVdOclVEY0VsekUtVi1uY3J4cVNtYUhUM2t0eUZ6eGRVYndtNk41TExqR1psOEUxelhKbGtVOVRmN2xFZ3d4aEVLMWhwX2FLTEVMUVM0YVRwUDE4WGNNTzZhN1R5X2k0LV84UTVfaDVlMENDWFdFMjh2ZXUwYUd0SnZGZENa?oc=5",
-      "source": "Tracxn",
-      "published_at": "2026-05-29T07:00:00+00:00",
-      "summary": "List of 2,364 Gaming Startups in India & Market Trends (May 2026)    Tracxn"
     },
     {
       "title": "Origin Lab Raises $8M to Turn Video Games Into AI Training Data | Outlook Respawn - Outlook Respawn",
@@ -132,20 +99,6 @@
       "summary": "46 Top Gaming Companies to Know 2026    Built In"
     },
     {
-      "title": "Indian video games finally bring mythology into storyline. Taking it to AAA level - ThePrint",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRWpVeGJwSm82Tk5BR2pmVFFoYjBSbzd2WTBNQWpuR2k0R2pQTHhOemxvQXB3c0M2dXFxNjlOMFpCc2NNdlJ5WWNQNG1jdEdmRjJqZ0ZyTFpaeG13ZnJwS3BKZWJaaGxRNlF0NlJjci1ZWDV4ZWJSOFZNUmxiMXB2OWZOS25kV1VoQlRIM0xLNExkTjNFaTduNDBPdll1SlkzaHlxMnZURU1hVnFYTE9jZV9UbE9jOXI3R243dEhfcGpQQdIBxwFBVV95cUxOWG9Ib3NvUzI3WlRiaUsxSlJybm9SZnNrTnRmaFRhb2hqajZGRDlEeWhLUE8waGZQMkhTSkxPc2NEc3Q3OE1rcml4RHNVZldlOUhVcjBzREdNVThyQmRxUENjRzhMXzc3N1pTaEstdjViNjRaSlZheldJMEZjdVZ0aXB4MVF3ejdLYnhXUFl1WTFxSVl6MjFRcl9kb0ZzaHRPWWU2Wjl4X1dEV2JCdlZRX0t6VmxsTEJGQmRKVGZpdl92YmtabWhB?oc=5",
-      "source": "ThePrint",
-      "published_at": "2026-01-29T08:00:00+00:00",
-      "summary": "Indian video games finally bring mythology into storyline. Taking it to AAA level    ThePrint"
-    },
-    {
-      "title": "Ubisoft shuts down Halifax mobile gaming studio; affected employees hint at union busting - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOaWlRNmkxOG9laDFpRFJqSEIzZUpqclJwNm5Ga3NwN016c0F3Z0RYSFMzWXlvWmNqYko0dFdLTVE3cnYwRDVXaEpZWDZmYU5rZ0ZjWDVzaVVtajFTTGFJbkxYTjE2Ukg0NnNGcm9qaXBKYldXSzZBSllWLXUwX1ZyREp6ZXZaWm1FM3QwcHMwdUhhZ3dkZVJyY1BDTWRPVWpwajhpaWlRTTFMQnNSSFVKckdOekhQMl9XbElBTS00VGlNLW1rdjh4X19NRDJ0TGJUNWpwR25TNzdXMEx2UVZpeGVPcGZjTl80WkM0NWplUGNzUHBjeXlWWWE2N2jSAYICQVVfeXFMTU1DdVMxTnJuc3hfT1REZWxmUDRYc2lYa193ZTJaSEgzYlBxSDVEV3ZQclYtX1owQU5yb3o0X1lQSnZTUEs4azNiMmZBT0JIUzNVWlFHTTU5eFRJdEQ4V3lGVUhiVThTaEtULTNUVkZBQ0Q1ZENzOHNLZnlfUDlYNHR3bmlYc043VlQ4ZmNuM2JJRXBGdExiRUJGRktqZnFqYTVVa19OcUttRVhuR2pYaFIzQXFjanljc1pCY0JJUjRSdXRxRHZDeGRjemwzSGhVTFdjcThrRm10bWFMUUVQMGdqRHBWR1cwMWhiOVk1eUI2RGpEV2hTaHdwQVo1WDI1U0pn?oc=5",
-      "source": "The Times of India",
-      "published_at": "2026-01-08T08:00:00+00:00",
-      "summary": "Ubisoft shuts down Halifax mobile gaming studio; affected employees hint at union busting    The Times of India"
-    },
-    {
       "title": "Top 10 Gaming Layoffs by Company in 2025: Microsoft, EA, and More | Outlook Respawn - Outlook Respawn",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZnVnOE5mN3hfMjJPTTZueHNUWFRqZmQyb2Etdnk4YXB1T2NzOXlTVmlHTG1hTjliVmlRMWNDTTVtLW5LWmM0OTRUQnBYOWxjRkJZdzFrUE5aNFgzY3NZY25RVjVlZWdUTHJ4VkVGdlRQZXJsY0c2cDRjb2ZQWHMwemczMFl6djRlMFdwcUZtTjBJd0M5bnk2amROa0k5U1AwbWlQOS1ZWWlFcXZTendmVWR6MjRueDDSAcQBQVVfeXFMTU13TVgxWWpkLXZMeE5PUWN3bGNpRmwtc3draTVaQjEtTENVTENUZFZmaFNmN1lzWjRqRTllTnppR0FTdllwUnd5bjIzay1iclZpYkI4a0xwUWxnWUVGVnpILVIta3pINGE0TW9qVEVEM0ROY01FTlZsM0ZsSGRWd0JROWVCYVRPN1hSX3RqeVA5azd6aFprUFpZNlJLNGU3VGtlcjhkZ1JFMXM1Tl91dHVZY0RyaEJTYjhmcTdZN0tzdDJMdQ?oc=5",
       "source": "Outlook Respawn",
@@ -195,25 +148,11 @@
       "summary": "Top Indian Indie Game Studios in 2025 | Outlook Respawn    Outlook Respawn"
     },
     {
-      "title": "Varun Mayya's Aeos Games plans to launch its debut title Unleash the Avatar in 2026 - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQNWZkamlhSjdhVVA0Z1owUFMyYWduRjNmX3JOazNTU0tFTmpDQ1pRMlNKUk9iRktfUEtoaFhYYmNTTjR3MVJ4Z3pYMnZfbzVyX1pfMUh6cFhnOHZaMGRaYlVwc2ZrOUFnM1JpdVU3dzBlREJ3aTlDcnE5Qy1KTUVKTEtpekswVFRsTk9Ra1BlbXc1dU9ERHJIWkZyUFFkeWNOYUJXY0VEMks4bFBUWlZITmZUbE5DcGZYbmkwcDh1Y1FxekxmRTdzSWVNaU15UmJuYnlJd3JKY3JsT3NaODdBLXd30gHnAUFVX3lxTE9NYVBYOXQ0bi0tZnVuTVRmdllmWlBBN3NiaWJyZHM1eC1BNVo0UUJ3Q2JtVGNtOGVtS0YxbzBNUks4dkdpbHB1a05YMC1hdHhES2JLTndxXzZTNzVJcThZaUUyM0ZMR1R4SHRGVVkwQjBYRjluQ3AyQnV3WUNDX01nNHZDcW92YnQ5VGhKc2hLbGFrdTJHb3l6OTVGMDFGVi0xQ1hZZmY2d0VDMHMyMWZ4ZDBpSlhXZnJaNHJDM0Q3a293NjdMWkFnZERKVXpFaGpYdzk4eGoyNVhyQWRLN3p6Y21WYm93QQ?oc=5",
-      "source": "Moneycontrol.com",
-      "published_at": "2025-10-14T07:00:00+00:00",
-      "summary": "Varun Mayya's Aeos Games plans to launch its debut title Unleash the Avatar in 2026    Moneycontrol.com"
-    },
-    {
       "title": "From 'Far Cry 4' to 'Hitman 2': 7 times Indian places featured in video games - theweek.in",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYU1LOF84eDk4TmQxUDl1bXQwR0xGandnTm1yNUdtaEhtR3pkOUdCQlpPcWVXbWd5RzNNTkdtTXRjekpKa3k2RjJZeFB3dmtzTzNJRVJsTVYzaFRjRllCSzN3c19pNDhPLTYyVDBXLV9uWUtxX21jQlNYWlE2aDJ4dXUwb3h1ZEN1LVJwRlROYTRySmRtNEhFR3hoNkJpTzBXVFFSM3liYUtZY19pd0ZydHR2ekhpMWp5S200Z1pEYkZXTGfSAcgBQVVfeXFMT2hPMnJhX0JZUHE4em45VGtmY0V0WDZmcXBjVUc4eWE3c0dKVko4cFNsWTBqNEo5aEpaT3JGancyYmFMeEtHQzUzWERwY0lmR3BKa1hOZjhRdWlfV3QwdnhVYjRuQU9tdk5DQ29aRlVtSXk0dnotc2F1amtuT1hKazFaTk9SSFJLVWdPY3RJMW9GV1ZjSzZZdkxzUXRvcGZjaFdzYWp1ZnNHeU1XSXRmSDIxclZtZ3ZDRVU4VEtwenRuWm5vckVWSGw?oc=5",
       "source": "theweek.in",
       "published_at": "2025-10-12T07:00:00+00:00",
       "summary": "From 'Far Cry 4' to 'Hitman 2': 7 times Indian places featured in video games    theweek.in"
-    },
-    {
-      "title": "Top Indian Video Games: Exploring the Best Creations - Maps of India",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUEItS1JlVDhhQzhVVEdpdUVzMTVhY1RPdk4wN2JKbThZbnM3aHdSSFUzN2ZtR0laRFlMNVpXenZ6aVJXRWtQUFdPSTdtbUxsSGhfM21sVDY2ZWw1dDJPYURrdWJrbzliMDh2bXIyNnVId3NWdUlhMFJfZVVzSV81UjNGUHNVUnJ1bHNrQVEzdko?oc=5",
-      "source": "Maps of India",
-      "published_at": "2025-09-30T07:00:00+00:00",
-      "summary": "Top Indian Video Games: Exploring the Best Creations    Maps of India"
     },
     {
       "title": "Top 10 Gaming Companies Controlling the $178B Video Game Industry | Outlook Respawn - Outlook Respawn",
@@ -319,27 +258,6 @@
       "source": "Moneycontrol.com",
       "published_at": "2025-05-01T07:00:00+00:00",
       "summary": "Amitabh Bachchan joins Amish Tripathi, Nouredine Abboud's Tara Gaming studio as co-founder    Moneycontrol.com"
-    },
-    {
-      "title": "Detective Dotson Review - IGN India",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTHJVcXhVd1pOMjdqWmZLRW5DaTJpd2t6TGpLRE1SSldiV2FudkxtVHYxaUhJcDNtbnNncXJ3T1RBQ0l0OF9jXzlsZXN2SGxzVDlpSmhQYWljT3BEdHA4cmxnVmxtLVhBb21iQUNCWHk1WVJLVUpUaEt1Qk9VSENOT2t3Xzg?oc=5",
-      "source": "IGN India",
-      "published_at": "2025-04-27T07:00:00+00:00",
-      "summary": "Detective Dotson Review    IGN India"
-    },
-    {
-      "title": "Varun Mayya, founder of Aeos Games, has revealed ‘Unleash the Avatar (Project 11A)’, a groundbreaking India-made game that aims to rival global hits like Sekiro, Ghost of Tsushima, and Horizon Forbidden West. Slated for a 2026 release, the game blends c - LinkedIn",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQm5sdnVrQ2ZMVDdBSXpNQ09rQ3ZuQ182VVFKblJOSFo0aXI3MzV5cTFZTmpPT3QzdEFjM2RHZk9qbFRXUU9RNGlpZHU1QXYteDJSbXh5TUlZbnB3U2lISXVSdmFCWkVlTVBDLVVISEstRENYUThRdXFwZWNqc2RrMTdsUkNZeks2RXdScy1TdTdiMVJlNFdsbmNIeW5RV3UxRVQzMVllSWtxVW9jS2tJQmVwRG8wcDVub3d3SlhRUEx4WW0wX2VDRzRidEE1eDltSWc?oc=5",
-      "source": "LinkedIn",
-      "published_at": "2025-04-14T07:00:00+00:00",
-      "summary": "Varun Mayya, founder of Aeos Games, has revealed ‘Unleash the Avatar (Project 11A)’, a groundbreaking India-made game that aims to rival global hits like Sekiro, Ghost of Tsushima, and Horizon Forbidden West. Slated for a 2026 release, the game blends c    LinkedIn"
-    },
-    {
-      "title": "GDC 2025: The Indian Video Games Industry Was Represented by… Real-Money Gaming Again - IGN India",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNU1Ia0x4M1FIZThqa28zLVdLcmtTYTRSUHF0ZDE1dTU4TzlpOHVGT3dLOXBiWklOcHk0WWdVWkc1Si1tM1BNY2xRYXk1cFdIMFhmZG56cGRmQ0dwNjd2Y1hZcDRfS3BuSklXU1FYbWVQdHltTXFocTZWMkFaQlF6TkxWaVRUWjNlX3FOYmlmcF83LXI2TXlCSWpmelpKSThWZ3hkZkJiOEV5RVp2ekFpSTFYUlFRc1dqV2ZwMmRqMzAyNWw2?oc=5",
-      "source": "IGN India",
-      "published_at": "2025-03-21T07:00:00+00:00",
-      "summary": "GDC 2025: The Indian Video Games Industry Was Represented by… Real-Money Gaming Again    IGN India"
     },
     {
       "title": "Game publishing house 1312 Interactive bags funding from Nodwin Gaming co-founders, others - Moneycontrol.com",

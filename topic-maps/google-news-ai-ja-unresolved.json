@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "created_at": "2026-06-28T16:32:08.618584+00:00",
+  "created_at": "2026-06-28T16:42:59.436324+00:00",
   "stats": {
     "feed_id": "google-news-ai-ja",
     "feed_label": "Google News: AI / 生成AI",
@@ -9,11 +9,13 @@
     "filtered": 100,
     "resolved": 1,
     "unresolved": 99,
-    "rules": 9,
-    "known_places": 11,
+    "rules": 34,
+    "known_places": 36,
     "loaded_data_files": [
       "data/place_rules.json",
-      "data/unresolved_known_places_12.json"
+      "data/unresolved_known_places_12.json",
+      "data/unresolved_known_places_13.json",
+      "data/unresolved_known_places_14.json"
     ],
     "topic_keywords": [
       "AI",
@@ -318,6 +320,13 @@
       "source": "ASCII.jp",
       "published_at": "2026-04-27T07:00:00+00:00",
       "summary": "ChatGPTの画像生成AIが強すぎる AI画像が世界中に氾濫する時代へ (1/5)    ASCII.jp"
+    },
+    {
+      "title": "あなたの検索結果がAIの画像生成で独自図鑑になっていく新感覚ブラウザ「Flipbook」を元OpenAIチーム開発（生成AIクローズアップ） - テクノエッジ TechnoEdge",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0wRUc2UWpDNTgwWEREUXVKTHVBb0ZFQ2FPTnoyaUo2MEd4Q1lvczRVT000RGdzZTJkbUw5NkVDV2JGb0k2M3RLX0dnRVRfSGtQM2ZEUElMY2ZDSUpTQVNSa2Fnb2NlQWM?oc=5",
+      "source": "テクノエッジ TechnoEdge",
+      "published_at": "2026-04-27T07:00:00+00:00",
+      "summary": "あなたの検索結果がAIの画像生成で独自図鑑になっていく新感覚ブラウザ「Flipbook」を元OpenAIチーム開発（生成AIクローズアップ）    テクノエッジ TechnoEdge"
     },
     {
       "title": "OpenAIが最新AIモデル「GPT-5.5」発表、エージェンティックAIとして大幅進化 - ビジネス+IT",
@@ -682,13 +691,6 @@
       "source": "ビジネス+IT",
       "published_at": "2025-12-12T08:00:00+00:00",
       "summary": "ディズニー、OpenAIに10億ドル出資 動画生成AIツール「Sora」でキャラクター利用を解禁    ビジネス+IT"
-    },
-    {
-      "title": "OpenAI、新型AI「GPT-5.2」発表 数学や資料作成能力が向上 - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBjeGY3d3ZRVXEzNlZXTUttSVl1TG5OMEJjRmRNMG9ZNWNDbTlBSEZTRDJrTzBOQjR3aEJaMHRLWGdhODFpRWJGTTJnYWtETHFPUmExazhzRVNIUnE2NnNUZXdSSWFta0ZXRmZrTw?oc=5",
-      "source": "日本経済新聞",
-      "published_at": "2025-12-12T08:00:00+00:00",
-      "summary": "OpenAI、新型AI「GPT-5.2」発表 数学や資料作成能力が向上    日本経済新聞"
     },
     {
       "title": "ソフトバンクG後藤CFO「OpenAI支援に専念」 生成AI投資巡り - 日本経済新聞",

@@ -1,19 +1,21 @@
 {
   "ok": true,
-  "created_at": "2026-06-28T16:32:08.618584+00:00",
+  "created_at": "2026-06-28T16:42:59.436324+00:00",
   "stats": {
     "feed_id": "google-news-game-southeast-asia-en",
     "feed_label": "Google News: Southeast Asia gaming",
     "rss_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Southeast%20Asia&hl=en-SG&gl=SG&ceid=SG:en",
-    "fetched": 77,
-    "filtered": 76,
-    "resolved": 4,
-    "unresolved": 72,
-    "rules": 9,
-    "known_places": 11,
+    "fetched": 76,
+    "filtered": 75,
+    "resolved": 9,
+    "unresolved": 66,
+    "rules": 34,
+    "known_places": 36,
     "loaded_data_files": [
       "data/place_rules.json",
-      "data/unresolved_known_places_12.json"
+      "data/unresolved_known_places_12.json",
+      "data/unresolved_known_places_13.json",
+      "data/unresolved_known_places_14.json"
     ],
     "topic_keywords": [
       "game",
@@ -38,25 +40,11 @@
   },
   "unresolved": [
     {
-      "title": "🎮🌏 From players to creators: Southeast Asia's gaming industry takes the global stage - The Southeast Asia Desk",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVUotR2daaVNYaGlTamp5cnFEVTMzRHhYbE1DLUVyWTRpNjJ1bzJYMzQySE5VdDgtRmZwNGp2cUhJUDJmU0UwRmJHTDUwZ3IxMlNzOWpXajNNYVNKbWlxQzFrMzlnWGtYQnB1MjVGZUxza2xucEl0bWdIRjJ2OU1sb19hQUIwdTQyWS1Sb1VlRW5ORC1W?oc=5",
-      "source": "The Southeast Asia Desk",
-      "published_at": "2026-06-18T14:03:25+00:00",
-      "summary": "🎮🌏 From players to creators: Southeast Asia's gaming industry takes the global stage    The Southeast Asia Desk"
-    },
-    {
       "title": "Southeast Asian Games Showcase: Here’s all 36 games shown in today’s presentation - Video Games Chronicle",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNTMtX3Bkb1FlRlBoODg2b3g4QWVBZWNxYXdFTlV1YjRvVVgyMXBBZlJzM0I5cGJ3ajl3SzVqZGdJQ0w5MWZmdGdjdGREcEQ4b045SVVVZE5hRjFHeXczZkRmNEdKb1lCX1lPbGFSMVJSamVYUGJraUlRcjBSd2RoenVyVWRaT3NIZjdlaVRyalNmLS14U0NfbUhEV3RQSk4xejdrd05iZUFzckxRZzJKTldHdzh0NzZvY1FETw?oc=5",
       "source": "Video Games Chronicle",
       "published_at": "2026-06-06T07:00:00+00:00",
       "summary": "Southeast Asian Games Showcase: Here’s all 36 games shown in today’s presentation    Video Games Chronicle"
-    },
-    {
-      "title": "All The Summer Game Fest Showcases You Can Catch Today - Engadget",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMWxuZFRtSTdwNk52bXAxLUlFMHBZc2ltQi0zTUFRSFljZVpGbTBIdTNIS2FVUlpLcnIyN29CcGZfdGhzdXVjYm1PWktFeVRxMWVweTl3TmtCWTg2dUV1cm5sQl9Sd1FWZ3h3Q1c5SWpTY2lZTkQ4OENlVzMyMlprbWswS01kR09OZTNUTTZvRTJkaUE?oc=5",
-      "source": "Engadget",
-      "published_at": "2026-06-06T07:00:00+00:00",
-      "summary": "All The Summer Game Fest Showcases You Can Catch Today    Engadget"
     },
     {
       "title": "Here's Where To Watch Every Summer Game Fest Showcase — In Southeast Asian Timezone! - THE MAGIC RAIN",
@@ -66,18 +54,11 @@
       "summary": "Here's Where To Watch Every Summer Game Fest Showcase — In Southeast Asian Timezone!    THE MAGIC RAIN"
     },
     {
-      "title": "Super Smash Bros. meets Sepak Takraw in upcoming Filipino-made game - Lifestyle.INQ",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORUpaX1kxYkJoakRQaENtXzJQQjY5b3pmTkZmX1BKQ2dKZ1liX0F5alJLNUhmLUFkRW80cGNfVGV2azUwRGpPMzdvSnozcW53ZU5XTXhBVW84OUFyUXFUSXhKdDVTZlU2b2FuMnprMk9Jak5KSG9fbExqQnpDU3JOTkI0Q3hEV1FkQ2fSAY8BQVVfeXFMT2w4aDFScEJyM0pSREE3Q2ZYZXFJMU9JX3hxTTZDdjIwWExXWHZvc1UyZHV0eS1VTllzVlo4R1pTbXBpX0tCeENheDdNdHd3MmxCT3lXemx1Z211NVBTamdnTnZKTkpnNTZDYkQ0WWhHT3Q0TVBvb2phNzRPRmtjbi1ITVlZaTc0LURkQ2t6S1U?oc=5",
-      "source": "Lifestyle.INQ",
-      "published_at": "2026-04-16T07:00:00+00:00",
-      "summary": "Super Smash Bros. meets Sepak Takraw in upcoming Filipino-made game    Lifestyle.INQ"
-    },
-    {
-      "title": "Savvy Games to Buy Moonton in $6 Billion Mobile Gaming Deal - Analytics Insight",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdTE2bS1oeHBYZk1SMnl5RDNuZGg0YUlrUUUzTmo0RGtSN3BoX1ozS1NseEQ1TVhfSjYydFZNdFZCdmVDajNDOU1LRVhoSnFyV3ZmUk12SjNxUDEwZzE4TjVhaEVqb1ZJWFZNUjNPMU9YMGp6cjhkTUdjY25uUngzekljdGEya3JJOVN0TzB2MzVSQ0R1M0hQcHQzamLSAaoBQVVfeXFMTzFIQ3loYWJ3Rm1YcGQxbUw0U1JqNDdidEpOakdQMU5TTV9zZ05KTVZDQkpmNzFhRHdid1NnY1N2ZTlqcHdveWlaQm1mRjBGS2oxQ1ltaEpHMFhfQ0RRWDhOa3dNVHA1UFFvTm1oUzFLcU9yblpyM2hXOFpsZHR1c252aG1ydjRVSE0wMWp4dWh6UGttZVUxR1ZrUzhBR0NDbkN2NGFFRS1GM1E?oc=5",
-      "source": "Analytics Insight",
-      "published_at": "2026-03-20T07:00:00+00:00",
-      "summary": "Savvy Games to Buy Moonton in $6 Billion Mobile Gaming Deal    Analytics Insight"
+      "title": "Summer Game Fest 2025 guide and schedule - Epic Games",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdEFJU19EZVVCUy02NmcyTEVZd0VjRHpSY1owX2tIV0VQRmJpY09faC1ZZFhvVlNTNVdlU2Nia3pCM24tOENwY1kxT2QzUzN1dW95MzM1dlR0NnR6ZURrSEtzQ25BbmVpSEF0OW9FQkdGT095dGM5STNmQllJMHpfTE9QOEVJd3VzdjQ1N1FubjMzVGhiS01Gd3NB?oc=5",
+      "source": "Epic Games",
+      "published_at": "2026-05-09T16:38:38+00:00",
+      "summary": "Summer Game Fest 2025 guide and schedule    Epic Games"
     },
     {
       "title": "Ideas: Press start: Southeast Asia’s video games leap - KLSE Screener",
@@ -85,6 +66,13 @@
       "source": "KLSE Screener",
       "published_at": "2026-03-09T07:00:00+00:00",
       "summary": "Ideas: Press start: Southeast Asia’s video games leap    KLSE Screener"
+    },
+    {
+      "title": "The Role of Content Creators Behind SEA’s Hit Games: Insights for Web3 Gaming - games.gg",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBvTXFWMnMzS3dpbkpLTUZJU2VjMDdIaU9UbFRXR1B5bEl3bzU4RlMyVkE5aWZNUFNWbjlGcmx0bXl4Z2NFTFR6ZXZGYXgwaGI3T3RfUG1udXdHOTlSRk5tSWtZbEY?oc=5",
+      "source": "games.gg",
+      "published_at": "2026-02-26T20:56:41+00:00",
+      "summary": "The Role of Content Creators Behind SEA’s Hit Games: Insights for Web3 Gaming    games.gg"
     },
     {
       "title": "A New Video Game Traps Players in an Online Scam Center - The New York Times",
@@ -122,20 +110,6 @@
       "summary": "Game on: Nintendo opens Singapore office as part of Southeast Asia expansion, Digital News    AsiaOne"
     },
     {
-      "title": "Upin & Ipin universe launches on consoles and PC on July 17 - GamesBeat",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQLUVpbktXZ3FneWkzaXltcUlFMTlQNm1QbU9lTWI1R0FwcG1Jbi1FT0tQUFA1OFhHYW5XTTg5dWdlZVpEZE1YdlNaX1dteHotWS1peV9Vc0tEZEVfS2RMeGpIZ09pb1A2TENCRUdCZUdlWkJfY3RyaG5FaU9BNE8yZ0xiX0JNMUk?oc=5",
-      "source": "GamesBeat",
-      "published_at": "2025-07-06T07:00:00+00:00",
-      "summary": "Upin & Ipin universe launches on consoles and PC on July 17    GamesBeat"
-    },
-    {
-      "title": "17 July the big day for Les’ Copaque’s Upin & Ipin universe to gamers worldwide - Digital News Asia",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPb2R5UWxYcEdFSE9id1N2MW1fODk1anRJY2dQbG1NX3dickRSOE5vNEVsclMwTnNNdnFhTUZqSmR6UDVsZmVfaXRtN3dkb0cwRTRHeFdJN2hmamJIZktZVEFzcWgxTWpWZ0hrbVZrb1FhaTdMdUVaMFEwRGxRY0RVWTk5RlBWSE5FV2JNNXRsTVNmNUNoa2kzbUU4SXZ6c0hoeHZPY2lMNHU?oc=5",
-      "source": "Digital News Asia",
-      "published_at": "2025-07-04T07:00:00+00:00",
-      "summary": "17 July the big day for Les’ Copaque’s Upin & Ipin universe to gamers worldwide    Digital News Asia"
-    },
-    {
       "title": "Vietnam GameVerse 2025 & the Vibrant Health of the Country’s Video Games Industry - Niko Partners",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOLVZqdXkyeWlneTI2bW92QkhsN1JfTTIxWC0yZzFHOGRNdnoxS2FFeGM1U2VnWVNDb0YtaEx4U2JzOXhQcGlVYWdZM1NNSXhWbU51ei1ma25XTDdlaG5ad3lDNzBpdG9KZTRGM1BDY2R0UVUxVVFDWmFUeXIxYjc0WXBkNjdYRWlFWDZ3TWd2SGdkV0JaUHl2ZUkyek1lRzFULU54QUZtOA?oc=5",
       "source": "Niko Partners",
@@ -150,13 +124,6 @@
       "summary": "Summer Game Fest 2025 schedule, announcements, new games and everything else to expect    Engadget"
     },
     {
-      "title": "Summer Game Fest 2025 guide and schedule - Epic Games",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTTluR2V5YlJCdkhMeVZMVGh1RmVVamMyMUVBTW1VZWlUNjJ4QW9SeVF2RDN6NVNJSWh1aEFZclliQlh0LUZpdE91WF9ldi1yemNBd1BBS3RwV0J1RGUwMWRuNjZFeU9YSVBPUlJwa2Vaa1NJZ3dmZGRFdnkxcTFzeGJfR1Z4aEdfZU9iR2ZSdWdIMjlwM3c?oc=5",
-      "source": "Epic Games",
-      "published_at": "2025-06-02T07:00:00+00:00",
-      "summary": "Summer Game Fest 2025 guide and schedule    Epic Games"
-    },
-    {
       "title": "Summer Game Fest 2025 Schedule: All Studio Lineup, How to Watch, and What to Expect - Gaming Amigos",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZmdaenVWTkd5WW1DeUZzaUlTMnBCclpUcV83bnpwdXA3eHF0eWcxSDNtMU56SmNXOXYzT3Bic280djBJTVdsVnVHNjR2ZTR4Sjdkb3VhcHh3a0RWcklUcXM0N3E1VlVfcWkxeWI2eUw4SFBoQjJDZUoydkdNa191MUpLdTQ?oc=5",
       "source": "Gaming Amigos",
@@ -169,6 +136,13 @@
       "source": "Keywords Studios Limited",
       "published_at": "2025-05-20T07:00:00+00:00",
       "summary": "Why Indonesia Should Be on Every Game Creators Radar    Keywords Studios Limited"
+    },
+    {
+      "title": "From SEA To The Xbox Screen : Highlighting 5 Southeast Asia-developed games coming to Xbox - DANAMIC",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdE9DUlFYcThCZWdhdlZxYUttcXo1RXRxNzJCZFJIYVRheVpfclB3MXFDSXI2RzlKMHVxNUh6NDl6WVFUQW50UlNaRW5QejR1Rm4yZndQVVFnUTJRbDNqU1pGSVlfRkw3MWhZNkdmTlFsS05SUHpUU2xQZElfMTJvSkNuLXZVN1dheG5JYWtWLU9MaEozdlVVTUtfNzFBd1JJMWNLX1ZKVkNJUU9UOUJBMnZXUmtjUjVEbi1jTA?oc=5",
+      "source": "DANAMIC",
+      "published_at": "2025-04-08T07:00:00+00:00",
+      "summary": "From SEA To The Xbox Screen : Highlighting 5 Southeast Asia-developed games coming to Xbox    DANAMIC"
     },
     {
       "title": "How Will Elon Musk's xAI Change the Gaming Industry? - Analytics India Magazine",
@@ -255,18 +229,11 @@
       "summary": "Skull and Bones, Singapore's first major video game title, launches to mixed reviews after decade-long wait    CNBC"
     },
     {
-      "title": "Made In Malaysia: Epic Video Games From Our Own Backyard - says.com",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5pV1lJVlR3NHFXT0VvRzZxRERBUUVabUlXY2U4T1VMdWZfb3gzaFBJcWtKcGI2VXAwUkZRSVFjanEzTmZudDBmWkMzd3pJeVNoNjU1bkhyZno4OHR2OXk3UGdLZXpBUQ?oc=5",
-      "source": "says.com",
-      "published_at": "2024-01-09T08:00:00+00:00",
-      "summary": "Made In Malaysia: Epic Video Games From Our Own Backyard    says.com"
-    },
-    {
-      "title": "Indie Jam 2023 To Showcase Southeast Asian Gaming Excellence in Kuala Lumpur - Pokde.Net",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9UcHhBdW1aTzZGeENrUWtNNUtTZC16UXIwSjY5RlZyQ0pMWERSajVGVjJVYW91Zm9xdjV3QTJuV1VtS3M0aTZaM2QwT0R1LTFPVG9LcnJJYjUzWWFORWtxcnkzT2pWSlE?oc=5",
-      "source": "Pokde.Net",
-      "published_at": "2023-11-12T08:00:00+00:00",
-      "summary": "Indie Jam 2023 To Showcase Southeast Asian Gaming Excellence in Kuala Lumpur    Pokde.Net"
+      "title": "ByteDance restructures Nuverse in retreat from game development and publishing - Niko Partners",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOVVRWFRKQUpfQnNCVWZUZ1FHYjhxbU9nQTdDaVZmekwxS204MTg0NGMyS29mTlk2MUtNVUFfd0pGQkNYSnNzSURCT0RITEI0NmRQanpmNXVfV2RtaXJ2QTduRTllVEpfV2dGc0pOd2dkMkh1bTNLVnpKWDJLSHZZQ2xrZEN2aHZkOEFsQW1fTk1Yd21IQWR0dHh2VGlncjh6b3lJMEpsTQ?oc=5",
+      "source": "Niko Partners",
+      "published_at": "2023-12-04T08:00:00+00:00",
+      "summary": "ByteDance restructures Nuverse in retreat from game development and publishing    Niko Partners"
     },
     {
       "title": "Malaysia needs to take gaming to the next level - Free Malaysia Today",
@@ -339,18 +306,18 @@
       "summary": "5 made-in-Malaysia games to put on your to-try list as we go into 2023    Yahoo News Singapore"
     },
     {
-      "title": "Virtuos launches new studio in Kuala Lumpur to bolster Southeast Asian presence - Pocket Gamer.biz",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBWbHRjTy13TV80XzQtY2lHNENHQXB2cjlWQkE2NTRqZmpMU1BiLXNWdGZtZHJOdXh3SEVvN2FaZXJvRFNOVGI2czM5X1VORXJUMUhfUW8xZlBERjN1Rjk4ZENhT25pR3Q4N282ZVdic2V6dw?oc=5",
-      "source": "Pocket Gamer.biz",
-      "published_at": "2022-08-19T07:00:00+00:00",
-      "summary": "Virtuos launches new studio in Kuala Lumpur to bolster Southeast Asian presence    Pocket Gamer.biz"
+      "title": "Cover Story: Call of duty - The Edge Malaysia",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8zU3VOLTE1T3BCS0M2Vnl5XzhrUUxLSTlSNjRYOWNOcmp4RmlsNkc2RC15eXhrVzlhaHBybkdVZy14aW9jXzRVb1ZtUG5sako2TDhwdU5lbEpHWWtZbURZdWUwazZyaTVY?oc=5",
+      "source": "The Edge Malaysia",
+      "published_at": "2022-11-28T08:00:00+00:00",
+      "summary": "Cover Story: Call of duty    The Edge Malaysia"
     },
     {
-      "title": "Virtuos Bolsters Southeast Asian Presence With Launch of Game Development Studio in Kuala Lumpur - Virtuos",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTFFRM01OX29wTFZEaC1yMEl6ZjlOQUNBYUJHYm13eWpCSjhUeVlhQjlSMmRyeVR6VGl3aFhOQTZjeGQ1ZHVlRzlobzhMaUxpWW9iOGExbjZSNVFFbXAzX0FaUFpVdVItQWJ2OXpiWnlSV09WeGlDVklJZk5jZlUza2x5VnNSQ2xHUkczUXExQ1N3TkhYeWs1cDRfYjUzSDk2RFpjcFJ2TmlibW8zTVFSdHdPZHRPdW9YWEdlZFNSczdJcHdMWkk1d3NKNA?oc=5",
-      "source": "Virtuos",
-      "published_at": "2022-08-12T07:00:00+00:00",
-      "summary": "Virtuos Bolsters Southeast Asian Presence With Launch of Game Development Studio in Kuala Lumpur    Virtuos"
+      "title": "Malaysian Studio Mason Games Acquired For US$1 Million, Expanding to Vietnam - IGN Southeast Asia",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNlpMaUs2cWxkckZFb1F6WXZEeWhzaGk3bXBsOUxQYmtzSGpIeGhJWEhQUy1ZUkpnckl3Tl8ySE5tVEFEbTlZLWpxck80aFV4eU9CZXRPM2tlaVdnZ3RoQlFZRDJKLWpkNENnc0piTXliV3hwdDFPSGZuRk5fUGtmd2V0d2RTZjhIYjNYVnBPRzhwSnc3N3RnSkRHdEtCaVNMOWpUeHlTLUZ0S3hmQ0RlT3ZJVGQ0SHljNHA2OHN4aw?oc=5",
+      "source": "IGN Southeast Asia",
+      "published_at": "2022-09-13T07:00:00+00:00",
+      "summary": "Malaysian Studio Mason Games Acquired For US$1 Million, Expanding to Vietnam    IGN Southeast Asia"
     },
     {
       "title": "Gamescom Asia Speaker Lineup Highlights Key Figures in Southeast Asia’s Game Industry - IGN Southeast Asia",
@@ -379,6 +346,13 @@
       "source": "South China Morning Post",
       "published_at": "2021-09-10T07:00:00+00:00",
       "summary": "In China, Singapore and South Korea, gaming’s dark side put under spotlight    South China Morning Post"
+    },
+    {
+      "title": "Agate Skylab Fund to Support Fledgling Indonesian Game Studios - IGN Southeast Asia",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcTFCRlhzMWNhWEVGV1F4X09ncjZwU3RneEIwd2hXM0F5QTZ3M0F6ZFlFVi1BelJhOEhZLTJRVVpLb3o2SkJUeVltbnFoVWF1VEM5UEtrNWkwRHVkNGhwUEVkQm90T0UwWms3SHJYdG9rY3ljdFkySmpoRl9vdkt0SURLdDNwVm4ybEpabnhvSy03azR4aVg4Smc4MG1LR08zTG5hT3dxR1dvRXdNZzQ0?oc=5",
+      "source": "IGN Southeast Asia",
+      "published_at": "2021-09-09T07:00:00+00:00",
+      "summary": "Agate Skylab Fund to Support Fledgling Indonesian Game Studios    IGN Southeast Asia"
     },
     {
       "title": "Asian American Game Developers Are Dreaming of Their Own Minari Moment - IGN",
@@ -423,25 +397,11 @@
       "summary": "'ByteDance acquires game studio Moonton at around US$4b'    chinadailyhk"
     },
     {
-      "title": "ByteDance acquires gaming studio Moonton at around $4 billion valuation: sources - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONGdxWm80N0lCaXVXU2JJV3J1WXE5UkxwQjFHbnJ6NHJUcm1nTDVFX2syek9vNTdmN0FRaXNxUGVySXpiWWdJbzlkUGY0SzNZeVV1NlU2ek5YSnFBTnh6OWp4cmx2VVdUOER2X1BrdXYzVVVRaEIzY0J0bHp2UFBISnJvdHJwcS1DVE1EZHYtM2txcGwxQV9aeUdHZjcxR0Z5N1ZHb2Nyd2NROUtmVzBBR0FpM2ZEcjhLQWh6cWNzLWZVcF9PYVNncGhzN0JlWW1haVE?oc=5",
-      "source": "Reuters",
-      "published_at": "2021-03-21T07:00:00+00:00",
-      "summary": "ByteDance acquires gaming studio Moonton at around $4 billion valuation: sources    Reuters"
-    },
-    {
-      "title": "Local CGI Art Studio Lemon Sky Accused Of Overworking Staff Without Pay - says.com",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSDhFZ0Z6ZmQyX0FWWUtvMW5pZm5fTTdaZE1iWDFZOXprd1BoUVBvQzFtZlZMR3JCZUFOU194YWREMFdXSnRiT0FGRkh1RXBzdXZndDZiVTJCVUNldkwxendqcDZKa2tOYktUN0VtT2FsQ2pkbTdlNE1Fd0JrZy1CWDhFZ0tDRF80aG4zbzV3YkxQcmJnaWQxN0NZNUV5YlIyNVZkZHhGOUM2UQ?oc=5",
-      "source": "says.com",
-      "published_at": "2021-03-10T08:00:00+00:00",
-      "summary": "Local CGI Art Studio Lemon Sky Accused Of Overworking Staff Without Pay    says.com"
-    },
-    {
-      "title": "Survey: 4/5 Thais Play Video Games, Highest Ratio in ASEAN - Khaosod English",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMU9neG5RaTE0bmtMNUpKSWM5SGk4djJXcGpwUmpINE5STHV4OExudlhBYjFVbVdwT01vcV9ERnRiOFdsSXdfMEZPTi1VdDM2QVdFSVlBQVVCemwxbUVIaXUzdHZ1bEE5c2pGQUxBNi01a3NQUmdGT2FIUFB5akZaVzh1M2RwVmppd05JRGI3aGdJQU0xTFM4dWJWYi1LUV9JZG1ydE10QdIBrAFBVV95cUxNLWpNeWtPY2RmWEdDVlZTM0s4N2ZxR3YzSG4yZlFxTWlYWkxGR0J5azQxQTk0bzhZMkJLZWpxbXg0UnlRRjN1aFBvX3l6dDdhNjJ6a21TeER6dGV4Yy1EdVlnczRzR19kMHhZdHhMYVpQMnM3eUVIampHLVU2ekVOQnVDUHJUbWlYTV9RS3M0c1hrUnNFYkdjUGE1aWFxU0tYVjJkMTd6Tm9Yam9l?oc=5",
-      "source": "Khaosod English",
-      "published_at": "2020-11-06T08:00:00+00:00",
-      "summary": "Survey: 4/5 Thais Play Video Games, Highest Ratio in ASEAN    Khaosod English"
+      "title": "The Gaming Industry: A New Game of Growth - MIDA | Malaysian Investment Development Authority",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9oYkVNSU4ydTlBeEpJcUNkYm54NFB6VW5PdUhuV29lZ1ozMURTV3V1ZHNPc2MxS3dlZzZtbDlnSHV3dlhpUHFGclctOE1NWUl3MF9yQkFJN2liSGluWlBUd19sd25xT0hpeHpSQTNDTXNUTVhjWFNv?oc=5",
+      "source": "MIDA | Malaysian Investment Development Authority",
+      "published_at": "2021-02-13T19:41:03+00:00",
+      "summary": "The Gaming Industry: A New Game of Growth    MIDA | Malaysian Investment Development Authority"
     },
     {
       "title": "5Qs with Ubisoft Singapore on gaming and Assassin's Creed Valhalla - The Business Times",
@@ -463,13 +423,6 @@
       "source": "South China Morning Post",
       "published_at": "2020-07-17T07:00:00+00:00",
       "summary": "Fantasy game created in Southeast Asia, and inspired by it too – for once    South China Morning Post"
-    },
-    {
-      "title": "Horror video game’s ghosts, demons from Indonesian folklore make it a hit - South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeFBaWmxPSGJTVGdDazg4Yk5FcEpWLVhSMHZVVm15bUtyLXdhdFJJcS1iYVBGeGwyY3dtYnlYV2FKT2tJQUNuN1lwcjFGS2E0Tk4zaF9nWDhEUmRkV0VnTUdxcHc5RXc0czcwbVgxaW1xdExQR1JkS0lCRzd1dmhPYmRwV0gxajlleHVfdU9kLTh3a3hXTzFjNm9ESTRHX1dtTkpKM0dzNFV2ZkZwZ3pTZXNn0gGyAUFVX3lxTFBZTDF4Q25kcmtOcDBhYlJFbHY3cllCdHdvamtrR2VKcFhwMW9DSGJPeUs4NWFSUnBMcUZzZmU0N1ljYVRQM05TLTBxRDZMUFRzWmVRUmtEcEdzZDYwbjNCaUZnWENHR0RRbnhGbzNMSzAtb3VDaTEtM0JtdEVRdi1MNEtqOTVkaU5YM0NlenBZUjdSdlhleEtPSlpoQlIyazdyRVN5NG03Q2g1NThjbmJueVE?oc=5",
-      "source": "South China Morning Post",
-      "published_at": "2020-06-13T07:00:00+00:00",
-      "summary": "Horror video game’s ghosts, demons from Indonesian folklore make it a hit    South China Morning Post"
     },
     {
       "title": "Vietnam French video games giant sets up operations in Da Nang - VnExpress International",
@@ -540,6 +493,13 @@
       "source": "Vulcan Post",
       "published_at": "2016-11-02T07:00:00+00:00",
       "summary": "4 Solid Reasons Why Malaysia Can Become The Next Big Gaming Hub In Southeast Asia    Vulcan Post"
+    },
+    {
+      "title": "Is Singapore’s gaming scene levelling up? GameStart Asia’s Elicia Lee shares her views - Yahoo News Singapore",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWWhpTm16ZGpQeHkwOWFXektQV3ZhTXRsaU1wa3Y5aGgwVzlfaXRrbFUwQV9YclZkOUdrWlpyYjJ1dExBQ0JnRUZkQnJnNTNURGtvZ3FleW10VXVJRmRqZjdTX2FZMTBOTnNVa2FUMzhzckJkSDM3U1JRTkN3QURrMjBycFZQSE5fN2Q4MjFOWFZWeV9jYWt2WXNjWjk2UnVS?oc=5",
+      "source": "Yahoo News Singapore",
+      "published_at": "2016-10-12T07:00:00+00:00",
+      "summary": "Is Singapore’s gaming scene levelling up? GameStart Asia’s Elicia Lee shares her views    Yahoo News Singapore"
     }
   ]
 }

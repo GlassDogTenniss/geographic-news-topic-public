@@ -1,19 +1,21 @@
 {
   "ok": true,
-  "created_at": "2026-06-28T16:32:08.618584+00:00",
+  "created_at": "2026-06-28T16:42:59.436324+00:00",
   "stats": {
     "feed_id": "google-news-game-africa-en",
     "feed_label": "Google News: Africa gaming",
     "rss_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Africa&hl=en&gl=ZA&ceid=ZA:en",
     "fetched": 79,
     "filtered": 79,
-    "resolved": 0,
-    "unresolved": 79,
-    "rules": 9,
-    "known_places": 11,
+    "resolved": 13,
+    "unresolved": 66,
+    "rules": 34,
+    "known_places": 36,
     "loaded_data_files": [
       "data/place_rules.json",
-      "data/unresolved_known_places_12.json"
+      "data/unresolved_known_places_12.json",
+      "data/unresolved_known_places_13.json",
+      "data/unresolved_known_places_14.json"
     ],
     "topic_keywords": [
       "game",
@@ -43,81 +45,11 @@
       "summary": "Video Game Market Size, Trends, Growth Report - 2035    Market Research Future"
     },
     {
-      "title": "New market: on the gaming industry global map, Africa is making its move - Telquel.ma",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcDZXN0xncVdNUUJCTDkzN2xtSFpnZVJEOTZNLUFxbmlDMmx4Vmtmc2pnckljT1FUXzkwQkxZMXliZGJ3alQ4aUczMDdVZ0wwS0duSzF2b3hJa0t4c1o4RDNaWmxqMXN3cnI2OE9vRi0zVjJZOHYyTGo1TFBISWcyRHJ3ZGNrYmd2aEVfMzNoMFJWdjZ6dzJTM3paYnZhZzNETE9WUnVBS213UQ?oc=5",
-      "source": "Telquel.ma",
-      "published_at": "2026-06-05T15:48:06+00:00",
-      "summary": "New market: on the gaming industry global map, Africa is making its move    Telquel.ma"
-    },
-    {
-      "title": "Gaming: Africa Plays Its Own Game - Africa News Agency",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9IODJmSXlONXA3TENzeEtHR3F0SzFYYTUwLWZNWS02eFl3OUhQYjdnbm9ic2hSYjRlV29vSTdjNFF1UUN1YkJxYVI5VFJGMThjU2tzMzI3RWpOUzVCemZrdjFlWGtBLXFRUUg1Slp1TldFUQ?oc=5",
-      "source": "Africa News Agency",
-      "published_at": "2026-05-27T03:01:11+00:00",
-      "summary": "Gaming: Africa Plays Its Own Game    Africa News Agency"
-    },
-    {
-      "title": "South African studio makes waves with futuristic heist game about reclaiming looted artefacts - News24",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOOEVEeFNJdEJqbHRjWmwxckFoemdrb1lidHdrYmF1cDdpMUhyUno5cnJKVmh6dWl3V1lVSWgzSjhGTWljZkhuMzRfQW5RV2ROZ2VKTlRnQUVidTZiRWtpNkE3ZHNtdHdfVy11bXIxVWxOdTBMLUlVTUYteFplcjcwc0NPUmpiNlJYeTd5dU5SNFMwT1RTSFRWVi0wSGUxbkFUdkNKaUFqNGNaeVVhcXpnWnZQS0dRbDZwQks3SXZSblFtVDVEWHFEeTFWcldoakR3QUxtMng4NEExOTRsS3c?oc=5",
-      "source": "News24",
-      "published_at": "2026-04-25T07:00:00+00:00",
-      "summary": "South African studio makes waves with futuristic heist game about reclaiming looted artefacts    News24"
-    },
-    {
-      "title": "\"Ads remain the most common and viable monetisation model across Africa's gaming markets today\" - Pocket Gamer.biz",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQmtWZ3pLVlNac1ZqTEJpLUQ0a0c5N2RzYTRqLTFvMGdvbm9NVWh3THdBN3IxVHRLeTdTOXRPUjFhYlZXNndWUGdtVFo4SUYxaF9hMFdocm1QOTdnTDlmYU9IWXZtSEp4c20tUld4TjQ0azhYaEdtRkFBaUs4a2p6UTVLVlhTQ2dXZXhPVHJjOHBwZjByNm13bFFvUzJUSVBHTU5IcTk3R2lfM21lVXRUU0NGVGhaXzQwU1ZDRWRB?oc=5",
-      "source": "Pocket Gamer.biz",
-      "published_at": "2026-04-06T07:00:00+00:00",
-      "summary": "\"Ads remain the most common and viable monetisation model across Africa's gaming markets today\"    Pocket Gamer.biz"
-    },
-    {
-      "title": "Game on! Why a fast, reliable fibre internet connection is key to the success of SAʼs gaming landscape - ITWeb",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQdURaQTF1NG5acHZnLVh5SlR2TlAxWXAyTkJzMUgyYlliZHQ3SmhEQmJ2QXVtekQ4SUlDOEtMdUJ1X2tBN2FxNDgyWUN5dEZaZHlkajNfcHRSdUZVajNfQUFuUlBPMl9xNWhQelRrNTlfd3dZcUZQVE1GM0dzNjF0NVpPcHExUm1rUWtHdDBGV1Bvanc3UUx0ZEZWdEd6TURXVUlteGhJWkdOamlVVUZQVFhTaXU1eGlRV0lkdVB3WjgxbXU4QWo5UERDcFR4Q2xVNXFfOEFRckNrLTRjQUNQX213?oc=5",
-      "source": "ITWeb",
-      "published_at": "2026-04-01T07:00:00+00:00",
-      "summary": "Game on! Why a fast, reliable fibre internet connection is key to the success of SAʼs gaming landscape    ITWeb"
-    },
-    {
-      "title": "Inside South Africa’s R7bn gaming industry, and how Raymond Ledwaba is trying to change it - EWN",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQ2h1STVRc1hWeEJleHBWYVJHZGpJcWJTcThSZllNd0RBU21nUG9VTmhHNTVZWTRiY2V5RTNyU3hZSk5RTjlQaEo2RUZkZUM2TkVob2s3WnF3T1dUZmNaVjBUbm4zRlVVZlNsNmJjb0dkM0laUEJxZGJUN1dfbVp5WFhfZUk4MXVtMWluWlFJX296cDhHaW9VZG84NHBucnpXaDhWbVd5bUJUZ2REMGRLQWkxbmJTLWxnMVozUEVoZw?oc=5",
-      "source": "EWN",
-      "published_at": "2026-03-30T07:00:00+00:00",
-      "summary": "Inside South Africa’s R7bn gaming industry, and how Raymond Ledwaba is trying to change it    EWN"
-    },
-    {
-      "title": "What's behind the big reaction to a new South African video game? - CBC",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQnJVcUdvbEhLM3Z5ZDJuQ1lZVHBnczJwTHdBa2czSVB4c2lIMjdmd3VkcktnTFhoaG9jNGxGWHl6am1BQ1pjaVBMYXFYMzQxZkpjc0J2Z2M4MXlvNGtZY1VQcUdLa2RSOF8tbzRUWnFRT3Y2bElZS2hNS1lEVTVYc3pzdGlVYjh0SXVCTnF4dGR6b1d5Yl9pcXhyR0JKa0lQLWdZZURzNVRaTjB5?oc=5",
-      "source": "CBC",
-      "published_at": "2026-03-18T07:00:00+00:00",
-      "summary": "What's behind the big reaction to a new South African video game?    CBC"
-    },
-    {
-      "title": "Bad news about new video game from top South African studio - MyBroadband",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWWRVTlE1eW9VeDVGckFuMTRnX2hNOUtHWlJQZVg3dlBfNGdhUTVTajFSZmZjeXZHM3A0Z19RaDY5QV9oRXhwT3NrNTYwMEhvZHRHTW1fTlVLY1VsX2VRTVJ6d0lGMUlsa2pIZFdYVHRQdXBRZXk5N1FkRVJhM0lTa0lZMkwtTEROVjN4aU03X184MnhZTjRpRER4NklGajJLZHAtMFRnMGR4bmUyTnc?oc=5",
-      "source": "MyBroadband",
-      "published_at": "2026-02-21T08:00:00+00:00",
-      "summary": "Bad news about new video game from top South African studio    MyBroadband"
-    },
-    {
       "title": "Masseka Games founder Teddy Kossoko on why mobile gaming monetisation might be failing in Africa - Pocket Gamer.biz",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWXpGOERiRl9QTDFzSER2TkZoRi0xbm1LUXYxa2dOaHNxVExQUXlOdl91YkRwZlVSR0pMQmtucHh3dEc4Y2RzMTBSb2pQbk5mTERFVFhYUzJwbk1mYXdtUUdoNjVwNmlualF4bTAtejVCM01ndmpIVi1tZ2xvcmVmb25JZTlTQjZKVkxPWW5wb2ZndWhXMXlKaVpMT0JnamcyeF94aGd2a2RDekdDdlhWTW52MjBUUQ?oc=5",
       "source": "Pocket Gamer.biz",
       "published_at": "2026-02-11T08:00:00+00:00",
       "summary": "Masseka Games founder Teddy Kossoko on why mobile gaming monetisation might be failing in Africa    Pocket Gamer.biz"
-    },
-    {
-      "title": "Video game Relooted tasks you with reclaiming African artifacts in museums - CBC",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdEJpb19Sd0o1RDFyLTdLNFgwZXc3cE5WLThuU3ZOX3U0VDBLX3JwbXJJZ3VsM1UxRDNhMGRDd3E5cVpRUk95emNYV3hnQzFCWnhoQlI1ZmQxdERYdVpMSy1TOVhYb0hJNXFIenlsU1VFcGJld0p4WmN5aXBGeFlVRTZCZkhSUQ?oc=5",
-      "source": "CBC",
-      "published_at": "2026-02-10T08:00:00+00:00",
-      "summary": "Video game Relooted tasks you with reclaiming African artifacts in museums    CBC"
-    },
-    {
-      "title": "Xsolla Supports Release of “State of the African Video Game Industry 2026” Report - Business Wire",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRUpaUW1oZ19XT0plRnRiYzE5R0h5ajN0bW5vNUUyQlNvVy11VkI2R0UyS095SnZFdGRQaDBZZ2xOVjRVZ2F2X2tmaW9vNzBJRTlleFg1MXd6RkR5dzJHMktnNDBpdjV2cENmT2pfM2x5c090YTdESFd4TGFmQUtITXhZWGppT2ZEWU9wckxoMUotZG5wdjAxWFBlRG5XYUM4V19GeFZUOC1qYVVwcU1LVWJsQkpESmlPRzQyeS1xajExNjRkc0VfQ0VjUlhaMGdPNnc?oc=5",
-      "source": "Business Wire",
-      "published_at": "2026-02-09T08:00:00+00:00",
-      "summary": "Xsolla Supports Release of “State of the African Video Game Industry 2026” Report    Business Wire"
     },
     {
       "title": "A Video Game Lets You Take Back Looted Artifacts - Hyperallergic",
@@ -190,13 +122,6 @@
       "summary": "How African game studios can compete globally    Pocket Gamer.biz"
     },
     {
-      "title": "Relooted: African Gamers Steal Back Stolen History - EBONY Magazine",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBHVWg1R3h1cnN6dDZqSm9QX2t0OTdsVnpvV2R2NmxDbW0xN1lKTFhHRTFJNWJQa011amhtbkJGWFRybmNBNHZKUWFtQmdXQXVhdjZQc3NqOUFDVEs2cDVSWkt5bWRmZw?oc=5",
-      "source": "EBONY Magazine",
-      "published_at": "2025-07-09T07:00:00+00:00",
-      "summary": "Relooted: African Gamers Steal Back Stolen History    EBONY Magazine"
-    },
-    {
       "title": "Africa’s game revolution is loading - Atlantic Council",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQW1hMXB4TS1zYVpiM1plclBRZ09ENmdfTlU3ZDFzcV9qN3RCamkzWnl0QnVqOVBsQWJmMlVqLTRiejQybEFjTkxDdHMtcHd1OGp5RGxMckVzSGUzOG83dUtudlNzOTZfMzU4b25SOUY4eHVGNXdaSDNWa0tPeUR0UnZ4YWo3OHpYRG9OM09Fbw?oc=5",
       "source": "Atlantic Council",
@@ -204,18 +129,11 @@
       "summary": "Africa’s game revolution is loading    Atlantic Council"
     },
     {
-      "title": "How Olivier Madiba set up Cameroon's first gaming studio - dw.com",
+      "title": "How Olivier Madiba set up Cameroon's first gaming studio - DW.com",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUjdORzlBZ1hLMXZyNUlmSzJrb0dYRV9EV0paT0RDWXgwQUxKN3gtV1dXLXZCWHJ1c1ItTHFEdUNCbWdzcmhZa1czNXdJQ2pqV2NlbTktVEZSMDZVTE9TejM1Z01CNWRqejFYUHB3Y3pnRXdINkpPOEdGdjAwT3ZyTS1tdUNjRElCSTBsa3VaOFV2WW9wZUln?oc=5",
-      "source": "dw.com",
+      "source": "DW.com",
       "published_at": "2025-06-26T07:00:00+00:00",
-      "summary": "How Olivier Madiba set up Cameroon's first gaming studio    dw.com"
-    },
-    {
-      "title": "Rescue African artifacts from colonizers' museums in the heist game Relooted - Engadget",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcmJ1Z1hQeHFZZVUyZzdpbENWQlVpUDJFUW95S1ZlWTRjTEhtT2ctdXpjcktqR1pHenVXVVFKV29Ic29wbVh0c0g1NHNtVnpqbTEyYW84Ui12bmNnSmlMaFprNC0yRnItYVg4aUl3ZnlSTFZGZklEY01Eby10UDY4dWNpdXdkbEYyMFJFbmJHaFZMM3N1UGpXc0lDQlBSRkF2d1pmOG9HcjZnOFI3dVUwemMtOF9fVzNLVHNDbW1iUQ?oc=5",
-      "source": "Engadget",
-      "published_at": "2025-06-06T07:00:00+00:00",
-      "summary": "Rescue African artifacts from colonizers' museums in the heist game Relooted    Engadget"
+      "summary": "How Olivier Madiba set up Cameroon's first gaming studio    DW.com"
     },
     {
       "title": "Payment challenges hamper Africa's growing gaming industry – Xsolla - Connecting Africa",
@@ -281,11 +199,11 @@
       "summary": "Nigerian studio’s first video game is an action-adventure steeped in Yoruba culture    The National"
     },
     {
-      "title": "Where are the video games from Africa? - dw.com",
+      "title": "Where are the video games from Africa? - DW.com",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE84ZXdrYnpYYnc0ZjVlalNzX1JpbkZ2SHVNWS1ZOG5FSGQ4RDdJTkRCcVJKejhFeVdVVml5OGdxVk13UXB6REJqWWRoQWhSemI5N2FDazRyYWpNZ3lvZHNrbGRMNW1PSjZHUmx3OWh4MUI1VnpwMGVQcEZ30gF6QVVfeXFMUGFFNGdBOWt0c216Q3RGcDJoc0FBUHplSmlPY3RTNGZXeWJZYmhRa3JNaDR6dEFZVERNa1lqeFg4aTNncm1WaEl2ZEJ3YmswQzdJcnM5ejgzQ3FpY2RlOW5WQnBjNHlZSjdUb0xCN3ZQS3J6MUxzVi1nY3c?oc=5",
-      "source": "dw.com",
+      "source": "DW.com",
       "published_at": "2024-12-02T08:00:00+00:00",
-      "summary": "Where are the video games from Africa?    dw.com"
+      "summary": "Where are the video games from Africa?    DW.com"
     },
     {
       "title": "Kayfo: Web gaming \"has been a game changer\" - Pocket Gamer.biz",
@@ -414,13 +332,6 @@
       "summary": "Investors train eyes on African youth with gaming campuses    The Independent Uganda"
     },
     {
-      "title": "Olivier Madiba pioneers the African video game industry - We are Tech",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZ045cVJnM2VQOXBySDNoZ2VpMDI2ajNjR1ZfQmZoMUZTNVlDamdRa01tSmlaX3oxWUd3Y2NpSWYyUm03ZGhuQXBuUGNnZ2htTzMtNW5WeHl4ekFKZGZJOHZlS2dQRU15SXYyVFNoLUJZbnFSSmRhRTUwaHBhbkhNSXNDMG9QcENBS1hiTkJYaERxdGJIQ01MRHk2cFM5WFplTVFjUU14MHVXQQ?oc=5",
-      "source": "We are Tech",
-      "published_at": "2023-05-10T11:10:24+00:00",
-      "summary": "Olivier Madiba pioneers the African video game industry    We are Tech"
-    },
-    {
       "title": "Local Gaming Industry on the Rise - Ethiopian Business Review",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0wOGlKZUFDSHA1QnhPcDBFSW8td0QtT2x6Z0x6RnZzUlk0aVhRRnNhVms1SUJGSGtiQVJqQlBmcUdTMnpLcmFzY1BWY0FHenZTbHpLWkFieldSMFJEeGJqRk5WeVBLQVVfWXRtMzhURElLOTlPN252cGR3?oc=5",
       "source": "Ethiopian Business Review",
@@ -442,11 +353,11 @@
       "summary": "How A Kenyan Startup (Plus Donald Trump) Is Lifting Africa’s Gaming Industry    WeeTracker"
     },
     {
-      "title": "A customized app store for Africa's game developers - dw.com",
+      "title": "A customized app store for Africa's game developers - DW.com",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5TZF80akZrM19oM0tTdElRQnB4eHRsZDN3dF9INGZMdVZEb0tvRHNHbDBfM0tYZ3JpblZWM0dBQkxsWUl4c0JGMGhPVUpyZWZlZjg0Qk9ublFFc3hjVDBFYlZyS1VMOE5vMnkzVHBBWUNraXc?oc=5",
-      "source": "dw.com",
+      "source": "DW.com",
       "published_at": "2022-07-29T07:00:00+00:00",
-      "summary": "A customized app store for Africa's game developers    dw.com"
+      "summary": "A customized app store for Africa's game developers    DW.com"
     },
     {
       "title": "Why Africa will be the world’s fastest growing video game market - qz.com",

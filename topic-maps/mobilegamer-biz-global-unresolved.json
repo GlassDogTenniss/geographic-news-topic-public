@@ -1,19 +1,21 @@
 {
   "ok": true,
-  "created_at": "2026-06-28T16:32:08.618584+00:00",
+  "created_at": "2026-06-28T16:42:59.436324+00:00",
   "stats": {
     "feed_id": "mobilegamer-biz-global",
     "feed_label": "MobileGamer.biz: Mobile games",
     "rss_url": "https://mobilegamer.biz/feed/",
     "fetched": 10,
     "filtered": 10,
-    "resolved": 0,
-    "unresolved": 10,
-    "rules": 9,
-    "known_places": 11,
+    "resolved": 1,
+    "unresolved": 9,
+    "rules": 34,
+    "known_places": 36,
     "loaded_data_files": [
       "data/place_rules.json",
-      "data/unresolved_known_places_12.json"
+      "data/unresolved_known_places_12.json",
+      "data/unresolved_known_places_13.json",
+      "data/unresolved_known_places_14.json"
     ],
     "topic_keywords": [
       "mobile",
@@ -63,13 +65,6 @@
       "source": "Mobilegamer.biz",
       "published_at": "2026-06-24T14:10:36+00:00",
       "summary": "There's also milestones for Rush Royale, Dessert DIY, a report on app store security and a new studio fund from Nexon in this week's round-up."
-    },
-    {
-      "title": "AI could help quadruple new game development, says Mag boss",
-      "link": "https://mobilegamer.biz/ai-could-help-quadruple-new-game-development-says-mag-boss/",
-      "source": "Mobilegamer.biz",
-      "published_at": "2026-06-24T10:29:50+00:00",
-      "summary": "“Historically, testing five to six game concepts per year would have represented a high pace for a company of our size,” said CEO Daniel Hasselberg. “Today, we see a realistic path toward testing a similar number of concepts every quarter.”"
     },
     {
       "title": "Kingshot maker Century hires a flurry of footballers for World Cup ad spots",

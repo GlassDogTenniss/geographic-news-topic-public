@@ -1,19 +1,21 @@
 {
   "ok": true,
-  "created_at": "2026-06-28T16:32:08.618584+00:00",
+  "created_at": "2026-06-28T16:42:59.436324+00:00",
   "stats": {
     "feed_id": "google-news-game-philippines-en",
     "feed_label": "Google News: Philippines gaming",
     "rss_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Philippines&hl=en-PH&gl=PH&ceid=PH:en",
-    "fetched": 78,
-    "filtered": 77,
-    "resolved": 14,
-    "unresolved": 63,
-    "rules": 9,
-    "known_places": 11,
+    "fetched": 77,
+    "filtered": 76,
+    "resolved": 22,
+    "unresolved": 54,
+    "rules": 34,
+    "known_places": 36,
     "loaded_data_files": [
       "data/place_rules.json",
-      "data/unresolved_known_places_12.json"
+      "data/unresolved_known_places_12.json",
+      "data/unresolved_known_places_13.json",
+      "data/unresolved_known_places_14.json"
     ],
     "topic_keywords": [
       "game",
@@ -32,13 +34,6 @@
   },
   "unresolved": [
     {
-      "title": "First Filipino Horror Game Jam begins on September - Inquirer Technology",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMThwYkdib3dnVnBxR1dERW9zYWJEeGlrazdxa1pEM0Y2dnFvbElrUjRvdVkwUjhkWlpMdzcycVgwNE9nNGdBWTROSlkxZURiaG5oejYzMzExelAwZlRHalRRelZFM3pNWVF3TEdIS0NMZWNPdEZCSVU4RWdxb0ItdHZkRHEteVp2Q0d3bi1YblV1UWfSAZgBQVVfeXFMTUZOOUZtRVJVYlFiNzRoSW5MdFd6c3d0SHVkcWxBZENCbzF0aE9rMEYtQnJCU2hQems3OV9tVURndk1NbUZ3eFBybmJfRDJETzFuZENYYkpjb3QtSG9TclhHMG11ZEhQNFExaHBWUk1CbTNrdmotbDdoUlJHT2dadDlRQTFSdDI3d1NLdzAwelV3c25ZTkVMclI?oc=5",
-      "source": "Inquirer Technology",
-      "published_at": "2026-06-28T03:18:00+00:00",
-      "summary": "First Filipino Horror Game Jam begins on September    Inquirer Technology"
-    },
-    {
       "title": "Press pause: Experts, gamers caution vs blaming video games - Inquirer.net",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZzZPbmlBT2tETGNUTmpSTV9Ic18tWE03Um1wcVFqWFNrd09tZmlVbk5ONzR6dGVvYWV1MGlUcHoxcFlTaGdWRUtZWUJLel95S1BBV3FTSHRmejZ1NUplM2ZKMm00YjlqU0Q2Q3RTRUoycElwRUJ3cW5rQVdvWUVzYV8xbHlVenFJaWs1R2RhLWF6VzhreU81SmNsc9IBoAFBVV95cUxNZ1dTLUpsakZ6bVh0WHp6LUU4Y29xM0dSS1pZb1h5a3k4dndCa05VLWtwR2NXMTlBWjliNHpBTnpFTGlqM0pLd3VkMmpwbjYwUEx0anZiem4zRHFiN09Qb0EyTzF1TFBDR1NETTltdFlGZXkyV1dwM2VfRkc4NUlRNFhDOXYwcWFkWTFNZ2o0TFpRMEJmVG16ME45Wjg4ZzhP?oc=5",
       "source": "Inquirer.net",
@@ -53,11 +48,11 @@
       "summary": "Layoffs hit Bellevue-based video game studio behind ‘Destiny’ franchise    The Star"
     },
     {
-      "title": "🎮🌏 From players to creators: Southeast Asia's gaming industry takes the global stage - The Southeast Asia Desk",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVUotR2daaVNYaGlTamp5cnFEVTMzRHhYbE1DLUVyWTRpNjJ1bzJYMzQySE5VdDgtRmZwNGp2cUhJUDJmU0UwRmJHTDUwZ3IxMlNzOWpXajNNYVNKbWlxQzFrMzlnWGtYQnB1MjVGZUxza2xucEl0bWdIRjJ2OU1sb19hQUIwdTQyWS1Sb1VlRW5ORC1W?oc=5",
-      "source": "The Southeast Asia Desk",
-      "published_at": "2026-06-18T14:03:25+00:00",
-      "summary": "🎮🌏 From players to creators: Southeast Asia's gaming industry takes the global stage    The Southeast Asia Desk"
+      "title": "Tacloban shooting: Philippines bans gaming app Gorebox played by teenage suspect - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5IRHRadmE0Rlc5d2d5eHZMOFdCR0VTS2N0WGhFSzI3Q0YzOGtzNGhKQkxTZkdJa1BZdlJhNWJ1UXhsZnc4bjNpSWtiS3Y3R0hBN1Z6dWpTR2Y2UQ?oc=5",
+      "source": "BBC",
+      "published_at": "2026-06-24T22:14:12+00:00",
+      "summary": "Tacloban shooting: Philippines bans gaming app Gorebox played by teenage suspect    BBC"
     },
     {
       "title": "12 video games dads and kids can enjoy for Father’s Day - Inquirer Technology",
@@ -67,13 +62,6 @@
       "summary": "12 video games dads and kids can enjoy for Father’s Day    Inquirer Technology"
     },
     {
-      "title": "Keneth Agar, Filipino dev, has released eight games on Steam - Inquirer Technology",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONk9hM0U0UF9LZGJnVmoxUkdHX081aHFHV0pMWDItejZBNTB2ODk0aGE0clhNZGtldG96bkwyTndtOTZ4aDZyZWd6X1BIVkQtQWdOLUxBSXprY2ZCU0poZ1huR1FMNWdaMGVmcWJOMGZVM0lMZHN0bWtQUnJ5VGM3YVlEUHJFVlA4ZklYenFMQ3c5WnRiQWRGTms5ZUN2RjjSAaQBQVVfeXFMUGFKRUw5SlE2QnlIT1BSN2dZLUdIdlpiWUxrZF9YV0lId1hpVjVKaUFkNnMwVWw0M1JFbEtabjhHMGloRmVub3ZmX2xjczZQZzlRNVkxanZyWFV3cGhVcGN2a0xrZjZyd0pZUmkyM0xJSkxBOEJfcm9KbGlMb004cldfRFpWZUt0VnY1VFN0ckR0Tk9uVGgxOUxTZWt1RDM4eUdmdEs?oc=5",
-      "source": "Inquirer Technology",
-      "published_at": "2026-05-15T07:00:00+00:00",
-      "summary": "Keneth Agar, Filipino dev, has released eight games on Steam    Inquirer Technology"
-    },
-    {
       "title": "Review: With ‘Saros,’ Housemarque balances the difficulty of its bullet-ballet gameplay - The Star",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZHpuWGpWX2wyTmpwWDhqdW9DU0d3cGt5dkljRVYzNEFTS3pfNTRLREdFV3ItZ0NVUVRRUVNPTW5fbU5oVXdLTmlqSnU5NS1KNnc0WmhOQW9yQ2ZGQi1tVEJka3gwejVRZEJwUUN1eWpRUXZZMHZlSW9OX3ZsTTZvYjNXcm8zZU16TXRtRUNIT3NPaWFRZzZLQi1QQklaVmY5aDFTOVJaWl9Kb3NYa0p5ekhmbXRobmpwZXRHbXlOUERQWGRtd2VUUUdoWG9hckNPS2c?oc=5",
       "source": "The Star",
@@ -81,18 +69,18 @@
       "summary": "Review: With ‘Saros,’ Housemarque balances the difficulty of its bullet-ballet gameplay    The Star"
     },
     {
-      "title": "Super Smash Bros. meets Sepak Takraw in upcoming Filipino-made game - Lifestyle.INQ",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORUpaX1kxYkJoakRQaENtXzJQQjY5b3pmTkZmX1BKQ2dKZ1liX0F5alJLNUhmLUFkRW80cGNfVGV2azUwRGpPMzdvSnozcW53ZU5XTXhBVW84OUFyUXFUSXhKdDVTZlU2b2FuMnprMk9Jak5KSG9fbExqQnpDU3JOTkI0Q3hEV1FkQ2fSAY8BQVVfeXFMT2w4aDFScEJyM0pSREE3Q2ZYZXFJMU9JX3hxTTZDdjIwWExXWHZvc1UyZHV0eS1VTllzVlo4R1pTbXBpX0tCeENheDdNdHd3MmxCT3lXemx1Z211NVBTamdnTnZKTkpnNTZDYkQ0WWhHT3Q0TVBvb2phNzRPRmtjbi1ITVlZaTc0LURkQ2t6S1U?oc=5",
-      "source": "Lifestyle.INQ",
-      "published_at": "2026-04-16T07:00:00+00:00",
-      "summary": "Super Smash Bros. meets Sepak Takraw in upcoming Filipino-made game    Lifestyle.INQ"
+      "title": "All the news about Netflix’s gaming efforts - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1MTnhqWWctelFVLUF3MW5SNXhVdWQtaEZmTWxBM3psM1ZRSFlEMWtHQ1JTMXd2a1l6NHU5XzBHMFFUOWZZS1BoekNRa0gzYnFpYWpCbDIwd1RYZDY0cmhsYzBra1plZXhLR29NYnpVUkVLZDBxLVZLUzhn?oc=5",
+      "source": "The Verge",
+      "published_at": "2026-04-28T07:00:00+00:00",
+      "summary": "All the news about Netflix’s gaming efforts    The Verge"
     },
     {
-      "title": "Metroidvania game Fallen Tear: The Ascension made by Filipino devs released to positive acclaim on Steam Early Access - Inquirer Technology",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOQkd4UVNfM0ZPaEh4enlTeUFEaHpueGRnRlJfbV80a3A1VGx1aWNoa2IxSE1WTWItbWhqWDJrNGRuWThTZndSSWhJUmN5VW9veGhfTXdjTWRiZmRtdUYxMUVSZWVkNUV1VEpDLUhEbGVPMDNMVTJfd3loTG1hTWNKZElNckVkUFhYdmVndVpyaTJhT1UtRkdlODhjb3N2SG5VMjRJZ3VFei1tVU1UTnpkeURETHBtVlZ5bFpxR09rRFd6WE5HOFQwbWltS2c3ckctOW5rMEFMeU9sMkxsWFRNa2JveFk2QU1nWFZR0gHwAUFVX3lxTFBHZVdieGZtM0FZWUozeU9oUzJ0cjZ3ZHVTZmpKM2pBcUcwZ0V5dWV0SkRXbXN4VE5uQ09YMVlSU0trcjQtdGFRSzlSLTVxa0d5MUE0TzZoSzlkUUlsLVRjQVhhMlZ2ZDZNUHlZWjBNUXdSSzdZa2MwYnd3SVNvT01YSHh2QXJmZFAxdjJhMXYtbUotemRjRmlhTWhtUG5lS0taUmdnVXpneHV1ZHkzUlRoT1pHSnZfaWdWSDVGSEJZX1lNUkl1QkROVnJSUmo3SWp2YldLT194VnNZVms4ZEVvcV9YMG9obUZyNWdPNnk5Vg?oc=5",
-      "source": "Inquirer Technology",
-      "published_at": "2026-04-02T07:00:00+00:00",
-      "summary": "Metroidvania game Fallen Tear: The Ascension made by Filipino devs released to positive acclaim on Steam Early Access    Inquirer Technology"
+      "title": "Netflix is launching a new app for kids games - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONk1kMmdYU3plSGpkZjhiVnhSOTZEYTBtbTUzcEtKRWVhMXVhdnlEb2RJY0E3YkIzb0RUc0M1SEMwZ29ZUm13Ny1FZzFKWV9LTXVaLU9vREh0QkJ5QjNJeGZsdkUyazB6VUlidVBkaFZtZkoxbG1kNGdIeF9POWpROVZqRDE3UQ?oc=5",
+      "source": "The Verge",
+      "published_at": "2026-04-06T07:00:00+00:00",
+      "summary": "Netflix is launching a new app for kids games    The Verge"
     },
     {
       "title": "Another PlayStation price hike means the gaming console will cost 30% more than it did last year - The Star",
@@ -102,11 +90,11 @@
       "summary": "Another PlayStation price hike means the gaming console will cost 30% more than it did last year    The Star"
     },
     {
-      "title": "Why God of War Sons of Sparta is a ‘coming of age’ for Mega Cat Studios - South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNU0ZvYTRndVNVb256Ums4SVRLMUd6d2JBajVkMUx6NjkzTWV3Z2h6ZFBzRThfT3BnN2tEU1l3SGw5SXMxRll2aW54R0Z0UG15WkVVS2EzUDVMRVlUbGItdFVUelZZZHI0QnJfSXltU3cyNXlxOEN6MUtzOTVMc0NHUzh0STMxaVlYaVd0eUh2UG41YUs4cVdLWTNyQzF2Q0t6UDVMNWsxZmZaSk0xeTZsbzRjTXZzSDFoSEFrc1Vvcm7SAcABQVVfeXFMUFNmVXpvSDI1QWRKMkl4MjIyY3c0MGFlWk1BWmNPaTJpblRiSWpHVHhXTC1BamQ0eVloNDJZRFdSaDB1dXBEWXpqVHJEdGh6WjBYTUNFQUNFaS1Xc0tpVjF2c0k2eG5TQ2ZHcWdSeGxsOW80Wjg0NGlKNk16X3BJOElld0dYMkFHY2lfU3FKa25HdEtfT01YbHB6MmZCVmVZYVNScFdwWXhRMVA0X1JGQmhMV1ZTakRBUE5fMXB1Y3E1?oc=5",
-      "source": "South China Morning Post",
-      "published_at": "2026-03-26T07:00:00+00:00",
-      "summary": "Why God of War Sons of Sparta is a ‘coming of age’ for Mega Cat Studios    South China Morning Post"
+      "title": "Bloomberry’s megaFUNalo! launches live studio games - Philstar.com",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSW14U1FGcC1YZzRQTGFWN0NhSlNHcFJVLVZYcEVkeW15aUotMFdJUXFnVWw5VTFiemVjT2ZGcmRkTXEzdnZGM3YxM1h2cDBMREptTU5hSVRGcEdzV1J1bnV1Q08zQV91WlB3LUpSWmxfZUlkTVZtaGI2YU9YazZjSC1YSWk5Z0dsR3Ita3FSRmZVcVVaYUpVdEFpdGp1ei1hc0NOY9IBqwFBVV95cUxPV0pSV09PUF9SdTE5RUlwbWR4ZkZ3cWx3bU12clVDUFBjYU93TnFYcHVUQnAzdWp3Q0REemtPYVQyN3VGMmstTlI1cVpHcmZnNmVHMVdBNnA3RXprWTNLVy0yRG10Unl3a3U5N3IxZVhhVmxxazMzSlR0MXJrWTVwQTVaMzJiMVNpZ3BnWkw0N0RsakgtblZvLUJkbnZWWHNQbnJBWS1DdEg2QWM?oc=5",
+      "source": "Philstar.com",
+      "published_at": "2026-03-19T07:00:00+00:00",
+      "summary": "Bloomberry’s megaFUNalo! launches live studio games    Philstar.com"
     },
     {
       "title": "NetEase to stop funding Nagoshi Studio as It shrinks gaming - The Star",
@@ -116,11 +104,11 @@
       "summary": "NetEase to stop funding Nagoshi Studio as It shrinks gaming    The Star"
     },
     {
-      "title": "A new video game traps players in an online scam centre - The Star",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNXo2WXlMMHJ4WVZReVZab3g3RHEwWTBOWVo1US1rUUFPVG0tdnVVdXEzU25qbVNVbEhhN0p3alJMd0NhZm5qN0xaeXEyTnRCMVlEVWhpZW1sUnhRTjhYdUhuajJpOHhscVlUd25tYkh1OEQtMHdITzRpREgxcDhjWmtSTFl3aXBGbGNjN0hpVXdiZlBvY1NSRGhIeFRyMzUyYmJ2Z3JlZ3JPbUY4?oc=5",
-      "source": "The Star",
-      "published_at": "2026-01-19T08:00:00+00:00",
-      "summary": "A new video game traps players in an online scam centre    The Star"
+      "title": "ByteDance in talks to sell gaming unit Moonton for more than $6 billion, sources say - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTlVKdFRpVHQ3S19xcmpKdV95cmNHSlcxcVFReFEzU3BrMlIxTExtMm01REJOLTZQbEpwbUpDRFhqQXBUQVdGUW1DMlhxS1p4ek1ybmZsYXZYYjcyY290T1lBVkpwNkFnN0l0ZHJZVjNCMGJIbW95YTZwY1FiN28xLUpUOG1KR2dVYUZ0MWVLSi1VWnpNMzN6YzdFT1dyOGhjQVQwY0Y4b2J1czFnTjVSQkpnNmtBRjNFZF9ad2lwTXFXTXRJb2c?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-02-13T08:00:00+00:00",
+      "summary": "ByteDance in talks to sell gaming unit Moonton for more than $6 billion, sources say    Reuters"
     },
     {
       "title": "This New Filipino Video Game Lets You Help Animal Shelters Just by Playing - When In Manila",
@@ -144,6 +132,20 @@
       "summary": "Award-winning game developers push video games as storytelling medium    The Varsitarian"
     },
     {
+      "title": "Summer Game Fest schedule 2025: dates, times, and where to watch all of the upcoming showcases - GamesRadar+",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8wVTNrVmQtaWlfU2lWLW83X0JHTTNfRTZiYU94eGF3WDR5SmJPYU94NkhSeVFPOVlSWFgtMTZsemJFNVFkdXVNbnowN1VidlhQS0FiWG1ucXdCZ2FfRHVadm82cmhTRzQwRFE?oc=5",
+      "source": "GamesRadar+",
+      "published_at": "2025-06-06T07:00:00+00:00",
+      "summary": "Summer Game Fest schedule 2025: dates, times, and where to watch all of the upcoming showcases    GamesRadar+"
+    },
+    {
+      "title": "Pinoy Power: 5 video games proudly developed in the Philippines 2025 - Tatler Asia",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdkpzanBBTHRzR3RSXzJzUXNvaWVWdGtUS1JMcVpSejBybEZUXzBHTk1kemhBeDRqcjIyMVloMXpIeGlsSmZBWEljTWZOZzJ6V3lmdGdPRlFiRTdRc2E0N1pQYldlUFVpMkhFY0pjU215N1RxVk5xakJqd2hjWERhU21YV2tCMWlwUTQ4VjFaZ2dDenNqQ1lxSw?oc=5",
+      "source": "Tatler Asia",
+      "published_at": "2025-04-23T07:00:00+00:00",
+      "summary": "Pinoy Power: 5 video games proudly developed in the Philippines 2025    Tatler Asia"
+    },
+    {
       "title": "Rey Tiempo chats with Polychroma Games for Game On: Game To Beat 2025 - adobo Magazine",
       "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPcktOZWN0aEQ5QzVLWDhIZXF6QWdzN3BGbFdsaF8yZ3ZOanZGZE5kUTlpWGotMG4wNUhqODJoNnBMV09jUDAxSjBfb25pTFRXSW5UV0hsN2lBRFhERXY3MjZBWlBmaHIyOTZfbm5WdEVBTzZWeU5Iek9SVjFTVnVEQTEtLXZHdzlITFlhaFk0VUgzdUZxWkV6bmJBOEtteVY3WmxMOFFnV1FjaEJZNUhMcHh2Xzg1ZzBhRDNnWmdSSEZBY2IxYTFWcnRjb3JiQmxDMmxDNG13UXhrcnc4VEtNTTVVZTIzTUlPdVZkcWZtT29qR1dOa2d1U3ZlUkY1dDJtMkY5UWNtTEY1Y1JBVEFlLWp3?oc=5",
       "source": "adobo Magazine",
@@ -151,39 +153,11 @@
       "summary": "Rey Tiempo chats with Polychroma Games for Game On: Game To Beat 2025    adobo Magazine"
     },
     {
-      "title": "Riot Games Unveils Riftbound, a League of Legends Card Game Set to Launch This Year - YugaTech Gaming",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQ2RRMnV3S0JDblluMjczWmhmbWxfUHhkUjlfUTVhdVoxQ0tRaml3aE5xWVU3TE5ONW9xbmNWdkpiNzM4VGNQMWdNWnQyTmcxYUFiOWtuV2tYNEZoNk5RLWVIaUlqSUo3Q0pEcFpHcVNFYW50dHRHYTFPVVBEUkR1MUhzT0tjR1RkU3Y1V3ByQjNhRzV3Yk45NU85TUFwTGIyZHh6SWxMclFqSmR4R0xSTFBzbld0bFk?oc=5",
-      "source": "YugaTech Gaming",
-      "published_at": "2025-04-06T07:00:00+00:00",
-      "summary": "Riot Games Unveils Riftbound, a League of Legends Card Game Set to Launch This Year    YugaTech Gaming"
-    },
-    {
-      "title": "How Ubisoft Philippines is Leveling Up the Local Gaming Industry - all-starmagazine.com",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYTBxX05vbHg1QkRucTZmbFBVNHV1TDZfOHp4SS1VQXhqaENZNnJybjFTbWdlSnMwYjJFc2Q1OTlmUHFtWTJjbnlldUFLTDlqUXRmRGhtdnNybmtyNU5UVFAzekR3LTRCQzQ0S01XbVpVdmJ5NEJELXJLWGE0WU4wQl9DdGtBT21IZXIyanZHang2VnpJbXlzTW1Hd2k2MFJqdXFRLVEyUQ?oc=5",
-      "source": "all-starmagazine.com",
-      "published_at": "2025-02-24T08:00:00+00:00",
-      "summary": "How Ubisoft Philippines is Leveling Up the Local Gaming Industry    all-starmagazine.com"
-    },
-    {
-      "title": "Pittsburgh's Mega Cat Studios Is Leaving Its Mark on the Game Industry - Pittsburgh Magazine",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5IWUp3SHpFejZfb2prU3VRUHpSLXhQWlFQWVFhNG50TnRMYWF4UFdOTU9rcG0yVUM3NnBOWi03Q0VETkZBb25vLUlVTkwteDI0Sm51dVFCRl8xOWtqWUpkMUlaeGFKRFFvN1Y4QnhmNUY?oc=5",
-      "source": "Pittsburgh Magazine",
-      "published_at": "2024-12-04T08:00:00+00:00",
-      "summary": "Pittsburgh's Mega Cat Studios Is Leaving Its Mark on the Game Industry    Pittsburgh Magazine"
-    },
-    {
-      "title": "News5. . #N5DOriginals | Ipinakilala na ang Filipino-developed game na \"Vi the Game\" bilang bagong dagdag sa competitive Esports Arena. #News5 | via Lui Urgino - facebook.com",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQkVCdjRiLTF1WS1HenVHRXRlSFA0eFZfeTBIcFFJTmU4elUtZFFTSlU5RWRURC1pQWdaMnNBZ3hEeWJsLThGMklrZDRUWkY1eDZBeFA4NHllYjJJdXVOUU1tekxDcmhmNURjajRfbFlYMmdKZkpCYjBBdFlfendHOEF1Ri1rV3pVc0ZaeFhBc2prcWZVUXctZzFPLTRqOFk2VFFNbG8yZy0xeTJ2R0s0WktaV1VkZjctX3NZa2V5Y1BldndadDMw?oc=5",
-      "source": "facebook.com",
-      "published_at": "2024-11-07T08:00:00+00:00",
-      "summary": "News5. . #N5DOriginals | Ipinakilala na ang Filipino-developed game na \"Vi the Game\" bilang bagong dagdag sa competitive Esports Arena. #News5 | via Lui Urgino    facebook.com"
-    },
-    {
-      "title": "This Indian Studio Supported the Developers of Alan Wake 2, Baldur’s Gate 3, Starfield and Many More AAA Games - IGN India",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOVnprNlNyYnBUbkN6UzdYbGJHWkdZbEVNOFhlYTduVFBQd0o4ejNNOXZQMC1pY04tNmJSTXZzVXVRbElueEJ6dnFvV0ozRmJHeEt4VkdYdUR5X0RWR0w5UnFZQzdSYnU4VWZJVlJnSGlnczBqR21YYXowaXJjejhCWmdfaHRoUjNnSmcwUHphWGVHQklqamxKbjN1X05fRnIzamhCV3lncFZXVG1OcUhfV0FaSzY3djUyMUVCREtpQ01ZNmdPSUU5VFM2V3E2OHFZTm9EcGphTQ?oc=5",
-      "source": "IGN India",
-      "published_at": "2024-08-25T07:00:00+00:00",
-      "summary": "This Indian Studio Supported the Developers of Alan Wake 2, Baldur’s Gate 3, Starfield and Many More AAA Games    IGN India"
+      "title": "Netflix Closes Its All-Star AAA Video Game Studio, Which Made Zero Games - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaW9zY21FX1RLdmpVaHRVR05xdEpxbnVUSkNMYXVSQ095a01aWlh6WUtwXzRZU05ORlAtWDRIa1kzWngwTG1DcjdEdmhJM19BeEl4ZWY1aS1Yc1U4NkdVMVl2SnlvMHdTcU5mRE1vMkVGd1JiZi13aHRpZTVWbHNVRjlnQk1LamE5TldUZl9hU0JQN1BSX2E1Q2lHQVNEVGk2RnJiZG9yb2hleThQM1R1RHhheHI2LWVNU0JzcmxRTQ?oc=5",
+      "source": "Forbes",
+      "published_at": "2024-10-23T07:00:00+00:00",
+      "summary": "Netflix Closes Its All-Star AAA Video Game Studio, Which Made Zero Games    Forbes"
     },
     {
       "title": "Looking for a new game to play? ‘Until Then’ transports you to a familiar place with a tearjerker story - Tatler Asia",
@@ -207,11 +181,11 @@
       "summary": "Interview: Taktyl Studios' James Ronald Lo on the Filipino gaming landscape and Game Camp Asia    UnGeek"
     },
     {
-      "title": "LOOK: ApoCalypso, a game developed by CSB students looks very promising - SPIN.ph: Sports Interactive Network Philippines",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSU44VklJVFNWbGsybUdPSGRudDBTU2hHMEZVejQ5WFFYbzRBU21YMElST3ozQ3FidjBhQVRMVTc0NC1jcWhabldFUjFkQ3VmTmU2amNsUDdza0JjZDJhcU9KdmZENU5aWXVkYndvbXo1Q09sZ1QxOVM5WHJURHRocjQ5Z2F0dURXcWpzNWVTZGxwS2pNWTVPZHVndFBPaHd3SVVCQzkzSFYwajhqNnhzb1B0NGhtb3Z3UlE?oc=5",
-      "source": "SPIN.ph: Sports Interactive Network Philippines",
-      "published_at": "2024-08-01T07:00:00+00:00",
-      "summary": "LOOK: ApoCalypso, a game developed by CSB students looks very promising    SPIN.ph: Sports Interactive Network Philippines"
+      "title": "Video game performers go on strike over artificial intelligence - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJY1VZUzk3ZHluRzh0TllSWTlRUXo1MGhBX0laQkFjUkwzTlZlNGowSUVMMmFaSXJERXM2RHl3Zm5jZjl3OENyNkItX1VYYzl0aUM5NUFienVJUQ?oc=5",
+      "source": "BBC",
+      "published_at": "2024-07-25T07:00:00+00:00",
+      "summary": "Video game performers go on strike over artificial intelligence    BBC"
     },
     {
       "title": "Netflix Arcane series producer Thomas Vu hints Filipino mythology game is in the works - PEP.ph",
@@ -219,13 +193,6 @@
       "source": "PEP.ph",
       "published_at": "2024-06-29T07:00:00+00:00",
       "summary": "Netflix Arcane series producer Thomas Vu hints Filipino mythology game is in the works    PEP.ph"
-    },
-    {
-      "title": "Ubisoft Philippines Invites Gaming Communities To New Office In BGC: “Laro Tayo?” - Ubisoft",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOajV5emxzbzV5aDEtc1ZnMlBUdF9vUGFCcW85VUhhX2h1WklKeFU5aS1Lem5MNTA3NmlfMnhyVWpYYjhRLUJHblNBYXlMUFo4UVVpekpfclJGRHpqTDc0SXBWMmZoaUZCNTBTdnpoY2dUcEVQMDBfNEpKMlk2TVV2LVVMR3RMT1llZWtLODNMdjRDanY4aTU1bWFVc3k1M05aVFdHSzlYRlo4ZGIzRTI5V1NURW9OdmhXX1IwS0cwWmdoZjFwZUFuTDBSNWRqS3lCT20wQ1ZxU1lUazg?oc=5",
-      "source": "Ubisoft",
-      "published_at": "2024-06-21T07:00:00+00:00",
-      "summary": "Ubisoft Philippines Invites Gaming Communities To New Office In BGC: “Laro Tayo?”    Ubisoft"
     },
     {
       "title": "A Filipino-developed mobile game about plantita life has been featured in one of Google’s grants for indie game development. - facebook.com",
@@ -270,27 +237,6 @@
       "summary": "Malaysia needs to take gaming to the next level    Free Malaysia Today"
     },
     {
-      "title": "These award-winning Filipino indie games are fruits of passion, process - Philstar.com",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZW5oNEhxN1RyX0UwOGZNa0FCX1Y2UzJZd2tiZ01ZMjk0UVliTlF4NzZoclZodHlaWXlxNzMySW1wdnRjSkxDN2x3bkNJY1FIMjdmWUJobkItR2Q3WE5GQmxIdk1RWEFlYnhBek12TTVvcVp4Nk5sVzFDYWtEUjNRb0dXdTlxeXJPYzYwcjcyU0RYNGstdjZGc01fNnJOTnJRWnNnMlVkQ0tLdGN0d2ZMeFdWdlpiNlM5eVHSAcABQVVfeXFMTXJJbU1rOFVyX01LUFVyTHBKc2tiX3RKUDg4YVlSS29MUlJvUk81SzdzNzZBMllTVFhuQTJIRUNmQndlZ01yekxxVkFGOUpZY1ZsQlpNM2ozWFhPRzU5Z2NHOXBIYVpNVU5maFhkQzFGcUxrVEZQbHp6bDBsNnlHaUJVNDZtLVk3VE01RUtfajBuczk5YXZnWFdTM25QaEtEY2VBRU1rTTFnd055NldEeW15Y09WT0ozZ3owbVlWY2dL?oc=5",
-      "source": "Philstar.com",
-      "published_at": "2023-09-28T07:00:00+00:00",
-      "summary": "These award-winning Filipino indie games are fruits of passion, process    Philstar.com"
-    },
-    {
-      "title": "These upcoming Filipino video games prove the ingenuity of local devs - SPIN.ph: Sports Interactive Network Philippines",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONDFycGJaWFdhV25DLVotb1FkemZYcHk2OUVNeldsanZiSzBQWnlZSXlqNWxPT18zZmQtbjlWQ2RSN0RoYk50T0x5QUZybTJmUFRkM01jeHFLWF8yYmEtM0hQSjVjdHFCWkJEaTYwckE1djFZcjJKekRJSkQ3N3dDM3JfVm5GNFhkcnJpYnBmMXFBOS1pV2xLdlJnY25LNmFnWVVMdnNSWDJ2bWJ2bW5Ta2lHeVI?oc=5",
-      "source": "SPIN.ph: Sports Interactive Network Philippines",
-      "published_at": "2023-09-02T07:00:00+00:00",
-      "summary": "These upcoming Filipino video games prove the ingenuity of local devs    SPIN.ph: Sports Interactive Network Philippines"
-    },
-    {
-      "title": "These Pinoy Indie Games prove that gaming can also educate audiences - SPIN.ph: Sports Interactive Network Philippines",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUU40Qktremx1OEU5ZFIzdWlXbEtoS04xMnJoR3lhTHc0VXFIZXgzM1FoMWFiOEx1ZXBCYV9mYzhPZHBseHhkaEFpX1hHSmVFY1dLUlR4WnEzMy1zVXg1VURiekhuRXJib3Jtc25BYWZkOEoyWUlTZjA0UFgxY0c5NUtsZWJhNDhwMjBqRUY0QXlpUGFvMldOR2VUM1lGVldiM1pxa1BnUEFoRlNicXlSalZMcDBYdFBjRG9YeEtxa1kybFVJSng0NWlvZWFTS2RBUlRxdkVOTkQ?oc=5",
-      "source": "SPIN.ph: Sports Interactive Network Philippines",
-      "published_at": "2023-08-26T07:00:00+00:00",
-      "summary": "These Pinoy Indie Games prove that gaming can also educate audiences    SPIN.ph: Sports Interactive Network Philippines"
-    },
-    {
       "title": "Gaming god? These Filipino mythology-inspired games can make you one - INQUIRER.net USA",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQnlheXdwcWFlZEJsc2JZdUFuRWhmLTFhS1lyenZtNTYxeWppblZKTFNtc2dGUUF2Tm1pRnlUR0xHRTBvWXBJSmM3T0xSVXB3VE9pa1hIbUV3OWQ1dWFvYVdMWUduY3dqNnJFWTFSNlNpWlBEdTV4X1V5NGZJekttaFZGVWROa0dGVEh6d2lMQldJeV83TmZLLVZvaktRR2xM?oc=5",
       "source": "INQUIRER.net USA",
@@ -298,11 +244,11 @@
       "summary": "Gaming god? These Filipino mythology-inspired games can make you one    INQUIRER.net USA"
     },
     {
-      "title": "Upcoming Pinoy Game ‘Sinag Fighting Game’ is Now Available for Pre-Registration - IGN Southeast Asia",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMW1HMWgzSl9sNk1RN1dvTWFNaC13TG54MmlYc0JfZlh2eklranBOVmtWcjR2ekd5cE1tN2d5eE1ZUGZiSDl4THZ6ZGtrejB4Y3hGMFBRRW00M0xJQkJrTEpUMTV1QzRhaHVMNHN0c2ZYWlRoMGlYTk1nS2tkUF9pOXlNczhSNHItdmNNbk0xNTgyY2hDZmFmNUxBMy1MWXU0T2JyNklVQ1JpT1F6cEpldU9sWlYwVGlpVEducjdiUEk1Wnc?oc=5",
-      "source": "IGN Southeast Asia",
-      "published_at": "2023-07-28T07:00:00+00:00",
-      "summary": "Upcoming Pinoy Game ‘Sinag Fighting Game’ is Now Available for Pre-Registration    IGN Southeast Asia"
+      "title": "‘Why not give Filipino games a chance?’: Putting the spotlight on Pinoy game developers - Interaksyon",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOXF2eUkzcXZWMFAzd1BiR1dUN1dvX3Q2X3NhUGtDZ3lIdkVMN0tlN1Rta2N6X09jMF9CdTlMUnFwWERPNmhzVENERVFzS2RvaVRndVI0MHRQOW9xcThGMWs4N3kyWlVmSlpZbm9QbjB2TTZBUnFFRXhlNUxYOWZOemVWTDM4UGVaREFnWTVzYWVRckdGSC1JSFhXVkM4ODk5d1JCYVRDWlhqcUVIdzVOOGh1eWVYZmfSAbwBQVVfeXFMT0FnOGw0ajVvUzhwd3ptUkdNTFQ4X1FHX2tCcjh2aHZaRFVONENleW9tUkhKcFdWSU5xTkZGRVh0aTlNbWxfdkdEMGpVaVcwRFVrWGhGM0ZSemhHZzN4QmI0dnQ4X1FTUUduSTBTMmIzcGY0YV8ydmszbDVkRVh6MWVKdGpzNTYwbURveXhrWlZZeWdJa1oxaVgzd0YtencwNWotMHZvYVo3cTNWWXprRTFxSUJESTVwRld5RWI?oc=5",
+      "source": "Interaksyon",
+      "published_at": "2023-08-12T07:00:00+00:00",
+      "summary": "‘Why not give Filipino games a chance?’: Putting the spotlight on Pinoy game developers    Interaksyon"
     },
     {
       "title": "Game studio Eyeball Games raises US$1.5 million in pre-seed round - The Business Times",
@@ -368,6 +314,13 @@
       "summary": "People in the Philippines are earning cryptocurrency during the pandemic by playing a video game    CNBC"
     },
     {
+      "title": "Meet the Filipino studios that helped create Cyberpunk 2077 - UnGeek",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaFVTNFZZcmlicjVnWUU1MTRPQWloVkN5SS1uVDNFUjZrOVllRVlKQnJBN1VueVRFV25LUGJ5U1BFaTJ5RnNXSFpZUnhGWllYcTk0MHY5X3BCTlc4SVJFZGRNRld4STdHN2xTMnlqOS1rSERSTWp2N1QzZjdHaGptdkpIdzdmRkVkYWVWcnZXYmdkX013?oc=5",
+      "source": "UnGeek",
+      "published_at": "2020-12-10T08:00:00+00:00",
+      "summary": "Meet the Filipino studios that helped create Cyberpunk 2077    UnGeek"
+    },
+    {
       "title": "Filipino fighting game ‘Bayani’ is historic! - Manila Bulletin",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBHdEZGYkVXMDFZTk9JbFZudUJDdk5OMTFGMWhrQm5xb2JiQ0QxeXVPMVFFZ0pVcmx6d3JEMnhZSVU5Mkp1QlQyNER2SEpNMTZxd0h5a1Zqb2c5dk9FcWstSllFVFFGaU1ndWNJZDUzbi1nbloxZ3JEdTlvUQ?oc=5",
       "source": "Manila Bulletin",
@@ -380,6 +333,13 @@
       "source": "SPIN.ph: Sports Interactive Network Philippines",
       "published_at": "2020-07-22T07:00:00+00:00",
       "summary": "This Pinoy game studio secretly worked on ‘The Last of Us Part II’ for years. This is their story    SPIN.ph: Sports Interactive Network Philippines"
+    },
+    {
+      "title": "VNG Game Studios and their plans in the Philippines - Gadget Pilipinas",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaGt5cmVYTWc0VV9DVjRVSV9ZTWwwT2h5ckk4aGFTUjR1UnNDODdGOEtKdm1qZEFxbkZ5clZUbHQ2c2RzZU1TUktNR1lNOElhRGxkVmxjWEpudWhUS3lWMHRHWlVXVkJhdUVmcGl4cXVKSnNVYzhsR3UzaFRnNUNaS3NKcUtjazQ1ZFZrWnVmNUZ3TnJ3Tl80?oc=5",
+      "source": "Gadget Pilipinas",
+      "published_at": "2020-06-30T07:00:00+00:00",
+      "summary": "VNG Game Studios and their plans in the Philippines    Gadget Pilipinas"
     },
     {
       "title": "The gaming explosion in Southeast Asia - The ASEAN Post",
@@ -410,32 +370,18 @@
       "summary": "Meet the Filipinos Behind One of the World’s Biggest Video-Game Companies    spot.ph"
     },
     {
+      "title": "The business of gaming: It’s bigger than you might think, and it’s growing - UW Magazine",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZGF4aXNjWDVWWDB3X2ZMbkozeUZpS2pIVG9fZExqS0FSSkVnNUNFaU00T1Q2UzZuNjRReFYtZVhmY1M3akgtM2ZUMlFwaU91OVQxS3h5YnhqRGhHUUdEb1hSUUtHU0x3QmF6enpiYzllcU1fcWdFTjhacXZab2l0V0M3QUdXTjRkV1pGSHdtSE9VWlhXQ2pRa3hRSG9xeEhTaWFHdkJQUFRhRGtUTUlKQg?oc=5",
+      "source": "UW Magazine",
+      "published_at": "2018-07-02T15:59:15+00:00",
+      "summary": "The business of gaming: It’s bigger than you might think, and it’s growing    UW Magazine"
+    },
+    {
       "title": "Gaming is taking over Southeast Asia - The ASEAN Post",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5rOFlkME5rdnh3dFdlUVhKQ3VIREx4cUg4YnBHZFByeE81NnNqcVNfNlRKclA3UWpBVVRQZGV5UTF5Rm14S3BycGo5VGczcFdCYVlEbnBicllmaHB0cVR5YkF2XzhRaGVpTmYzajJwUlV5dVVJ0gF6QVVfeXFMTjQwWnN1b2lLYUN2UXc1NXVWZS1DS2hfZEE5OHppVHc2bENNNGZtQXllTDllS19sSUpBWk9uQmhtNFNSRWM4cGtDSlM2dk9jV05iclpQV2hpZDNjZmRTc1VxLS1vMmFxT2NiWTZueTFueDVfR2RmSEd6VWc?oc=5",
       "source": "The ASEAN Post",
       "published_at": "2018-03-14T07:00:00+00:00",
       "summary": "Gaming is taking over Southeast Asia    The ASEAN Post"
-    },
-    {
-      "title": "Esports seen to usher in jobs, businesses into Philippines - Philstar.com",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOWloQUpiU3ZSS3hYcHFjaXg3ZnE0cEdmUzhNTEd6dnBrSXhvNXpRNnFIbW9QYVQxZDBsMWQ0X2VFZURfaHVQdDNhUFIzRmhBeTMtcDdqU3o0R2VOZWlTOU1IRFhyNm9rT1pkQkViWGhHak1LY1QyTWh6V296QTNLd096Z2REaFFoTXFORzR3dVItOGdaSnJmR0dNNnhQekxsaGfSAagBQVVfeXFMUEhnSkVsbDJ4YWd6NnBwMDdNSHhqc01PbnlPZ05OUVdLVkY0YXNPVnZQR3lDLXdHQlg3ZzRvdFZ3UEpUS0N6a290dk50c2NXc21vLUFiM0JjNG1pSUQ4Tm1SajY3ZTlpNThPQUo4cVJ5eS00YUkzaThHWEwwcHdxVklXTFZrbnBPUFJvcURjeDloSEdjbC0zdnVOUzdGVjZOZnlCa1B6SWpO?oc=5",
-      "source": "Philstar.com",
-      "published_at": "2017-06-30T07:00:00+00:00",
-      "summary": "Esports seen to usher in jobs, businesses into Philippines    Philstar.com"
-    },
-    {
-      "title": "Pinoy-made virtual reality game showcases Filipino mythology - GMA Network",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcWFJQm1XNWF1YjJocE43eWZHRHM0Vk1HMWJ2eHB0bl9Uci1IOFdPZF9wTC1KMHdOYnBEeEQwMlg1Njd3UGtoY1p5NnpUME5MS2QyVWM0Tkh3QlJpY1NWbTJFMkZ3T0tMNF9abWI0VDFJS2tta0NRbVQzNnZ6SVZLYWFLME1TWlA1eG1KSUx3TW9UTF9OX21YeU5SLTRoUUtkY29MNlJaZV9CNFhSMzlpRjFvN3hQdTA5NHQ0dmo1QVZXNTA?oc=5",
-      "source": "GMA Network",
-      "published_at": "2016-11-16T08:00:00+00:00",
-      "summary": "Pinoy-made virtual reality game showcases Filipino mythology    GMA Network"
-    },
-    {
-      "title": "Ubisoft PH opens! The Philippine Gaming Revolution starts now? - UnGeek",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcWY2eUxNR3B4NloyRHJ2em1ldFlrTmYzZHVCaW00Y0RqMTdWcDJhQmlzLTZXMVo4MDBEbFNsNXZlVHBfS29qV3R0ZUxwczBpdVVncE8tX0FUaS0tV3pEQ2g1eE14bUd1NXZDeVo4NkVzNUVYTTNoT1ltSVhETXRVWWVNaUpHa1A4ZjN3Y0l6dFhlclh2eVE?oc=5",
-      "source": "UnGeek",
-      "published_at": "2016-03-29T07:00:00+00:00",
-      "summary": "Ubisoft PH opens! The Philippine Gaming Revolution starts now?    UnGeek"
     },
     {
       "title": "Gaming’s Unlikely Ally: An Interview with Senator Bam Aquino - Inquirer.net",
@@ -464,13 +410,6 @@
       "source": "Inquirer.net",
       "published_at": "2013-01-17T08:00:00+00:00",
       "summary": "Philippines can be a global leader in advergaming    Inquirer.net"
-    },
-    {
-      "title": "Gaming firm eyes hotel, leisure venture - Inquirer.net",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zdHJ5Y1FMdDlGSHZCWFpvX0p1T1pPQmw0NFhVRnhaT1lQLTg1QVM4M0ZpcXA5Smx5aXdORGVuWU93NExueW1rYXkyZkViaVVHMzB2QWREVElaaHBIb0FrdTZ3Q2VTS20ydENLVnFVZlhTRnpHV2tzcUF3ejZWREnSAYQBQVVfeXFMT3FlTDFqem1TcDNjMjE4LVRZZk9DRDBKbE5SV21jWDJsZ2QyTW1vdWRWTnNQQ0J5N0dJMGhFSldBY1dOeFFxenJveFlSNWNzbkdTbUFuYmlkd3duS3RLbVZLNEVyaHdBWG5BUzBUdXdrZTUyRXlwRnFBaXFqbkpMUHpNS0h3?oc=5",
-      "source": "Inquirer.net",
-      "published_at": "2012-02-03T08:00:00+00:00",
-      "summary": "Gaming firm eyes hotel, leisure venture    Inquirer.net"
     }
   ]
 }

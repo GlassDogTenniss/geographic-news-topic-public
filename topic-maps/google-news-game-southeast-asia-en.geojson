@@ -1,21 +1,23 @@
 {
   "type": "FeatureCollection",
   "properties": {
-    "created_at": "2026-06-28T16:32:08.618584+00:00",
-    "count": 4,
+    "created_at": "2026-06-28T16:42:59.436324+00:00",
+    "count": 9,
     "stats": {
       "feed_id": "google-news-game-southeast-asia-en",
       "feed_label": "Google News: Southeast Asia gaming",
       "rss_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Southeast%20Asia&hl=en-SG&gl=SG&ceid=SG:en",
-      "fetched": 77,
-      "filtered": 76,
-      "resolved": 4,
-      "unresolved": 72,
-      "rules": 9,
-      "known_places": 11,
+      "fetched": 76,
+      "filtered": 75,
+      "resolved": 9,
+      "unresolved": 66,
+      "rules": 34,
+      "known_places": 36,
       "loaded_data_files": [
         "data/place_rules.json",
-        "data/unresolved_known_places_12.json"
+        "data/unresolved_known_places_12.json",
+        "data/unresolved_known_places_13.json",
+        "data/unresolved_known_places_14.json"
       ],
       "topic_keywords": [
         "game",
@@ -40,6 +42,60 @@
     }
   },
   "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.9758,
+          4.2105
+        ]
+      },
+      "properties": {
+        "title": "🎮🌏 From players to creators: Southeast Asia's gaming industry takes the global stage - The Southeast Asia Desk",
+        "source": "The Southeast Asia Desk",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVUotR2daaVNYaGlTamp5cnFEVTMzRHhYbE1DLUVyWTRpNjJ1bzJYMzQySE5VdDgtRmZwNGp2cUhJUDJmU0UwRmJHTDUwZ3IxMlNzOWpXajNNYVNKbWlxQzFrMzlnWGtYQnB1MjVGZUxza2xucEl0bWdIRjJ2OU1sb19hQUIwdTQyWS1Sb1VlRW5ORC1W?oc=5",
+        "published_at": "2026-06-18T14:03:25+00:00",
+        "representative_place": "Southeast Asia gaming industry",
+        "place_label": "東南アジア",
+        "sort_place_label": "東南アジア",
+        "geocode_query": "Southeast Asia",
+        "place_type": "industry_region",
+        "location_precision": "region",
+        "place_reason": "未解決記事のタイトルに『Southeast Asia's gaming industry』とあり、特定国ではなく東南アジア地域全体のゲーム産業を扱う記事として地域代表点に置く（一致語: From players to creators: Southeast Asia's gaming industry takes the global stage）",
+        "confidence": 0.6,
+        "rule_id": "observed_southeast_asia_gaming_industry_202606",
+        "matched_text": "From players to creators: Southeast Asia's gaming industry takes the global stage",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.774,
+          12.8797
+        ]
+      },
+      "properties": {
+        "title": "Super Smash Bros. meets Sepak Takraw in upcoming Filipino-made game - Lifestyle.INQ",
+        "source": "Lifestyle.INQ",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORUpaX1kxYkJoakRQaENtXzJQQjY5b3pmTkZmX1BKQ2dKZ1liX0F5alJLNUhmLUFkRW80cGNfVGV2azUwRGpPMzdvSnozcW53ZU5XTXhBVW84OUFyUXFUSXhKdDVTZlU2b2FuMnprMk9Jak5KSG9fbExqQnpDU3JOTkI0Q3hEV1FkQ2fSAY8BQVVfeXFMT2w4aDFScEJyM0pSREE3Q2ZYZXFJMU9JX3hxTTZDdjIwWExXWHZvc1UyZHV0eS1VTllzVlo4R1pTbXBpX0tCeENheDdNdHd3MmxCT3lXemx1Z211NVBTamdnTnZKTkpnNTZDYkQ0WWhHT3Q0TVBvb2phNzRPRmtjbi1ITVlZaTc0LURkQ2t6S1U?oc=5",
+        "published_at": "2026-04-16T07:00:00+00:00",
+        "representative_place": "Filipino-made Sepak Takraw game",
+        "place_label": "フィリピン",
+        "sort_place_label": "フィリピン",
+        "geocode_query": "Philippines",
+        "place_type": "game_origin_region",
+        "location_precision": "country",
+        "place_reason": "未解決記事のタイトルに『Filipino-made game』とあり、フィリピン制作のゲームとして国単位に置く（一致語: Super Smash Bros. meets Sepak Takraw）",
+        "confidence": 0.72,
+        "rule_id": "observed_filipino_sepak_takraw_game_202604",
+        "matched_text": "Super Smash Bros. meets Sepak Takraw",
+        "match_source": "known_place_title"
+      }
+    },
     {
       "type": "Feature",
       "geometry": {
@@ -118,6 +174,87 @@
         "confidence": 0.66,
         "rule_id": "apple_cupertino_headquarters",
         "matched_text": "Apple",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6869,
+          3.139
+        ]
+      },
+      "properties": {
+        "title": "Indie Jam 2023 To Showcase Southeast Asian Gaming Excellence in Kuala Lumpur - Pokde.Net",
+        "source": "Pokde.Net",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9UcHhBdW1aTzZGeENrUWtNNUtTZC16UXIwSjY5RlZyQ0pMWERSajVGVjJVYW91Zm9xdjV3QTJuV1VtS3M0aTZaM2QwT0R1LTFPVG9LcnJJYjUzWWFORWtxcnkzT2pWSlE?oc=5",
+        "published_at": "2023-11-12T08:00:00+00:00",
+        "representative_place": "Kuala Lumpur concert stop",
+        "place_label": "マレーシア-クアラルンプール",
+        "sort_place_label": "マレーシア-クアラルンプール",
+        "geocode_query": "Kuala Lumpur Malaysia",
+        "place_type": "event_site",
+        "location_precision": "city",
+        "place_reason": "未解決記事のタイトルにMalaysia、summaryに『live in Kuala Lumpur』とあり、コンサートツアーの対象地としてクアラルンプールに置く（一致語: Kuala Lumpur）",
+        "confidence": 0.86,
+        "rule_id": "observed_undertale_symphony_kuala_lumpur_202606",
+        "matched_text": "Kuala Lumpur",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6869,
+          3.139
+        ]
+      },
+      "properties": {
+        "title": "Virtuos launches new studio in Kuala Lumpur to bolster Southeast Asian presence - Pocket Gamer.biz",
+        "source": "Pocket Gamer.biz",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBWbHRjTy13TV80XzQtY2lHNENHQXB2cjlWQkE2NTRqZmpMU1BiLXNWdGZtZHJOdXh3SEVvN2FaZXJvRFNOVGI2czM5X1VORXJUMUhfUW8xZlBERjN1Rjk4ZENhT25pR3Q4N282ZVdic2V6dw?oc=5",
+        "published_at": "2022-08-19T07:00:00+00:00",
+        "representative_place": "Kuala Lumpur concert stop",
+        "place_label": "マレーシア-クアラルンプール",
+        "sort_place_label": "マレーシア-クアラルンプール",
+        "geocode_query": "Kuala Lumpur Malaysia",
+        "place_type": "event_site",
+        "location_precision": "city",
+        "place_reason": "未解決記事のタイトルにMalaysia、summaryに『live in Kuala Lumpur』とあり、コンサートツアーの対象地としてクアラルンプールに置く（一致語: Kuala Lumpur）",
+        "confidence": 0.86,
+        "rule_id": "observed_undertale_symphony_kuala_lumpur_202606",
+        "matched_text": "Kuala Lumpur",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6869,
+          3.139
+        ]
+      },
+      "properties": {
+        "title": "Virtuos Bolsters Southeast Asian Presence With Launch of Game Development Studio in Kuala Lumpur - Virtuos",
+        "source": "Virtuos",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTFFRM01OX29wTFZEaC1yMEl6ZjlOQUNBYUJHYm13eWpCSjhUeVlhQjlSMmRyeVR6VGl3aFhOQTZjeGQ1ZHVlRzlobzhMaUxpWW9iOGExbjZSNVFFbXAzX0FaUFpVdVItQWJ2OXpiWnlSV09WeGlDVklJZk5jZlUza2x5VnNSQ2xHUkczUXExQ1N3TkhYeWs1cDRfYjUzSDk2RFpjcFJ2TmlibW8zTVFSdHdPZHRPdW9YWEdlZFNSczdJcHdMWkk1d3NKNA?oc=5",
+        "published_at": "2022-08-12T07:00:00+00:00",
+        "representative_place": "Kuala Lumpur concert stop",
+        "place_label": "マレーシア-クアラルンプール",
+        "sort_place_label": "マレーシア-クアラルンプール",
+        "geocode_query": "Kuala Lumpur Malaysia",
+        "place_type": "event_site",
+        "location_precision": "city",
+        "place_reason": "未解決記事のタイトルにMalaysia、summaryに『live in Kuala Lumpur』とあり、コンサートツアーの対象地としてクアラルンプールに置く（一致語: Kuala Lumpur）",
+        "confidence": 0.86,
+        "rule_id": "observed_undertale_symphony_kuala_lumpur_202606",
+        "matched_text": "Kuala Lumpur",
         "match_source": "known_place_title"
       }
     },

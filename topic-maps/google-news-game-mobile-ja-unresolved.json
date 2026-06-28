@@ -1,19 +1,21 @@
 {
   "ok": true,
-  "created_at": "2026-06-28T16:32:08.618584+00:00",
+  "created_at": "2026-06-28T16:42:59.436324+00:00",
   "stats": {
     "feed_id": "google-news-game-mobile-ja",
     "feed_label": "Google News: スマホゲーム",
     "rss_url": "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja",
-    "fetched": 79,
-    "filtered": 73,
+    "fetched": 78,
+    "filtered": 74,
     "resolved": 0,
-    "unresolved": 73,
-    "rules": 9,
-    "known_places": 11,
+    "unresolved": 74,
+    "rules": 34,
+    "known_places": 36,
     "loaded_data_files": [
       "data/place_rules.json",
-      "data/unresolved_known_places_12.json"
+      "data/unresolved_known_places_12.json",
+      "data/unresolved_known_places_13.json",
+      "data/unresolved_known_places_14.json"
     ],
     "topic_keywords": [
       "スマホゲーム",
@@ -34,18 +36,18 @@
   },
   "unresolved": [
     {
-      "title": "アストラエ・オラティオの配信日と事前登録情報 - GameWith",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1ZWjlzVkpQVEdYa29Hcm9iQUwxclQzWWduNHIwbHZIeHhyTGJQYlpqNTRhaFA5cG1URjI2ZnVvbWt6WFFWbkdB?oc=5",
-      "source": "GameWith",
-      "published_at": "2026-06-23T23:36:50+00:00",
-      "summary": "アストラエ・オラティオの配信日と事前登録情報    GameWith"
+      "title": "【ラストファーリー：サバイバル】配信日と事前登録情報｜最新情報 - AppMedia",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9LNXJ6amllbk1RanV3c1hPejU3Q1BDblFiX1pCMnJJblI3UFZmZGlLQ013VWNjOFRzMWljMm1iZU5HVXN2YkYxLVhmbUg?oc=5",
+      "source": "AppMedia",
+      "published_at": "2026-06-26T04:00:43+00:00",
+      "summary": "【ラストファーリー：サバイバル】配信日と事前登録情報｜最新情報    AppMedia"
     },
     {
-      "title": "カードキャプターさくら：思い出の鍵の事前登録情報！配信日・リリース日はいつ？ - スマホゲームCH",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Hbl9BN09JaG9KdGdQdW9IMHZwZGpaVkFUTzhlX0FxakZMZXRsbk8za0JfT1h5cVZVaGtfRjNHeW5LbnRHNG9JX1J2Q3l3VlU?oc=5",
-      "source": "スマホゲームCH",
-      "published_at": "2026-06-04T07:00:00+00:00",
-      "summary": "カードキャプターさくら：思い出の鍵の事前登録情報！配信日・リリース日はいつ？    スマホゲームCH"
+      "title": "レベルファイブとAiming、新作スマホゲーム『イナズマイレブン クロス』の配信開始日が6月9日に決定 6月8日より事前DLを開始 - gamebiz【ゲームビズ】",
+      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE84N0hVMFYxR09EaWtyQ0wxRVNCUmtFYy1pcTV2S29ENDl5cDdyUGg3TnItVVM5SmNFbEpMclUyRWVFMW03?oc=5",
+      "source": "gamebiz【ゲームビズ】",
+      "published_at": "2026-06-01T01:09:20+00:00",
+      "summary": "レベルファイブとAiming、新作スマホゲーム『イナズマイレブン クロス』の配信開始日が6月9日に決定 6月8日より事前DLを開始    gamebiz【ゲームビズ】"
     },
     {
       "title": "【風と竜の歌】配信日と事前登録情報｜最新情報 - AppMedia",
@@ -69,18 +71,18 @@
       "summary": "僕のヒーローアカデミア UNITED SURVIVALの配信日と事前登録情報    GameWith"
     },
     {
-      "title": "【カリスマダミス CHARISMA de MURDER MYSTERY】配信日と事前登録情報｜最新情報 - AppMedia",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBDdEJZNG82Sm84anZORnhmUHljWThkNGljbWN5UTNQZ19JcFhEcnRZa2Y3bVR4VHNyYm5ZbFV1N3ZNMXhpWEd3d2tfc2Y?oc=5",
-      "source": "AppMedia",
-      "published_at": "2026-03-30T07:00:00+00:00",
-      "summary": "【カリスマダミス CHARISMA de MURDER MYSTERY】配信日と事前登録情報｜最新情報    AppMedia"
-    },
-    {
       "title": "『無職転生』新作スマホゲーム『クロエコ』事前登録開始。フルボイスの原作エピソードや3Dバトルが楽しめる異世界RPG - 電撃オンライン",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfSDYwWlE5bzYyeGhNVDlfNV8xeEV1LVhDWkpPaUtVZXM1dHhrX3R3QmZybmVRTjhQYU91MVhWZENOOFZCQkJCbl9yX3JMbi1uMnJrUm5KOVkzQQ?oc=5",
       "source": "電撃オンライン",
       "published_at": "2026-03-28T07:00:00+00:00",
       "summary": "『無職転生』新作スマホゲーム『クロエコ』事前登録開始。フルボイスの原作エピソードや3Dバトルが楽しめる異世界RPG    電撃オンライン"
+    },
+    {
+      "title": "『無職転生 〜異世界行ったら本気だす〜 クロニクル・オブ・エコーズ(クロエコ)』本日より事前登録開始！さらにAnimeJapan2026にてキービジュアル＆事前登録PVを公開！ | グリーエンターテインメント株式会社のプレスリリース - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5jZGJxdWR1RVdvS0NUd05mVC1DaUlCMXlyM1lhRW1oMW5sTmk1MElWY01DYzdwYWc5b25oeGd4bzNGNThZeW1HZlpMQ1VTOGxNUVNjQjVhdnZjaHcyVWtIbHJsQ1JuMnBmSkE?oc=5",
+      "source": "PR TIMES",
+      "published_at": "2026-03-28T07:00:00+00:00",
+      "summary": "『無職転生 〜異世界行ったら本気だす〜 クロニクル・オブ・エコーズ(クロエコ)』本日より事前登録開始！さらにAnimeJapan2026にてキービジュアル＆事前登録PVを公開！ | グリーエンターテインメント株式会社のプレスリリース    PR TIMES"
     },
     {
       "title": "『ハイキュー!!』新作スマホゲーム『ハイキュー!! ALL Challengers』発表。描き起こしの2Dアニメモーション＆イラスト、録り下ろしボイスあり - ファミ通",
@@ -97,6 +99,13 @@
       "summary": "TOHO Games、「ハイキュー!!」の新作スマホゲーム『ハイキュー!! ALL Challengers』の事前登録を開始 開発・運営はG2 Studiosが担当    gamebiz【ゲームビズ】"
     },
     {
+      "title": "【「ハンドレッドノート」モバイルゲーム(仮)】配信日と事前登録情報｜最新情報 - AppMedia",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1VRTVaQzFyNDBpNzQ3UEZmUGhNcnEyQmxaaHNlcjdJTTZ4WVhJbzVHYUswblZONXVzakY3cUlEOWFCUGVyUWtiTW9YN2I?oc=5",
+      "source": "AppMedia",
+      "published_at": "2026-03-16T07:00:00+00:00",
+      "summary": "【「ハンドレッドノート」モバイルゲーム(仮)】配信日と事前登録情報｜最新情報    AppMedia"
+    },
+    {
       "title": "【『魔女と百騎兵』スマホゲーム(仮)】配信日と事前登録情報｜最新情報 - AppMedia",
       "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE54MGVPal9OVENycVY2U3duclQyMTU3T3Q3VWV1eFlrZFBUVGd3QzFvNFZEb2R2M0VLdEZya0l6QUJDR19CTGlmRzZtWjg?oc=5",
       "source": "AppMedia",
@@ -111,18 +120,18 @@
       "summary": "QualiArtsとカバーが共同開発する「ホロライブ」初のスマホゲーム『hololive Dreams』（略称「ホロドリ」）が全世界同時*事前登録を開始    ホロライブ公式サイト"
     },
     {
-      "title": "「対魔忍スクワッド」正式配信開始！井河アサギが登場―事前登録30万人達成報酬も - OnlineGamer",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1mQjNDODh6NWpnQmcwNUZiRGhBcHRxZHpIWlFTVzZIZDNYMUtxeXh0eE83Ujg0cVJQNFNsTVRrSVA4N2dPZ3NsaE9vQmdYMlJkY0hwZUNTWGY?oc=5",
-      "source": "OnlineGamer",
-      "published_at": "2026-03-05T08:00:00+00:00",
-      "summary": "「対魔忍スクワッド」正式配信開始！井河アサギが登場―事前登録30万人達成報酬も    OnlineGamer"
+      "title": "【アークナイツ：エンドフィールド】配信日と事前登録情報｜最新情報 - AppMedia",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5MZDlWNUpNbU0tRUloLS0wRVhFTS1DR2NwYWhCSnBCdktSaHRQTE1Rb0toc0I5QV8xN1h6SzYzRXQxSEpqSGgzY0txZWs?oc=5",
+      "source": "AppMedia",
+      "published_at": "2026-02-25T08:00:00+00:00",
+      "summary": "【アークナイツ：エンドフィールド】配信日と事前登録情報｜最新情報    AppMedia"
     },
     {
-      "title": "DMM GAMES新作『フルールデイズ』リリース！ - GameWith",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jUGtIZEJ3azF0UzJCLU1hV3R6aXotM2hpNS11eW50a2lUWURnUWZ4MXNjVFl3SjZNcFhIQVNaVlBtOFNBV1dRT0lheDRWajhIbjRNSHlyV3hrWWs?oc=5",
-      "source": "GameWith",
+      "title": "常識を覆す三国志戦略シミュレーションゲーム超大作『三國志 王戦』事前登録受付が正式スタート！革新的なゲームシステムも一部公開 - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9yOXI1U3hLNnNSM1V5UVN3UXI2ai04ZVI4Zjd3N0k3TW9TVTFHend1MVo5TzhvQ29BclRXRm9sS1gtUzE2c01zbzB2d3BBckNJaGw0VF84d1ZYV21WMzhRbHBzb0hBaHF0cEE?oc=5",
+      "source": "PR TIMES",
       "published_at": "2026-02-13T08:00:00+00:00",
-      "summary": "DMM GAMES新作『フルールデイズ』リリース！    GameWith"
+      "summary": "常識を覆す三国志戦略シミュレーションゲーム超大作『三國志 王戦』事前登録受付が正式スタート！革新的なゲームシステムも一部公開    PR TIMES"
     },
     {
       "title": "新作『天穂のサクナヒメ～ヒヌカ巡霊譚～』スマホ向けに2月5日リリース決定。事前登録キャンペーン報酬に炊飯ジャープレゼントを追加 - ファミ通",
@@ -160,20 +169,6 @@
       "summary": "『恋姫†大戦』総勢60人以上の恋姫が集結する新作RPG、事前登録者数10万人突破。天想石5000個やガチャチケ計25枚の報酬が確定    ファミ通"
     },
     {
-      "title": "桃源暗鬼 Crimson Infernoの配信日と事前登録情報 - GameWith",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5xRkhPbDRidDMyMlVsS1NJazR3RmZxLWdkT3VOR0FlRDRaODFzTGVhUEpRSUpWN2c4TVRFanV1cjBBb1JPNFN3?oc=5",
-      "source": "GameWith",
-      "published_at": "2025-12-25T08:00:00+00:00",
-      "summary": "桃源暗鬼 Crimson Infernoの配信日と事前登録情報    GameWith"
-    },
-    {
-      "title": "桃源暗鬼 Crimson Inferno 配信日と事前登録の情報 - appget.com",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9oTXBWVUV5aUxWRHhZWHE2MlI3emtQUmJkVk5MekRSXzZtQ1RxZE5jVzJJcGFZcTBxVlluOE1YeUtVd0Z6VDVub1lya05zbXRORkZRM2xqLVdOTktnSm41eWd0T2w0Z3VzeXFYTw?oc=5",
-      "source": "appget.com",
-      "published_at": "2025-12-07T08:00:00+00:00",
-      "summary": "桃源暗鬼 Crimson Inferno 配信日と事前登録の情報    appget.com"
-    },
-    {
       "title": "新作スマホゲーム『銀魂 すまほ ばとるくろにくる』配信決定＆事前登録開始！ - Appliv Games",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAzV25oZzFDaHRBRDRTVEh3WFczdUFGd2NEOVplVTVOeldVT09KYU1nVFRsWk1TRGRVWjAwdHNCbk54V3lpZ3dBbXRrMVEtYjZvSnc?oc=5",
       "source": "Appliv Games",
@@ -186,6 +181,20 @@
       "source": "gamebiz【ゲームビズ】",
       "published_at": "2025-11-13T08:00:00+00:00",
       "summary": "セガ、iOS/Android向けRPG『銀魂 すまほ ばとるくろにくる』を配信決定…本日より事前登録開始…開発はNextNinja    gamebiz【ゲームビズ】"
+    },
+    {
+      "title": "新作ゲーム『銀魂 すまほ ばとるくろにくる』配信決定！ 本日より事前登録開始！ - sega.jp",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5uT3RXZmFxZXRrSFFmOEtONGFfbDVMc2pnT3F1YVB6UFJxaUg0ZDZkdVZLZ1hXYUQ0MVBiS2xSd0FxbmdoVVJaVmhjcmxtLXdiSkJwZ2hR?oc=5",
+      "source": "sega.jp",
+      "published_at": "2025-11-13T05:53:43+00:00",
+      "summary": "新作ゲーム『銀魂 すまほ ばとるくろにくる』配信決定！ 本日より事前登録開始！    sega.jp"
+    },
+    {
+      "title": "新作『天穂のサクナヒメ～ヒヌカ巡霊譚～』事前登録スタート。ゲームシステムや新キャラが発表される生放送は本日（11/7）20時から - ファミ通",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBmLUx3UnFOc1dhbU1uX0dhQ19VVEszTWIxVGl1ZGxjUDlMdF9FYTBhUlN5WGhjWHk2NW9vUXpGel9aNW54dzkzVWZMUmMta3l1UXBrTkM3dw?oc=5",
+      "source": "ファミ通",
+      "published_at": "2025-11-07T08:00:00+00:00",
+      "summary": "新作『天穂のサクナヒメ～ヒヌカ巡霊譚～』事前登録スタート。ゲームシステムや新キャラが発表される生放送は本日（11/7）20時から    ファミ通"
     },
     {
       "title": "スマートフォン向け新作RPG『英雄伝説 ガガーブトリロジー』2025年12月より日本国内向けサービス決定 - 日本ファルコム 公式サイト",
@@ -202,11 +211,18 @@
       "summary": "【新作情報】豪華男性声優陣×星占いプロジェクト『君ノ隣ニ座ル星。-DaysThatSparkle-』ゲームアプリ配信決定！    bs-log.com"
     },
     {
-      "title": "【アビス・オブ・ダンジョンズ】配信日と事前登録情報｜最新情報｜アビダン - AppMedia",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nUmxob2NtUHpSYkJnaFJOc2FncXFmVklrTjI2Wk84OEdZN3F5NGswbHBzTGh4bW9CUTlqN0VRZmZ3VHlVZThIZFEyRlc?oc=5",
+      "title": "【レジェンド・オブ・ユミル】配信日と事前登録情報｜最新情報｜Legend of YMIR - AppMedia",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1iUkZzSm5vbXZUaHNIV1dIMl8wTnMzaWFSUmpGaWR4T2pOeVJzaG1JY2dRZjMzNDQwaWotVkpyMWJKZE5WcUFFZzQ0Y08?oc=5",
       "source": "AppMedia",
-      "published_at": "2025-10-17T07:00:00+00:00",
-      "summary": "【アビス・オブ・ダンジョンズ】配信日と事前登録情報｜最新情報｜アビダン    AppMedia"
+      "published_at": "2025-10-28T07:00:00+00:00",
+      "summary": "【レジェンド・オブ・ユミル】配信日と事前登録情報｜最新情報｜Legend of YMIR    AppMedia"
+    },
+    {
+      "title": "【10/24 配信開始！】『百花ランブル』のゲーム概要や公式発表の情報まとめ！漫画調のストーリーでたくさんの美少女たちと冒険しよう！ - GameWith",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE14ZFhSZXlpYktIalMzbk1SRWVLakZKOXQwMU5pSTkxZlpMTGtPQ2dwWnJnVldQY1NCSURrQUNERENlQ1RBeXlhTzQyMFAtLXpUeFFJZUtZVGc0Qms?oc=5",
+      "source": "GameWith",
+      "published_at": "2025-10-24T07:00:00+00:00",
+      "summary": "【10/24 配信開始！】『百花ランブル』のゲーム概要や公式発表の情報まとめ！漫画調のストーリーでたくさんの美少女たちと冒険しよう！    GameWith"
     },
     {
       "title": "新作アプリゲーム『ジョジョの奇妙な冒険 オラオラオーバードライブ』事前登録者数100万人突破ッ！ - PR TIMES",
@@ -223,25 +239,18 @@
       "summary": "TVアニメ『FAIRY TAIL』スマートフォン向けゲームアプリ『FAIRY TAIL 魔導士クロニクル』が全世界で2025年冬に配信決定！    cyberagent.co.jp"
     },
     {
-      "title": "アニメ「フェアリーテイル」のスマホ向け新作ゲーム「FAIRY TAIL 魔導士クロニクル」が2025年冬に配信！事前登録がスタート - Gamer",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1fcDcxS0xuQjlScmdFOGNKdGtOOXAxUXpmZ0hPc21fVGxrNWk3LW9WS0ZFMDVFdTJjU0ExVm9UcUdSNVV2MEE3RVpjRVRlSzZUUWVsXw?oc=5",
-      "source": "Gamer",
-      "published_at": "2025-08-06T07:00:00+00:00",
-      "summary": "アニメ「フェアリーテイル」のスマホ向け新作ゲーム「FAIRY TAIL 魔導士クロニクル」が2025年冬に配信！事前登録がスタート    Gamer"
-    },
-    {
-      "title": "【幻想水滸伝 STAR LEAP】配信日・事前登録特典・最新情報まとめ - 電撃オンライン",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xRU4xRkVMb3hhcFhYdElzQlVVVDA0QXp4NlUtUGE3bXBGdllhXzlTejJtZTlacHJtOU5COENJTFVqcDVIM2kyTFljaE5KOVZxR20wYkN5VEY4QQ?oc=5",
-      "source": "電撃オンライン",
-      "published_at": "2025-07-18T07:00:00+00:00",
-      "summary": "【幻想水滸伝 STAR LEAP】配信日・事前登録特典・最新情報まとめ    電撃オンライン"
-    },
-    {
       "title": "【ファイナルファンタジーXIV モバイル】配信日・事前登録特典・最新情報まとめ【FF14】 - 電撃オンライン",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE54X1ZBaFpqNUF5LVhPNV9Fc2gzMU5nYkJtSnZWOU5JVUlBX0FENXVYRjJzLTQzeWdxbGhNaVVGdDkxWVdjVDBlbXdzYktQSjFLYXBTYXhIeTZGUQ?oc=5",
       "source": "電撃オンライン",
       "published_at": "2025-07-17T07:00:00+00:00",
       "summary": "【ファイナルファンタジーXIV モバイル】配信日・事前登録特典・最新情報まとめ【FF14】    電撃オンライン"
+    },
+    {
+      "title": "【スターセイヴァー】配信日・事前登録特典・最新情報まとめ - 電撃オンライン",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5EdUU0bHRma0kzdkt3MXFBd0MtbUdqSk5rZEVOa3p0NTFWMTdFRFRyWnZkNUZtVEoyWkV4QU5RQ3NQMmFGR3pEdGxma2VmVEJlS0YyRmZlZFBUUQ?oc=5",
+      "source": "電撃オンライン",
+      "published_at": "2025-07-16T07:00:00+00:00",
+      "summary": "【スターセイヴァー】配信日・事前登録特典・最新情報まとめ    電撃オンライン"
     },
     {
       "title": "【七つの大罪：Origin】配信日・事前登録特典・最新情報まとめ - 電撃オンライン",
@@ -256,6 +265,20 @@
       "source": "AppMedia",
       "published_at": "2025-07-02T07:00:00+00:00",
       "summary": "【シルバー・アンド・ブラッド】配信日と事前登録情報｜最新情報｜シルブラ    AppMedia"
+    },
+    {
+      "title": "新作『マブラヴ ガールズガーデン』本日7/1より事前登録開始。ティザーPVや、タシロハヤト氏ほか豪華制作陣の情報も解禁【マブガル】 - 電撃オンライン",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8zTm1rN1ltOXpzWHktbHlPc0czSjZoS1F4dThPbXhiWWl6djF1cXhBanJJZG13UVZQM0VTOXJjYV8wZVBlY1d0UW5lRlE0NXktYlpkTGFpRnhTUQ?oc=5",
+      "source": "電撃オンライン",
+      "published_at": "2025-07-01T07:00:00+00:00",
+      "summary": "新作『マブラヴ ガールズガーデン』本日7/1より事前登録開始。ティザーPVや、タシロハヤト氏ほか豪華制作陣の情報も解禁【マブガル】    電撃オンライン"
+    },
+    {
+      "title": "受け継がれる魂が、今輝くッ！新作アプリゲーム『ジョジョの奇妙な冒険 オラオラオーバードライブ』の事前登録受付を開始ッ！ - 株式会社gumi",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA2bUk4VHZPcDZTRnFwem5XcGNxNXB1Y05GWGpTM0V4bmNJenREN1BISDhFbXRQa3dWQ0g3QjdkVEhTTDJCRkxoMzdDY1NqUQ?oc=5",
+      "source": "株式会社gumi",
+      "published_at": "2025-06-30T07:00:00+00:00",
+      "summary": "受け継がれる魂が、今輝くッ！新作アプリゲーム『ジョジョの奇妙な冒険 オラオラオーバードライブ』の事前登録受付を開始ッ！    株式会社gumi"
     },
     {
       "title": "【ペルソナ５: The Phantom X】配信日と事前登録情報｜最新情報 - AppMedia",
@@ -286,11 +309,46 @@
       "summary": "【東京リベンジャーズ UNLIMITED（アンリベ）】配信日・事前登録特典・最新情報まとめ    電撃オンライン"
     },
     {
+      "title": "「いまこそ、新たな原点へ。」サッカーシミュレーションゲーム「サカつく」シリーズ最新作『プロサッカークラブをつくろう！2025』は2025年配信決定！ - sega.jp",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBfQnQ3S0VVdFlZWVhNaFBEazN3c3h4S2tuRVR0MzlhSmMxU1hHeW5RZl9kRFVuYlpZVjZ1ekg0QmJIR3ZQWkpSVnVkSzkweV82emNkZEFn?oc=5",
+      "source": "sega.jp",
+      "published_at": "2025-06-02T03:00:05+00:00",
+      "summary": "「いまこそ、新たな原点へ。」サッカーシミュレーションゲーム「サカつく」シリーズ最新作『プロサッカークラブをつくろう！2025』は2025年配信決定！    sega.jp"
+    },
+    {
+      "title": "セルランTOP100入り新作スマホゲーム、事前登録期間の短縮とストア集約化の動きが顕著【スパイスマート調査】 - gamebiz【ゲームビズ】",
+      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE0yRTJDVHkxLW5ka2IxTHRzZFRYNmdkaEx0Qm5aMkx2WTgxb0NGYWQwVlVLM3dCV0JlRk92TE9sejBfdU9h?oc=5",
+      "source": "gamebiz【ゲームビズ】",
+      "published_at": "2025-05-16T07:00:00+00:00",
+      "summary": "セルランTOP100入り新作スマホゲーム、事前登録期間の短縮とストア集約化の動きが顕著【スパイスマート調査】    gamebiz【ゲームビズ】"
+    },
+    {
       "title": "『ステラ アイドル プロジェクト』DMM新作の放置ゲー×アイドル育成RPG、事前登録が10万人を突破。バーチャルシンガー・YuNiの楽曲カバー動画も公開 - ファミ通",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5qMnZLTWpuNEZwNEh5OTFSenNVVU96eHlBNXJQcFRnSXU1Q0s5TmY2RS1STVpvSmVMRFNSMXhEVUhtd2dybU5XLVZKOC10WUU5TXRiZGd2OA?oc=5",
       "source": "ファミ通",
       "published_at": "2025-05-16T07:00:00+00:00",
       "summary": "『ステラ アイドル プロジェクト』DMM新作の放置ゲー×アイドル育成RPG、事前登録が10万人を突破。バーチャルシンガー・YuNiの楽曲カバー動画も公開    ファミ通"
+    },
+    {
+      "title": "【2025年配信予定】女性向け無料ゲーム＆アプリの配信日・声優・事前登録など新作情報まとめ - にじめん",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ic0IzWndiOGZsNDBkQnZ4Y3BKNkJ2QTRULUYyT1VCcldzX1VLc2VxdGVwNW9TY3pFVEw5bndXS3BxRGxmaDZMRHRwb1Q2UEg4Vkw2b3Jrdw?oc=5",
+      "source": "にじめん",
+      "published_at": "2025-05-06T07:00:00+00:00",
+      "summary": "【2025年配信予定】女性向け無料ゲーム＆アプリの配信日・声優・事前登録など新作情報まとめ    にじめん"
+    },
+    {
+      "title": "株式会社enish、新感覚麻雀ゲーム「雀エボライブ」事前登録開始！ - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oREZERXlRemxQWnExa1gzbzFEZkFXRThKcEhLcjRuNi1tTS1pdGpDZ0VkZmxSTVItc3l0dWdUeE03V1lHSlNCQzRCZTJlbHdCQVh1NzNsNkZ5TlhPdzNIRUxCMlVRMy13MlE?oc=5",
+      "source": "PR TIMES",
+      "published_at": "2025-04-23T07:00:00+00:00",
+      "summary": "株式会社enish、新感覚麻雀ゲーム「雀エボライブ」事前登録開始！    PR TIMES"
+    },
+    {
+      "title": "「魔法少女まどか☆マギカ」新作ゲーム、早くもランキング1位に - ASCII.jp",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ndngyM2pxUTJMc2p2MVVhOXVWNGRSUXF1aWhIUzFERWZXNE5VMWhfQ0p4OVdPeGtLY2Z2NFFhM19ucnl5aTc1WEhrSVRIUTZXUGRJWQ?oc=5",
+      "source": "ASCII.jp",
+      "published_at": "2025-03-27T07:00:00+00:00",
+      "summary": "「魔法少女まどか☆マギカ」新作ゲーム、早くもランキング1位に    ASCII.jp"
     },
     {
       "title": "【魔法少女まどか☆マギカ Magia Exedra】配信日と事前登録情報｜最新情報｜まどドラ - AppMedia",
@@ -307,39 +365,39 @@
       "summary": "ちいかわ初のスマホゲーム『ちいかわぽけっと』3月27日に配信 事前登録は150万人超    KAI-YOU"
     },
     {
-      "title": "【事前登録】Nuverseのクロスプラットフォーム向け新作RPG『クリスタル・オブ・アトラン』の事前登録受付がスタート - ファミ通",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9YQUxIS19wcU84Wjh3YWhWYjc1blRvTlRTVldkRUVpdjRvMzEyMnJsOHlaOTFweWZEOVZBaWJYNXpORlVvZEsyTG5tckFaeVJxRVRjbU1kQQ?oc=5",
+      "title": "DREAMSの配信日と事前登録情報 - GameWith",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9qelpaRzJ1WHo1N0diamVVdVFqVUUtdE1HYUVHZGlNTkNJUmltT2dyT0JscWlUXzQ1cVdFZXBPaWt6UnNDZHFv?oc=5",
+      "source": "GameWith",
+      "published_at": "2025-03-11T07:00:00+00:00",
+      "summary": "DREAMSの配信日と事前登録情報    GameWith"
+    },
+    {
+      "title": "【2024年配信予定】女性向け無料ゲーム＆アプリの配信日・声優・事前登録など新作情報まとめ - にじめん",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5kRm5HQWlGVk82NEpMVUs5eWZpM29aUnQtaXNkRUxVY2hNT0QxbVFRbFc5eG5zQlpWUG9zd1VldE1MeE80WEhDTUxQR1NPWjluaFhhQ2tHMA?oc=5",
+      "source": "にじめん",
+      "published_at": "2024-10-21T07:00:00+00:00",
+      "summary": "【2024年配信予定】女性向け無料ゲーム＆アプリの配信日・声優・事前登録など新作情報まとめ    にじめん"
+    },
+    {
+      "title": "【ちいぽけ】『ちいかわ』初のスマホアプリ『ちいかわぽけっと』が配信決定。事前登録の受付がスタート - ファミ通",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9PaF9SOWpjQnNUSms1MHIxLS1fczIxal90cHUxdHd4eFJvMDYyWTZhek1vUmNZbkhrRG1QTmJfOTI3RERVSkw5OXVITUtxTlY2UXExSWE5RQ?oc=5",
       "source": "ファミ通",
-      "published_at": "2025-01-05T08:00:00+00:00",
-      "summary": "【事前登録】Nuverseのクロスプラットフォーム向け新作RPG『クリスタル・オブ・アトラン』の事前登録受付がスタート    ファミ通"
+      "published_at": "2024-08-10T07:00:00+00:00",
+      "summary": "【ちいぽけ】『ちいかわ』初のスマホアプリ『ちいかわぽけっと』が配信決定。事前登録の受付がスタート    ファミ通"
     },
     {
-      "title": "スマホ向けRPG『リバースブルー×リバースエンド』ストア事前登録受付がスタート。びっくりする量の謎めいたワードが迫り来る1st PVも公開 - ファミ通",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1BbGVRdm11RzlpZXh5eTE0dkpRUFBWYjl6NTlYcG1KekJHTlgtSzJzN1dueVlXMEVueTd5ZGRfcmgwUVhPMUUzMUpUM3NSZk9zbGdqYmFsNA?oc=5",
+      "title": "【事前登録】『ちいかわ』初のスマホアプリ『ちいかわぽけっと』発表！50万人登録突破で“大きなさすまた”プレゼント - ファミ通",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1kMUNzTExlN002N2RSN3pFRC1ydWktbkg3OGJZZEluS1JVRERDTm0xY0gwd2g3bF9mN2N5VENTZjRJbFlzU05KYjQ5aUw5ejNiU21nS2s5SQ?oc=5",
       "source": "ファミ通",
-      "published_at": "2024-07-29T07:00:00+00:00",
-      "summary": "スマホ向けRPG『リバースブルー×リバースエンド』ストア事前登録受付がスタート。びっくりする量の謎めいたワードが迫り来る1st PVも公開    ファミ通"
+      "published_at": "2024-08-10T07:00:00+00:00",
+      "summary": "【事前登録】『ちいかわ』初のスマホアプリ『ちいかわぽけっと』発表！50万人登録突破で“大きなさすまた”プレゼント    ファミ通"
     },
     {
-      "title": "『まどマギ』新作アプリ事前登録スタート/『ゼンゼロ』7月4日いよいよ配信【7/2話題記事&ランキング】 - ファミ通",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5obzJ1WTlrNGdwWnpFNzMtX0RWNTFjMzJBTnJvYUFkLVAzTjdLOTZmU0hmMC1IWTFUTVpVOVUwQ1cwMVhNcERfeWRhanlMa0c3VWM4?oc=5",
-      "source": "ファミ通",
-      "published_at": "2024-07-03T07:00:00+00:00",
-      "summary": "『まどマギ』新作アプリ事前登録スタート/『ゼンゼロ』7月4日いよいよ配信【7/2話題記事&ランキング】    ファミ通"
-    },
-    {
-      "title": "新作スマホゲーム『チョコットスタジアム』を発表！７月３日(水)より事前登録を開始！ - PR TIMES",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9HNnlENkpHZ3pQSEZwZFVsejA0bW1KU1RLMExPOEMwUjV0Qk50YVlWalRpc0xuZnFtdFdiT09udHo5LUlzWXZ5d2FSLWF4b3JEU09DMzZOdy1LeVl0eWRWaEk2SjI4b0phTVE?oc=5",
-      "source": "PR TIMES",
-      "published_at": "2024-07-03T07:00:00+00:00",
-      "summary": "新作スマホゲーム『チョコットスタジアム』を発表！７月３日(水)より事前登録を開始！    PR TIMES"
-    },
-    {
-      "title": "【ブレイクマイケース】配信日と事前登録情報｜最新情報｜BREAK MY CASE - AppMedia",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBhYzBOU1A0c1NHV2JzM0FxNk5RNXlZTm1MR05vZkV2ZTJuZFRSaDg4eWpUNDhHQkJnbVB2NmpNc1RQMzlYdDJLQWlHbF8?oc=5",
-      "source": "AppMedia",
-      "published_at": "2024-05-09T07:00:00+00:00",
-      "summary": "【ブレイクマイケース】配信日と事前登録情報｜最新情報｜BREAK MY CASE    AppMedia"
+      "title": "カプコン、新作スマホゲーム『モンスターハンターパズル アイルーアイランド』を6月27日に配信決定！事前登録の受付開始！ - gamebiz【ゲームビズ】",
+      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1CZzRnWVRCeElTaW9CVWpjeTVDb2U4cFlBUDJ1X2VkUVN1RjgwRG1oaUkxVTg5N3lQNjV0alZqdWZzQzF0?oc=5",
+      "source": "gamebiz【ゲームビズ】",
+      "published_at": "2024-06-03T06:02:14+00:00",
+      "summary": "カプコン、新作スマホゲーム『モンスターハンターパズル アイルーアイランド』を6月27日に配信決定！事前登録の受付開始！    gamebiz【ゲームビズ】"
     },
     {
       "title": "プロゲーミングチーム「魚群」解散へ、運営元のTOPANGAはVARRELとの経営統合に合意 - Saiga NAK",
@@ -349,18 +407,25 @@
       "summary": "プロゲーミングチーム「魚群」解散へ、運営元のTOPANGAはVARRELとの経営統合に合意    Saiga NAK"
     },
     {
-      "title": "【事前登録】懐かしのビックリマンがスマホゲーム化！『ビックリマン・ワンダーコレクション』2024年配信決定 - ファミ通",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9QVWhMdkU3bk93dDQtbVdBT3MxOUlDeXh2NGNvWmhvb2QyVnJvTk5jaXpTclVvclpPMVVHR2MyRjQ3ckZzYkUtZlBRNWo3T0hrOXRV?oc=5",
-      "source": "ファミ通",
-      "published_at": "2024-01-10T08:00:00+00:00",
-      "summary": "【事前登録】懐かしのビックリマンがスマホゲーム化！『ビックリマン・ワンダーコレクション』2024年配信決定    ファミ通"
+      "title": "アニメ『ハイキュー!!』の新作スマホゲーム『ハイキュー!!FLY HIGH』が配信決定！ 登録人数で豪華特典もある事前登録がスタート - 電撃オンライン",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBDdXFGYlNvNVpLM096a1VmcmFBNXJxdE9oc3BZZG1LcDNzUXhIMnA2bzd2eGNaMWhNTkRSbkNhZ3hrZ3BsODhNMU82UEp3YzU4VE9PcQ?oc=5",
+      "source": "電撃オンライン",
+      "published_at": "2024-01-12T08:00:00+00:00",
+      "summary": "アニメ『ハイキュー!!』の新作スマホゲーム『ハイキュー!!FLY HIGH』が配信決定！ 登録人数で豪華特典もある事前登録がスタート    電撃オンライン"
     },
     {
-      "title": "可愛いケモモとミラティブ上で遊べる新作ライブゲーム【ケモモレース】事前登録キャンペーン開催中☆公式アカウントをフォロー＆リポストすると１１回レアガチャ券もらえる！？ - PR TIMES",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1KNTVTMnBLSkpHREJaOWNJQ1JZNWpscWZ0cWdDQmVjU21hZjdiNzVoRnZCRHRaSGYxb2Z3YVU1c3l3bzdWWHUxdmdTWklLdFJWUi1rT2FJRUxyOHB4LTUyWFFjSUNTd2tRTEE?oc=5",
-      "source": "PR TIMES",
-      "published_at": "2023-08-19T07:00:00+00:00",
-      "summary": "可愛いケモモとミラティブ上で遊べる新作ライブゲーム【ケモモレース】事前登録キャンペーン開催中☆公式アカウントをフォロー＆リポストすると１１回レアガチャ券もらえる！？    PR TIMES"
+      "title": "【ハツリバーブ】事前登録中！色々デカい健全ゲーがきたぞおお！！！ - アプリ島",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5QZkdoLXY5bW51VVR1anVGRGlkOFFnYnM4MFdOc2czZXVDRFpnMnI3WUYwb2lXeFdaUnFBWGRiclNmazY3SERWUVRpaGVtMEx6M3c?oc=5",
+      "source": "アプリ島",
+      "published_at": "2023-10-21T07:00:00+00:00",
+      "summary": "【ハツリバーブ】事前登録中！色々デカい健全ゲーがきたぞおお！！！    アプリ島"
+    },
+    {
+      "title": "JAPANから世界へ！ 世界No1.サッカークラブを目指せ 『プロサッカークラブをつくろう! ロード・トゥ・ワールド』本日配信開始！！ “事前登録キャンペーン第二弾”達成特典として全員に「小野伸二選手」プレゼント - sega.jp",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE01YUZUemN6R1c0UlVHb0JONDAzdmZUVVB5V05XZlY2blJmMGFwc05pWWYwaFU2ejNlbEdiLTNIUG9jR0FrNjFWQjZyM3A1Q2YyNGw4Y3B0cU45c1Fn?oc=5",
+      "source": "sega.jp",
+      "published_at": "2023-02-22T06:41:17+00:00",
+      "summary": "JAPANから世界へ！ 世界No1.サッカークラブを目指せ 『プロサッカークラブをつくろう! ロード・トゥ・ワールド』本日配信開始！！ “事前登録キャンペーン第二弾”達成特典として全員に「小野伸二選手」プレゼント    sega.jp"
     },
     {
       "title": "牧場物語MOBILEの配信日と事前登録情報 - GameWith",
@@ -370,11 +435,18 @@
       "summary": "牧場物語MOBILEの配信日と事前登録情報    GameWith"
     },
     {
-      "title": "【スプライトファンタジア】事前登録情報と海外版を遊んで見どころを解説 - アプリ島",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0zSEMwWnIyTTItSkszUWJSRHkxQUVfNWpMR0tTYURKWllkMDNhamR6QTFvcThkZzUyRTR5RmpFMnBURFNjN2dNX29PS1NIWXJKZjU2Z19xWQ?oc=5",
-      "source": "アプリ島",
-      "published_at": "2022-04-20T07:00:00+00:00",
-      "summary": "【スプライトファンタジア】事前登録情報と海外版を遊んで見どころを解説    アプリ島"
+      "title": "正規版スマホゲーム スラムダンクの配信日と事前登録情報 - GameWith",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5KeDlfNVExc1lOZl8xNGZNcFFGMW14S0RwN1VvWFFQTmlGa0pmM1g2WXpDaWpMWHBEbFIxbHpMdGs5eE5WekE?oc=5",
+      "source": "GameWith",
+      "published_at": "2023-01-20T08:00:00+00:00",
+      "summary": "正規版スマホゲーム スラムダンクの配信日と事前登録情報    GameWith"
+    },
+    {
+      "title": "イマジニア、新作スマホゲーム『すみすみパーティーころころパズル』を22年12月に配信決定！ 事前登録開始！ サンエックスオールキャラが登場！ - gamebiz【ゲームビズ】",
+      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1qMjdPMk1YZTBUWU1CcWtOdDc0ejY1ay1rT3Q2NWtsQmppTi1DX253THZNQWpwZkFoU2xUU1phVHhrY0Fu?oc=5",
+      "source": "gamebiz【ゲームビズ】",
+      "published_at": "2022-11-10T10:30:53+00:00",
+      "summary": "イマジニア、新作スマホゲーム『すみすみパーティーころころパズル』を22年12月に配信決定！ 事前登録開始！ サンエックスオールキャラが登場！    gamebiz【ゲームビズ】"
     },
     {
       "title": "コーテク、「北斗の拳」の新作スマホゲーム『真・北斗無双』にてストアでの事前登録を開始 無料LINEスタンプ配信＆PV公開 - gamebiz【ゲームビズ】",
@@ -384,25 +456,18 @@
       "summary": "コーテク、「北斗の拳」の新作スマホゲーム『真・北斗無双』にてストアでの事前登録を開始 無料LINEスタンプ配信＆PV公開    gamebiz【ゲームビズ】"
     },
     {
-      "title": "新作スマホゲーム『FAIRY TAIL ギルドマスターズ』の制作を発表！事前登録はまもなく開始 - ASCII.jp",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5YVzdETXJfR0czeENFOWpCaFF4U1JUNno5WlcxV3pTTko3WjB2UWRibHh5TWhRWVh4VW1ZRFVmanluNkREWnFidzNEb0dSdlVVb0Y4Vw?oc=5",
-      "source": "ASCII.jp",
-      "published_at": "2021-03-19T07:00:00+00:00",
-      "summary": "新作スマホゲーム『FAIRY TAIL ギルドマスターズ』の制作を発表！事前登録はまもなく開始    ASCII.jp"
+      "title": "【事前登録】大人気ボクシングマンガのスマホゲーム最新作が登場！『はじめの一歩 FIGHTING SOULS』11/18配信決定 - ファミ通",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5LcUNoZ1p1UU9sRDBHVlhzeWFhR0tNanVXdGxNTnFlTzNmdEV1T0JhQXo4QVIyelhpSHdNSE5Fck9IekV1eFd4MjJFMWc5VDI3RjQw?oc=5",
+      "source": "ファミ通",
+      "published_at": "2020-10-30T07:00:00+00:00",
+      "summary": "【事前登録】大人気ボクシングマンガのスマホゲーム最新作が登場！『はじめの一歩 FIGHTING SOULS』11/18配信決定    ファミ通"
     },
     {
-      "title": "事前登録3周年は回避！　スマホゲーム「ウマ娘 プリティーダービー」のリリース日決定　「待ってた」「ようやく」 | ねとらぼ - ねとらぼ",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1DeWFFMzdHcXRpcUJKNUNRamRzNEVXSDByT0REbkhKUDZiZzFhNThFZHhiOGFZNFo1NWlXV1JpWlN6WFREZVBaTzFGV3pkR1pFMi1yd0RRdmQ3UU5LcVHSAWNBVV95cUxOenk2MG1OeVlqNXNQeWRUZmpGd3hwZ3ZZaEoyMndxdFJlUkNQVEpaSC1ybExNVTB3VkNYbk01ejFKNTdfUUg3T1JOOG1Wcl9IZVpNenZQOVo5YWtTdEtTaV80Yms?oc=5",
-      "source": "ねとらぼ",
-      "published_at": "2020-12-20T08:00:00+00:00",
-      "summary": "事前登録3周年は回避！　スマホゲーム「ウマ娘 プリティーダービー」のリリース日決定　「待ってた」「ようやく」 | ねとらぼ    ねとらぼ"
-    },
-    {
-      "title": "ミニモレーシング2日本配信決定！11月13日から事前登録開始 - PR TIMES",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBpUEhXaU45RzdNUUFyckJOQjU0THl3V0dlZUEwWVNyUEJWMkgzMEdWamRvWXI3TmI5ZXM1ci0wMDdNX092bVNHWjNzeTdERW96LU9RVkhNejhQLUY5RXpiUTBsZUxnRWxPU1E?oc=5",
+      "title": "新作スマートフォン向けゲーム『スタースマッシュ』2020年11月16日（月）配信決定！ | 株式会社MIXIのプレスリリース - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1rZHNkNmVPN0dINmQwZENldjFPZ1Zoa1Vralg2QVFsa09RNmwxa2JsS3FLQk1JcE4wa0FJdmQ0SUttcmtFNnpTbHJmVVlDLVhaeDhScXdEVVZDUHV4TTZzLUpHQzE0VWIxWGc?oc=5",
       "source": "PR TIMES",
-      "published_at": "2020-11-13T08:00:00+00:00",
-      "summary": "ミニモレーシング2日本配信決定！11月13日から事前登録開始    PR TIMES"
+      "published_at": "2020-10-29T07:00:00+00:00",
+      "summary": "新作スマートフォン向けゲーム『スタースマッシュ』2020年11月16日（月）配信決定！ | 株式会社MIXIのプレスリリース    PR TIMES"
     },
     {
       "title": "XFLAGが新作スマホゲーム『STAR SMASH』を発表！事前登録受付中‼ - Appliv Games",
@@ -426,53 +491,11 @@
       "summary": "Dies irae PANTHEON 配信日と事前登録の情報    appget.com"
     },
     {
-      "title": "歴史ファンに超オススメなスマホゲーム『戦魂』の第二弾PVが公開 - 週刊アスキー",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9BQ3JPbGpEUFAzdng1aUozOHNJWVlYTFVuY0Z4YkxJZW5jR21tb2l1ZGZQYlhfMW5SYmxRVW9keXlKdFlEeGlUak1UX2pLbFllY2Y5eWVIX0duQXFyaXc?oc=5",
-      "source": "週刊アスキー",
-      "published_at": "2020-03-20T22:21:26+00:00",
-      "summary": "歴史ファンに超オススメなスマホゲーム『戦魂』の第二弾PVが公開    週刊アスキー"
-    },
-    {
-      "title": "事前登録：大人気『東京喰種』がスマホゲーム化！今なら『カネキ』がもらえる - 週刊アスキー",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE45bDhVUkY3R1ZlcU81SDJzRHNuMGtaNndpSGRPcElFZVBGcm42UUVxRFlGdXhqWlBvbG9pcG50alVUem9OMnR1OFJRVEpzWEdtdjB6NWhSNTAwSFkzZ1E?oc=5",
-      "source": "週刊アスキー",
-      "published_at": "2020-03-19T04:29:08+00:00",
-      "summary": "事前登録：大人気『東京喰種』がスマホゲーム化！今なら『カネキ』がもらえる    週刊アスキー"
-    },
-    {
-      "title": "【あんさんぶるスターズ！！ Music】配信日・リリース日はいつ？事前登録情報｜あんスタMusic - AppMedia",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE51dDliRE83eEIyZkR6cHNuWWNNbHdhV2pCLV9PNzIxMVV1bWZuc3huNVBqYTV3VUpJXzB3SHFTdlJuSnU1bFFpbEpJMA?oc=5",
-      "source": "AppMedia",
-      "published_at": "2020-03-16T07:00:00+00:00",
-      "summary": "【あんさんぶるスターズ！！ Music】配信日・リリース日はいつ？事前登録情報｜あんスタMusic    AppMedia"
-    },
-    {
       "title": "スマホゲーム「ウマ娘」、運営が2020年配信を示唆　事前登録開始から2年越しのリリースへ | ねとらぼ - ねとらぼ",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9BNmM0OXFVdktGc0dOSF9XVnFxamx6djctUDdVbGJQdXVLb0cxYXFQbWl1OTFYVzJlY29HQS10U0VRQTRXNDVBYkRDckxpQXhfSTloTlBqcVBKRWhPeWfSAWNBVV95cUxQVFQ0UTladXJhdFRBV1hxQ3BucTdtZC1fbWVfaDIxWm1YX3J2RDNXNXJ5RTliSWo0UnIyb1UwcGZ5ZnVuVE5BTGtwa3FnSnQzWGJSb05DN25aZTZHU0tsbmh0VG8?oc=5",
       "source": "ねとらぼ",
       "published_at": "2019-12-26T08:00:00+00:00",
       "summary": "スマホゲーム「ウマ娘」、運営が2020年配信を示唆　事前登録開始から2年越しのリリースへ | ねとらぼ    ねとらぼ"
-    },
-    {
-      "title": "【revisions next stage】配信日・リリース日はいつ？事前登録情報｜リヴィネク - AppMedia",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5qM2FHVjhSWUk2Y1owN2NoZmRvMC1QaXpHcUN3eFJmSDBndEViZmZRNzJGVERNbDdIM2FTMzBSNHVjdENtSEZhNDAwaw?oc=5",
-      "source": "AppMedia",
-      "published_at": "2019-10-30T07:00:00+00:00",
-      "summary": "【revisions next stage】配信日・リリース日はいつ？事前登録情報｜リヴィネク    AppMedia"
-    },
-    {
-      "title": "【事前登録】『このすば』初のスマホゲーム『この素晴らしい世界に祝福を！ファンタスティックデイズ』配信決定 - ファミ通",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAySDhiY3ZUbU9kMFNjMVJEM1Biam45cFhCSGNPUmNYTFhwb1J0V3VnemJiVEZOcG1hUDhSUFNHM054akx6UXhBbDVYRXFPalZ1SVFn?oc=5",
-      "source": "ファミ通",
-      "published_at": "2019-08-26T07:00:00+00:00",
-      "summary": "【事前登録】『このすば』初のスマホゲーム『この素晴らしい世界に祝福を！ファンタスティックデイズ』配信決定    ファミ通"
-    },
-    {
-      "title": "【ふるーつふるきゅーと！】配信日・リリース日はいつ？事前登録情報｜ふるふる - AppMedia",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE82Q0VrenAzUHJTM0RtUy1tMjBjN296WHV3YTdya3lpZXNYQkJGN0hTVXltLTBOR3dSai11UC1ITzViR1ZwbkNTT3h3aw?oc=5",
-      "source": "AppMedia",
-      "published_at": "2019-08-19T07:00:00+00:00",
-      "summary": "【ふるーつふるきゅーと！】配信日・リリース日はいつ？事前登録情報｜ふるふる    AppMedia"
     },
     {
       "title": "スマホゲーム『外見至上主義』のリリース決定！ 事前登録で豪華アイテムがもらえるチャンス！ - ドリームニュース",
@@ -482,25 +505,11 @@
       "summary": "スマホゲーム『外見至上主義』のリリース決定！ 事前登録で豪華アイテムがもらえるチャンス！    ドリームニュース"
     },
     {
-      "title": "『ダービースタリオン マスターズ』、DMM GAMESにてPC版の事前登録を開始!! - 株式会社ドリコム",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBSeWxxbnhIOVpQZzIwVVVBQV9icVNaS1JodzZFV2o5R0Z4bVR3YjNxQlhUV2pHMjU2ekFUSXNjZldwWENQQXNDZWI3Rm5qUmlockVHOWl2eFhzLUVOVnI5TENzWHRkMXM?oc=5",
+      "title": "『ダービースタリオン マスターズ』、DMM GAMESにてPC版の配信を本日より開始!! - 株式会社ドリコム",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9xVUdteW81NTh0YUN3TWlneUpRUmdCM2c5MnJaMEdhS2Jsd3RzOGtEMUY0cDRPSkxPOVBNMThLdV9JaTAxZUY1R0hOcnZNNVBzMTBfa0RJMHRnd2hIa2hBcHl1dHA?oc=5",
       "source": "株式会社ドリコム",
-      "published_at": "2018-03-19T07:00:00+00:00",
-      "summary": "『ダービースタリオン マスターズ』、DMM GAMESにてPC版の事前登録を開始!!    株式会社ドリコム"
-    },
-    {
-      "title": "【荒野行動】配信日/リリース日はいつ？事前登録情報 - AppMedia",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1POG9mdlFvRU5OVmZCLThjNkQ0NkJDczFBOW9XZzB3b0NnT3E0eXV5SkJjVjdsYXNXSkxJc3o0aU0tMHVWaFFLTmlUdw?oc=5",
-      "source": "AppMedia",
-      "published_at": "2018-03-15T07:00:00+00:00",
-      "summary": "【荒野行動】配信日/リリース日はいつ？事前登録情報    AppMedia"
-    },
-    {
-      "title": "『ソードアート・オンライン メモリー・デフラグ』が配信決定！ キャミソール アスナがもらえる事前登録が開始 - Appliv Games",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5mWlJIZ0ZKdDJIbVlLcl9SUlljU2g0b2p6dGxTMGFOWXgxSG9qUjhlM0NpWjFzdmNxRkppczBPdXprbV9COFVtZzJXUDBkY29RS1E?oc=5",
-      "source": "Appliv Games",
-      "published_at": "2018-01-19T04:03:50+00:00",
-      "summary": "『ソードアート・オンライン メモリー・デフラグ』が配信決定！ キャミソール アスナがもらえる事前登録が開始    Appliv Games"
+      "published_at": "2018-04-19T07:00:00+00:00",
+      "summary": "『ダービースタリオン マスターズ』、DMM GAMESにてPC版の配信を本日より開始!!    株式会社ドリコム"
     },
     {
       "title": "『ハイキュー!!』初のスマホゲーム『ハイキュー!!ドンピシャマッチ!!』の配信が決定！ 事前登録がスタート - Appliv Games",
@@ -510,11 +519,18 @@
       "summary": "『ハイキュー!!』初のスマホゲーム『ハイキュー!!ドンピシャマッチ!!』の配信が決定！ 事前登録がスタート    Appliv Games"
     },
     {
-      "title": "【事前登録】『ラブライブ！』がスマホ向けパズルゲームに！ポケラボ新作『ぷちぐるラブライブ！』配信決定 - ファミ通",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5fdlRROTA4bDQ3VGUzby00amlqY1JYMVMtY2pSLVNLdWRMZW4xYXJpVVkzOFhZME1UenVZeHhKcFNTS3VVMl9tazRETl92WWNsMllB?oc=5",
-      "source": "ファミ通",
-      "published_at": "2017-09-25T07:00:00+00:00",
-      "summary": "【事前登録】『ラブライブ！』がスマホ向けパズルゲームに！ポケラボ新作『ぷちぐるラブライブ！』配信決定    ファミ通"
+      "title": "劇場上映中『宇宙戦艦ヤマト2202』の世界がスマホゲームに！ 『宇宙戦艦ヤマト2202 戦士たちの記憶』事前登録開始 ～全てのファンに贈る「新しいヤマト」 - newscast.jp",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9MZFpKR3BiWXpwdVpRWFE4RmhrazdWNmdNdFU1TVQ4N0Jsa29VUzdnN0dXbXE4dzFBZ3NtcnNlZG9tNVByTzl3ODFnNkl3NDg?oc=5",
+      "source": "newscast.jp",
+      "published_at": "2017-07-14T07:00:00+00:00",
+      "summary": "劇場上映中『宇宙戦艦ヤマト2202』の世界がスマホゲームに！ 『宇宙戦艦ヤマト2202 戦士たちの記憶』事前登録開始 ～全てのファンに贈る「新しいヤマト」    newscast.jp"
+    },
+    {
+      "title": "ゼルダの伝説 スマホアプリ版（仮） 配信日と事前登録の情報 - appget.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1XNldIRmllRkk1aXB1S2VYUl84NEw1czA5TzVoTkFpRDF2QVlIQktScVRLSlYwTFkzaE5xTkhDMXpFaGlYa3hjeXdMVUJLUEk?oc=5",
+      "source": "appget.com",
+      "published_at": "2017-06-14T19:01:45+00:00",
+      "summary": "ゼルダの伝説 スマホアプリ版（仮） 配信日と事前登録の情報    appget.com"
     },
     {
       "title": "新作スマホゲーム『あんさんぶるガールズ！！』配信！ - アニメイトタイムズ",
@@ -529,13 +545,6 @@
       "source": "4Gamer.net",
       "published_at": "2016-05-23T07:00:00+00:00",
       "summary": "「感染×少女」の完全新作スマホゲームが2016年夏に配信決定。事前登録開始    4Gamer.net"
-    },
-    {
-      "title": "「メタルマックス」シリーズ最新作 超改造戦車RPG「METAL MAX FIREWORKS」 事前登録開始！ 登録特典【戦車つきプレミアム☆GAL】を手に入れろ！ - PR TIMES",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9XY0hoM0tQZXdzZURNYXdReTdRSGctbm5NZnFNMnB6M1piZnVDdmlRc1ViMlJzU0dLVVN0NVpyUHNjWVd1NmphcEhiN25VQnBZVnowUmY3b1RJblNhcEpyeFZ1Z21uaUlWX2c?oc=5",
-      "source": "PR TIMES",
-      "published_at": "2015-07-10T07:00:00+00:00",
-      "summary": "「メタルマックス」シリーズ最新作 超改造戦車RPG「METAL MAX FIREWORKS」 事前登録開始！ 登録特典【戦車つきプレミアム☆GAL】を手に入れろ！    PR TIMES"
     },
     {
       "title": "【事前登録】『ソードアート・オンライン』の新作スマホゲームが配信決定 - ファミ通",

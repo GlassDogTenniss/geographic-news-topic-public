@@ -1,21 +1,23 @@
 {
   "type": "FeatureCollection",
   "properties": {
-    "created_at": "2026-06-28T16:32:08.618584+00:00",
-    "count": 0,
+    "created_at": "2026-06-28T16:42:59.436324+00:00",
+    "count": 1,
     "stats": {
       "feed_id": "kakuchopurei-sea",
       "feed_label": "Kakuchopurei: Southeast Asia gaming",
       "rss_url": "https://www.kakuchopurei.com/feed/",
       "fetched": 10,
       "filtered": 3,
-      "resolved": 0,
-      "unresolved": 3,
-      "rules": 9,
-      "known_places": 11,
+      "resolved": 1,
+      "unresolved": 2,
+      "rules": 34,
+      "known_places": 36,
       "loaded_data_files": [
         "data/place_rules.json",
-        "data/unresolved_known_places_12.json"
+        "data/unresolved_known_places_12.json",
+        "data/unresolved_known_places_13.json",
+        "data/unresolved_known_places_14.json"
       ],
       "topic_keywords": [
         "game",
@@ -33,5 +35,33 @@
       "exclude_keywords": []
     }
   },
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6869,
+          3.139
+        ]
+      },
+      "properties": {
+        "title": "UNDERTALE: The Determination Symphony Concert Tour Malaysia – All Info & Ticket Prices",
+        "source": "Kakuchopurei",
+        "link": "https://www.kakuchopurei.com/2026/06/undertale-the-determination-symphony-concert-tour-malaysia-all-info-ticket-prices/",
+        "published_at": "2026-06-16T04:09:41+00:00",
+        "representative_place": "Kuala Lumpur concert stop",
+        "place_label": "マレーシア-クアラルンプール",
+        "sort_place_label": "マレーシア-クアラルンプール",
+        "geocode_query": "Kuala Lumpur Malaysia",
+        "place_type": "event_site",
+        "location_precision": "city",
+        "place_reason": "未解決記事のタイトルにMalaysia、summaryに『live in Kuala Lumpur』とあり、コンサートツアーの対象地としてクアラルンプールに置く（一致語: UNDERTALE: The Determination Symphony Concert Tour Malaysia）",
+        "confidence": 0.86,
+        "rule_id": "observed_undertale_symphony_kuala_lumpur_202606",
+        "matched_text": "UNDERTALE: The Determination Symphony Concert Tour Malaysia",
+        "match_source": "known_place_title"
+      }
+    }
+  ]
 }

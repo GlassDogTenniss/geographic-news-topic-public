@@ -1,21 +1,23 @@
 {
   "type": "FeatureCollection",
   "properties": {
-    "created_at": "2026-06-28T16:32:08.618584+00:00",
-    "count": 14,
+    "created_at": "2026-06-28T16:42:59.436324+00:00",
+    "count": 22,
     "stats": {
       "feed_id": "google-news-game-philippines-en",
       "feed_label": "Google News: Philippines gaming",
       "rss_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Philippines&hl=en-PH&gl=PH&ceid=PH:en",
-      "fetched": 78,
-      "filtered": 77,
-      "resolved": 14,
-      "unresolved": 63,
-      "rules": 9,
-      "known_places": 11,
+      "fetched": 77,
+      "filtered": 76,
+      "resolved": 22,
+      "unresolved": 54,
+      "rules": 34,
+      "known_places": 36,
       "loaded_data_files": [
         "data/place_rules.json",
-        "data/unresolved_known_places_12.json"
+        "data/unresolved_known_places_12.json",
+        "data/unresolved_known_places_13.json",
+        "data/unresolved_known_places_14.json"
       ],
       "topic_keywords": [
         "game",
@@ -34,6 +36,33 @@
     }
   },
   "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.774,
+          12.8797
+        ]
+      },
+      "properties": {
+        "title": "First Filipino Horror Game Jam begins on September - Inquirer Technology",
+        "source": "Inquirer Technology",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMThwYkdib3dnVnBxR1dERW9zYWJEeGlrazdxa1pEM0Y2dnFvbElrUjRvdVkwUjhkWlpMdzcycVgwNE9nNGdBWTROSlkxZURiaG5oejYzMzExelAwZlRHalRRelZFM3pNWVF3TEdIS0NMZWNPdEZCSVU4RWdxb0ItdHZkRHEteVp2Q0d3bi1YblV1UWfSAZgBQVVfeXFMTUZOOUZtRVJVYlFiNzRoSW5MdFd6c3d0SHVkcWxBZENCbzF0aE9rMEYtQnJCU2hQems3OV9tVURndk1NbUZ3eFBybmJfRDJETzFuZENYYkpjb3QtSG9TclhHMG11ZEhQNFExaHBWUk1CbTNrdmotbDdoUlJHT2dadDlRQTFSdDI3d1NLdzAwelV3c25ZTkVMclI?oc=5",
+        "published_at": "2026-06-28T03:18:00+00:00",
+        "representative_place": "Filipino Horror Game Jam",
+        "place_label": "フィリピン",
+        "sort_place_label": "フィリピン",
+        "geocode_query": "Philippines",
+        "place_type": "game_jam_region",
+        "location_precision": "country",
+        "place_reason": "未解決記事のタイトルに『Filipino Horror Game Jam』とあり、フィリピン系ゲームジャムとして国単位に置く（一致語: First Filipino Horror Game Jam）",
+        "confidence": 0.72,
+        "rule_id": "observed_filipino_horror_game_jam_202606",
+        "matched_text": "First Filipino Horror Game Jam",
+        "match_source": "known_place_title"
+      }
+    },
     {
       "type": "Feature",
       "geometry": {
@@ -66,15 +95,96 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          101.9758,
+          4.2105
+        ]
+      },
+      "properties": {
+        "title": "🎮🌏 From players to creators: Southeast Asia's gaming industry takes the global stage - The Southeast Asia Desk",
+        "source": "The Southeast Asia Desk",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVUotR2daaVNYaGlTamp5cnFEVTMzRHhYbE1DLUVyWTRpNjJ1bzJYMzQySE5VdDgtRmZwNGp2cUhJUDJmU0UwRmJHTDUwZ3IxMlNzOWpXajNNYVNKbWlxQzFrMzlnWGtYQnB1MjVGZUxza2xucEl0bWdIRjJ2OU1sb19hQUIwdTQyWS1Sb1VlRW5ORC1W?oc=5",
+        "published_at": "2026-06-18T14:03:25+00:00",
+        "representative_place": "Southeast Asia gaming industry",
+        "place_label": "東南アジア",
+        "sort_place_label": "東南アジア",
+        "geocode_query": "Southeast Asia",
+        "place_type": "industry_region",
+        "location_precision": "region",
+        "place_reason": "未解決記事のタイトルに『Southeast Asia's gaming industry』とあり、特定国ではなく東南アジア地域全体のゲーム産業を扱う記事として地域代表点に置く（一致語: From players to creators: Southeast Asia's gaming industry takes the global stage）",
+        "confidence": 0.6,
+        "rule_id": "observed_southeast_asia_gaming_industry_202606",
+        "matched_text": "From players to creators: Southeast Asia's gaming industry takes the global stage",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.774,
+          12.8797
+        ]
+      },
+      "properties": {
+        "title": "Keneth Agar, Filipino dev, has released eight games on Steam - Inquirer Technology",
+        "source": "Inquirer Technology",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONk9hM0U0UF9LZGJnVmoxUkdHX081aHFHV0pMWDItejZBNTB2ODk0aGE0clhNZGtldG96bkwyTndtOTZ4aDZyZWd6X1BIVkQtQWdOLUxBSXprY2ZCU0poZ1huR1FMNWdaMGVmcWJOMGZVM0lMZHN0bWtQUnJ5VGM3YVlEUHJFVlA4ZklYenFMQ3c5WnRiQWRGTms5ZUN2RjjSAaQBQVVfeXFMUGFKRUw5SlE2QnlIT1BSN2dZLUdIdlpiWUxrZF9YV0lId1hpVjVKaUFkNnMwVWw0M1JFbEtabjhHMGloRmVub3ZmX2xjczZQZzlRNVkxanZyWFV3cGhVcGN2a0xrZjZyd0pZUmkyM0xJSkxBOEJfcm9KbGlMb004cldfRFpWZUt0VnY1VFN0ckR0Tk9uVGgxOUxTZWt1RDM4eUdmdEs?oc=5",
+        "published_at": "2026-05-15T07:00:00+00:00",
+        "representative_place": "Filipino developer Keneth Agar",
+        "place_label": "フィリピン",
+        "sort_place_label": "フィリピン",
+        "geocode_query": "Philippines",
+        "place_type": "developer_region",
+        "location_precision": "country",
+        "place_reason": "未解決記事のタイトルに『Filipino dev』とあり、開発者の地域属性が記事の主題になっているためフィリピンに置く（一致語: Keneth Agar, Filipino dev）",
+        "confidence": 0.7,
+        "rule_id": "observed_keneth_agar_filipino_dev_202605",
+        "matched_text": "Keneth Agar, Filipino dev",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.774,
+          12.8797
+        ]
+      },
+      "properties": {
+        "title": "Super Smash Bros. meets Sepak Takraw in upcoming Filipino-made game - Lifestyle.INQ",
+        "source": "Lifestyle.INQ",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORUpaX1kxYkJoakRQaENtXzJQQjY5b3pmTkZmX1BKQ2dKZ1liX0F5alJLNUhmLUFkRW80cGNfVGV2azUwRGpPMzdvSnozcW53ZU5XTXhBVW84OUFyUXFUSXhKdDVTZlU2b2FuMnprMk9Jak5KSG9fbExqQnpDU3JOTkI0Q3hEV1FkQ2fSAY8BQVVfeXFMT2w4aDFScEJyM0pSREE3Q2ZYZXFJMU9JX3hxTTZDdjIwWExXWHZvc1UyZHV0eS1VTllzVlo4R1pTbXBpX0tCeENheDdNdHd3MmxCT3lXemx1Z211NVBTamdnTnZKTkpnNTZDYkQ0WWhHT3Q0TVBvb2phNzRPRmtjbi1ITVlZaTc0LURkQ2t6S1U?oc=5",
+        "published_at": "2026-04-16T07:00:00+00:00",
+        "representative_place": "Filipino-made Sepak Takraw game",
+        "place_label": "フィリピン",
+        "sort_place_label": "フィリピン",
+        "geocode_query": "Philippines",
+        "place_type": "game_origin_region",
+        "location_precision": "country",
+        "place_reason": "未解決記事のタイトルに『Filipino-made game』とあり、フィリピン制作のゲームとして国単位に置く（一致語: Super Smash Bros. meets Sepak Takraw）",
+        "confidence": 0.72,
+        "rule_id": "observed_filipino_sepak_takraw_game_202604",
+        "matched_text": "Super Smash Bros. meets Sepak Takraw",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.009,
           37.3349
         ]
       },
       "properties": {
-        "title": "Horror game ‘Agni’, mech RPG ‘Kriegsfront’ bring Southeast Asian flavor to familiar genres - Rappler",
+        "title": "Game Awards 2025: ‘Clair Obscur: Expedition 33’ breaks record with 9 wins - Rappler",
         "source": "Rappler",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWFgxY0dONE5DaG12Y2pWS1FFX0dYOVotWmVpSFhPUlI4UUd6MlRBZ1dBRHFiVDE4UjF6TXVaT0pETmFIQXNMc2tJQ3pJa3l4VFhaUGZqR0RkYUVCbW1RRUpnMThGTmszQ1ZBZjcwODJwaWhXbTdrWGtab1FjZlZobUpneHBoS2p3Zm5WRHo3TnIzT3hwbUJkejVleUtDWHRnNldtbjRXZ2pTSHdWdGpXU0w5V0NYb2czbTd4VExMQkFJYWNRYVZV?oc=5",
-        "published_at": "2025-04-23T07:00:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPazk4dW5QRThCelRiU3lLVXNvSFpyNDhZeXFZdVlta3lUcVB3R0RoLWZIeHByU2hxZ3pkbzg0dlVLUHBkaURZQk9PWlpGVDdOVmJjRl9HZlhDOVljUTFpTS14SzBaS0oxZzlWVmVVNHBkSExKUk01LXlGVTNWbVNiQjY1elg0dkkyYW51d2U5U250X3Iwc2E4eTY3Z2paNGdFZDRYWHJKaDNITDV6?oc=5",
+        "published_at": "2025-12-12T08:00:00+00:00",
         "representative_place": "Apple本社",
         "place_label": "米国-カリフォルニア州-クパチーノ",
         "sort_place_label": "米国-カリフォルニア州-クパチーノ",
@@ -85,6 +195,60 @@
         "confidence": 0.66,
         "rule_id": "apple_cupertino_headquarters",
         "matched_text": "Apple",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0508,
+          14.5503
+        ]
+      },
+      "properties": {
+        "title": "Ubisoft Philippines is an up-and-coming powerhouse of AAA Game Development with Assassin’s Creed Shadows - Ubisoft",
+        "source": "Ubisoft",
+        "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPS1E2aDZIcDVHWGt1b0phQjhIbnpILVhZTzJ0M2lLdmpjY2pvbmZLOTFScHNHVWpfWnpSXzctcDF5eUxhUWhPQnBVQUZvVkJXdWYtWmFWVzRPRnpHRHpSTkpnVXA0bURwOW5xc3BlLVE5UzdFZG5KeE1lbDVMMmZLYS1mdGVkUHZkX2ctUFZWcmtaUTdNOVprc3FmMVBJY2FnRkxrOTUzZl83N3czbEZyNTlRbFNlOHN3V1RqYlMzM2k3dTFzcjJzSnd5Q0lyYkdjamNSUHQ1MUJXNS1CVlpVT1Nvalp4ZmIyaFpXMFZDMXVNWm9KY0ZaaW42VWJSdw?oc=5",
+        "published_at": "2025-05-26T19:07:25+00:00",
+        "representative_place": "Ubisoft Philippines / BGC",
+        "place_label": "フィリピン-マニラ首都圏-タギッグ-BGC",
+        "sort_place_label": "フィリピン-マニラ首都圏-タギッグ-BGC",
+        "geocode_query": "Bonifacio Global City Taguig Philippines",
+        "place_type": "studio_site",
+        "location_precision": "district",
+        "place_reason": "未解決記事に『Ubisoft Philippines』が出ており、別の未解決タイトルでは『New Office In BGC』と明示されているためBGCに置く（一致語: Ubisoft Philippines）",
+        "confidence": 0.82,
+        "rule_id": "observed_ubisoft_philippines_industry_202502",
+        "matched_text": "Ubisoft Philippines",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0508,
+          14.5503
+        ]
+      },
+      "properties": {
+        "title": "How Ubisoft Philippines is Leveling Up the Local Gaming Industry - all-starmagazine.com",
+        "source": "all-starmagazine.com",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYTBxX05vbHg1QkRucTZmbFBVNHV1TDZfOHp4SS1VQXhqaENZNnJybjFTbWdlSnMwYjJFc2Q1OTlmUHFtWTJjbnlldUFLTDlqUXRmRGhtdnNybmtyNU5UVFAzekR3LTRCQzQ0S01XbVpVdmJ5NEJELXJLWGE0WU4wQl9DdGtBT21IZXIyanZHang2VnpJbXlzTW1Hd2k2MFJqdXFRLVEyUQ?oc=5",
+        "published_at": "2025-02-24T08:00:00+00:00",
+        "representative_place": "Ubisoft Philippines / BGC",
+        "place_label": "フィリピン-マニラ首都圏-タギッグ-BGC",
+        "sort_place_label": "フィリピン-マニラ首都圏-タギッグ-BGC",
+        "geocode_query": "Bonifacio Global City Taguig Philippines",
+        "place_type": "studio_site",
+        "location_precision": "district",
+        "place_reason": "未解決記事に『Ubisoft Philippines』が出ており、別の未解決タイトルでは『New Office In BGC』と明示されているためBGCに置く（一致語: How Ubisoft Philippines is Leveling Up the Local Gaming Industry）",
+        "confidence": 0.82,
+        "rule_id": "observed_ubisoft_philippines_industry_202502",
+        "matched_text": "How Ubisoft Philippines is Leveling Up the Local Gaming Industry",
         "match_source": "known_place_title"
       }
     },
@@ -112,6 +276,33 @@
         "confidence": 0.66,
         "rule_id": "apple_cupertino_headquarters",
         "matched_text": "Apple",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9959,
+          40.4406
+        ]
+      },
+      "properties": {
+        "title": "Pittsburgh's Mega Cat Studios Is Leaving Its Mark on the Game Industry - Pittsburgh Magazine",
+        "source": "Pittsburgh Magazine",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5IWUp3SHpFejZfb2prU3VRUHpSLXhQWlFQWVFhNG50TnRMYWF4UFdOTU9rcG0yVUM3NnBOWi03Q0VETkZBb25vLUlVTkwteDI0Sm51dVFCRl8xOWtqWUpkMUlaeGFKRFFvN1Y4QnhmNUY?oc=5",
+        "published_at": "2024-12-04T08:00:00+00:00",
+        "representative_place": "Mega Cat Studios in Pittsburgh",
+        "place_label": "米国-ペンシルベニア州-ピッツバーグ",
+        "sort_place_label": "米国-ペンシルベニア州-ピッツバーグ",
+        "geocode_query": "Pittsburgh Pennsylvania United States",
+        "place_type": "studio_site",
+        "location_precision": "city",
+        "place_reason": "未解決記事のタイトルに『Pittsburgh's Mega Cat Studios』と明示されているため、スタジオ所在地としてピッツバーグに置く（一致語: Pittsburgh's Mega Cat Studios）",
+        "confidence": 0.86,
+        "rule_id": "observed_megacat_pittsburgh_202412",
+        "matched_text": "Pittsburgh's Mega Cat Studios",
         "match_source": "known_place_title"
       }
     },
@@ -174,8 +365,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.009,
-          37.3349
+          121.0508,
+          14.5503
+        ]
+      },
+      "properties": {
+        "title": "Ubisoft Philippines Invites Gaming Communities To New Office In BGC: “Laro Tayo?” - Ubisoft",
+        "source": "Ubisoft",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOajV5emxzbzV5aDEtc1ZnMlBUdF9vUGFCcW85VUhhX2h1WklKeFU5aS1Lem5MNTA3NmlfMnhyVWpYYjhRLUJHblNBYXlMUFo4UVVpekpfclJGRHpqTDc0SXBWMmZoaUZCNTBTdnpoY2dUcEVQMDBfNEpKMlk2TVV2LVVMR3RMT1llZWtLODNMdjRDanY4aTU1bWFVc3k1M05aVFdHSzlYRlo4ZGIzRTI5V1NURW9OdmhXX1IwS0cwWmdoZjFwZUFuTDBSNWRqS3lCT20wQ1ZxU1lUazg?oc=5",
+        "published_at": "2024-06-21T07:00:00+00:00",
+        "representative_place": "Ubisoft Philippines / BGC",
+        "place_label": "フィリピン-マニラ首都圏-タギッグ-BGC",
+        "sort_place_label": "フィリピン-マニラ首都圏-タギッグ-BGC",
+        "geocode_query": "Bonifacio Global City Taguig Philippines",
+        "place_type": "studio_site",
+        "location_precision": "district",
+        "place_reason": "未解決記事に『Ubisoft Philippines』が出ており、別の未解決タイトルでは『New Office In BGC』と明示されているためBGCに置く（一致語: Ubisoft Philippines Invites Gaming Communities To New Office In BGC）",
+        "confidence": 0.82,
+        "rule_id": "observed_ubisoft_philippines_industry_202502",
+        "matched_text": "Ubisoft Philippines Invites Gaming Communities To New Office In BGC",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.774,
+          12.8797
         ]
       },
       "properties": {
@@ -183,16 +401,16 @@
         "source": "Rappler",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRGlTN002MlZhX2hSSng4dEtqbmN6TFJ1MVo5QlVncVl3YmxLTk5ILUN4VlBObHhCM1ZBNExyMGlBQW5HdzZkWWpjSWNva3ZLNmlPX0hKNDZPMlBkbnpod3M3ZUFBNUpvR3ZXamI1WGY1WTBvbVpLa2xIaWZQd1lGai1lSjlUMS1yZTIxQ01rYi1IWlF4XzJ4WFFEUFlIVE5rdWdYdA?oc=5",
         "published_at": "2024-04-20T07:00:00+00:00",
-        "representative_place": "Apple本社",
-        "place_label": "米国-カリフォルニア州-クパチーノ",
-        "sort_place_label": "米国-カリフォルニア州-クパチーノ",
-        "geocode_query": "Apple Park Cupertino California United States",
-        "place_type": "institution_site",
-        "location_precision": "campus",
-        "place_reason": "Apple製品・Apple社に関する記事を、企業主体の代表地点としてApple本社に置く（一致語: Apple）",
-        "confidence": 0.66,
-        "rule_id": "apple_cupertino_headquarters",
-        "matched_text": "Apple",
+        "representative_place": "Fallen Tear made by Filipino developers",
+        "place_label": "フィリピン",
+        "sort_place_label": "フィリピン",
+        "geocode_query": "Philippines",
+        "place_type": "game_origin_region",
+        "location_precision": "country",
+        "place_reason": "未解決記事のタイトルに『made by Filipino devs』とあり、開発元の地域属性としてフィリピンに置く（一致語: Fallen Tear: The Ascension）",
+        "confidence": 0.72,
+        "rule_id": "observed_fallen_tear_filipino_devs_202604",
+        "matched_text": "Fallen Tear: The Ascension",
         "match_source": "known_place_title"
       }
     },
@@ -336,8 +554,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.009,
-          37.3349
+          121.0508,
+          14.5503
         ]
       },
       "properties": {
@@ -345,43 +563,16 @@
         "source": "Rappler",
         "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPczZyTDZ6Sko0bmR0QU5VQkxNZ1gtbUZ0UEEwTXFJQThZQ0lLWUo2X3Y3Qk9ZeFZUYWNCV0tsaUxiTFY0WTVUVmZHQzhZUlV2VHFCX25MUkJ5WFBpbGM4eHdCMU5lRkp5aGRkWFFpbE5mNVJwcWF4eGZxVENmMjlHMnNvTU9ERHY5OFlr?oc=5",
         "published_at": "2021-12-01T08:00:00+00:00",
-        "representative_place": "Apple本社",
-        "place_label": "米国-カリフォルニア州-クパチーノ",
-        "sort_place_label": "米国-カリフォルニア州-クパチーノ",
-        "geocode_query": "Apple Park Cupertino California United States",
-        "place_type": "institution_site",
-        "location_precision": "campus",
-        "place_reason": "Apple製品・Apple社に関する記事を、企業主体の代表地点としてApple本社に置く（一致語: Apple）",
-        "confidence": 0.66,
-        "rule_id": "apple_cupertino_headquarters",
-        "matched_text": "Apple",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.009,
-          37.3349
-        ]
-      },
-      "properties": {
-        "title": "Q&A: Ubisoft Philippines studio art director JP Tan on their work on ‘AC: Valhalla’ - Rappler",
-        "source": "Rappler",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTWhRZkVYVXZ6V2tPeGJRNlp6YWRzWUxVcFB4cURXOUpWaUJJVzhXQ3luWl81djl6TjMxMHFTWDAydV9nb2RkYjUwMUJRbWpOXzh2SzlIRnFUcXJoM3g0M1pZX0p3Q2JZYUhTYXJ6ZlJ3UXlrRTZ2eDJhRHlSMzcxQ0Z0RFRHNVdrM0RYTENxM0k0ZklxeXp5VGJqRm9PMHZ6QkdDWkhka3JQazFISV9VOQ?oc=5",
-        "published_at": "2020-09-14T07:00:00+00:00",
-        "representative_place": "Apple本社",
-        "place_label": "米国-カリフォルニア州-クパチーノ",
-        "sort_place_label": "米国-カリフォルニア州-クパチーノ",
-        "geocode_query": "Apple Park Cupertino California United States",
-        "place_type": "institution_site",
-        "location_precision": "campus",
-        "place_reason": "Apple製品・Apple社に関する記事を、企業主体の代表地点としてApple本社に置く（一致語: Apple）",
-        "confidence": 0.66,
-        "rule_id": "apple_cupertino_headquarters",
-        "matched_text": "Apple",
+        "representative_place": "Ubisoft Philippines / BGC",
+        "place_label": "フィリピン-マニラ首都圏-タギッグ-BGC",
+        "sort_place_label": "フィリピン-マニラ首都圏-タギッグ-BGC",
+        "geocode_query": "Bonifacio Global City Taguig Philippines",
+        "place_type": "studio_site",
+        "location_precision": "district",
+        "place_reason": "未解決記事に『Ubisoft Philippines』が出ており、別の未解決タイトルでは『New Office In BGC』と明示されているためBGCに置く（一致語: Ubisoft Philippines）",
+        "confidence": 0.82,
+        "rule_id": "observed_ubisoft_philippines_industry_202502",
+        "matched_text": "Ubisoft Philippines",
         "match_source": "known_place_title"
       }
     },
@@ -399,6 +590,33 @@
         "source": "Rappler",
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPalh1aDJzNVBQSm96R1JpMWpuRllPVUN1TEljbHFBM3phRl9OaWpRTHUtbDNnY1k1QU9Nd2JBM3J2SFlVLXJVZjNCZTRoQlFxcUdIekZmdkhZMHBjR1o2WjNWQk1vbGxWcEpKZW9zS2tlcVFobkhaaTRYWW5LeHo1UmNZNFhtY3ZyeWsteEs5dGcxZw?oc=5",
         "published_at": "2016-09-18T07:00:00+00:00",
+        "representative_place": "Apple本社",
+        "place_label": "米国-カリフォルニア州-クパチーノ",
+        "sort_place_label": "米国-カリフォルニア州-クパチーノ",
+        "geocode_query": "Apple Park Cupertino California United States",
+        "place_type": "institution_site",
+        "location_precision": "campus",
+        "place_reason": "Apple製品・Apple社に関する記事を、企業主体の代表地点としてApple本社に置く（一致語: Apple）",
+        "confidence": 0.66,
+        "rule_id": "apple_cupertino_headquarters",
+        "matched_text": "Apple",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.009,
+          37.3349
+        ]
+      },
+      "properties": {
+        "title": "Rappler Gaming League: The best videogames of 2015 - Rappler",
+        "source": "Rappler",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB1OTk4TnBydlk3OVpmcW5JYmpHMkhGbG0tTHcxX3oyMDNLUlltNzVvdmticlJmaFZ2LW50dDFTU091TlVGb3FXdjNPcVhLLWllM0FYSW1BZlp6N1Mzc2hMZ1hKT3JvNkpnb1FjSDYyQm81RWpFVGdfenJEZGM3UQ?oc=5",
+        "published_at": "2015-12-31T08:00:00+00:00",
         "representative_place": "Apple本社",
         "place_label": "米国-カリフォルニア州-クパチーノ",
         "sort_place_label": "米国-カリフォルニア州-クパチーノ",

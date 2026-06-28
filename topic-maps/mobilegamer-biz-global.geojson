@@ -1,21 +1,23 @@
 {
   "type": "FeatureCollection",
   "properties": {
-    "created_at": "2026-06-28T16:32:08.618584+00:00",
-    "count": 0,
+    "created_at": "2026-06-28T16:42:59.436324+00:00",
+    "count": 1,
     "stats": {
       "feed_id": "mobilegamer-biz-global",
       "feed_label": "MobileGamer.biz: Mobile games",
       "rss_url": "https://mobilegamer.biz/feed/",
       "fetched": 10,
       "filtered": 10,
-      "resolved": 0,
-      "unresolved": 10,
-      "rules": 9,
-      "known_places": 11,
+      "resolved": 1,
+      "unresolved": 9,
+      "rules": 34,
+      "known_places": 36,
       "loaded_data_files": [
         "data/place_rules.json",
-        "data/unresolved_known_places_12.json"
+        "data/unresolved_known_places_12.json",
+        "data/unresolved_known_places_13.json",
+        "data/unresolved_known_places_14.json"
       ],
       "topic_keywords": [
         "mobile",
@@ -31,5 +33,33 @@
       "exclude_keywords": []
     }
   },
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0686,
+          59.3293
+        ]
+      },
+      "properties": {
+        "title": "AI could help quadruple new game development, says Mag boss",
+        "source": "Mobilegamer.biz",
+        "link": "https://mobilegamer.biz/ai-could-help-quadruple-new-game-development-says-mag-boss/",
+        "published_at": "2026-06-24T10:29:50+00:00",
+        "representative_place": "MAG Interactive",
+        "place_label": "スウェーデン-ストックホルム",
+        "sort_place_label": "スウェーデン-ストックホルム",
+        "geocode_query": "MAG Interactive Stockholm Sweden",
+        "place_type": "studio_site",
+        "location_precision": "city",
+        "place_reason": "未解決記事にDaniel Hasselberg発言としてMAG Interactiveの開発体制が扱われており、MAG Interactiveはストックホルム拠点のスウェーデンのモバイルゲーム開発会社として確認できるためストックホルムに置く（一致語: Mag boss）",
+        "confidence": 0.76,
+        "rule_id": "observed_mag_interactive_stockholm_202606",
+        "matched_text": "Mag boss",
+        "match_source": "known_place_title"
+      }
+    }
+  ]
 }

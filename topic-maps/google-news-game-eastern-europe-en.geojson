@@ -1,21 +1,23 @@
 {
   "type": "FeatureCollection",
   "properties": {
-    "created_at": "2026-06-28T16:32:08.618584+00:00",
-    "count": 0,
+    "created_at": "2026-06-28T16:42:59.436324+00:00",
+    "count": 1,
     "stats": {
       "feed_id": "google-news-game-eastern-europe-en",
       "feed_label": "Google News: Eastern Europe gaming",
       "rss_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Eastern%20Europe&hl=en&gl=PL&ceid=PL:en",
-      "fetched": 74,
-      "filtered": 69,
-      "resolved": 0,
+      "fetched": 73,
+      "filtered": 70,
+      "resolved": 1,
       "unresolved": 69,
-      "rules": 9,
-      "known_places": 11,
+      "rules": 34,
+      "known_places": 36,
       "loaded_data_files": [
         "data/place_rules.json",
-        "data/unresolved_known_places_12.json"
+        "data/unresolved_known_places_12.json",
+        "data/unresolved_known_places_13.json",
+        "data/unresolved_known_places_14.json"
       ],
       "topic_keywords": [
         "game",
@@ -36,5 +38,33 @@
       ]
     }
   },
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.6791,
+          1.6508
+        ]
+      },
+      "properties": {
+        "title": "New market: on the gaming industry global map, Africa is making its move - Telquel.ma",
+        "source": "Telquel.ma",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcDZXN0xncVdNUUJCTDkzN2xtSFpnZVJEOTZNLUFxbmlDMmx4Vmtmc2pnckljT1FUXzkwQkxZMXliZGJ3alQ4aUczMDdVZ0wwS0duSzF2b3hJa0t4c1o4RDNaWmxqMXN3cnI2OE9vRi0zVjJZOHYyTGo1TFBISWcyRHJ3ZGNrYmd2aEVfMzNoMFJWdjZ6dzJTM3paYnZhZzNETE9WUnVBS213UQ?oc=5",
+        "published_at": "2026-06-05T15:48:06+00:00",
+        "representative_place": "Africa games market",
+        "place_label": "アフリカ",
+        "sort_place_label": "アフリカ",
+        "geocode_query": "Africa",
+        "place_type": "industry_region",
+        "location_precision": "continent_region",
+        "place_reason": "未解決記事のタイトルにAfrica全体のゲーム市場・産業が明示されており、特定国ではなくアフリカ地域の話題として地域代表点に置く（一致語: Africa is making its move）",
+        "confidence": 0.56,
+        "rule_id": "observed_africa_gaming_market_202606",
+        "matched_text": "Africa is making its move",
+        "match_source": "known_place_title"
+      }
+    }
+  ]
 }

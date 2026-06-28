@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "created_at": "2026-06-28T16:32:08.618584+00:00",
+  "created_at": "2026-06-28T16:42:59.436324+00:00",
   "stats": {
     "feed_id": "google-news-game-ja",
     "feed_label": "Google News: ゲーム会社・新作",
@@ -9,11 +9,13 @@
     "filtered": 75,
     "resolved": 0,
     "unresolved": 75,
-    "rules": 9,
-    "known_places": 11,
+    "rules": 34,
+    "known_places": 36,
     "loaded_data_files": [
       "data/place_rules.json",
-      "data/unresolved_known_places_12.json"
+      "data/unresolved_known_places_12.json",
+      "data/unresolved_known_places_13.json",
+      "data/unresolved_known_places_14.json"
     ],
     "topic_keywords": [
       "ゲーム",
@@ -196,13 +198,6 @@
       "source": "PR TIMES",
       "published_at": "2025-06-16T07:00:00+00:00",
       "summary": "セガの英国スタジオCreative Assembly、『Total War(TM)』シリーズ25周年を記念し、年末の新作やコンテンツ発表を告知    PR TIMES"
-    },
-    {
-      "title": "「幻のドットゲーム」企画が20年越しに復活！？『メタスラ』開発者等豪華メンバー集うKOHACHI STUDIO6月12日の新作発表を告知 - Game*Spark",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5QQlFZb0c3NzBRcTBzNDRXLWdVVVQwS1dDM190cjNCYjJJT1NfQ194Q3JGME1Lak1tTnF3cWNfb01pNXJ6bWRZeHdUa1RiSWMzOEg1TG1jVy1jT2lGb21EX3JTXzVYdw?oc=5",
-      "source": "Game*Spark",
-      "published_at": "2025-06-10T07:00:00+00:00",
-      "summary": "「幻のドットゲーム」企画が20年越しに復活！？『メタスラ』開発者等豪華メンバー集うKOHACHI STUDIO6月12日の新作発表を告知    Game*Spark"
     },
     {
       "title": "『マリオカート ワールド』の開発には、バンダイナムコスタジオとモノリスソフトがダブル動員。受託開発の名手が集結 - AUTOMATON",
@@ -462,6 +457,13 @@
       "source": "AUTOMATON",
       "published_at": "2021-09-21T07:00:00+00:00",
       "summary": "『ドラゴンクエスト12』の開発には、オルカも参加。超人気ゲーム新作に実力派国内開発会社が集う    AUTOMATON"
+    },
+    {
+      "title": "ボーカ・ゲームスタジオの新作に関する映像が公開。新作は“えぐい犠牲を伴う”もの。『サイレンNT』オンラインTPS開発の秘話も - ファミ通",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1OellXQWtLM2IxWW9UaklLQWJoR29jb3pwc0djaHV2VXFvQVZhZEV4R2ZFcDdqbGtKYU9paUdvVmNyaWZxYUJlbFhhbl9BZVd6SDJELUhad2lYaVFmSXc?oc=5",
+      "source": "ファミ通",
+      "published_at": "2021-06-24T07:00:00+00:00",
+      "summary": "ボーカ・ゲームスタジオの新作に関する映像が公開。新作は“えぐい犠牲を伴う”もの。『サイレンNT』オンラインTPS開発の秘話も    ファミ通"
     },
     {
       "title": "ファイアーウォーク・スタジオ、プレイステーションで新作マルチプレイヤー・ゲームを開発 - NME Japan",
