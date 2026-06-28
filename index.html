@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>ニュース地図 topic 実験</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.css">
+  <link rel="stylesheet" href="./style.css?v=20260629-1">
+</head>
+<body>
+  <div id="map"></div>
+  <button id="panelToggle" class="panel-toggle" type="button" aria-expanded="true">一覧を閉じる</button>
+  <div id="updatedAtBadge" class="updated-at-badge">更新日を取得中</div>
+  <aside class="panel" id="sidePanel">
+    <div class="panel-header">
+      <button id="panelCloseButton" class="panel-close-button" type="button">一覧を閉じる</button>
+      <h1>ニュース地図 topic 実験</h1>
+      <div class="schedule-note">place_label 正規化の確認用ビューです</div>
+      <div id="status" class="muted">loading latest.geojson...</div>
+    </div>
+    <div class="panel-scroll">
+      <div id="stats" class="stats"></div>
+      <div id="topicList" class="topic-list"></div>
+      <div id="unresolvedList" class="unresolved-list"></div>
+    </div>
+  </aside>
+  <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="./app.js?v=20260629-1"></script>
+</body>
+</html>
