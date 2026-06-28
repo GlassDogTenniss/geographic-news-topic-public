@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "created_at": "2026-06-28T23:04:59.918330+00:00",
+  "created_at": "2026-06-28T23:50:16.257178+00:00",
   "stats": {
     "feed_id": "game-all",
     "feed_label": "ゲーム",
@@ -26,7 +26,7 @@
       "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja"
     ],
     "rss_url": "https://www.gamedeveloper.com/rss.xml",
-    "fetched": 977,
+    "fetched": 989,
     "fetched_by_url": {
       "https://www.gamedeveloper.com/rss.xml": 50,
       "https://www.gamesindustry.biz/feed": 100,
@@ -43,16 +43,16 @@
       "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Eastern%20Europe&hl=en&gl=PL&ceid=PL:en": 74,
       "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Africa&hl=en&gl=ZA&ceid=ZA:en": 79,
       "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Southeast%20Asia&hl=en-SG&gl=SG&ceid=SG:en": 77,
-      "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA&hl=ja&gl=JP&ceid=JP:ja": 65,
-      "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja": 77,
+      "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA&hl=ja&gl=JP&ceid=JP:ja": 75,
+      "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja": 79,
       "https://news.google.com/rss/search?q=%E6%B5%B7%E5%A4%96%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA&hl=ja&gl=JP&ceid=JP:ja": 75,
-      "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja": 74
+      "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja": 77
     },
-    "filtered": 897,
-    "resolved": 137,
-    "unresolved": 760,
-    "rules": 111,
-    "known_places": 113,
+    "filtered": 907,
+    "resolved": 150,
+    "unresolved": 757,
+    "rules": 142,
+    "known_places": 144,
     "loaded_data_files": [
       "data/place_rules.json",
       "data/unresolved_known_places_12.json",
@@ -224,22 +224,6 @@
       "feed_url": "https://www.nag.co.za/feed/"
     },
     {
-      "title": "『MIRESI：視えない未来』新作タイムトラベルRPGのパートナークリエイター募集を開始 - AppMedia",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9reVlHT29GZ01KU2lRVDJHa1ROOS1aN2dzWE5meTUzQmlEWm53eUNPNE1HU0VXc05GRjlWMUxaWWNYclhLRm5abQ?oc=5",
-      "source": "AppMedia",
-      "published_at": "2026-06-26T04:17:45+00:00",
-      "summary": "『MIRESI：視えない未来』新作タイムトラベルRPGのパートナークリエイター募集を開始    AppMedia",
-      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja"
-    },
-    {
-      "title": "【ラストファーリー：サバイバル】配信日と事前登録情報｜最新情報 - AppMedia",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9LNXJ6amllbk1RanV3c1hPejU3Q1BDblFiX1pCMnJJblI3UFZmZGlLQ013VWNjOFRzMWljMm1iZU5HVXN2YkYxLVhmbUg?oc=5",
-      "source": "AppMedia",
-      "published_at": "2026-06-26T04:00:43+00:00",
-      "summary": "【ラストファーリー：サバイバル】配信日と事前登録情報｜最新情報    AppMedia",
-      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja"
-    },
-    {
       "title": "Afro Game Showcase Debuts With 22 Titles Spotlighting African and Diaspora Talent",
       "link": "https://gamesindustryafrica.com/2026/06/25/afro-game-showcase-debuts-with-22-titles-spotlighting-african-and-diaspora-talent/?utm_source=rss&utm_medium=rss&utm_campaign=afro-game-showcase-debuts-with-22-titles-spotlighting-african-and-diaspora-talent",
       "source": "Games Industry Africa",
@@ -400,6 +384,14 @@
       "feed_url": "https://news.google.com/rss/search?q=%E6%B5%B7%E5%A4%96%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
+      "title": "Tacloban shooting: Philippines bans gaming app Gorebox played by teenage suspect - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5IRHRadmE0Rlc5d2d5eHZMOFdCR0VTS2N0WGhFSzI3Q0YzOGtzNGhKQkxTZkdJa1BZdlJhNWJ1UXhsZnc4bjNpSWtiS3Y3R0hBN1Z6dWpTR2Y2UQ?oc=5",
+      "source": "BBC",
+      "published_at": "2026-06-24T22:14:12+00:00",
+      "summary": "Tacloban shooting: Philippines bans gaming app Gorebox played by teenage suspect    BBC",
+      "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Philippines&hl=en-PH&gl=PH&ceid=PH:en"
+    },
+    {
       "title": "Tim Sweeney says only hope for new games is to 'connect to economies of other games'",
       "link": "https://www.gamedeveloper.com/business/tim-sweeney-says-only-hope-for-new-games-is-to-connect-to-economies-of-other-games-",
       "source": "gamedeveloper",
@@ -544,12 +536,12 @@
       "feed_url": "https://gameworldobserver.com/feed"
     },
     {
-      "title": "State of Play: The challenges and opportunities facing the Nordic games industry",
-      "link": "https://www.pocketgamer.biz/state-of-play-the-nordic-games-industry/",
-      "source": "Latest Updates | PocketGamer.biz",
-      "published_at": "2026-06-23T14:49:00+00:00",
-      "summary": "This article is from of our upcoming Nordic games industry region report, created in association with Xsolla. Learn more about the region at Pocket Gamer Connects Nordics in Helsinki on October 20th and 21st.\n\nThe Nordics have had an immeasurable impact on the global games scene. ... [ MORE ]",
-      "feed_url": "https://www.pocketgamer.biz/rss/"
+      "title": "アストラエ・オラティオの配信日と事前登録情報 - GameWith",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1ZWjlzVkpQVEdYa29Hcm9iQUwxclQzWWduNHIwbHZIeHhyTGJQYlpqNTRhaFA5cG1URjI2ZnVvbWt6WFFWbkdB?oc=5",
+      "source": "GameWith",
+      "published_at": "2026-06-23T23:36:50+00:00",
+      "summary": "アストラエ・オラティオの配信日と事前登録情報    GameWith",
+      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
       "title": "Kingshot maker Century hires a flurry of footballers for World Cup ad spots",
@@ -645,14 +637,6 @@
       "source": "GamesIndustry.biz Latest Articles Feed",
       "published_at": "2026-06-22T20:53:28+00:00",
       "summary": "Beyond All Reason (BAR), the volunteer-led \"epic scale RTS\" game, has signed a publishing deal with Hooded Horse.    Read more",
-      "feed_url": "https://www.gamesindustry.biz/feed"
-    },
-    {
-      "title": "Obsidian sued in class action lawsuit over alleged \"systematic pattern of wage and hour violations\"",
-      "link": "https://www.gamesindustry.biz/obsidian-sued-in-class-action-lawsuit-over-alleged-systematic-pattern-of-wage-and-hour-violations",
-      "source": "GamesIndustry.biz Latest Articles Feed",
-      "published_at": "2026-06-22T20:18:56+00:00",
-      "summary": "Fallout: New Vegas and The Outer Worlds developer Obsidian Entertainment is being sued in a class action lawsuit that accuses the studio of \"a systematic pattern of wage and hour violations under the California Labor Code and Industrial Welfare Commission ('IWC') Wage Orders.\"    Read more",
       "feed_url": "https://www.gamesindustry.biz/feed"
     },
     {
@@ -760,14 +744,6 @@
       "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20India&hl=en-IN&gl=IN&ceid=IN:en"
     },
     {
-      "title": "GamesConnect AFRICA Launches Open Call for gamescom dev Scholarships",
-      "link": "https://gamesindustryafrica.com/2026/06/22/gamesconnect-africa-launches-open-call-for-gamescom-dev-scholarships/?utm_source=rss&utm_medium=rss&utm_campaign=gamesconnect-africa-launches-open-call-for-gamescom-dev-scholarships",
-      "source": "Games Industry Africa",
-      "published_at": "2026-06-22T04:34:00+00:00",
-      "summary": "GamesConnect AFRICA, a Goethe-Institut initiative dedicated to strengthening the African games ecosystem, has announced an open call for applications to the gamescom dev 2026 Scholarship Programme. Developed in collaboration with Gamescom Dev (previously Devcom) and Gamescom, the initiative seeks to support talented individuals from across Africa who face financial, structural or personal barriers to attending […] \n The post  GamesConnect AFRICA Launches Open Call for gamescom dev Scholarships  appeared first on  Games Industry Africa .",
-      "feed_url": "https://gamesindustryafrica.com/feed/"
-    },
-    {
       "title": "Report: Former Xbox president Sarah Bond and Take-Two CEO Strauss Zelnick linked to Peter Thiel's secret society",
       "link": "https://www.gamedeveloper.com/business/report-former-xbox-president-sarah-bond-and-take-two-ceo-strauss-zelnick-involved-in-peter-thiel-backed-secret-society",
       "source": "gamedeveloper",
@@ -846,6 +822,14 @@
       "published_at": "2026-06-18T07:00:59+00:00",
       "summary": "Ragnarok (and roll).",
       "feed_url": "https://www.kakuchopurei.com/feed/"
+    },
+    {
+      "title": "【無料化】『PUBG』クリエイターによるオープンワールドサバイバル『Prologue: Go Wayback!』最終アップデート配信 - Game*Spark",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zRm5sMXQyLUcwVkxTeGdxUk9sQUdmYTZZYV9IZG9JOVRZeEhUSE90Z2NUTzZFZ0pfem1QZ0ZlcVNaZGhvVm9sZ0d2MmdhT2ZYZzB6MWRTb1pfdkt3TTNfSEdocXFldw?oc=5",
+      "source": "Game*Spark",
+      "published_at": "2026-06-18T07:00:00+00:00",
+      "summary": "【無料化】『PUBG』クリエイターによるオープンワールドサバイバル『Prologue: Go Wayback!』最終アップデート配信    Game*Spark",
+      "feed_url": "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
       "title": "Everything you need to know from State of Unreal 2026: Unreal Engine 6, Unreal Engine 5.8, and $1bn paid to UEFN devs",
@@ -1096,14 +1080,6 @@
       "feed_url": "https://www.gamesindustry.biz/feed"
     },
     {
-      "title": "Ubisoft closing studios in Winnipeg and Belgrade and cutting publishing roles worldwide, 380 jobs at risk",
-      "link": "https://www.gamesindustry.biz/ubisoft-closing-studios-in-winnipeg-and-belgrade-and-cutting-publishing-roles-worldwide-380-jobs-at-risk",
-      "source": "GamesIndustry.biz Latest Articles Feed",
-      "published_at": "2026-06-10T17:00:00+00:00",
-      "summary": "Ubisoft has carried out another round of cuts as part of its  seemingly endless restructuring process , sources have told   GamesIndustry.biz  . It is closing its studios in Winnipeg and Belgrade and proposing further changes in Barcelona and to its global publishing team. 380 roles are understood to be at risk.    Read more",
-      "feed_url": "https://www.gamesindustry.biz/feed"
-    },
-    {
       "title": "ESA is concerned that the American bill against deepfakes could harm video games",
       "link": "https://gameworldobserver.com/2026/06/10/esa-is-concerned-that-the-american-bill-against-deepfakes-could-harm-video-games",
       "source": "Game World Observer",
@@ -1248,20 +1224,20 @@
       "feed_url": "https://news.google.com/rss/search?q=%E6%B5%B7%E5%A4%96%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
+      "title": "カードキャプターさくら：思い出の鍵の事前登録情報！配信日・リリース日はいつ？ - スマホゲームCH",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Hbl9BN09JaG9KdGdQdW9IMHZwZGpaVkFUTzhlX0FxakZMZXRsbk8za0JfT1h5cVZVaGtfRjNHeW5LbnRHNG9JX1J2Q3l3VlU?oc=5",
+      "source": "スマホゲームCH",
+      "published_at": "2026-06-04T07:00:00+00:00",
+      "summary": "カードキャプターさくら：思い出の鍵の事前登録情報！配信日・リリース日はいつ？    スマホゲームCH",
+      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
       "title": "Gabe Newell on the accusations of Steam’s monopoly: “Customers have enormous choice where they purchase their products”",
       "link": "https://gameworldobserver.com/2026/06/02/gabe-newell-on-the-accusations-of-steams-monopoly-customers-have-enormous-choice-where-they-purchase-their-products",
       "source": "Game World Observer",
       "published_at": "2026-06-02T14:34:59+00:00",
       "summary": "In 2023, Valve’s head Gabe Newell provided testimony in a legal case against Wolfire Games, which accused the company of monopolizing the PC store market. A transcript of his speech was recently obtained by Bloomberg.",
       "feed_url": "https://gameworldobserver.com/feed"
-    },
-    {
-      "title": "レベルファイブとAiming、新作スマホゲーム『イナズマイレブン クロス』の配信開始日が6月9日に決定 6月8日より事前DLを開始 - gamebiz【ゲームビズ】",
-      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE84N0hVMFYxR09EaWtyQ0wxRVNCUmtFYy1pcTV2S29ENDl5cDdyUGg3TnItVVM5SmNFbEpMclUyRWVFMW03?oc=5",
-      "source": "gamebiz【ゲームビズ】",
-      "published_at": "2026-06-01T01:09:20+00:00",
-      "summary": "レベルファイブとAiming、新作スマホゲーム『イナズマイレブン クロス』の配信開始日が6月9日に決定 6月8日より事前DLを開始    gamebiz【ゲームビズ】",
-      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
       "title": "Report: KRAFTON will indeed pay the creators of Subnautica 2 $250 million",
@@ -1302,14 +1278,6 @@
       "published_at": "2026-05-25T11:52:49+00:00",
       "summary": "The crowdfunding campaign for Star Citizen has reached an astronomical milestone.",
       "feed_url": "https://gameworldobserver.com/feed"
-    },
-    {
-      "title": "『Serpent's Gaze』最大4人協力のソウルライク×ローグライトアクション。スウェーデンのインディースタジオが手がける新作がアーリーアクセス開始 - ファミ通",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8tV0NoTW9LQmRFY2xIUGNLZ3ZwLU1QaElON3JXRXJYVGtvTEt6NjFpaHpKa3phdGNacXltamlpR1dQdFVLSkh3STR6dGlmWnpfd19hNXNmZw?oc=5",
-      "source": "ファミ通",
-      "published_at": "2026-05-25T07:00:00+00:00",
-      "summary": "『Serpent's Gaze』最大4人協力のソウルライク×ローグライトアクション。スウェーデンのインディースタジオが手がける新作がアーリーアクセス開始    ファミ通",
-      "feed_url": "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
       "title": "Losses decreased 15 times, GTA VI was not postponed — and more from Take-Two’s annual report",
@@ -1456,14 +1424,6 @@
       "feed_url": "https://news.google.com/rss/search?q=%E6%B5%B7%E5%A4%96%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
-      "title": "インディーゲーム開発者の知見集結イベント「Indie Developers Conference 2026」11月28日に開催へ。成功事例も増える業界の、悩みやトラブル解消ノウハウを分かち合う - AUTOMATON",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE05bWVDVDhVbGZub3Y0Q1RKV1ZSS0Q2Vl9kVjBTdFpaUFF4OWNhbGNOU3ZUUEd4bzZtYlUzeXI3WTlEeGwzdm5RZUxwd0puNTVBbG84aXJTVnRqMXBJRi0tYkJVYk1Dek9JR2R2ag?oc=5",
-      "source": "AUTOMATON",
-      "published_at": "2026-05-13T07:00:00+00:00",
-      "summary": "インディーゲーム開発者の知見集結イベント「Indie Developers Conference 2026」11月28日に開催へ。成功事例も増える業界の、悩みやトラブル解消ノウハウを分かち合う    AUTOMATON",
-      "feed_url": "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja"
-    },
-    {
       "title": "The authors of INDIKA have raised 5 million dollars in investments",
       "link": "https://gameworldobserver.com/2026/05/12/the-authors-of-indika-have-raised-5-million-dollars-in-investments",
       "source": "Game World Observer",
@@ -1478,14 +1438,6 @@
       "published_at": "2026-05-11T07:00:00+00:00",
       "summary": "『Stellar Blade』続編は「発売初日から幅広いユーザーに届ける」―自社パブリッシング作品として2026年内詳細発表へ    Game*Spark",
       "feed_url": "https://news.google.com/rss/search?q=%E6%B5%B7%E5%A4%96%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA&hl=ja&gl=JP&ceid=JP:ja"
-    },
-    {
-      "title": "Review: With ‘Saros,’ Housemarque balances the difficulty of its bullet-ballet gameplay - The Star",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZHpuWGpWX2wyTmpwWDhqdW9DU0d3cGt5dkljRVYzNEFTS3pfNTRLREdFV3ItZ0NVUVRRUVNPTW5fbU5oVXdLTmlqSnU5NS1KNnc0WmhOQW9yQ2ZGQi1tVEJka3gwejVRZEJwUUN1eWpRUXZZMHZlSW9OX3ZsTTZvYjNXcm8zZU16TXRtRUNIT3NPaWFRZzZLQi1QQklaVmY5aDFTOVJaWl9Kb3NYa0p5ekhmbXRobmpwZXRHbXlOUERQWGRtd2VUUUdoWG9hckNPS2c?oc=5",
-      "source": "The Star",
-      "published_at": "2026-05-09T07:00:00+00:00",
-      "summary": "Review: With ‘Saros,’ Housemarque balances the difficulty of its bullet-ballet gameplay    The Star",
-      "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Philippines&hl=en-PH&gl=PH&ceid=PH:en"
     },
     {
       "title": "Google DeepMind acquired a minority stake in the studio behind EVE Online",
@@ -1526,14 +1478,6 @@
       "published_at": "2026-05-03T07:00:00+00:00",
       "summary": "Game Testing in India Isn’t a Dream Job, but it Still Matters | Outlook Respawn    Outlook Respawn",
       "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20India&hl=en-IN&gl=IN&ceid=IN:en"
-    },
-    {
-      "title": "“自分の死体”が足場になるアクション『Re:Re:Re:Respawn（リリリ・リスポーン）』発表。死とリスポーンを繰り返す屍活用ゲーム - AUTOMATON",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xX3VVNWpvdUFGV3R5OFR1Vk1iZjdMdjVZa2JYa0JqUThtOFJ0QzV1TDR2RERSTzJxa0dVQklQejFpVFVjREg4LU1UVTByRkpKT0ZtaVpzdDFKWjNXUmhMZk1wZVhXMEhfQ1FkOQ?oc=5",
-      "source": "AUTOMATON",
-      "published_at": "2026-05-01T07:00:00+00:00",
-      "summary": "“自分の死体”が足場になるアクション『Re:Re:Re:Respawn（リリリ・リスポーン）』発表。死とリスポーンを繰り返す屍活用ゲーム    AUTOMATON",
-      "feed_url": "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
       "title": "With Saros and recent indie hits, South Asian representation in gaming is growing - NPR",
@@ -1704,14 +1648,6 @@
       "feed_url": "https://gameworldobserver.com/feed"
     },
     {
-      "title": "「Stellar Blade」続編や「NIKKE」，新作プロジェクトを開発中のSHIFT UP本社を訪問。ゲームは“お尻で作るもの”――キム・ヒョンテ氏とちょっとだけ雑談もしてきた - 4Gamer.net",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBNQVZvdS1YVEpDc2hhOTJ5RWxOZFQ2YlFTMU0yeUNRVVM1ZnlYQWZYSDIxYl83OW9BcTk0UUMtU3RGcnF1VkM5dkdtUGE4WFFOcXp2VUxfX2JyY3J5RF9wQWJJUQ?oc=5",
-      "source": "4Gamer.net",
-      "published_at": "2026-04-07T07:00:00+00:00",
-      "summary": "「Stellar Blade」続編や「NIKKE」，新作プロジェクトを開発中のSHIFT UP本社を訪問。ゲームは“お尻で作るもの”――キム・ヒョンテ氏とちょっとだけ雑談もしてきた    4Gamer.net",
-      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA&hl=ja&gl=JP&ceid=JP:ja"
-    },
-    {
       "title": "The creators of the unsuccessful Chernobylite 2 have filed for bankruptcy",
       "link": "https://gameworldobserver.com/2026/04/06/the-creators-of-the-unsuccessful-chernobylite-2-have-filed-for-bankruptcy",
       "source": "Game World Observer",
@@ -1760,6 +1696,14 @@
       "feed_url": "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
+      "title": "【韓国ゲーム開発会社Shift Up】伝説のクリエイター三上真司氏のスタジオ「Unbound」を買収、大型新規プロジェクトを発表 - finance.biggo.jp",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5UU3RET3VCM05Ya1R0aC1USDVlRDFuWVFIWVhqNTU5ZDNQdXJkeTIzQkgxSlk4d1Roa1dRU0I1bEdIT0NBVXN1MTJwUFNvdm9KLUNnQWo3a1ZTYVF1QVJN?oc=5",
+      "source": "finance.biggo.jp",
+      "published_at": "2026-04-01T07:00:00+00:00",
+      "summary": "【韓国ゲーム開発会社Shift Up】伝説のクリエイター三上真司氏のスタジオ「Unbound」を買収、大型新規プロジェクトを発表    finance.biggo.jp",
+      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
       "title": "Rumor: Disney executives might be interested in acquiring Epic Games in the future",
       "link": "https://gameworldobserver.com/2026/03/31/rumor-disney-executives-might-be-interested-in-acquiring-epic-games-in-the-future",
       "source": "Game World Observer",
@@ -1790,6 +1734,14 @@
       "published_at": "2026-03-30T07:00:00+00:00",
       "summary": "Another PlayStation price hike means the gaming console will cost 30% more than it did last year    The Star",
       "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Philippines&hl=en-PH&gl=PH&ceid=PH:en"
+    },
+    {
+      "title": "【カリスマダミス CHARISMA de MURDER MYSTERY】配信日と事前登録情報｜最新情報 - AppMedia",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBDdEJZNG82Sm84anZORnhmUHljWThkNGljbWN5UTNQZ19JcFhEcnRZa2Y3bVR4VHNyYm5ZbFV1N3ZNMXhpWEd3d2tfc2Y?oc=5",
+      "source": "AppMedia",
+      "published_at": "2026-03-30T07:00:00+00:00",
+      "summary": "【カリスマダミス CHARISMA de MURDER MYSTERY】配信日と事前登録情報｜最新情報    AppMedia",
+      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
       "title": "A new breed of 'outsider AAA' studios is taking over the games industry - Polygon.com",
@@ -1864,14 +1816,6 @@
       "feed_url": "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
-      "title": "The second-best year in CD PROJEKT’s history — and more from the company’s report",
-      "link": "https://gameworldobserver.com/2026/03/20/the-second-best-year-in-cd-projekts-history-and-more-from-the-companys-report",
-      "source": "Game World Observer",
-      "published_at": "2026-03-20T12:32:15+00:00",
-      "summary": "The year 2025 turned out to be one of the best for CD PROJEKT financially. In a recent report, the company revealed that it achieved the second-largest net profit in its history — surpassed only by 2020.",
-      "feed_url": "https://gameworldobserver.com/feed"
-    },
-    {
       "title": "Savvy Games to Buy Moonton in $6 Billion Mobile Gaming Deal - Analytics Insight",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdTE2bS1oeHBYZk1SMnl5RDNuZGg0YUlrUUUzTmo0RGtSN3BoX1ozS1NseEQ1TVhfSjYydFZNdFZCdmVDajNDOU1LRVhoSnFyV3ZmUk12SjNxUDEwZzE4TjVhaEVqb1ZJWFZNUjNPMU9YMGp6cjhkTUdjY25uUngzekljdGEya3JJOVN0TzB2MzVSQ0R1M0hQcHQzamLSAaoBQVVfeXFMTzFIQ3loYWJ3Rm1YcGQxbUw0U1JqNDdidEpOakdQMU5TTV9zZ05KTVZDQkpmNzFhRHdid1NnY1N2ZTlqcHdveWlaQm1mRjBGS2oxQ1ltaEpHMFhfQ0RRWDhOa3dNVHA1UFFvTm1oUzFLcU9yblpyM2hXOFpsZHR1c252aG1ydjRVSE0wMWp4dWh6UGttZVUxR1ZrUzhBR0NDbkN2NGFFRS1GM1E?oc=5",
       "source": "Analytics Insight",
@@ -1934,14 +1878,6 @@
       "published_at": "2026-03-16T11:46:20+00:00",
       "summary": "The Electronic Gaming Development Company (EGDC) from Saudi Arabia has become one of the largest shareholders of Capcom.",
       "feed_url": "https://gameworldobserver.com/feed"
-    },
-    {
-      "title": "【「ハンドレッドノート」モバイルゲーム(仮)】配信日と事前登録情報｜最新情報 - AppMedia",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1VRTVaQzFyNDBpNzQ3UEZmUGhNcnEyQmxaaHNlcjdJTTZ4WVhJbzVHYUswblZONXVzakY3cUlEOWFCUGVyUWtiTW9YN2I?oc=5",
-      "source": "AppMedia",
-      "published_at": "2026-03-16T07:00:00+00:00",
-      "summary": "【「ハンドレッドノート」モバイルゲーム(仮)】配信日と事前登録情報｜最新情報    AppMedia",
-      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
       "title": "SIEの子会社から新設スタジオへ。「アンチャーテッド」「ラスアス」のディレクターが独立して感じた，ゲーム開発の“シンプルだけど大事なこと”［GDC 2026］ - 4Gamer.net",
@@ -2040,6 +1976,14 @@
       "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20India&hl=en-IN&gl=IN&ceid=IN:en"
     },
     {
+      "title": "「対魔忍スクワッド」正式配信開始！井河アサギが登場―事前登録30万人達成報酬も - OnlineGamer",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1mQjNDODh6NWpnQmcwNUZiRGhBcHRxZHpIWlFTVzZIZDNYMUtxeXh0eE83Ujg0cVJQNFNsTVRrSVA4N2dPZ3NsaE9vQmdYMlJkY0hwZUNTWGY?oc=5",
+      "source": "OnlineGamer",
+      "published_at": "2026-03-05T08:00:00+00:00",
+      "summary": "「対魔忍スクワッド」正式配信開始！井河アサギが登場―事前登録30万人達成報酬も    OnlineGamer",
+      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
       "title": "Google will gradually reduce the commission in Google Play",
       "link": "https://gameworldobserver.com/2026/03/05/google-will-gradually-reduce-the-commission-in-google-play",
       "source": "Game World Observer",
@@ -2088,14 +2032,6 @@
       "feed_url": "https://news.google.com/rss/search?q=%E6%B5%B7%E5%A4%96%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
-      "title": "【アークナイツ：エンドフィールド】配信日と事前登録情報｜最新情報 - AppMedia",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5MZDlWNUpNbU0tRUloLS0wRVhFTS1DR2NwYWhCSnBCdktSaHRQTE1Rb0toc0I5QV8xN1h6SzYzRXQxSEpqSGgzY0txZWs?oc=5",
-      "source": "AppMedia",
-      "published_at": "2026-02-25T08:00:00+00:00",
-      "summary": "【アークナイツ：エンドフィールド】配信日と事前登録情報｜最新情報    AppMedia",
-      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja"
-    },
-    {
       "title": "組織再編後のユービーアイ、『アサシン クリード』複数作品&『ファークライ』2作品を開発中。テンセント出資スタジオにて - Game*Spark",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1DQ2dVZUREZm1zYjhUMEpnRk9IblFxU09laFVBRjBnbTVSVWtlV09tMWF3dnE0T0MyVDBxcTZhdEFhSUN6RTI4R0Juc3g5Y3FKMm9xdC1FOVJPZ05GZjJOanVpOUVrdw?oc=5",
       "source": "Game*Spark",
@@ -2112,11 +2048,11 @@
       "feed_url": "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
-      "title": "常識を覆す三国志戦略シミュレーションゲーム超大作『三國志 王戦』事前登録受付が正式スタート！革新的なゲームシステムも一部公開 - PR TIMES",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9yOXI1U3hLNnNSM1V5UVN3UXI2ai04ZVI4Zjd3N0k3TW9TVTFHend1MVo5TzhvQ29BclRXRm9sS1gtUzE2c01zbzB2d3BBckNJaGw0VF84d1ZYV21WMzhRbHBzb0hBaHF0cEE?oc=5",
-      "source": "PR TIMES",
+      "title": "DMM GAMES新作『フルールデイズ』リリース！ - GameWith",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jUGtIZEJ3azF0UzJCLU1hV3R6aXotM2hpNS11eW50a2lUWURnUWZ4MXNjVFl3SjZNcFhIQVNaVlBtOFNBV1dRT0lheDRWajhIbjRNSHlyV3hrWWs?oc=5",
+      "source": "GameWith",
       "published_at": "2026-02-13T08:00:00+00:00",
-      "summary": "常識を覆す三国志戦略シミュレーションゲーム超大作『三國志 王戦』事前登録受付が正式スタート！革新的なゲームシステムも一部公開    PR TIMES",
+      "summary": "DMM GAMES新作『フルールデイズ』リリース！    GameWith",
       "feed_url": "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
@@ -2352,14 +2288,6 @@
       "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Africa&hl=en&gl=ZA&ceid=ZA:en"
     },
     {
-      "title": "ヒット作連発ゲーム開発者による4つのアドバイス。「チームは最小限に」「価格の決め方」など“持続可能なゲーム開発”の経験則 - AUTOMATON",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaGRYTnlrRWRXNFZrdWFjekFHazl3ejhGcmhFWXJzNTcyZ1FhWUJzcXJSbVdMYmVBc2ZxemxmSmdMbkNsT1F6QzFES21HT3pzQ3d1X0h6LWs5VkFaYnVGb1lZREhpQTl5bWJpNWlEWnY4a2pwYllNV3paY1ptdjg0R1Mzaw?oc=5",
-      "source": "AUTOMATON",
-      "published_at": "2026-01-12T08:00:00+00:00",
-      "summary": "ヒット作連発ゲーム開発者による4つのアドバイス。「チームは最小限に」「価格の決め方」など“持続可能なゲーム開発”の経験則    AUTOMATON",
-      "feed_url": "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja"
-    },
-    {
       "title": "除霊Co-opホラー『Phasmophobia』開発元、パブリッシング事業始動へ。“CEOがずっと前からやりたかった”インディーゲーム開発支援 - AUTOMATON",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMWlYd3psRzFJUUJSb0NFTnZWc2prTnJqeW9wUFozTG1FN25LTkx4QlZ2LUxtT25KZzlraXRaNFJsN2t6MFdheF96V25hbDVDNU5BVHRaSDlZU2VtLTFtcDlUdnRqWUh3MXVsZklzaWxLa3VNS1BidzRKVnRKOHZfQlBfblF2Zw?oc=5",
       "source": "AUTOMATON",
@@ -2408,12 +2336,12 @@
       "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Africa&hl=en&gl=ZA&ceid=ZA:en"
     },
     {
-      "title": "Steamで2025年めちゃくちゃ高い評価を獲得したヒットゲーム開発者に、成功の理由と成功後の生活の変化を訊いた。『Tiny Bookshop』『Town to City』『StarVaders』『Is This Seat Taken?』『Cast n Chill』開発者 - AUTOMATON",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9PaHVQT2ZCbFBGTkFiOU5BWWJXZ2sxUHdGX0RhUmdaUzljcXhCUGxMTFJ3b2FhTXljWU5xTEJ3N3pDWVBoTTBxWWQydGQ3MVRfWnItc0ZtWGdkQjRCMnU4amkwZnhIWlkwSnRiTnkzYUZKdFFiSmtfbXFlOWQ?oc=5",
-      "source": "AUTOMATON",
-      "published_at": "2025-12-29T08:00:00+00:00",
-      "summary": "Steamで2025年めちゃくちゃ高い評価を獲得したヒットゲーム開発者に、成功の理由と成功後の生活の変化を訊いた。『Tiny Bookshop』『Town to City』『StarVaders』『Is This Seat Taken?』『Cast n Chill』開発者    AUTOMATON",
-      "feed_url": "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja"
+      "title": "桃源暗鬼 Crimson Infernoの配信日と事前登録情報 - GameWith",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5xRkhPbDRidDMyMlVsS1NJazR3RmZxLWdkT3VOR0FlRDRaODFzTGVhUEpRSUpWN2c4TVRFanV1cjBBb1JPNFN3?oc=5",
+      "source": "GameWith",
+      "published_at": "2025-12-25T08:00:00+00:00",
+      "summary": "桃源暗鬼 Crimson Infernoの配信日と事前登録情報    GameWith",
+      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
       "title": "Top 10 Gaming Startups by Funding Raised in 2025 | Outlook Respawn - Outlook Respawn",
@@ -2456,14 +2384,6 @@
       "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20India&hl=en-IN&gl=IN&ceid=IN:en"
     },
     {
-      "title": "『NO LAW』サイバーパンクアクションRPG『The Ascent』開発スタジオNeon Giantの新作。猥雑な街でランチャーをぶっ放したりロボに乗って大暴れ【The Game Awards 2025】 - ファミ通",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBaSF8tQmZhNGhMMHREZG5vRzZJeWp6ZTBBR1RsMlp2UGJWbjcyNUdjcjVBOWplU1EwZ1dJMWQ2OUJPUm9laEpLellhZXdJNGp6ZkZKMWZZWQ?oc=5",
-      "source": "ファミ通",
-      "published_at": "2025-12-12T08:00:00+00:00",
-      "summary": "『NO LAW』サイバーパンクアクションRPG『The Ascent』開発スタジオNeon Giantの新作。猥雑な街でランチャーをぶっ放したりロボに乗って大暴れ【The Game Awards 2025】    ファミ通",
-      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA&hl=ja&gl=JP&ceid=JP:ja"
-    },
-    {
       "title": "『龍が如く』名越稔洋氏の新作『GANG OF DRAGON』が発表。舞台は新宿・歌舞伎町でマ・ドンソク氏が出演【The Game Awards 2025】 - ファミ通",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ud0Q1U3RrQTZMWUxqMkVxN0E1MHRSMk91R3laQThoeFdKMU9KcUZfQzhka09XdEc3cWdJcEVDT3l1LWdvOW5TZU9lZ1lpMk1yRm1RYXZobw?oc=5",
       "source": "ファミ通",
@@ -2480,6 +2400,30 @@
       "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20India&hl=en-IN&gl=IN&ceid=IN:en"
     },
     {
+      "title": "新作インディー紹介イベント「Day of the Devs」，発表情報まとめ。集英社ゲームズ最新作「UN:me」ほか，6タイトルの新作が世界初公開に - 4Gamer.net",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE40bHRWcTFTR3dibFNEa01OSnI0LVBld0E5d2tsblZQZ1NCUTRjZk03X0JMZkpPcVNaeXktYUlGVEt2a2dfMFJjQWV3U0U4UlZkdFJNWDFpY19temtWR0I0SG5ZTQ?oc=5",
+      "source": "4Gamer.net",
+      "published_at": "2025-12-11T08:00:00+00:00",
+      "summary": "新作インディー紹介イベント「Day of the Devs」，発表情報まとめ。集英社ゲームズ最新作「UN:me」ほか，6タイトルの新作が世界初公開に    4Gamer.net",
+      "feed_url": "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "title": "桃源暗鬼 Crimson Inferno 配信日と事前登録の情報 - appget.com",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9oTXBWVUV5aUxWRHhZWHE2MlI3emtQUmJkVk5MekRSXzZtQ1RxZE5jVzJJcGFZcTBxVlluOE1YeUtVd0Z6VDVub1lya05zbXRORkZRM2xqLVdOTktnSm41eWd0T2w0Z3VzeXFYTw?oc=5",
+      "source": "appget.com",
+      "published_at": "2025-12-07T08:00:00+00:00",
+      "summary": "桃源暗鬼 Crimson Inferno 配信日と事前登録の情報    appget.com",
+      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "title": "「日本の開発者にはマネできない部分がある」吉田修平氏が見た中国ゲームの現場。ビジネスマインドと「長く働ける環境」 - ゲーム情報！ゲームのはなし",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0xWExtaU9mN0VrZ3VYLTFiY2hFaG1qcmZjVDIzQ05MN3FNWWNmTjhfSTRkZFV3Rm5jUFQ0bDhwalFyQmp0aGtGakd3YzBVMTREMXpuTkU3Q1ZLOEZyRnhBTzNFeWhlcUQ2VXZqNE9mSEFMQVpI?oc=5",
+      "source": "ゲーム情報！ゲームのはなし",
+      "published_at": "2025-12-07T08:00:00+00:00",
+      "summary": "「日本の開発者にはマネできない部分がある」吉田修平氏が見た中国ゲームの現場。ビジネスマインドと「長く働ける環境」    ゲーム情報！ゲームのはなし",
+      "feed_url": "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
       "title": "サンドボックスレース『Wreckreation』開発元が閉鎖危機―『バーンアウト』シリーズ元開発者ら設立のスタジオ - Game*Spark",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8xVnl1ZzRabV9hVVRyejNVb0JfUlNoZFE2SEc3QXhIOUh5aURqOEJuUF9HVktaWHlET3FNMy1Sc0U2VndXTWhjVGxORDhaLUE3SVdUZ29qY2lFZ21fZ1pHVGlLRjB0QQ?oc=5",
       "source": "Game*Spark",
@@ -2494,14 +2438,6 @@
       "published_at": "2025-12-05T08:00:00+00:00",
       "summary": "How Virtuos is powering the next era of game development in Southeast Asia    esports.gg",
       "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Southeast%20Asia&hl=en-SG&gl=SG&ceid=SG:en"
-    },
-    {
-      "title": "日本から過去最多となる11組が出展 台湾発インディーゲーム展示会『2025 G-EIGHTゲームショウ』が12月12日より台北にて開催 - PR TIMES",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5YNXV6NkdfakFGRzhFekhET2llaGUwQ2FkSzl3Wi14QlFfcG92YXZoNmp6WFItaW50LUcxbDl3ekN1NDlraVVUWlVfNlh4R1VpTExPcDJINDNOR2NEeUdSNmQwYjZmWVltc0E?oc=5",
-      "source": "PR TIMES",
-      "published_at": "2025-12-05T08:00:00+00:00",
-      "summary": "日本から過去最多となる11組が出展 台湾発インディーゲーム展示会『2025 G-EIGHTゲームショウ』が12月12日より台北にて開催    PR TIMES",
-      "feed_url": "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
       "title": "Video Game Market in India to Surpass $1 Billion by 2025 - games.gg",
@@ -2576,6 +2512,14 @@
       "feed_url": "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
+      "title": "Nexting、インディーゲームスタジオMimmox開発の3Dパズルゲーム『UMAMIパズル』をSteamにて発売 - gamebiz【ゲームビズ】",
+      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9yem1rcTN1M2FDWkJXRENJUjN6MkhQWHhpSkJNY0JyT0psQlEwZEtURXFGT2FidWQ3U2tUZENtYUc4ZVZo?oc=5",
+      "source": "gamebiz【ゲームビズ】",
+      "published_at": "2025-11-18T08:00:00+00:00",
+      "summary": "Nexting、インディーゲームスタジオMimmox開発の3Dパズルゲーム『UMAMIパズル』をSteamにて発売    gamebiz【ゲームビズ】",
+      "feed_url": "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
       "title": "大ヒットRPG『Expedition 33』が「インディーゲーム枠」なのはおかしいと議論勃発。開発者いわく“AA級ゲーム”なのに - AUTOMATON",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNck1tRktvVkpBZnplaGFLNDRNU2xXZDdEN245TG04dF8yeGVWNlFxbGt6WnJjS2dTQ2ZpWlNFVUtodm5jLV9tYkhqWFVhWnFaM0NYUklJYUhkc2ttQVZIc0toQnZtNndudmxDV1N5eXoxRm9qZmxGMV9WRzZiak5DQk8yWFJFZWpKRkY2eHcwRlM?oc=5",
       "source": "AUTOMATON",
@@ -2608,36 +2552,12 @@
       "feed_url": "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
-      "title": "新作ゲーム『銀魂 すまほ ばとるくろにくる』配信決定！ 本日より事前登録開始！ - sega.jp",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5uT3RXZmFxZXRrSFFmOEtONGFfbDVMc2pnT3F1YVB6UFJxaUg0ZDZkdVZLZ1hXYUQ0MVBiS2xSd0FxbmdoVVJaVmhjcmxtLXdiSkJwZ2hR?oc=5",
-      "source": "sega.jp",
-      "published_at": "2025-11-13T05:53:43+00:00",
-      "summary": "新作ゲーム『銀魂 すまほ ばとるくろにくる』配信決定！ 本日より事前登録開始！    sega.jp",
-      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja"
-    },
-    {
       "title": "Loading South Africa’s Next Game Changer, Thabo Tsolo Talks Gaming and Local Stories - Good Things Guy",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB2RkxfSVZ3ZlR3dVoxdXZFYV9STjlLb2VuV0ZzamRQTFFiVXl1bVo1bU8wY2FnZVhQa3VEUTI1aGw4YTJtTGhhdW1kdnhwcmNyQXhQMnBqaE9xdVdRU0I3T3VJSmExUQ?oc=5",
       "source": "Good Things Guy",
       "published_at": "2025-11-11T08:00:00+00:00",
       "summary": "Loading South Africa’s Next Game Changer, Thabo Tsolo Talks Gaming and Local Stories    Good Things Guy",
       "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Africa&hl=en&gl=ZA&ceid=ZA:en"
-    },
-    {
-      "title": "「来年初めにはコンソール版も日本語対応予定」スーパーヒーロー職場ADV『Dispatch』【開発者インタビュー】 - Game*Spark",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1yVUd6eUNzTEs3S3lqTWttckNSakhaZDJpNVlwM1NkRzNBaTBaXzZ4V3dmeHBDQUJNRW1PQ2p6alFrT3B0aWhLUEZzVmwyOEcycERaQWxXNng1ZjA5ekZxbTNCRV9xdw?oc=5",
-      "source": "Game*Spark",
-      "published_at": "2025-11-08T08:00:00+00:00",
-      "summary": "「来年初めにはコンソール版も日本語対応予定」スーパーヒーロー職場ADV『Dispatch』【開発者インタビュー】    Game*Spark",
-      "feed_url": "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja"
-    },
-    {
-      "title": "新作『天穂のサクナヒメ～ヒヌカ巡霊譚～』事前登録スタート。ゲームシステムや新キャラが発表される生放送は本日（11/7）20時から - ファミ通",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBmLUx3UnFOc1dhbU1uX0dhQ19VVEszTWIxVGl1ZGxjUDlMdF9FYTBhUlN5WGhjWHk2NW9vUXpGel9aNW54dzkzVWZMUmMta3l1UXBrTkM3dw?oc=5",
-      "source": "ファミ通",
-      "published_at": "2025-11-07T08:00:00+00:00",
-      "summary": "新作『天穂のサクナヒメ～ヒヌカ巡霊譚～』事前登録スタート。ゲームシステムや新キャラが発表される生放送は本日（11/7）20時から    ファミ通",
-      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
       "title": "スクエニが事業改革を加速、「QAの7割AI化」と「海外スタジオ閉鎖」など開発体制を抜本的に見直し - Game*Spark",
@@ -2688,12 +2608,12 @@
       "feed_url": "https://news.google.com/rss/search?q=%E6%B5%B7%E5%A4%96%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
-      "title": "Nexting、ベルギーのインディーゲームスタジオFire Foot Studiosが開発する協力型サバイバルホラー『Jester: A Foolish Ritual』をリリース - gamebiz【ゲームビズ】",
-      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBEWk1ZbkpoUHY1Nk1CcFQ1SDdFS2FaNmk0S3RzNks4S1QwbU1SOUZnT1d5aDNnMTAxcTRCU0FuU21TZDBT?oc=5",
+      "title": "「Fall Guys」開発者など業界のベテランによって設立された新しいゲームスタジオ「Panic Stations」が英国で始動 - gamebiz【ゲームビズ】",
+      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1MUFAzdXpNcGdNeEdWQ2dpVlZXOXFSNmhwQW15RGhtVFEwM1BrMWhOZDh6QmNxXzFUSzRZbnJvalhmMUw3?oc=5",
       "source": "gamebiz【ゲームビズ】",
-      "published_at": "2025-10-31T07:00:00+00:00",
-      "summary": "Nexting、ベルギーのインディーゲームスタジオFire Foot Studiosが開発する協力型サバイバルホラー『Jester: A Foolish Ritual』をリリース    gamebiz【ゲームビズ】",
-      "feed_url": "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja"
+      "published_at": "2025-11-03T08:00:00+00:00",
+      "summary": "「Fall Guys」開発者など業界のベテランによって設立された新しいゲームスタジオ「Panic Stations」が英国で始動    gamebiz【ゲームビズ】",
+      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
       "title": "Amazon、ゲーム部門で人員の大幅削減を実施と海外メディアが報道。MMO『New World』は新規コンテンツ更新を終了 - 電ファミニコゲーマー",
@@ -2704,28 +2624,20 @@
       "feed_url": "https://news.google.com/rss/search?q=%E6%B5%B7%E5%A4%96%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
-      "title": "【レジェンド・オブ・ユミル】配信日と事前登録情報｜最新情報｜Legend of YMIR - AppMedia",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1iUkZzSm5vbXZUaHNIV1dIMl8wTnMzaWFSUmpGaWR4T2pOeVJzaG1JY2dRZjMzNDQwaWotVkpyMWJKZE5WcUFFZzQ0Y08?oc=5",
-      "source": "AppMedia",
-      "published_at": "2025-10-28T07:00:00+00:00",
-      "summary": "【レジェンド・オブ・ユミル】配信日と事前登録情報｜最新情報｜Legend of YMIR    AppMedia",
-      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja"
-    },
-    {
-      "title": "【10/24 配信開始！】『百花ランブル』のゲーム概要や公式発表の情報まとめ！漫画調のストーリーでたくさんの美少女たちと冒険しよう！ - GameWith",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE14ZFhSZXlpYktIalMzbk1SRWVLakZKOXQwMU5pSTkxZlpMTGtPQ2dwWnJnVldQY1NCSURrQUNERENlQ1RBeXlhTzQyMFAtLXpUeFFJZUtZVGc0Qms?oc=5",
-      "source": "GameWith",
-      "published_at": "2025-10-24T07:00:00+00:00",
-      "summary": "【10/24 配信開始！】『百花ランブル』のゲーム概要や公式発表の情報まとめ！漫画調のストーリーでたくさんの美少女たちと冒険しよう！    GameWith",
-      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja"
-    },
-    {
       "title": "The state of Southeast Asia's games industry in 2025 - Pocket Gamer.biz",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaTREWHQxY2xuUnVOd2FQNFBucFhMMWtCRUVjT0g1aUxWVlJzUUJqQ1pPa1owNGU2WW9uNnBVeVlqanlhZkI2Y2pzRjFjNDVOcGpCclMxY2QtMGFoLXBOWTdpSUdWM0VrVG1IQ25nN0JSbUVpTmwwaFl3aWJGS1RCaWY4aXRMYVU?oc=5",
       "source": "Pocket Gamer.biz",
       "published_at": "2025-10-20T07:00:00+00:00",
       "summary": "The state of Southeast Asia's games industry in 2025    Pocket Gamer.biz",
       "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Southeast%20Asia&hl=en-SG&gl=SG&ceid=SG:en"
+    },
+    {
+      "title": "【アビス・オブ・ダンジョンズ】配信日と事前登録情報｜最新情報｜アビダン - AppMedia",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nUmxob2NtUHpSYkJnaFJOc2FncXFmVklrTjI2Wk84OEdZN3F5NGswbHBzTGh4bW9CUTlqN0VRZmZ3VHlVZThIZFEyRlc?oc=5",
+      "source": "AppMedia",
+      "published_at": "2025-10-17T07:00:00+00:00",
+      "summary": "【アビス・オブ・ダンジョンズ】配信日と事前登録情報｜最新情報｜アビダン    AppMedia",
+      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
       "title": "Top Indian Indie Game Studios in 2025 | Outlook Respawn - Outlook Respawn",
@@ -2741,7 +2653,7 @@
       "source": "AUTOMATON",
       "published_at": "2025-10-15T07:00:00+00:00",
       "summary": "PS5『ゴースト・オブ・ヨウテイ』開発元トップ、これからも“1本勝負”の制作を宣言。『ゴースト・オブ』新作でも『怪盗スライ・クーパー』新作でも、1作集中開発    AUTOMATON",
-      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA&hl=ja&gl=JP&ceid=JP:ja"
+      "feed_url": "https://news.google.com/rss/search?q=%E6%B5%B7%E5%A4%96%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
       "title": "From 'Far Cry 4' to 'Hitman 2': 7 times Indian places featured in video games - theweek.in",
@@ -2750,14 +2662,6 @@
       "published_at": "2025-10-12T07:00:00+00:00",
       "summary": "From 'Far Cry 4' to 'Hitman 2': 7 times Indian places featured in video games    theweek.in",
       "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20India&hl=en-IN&gl=IN&ceid=IN:en"
-    },
-    {
-      "title": "GPTRACK50小林裕幸氏の新作は2025年内に発表！ そして2026年の発売も宣言！「アクションのおもしろさに加え、アート部分も注目される作品になる」【設立3周年記念インタビュー】 - ファミ通",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1lclZjcU1oSWVia0pUdWVJRUdKYmZ3czhrc3B6aU5KZGY4OElYVDQ1WEhTR2c3SXdNdC0tUFpOQk10cXBuSjZzSENkeDhPTXNMYjd5QVF2NA?oc=5",
-      "source": "ファミ通",
-      "published_at": "2025-10-01T07:00:00+00:00",
-      "summary": "GPTRACK50小林裕幸氏の新作は2025年内に発表！ そして2026年の発売も宣言！「アクションのおもしろさに加え、アート部分も注目される作品になる」【設立3周年記念インタビュー】    ファミ通",
-      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
       "title": "Top Indian Video Games: Exploring the Best Creations - Maps of India",
@@ -2888,14 +2792,6 @@
       "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20India&hl=en-IN&gl=IN&ceid=IN:en"
     },
     {
-      "title": "Gamescom: How is Poland's gaming industry faring? - dw.com",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTGJfR2VoUjF0NW1WZXc1UWpoenFHbU5jRzZ3WXlYS3ZCd2JPMVhodVpaWHEtcWY5c05peGxNQ2t3M21OeEtsUHNyeDVtVTBqTjVVYy1TQ0RIWXRhTGsxU29PU1FGRWhtY3JRcllvUFphUE5JcENmSllaTVYyV1I5Y2ZmcUloQdIBhgFBVV95cUxOQ1FhTnNLYy1EZ3VwSXBaSGFwNTJXWmJ1VVA3aDhkeVhoRHlPMUJrSlY3SjVGbGR5ZzFrSDhRV0JsRzlwV1doU0JPaGtkelVZdFFNOTM4QUNiMnZ5a0ZkR1VkTU1Tbk9NR09hT1RIeTUxQjNoMVlxSUsxOWFSREg1WGFMUWd3UQ?oc=5",
-      "source": "dw.com",
-      "published_at": "2025-08-22T07:00:00+00:00",
-      "summary": "Gamescom: How is Poland's gaming industry faring?    dw.com",
-      "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Eastern%20Europe&hl=en&gl=PL&ceid=PL:en"
-    },
-    {
       "title": "African studios bring culture and history to the world’s biggest games fair - RFI",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNc2V1cXIzWjZXa1gxclI3ODBNaFN6Z3VuVjYwbjRtWlpkVnZkY0N5YmVLWl9ZSm8yMC1jV3REaFZzVkkwYmVncXFTenpzU0xGeFZGOVZKanZpRFdCX21WS2xmNDBJeGJPSTAzcmdwb2V0Qm5naXVqaDFhM1V1ZV9XNUYxUVBiQkY3eW1nZHJDWEZ0TVZrbzg1RmI4UjdlaTE1aUZxS3I4WmZnX2hMUlotdXBaYjY5N0J5enlrZ2s3aw?oc=5",
       "source": "RFI",
@@ -2926,6 +2822,22 @@
       "published_at": "2025-08-06T07:00:00+00:00",
       "summary": "TVアニメ『FAIRY TAIL』スマートフォン向けゲームアプリ『FAIRY TAIL 魔導士クロニクル』が全世界で2025年冬に配信決定！    cyberagent.co.jp",
       "feed_url": "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "title": "アニメ「フェアリーテイル」のスマホ向け新作ゲーム「FAIRY TAIL 魔導士クロニクル」が2025年冬に配信！事前登録がスタート - Gamer",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1fcDcxS0xuQjlScmdFOGNKdGtOOXAxUXpmZ0hPc21fVGxrNWk3LW9WS0ZFMDVFdTJjU0ExVm9UcUdSNVV2MEE3RVpjRVRlSzZUUWVsXw?oc=5",
+      "source": "Gamer",
+      "published_at": "2025-08-06T07:00:00+00:00",
+      "summary": "アニメ「フェアリーテイル」のスマホ向け新作ゲーム「FAIRY TAIL 魔導士クロニクル」が2025年冬に配信！事前登録がスタート    Gamer",
+      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "title": "龍が如くスタジオ開発 「バーチャファイター」最新映像でアキラとステラがバトル - KAI-YOU",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9Lbm8zTXhTSWM0MnQ0OWRBcFoxN1hjN1ZMUHZBYWY4SUxsdm9ZTVRDZ042bFFSbXdNalJYS0VCdmNrLUxTUzA0dw?oc=5",
+      "source": "KAI-YOU",
+      "published_at": "2025-08-04T07:00:00+00:00",
+      "summary": "龍が如くスタジオ開発 「バーチャファイター」最新映像でアキラとステラがバトル    KAI-YOU",
+      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
       "title": "2019年から開発中の『バイオショック』新作、2Kによる内部レビューで不合格に―物語が大きな課題&スタジオ責任者解任との海外報道 - Game*Spark",
@@ -2984,19 +2896,19 @@
       "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Africa&hl=en&gl=ZA&ceid=ZA:en"
     },
     {
+      "title": "【幻想水滸伝 STAR LEAP】配信日・事前登録特典・最新情報まとめ - 電撃オンライン",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xRU4xRkVMb3hhcFhYdElzQlVVVDA0QXp4NlUtUGE3bXBGdllhXzlTejJtZTlacHJtOU5COENJTFVqcDVIM2kyTFljaE5KOVZxR20wYkN5VEY4QQ?oc=5",
+      "source": "電撃オンライン",
+      "published_at": "2025-07-18T07:00:00+00:00",
+      "summary": "【幻想水滸伝 STAR LEAP】配信日・事前登録特典・最新情報まとめ    電撃オンライン",
+      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
       "title": "【ファイナルファンタジーXIV モバイル】配信日・事前登録特典・最新情報まとめ【FF14】 - 電撃オンライン",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE54X1ZBaFpqNUF5LVhPNV9Fc2gzMU5nYkJtSnZWOU5JVUlBX0FENXVYRjJzLTQzeWdxbGhNaVVGdDkxWVdjVDBlbXdzYktQSjFLYXBTYXhIeTZGUQ?oc=5",
       "source": "電撃オンライン",
       "published_at": "2025-07-17T07:00:00+00:00",
       "summary": "【ファイナルファンタジーXIV モバイル】配信日・事前登録特典・最新情報まとめ【FF14】    電撃オンライン",
-      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja"
-    },
-    {
-      "title": "【スターセイヴァー】配信日・事前登録特典・最新情報まとめ - 電撃オンライン",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5EdUU0bHRma0kzdkt3MXFBd0MtbUdqSk5rZEVOa3p0NTFWMTdFRFRyWnZkNUZtVEoyWkV4QU5RQ3NQMmFGR3pEdGxma2VmVEJlS0YyRmZlZFBUUQ?oc=5",
-      "source": "電撃オンライン",
-      "published_at": "2025-07-16T07:00:00+00:00",
-      "summary": "【スターセイヴァー】配信日・事前登録特典・最新情報まとめ    電撃オンライン",
       "feed_url": "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
@@ -3040,6 +2952,14 @@
       "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Eastern%20Europe&hl=en&gl=PL&ceid=PL:en"
     },
     {
+      "title": "完全新作『みんなで空気読み。ワールド タイVer.』Steamストア、トレーラーを公開。『Timelie 』を手掛けたタイのクリエイターチーム”Urnique Studio”との共同プロジェクト | 株式会社ジー・モードのプレスリリース - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9yeDI0M1d3SGJGNVJjcnFtOVJHT1diVlp4OWNlTlZoM0pla1hrTW1RTVR3UDZ3a1JmdF9LelFfS2xyNjJwbHdhZXAyWDBUUmdxYzRqcUhXNTdFVXFheS1uZjFUU1JyUE9KMkE?oc=5",
+      "source": "PR TIMES",
+      "published_at": "2025-07-07T07:00:00+00:00",
+      "summary": "完全新作『みんなで空気読み。ワールド タイVer.』Steamストア、トレーラーを公開。『Timelie 』を手掛けたタイのクリエイターチーム”Urnique Studio”との共同プロジェクト | 株式会社ジー・モードのプレスリリース    PR TIMES",
+      "feed_url": "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
       "title": "Upin & Ipin universe launches on consoles and PC on July 17 - GamesBeat",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQLUVpbktXZ3FneWkzaXltcUlFMTlQNm1QbU9lTWI1R0FwcG1Jbi1FT0tQUFA1OFhHYW5XTTg5dWdlZVpEZE1YdlNaX1dteHotWS1peV9Vc0tEZEVfS2RMeGpIZ09pb1A2TENCRUdCZUdlWkJfY3RyaG5FaU9BNE8yZ0xiX0JNMUk?oc=5",
       "source": "GamesBeat",
@@ -3064,6 +2984,14 @@
       "feed_url": "https://news.google.com/rss/search?q=%E6%B5%B7%E5%A4%96%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
+      "title": "【シルバー・アンド・ブラッド】配信日と事前登録情報｜最新情報｜シルブラ - AppMedia",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1kM1dFZUUybzg1bkRmc2pPYmp5UTdrUUVWUmdlMmo3cFhmRFpmNE05MC15NGRRdFV1RzhVOTJ3UC1xVm1KeVRsbWZjaWQ?oc=5",
+      "source": "AppMedia",
+      "published_at": "2025-07-02T07:00:00+00:00",
+      "summary": "【シルバー・アンド・ブラッド】配信日と事前登録情報｜最新情報｜シルブラ    AppMedia",
+      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
       "title": "KRAFTON、『Subnautica』シリーズ開発スタジオ経営陣の突然の変更発表―新任CEOは『Callisto Protocol』開発スタジオ代表に - Game*Spark",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBXT1cwUlpSU0dxV0hubFp1M1hRcHJydmp4WlFrMkVqU3ZtN3JIbk1Bd1paVnQ1Y3JGOUNheGpwcWRqNDJJRnNnT2lfLXhVT1BfYVZBaDBpUmxmeERTckZQVGh4YU5Wdw?oc=5",
       "source": "Game*Spark",
@@ -3072,28 +3000,12 @@
       "feed_url": "https://news.google.com/rss/search?q=%E6%B5%B7%E5%A4%96%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
-      "title": "新作『マブラヴ ガールズガーデン』本日7/1より事前登録開始。ティザーPVや、タシロハヤト氏ほか豪華制作陣の情報も解禁【マブガル】 - 電撃オンライン",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8zTm1rN1ltOXpzWHktbHlPc0czSjZoS1F4dThPbXhiWWl6djF1cXhBanJJZG13UVZQM0VTOXJjYV8wZVBlY1d0UW5lRlE0NXktYlpkTGFpRnhTUQ?oc=5",
-      "source": "電撃オンライン",
-      "published_at": "2025-07-01T07:00:00+00:00",
-      "summary": "新作『マブラヴ ガールズガーデン』本日7/1より事前登録開始。ティザーPVや、タシロハヤト氏ほか豪華制作陣の情報も解禁【マブガル】    電撃オンライン",
-      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja"
-    },
-    {
       "title": "Africa’s game revolution is loading - Atlantic Council",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQW1hMXB4TS1zYVpiM1plclBRZ09ENmdfTlU3ZDFzcV9qN3RCamkzWnl0QnVqOVBsQWJmMlVqLTRiejQybEFjTkxDdHMtcHd1OGp5RGxMckVzSGUzOG83dUtudlNzOTZfMzU4b25SOUY4eHVGNXdaSDNWa0tPeUR0UnZ4YWo3OHpYRG9OM09Fbw?oc=5",
       "source": "Atlantic Council",
       "published_at": "2025-06-30T07:00:00+00:00",
       "summary": "Africa’s game revolution is loading    Atlantic Council",
       "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Eastern%20Europe&hl=en&gl=PL&ceid=PL:en"
-    },
-    {
-      "title": "受け継がれる魂が、今輝くッ！新作アプリゲーム『ジョジョの奇妙な冒険 オラオラオーバードライブ』の事前登録受付を開始ッ！ - 株式会社gumi",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA2bUk4VHZPcDZTRnFwem5XcGNxNXB1Y05GWGpTM0V4bmNJenREN1BISDhFbXRQa3dWQ0g3QjdkVEhTTDJCRkxoMzdDY1NqUQ?oc=5",
-      "source": "株式会社gumi",
-      "published_at": "2025-06-30T07:00:00+00:00",
-      "summary": "受け継がれる魂が、今輝くッ！新作アプリゲーム『ジョジョの奇妙な冒険 オラオラオーバードライブ』の事前登録受付を開始ッ！    株式会社gumi",
-      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
       "title": "'New video games cost me a whole day's wages' - BBC",
@@ -3120,12 +3032,28 @@
       "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Africa&hl=en&gl=ZA&ceid=ZA:en"
     },
     {
+      "title": "【ペルソナ５: The Phantom X】配信日と事前登録情報｜最新情報 - AppMedia",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB0N3F0S0lNa0RzMWJhb3BlR3ZRcnBoLXh3LUd6eFFIZl9kNWFZcm82VzllRFY2SUU2MTJkUGFLWWhZbkdIUk5qMjlqckg?oc=5",
+      "source": "AppMedia",
+      "published_at": "2025-06-26T07:00:00+00:00",
+      "summary": "【ペルソナ５: The Phantom X】配信日と事前登録情報｜最新情報    AppMedia",
+      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
       "title": "『ペルソナ』シリーズ最新作『ペルソナ５: The Phantom X』事前ダウンロードを開始！事前登録は200万件を突破！ - sega.jp",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9PdnVmazdia0FMYm9qN2EydE11YkJfNkpuLXdJVjJab0N6ajBGSUZyeExqUW5rRmdnM0pJc3dKVXEteXVjem5aa3dZR1lXdC15bFNBQW93?oc=5",
       "source": "sega.jp",
       "published_at": "2025-06-25T07:00:00+00:00",
       "summary": "『ペルソナ』シリーズ最新作『ペルソナ５: The Phantom X』事前ダウンロードを開始！事前登録は200万件を突破！    sega.jp",
       "feed_url": "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "title": "100万本突破の“バカゲー”に開発者も困惑！？ 協力型クライミングゲーム『Peak』が大ヒット｜ゲームboy🎮｜ゲーム＆アニメ紹介 - note",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4wRHBDT3pSeHcyMW1aREsxM1lyNkZSMllhbUJBaGlPRWtPMWxRek9BZ29waE1Pb0tsLW5QSW9hVHBqSXdYMUNwVjVDSEhpSmhMTDlnZXdpREI?oc=5",
+      "source": "note",
+      "published_at": "2025-06-24T07:00:00+00:00",
+      "summary": "100万本突破の“バカゲー”に開発者も困惑！？ 協力型クライミングゲーム『Peak』が大ヒット｜ゲームboy🎮｜ゲーム＆アニメ紹介    note",
+      "feed_url": "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
       "title": "Indian game studios level up with local IPs and cultural narratives - Business Standard",
@@ -3160,14 +3088,6 @@
       "feed_url": "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
-      "title": "『ゼルダ無双 封印戦記』の開発はコーエーテクモの“AAAスタジオ”。世界中に“正拳突き”のようなド直球のゲームを届けたい。Switch2はスペックアップで、ゲームのおもしろさが一気にアップ - ファミ通",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ha2RjLVpyY0tGX2QwMUt5WUUtcFo4Rnc5ZFo2ZkxuQzg3bHZXb0p6UU9oTExvU0kwTnVwMDdacVRxaDd3YUlGbEJXOEZBUlRjY255YXM4Zw?oc=5",
-      "source": "ファミ通",
-      "published_at": "2025-06-14T07:00:00+00:00",
-      "summary": "『ゼルダ無双 封印戦記』の開発はコーエーテクモの“AAAスタジオ”。世界中に“正拳突き”のようなド直球のゲームを届けたい。Switch2はスペックアップで、ゲームのおもしろさが一気にアップ    ファミ通",
-      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA&hl=ja&gl=JP&ceid=JP:ja"
-    },
-    {
       "title": "Interview: Vaibhav Chavan, Director of Mukti - Insider Gaming",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Ya1pnWXB1aXlic0VWMWM2MEhNbXRlNHFxVW1yYUF6dVB3MjV1Q19mNHR6blpGMFhXT2dUdFJCR2J1UmM0aExmTHN1RWowTVR1X3EyMWU2ODRIbmhya1owVG9MQ3poNHNZbUE?oc=5",
       "source": "Insider Gaming",
@@ -3189,14 +3109,6 @@
       "source": "Game*Spark",
       "published_at": "2025-06-10T07:00:00+00:00",
       "summary": "「幻のドットゲーム」企画が20年越しに復活！？『メタスラ』開発者等豪華メンバー集うKOHACHI STUDIO6月12日の新作発表を告知    Game*Spark",
-      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA&hl=ja&gl=JP&ceid=JP:ja"
-    },
-    {
-      "title": "新作ホラーゲーム『End of Abyss』発表。『リトルナイトメア』元開発者による新スタジオが開発 - AUTOMATON",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1uOW1ZTWNsT2ZuX2Z1Q1FGSzRETDRsYWFtMENkbzJYNWNlTjNOY29FSHl2aWZPa21UWDdsalA3TU5hYTNEWGdXMWJkMnM3T0RoMGJ5RmNIN0pNSHBabEtYY0o3cUNzQXp1dmVKWXNZMzBOU3dEQUpvbVlMUjlxUQ?oc=5",
-      "source": "AUTOMATON",
-      "published_at": "2025-06-07T07:00:00+00:00",
-      "summary": "新作ホラーゲーム『End of Abyss』発表。『リトルナイトメア』元開発者による新スタジオが開発    AUTOMATON",
       "feed_url": "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
@@ -3224,12 +3136,12 @@
       "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Southeast%20Asia&hl=en-SG&gl=SG&ceid=SG:en"
     },
     {
-      "title": "「いまこそ、新たな原点へ。」サッカーシミュレーションゲーム「サカつく」シリーズ最新作『プロサッカークラブをつくろう！2025』は2025年配信決定！ - sega.jp",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBfQnQ3S0VVdFlZWVhNaFBEazN3c3h4S2tuRVR0MzlhSmMxU1hHeW5RZl9kRFVuYlpZVjZ1ekg0QmJIR3ZQWkpSVnVkSzkweV82emNkZEFn?oc=5",
-      "source": "sega.jp",
-      "published_at": "2025-06-02T03:00:05+00:00",
-      "summary": "「いまこそ、新たな原点へ。」サッカーシミュレーションゲーム「サカつく」シリーズ最新作『プロサッカークラブをつくろう！2025』は2025年配信決定！    sega.jp",
-      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja"
+      "title": "Summer Game Fest 2025 Schedule: All Studio Lineup, How to Watch, and What to Expect - Gaming Amigos",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZmdaenVWTkd5WW1DeUZzaUlTMnBCclpUcV83bnpwdXA3eHF0eWcxSDNtMU56SmNXOXYzT3Bic280djBJTVdsVnVHNjR2ZTR4Sjdkb3VhcHh3a0RWcklUcXM0N3E1VlVfcWkxeWI2eUw4SFBoQjJDZUoydkdNa191MUpLdTQ?oc=5",
+      "source": "Gaming Amigos",
+      "published_at": "2025-05-31T07:00:00+00:00",
+      "summary": "Summer Game Fest 2025 Schedule: All Studio Lineup, How to Watch, and What to Expect    Gaming Amigos",
+      "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Southeast%20Asia&hl=en-SG&gl=SG&ceid=SG:en"
     },
     {
       "title": "Ukraine's gaming legacy: 5 titles still trending worldwide - RBC-Ukraine",
@@ -3240,11 +3152,11 @@
       "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Eastern%20Europe&hl=en&gl=PL&ceid=PL:en"
     },
     {
-      "title": "セルランTOP100入り新作スマホゲーム、事前登録期間の短縮とストア集約化の動きが顕著【スパイスマート調査】 - gamebiz【ゲームビズ】",
-      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE0yRTJDVHkxLW5ka2IxTHRzZFRYNmdkaEx0Qm5aMkx2WTgxb0NGYWQwVlVLM3dCV0JlRk92TE9sejBfdU9h?oc=5",
-      "source": "gamebiz【ゲームビズ】",
+      "title": "『ステラ アイドル プロジェクト』DMM新作の放置ゲー×アイドル育成RPG、事前登録が10万人を突破。バーチャルシンガー・YuNiの楽曲カバー動画も公開 - ファミ通",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5qMnZLTWpuNEZwNEh5OTFSenNVVU96eHlBNXJQcFRnSXU1Q0s5TmY2RS1STVpvSmVMRFNSMXhEVUhtd2dybU5XLVZKOC10WUU5TXRiZGd2OA?oc=5",
+      "source": "ファミ通",
       "published_at": "2025-05-16T07:00:00+00:00",
-      "summary": "セルランTOP100入り新作スマホゲーム、事前登録期間の短縮とストア集約化の動きが顕著【スパイスマート調査】    gamebiz【ゲームビズ】",
+      "summary": "『ステラ アイドル プロジェクト』DMM新作の放置ゲー×アイドル育成RPG、事前登録が10万人を突破。バーチャルシンガー・YuNiの楽曲カバー動画も公開    ファミ通",
       "feed_url": "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
@@ -3264,12 +3176,12 @@
       "feed_url": "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
-      "title": "【2025年配信予定】女性向け無料ゲーム＆アプリの配信日・声優・事前登録など新作情報まとめ - にじめん",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ic0IzWndiOGZsNDBkQnZ4Y3BKNkJ2QTRULUYyT1VCcldzX1VLc2VxdGVwNW9TY3pFVEw5bndXS3BxRGxmaDZMRHRwb1Q2UEg4Vkw2b3Jrdw?oc=5",
-      "source": "にじめん",
-      "published_at": "2025-05-06T07:00:00+00:00",
-      "summary": "【2025年配信予定】女性向け無料ゲーム＆アプリの配信日・声優・事前登録など新作情報まとめ    にじめん",
-      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja"
+      "title": "「東京ゲームショウ2025」 「SELECTED INDIE 80」のスポンサーが決定 - 電波タイムズ",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Hb3o3MVZjVWNiMkJRNzRvcGRjSEM5bjk0MEQ4LWt6bFpZZ0lxeVFjWGEyelJxaFZDS1gzU3N3TGVidmx3YUNSZ0JZYVRzWXRGTkw3S19laVhKblZmUlpvMHl6V0k?oc=5",
+      "source": "電波タイムズ",
+      "published_at": "2025-05-07T07:00:00+00:00",
+      "summary": "「東京ゲームショウ2025」 「SELECTED INDIE 80」のスポンサーが決定    電波タイムズ",
+      "feed_url": "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
       "title": "Amitabh Bachchan joins Amish Tripathi, Nouredine Abboud's Tara Gaming studio as co-founder - Moneycontrol.com",
@@ -3296,14 +3208,6 @@
       "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Philippines&hl=en-PH&gl=PH&ceid=PH:en"
     },
     {
-      "title": "株式会社enish、新感覚麻雀ゲーム「雀エボライブ」事前登録開始！ - PR TIMES",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oREZERXlRemxQWnExa1gzbzFEZkFXRThKcEhLcjRuNi1tTS1pdGpDZ0VkZmxSTVItc3l0dWdUeE03V1lHSlNCQzRCZTJlbHdCQVh1NzNsNkZ5TlhPdzNIRUxCMlVRMy13MlE?oc=5",
-      "source": "PR TIMES",
-      "published_at": "2025-04-23T07:00:00+00:00",
-      "summary": "株式会社enish、新感覚麻雀ゲーム「雀エボライブ」事前登録開始！    PR TIMES",
-      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja"
-    },
-    {
       "title": "Rey Tiempo chats with Polychroma Games for Game On: Game To Beat 2025 - adobo Magazine",
       "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPcktOZWN0aEQ5QzVLWDhIZXF6QWdzN3BGbFdsaF8yZ3ZOanZGZE5kUTlpWGotMG4wNUhqODJoNnBMV09jUDAxSjBfb25pTFRXSW5UV0hsN2lBRFhERXY3MjZBWlBmaHIyOTZfbm5WdEVBTzZWeU5Iek9SVjFTVnVEQTEtLXZHdzlITFlhaFk0VUgzdUZxWkV6bmJBOEtteVY3WmxMOFFnV1FjaEJZNUhMcHh2Xzg1ZzBhRDNnWmdSSEZBY2IxYTFWcnRjb3JiQmxDMmxDNG13UXhrcnc4VEtNTTVVZTIzTUlPdVZkcWZtT29qR1dOa2d1U3ZlUkY1dDJtMkY5UWNtTEY1Y1JBVEFlLWp3?oc=5",
       "source": "adobo Magazine",
@@ -3328,20 +3232,20 @@
       "feed_url": "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
+      "title": "ポケットペアが新作ゲーム『Truckful / トラックフル』のパブリッシングを発表！美しくも恐ろしい田舎を走り抜く、謎解きトラックシミュレーター！ - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9CSFNWQnlfYVFRWVcyZUVVOXBjMmZEX2NibHFmMU1xdS05ZFowVElGYU9wMWpaMUpOdUxXUE41ejU0eE5WdVlha1AzbWpBQWl4SVh0YWh6SG9PZFpPUWtsLU9wM0hzbWg4ZEE?oc=5",
+      "source": "PR TIMES",
+      "published_at": "2025-04-07T07:00:00+00:00",
+      "summary": "ポケットペアが新作ゲーム『Truckful / トラックフル』のパブリッシングを発表！美しくも恐ろしい田舎を走り抜く、謎解きトラックシミュレーター！    PR TIMES",
+      "feed_url": "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
       "title": "Riot Games Unveils Riftbound, a League of Legends Card Game Set to Launch This Year - YugaTech Gaming",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQ2RRMnV3S0JDblluMjczWmhmbWxfUHhkUjlfUTVhdVoxQ0tRaml3aE5xWVU3TE5ONW9xbmNWdkpiNzM4VGNQMWdNWnQyTmcxYUFiOWtuV2tYNEZoNk5RLWVIaUlqSUo3Q0pEcFpHcVNFYW50dHRHYTFPVVBEUkR1MUhzT0tjR1RkU3Y1V3ByQjNhRzV3Yk45NU85TUFwTGIyZHh6SWxMclFqSmR4R0xSTFBzbld0bFk?oc=5",
       "source": "YugaTech Gaming",
       "published_at": "2025-04-06T07:00:00+00:00",
       "summary": "Riot Games Unveils Riftbound, a League of Legends Card Game Set to Launch This Year    YugaTech Gaming",
       "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Philippines&hl=en-PH&gl=PH&ceid=PH:en"
-    },
-    {
-      "title": "『カービィのエアライダー』はバンダイナムコスタジオが開発中。『スマブラSP』など手がけた手練れチームか - AUTOMATON",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdVpsaWpUQ2FzVmF3Um5WdHRGTXdzbDFQeDRrb1hEZ0VJVC1QZ3ppMXRjSnFiMmZESGhycmY1bUVodnltTzVJbDZmYzl1NmRXbG1TVy1Ra0NrZFE4VWRYSkRTZzBPWDNkdFBDVGxOQ1ExR2NybDEzS1RtZGxxNmItOWhsWQ?oc=5",
-      "source": "AUTOMATON",
-      "published_at": "2025-04-03T07:00:00+00:00",
-      "summary": "『カービィのエアライダー』はバンダイナムコスタジオが開発中。『スマブラSP』など手がけた手練れチームか    AUTOMATON",
-      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
       "title": "Ubisoftが中国・Tencentの出資を受け子会社を設立、「アサシンクリード」「Far Cry」「レインボーシックス」の開発チームや開発スタジオを移管 - GIGAZINE",
@@ -3352,11 +3256,11 @@
       "feed_url": "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
-      "title": "「魔法少女まどか☆マギカ」新作ゲーム、早くもランキング1位に - ASCII.jp",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ndngyM2pxUTJMc2p2MVVhOXVWNGRSUXF1aWhIUzFERWZXNE5VMWhfQ0p4OVdPeGtLY2Z2NFFhM19ucnl5aTc1WEhrSVRIUTZXUGRJWQ?oc=5",
-      "source": "ASCII.jp",
+      "title": "【魔法少女まどか☆マギカ Magia Exedra】配信日と事前登録情報｜最新情報｜まどドラ - AppMedia",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1ya2lFWGs4RGFOWkNEN2c0TDBOUGs0MzVKaE5aR193VDR0WHRtZDVxRUlaV2FVRFhybmxlcmZKU0hLamtGa1pmbEpra28?oc=5",
+      "source": "AppMedia",
       "published_at": "2025-03-27T07:00:00+00:00",
-      "summary": "「魔法少女まどか☆マギカ」新作ゲーム、早くもランキング1位に    ASCII.jp",
+      "summary": "【魔法少女まどか☆マギカ Magia Exedra】配信日と事前登録情報｜最新情報｜まどドラ    AppMedia",
       "feed_url": "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
@@ -3405,14 +3309,6 @@
       "source": "KAI-YOU",
       "published_at": "2025-03-14T07:00:00+00:00",
       "summary": "ちいかわ初のスマホゲーム『ちいかわぽけっと』3月27日に配信 事前登録は150万人超    KAI-YOU",
-      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja"
-    },
-    {
-      "title": "DREAMSの配信日と事前登録情報 - GameWith",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9qelpaRzJ1WHo1N0diamVVdVFqVUUtdE1HYUVHZGlNTkNJUmltT2dyT0JscWlUXzQ1cVdFZXBPaWt6UnNDZHFv?oc=5",
-      "source": "GameWith",
-      "published_at": "2025-03-11T07:00:00+00:00",
-      "summary": "DREAMSの配信日と事前登録情報    GameWith",
       "feed_url": "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
@@ -3504,14 +3400,6 @@
       "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20India&hl=en-IN&gl=IN&ceid=IN:en"
     },
     {
-      "title": "最大200人同時プレイ可能なVRスポーツ「Orion Drift」発表 人気VRゴリラ「Gorilla Tag」の開発スタジオが制作 - Mogura VR",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5BbmRUN3phaHNuTzZ3dEhxQXN2bzBVSDZjRmZMbi1xYVVQVHFWVFV1VVQ4ZXhUdzhrMGVlbHE3QU9hNkwtclVhQkQ4Zk9sOEFFV1E?oc=5",
-      "source": "Mogura VR",
-      "published_at": "2025-02-20T08:00:00+00:00",
-      "summary": "最大200人同時プレイ可能なVRスポーツ「Orion Drift」発表 人気VRゴリラ「Gorilla Tag」の開発スタジオが制作    Mogura VR",
-      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA&hl=ja&gl=JP&ceid=JP:ja"
-    },
-    {
       "title": "How Will Elon Musk's xAI Change the Gaming Industry? - Analytics India Magazine",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUVBZcVZfRlVHVS0zb2g5SGMzeDRyUW13LU0wLTFjbDA5Y29uWGFLeTRQOXVFQ3gtUnlZSURQVE55eEExNHJ1Q0pTUk9ocmpoU0JxdTlYX1VhMGQ1SUFsUVAyMEtQckQweFBrRHMxUFFyeEdrODJLT1NHTzdTVFFMeldYNUZkM2swaGRwdHdR?oc=5",
       "source": "Analytics India Magazine",
@@ -3526,14 +3414,6 @@
       "published_at": "2025-02-13T08:00:00+00:00",
       "summary": "Video games are a $1.8bn market in Africa    The Africa Report",
       "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Africa&hl=en&gl=ZA&ceid=ZA:en"
-    },
-    {
-      "title": "死んでも強くなり続けるアクション『SAROS』発表。『Returnal』開発スタジオ新作、すべての死に価値がある戦い - AUTOMATON",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAxcE85aUFKb1h2OGM3R1ZORG9oWlJxMVVkeTFlazcwRFExckJqWWVoR1lReENIVXo4a01vb0lxOHBLdVFpV2xHbVJQX1pQck53ZlBFYmhfZkFCS2VlSWdLMlEtc0NMM1lCYV9nX1BfUEdrWF9F?oc=5",
-      "source": "AUTOMATON",
-      "published_at": "2025-02-13T08:00:00+00:00",
-      "summary": "死んでも強くなり続けるアクション『SAROS』発表。『Returnal』開発スタジオ新作、すべての死に価値がある戦い    AUTOMATON",
-      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
       "title": "Nigeria’s gaming studios weave quests in native culture - The Guardian Nigeria News",
@@ -3557,6 +3437,14 @@
       "source": "PR TIMES",
       "published_at": "2025-01-23T08:00:00+00:00",
       "summary": "ポケットペアが、パブリッシング事業「Pocketpair Publishing」を開始SURGENT STUDIOSの新作開発を支援、サポート開始を発表    PR TIMES",
+      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "title": "ポケットペア、パブリッシング事業「Pocketpair Publishing」開始―プロジェクト第一弾は、イギリスのデベロッパー手がける完全新作ホラータイトル - GameBusiness.jp",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE50SUJxUk02RnNxTkJLTzNTdUJyWXhzZzc2bk5BOTNHbzBmYkZ0MU9ocC1ZR3U3ZTVJUEFKSGNfZjZyZ0VKdElYQy12MEVBaUlRYkVkNzVZLUhCRmxaX0RNNzNuUjhyOE9N?oc=5",
+      "source": "GameBusiness.jp",
+      "published_at": "2025-01-23T08:00:00+00:00",
+      "summary": "ポケットペア、パブリッシング事業「Pocketpair Publishing」開始―プロジェクト第一弾は、イギリスのデベロッパー手がける完全新作ホラータイトル    GameBusiness.jp",
       "feed_url": "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
@@ -3584,6 +3472,22 @@
       "feed_url": "https://news.google.com/rss/search?q=%E6%B5%B7%E5%A4%96%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
+      "title": "4/13「ぶらり川越 GAME DIGG」開催決定、”オープンタウン型”のゲームイベント。出展募集は2月を予定 - IndieGamesJp.dev",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBEVDQ1dW5HVDNnMjBxcFp2VWRqbDNFRkwwcVplcG9jMm1YdTVlcFRCa0tUWENMdFR2UFhHVkZNemZ5cmc2SDI0?oc=5",
+      "source": "IndieGamesJp.dev",
+      "published_at": "2025-01-17T08:00:00+00:00",
+      "summary": "4/13「ぶらり川越 GAME DIGG」開催決定、”オープンタウン型”のゲームイベント。出展募集は2月を予定    IndieGamesJp.dev",
+      "feed_url": "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "title": "PS5ローンチタイトル『Godfall』を手がけたCounterplay Games、「ひっそり解散した可能性」示す報道。受託開発に活路を探すも、存続ならずか - AUTOMATON",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbllLUVlHblJKallOWXJPSTVYWHdHbWRfMmFOY1UtTFJpalBNSU5BUkRNX1R3ZFRieXkwUkFDNEZSODAyY2dnX1ZMRDhlNVl0VTB5N3l6VnhPOUV4SDF2UnhIZTVhaGdRcVRWcVdoOXRRenJDU3dFdGxsOGFKUTFzTXVYNno?oc=5",
+      "source": "AUTOMATON",
+      "published_at": "2025-01-15T08:00:00+00:00",
+      "summary": "PS5ローンチタイトル『Godfall』を手がけたCounterplay Games、「ひっそり解散した可能性」示す報道。受託開発に活路を探すも、存続ならずか    AUTOMATON",
+      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
       "title": "Nigerian studio’s first video game is an action-adventure steeped in Yoruba culture - The National",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNVUxEMUNoWDB6amJ6OC1vZmgxQURyb3ZSNXVFUjVzSmZzMkRtLXNHMFotSzFJVUJITGdvOXVyb2NHam5yWEI1SnVRWkE3QXlrOUVlaTltV0xRaTNnSFhxT3gzR1Q5ZXNfZ2xuMlNBamtWZzlZd0dDOVdnc3BBNXBJOGE2RFlldklsRjZrRzRPUEh2aWZxVFg1Y2ZqaGhZMG9TUWlRbzFGOWVmb3BEVU5CX05wWlFzZEFyaG4xbnVQdkQxUzR0U2x3ci1xeEV6cGJaZWk3MmZuVFlHQldIb0xZOTNPeWt0Zw?oc=5",
       "source": "The National",
@@ -3600,6 +3504,14 @@
       "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Southeast%20Asia&hl=en-SG&gl=SG&ceid=SG:en"
     },
     {
+      "title": "Nuverseがクロスプラットフォーム向け新作『クリスタル・オブ・アトラン』のグローバル展開を発表！ - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9oTTdLeU9KM2I3NkVtc2FyLS04c18tcDVGZlFpZXFqNTM4cjJ3TFc0UzRaU3duQlp4UTVoV3BjckpNTWVydTUycndkeEwxRmRNQUg0TDZtUm4tdnlmTEcyRF81dWEzZTdvb1E?oc=5",
+      "source": "PR TIMES",
+      "published_at": "2025-01-05T08:00:00+00:00",
+      "summary": "Nuverseがクロスプラットフォーム向け新作『クリスタル・オブ・アトラン』のグローバル展開を発表！    PR TIMES",
+      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
       "title": "Kakuchopurei’s Southeast Asia Game Awards & Appreciation 2024 - Kakuchopurei",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPelZvN1JROGJjbURFYWFkS1dWSkR1YzN4YWRXQWN3Wm9GUkMyb3gxS01nWHNQQzFENndzYnVGVlNQejZ2QXVaVW8xMW1OS3NNb0pUMk9HNjNkSlY0ODR1Nlo3VVcwQW1hdlZyY3A1bEp6bVJobVE5LW1TU1d1a0lpUWhZNjN4MmVZSzVFWXdR?oc=5",
       "source": "Kakuchopurei",
@@ -3614,6 +3526,14 @@
       "published_at": "2024-12-16T08:00:00+00:00",
       "summary": "Video games in 2024: The ‘Tetris’ beater, ‘Palworld’ hype, PH’s ‘Until Then’    Rappler",
       "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Philippines&hl=en-PH&gl=PH&ceid=PH:en"
+    },
+    {
+      "title": "神谷英樹氏率いるゲームスタジオ「クローバーズ」が始動。「The Game Awards 2024」で、『大神』完全新作が発表 - 電ファミニコゲーマー",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJWTkzZEtKQnJoNnFzeXpOVXFqTXBHaEtjTUwxcERJUTZOSUc2bTg4NEJaZUttR3lBQ1ItQ0dqNHRJcUNqRGFCQ2xxTHl6a1k5b2Z0UzNLaE5RUQ?oc=5",
+      "source": "電ファミニコゲーマー",
+      "published_at": "2024-12-13T08:00:00+00:00",
+      "summary": "神谷英樹氏率いるゲームスタジオ「クローバーズ」が始動。「The Game Awards 2024」で、『大神』完全新作が発表    電ファミニコゲーマー",
+      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
       "title": "“The Game Awards 2024”新作発表まとめ。『ELDEN RING』新作や『バーチャ』新作、『大神』完全新作プロジェクトなどが公開【ゲームアワード】 - ファミ通",
@@ -3648,11 +3568,19 @@
       "feed_url": "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
-      "title": "神谷英樹氏率いるゲームスタジオ「クローバーズ」が始動。「The Game Awards 2024」で、『大神』完全新作が発表 - 電ファミニコゲーマー",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJWTkzZEtKQnJoNnFzeXpOVXFqTXBHaEtjTUwxcERJUTZOSUc2bTg4NEJaZUttR3lBQ1ItQ0dqNHRJcUNqRGFCQ2xxTHl6a1k5b2Z0UzNLaE5RUQ?oc=5",
-      "source": "電ファミニコゲーマー",
+      "title": "【大神続編】ゲームデザイナーの神谷英樹氏率いるゲームスタジオ“クローバーズ”が始動。『大神』シリーズ完全新作プロジェクトを手掛ける - ファミ通",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5jMmR4bUdHSTBqVkJzWGJqVFBDWnNjQVVVbm10b05sdHJwV0FqWTJvTW05aTdCUlowcDg4QTk0ZG5SUWNUMDV4OXR6X3VTa1NFdzJVaWpPQQ?oc=5",
+      "source": "ファミ通",
       "published_at": "2024-12-13T08:00:00+00:00",
-      "summary": "神谷英樹氏率いるゲームスタジオ「クローバーズ」が始動。「The Game Awards 2024」で、『大神』完全新作が発表    電ファミニコゲーマー",
+      "summary": "【大神続編】ゲームデザイナーの神谷英樹氏率いるゲームスタジオ“クローバーズ”が始動。『大神』シリーズ完全新作プロジェクトを手掛ける    ファミ通",
+      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "title": "元プラチナゲームズ・神谷英樹氏が率いる新スタジオ「クローバーズ」正式始動！『大神 完全新作』を鋭意開発中 - インサイド",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9qRFhiZjNaWnlFMEJleUZubU5tZGNoQlUwYXduOWVQVDU4Q0ZNaVNzck9rUjJjUkZ3a0VEN2JiR2VsbkttZHVlT1hUbUZfcEY4OVVGNWM3czNUZUpNeE55dFhiZFl3Qi0wNEE?oc=5",
+      "source": "インサイド",
+      "published_at": "2024-12-13T08:00:00+00:00",
+      "summary": "元プラチナゲームズ・神谷英樹氏が率いる新スタジオ「クローバーズ」正式始動！『大神 完全新作』を鋭意開発中    インサイド",
       "feed_url": "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
@@ -3664,11 +3592,11 @@
       "feed_url": "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
-      "title": "クローバーズ、元プラチナゲームズ神谷英樹氏がスタジオヘッド/チーフ・ゲームデザイナーに就任…カプコンの新作『大神 完全新作』を鋭意制作中 - gamebiz【ゲームビズ】",
-      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9tZ0Fta0ZiUkJPOERjckJoQ2NFSFRyVTFrdmtsMzQ3TnRrQUpYejZvS0w3RUlNNFI4QWRuQURtNmYyX01Z?oc=5",
-      "source": "gamebiz【ゲームビズ】",
-      "published_at": "2024-12-13T07:41:23+00:00",
-      "summary": "クローバーズ、元プラチナゲームズ神谷英樹氏がスタジオヘッド/チーフ・ゲームデザイナーに就任…カプコンの新作『大神 完全新作』を鋭意制作中    gamebiz【ゲームビズ】",
+      "title": "「バイオハザード2」「デビル メイ クライ」などで知られる神谷英樹氏，新ゲーム開発スタジオ「クローバーズ」を始動 - 4Gamer.net",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE52d2NqblIxaFB2bUFOVzJUdmhBWkNXSTJHNENVSWxVNURtSXRLVFltZWVid0JyUWhacHotaUE4NzQwMVJRcTlCTFRRQ0dwR0NFY0xXVHdfTUhlNUVGdklsS1NKZw?oc=5",
+      "source": "4Gamer.net",
+      "published_at": "2024-12-13T08:00:00+00:00",
+      "summary": "「バイオハザード2」「デビル メイ クライ」などで知られる神谷英樹氏，新ゲーム開発スタジオ「クローバーズ」を始動    4Gamer.net",
       "feed_url": "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
@@ -3736,6 +3664,14 @@
       "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Southeast%20Asia&hl=en-SG&gl=SG&ceid=SG:en"
     },
     {
+      "title": "【スマホ版モンハン新作】『モンスターハンターアウトランダーズ』発表！ カプコンとTiMi Studio共同開発のiOS/Android向け最新作。リリース日は未定、ベータテストを複数回予定。アンジャナフやドスジャグラスの姿も！ - ファミ通",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5FMUtYTDd6aDNHaTdFTW9wRWpXT252cnoyQkJmUUp6N3JkRkVVWWQ3N1p4VGJmdmN5UFktNXVOdlNBY0ZZOU55U20yY0RNU04za3Bmc1ktUQ?oc=5",
+      "source": "ファミ通",
+      "published_at": "2024-11-13T08:00:00+00:00",
+      "summary": "【スマホ版モンハン新作】『モンスターハンターアウトランダーズ』発表！ カプコンとTiMi Studio共同開発のiOS/Android向け最新作。リリース日は未定、ベータテストを複数回予定。アンジャナフやドスジャグラスの姿も！    ファミ通",
+      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
       "title": "88 Pictures launches its gaming division – 88 Games - Indian Television Dot Com",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYVVZM0dTUzVkMnNoaURxcEVvb2xMNHVla05HMTgydWJfQlRuRG5UMXJYdmdyMVlBWEVqMnVUVFlhX25teGg2cU9NUGR0cTBIaERseFpmWHhiYmVvNXhFSnVDaC0zRlA0TUJDd3BsbHlJMWNfX0pndXhNTEtlUzg0eHQ1Uld2VGoxRXFaZDlxUlRVNW04NlFvcw?oc=5",
       "source": "Indian Television Dot Com",
@@ -3798,14 +3734,6 @@
       "published_at": "2024-10-24T07:00:00+00:00",
       "summary": "発売後すぐに消えた『The Day Before』開発元、“復活”を掲げて新作をクラファンするも失敗。でもめげずにまた新作発表    AUTOMATON",
       "feed_url": "https://news.google.com/rss/search?q=%E6%B5%B7%E5%A4%96%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA&hl=ja&gl=JP&ceid=JP:ja"
-    },
-    {
-      "title": "【2024年配信予定】女性向け無料ゲーム＆アプリの配信日・声優・事前登録など新作情報まとめ - にじめん",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5kRm5HQWlGVk82NEpMVUs5eWZpM29aUnQtaXNkRUxVY2hNT0QxbVFRbFc5eG5zQlpWUG9zd1VldE1MeE80WEhDTUxQR1NPWjluaFhhQ2tHMA?oc=5",
-      "source": "にじめん",
-      "published_at": "2024-10-21T07:00:00+00:00",
-      "summary": "【2024年配信予定】女性向け無料ゲーム＆アプリの配信日・声優・事前登録など新作情報まとめ    にじめん",
-      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
       "title": "ベテラン開発者が率いるゲームスタジオGPTRACK50の新作は、「ゲームデザイン主導」のアクションRPG。絵ではなくシステムから作る、ベテランたちの「長年やりたかった」開発手法 - AUTOMATON",
@@ -3912,14 +3840,6 @@
       "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20India&hl=en-IN&gl=IN&ceid=IN:en"
     },
     {
-      "title": "『REANIMAL』は『リトルナイトメア』を越えて、さらなる新しいホラーアドベンチャーを目指す。開発会社Tarsier Studiosに聞く【gamescom 2024】 - ファミ通",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE45V3RWUTVBRkJBemxrTXk4cXRKb2U0XzZNbnQ2aktvTzhtR1pCaEVwb2FyWWhwMURZNDV5b1ZYb21aM0dxcU9rTGVUVnB4djBuQmhaQk5lOA?oc=5",
-      "source": "ファミ通",
-      "published_at": "2024-08-25T07:00:00+00:00",
-      "summary": "『REANIMAL』は『リトルナイトメア』を越えて、さらなる新しいホラーアドベンチャーを目指す。開発会社Tarsier Studiosに聞く【gamescom 2024】    ファミ通",
-      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA&hl=ja&gl=JP&ceid=JP:ja"
-    },
-    {
       "title": "\"When you know Africa and its history it's easy to make a game that will speak to the whole continent\" - Pocket Gamer.biz",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWVdab0p3UHlaR1FaQUZrM201bDRoUGVBZkRva2Z5eDdxaFp5YmZMcjVfNFY2YXdIdVo0SHUtQjVQNTVwelVMX0h3eDRtMlpocnV3QXNwUG9IVVllcXQ5VHh5dkFpVlJ2U3NkWW1rQTB2bGctX2VqZmNwaDlXWGVnNDQ4dDNTMXpYYzRHVE8yS2Ezb3o0MENVNUtZUlpicURBSUlkclU5UGtNRDBjVDJOd3dOallrZXNwdDhMZTV4bVROYU91a2pr?oc=5",
       "source": "Pocket Gamer.biz",
@@ -3933,14 +3853,6 @@
       "source": "YourStory.com",
       "published_at": "2024-08-21T07:00:00+00:00",
       "summary": "For India’s gaming industry, homegrown AAA titles remain the ultimate boss fight    YourStory.com",
-      "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20India&hl=en-IN&gl=IN&ceid=IN:en"
-    },
-    {
-      "title": "India Pavilion at Gamescom 2024 to Highlight Local Game Studios - IGN India",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdExtUnlxS0Fmc25HTGlFYXNoV25zUllmc2JHZHVZb3k2c2dEeFJQaXo0SGFmS1ZhQVc2SnRHYVMwUEJSV1FXMXBpUnpMTGRyb1A5TFd6Z2RyUDlyNm9la1VnVmtJNnkxTWlHMlJ3SE56cFlrVkVkWG90LTBKbXNUd2dyb3BZUVJsSmNpeE1VRWt0X1M3Nm0tSFg3NFpOcFJ5TUZv?oc=5",
-      "source": "IGN India",
-      "published_at": "2024-08-21T07:00:00+00:00",
-      "summary": "India Pavilion at Gamescom 2024 to Highlight Local Game Studios    IGN India",
       "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20India&hl=en-IN&gl=IN&ceid=IN:en"
     },
     {
@@ -3958,14 +3870,6 @@
       "published_at": "2024-08-20T07:00:00+00:00",
       "summary": "Malaysia’s role in Southeast Asia’s games industry growth    Niko Partners",
       "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Philippines&hl=en-PH&gl=PH&ceid=PH:en"
-    },
-    {
-      "title": "日本のインディーゲーム開発者の現場から Unity HDRPで描く6500万年後の海、開発者Studio Snowblind渋谷氏に聞くインディーゲーム『グレイシャード』メイキング。 - CGWORLD.jp",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5QTE9nQ0dhZkEtV0VzSTdLRjJzWGFpY3RSdXAwUGNLMXRjY3E1eVB0VzhXZ3A5QnhPLUQzSVotZXBWbENvVU8xQ1U3OF94WDhFa1k5NU90LXNncEVa?oc=5",
-      "source": "CGWORLD.jp",
-      "published_at": "2024-08-20T07:00:00+00:00",
-      "summary": "日本のインディーゲーム開発者の現場から Unity HDRPで描く6500万年後の海、開発者Studio Snowblind渋谷氏に聞くインディーゲーム『グレイシャード』メイキング。    CGWORLD.jp",
-      "feed_url": "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
       "title": "Gaming giants are looking to Africa for growth - Semafor",
@@ -3992,11 +3896,11 @@
       "feed_url": "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
-      "title": "MMORPGの開発・運営が楽しめるゲームスタジオ経営シム『Let’s Build a Dungeon』発表。開発元が培った12年の経験をもとにしたリアルな経営が楽しめる - ファミ通",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1TMm9CR0x6QUViMU0zdEZ6djBHWHRlX3dEQWEzeUxtamJGWUV2M095OVdfMTdiVUFDY0h6aXRtQ0Vqb3h3RjJhWllhb1gzZk4zc1NpNWF0aw?oc=5",
-      "source": "ファミ通",
+      "title": "MMORPGを開発しながら会社も経営するSLG「Let's Build a Dungeon」が発表！関係者全員が幸せになるゲーム開発を目指せ - Gamer",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBaMmt1LXVLZUt1NWtaT2VhRDdjZnZlRjk1MW9GWm9TUHlrMFdveWxuNEVNQkJka210YW1wLWh3RkFEV3ZIUmt3TFA5Sjg4d29uWVZheg?oc=5",
+      "source": "Gamer",
       "published_at": "2024-08-15T07:00:00+00:00",
-      "summary": "MMORPGの開発・運営が楽しめるゲームスタジオ経営シム『Let’s Build a Dungeon』発表。開発元が培った12年の経験をもとにしたリアルな経営が楽しめる    ファミ通",
+      "summary": "MMORPGを開発しながら会社も経営するSLG「Let's Build a Dungeon」が発表！関係者全員が幸せになるゲーム開発を目指せ    Gamer",
       "feed_url": "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
@@ -4030,22 +3934,6 @@
       "published_at": "2024-08-12T07:00:00+00:00",
       "summary": "PopOK Gaming shortlisted for Best Game Studio 2024 at SiGMA East Europe Awards    Focus Gaming News",
       "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Eastern%20Europe&hl=en&gl=PL&ceid=PL:en"
-    },
-    {
-      "title": "【ちいぽけ】『ちいかわ』初のスマホアプリ『ちいかわぽけっと』が配信決定。事前登録の受付がスタート - ファミ通",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9PaF9SOWpjQnNUSms1MHIxLS1fczIxal90cHUxdHd4eFJvMDYyWTZhek1vUmNZbkhrRG1QTmJfOTI3RERVSkw5OXVITUtxTlY2UXExSWE5RQ?oc=5",
-      "source": "ファミ通",
-      "published_at": "2024-08-10T07:00:00+00:00",
-      "summary": "【ちいぽけ】『ちいかわ』初のスマホアプリ『ちいかわぽけっと』が配信決定。事前登録の受付がスタート    ファミ通",
-      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja"
-    },
-    {
-      "title": "『Fallout 4』大型Mod「Fallout: London」開発元がオリジナルゲーム開発に意欲示す。完全自作のゲームを、自分たちの手で作りたい - AUTOMATON",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5QVlpaWTRXT2lobXd4VHpJM1dvNS03TlZyc1E1Ni1TbTlnTTZCTW9XSk1waUJ3VUwzeTdFZV9UUXVwVERJQ3hHQzZQbXptR05yNWNsTmh4blhPZWJEWnhRN243blZxRldwb01VdVJn?oc=5",
-      "source": "AUTOMATON",
-      "published_at": "2024-08-10T07:00:00+00:00",
-      "summary": "『Fallout 4』大型Mod「Fallout: London」開発元がオリジナルゲーム開発に意欲示す。完全自作のゲームを、自分たちの手で作りたい    AUTOMATON",
-      "feed_url": "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
       "title": "Rappler Talk Tech: ‘Until Then’ developers on Filipino representation in games - Rappler",
@@ -4104,6 +3992,14 @@
       "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20India&hl=en-IN&gl=IN&ceid=IN:en"
     },
     {
+      "title": "『ちびロボ！』開発者の最新作『koROBO』発表。7/23よりクラウドファンディングを実施。小っちゃなロボットと少年の友情を描くアクションアドベンチャー【BitSummit Drift】 - ファミ通",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE02WFJpQXNoMzZuZ0t2eGlBRFYtR1ZDVlZiMXNLQzctR0hLUDktZTR5a0FTM1lPRklPV2hHbnV3aXljclpMam5UY3lDUUZyWVdlbGs5TFl3WQ?oc=5",
+      "source": "ファミ通",
+      "published_at": "2024-07-19T07:00:00+00:00",
+      "summary": "『ちびロボ！』開発者の最新作『koROBO』発表。7/23よりクラウドファンディングを実施。小っちゃなロボットと少年の友情を描くアクションアドベンチャー【BitSummit Drift】    ファミ通",
+      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
       "title": "How Indian game developers are reshaping the industry - Harper's Bazaar India",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOV3M3ZjBmenE0SXNGV08ySno5b3c0RVctNUM2TE5Zc0ZReWxNTERtM0d6MFFPQzRqdWNIUkpmZU15VTRUdEJ6TGhaMXRud3RZUms0NG5pWGpxU0RmTGZWSlBpTXBwcGF6MlZESG0wbHMyVGRmdUg1UTRvN0JDTTY5cXY0VHlydEVKcDZkY0VoMmU2NVZtOHZMMXZwMF9ubUJYZWg4Y19Va1B4LVktZHJvOWNUZEtjZ9IBuwFBVV95cUxOOGJyX05wWm5GcDRWOFR0QnBXcmo4MDBsR1dfZ0dib0E0bE5uRG5EZlYwdTYxMFU1WkRMWEt2YUtSa0puOUlfZUtENjFBRVVfNzZfNkJwX0xsdUV1VlZRWWxXRmxIWlJMZUx6WUpONndGMGFCcC1wOGZURE43bWtJZXR6MVR1RkxLYmhuaVVzQU1hTjBhbnVCM09YZ1hfT2hNckxTSVNsZkU5VVlfek5lLWxSbXQxc096OW44?oc=5",
       "source": "Harper's Bazaar India",
@@ -4160,6 +4056,22 @@
       "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20India&hl=en-IN&gl=IN&ceid=IN:en"
     },
     {
+      "title": "『まどマギ』新作アプリ事前登録スタート/『ゼンゼロ』7月4日いよいよ配信【7/2話題記事&ランキング】 - ファミ通",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5obzJ1WTlrNGdwWnpFNzMtX0RWNTFjMzJBTnJvYUFkLVAzTjdLOTZmU0hmMC1IWTFUTVpVOVUwQ1cwMVhNcERfeWRhanlMa0c3VWM4?oc=5",
+      "source": "ファミ通",
+      "published_at": "2024-07-03T07:00:00+00:00",
+      "summary": "『まどマギ』新作アプリ事前登録スタート/『ゼンゼロ』7月4日いよいよ配信【7/2話題記事&ランキング】    ファミ通",
+      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "title": "新作スマホゲーム『チョコットスタジアム』を発表！７月３日(水)より事前登録を開始！ - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9HNnlENkpHZ3pQSEZwZFVsejA0bW1KU1RLMExPOEMwUjV0Qk50YVlWalRpc0xuZnFtdFdiT09udHo5LUlzWXZ5d2FSLWF4b3JEU09DMzZOdy1LeVl0eWRWaEk2SjI4b0phTVE?oc=5",
+      "source": "PR TIMES",
+      "published_at": "2024-07-03T07:00:00+00:00",
+      "summary": "新作スマホゲーム『チョコットスタジアム』を発表！７月３日(水)より事前登録を開始！    PR TIMES",
+      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
       "title": "Netflix Arcane series producer Thomas Vu hints Filipino mythology game is in the works - PEP.ph",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNS0RxWGJ3TTFidXJ3VlVXNE5NVlVXeUtrT1VZelRkSVNTYkNxMENva01jVGhvOWdzaklFU3lud3JwX1JVYWZPdkhlc1dicE42d25lcmV6aDN4UTZYU2thRjlfN3p2SnM3Xzh3TXN0NGhSZE1pRTFORmIwSmljbHJYS01ERVBWd3NNVk9QbExhS3BvLTFfYWJ6Ym9mTDE?oc=5",
       "source": "PEP.ph",
@@ -4176,20 +4088,12 @@
       "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Africa&hl=en&gl=ZA&ceid=ZA:en"
     },
     {
-      "title": "スクエニ・吉田直樹氏が「クリエイティブスタジオ3」で開発中の新作タイトル2本を“もうすぐ発表できるかも”と海外メディアのインタビューで明かす―SNSでは『FF9』リメイクを望む声も - インサイド",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5RUXpBb1FOa1pEczVzWWh5OVdDSDUzNlNkbFZFS1ZrQ0VKSWFFV25GdTdwcVB3U2QzbDhNYzdyWTJzUVNzQlhlSG81OS1mMVpzM1RMRE5CMmUyTXZtcHhqTm1hdWlUVXpfOWc?oc=5",
-      "source": "インサイド",
-      "published_at": "2024-06-07T07:00:00+00:00",
-      "summary": "スクエニ・吉田直樹氏が「クリエイティブスタジオ3」で開発中の新作タイトル2本を“もうすぐ発表できるかも”と海外メディアのインタビューで明かす―SNSでは『FF9』リメイクを望む声も    インサイド",
-      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA&hl=ja&gl=JP&ceid=JP:ja"
-    },
-    {
       "title": "スクエニ・吉田直樹氏が「クリエイティブスタジオ3」で開発中の新作タイトル2本を“もうすぐ発表できるかも”と海外メディアのインタビューで明かす―SNSでは『FF9』リメイクを望む声も - GameBusiness.jp",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE12V3NNOUNfb25lbHpiTVNCc2Y2bGJsMXFoZzV0el90MjJpNk9Sb0pDb29WOU5tcnBBLXRfUXA5UnRwenpWdzVlaXlxVExmM2hrSWs4NXRhc1dtNVIteHRzS0ZuN0d1Qkp5?oc=5",
       "source": "GameBusiness.jp",
       "published_at": "2024-06-07T07:00:00+00:00",
       "summary": "スクエニ・吉田直樹氏が「クリエイティブスタジオ3」で開発中の新作タイトル2本を“もうすぐ発表できるかも”と海外メディアのインタビューで明かす―SNSでは『FF9』リメイクを望む声も    GameBusiness.jp",
-      "feed_url": "https://news.google.com/rss/search?q=%E6%B5%B7%E5%A4%96%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA&hl=ja&gl=JP&ceid=JP:ja"
+      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
       "title": "国際的な新作ゲーム発表イベント「Summer Game Fest 2024」の同時通訳つき生放送が6月8日朝6時から配信決定 - 電ファミニコゲーマー",
@@ -4206,14 +4110,6 @@
       "published_at": "2024-06-03T07:00:00+00:00",
       "summary": "Best Games From Eastern European Developers, Ranked    GameRant",
       "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Eastern%20Europe&hl=en&gl=PL&ceid=PL:en"
-    },
-    {
-      "title": "カプコン、新作スマホゲーム『モンスターハンターパズル アイルーアイランド』を6月27日に配信決定！事前登録の受付開始！ - gamebiz【ゲームビズ】",
-      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1CZzRnWVRCeElTaW9CVWpjeTVDb2U4cFlBUDJ1X2VkUVN1RjgwRG1oaUkxVTg5N3lQNjV0alZqdWZzQzF0?oc=5",
-      "source": "gamebiz【ゲームビズ】",
-      "published_at": "2024-06-03T06:02:14+00:00",
-      "summary": "カプコン、新作スマホゲーム『モンスターハンターパズル アイルーアイランド』を6月27日に配信決定！事前登録の受付開始！    gamebiz【ゲームビズ】",
-      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
       "title": "『OneShot』クリエイターによる新作ゲーム『Margin of the Strange』が発表 - 電ファミニコゲーマー",
@@ -4240,6 +4136,14 @@
       "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Eastern%20Europe&hl=en&gl=PL&ceid=PL:en"
     },
     {
+      "title": "【ブレイクマイケース】配信日と事前登録情報｜最新情報｜BREAK MY CASE - AppMedia",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBhYzBOU1A0c1NHV2JzM0FxNk5RNXlZTm1MR05vZkV2ZTJuZFRSaDg4eWpUNDhHQkJnbVB2NmpNc1RQMzlYdDJLQWlHbF8?oc=5",
+      "source": "AppMedia",
+      "published_at": "2024-05-09T07:00:00+00:00",
+      "summary": "【ブレイクマイケース】配信日と事前登録情報｜最新情報｜BREAK MY CASE    AppMedia",
+      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
       "title": "A Filipino-developed mobile game about plantita life has been featured in one of Google’s grants for indie game development. - facebook.com",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdW15YXF1Mkhsbk1RbVVJU21HWnFWalhSYm1SUHZSX3hEWmY0MmtQSkY1Yy1QeWxHZVhkeDhaTWJXaUQwZ1VRZnJ3cHhjd0Ewb0dGQ2dpc3lRUWFxSk03VG11T3I1aXZPa3hWbTBBS01iRmhCMUpCX0FsdkNDcE1FYnlTRWJJMmRyRFJqcXJTVWF4VUpKR0plb0lfX3B4RkpSaUVUMko3UUVFbmVwek9jTWl0RTFOc2prekRvUU1HeXN2Wlg2QzZxbm9OdHVVLXNHZkZhd2hR?oc=5",
       "source": "facebook.com",
@@ -4254,14 +4158,6 @@
       "published_at": "2024-05-06T07:00:00+00:00",
       "summary": "お仕事パズルアクション『Good Job!』の開発元が閉鎖へ。会社の支出に見合った仕事を獲得できなかったとして    AUTOMATON",
       "feed_url": "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA&hl=ja&gl=JP&ceid=JP:ja"
-    },
-    {
-      "title": "インディーゲームの祭典「TOKYO SANDBOX2024」6月22日開催へ。100タイトル以上のインディーゲームが出展され試遊できるオフラインイベント - AUTOMATON",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8wUXp2SjhrSDIyc0ZOX05EN1UweHRfT0E4V0NqMlgxTDNCV3Z0RENFUnBEdERxYWt6NVIyMlFiYm5zelgzbEEtbm9hUVFFWmFzZmwyZmF5R1pwdGJoTlY4WnlobndfNGxQRHBZRw?oc=5",
-      "source": "AUTOMATON",
-      "published_at": "2024-04-26T07:00:00+00:00",
-      "summary": "インディーゲームの祭典「TOKYO SANDBOX2024」6月22日開催へ。100タイトル以上のインディーゲームが出展され試遊できるオフラインイベント    AUTOMATON",
-      "feed_url": "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
       "title": "ベテランゲーム開発者集うスタジオ、新作発表と同時に「開発中断」も発表。デモ版に“最後の望み”を託す - AUTOMATON",
@@ -4464,14 +4360,6 @@
       "feed_url": "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
-      "title": "アニメ『ハイキュー!!』の新作スマホゲーム『ハイキュー!!FLY HIGH』が配信決定！ 登録人数で豪華特典もある事前登録がスタート - 電撃オンライン",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBDdXFGYlNvNVpLM096a1VmcmFBNXJxdE9oc3BZZG1LcDNzUXhIMnA2bzd2eGNaMWhNTkRSbkNhZ3hrZ3BsODhNMU82UEp3YzU4VE9PcQ?oc=5",
-      "source": "電撃オンライン",
-      "published_at": "2024-01-12T08:00:00+00:00",
-      "summary": "アニメ『ハイキュー!!』の新作スマホゲーム『ハイキュー!!FLY HIGH』が配信決定！ 登録人数で豪華特典もある事前登録がスタート    電撃オンライン",
-      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja"
-    },
-    {
       "title": "【事前登録】懐かしのビックリマンがスマホゲーム化！『ビックリマン・ワンダーコレクション』2024年配信決定 - ファミ通",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9QVWhMdkU3bk93dDQtbVdBT3MxOUlDeXh2NGNvWmhvb2QyVnJvTk5jaXpTclVvclpPMVVHR2MyRjQ3ckZzYkUtZlBRNWo3T0hrOXRV?oc=5",
       "source": "ファミ通",
@@ -4518,14 +4406,6 @@
       "published_at": "2023-12-04T08:00:00+00:00",
       "summary": "OPINION | GAME ON: Tense, top-down survival game ‘ZERO Sievert’ challenging even in rookie mode    Northwest Arkansas Democrat-Gazette",
       "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Eastern%20Europe&hl=en&gl=PL&ceid=PL:en"
-    },
-    {
-      "title": "ByteDance restructures Nuverse in retreat from game development and publishing - Niko Partners",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOVVRWFRKQUpfQnNCVWZUZ1FHYjhxbU9nQTdDaVZmekwxS204MTg0NGMyS29mTlk2MUtNVUFfd0pGQkNYSnNzSURCT0RITEI0NmRQanpmNXVfV2RtaXJ2QTduRTllVEpfV2dGc0pOd2dkMkh1bTNLVnpKWDJLSHZZQ2xrZEN2aHZkOEFsQW1fTk1Yd21IQWR0dHh2VGlncjh6b3lJMEpsTQ?oc=5",
-      "source": "Niko Partners",
-      "published_at": "2023-12-04T08:00:00+00:00",
-      "summary": "ByteDance restructures Nuverse in retreat from game development and publishing    Niko Partners",
-      "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Southeast%20Asia&hl=en-SG&gl=SG&ceid=SG:en"
     },
     {
       "title": "Pixel Mafia is Cultivating a Brand-New Generation of Filipino Game Developers - Lifestyle.INQ",
@@ -4680,6 +4560,14 @@
       "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20India&hl=en-IN&gl=IN&ceid=IN:en"
     },
     {
+      "title": "可愛いケモモとミラティブ上で遊べる新作ライブゲーム【ケモモレース】事前登録キャンペーン開催中☆公式アカウントをフォロー＆リポストすると１１回レアガチャ券もらえる！？ - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1KNTVTMnBLSkpHREJaOWNJQ1JZNWpscWZ0cWdDQmVjU21hZjdiNzVoRnZCRHRaSGYxb2Z3YVU1c3l3bzdWWHUxdmdTWklLdFJWUi1rT2FJRUxyOHB4LTUyWFFjSUNTd2tRTEE?oc=5",
+      "source": "PR TIMES",
+      "published_at": "2023-08-19T07:00:00+00:00",
+      "summary": "可愛いケモモとミラティブ上で遊べる新作ライブゲーム【ケモモレース】事前登録キャンペーン開催中☆公式アカウントをフォロー＆リポストすると１１回レアガチャ券もらえる！？    PR TIMES",
+      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
       "title": "Vietnam emerges as gaming powerhouse - Tuoi Tre News | The News Gateway to Vietnam",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1fX3FpX0U0emFoUm5JVkhVUThpR3hEdzVXNkg2ZjhBaEc1eGk2X0pEUHNZVE5GclVRUHlUVWN4eEVyXzI3a0RaX29IUlM3Q3dNcS1RbW5FWXY1OEp4Nm91ZTJrWXk0cFdtS05QMXRyTTg5T2tZZmMtRjhmNlFFQQ?oc=5",
       "source": "Tuoi Tre News | The News Gateway to Vietnam",
@@ -4758,14 +4646,6 @@
       "published_at": "2023-06-21T07:00:00+00:00",
       "summary": "Investors train eyes on African youth with gaming campuses    The Independent Uganda",
       "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Africa&hl=en&gl=ZA&ceid=ZA:en"
-    },
-    {
-      "title": "バンダイナムコグループがインディーゲームクリエイターを全力サポート！インディーゲームクリエイターに向けたコンテスト「第2回GYAAR Studio インディーゲームコンテスト」開催！ - PR TIMES",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1yVUc2ZFBZVkd5ak1kZ3hzNWlqT1dSTmszVU9ZWjdSSHdpQmllNjd2azNjLXk1bl9MTzl3bEFUQ2UtektVbmRsVGU0a0FVbHFXTXlRUFFpSzQ4Ni1qbWJENm5GSHBLanJTbHc?oc=5",
-      "source": "PR TIMES",
-      "published_at": "2023-05-25T07:00:00+00:00",
-      "summary": "バンダイナムコグループがインディーゲームクリエイターを全力サポート！インディーゲームクリエイターに向けたコンテスト「第2回GYAAR Studio インディーゲームコンテスト」開催！    PR TIMES",
-      "feed_url": "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
       "title": "The post-console future: where Xbox is looking for its next big hit | Games - The Guardian",
@@ -4864,14 +4744,6 @@
       "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Southeast%20Asia&hl=en-SG&gl=SG&ceid=SG:en"
     },
     {
-      "title": "JAPANから世界へ！ 世界No1.サッカークラブを目指せ 『プロサッカークラブをつくろう! ロード・トゥ・ワールド』本日配信開始！！ “事前登録キャンペーン第二弾”達成特典として全員に「小野伸二選手」プレゼント - sega.jp",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE01YUZUemN6R1c0UlVHb0JONDAzdmZUVVB5V05XZlY2blJmMGFwc05pWWYwaFU2ejNlbEdiLTNIUG9jR0FrNjFWQjZyM3A1Q2YyNGw4Y3B0cU45c1Fn?oc=5",
-      "source": "sega.jp",
-      "published_at": "2023-02-22T06:41:17+00:00",
-      "summary": "JAPANから世界へ！ 世界No1.サッカークラブを目指せ 『プロサッカークラブをつくろう! ロード・トゥ・ワールド』本日配信開始！！ “事前登録キャンペーン第二弾”達成特典として全員に「小野伸二選手」プレゼント    sega.jp",
-      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja"
-    },
-    {
       "title": "The Shifting Paradigms of Asia’s Video Game Industry - Global X ETFs",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQeWFrSjFsX3ZDUEVXQ29kUUV2c0JJcFZ4UzBGUzlWdkNJLU9DY0F3dmhMOWU1Wk5wUm1qZlhTZmJFZFp1N21saUpOb3haelFoUndfcEhKWmZSY3hmWC1tRFpTRy1sMlVNVXNLY2I3TU52RWpXMVIwd0E1ZXMyVkctaFdYOU83YnFwWGxQVHc1dDZibW8?oc=5",
       "source": "Global X ETFs",
@@ -4885,14 +4757,6 @@
       "source": "GameWith",
       "published_at": "2023-01-20T08:00:00+00:00",
       "summary": "牧場物語MOBILEの配信日と事前登録情報    GameWith",
-      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja"
-    },
-    {
-      "title": "正規版スマホゲーム スラムダンクの配信日と事前登録情報 - GameWith",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5KeDlfNVExc1lOZl8xNGZNcFFGMW14S0RwN1VvWFFQTmlGa0pmM1g2WXpDaWpMWHBEbFIxbHpMdGs5eE5WekE?oc=5",
-      "source": "GameWith",
-      "published_at": "2023-01-20T08:00:00+00:00",
-      "summary": "正規版スマホゲーム スラムダンクの配信日と事前登録情報    GameWith",
       "feed_url": "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
@@ -4952,14 +4816,6 @@
       "feed_url": "https://news.google.com/rss/search?q=%E6%B5%B7%E5%A4%96%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
-      "title": "バンダイナムコスタジオのインディーゲームレーベル「GYAAR Studio」主導！インディーゲームクリエイターに向けたコンテスト「第1回GYAAR Studio インディーゲームコンテスト」開催！ | 株式会社バンダイナムコエンターテインメントのプレスリリース - PR TIMES",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8wTlgtSkIwWTdUNnBud1pLSm5WSllEcDZIb3JCRWhGSWQtN1JZSlR3ZmVuT0R0b2IzdUpRckpaVVhGa3JwMF9XVUJUSXR3VkR3Y05CaVRNdVdYa1J0dkVkNDhVX0dQYmFGblE?oc=5",
-      "source": "PR TIMES",
-      "published_at": "2022-11-13T08:00:00+00:00",
-      "summary": "バンダイナムコスタジオのインディーゲームレーベル「GYAAR Studio」主導！インディーゲームクリエイターに向けたコンテスト「第1回GYAAR Studio インディーゲームコンテスト」開催！ | 株式会社バンダイナムコエンターテインメントのプレスリリース    PR TIMES",
-      "feed_url": "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja"
-    },
-    {
       "title": "支援金総額最大1億円！ バンダイナムコが大規模なインディーゲームコンテストを開催する目的に迫る独占インタビュー！ - ファミ通",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Bc0RMUzZHM0hjUFF0NHpla3JkTGhzS3Z3emQxRkxIXzZIcG9BUFVLdWJXb1B5VVhVNDBaMUVGbndsdjBqTEM3cDBYakgycXpqWGJyZHU3TEVHR2xiZEE?oc=5",
       "source": "ファミ通",
@@ -4968,12 +4824,12 @@
       "feed_url": "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
-      "title": "イマジニア、新作スマホゲーム『すみすみパーティーころころパズル』を22年12月に配信決定！ 事前登録開始！ サンエックスオールキャラが登場！ - gamebiz【ゲームビズ】",
-      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1qMjdPMk1YZTBUWU1CcWtOdDc0ejY1ay1rT3Q2NWtsQmppTi1DX253THZNQWpwZkFoU2xUU1phVHhrY0Fu?oc=5",
-      "source": "gamebiz【ゲームビズ】",
-      "published_at": "2022-11-10T10:30:53+00:00",
-      "summary": "イマジニア、新作スマホゲーム『すみすみパーティーころころパズル』を22年12月に配信決定！ 事前登録開始！ サンエックスオールキャラが登場！    gamebiz【ゲームビズ】",
-      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja"
+      "title": "バンダイナムコスタジオのインディーゲームレーベル“GYAAR Studio”主導のゲームコンテストが開催決定。入賞者には総額最大1億円の支援金を贈呈 - ファミ通",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9pTlVweS1ZbXVGVjg3bzdjTndYT2g3Um5uWkZkUUdxWkp4VmdzVUlzc1E5cmVvYmZ1dmJBWnQyWHp2UWxOeGFYSkVYdXlaaTlYcGN4Z2dvTS1qRHFJNHc?oc=5",
+      "source": "ファミ通",
+      "published_at": "2022-11-13T08:00:00+00:00",
+      "summary": "バンダイナムコスタジオのインディーゲームレーベル“GYAAR Studio”主導のゲームコンテストが開催決定。入賞者には総額最大1億円の支援金を贈呈    ファミ通",
+      "feed_url": "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
       "title": "VALORANT's First-Ever Indian Character Is Paving A Path Beyond Tokenism In Video Games - homegrown.co.in",
@@ -4989,6 +4845,14 @@
       "source": "AUTOMATON",
       "published_at": "2022-11-08T08:00:00+00:00",
       "summary": "『モンスターハンター』新作ゲームアプリ開発発表。テンセント傘下スタジオTiMiとカプコンがタッグ    AUTOMATON",
+      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "title": "『ファンキル』『タガタメ』を手掛けるgumiの開発スタジオFgGより新作『アスタータタリクス』発表、2023年配信 - ファミ通",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1QWGZ4X0FXQW5lRHUxTk9XbjYxNk5KWF92Y3VncHhCUE5OY1A1RkV5NVdIUmRLcG1wQXA5LXlUSjFpdmgwR3B1cWx2eWNmMmkxT3lB?oc=5",
+      "source": "ファミ通",
+      "published_at": "2022-11-07T08:00:00+00:00",
+      "summary": "『ファンキル』『タガタメ』を手掛けるgumiの開発スタジオFgGより新作『アスタータタリクス』発表、2023年配信    ファミ通",
       "feed_url": "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
@@ -5014,14 +4878,6 @@
       "published_at": "2022-10-25T07:00:00+00:00",
       "summary": "ESGS, the PH’s premier annual game convention, makes face-to-face return on October 28    Rappler",
       "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Philippines&hl=en-PH&gl=PH&ceid=PH:en"
-    },
-    {
-      "title": "『ブラック★ロックシューター FRAGMENT』の配信日が11月24日に決定 - 電ファミニコゲーマー",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0tSzh5Zk1qUERtWDM3R2E5YmZXVTlldHFReHhYckNZMjM4X1BxcEVsb2pZcmpZaC1jZThBYWZDQWloTGJuaGR1VVpMVWlZVmJFZjhZT184WXo?oc=5",
-      "source": "電ファミニコゲーマー",
-      "published_at": "2022-10-24T07:00:00+00:00",
-      "summary": "『ブラック★ロックシューター FRAGMENT』の配信日が11月24日に決定    電ファミニコゲーマー",
-      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
       "title": "The Collective Ace Group announces addition of two new gaming studios from Asia and Eastern Europe - ThePrint",
@@ -5064,14 +4920,6 @@
       "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Africa&hl=en&gl=ZA&ceid=ZA:en"
     },
     {
-      "title": "Gamescom Asia Speaker Lineup Highlights Key Figures in Southeast Asia’s Game Industry - IGN Southeast Asia",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPS3Q2LUEwcTR4SzMzY053b1ZtOC1hT1FqM0d2Y0FLVWNhQUdfR1p4UHNIVjE4VElOWnh0cUZucVVuSTNDbnBnMzdNZFFTbUdCekJRMWpzRWJuMktfcG12RXpDUzlwQkF4ZzQyQlFRdlBrQ2xteVVoRVJHSFdFU3RzNWpDc1JYOExPY1Zkb3pjMGdlZ0dXRjMyWlpLb3RxWTlhTjJ2alVaTzJEaUlWZndDVVp1Wm9xLXVYa2w1LW1BQ09vNGhscHQ5SEd3?oc=5",
-      "source": "IGN Southeast Asia",
-      "published_at": "2022-07-28T07:00:00+00:00",
-      "summary": "Gamescom Asia Speaker Lineup Highlights Key Figures in Southeast Asia’s Game Industry    IGN Southeast Asia",
-      "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Southeast%20Asia&hl=en-SG&gl=SG&ceid=SG:en"
-    },
-    {
       "title": "Krafton invests over $100M in India, expands beyond games - TechCrunch",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUTY5cU5WN29LN015R1Q0VTBhMlNERzdFUTU0U1dCS2cwWHVXQnFGMl9xcFRaWDBocjIxYUhCRGVUQUdob2UzVUJkZm9MUWVpSGYzWEFMS3B6MWZ4R0cweUtybFFpQWhNeGVCTnVmMDVFRDRUQ0RMOVV6Z3BsenBqcWdDd0hPbTlrWFJUd2s1dXEwY3hCYXM4TUR4MnNBb0lXd3hvOWhZenMzZXFOVXFLUjJ3?oc=5",
       "source": "TechCrunch",
@@ -5094,6 +4942,14 @@
       "published_at": "2022-07-20T07:00:00+00:00",
       "summary": "African video game makers are breaking into the global industry with their own stories    qz.com",
       "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Africa&hl=en&gl=ZA&ceid=ZA:en"
+    },
+    {
+      "title": "ビットサミット クロスロードの出展インディーゲームタイトルが発表。豪華ゲストが集う、ステージコンテンツなども明らかに - ファミ通",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1LZ1NBOTcyRFZPd0Z2MWE0bkZ0VlBZSXVTN04za3pJU0xhQ2lVY19mM3h2YktCbUZudnRJdUlFdnFlNWRWczJxc24tM1k4UlRxQnpDR0IybEJpQ1JPSkE?oc=5",
+      "source": "ファミ通",
+      "published_at": "2022-07-13T07:00:00+00:00",
+      "summary": "ビットサミット クロスロードの出展インディーゲームタイトルが発表。豪華ゲストが集う、ステージコンテンツなども明らかに    ファミ通",
+      "feed_url": "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
       "title": "The rise of the video game Arab hero - BBC",
@@ -5165,7 +5021,7 @@
       "source": "ITmedia",
       "published_at": "2022-03-31T07:00:00+00:00",
       "summary": "新会社「集英社ゲームス」始動 新作タイトルも複数発表 集英社のノウハウ、人材も活用    ITmedia",
-      "feed_url": "https://news.google.com/rss/search?q=%E6%B5%B7%E5%A4%96%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA&hl=ja&gl=JP&ceid=JP:ja"
+      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
       "title": "Xbox Game Pass Finally Coming to Indonesia, Malaysia, Philippines, Thailand and Vietnam - IGN Southeast Asia",
@@ -5174,6 +5030,14 @@
       "published_at": "2022-03-29T07:00:00+00:00",
       "summary": "Xbox Game Pass Finally Coming to Indonesia, Malaysia, Philippines, Thailand and Vietnam    IGN Southeast Asia",
       "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Philippines&hl=en-PH&gl=PH&ceid=PH:en"
+    },
+    {
+      "title": "『GhostWire: Tokyo』などに携わったゲームクリエイター中村育美が新ゲームスタジオ「Unseen」を設立 新スタジオにかける想いをIGN独占インタビュー - IGN Japan",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxMXk5TFJyM2NZdFdsQTY1UjFwZHJQTXZnczZBVnZVN05NUEdZR0pYbThvcXppakZXbjZhYlk2Qmt4eDRXVkRBMkpLUV84QS1xMkNKVnlmZVA2dw?oc=5",
+      "source": "IGN Japan",
+      "published_at": "2022-03-10T08:00:00+00:00",
+      "summary": "『GhostWire: Tokyo』などに携わったゲームクリエイター中村育美が新ゲームスタジオ「Unseen」を設立 新スタジオにかける想いをIGN独占インタビュー    IGN Japan",
+      "feed_url": "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
       "title": "The rise of India-made and India-centric video games pushes ‘play’ on representation - The Hindu",
@@ -5208,11 +5072,11 @@
       "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Eastern%20Europe&hl=en&gl=PL&ceid=PL:en"
     },
     {
-      "title": "バンダイナムコスタジオ，インディーズゲームレーベル「GYAAR Studio」を設立。第1弾タイトル「Survival Quiz CITY」を発表 - 4Gamer.net",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBPUGdIYkI2YnF1Q2NyeWpkQndmdTlKOGR1LU9VeFdHbVZoSGt1bk9jUllaeUZvR0NSSi1qSHNUWTZidzg0dFVUd3N0T0t3R0lZcGhQRjlKaUlZNEtHdld3QlNFTQ?oc=5",
-      "source": "4Gamer.net",
-      "published_at": "2021-10-15T07:00:00+00:00",
-      "summary": "バンダイナムコスタジオ，インディーズゲームレーベル「GYAAR Studio」を設立。第1弾タイトル「Survival Quiz CITY」を発表    4Gamer.net",
+      "title": "アヒル好き開発者による好きなアヒルが作れる『Duck Creator』―Steamページには世界中のアヒル好きが【開発者インタビュー】 - GameBusiness.jp",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9RTnFoUjBuUjZNaHA4ZWNrNzJLMXZZLXN6Sy0wTlk5TEN2bndMa1ozSnFaQ0k1bEJfd0JBTjB2ZUhfdU1YQkljd0N0MFZPdGdCR05QaHRFVENhRm9RaVVLenY4dXItblFo?oc=5",
+      "source": "GameBusiness.jp",
+      "published_at": "2021-11-15T08:00:00+00:00",
+      "summary": "アヒル好き開発者による好きなアヒルが作れる『Duck Creator』―Steamページには世界中のアヒル好きが【開発者インタビュー】    GameBusiness.jp",
       "feed_url": "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
@@ -5238,6 +5102,14 @@
       "published_at": "2021-09-10T07:00:00+00:00",
       "summary": "In China, Singapore and South Korea, gaming’s dark side put under spotlight    South China Morning Post",
       "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Southeast%20Asia&hl=en-SG&gl=SG&ceid=SG:en"
+    },
+    {
+      "title": "Steamでの度重なる返金により次作開発を断念―インディホラー『Summer of '58』開発スタジオが発表 - GameBusiness.jp",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BV29QcGxMN2M3Z0ZUdFVPOG9ianYyVXp6UGdlbTdrbXN0UzhITW1nVG9CMlJucWN5d2JwY1VYZEZxR3JERldQSEtKbGVNQThINEJaZzdxcmJiVVZHdHA2WFZpa0tZX283?oc=5",
+      "source": "GameBusiness.jp",
+      "published_at": "2021-08-30T07:00:00+00:00",
+      "summary": "Steamでの度重なる返金により次作開発を断念―インディホラー『Summer of '58』開発スタジオが発表    GameBusiness.jp",
+      "feed_url": "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
       "title": "「作りたいものを作る、作れる！」SIE・吉田修平氏がインディーゲームの意義を語る - GAME Watch",
@@ -5277,14 +5149,6 @@
       "source": "gamebiz【ゲームビズ】",
       "published_at": "2021-07-29T07:37:27+00:00",
       "summary": "コーテク、「北斗の拳」の新作スマホゲーム『真・北斗無双』にてストアでの事前登録を開始 無料LINEスタンプ配信＆PV公開    gamebiz【ゲームビズ】",
-      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja"
-    },
-    {
-      "title": "スクエニ、新作スマホゲーム『プロジェクト東京ドールズ』を発表！ 本日よりティザーサイトを公開、事前登録も開始 配信は2017年6月中の予定 - gamebiz【ゲームビズ】",
-      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9tb1JlUmtoXzRUZDgtSWt5YkN1Wk9rQ0M1ZXVOaFk1S1Y4Uzh5TG15TGpwZFM4Tkprb3N3REVBcDVmYWk5?oc=5",
-      "source": "gamebiz【ゲームビズ】",
-      "published_at": "2021-07-28T06:24:19+00:00",
-      "summary": "スクエニ、新作スマホゲーム『プロジェクト東京ドールズ』を発表！ 本日よりティザーサイトを公開、事前登録も開始 配信は2017年6月中の予定    gamebiz【ゲームビズ】",
       "feed_url": "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
@@ -5344,6 +5208,14 @@
       "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Philippines&hl=en-PH&gl=PH&ceid=PH:en"
     },
     {
+      "title": "ファイアーウォーク・スタジオ、プレイステーションで新作マルチプレイヤー・ゲームを開発 - NME Japan",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5XOTlJZElkTlJYc0lSbEktS29mV0ctRGptTXFXVXNkU2F5LURqeTBzc3ZBT3drcjZORjJ3LWZCcFI0Q2pZY1paMFM1Yw?oc=5",
+      "source": "NME Japan",
+      "published_at": "2021-04-26T07:00:00+00:00",
+      "summary": "ファイアーウォーク・スタジオ、プレイステーションで新作マルチプレイヤー・ゲームを開発    NME Japan",
+      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
       "title": "ByteDance-Tencent feud a boon to small gaming studios - South China Morning Post",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWDk3dzMzNGxDd09aNG1XRVNHMElWVlVUU0d2dTVaUkxyLWwzVnJ2d205UzlaXzNmWnk1bldWdElQQTBHdFdocFRqNmpWbmd3QjU3c3hnOUpEa1R6Ql9SMkJyVEV0SlJZNEdaSWo1OGlFTkV1S2JpZmthbXRDV0JSa2g3OE5LblZVeFBVdWdLdWphcUtBREN4QlQ1NnRzaEdxNTFOR3dzU0hHSk1yLXRUZ1ZMcWdnWV9BanM00gG7AUFVX3lxTE9MZ1RqMWtiLURZUHlwelI2SDUwQ0FYYkxBMVdSYjBDSGs1SXFxSkIwWUZoY3FhcFAyd1pGVUh2OTVVMGZPNENFVnVJZkdKeTVfdUlyRXJfWmdYbnNrb2VCVUFTUEg5LWJNUlU4ejBvcjQ4NW1ET3NLSXo1andBTVV1Wk9BM1hGZkY2TVVXWU1VVjNUVlJ5RUtveko4T3BaMGZOYno1LVMzcVc5WlVta3ZuS0kyLXFELVhVNk0?oc=5",
       "source": "South China Morning Post",
@@ -5382,6 +5254,14 @@
       "published_at": "2021-03-21T07:00:00+00:00",
       "summary": "ByteDance acquires gaming studio Moonton at around $4 billion valuation: sources    Reuters",
       "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Southeast%20Asia&hl=en-SG&gl=SG&ceid=SG:en"
+    },
+    {
+      "title": "新作スマホゲーム『FAIRY TAIL ギルドマスターズ』の制作を発表！事前登録はまもなく開始 - ASCII.jp",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5YVzdETXJfR0czeENFOWpCaFF4U1JUNno5WlcxV3pTTko3WjB2UWRibHh5TWhRWVh4VW1ZRFVmanluNkREWnFidzNEb0dSdlVVb0Y4Vw?oc=5",
+      "source": "ASCII.jp",
+      "published_at": "2021-03-19T07:00:00+00:00",
+      "summary": "新作スマホゲーム『FAIRY TAIL ギルドマスターズ』の制作を発表！事前登録はまもなく開始    ASCII.jp",
+      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
       "title": "Local CGI Art Studio Lemon Sky Accused Of Overworking Staff Without Pay - says.com",
@@ -5424,12 +5304,36 @@
       "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Africa&hl=en&gl=ZA&ceid=ZA:en"
     },
     {
+      "title": "事前登録3周年は回避！　スマホゲーム「ウマ娘 プリティーダービー」のリリース日決定　「待ってた」「ようやく」 | ねとらぼ - ねとらぼ",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1DeWFFMzdHcXRpcUJKNUNRamRzNEVXSDByT0REbkhKUDZiZzFhNThFZHhiOGFZNFo1NWlXV1JpWlN6WFREZVBaTzFGV3pkR1pFMi1yd0RRdmQ3UU5LcVHSAWNBVV95cUxOenk2MG1OeVlqNXNQeWRUZmpGd3hwZ3ZZaEoyMndxdFJlUkNQVEpaSC1ybExNVTB3VkNYbk01ejFKNTdfUUg3T1JOOG1Wcl9IZVpNenZQOVo5YWtTdEtTaV80Yms?oc=5",
+      "source": "ねとらぼ",
+      "published_at": "2020-12-20T08:00:00+00:00",
+      "summary": "事前登録3周年は回避！　スマホゲーム「ウマ娘 プリティーダービー」のリリース日決定　「待ってた」「ようやく」 | ねとらぼ    ねとらぼ",
+      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
       "title": "スピード感溢れる宇宙ドッグファイトSTG『Redout: Space Assault』来年1月22日リリースへ。反重力レースゲーム『Redout』開発元による新作 - AUTOMATON",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE81ak1lVUVPUkQtaUFwbGhLdnpSNnJDdGlUdFFVbFVsSG5KM0VIaVdPenVTSkVCT0hoSWtEVGxnR3pTQmNtS2UyUjJBRHpxdVlVSGdIVFlHUVM1MlBCVzVZRDlnMkRHRXZEZmV2Qg?oc=5",
       "source": "AUTOMATON",
       "published_at": "2020-12-17T08:00:00+00:00",
       "summary": "スピード感溢れる宇宙ドッグファイトSTG『Redout: Space Assault』来年1月22日リリースへ。反重力レースゲーム『Redout』開発元による新作    AUTOMATON",
       "feed_url": "https://news.google.com/rss/search?q=%E6%B5%B7%E5%A4%96%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "title": "『ドーントレス』開発元Phoenix Labsが2つの新スタジオ設立―新作ゲームを開発へ - GameBusiness.jp",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE95VkdjX3pqNGVnZkNpenptX0I4SE1oazJ3cVVSQ0hoelJNN1JDYTBEeThSbDdqQUFmYkI1TVV5VFBQU0xkS1YzQjZyMG1ESm84UFlhV3dINzNxYWxkZzJZRzdLQVRTaHpL?oc=5",
+      "source": "GameBusiness.jp",
+      "published_at": "2020-12-03T08:00:00+00:00",
+      "summary": "『ドーントレス』開発元Phoenix Labsが2つの新スタジオ設立―新作ゲームを開発へ    GameBusiness.jp",
+      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "title": "ミニモレーシング2日本配信決定！11月13日から事前登録開始 - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBpUEhXaU45RzdNUUFyckJOQjU0THl3V0dlZUEwWVNyUEJWMkgzMEdWamRvWXI3TmI5ZXM1ci0wMDdNX092bVNHWjNzeTdERW96LU9RVkhNejhQLUY5RXpiUTBsZUxnRWxPU1E?oc=5",
+      "source": "PR TIMES",
+      "published_at": "2020-11-13T08:00:00+00:00",
+      "summary": "ミニモレーシング2日本配信決定！11月13日から事前登録開始    PR TIMES",
+      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
       "title": "ヴァンパイア・バトルロイヤルゲームが、テンセント傘下スタジオで開発中。「Vampire: The Masquerade」IP作品 - AUTOMATON",
@@ -5440,28 +5344,12 @@
       "feed_url": "https://news.google.com/rss/search?q=%E6%B5%B7%E5%A4%96%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
-      "title": "【事前登録】大人気ボクシングマンガのスマホゲーム最新作が登場！『はじめの一歩 FIGHTING SOULS』11/18配信決定 - ファミ通",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5LcUNoZ1p1UU9sRDBHVlhzeWFhR0tNanVXdGxNTnFlTzNmdEV1T0JhQXo4QVIyelhpSHdNSE5Fck9IekV1eFd4MjJFMWc5VDI3RjQw?oc=5",
-      "source": "ファミ通",
-      "published_at": "2020-10-30T07:00:00+00:00",
-      "summary": "【事前登録】大人気ボクシングマンガのスマホゲーム最新作が登場！『はじめの一歩 FIGHTING SOULS』11/18配信決定    ファミ通",
-      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja"
-    },
-    {
       "title": "5Qs with Ubisoft Singapore on gaming and Assassin's Creed Valhalla - The Business Times",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZXJkdTlYa0I1RVd4WWdEOENQaXpzNU9OcXJ5UWtPeWNWTm5PRWc2VEhqYzZfZDBwTEVzVWRxaTFVMmx1ZkxibU0yYkd6SEVhT0FlRTcyMG4wWHNicXltQkdjZ3hLbTRhbVh1bGI3ZnppVkJfR2NYM0xaRGluZGlvMHQ2TzdmU2dkY0dlX1pmbnRjdU5iTlZpZXlUZURHRHpEZkNFU0JiRVZZRFhldVRZ?oc=5",
       "source": "The Business Times",
       "published_at": "2020-10-29T07:00:00+00:00",
       "summary": "5Qs with Ubisoft Singapore on gaming and Assassin's Creed Valhalla    The Business Times",
       "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Southeast%20Asia&hl=en-SG&gl=SG&ceid=SG:en"
-    },
-    {
-      "title": "新作スマートフォン向けゲーム『スタースマッシュ』2020年11月16日（月）配信決定！ | 株式会社MIXIのプレスリリース - PR TIMES",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1rZHNkNmVPN0dINmQwZENldjFPZ1Zoa1Vralg2QVFsa09RNmwxa2JsS3FLQk1JcE4wa0FJdmQ0SUttcmtFNnpTbHJmVVlDLVhaeDhScXdEVVZDUHV4TTZzLUpHQzE0VWIxWGc?oc=5",
-      "source": "PR TIMES",
-      "published_at": "2020-10-29T07:00:00+00:00",
-      "summary": "新作スマートフォン向けゲーム『スタースマッシュ』2020年11月16日（月）配信決定！ | 株式会社MIXIのプレスリリース    PR TIMES",
-      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
       "title": "XFLAGが新作スマホゲーム『STAR SMASH』を発表！事前登録受付中‼ - Appliv Games",
@@ -5520,12 +5408,28 @@
       "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Southeast%20Asia&hl=en-SG&gl=SG&ceid=SG:en"
     },
     {
+      "title": "【新作情報】事前登録15万突破！中国人Pが語る放置系『無限放置物語』のこだわりとは？ - chinagamenews.net",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1UT2l3SmFIbUNKRDczbHlYSE5DbjZDbWtxczQ4RDZXenJSZ193aVN2R3V1VnJOd2p6NnNEOFlwM2JBWXJwZUozMTgxdDI0MVhsU3BQbw?oc=5",
+      "source": "chinagamenews.net",
+      "published_at": "2020-07-16T07:00:00+00:00",
+      "summary": "【新作情報】事前登録15万突破！中国人Pが語る放置系『無限放置物語』のこだわりとは？    chinagamenews.net",
+      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
       "title": "‘Nairobi X’ puts Kenya on world gaming map - The EastAfrican",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdG1oc25oYXJhY1BTU0phdDJIeEpaRnl0RU5LZ2stelZCc19hOEZCdUlKTmlHOVlCTnpkVW1NdzZwTDk4QUZMQ0szQ1ZxWkdvd1luSjlhRGJWSlZWNHZDRElETi1VYTFjc0NoNzFIVnc4NVlNdzRUOXQ3RXAxUDhGM0FuRHE4aHNGRkhnaTBOcHhoRk02SGlzSndPV0U?oc=5",
       "source": "The EastAfrican",
       "published_at": "2020-07-06T07:00:00+00:00",
       "summary": "‘Nairobi X’ puts Kenya on world gaming map    The EastAfrican",
       "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Africa&hl=en&gl=ZA&ceid=ZA:en"
+    },
+    {
+      "title": "Dies irae PANTHEON 配信日と事前登録の情報 - appget.com",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1HUEVvOTUxNTdfdzZTWWV1ZjVTRTh1Zjh6bU5PR3NtbUFoQXdLWjJ5b0lQdmdzLUVEVkE5SkM0dzNtZ093V3NpMmFObE1UbkpBQ3hj?oc=5",
+      "source": "appget.com",
+      "published_at": "2020-06-29T07:00:00+00:00",
+      "summary": "Dies irae PANTHEON 配信日と事前登録の情報    appget.com",
+      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
       "title": "Horror video game’s ghosts, demons from Indonesian folklore make it a hit - South China Morning Post",
@@ -5544,6 +5448,14 @@
       "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Southeast%20Asia&hl=en-SG&gl=SG&ceid=SG:en"
     },
     {
+      "title": "全世界から集まった150タイトル以上のインディーゲームを紹介！ ライブ配信情報番組「INDIE Live Expo 2020」が現在放送中 - ガジェット通信 GetNews",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5UZG1xV3hLa3ctY2NsMXFKb0dzcS1pOVB2TG5HVGJEbTloYlBqU2FJc1Eya1F5YjFSZ2F0RjJZMXVZZk03MmlGWU9kZw?oc=5",
+      "source": "ガジェット通信 GetNews",
+      "published_at": "2020-06-06T07:00:00+00:00",
+      "summary": "全世界から集まった150タイトル以上のインディーゲームを紹介！ ライブ配信情報番組「INDIE Live Expo 2020」が現在放送中    ガジェット通信 GetNews",
+      "feed_url": "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
       "title": "Four Companies Leading the Rise of Video Games & Esports - Global X ETFs",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOV9OSmZNMEprSXJlaVliaEVpek1qT2k0cWNZUV9oNkFfdEgzdTEydGRyTmY4X0JMSXZEU3ktZmRhZXA4NEZEekZ0bFRqcDY5dkxhR1ZDMXF6ZDF5RVY5aWwxb0hYaDhFMlowRlY1ZGg3UmF4bUhmb0VHUV9scloyQ3ZKeG5CZVhETTJQaFFTb09RcnZ6QnhN?oc=5",
       "source": "Global X ETFs",
@@ -5552,12 +5464,12 @@
       "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Southeast%20Asia&hl=en-SG&gl=SG&ceid=SG:en"
     },
     {
-      "title": "Poland’s CD Projekt beats out Ubisoft to become Europe’s most valuable gaming company - Emerging Europe",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRzNBUFc2bFVVQl95U2JxTEpRMktJY3EwbnpvUGRGa1hqUk1CVUk5TFZTS2xVSV90a3B5NEVWZWxERWFLS0Q2UW5oSGxvSWxxRUE3WU5MNkcyWkRZbHNHSFU4eXh3SFoyUkwyMkJ0OGxGeE1pQ05WaGNyNFhCUFVIZWItZDB1dzZlZC1xaWM4THlfZ3QwUUd4V25RTkEzOThpVU91UUFCVVJnd0ExVkhTRmpB?oc=5",
-      "source": "Emerging Europe",
-      "published_at": "2020-05-21T07:00:00+00:00",
-      "summary": "Poland’s CD Projekt beats out Ubisoft to become Europe’s most valuable gaming company    Emerging Europe",
-      "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Eastern%20Europe&hl=en&gl=PL&ceid=PL:en"
+      "title": "Summer Game Festを見るならTwitch - Twitch Blog",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNb1RVRXdVYVN3V1JDcnVtTlR0Rms4VmtNT0M0aVVaT0FCdl9tM1NNbGZuUnMyUGpEaG1WTlQ0SEY2UjVTTmR3RXYteFFjZ1RlM2xReDE0UTBoSDlIbHR4TnBFczJPU3lLNWdEbmJXblNHcHkyRlNvMzJ1dEI2WW5MVlI3Zw?oc=5",
+      "source": "Twitch Blog",
+      "published_at": "2020-05-27T07:00:00+00:00",
+      "summary": "Summer Game Festを見るならTwitch    Twitch Blog",
+      "feed_url": "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
       "title": "The gaming explosion in Southeast Asia - The ASEAN Post",
@@ -5584,6 +5496,14 @@
       "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Eastern%20Europe&hl=en&gl=PL&ceid=PL:en"
     },
     {
+      "title": "歴史ファンに超オススメなスマホゲーム『戦魂』の第二弾PVが公開 - 週刊アスキー",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9BQ3JPbGpEUFAzdng1aUozOHNJWVlYTFVuY0Z4YkxJZW5jR21tb2l1ZGZQYlhfMW5SYmxRVW9keXlKdFlEeGlUak1UX2pLbFllY2Y5eWVIX0duQXFyaXc?oc=5",
+      "source": "週刊アスキー",
+      "published_at": "2020-03-20T22:21:26+00:00",
+      "summary": "歴史ファンに超オススメなスマホゲーム『戦魂』の第二弾PVが公開    週刊アスキー",
+      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
       "title": "高精細な2Dドット絵で描かれる新作RPG『Sea of Stars』正式発表、海外で大きな注目集める。『The Messenger』開発スタジオの最新作 - 電ファミニコゲーマー",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE94cFNtN0lHWUtwd2MxNjhJWnRocGozZXM0Ql9jbHlRQVZUUlBBWGtuMXk2czU3STJGVlA5ampDZ1B3XzBfbDduUy0wQ242UF9vaW5zQWhBckY?oc=5",
       "source": "電ファミニコゲーマー",
@@ -5592,19 +5512,27 @@
       "feed_url": "https://news.google.com/rss/search?q=%E6%B5%B7%E5%A4%96%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
+      "title": "事前登録：大人気『東京喰種』がスマホゲーム化！今なら『カネキ』がもらえる - 週刊アスキー",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE45bDhVUkY3R1ZlcU81SDJzRHNuMGtaNndpSGRPcElFZVBGcm42UUVxRFlGdXhqWlBvbG9pcG50alVUem9OMnR1OFJRVEpzWEdtdjB6NWhSNTAwSFkzZ1E?oc=5",
+      "source": "週刊アスキー",
+      "published_at": "2020-03-19T04:29:08+00:00",
+      "summary": "事前登録：大人気『東京喰種』がスマホゲーム化！今なら『カネキ』がもらえる    週刊アスキー",
+      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "title": "【あんさんぶるスターズ！！ Music】配信日・リリース日はいつ？事前登録情報｜あんスタMusic - AppMedia",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE51dDliRE83eEIyZkR6cHNuWWNNbHdhV2pCLV9PNzIxMVV1bWZuc3huNVBqYTV3VUpJXzB3SHFTdlJuSnU1bFFpbEpJMA?oc=5",
+      "source": "AppMedia",
+      "published_at": "2020-03-16T07:00:00+00:00",
+      "summary": "【あんさんぶるスターズ！！ Music】配信日・リリース日はいつ？事前登録情報｜あんスタMusic    AppMedia",
+      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
       "title": "ベテランゲーム開発者が「スタジオが生き残るための10の掟」を共有。新設スタジオが同じ過ちを繰り返さないために - AUTOMATON",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ORVR3QnoxMU5Yc1RkX0dLLUZMWjlFQmk0aG9Yd0lvbkFQa0thVEUxckxsRnZZanFkVXl0TnlSaHdEMVBnRnQycjFKZHQ4UzBncEVyMk9LUlNaRENtQlpvSHJzX3EwN05IRTc5cg?oc=5",
       "source": "AUTOMATON",
       "published_at": "2020-02-18T08:00:00+00:00",
       "summary": "ベテランゲーム開発者が「スタジオが生き残るための10の掟」を共有。新設スタジオが同じ過ちを繰り返さないために    AUTOMATON",
-      "feed_url": "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja"
-    },
-    {
-      "title": "『Castle Crashers』開発元が新作『Alien Hominid Invasion』を発表。デビュー作のシューティングACTを再構想 - AUTOMATON",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPbDhjZUJIcm9UY3FuX0pwdi1zMHN2RnZoYlpkX1NIanAxN2Y0anVaOGpPaHhxbmVqcVh2cTdoZ2tKYWh5dlN1YnFONzdFTGRpZi1HN2J4TnVIMVpyZlFzcnJRTzFkQXlrSUNnZg?oc=5",
-      "source": "AUTOMATON",
-      "published_at": "2020-01-31T08:00:00+00:00",
-      "summary": "『Castle Crashers』開発元が新作『Alien Hominid Invasion』を発表。デビュー作のシューティングACTを再構想    AUTOMATON",
       "feed_url": "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
@@ -5624,6 +5552,14 @@
       "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Southeast%20Asia&hl=en-SG&gl=SG&ceid=SG:en"
     },
     {
+      "title": "『Bright Memory アーリーアクセス版』をほぼひとりで作り上げたFYQD-Studioの超絶クオリティーを実現したヒミツに迫る - ファミ通",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9qRElyaDFtMmhqaVdXOExWQjhhNVVuV2YyN3pIR1NQUFZzWHNtME5KcFdwc2pfQWJqbUpLa1BSTmJaSk5vRUl6VXY3Zk5oRzlfeDZzNDNuRV96UUNDQnc?oc=5",
+      "source": "ファミ通",
+      "published_at": "2020-01-06T08:00:00+00:00",
+      "summary": "『Bright Memory アーリーアクセス版』をほぼひとりで作り上げたFYQD-Studioの超絶クオリティーを実現したヒミツに迫る    ファミ通",
+      "feed_url": "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
       "title": "Game On: Understanding the Indian Gaming Industry - Invest India",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQckFBSTRxT084OHhwS2lyTjNSRUd4LXNmem9NQmI0aHV4X1dzbzYwM1d5VUxJNUZPbWhZNkZuV3VEYUQ5d19ud2xsMVJDYVgxYWZ4X0FvOEtvWVN1WVJLOVRtSkdhYUh6M0RDNnJPemZBbWhRWnd1bmFUb1RVdktGOW9fRUs2WEhwazlyc0lxS1Fsb2s?oc=5",
       "source": "Invest India",
@@ -5640,12 +5576,12 @@
       "feed_url": "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
-      "title": "SIEワールドワイド・スタジオ統括責任者に、Guerrillaのハーマン・ハルスト氏が就任。吉田修平氏はインディー開発者のサポートに専念 - AUTOMATON",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wMDJhd0RZalZlUnBsdU5pSW5XMWZuQkExSkZkOW1WY2QyVmRoNnVudjJKZlhJSXIyMEpwbnRQM0M5ZllsOW1RMzRwcjBLMUVYSEt3NUlRU1JucTVFdW9vRFc0dVZ1WjIxRmRYOA?oc=5",
-      "source": "AUTOMATON",
-      "published_at": "2019-11-07T08:00:00+00:00",
-      "summary": "SIEワールドワイド・スタジオ統括責任者に、Guerrillaのハーマン・ハルスト氏が就任。吉田修平氏はインディー開発者のサポートに専念    AUTOMATON",
-      "feed_url": "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja"
+      "title": "【revisions next stage】配信日・リリース日はいつ？事前登録情報｜リヴィネク - AppMedia",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5qM2FHVjhSWUk2Y1owN2NoZmRvMC1QaXpHcUN3eFJmSDBndEViZmZRNzJGVERNbDdIM2FTMzBSNHVjdENtSEZhNDAwaw?oc=5",
+      "source": "AppMedia",
+      "published_at": "2019-10-30T07:00:00+00:00",
+      "summary": "【revisions next stage】配信日・リリース日はいつ？事前登録情報｜リヴィネク    AppMedia",
+      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
       "title": "Accused of a sexist work culture, has Riot Games changed? A newly hired director describes - AsiaOne",
@@ -5662,14 +5598,6 @@
       "published_at": "2019-10-20T07:00:00+00:00",
       "summary": "Video games ruin studies? But here they are studied    Inquirer.net",
       "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Philippines&hl=en-PH&gl=PH&ceid=PH:en"
-    },
-    {
-      "title": "とある新作ゲームが『Cuphead』の盗作であるとして批判を受ける。あまりに似すぎた作品の行く末は - AUTOMATON",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1yamtlbG45NnpMTEV6MFp5WWt1c1BJbXF5YnRRYmxNWEN2b0xQTW9LVDZmZXk0YlRwTHlkS211Z3B4ZHBjaGJWb0VBOU1QdlpMVUlwNzNxcWN1Y3I4eUkwUF9kem9ZdTlySHVzZw?oc=5",
-      "source": "AUTOMATON",
-      "published_at": "2019-10-10T07:00:00+00:00",
-      "summary": "とある新作ゲームが『Cuphead』の盗作であるとして批判を受ける。あまりに似すぎた作品の行く末は    AUTOMATON",
-      "feed_url": "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
       "title": "Video Game Focus: HUSK Is An Eastern European Take On Silent Hill - vocal.media",
@@ -5694,6 +5622,22 @@
       "published_at": "2019-08-29T07:00:00+00:00",
       "summary": "10 Game Development Studios Growing The Industry In Africa    Moguldom",
       "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Africa&hl=en&gl=ZA&ceid=ZA:en"
+    },
+    {
+      "title": "【事前登録】『このすば』初のスマホゲーム『この素晴らしい世界に祝福を！ファンタスティックデイズ』配信決定 - ファミ通",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAySDhiY3ZUbU9kMFNjMVJEM1Biam45cFhCSGNPUmNYTFhwb1J0V3VnemJiVEZOcG1hUDhSUFNHM054akx6UXhBbDVYRXFPalZ1SVFn?oc=5",
+      "source": "ファミ通",
+      "published_at": "2019-08-26T07:00:00+00:00",
+      "summary": "【事前登録】『このすば』初のスマホゲーム『この素晴らしい世界に祝福を！ファンタスティックデイズ』配信決定    ファミ通",
+      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "title": "【ふるーつふるきゅーと！】配信日・リリース日はいつ？事前登録情報｜ふるふる - AppMedia",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE82Q0VrenAzUHJTM0RtUy1tMjBjN296WHV3YTdya3lpZXNYQkJGN0hTVXltLTBOR3dSai11UC1ITzViR1ZwbkNTT3h3aw?oc=5",
+      "source": "AppMedia",
+      "published_at": "2019-08-19T07:00:00+00:00",
+      "summary": "【ふるーつふるきゅーと！】配信日・リリース日はいつ？事前登録情報｜ふるふる    AppMedia",
+      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
       "title": "スマホゲーム『外見至上主義』のリリース決定！ 事前登録で豪華アイテムがもらえるチャンス！ - ドリームニュース",
@@ -5726,6 +5670,14 @@
       "published_at": "2019-07-14T07:00:00+00:00",
       "summary": "South African video game developer Cali4ways Games opens new permanent studio    IT News Africa",
       "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Africa&hl=en&gl=ZA&ceid=ZA:en"
+    },
+    {
+      "title": "PC向け完全新作オンラインゲーム「BLUE PROTOCOL」が発表に。バンダイナムコオンラインとバンダイナムコスタジオの共同開発 - 4Gamer.net",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5sQ0FuaVVHeXNHS1cwV0ZSUFNtd3RMWkRMVFhackVHeTE4Q080MDZhVU8wRUEtMjU5UjlGYzV0TTNIRVRYVGxBck9RSWpOdUw3ZEc5bFd2cGw5NWV0M0pqRE9Daw?oc=5",
+      "source": "4Gamer.net",
+      "published_at": "2019-06-28T07:00:00+00:00",
+      "summary": "PC向け完全新作オンラインゲーム「BLUE PROTOCOL」が発表に。バンダイナムコオンラインとバンダイナムコスタジオの共同開発    4Gamer.net",
+      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
       "title": "Rockstar Games and Electronic Arts Inc deals add XP to India’s gaming industry - The Hindu",
@@ -5768,6 +5720,14 @@
       "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Africa&hl=en&gl=ZA&ceid=ZA:en"
     },
     {
+      "title": "ディライトワークスが新作発表！巫女と一つ屋根の下で暮らす『ミコノート』 - インサイド",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE14VFRMWjZDYTVMeWZEaGJ4bnE3MHpwVndFVjBOSExKZVR4cmFOb0ZrVlRNaXlvODM3MXZ5YjJyMG5nSW1PYkFJQUNPNGlFakpLZkMtVUViMGpiOFhhRS03QjVmWjU2U01SUHc?oc=5",
+      "source": "インサイド",
+      "published_at": "2019-02-05T08:00:00+00:00",
+      "summary": "ディライトワークスが新作発表！巫女と一つ屋根の下で暮らす『ミコノート』    インサイド",
+      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
       "title": "Gaming in South Africa: Developers take video game from dorm room to the world - news.cgtn.com",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMWUzNFptTVkwUUdOU2JFcy1QT2JEU0FReEZIZ1RFY01oaHZRWjhvSG96djkzeE1ubWhQSmtqNGFab2ozUmI3ZktmZEZYU3hSQW5zSW0tYjU2VzlJUVJMSGRtdEhUbi02WWw4WEFyQ0ZXUUVqS2U1MllNMDZ6ak9GTE1lTk4zekk?oc=5",
       "source": "news.cgtn.com",
@@ -5790,6 +5750,14 @@
       "published_at": "2018-10-26T07:00:00+00:00",
       "summary": "'Fortnite' Creator Epic Games Announces $1.25 Billion in Investments    Business Insider",
       "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Southeast%20Asia&hl=en-SG&gl=SG&ceid=SG:en"
+    },
+    {
+      "title": "工画堂スタジオが新作『夢現Re:Master』を発表！ ジャンルは“キラ☆ふわガールズラブゲーム制作会社ADV”【TGS2018】 - ファミ通",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nZjRnLVF6bmN5UG5tUXNfX0k1WFotZ2xfb1phX2IyVzJfRnp0NDMxSzU3Q3lGRUE4QlY4UWxqbmRwX1kwSEUtWUJ0NGR2NWNNTGFtYmxxX1oxNDNMdnc?oc=5",
+      "source": "ファミ通",
+      "published_at": "2018-09-20T07:00:00+00:00",
+      "summary": "工画堂スタジオが新作『夢現Re:Master』を発表！ ジャンルは“キラ☆ふわガールズラブゲーム制作会社ADV”【TGS2018】    ファミ通",
+      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
       "title": "『デッドライジング』シリーズ新作を手がけていたカプコンのバンクーバースタジオが閉鎖に。主要タイトル開発を日本に集中させるため - AUTOMATON",
@@ -5848,11 +5816,27 @@
       "feed_url": "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
-      "title": "『ダービースタリオン マスターズ』、DMM GAMESにてPC版の配信を本日より開始!! - 株式会社ドリコム",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9xVUdteW81NTh0YUN3TWlneUpRUmdCM2c5MnJaMEdhS2Jsd3RzOGtEMUY0cDRPSkxPOVBNMThLdV9JaTAxZUY1R0hOcnZNNVBzMTBfa0RJMHRnd2hIa2hBcHl1dHA?oc=5",
+      "title": "『Dead by Daylight』開発元が、新作『Deathgarden』を発表。1人のハンターと5人の逃走者が対峙する非対称シューター - AUTOMATON",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE45RlIxaWdVZkNObXpnN2Q2XzFiVmNFN0VBMVJWU21FTnNkTHVyMzhTTDlWUEdYN29wbF9Ga1R6RHA5RndacTQwbTVaWUhNX3VieUVyMkdyVlVKbmhRNG1CemZYWjc1ZC01U0hZ?oc=5",
+      "source": "AUTOMATON",
+      "published_at": "2018-03-30T07:00:00+00:00",
+      "summary": "『Dead by Daylight』開発元が、新作『Deathgarden』を発表。1人のハンターと5人の逃走者が対峙する非対称シューター    AUTOMATON",
+      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "title": "『ダービースタリオン マスターズ』、DMM GAMESにてPC版の事前登録を開始!! - 株式会社ドリコム",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBSeWxxbnhIOVpQZzIwVVVBQV9icVNaS1JodzZFV2o5R0Z4bVR3YjNxQlhUV2pHMjU2ekFUSXNjZldwWENQQXNDZWI3Rm5qUmlockVHOWl2eFhzLUVOVnI5TENzWHRkMXM?oc=5",
       "source": "株式会社ドリコム",
-      "published_at": "2018-04-19T07:00:00+00:00",
-      "summary": "『ダービースタリオン マスターズ』、DMM GAMESにてPC版の配信を本日より開始!!    株式会社ドリコム",
+      "published_at": "2018-03-19T07:00:00+00:00",
+      "summary": "『ダービースタリオン マスターズ』、DMM GAMESにてPC版の事前登録を開始!!    株式会社ドリコム",
+      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "title": "【荒野行動】配信日/リリース日はいつ？事前登録情報 - AppMedia",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1POG9mdlFvRU5OVmZCLThjNkQ0NkJDczFBOW9XZzB3b0NnT3E0eXV5SkJjVjdsYXNXSkxJc3o0aU0tMHVWaFFLTmlUdw?oc=5",
+      "source": "AppMedia",
+      "published_at": "2018-03-15T07:00:00+00:00",
+      "summary": "【荒野行動】配信日/リリース日はいつ？事前登録情報    AppMedia",
       "feed_url": "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
@@ -5872,6 +5856,14 @@
       "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Africa&hl=en&gl=ZA&ceid=ZA:en"
     },
     {
+      "title": "『ソードアート・オンライン メモリー・デフラグ』が配信決定！ キャミソール アスナがもらえる事前登録が開始 - Appliv Games",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5mWlJIZ0ZKdDJIbVlLcl9SUlljU2g0b2p6dGxTMGFOWXgxSG9qUjhlM0NpWjFzdmNxRkppczBPdXprbV9COFVtZzJXUDBkY29RS1E?oc=5",
+      "source": "Appliv Games",
+      "published_at": "2018-01-19T04:03:50+00:00",
+      "summary": "『ソードアート・オンライン メモリー・デフラグ』が配信決定！ キャミソール アスナがもらえる事前登録が開始    Appliv Games",
+      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
       "title": "『ハイキュー!!』初のスマホゲーム『ハイキュー!!ドンピシャマッチ!!』の配信が決定！ 事前登録がスタート - Appliv Games",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9wYTFXQXV3VnRsYmc2MEQyaUtuUzZfUmZZNUJNa2hXWnBqTUtJNzhpdTBab0NiWkhHWGRiNzhKZlJVLWFSWUR0YmtrbG13LXJm?oc=5",
       "source": "Appliv Games",
@@ -5888,19 +5880,11 @@
       "feed_url": "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
-      "title": "Xbox 360向け「Xbox LIVE インディーズ ゲーム」今月29日にサービス終了。誰もがゲームを作れた自由なプラットフォーム - AUTOMATON",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBYeXBMMTh5ZU1pQlBzLWVibUhscWs2VWlLUV9iSjV6RmJPZ19RZVN5S0hibmhmTnRnWkwxVExmMVdrQkNrN1BKRmU3YmlvdUVjT3RmVEJhY2dPbXBsNlV2Mko3UUppRUR5M3c0?oc=5",
-      "source": "AUTOMATON",
-      "published_at": "2017-09-20T07:00:00+00:00",
-      "summary": "Xbox 360向け「Xbox LIVE インディーズ ゲーム」今月29日にサービス終了。誰もがゲームを作れた自由なプラットフォーム    AUTOMATON",
-      "feed_url": "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja"
-    },
-    {
-      "title": "劇場上映中『宇宙戦艦ヤマト2202』の世界がスマホゲームに！ 『宇宙戦艦ヤマト2202 戦士たちの記憶』事前登録開始 ～全てのファンに贈る「新しいヤマト」 - newscast.jp",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9MZFpKR3BiWXpwdVpRWFE4RmhrazdWNmdNdFU1TVQ4N0Jsa29VUzdnN0dXbXE4dzFBZ3NtcnNlZG9tNVByTzl3ODFnNkl3NDg?oc=5",
-      "source": "newscast.jp",
-      "published_at": "2017-07-14T07:00:00+00:00",
-      "summary": "劇場上映中『宇宙戦艦ヤマト2202』の世界がスマホゲームに！ 『宇宙戦艦ヤマト2202 戦士たちの記憶』事前登録開始 ～全てのファンに贈る「新しいヤマト」    newscast.jp",
+      "title": "【事前登録】『ラブライブ！』がスマホ向けパズルゲームに！ポケラボ新作『ぷちぐるラブライブ！』配信決定 - ファミ通",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5fdlRROTA4bDQ3VGUzby00amlqY1JYMVMtY2pSLVNLdWRMZW4xYXJpVVkzOFhZME1UenVZeHhKcFNTS3VVMl9tazRETl92WWNsMllB?oc=5",
+      "source": "ファミ通",
+      "published_at": "2017-09-25T07:00:00+00:00",
+      "summary": "【事前登録】『ラブライブ！』がスマホ向けパズルゲームに！ポケラボ新作『ぷちぐるラブライブ！』配信決定    ファミ通",
       "feed_url": "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
@@ -5912,12 +5896,12 @@
       "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Philippines&hl=en-PH&gl=PH&ceid=PH:en"
     },
     {
-      "title": "ゼルダの伝説 スマホアプリ版（仮） 配信日と事前登録の情報 - appget.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1XNldIRmllRkk1aXB1S2VYUl84NEw1czA5TzVoTkFpRDF2QVlIQktScVRLSlYwTFkzaE5xTkhDMXpFaGlYa3hjeXdMVUJLUEk?oc=5",
-      "source": "appget.com",
-      "published_at": "2017-06-14T19:01:45+00:00",
-      "summary": "ゼルダの伝説 スマホアプリ版（仮） 配信日と事前登録の情報    appget.com",
-      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja"
+      "title": "レベルファイブが開発拠点「LEVEL5 comcept」を大阪に設立―同拠点の手掛ける新作ゲームの情報も - インサイド",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE05dnNncDJjQ1p1WEJLU0JBcGltVkRLVXotd3lRYmJEMG1fM2ZiaUt2Um01MFRtWnA0dWdXTHNqNmptcWJROFdKNFU4dW0zU0hnUmh3RXdEQ21LMl9jUmMyMExkdTE4bVN4c0E?oc=5",
+      "source": "インサイド",
+      "published_at": "2017-06-15T07:00:00+00:00",
+      "summary": "レベルファイブが開発拠点「LEVEL5 comcept」を大阪に設立―同拠点の手掛ける新作ゲームの情報も    インサイド",
+      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
       "title": "非公式『バイオ2』リメイクのInvader Studiosが語る新作への情熱。ファンゲーム開発者から本物の開発者になるための道 - AUTOMATON",
@@ -5928,28 +5912,12 @@
       "feed_url": "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
-      "title": "スクエニ、新作RPG「Prelude Rune」を開発する「スタジオイストリア」設立。代表は馬場英雄氏、ハイエンド機での開発経験スタッフ募集中 - AUTOMATON",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE96ajg4VUJoY3huM1BQYnBjNlpFb2dWRHdjWXZyY3Z3MFN2Z0xGT25hWk83TU9kbEs4Vl83cTJzOFJobnplYW9NYTVLbnV5SDZvZGdfWTBFOWhCWmxuSVhtelJONFN2VXpRVnVB?oc=5",
-      "source": "AUTOMATON",
-      "published_at": "2017-02-21T08:00:00+00:00",
-      "summary": "スクエニ、新作RPG「Prelude Rune」を開発する「スタジオイストリア」設立。代表は馬場英雄氏、ハイエンド機での開発経験スタッフ募集中    AUTOMATON",
-      "feed_url": "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja"
-    },
-    {
       "title": "Game on in Asean - Bangkok Post",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5GOW1MVm5DVDJXcHBwVVVMTGFPZkJaQktFeGJ4V1NhZDltdTRTUW15cHRaTm5xakNQRVZnNE5TRzNlU2phUU9QZmo0V3ZHemtyYm9YY2VKZHowOWt3QWlNOUdwRElXQ3FlblNjZUM3RQ?oc=5",
       "source": "Bangkok Post",
       "published_at": "2017-02-13T08:00:00+00:00",
       "summary": "Game on in Asean    Bangkok Post",
       "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Eastern%20Europe&hl=en&gl=PL&ceid=PL:en"
-    },
-    {
-      "title": "海外のインディースタジオ11社が語る、Nintendo Switchへの本音。Switchはインディーゲームにおける選択肢になりえるか？ - AUTOMATON",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBrRDd2QjVxQjU2LUZSSjJCTktyMlowUXI4cXFNQmotUGRzQ1hIYmFGTW1QMXRRVEtIZGxwRUdTR2hydjVFVDFXZ2tIUU1qcTIwbzJQSEpRLW95aklPWDlMVUdIYnBYMW8tTm5femJR?oc=5",
-      "source": "AUTOMATON",
-      "published_at": "2017-01-30T08:00:00+00:00",
-      "summary": "海外のインディースタジオ11社が語る、Nintendo Switchへの本音。Switchはインディーゲームにおける選択肢になりえるか？    AUTOMATON",
-      "feed_url": "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
       "title": "How African video games are taking on the world - The i Paper",
@@ -6088,6 +6056,14 @@
       "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Eastern%20Europe&hl=en&gl=PL&ceid=PL:en"
     },
     {
+      "title": "「メタルマックス」シリーズ最新作 超改造戦車RPG「METAL MAX FIREWORKS」 事前登録開始！ 登録特典【戦車つきプレミアム☆GAL】を手に入れろ！ - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9XY0hoM0tQZXdzZURNYXdReTdRSGctbm5NZnFNMnB6M1piZnVDdmlRc1ViMlJzU0dLVVN0NVpyUHNjWVd1NmphcEhiN25VQnBZVnowUmY3b1RJblNhcEpyeFZ1Z21uaUlWX2c?oc=5",
+      "source": "PR TIMES",
+      "published_at": "2015-07-10T07:00:00+00:00",
+      "summary": "「メタルマックス」シリーズ最新作 超改造戦車RPG「METAL MAX FIREWORKS」 事前登録開始！ 登録特典【戦車つきプレミアム☆GAL】を手に入れろ！    PR TIMES",
+      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
       "title": "Africa's games makers dream of exporting to the world - BBC",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE14VG9uTUk5aUoycXhPamNvQjZjbDhtNEJSZm9IVzJseURwUUdQMHV4QnhKc0xoVHU1Y0swMlg0dTg0cTlJUERSRXp5Qld2RzV4a1ctRg?oc=5",
       "source": "BBC",
@@ -6152,14 +6128,6 @@
       "feed_url": "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
-      "title": "【事前登録】新作正統派ロボットアニメ『バディ・コンプレックス』と連動したスマホゲームが配信決定 - ファミ通",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB3TENRQ3R2Q2RmZnF4MU9UMW9XeGtTbE1sdGpCOS1xbERXaEFSSDBHV1o4VWdZTXZnUVJocUxGOFRjS1hNMmJqNDFMQXFFUkxLeVE?oc=5",
-      "source": "ファミ通",
-      "published_at": "2013-12-02T08:00:00+00:00",
-      "summary": "【事前登録】新作正統派ロボットアニメ『バディ・コンプレックス』と連動したスマホゲームが配信決定    ファミ通",
-      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja"
-    },
-    {
       "title": "Top 10 African game developers - IT News Africa",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE10T2w1eEM2MzNUOU1TLTY2X1FFQ0J5YnNjdTN6dnlfS1JmS0lrYV85d3VNLWcwT19id0owUzhCcmZheXo1Y2JLUmtTd25ZNzl5ZmlWZS1pWWRiUDFZMHloMzg1M2NKTXNZX0RtcW84bjBKby1XeWgw?oc=5",
       "source": "IT News Africa",
@@ -6182,6 +6150,14 @@
       "published_at": "2012-02-03T08:00:00+00:00",
       "summary": "Gaming firm eyes hotel, leisure venture    Inquirer.net",
       "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Philippines&hl=en-PH&gl=PH&ceid=PH:en"
+    },
+    {
+      "title": "名越稔洋氏率いるクリエイター集団が新しい設計での「龍が如く5」の開発を決定！「バイナリー ドメイン」のゲーム概要も発表「龍が如くスタジオ」発足記者発表会 - Gamer",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1YT0ZzMUM0dHhBRVFiRkw3VDNwYWR1S1FsYUZ1ZU5Hd2RVU3RCUEhNYzBMNzBSSGQ4N3Bva0pzejhneFNVX1lWaFdxOEdzM25xdjcxMw?oc=5",
+      "source": "Gamer",
+      "published_at": "2011-08-31T07:00:00+00:00",
+      "summary": "名越稔洋氏率いるクリエイター集団が新しい設計での「龍が如く5」の開発を決定！「バイナリー ドメイン」のゲーム概要も発表「龍が如くスタジオ」発足記者発表会    Gamer",
+      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
       "title": "Digital Chocolate finds a sweet deal, gobbles up Sandlot Games - GeekWire",
