@@ -1,7 +1,7 @@
 {
   "type": "FeatureCollection",
   "properties": {
-    "created_at": "2026-06-28T22:41:16.417537+00:00",
+    "created_at": "2026-06-28T22:55:55.089516+00:00",
     "count": 139,
     "stats": {
       "feed_id": "game-all",
@@ -28,7 +28,7 @@
         "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja"
       ],
       "rss_url": "https://www.gamedeveloper.com/rss.xml",
-      "fetched": 990,
+      "fetched": 989,
       "fetched_by_url": {
         "https://www.gamedeveloper.com/rss.xml": 50,
         "https://www.gamesindustry.biz/feed": 100,
@@ -119,8 +119,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.5683,
-          55.6761
+          12.578,
+          55.6785
         ]
       },
       "properties": {
@@ -128,43 +128,16 @@
         "source": "玩具人 TOY PEOPLE",
         "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBWY3F3UjlLdm13NFEyVmF0bGhXSFdkUFUzWGYwX2Y4Sm9LMGVZMnlUbko3bkdtOUZ4RmRxdHNteU9Id2wtMmI4YWpSSzlubVh0?oc=5",
         "published_at": "2026-06-28T17:15:34+00:00",
-        "representative_place": "IO Interactive / 007 First Light",
-        "place_label": "デンマーク-コペンハーゲン",
-        "sort_place_label": "デンマーク-コペンハーゲン",
+        "representative_place": "IO Interactive / Copenhagen headquarters area",
+        "place_label": "IO Interactive / Copenhagen headquarters area",
+        "sort_place_label": "IO Interactive / Copenhagen headquarters area",
         "geocode_query": "IO Interactive Copenhagen Denmark",
         "place_type": "studio_site",
-        "location_precision": "city",
-        "place_reason": "game-all未解決記事に『007』新作と『ヒットマン』開発チームが明示されており、007 First Lightの開発主体であるIO Interactiveの所在地としてコペンハーゲンに置く（一致語: 『007』シリーズ新作ゲーム）",
-        "confidence": 0.84,
+        "location_precision": "headquarters_area",
+        "place_reason": "007 First Lightの記事はIO Interactiveが主体なので、コペンハーゲン市代表点ではなくIO Interactive本社周辺として置く。住所まで確実に固定せず、本社周辺粒度に止める（一致語: 『007』シリーズ新作ゲーム）",
+        "confidence": 0.76,
         "rule_id": "observed_io_interactive_007_first_light_copenhagen_202606",
         "matched_text": "『007』シリーズ新作ゲーム",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.1278,
-          51.5074
-        ]
-      },
-      "properties": {
-        "title": "『バットマン：アーカム』開発チームが新作DCマルチプレイヤーゲームを開発か？失敗を恐れず「サービス型ゲーム」に再挑戦 - 玩具人 TOY PEOPLE",
-        "source": "玩具人 TOY PEOPLE",
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9hZl9XRjZmbzNiRllqUU9pTmRia3dvVXdkUUxNSk1yU3dBc3dycGxwNnkwUVZrQnhNNkVRcnNTeVdtYXNvYk12U2NDMFNfZ0p2?oc=5",
-        "published_at": "2026-06-28T09:04:42+00:00",
-        "representative_place": "Rocksteady Studios / DC multiplayer game",
-        "place_label": "英国-イングランド-ロンドン",
-        "sort_place_label": "英国-イングランド-ロンドン",
-        "geocode_query": "Rocksteady Studios London England",
-        "place_type": "studio_site",
-        "location_precision": "city",
-        "place_reason": "game-all未解決記事に『バットマン：アーカム』開発チームが新作DCマルチプレイヤーゲームを開発か、と明示されているため、Arkham開発元Rocksteady Studiosの所在地としてロンドンに置く（一致語: バットマン：アーカム』開発チーム）",
-        "confidence": 0.78,
-        "rule_id": "observed_rocksteady_dc_multiplayer_london_202606",
-        "matched_text": "バットマン：アーカム』開発チーム",
         "match_source": "known_place_title"
       }
     },
@@ -227,8 +200,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3522,
-          48.8566
+          2.409,
+          48.8525
         ]
       },
       "properties": {
@@ -236,14 +209,14 @@
         "source": "Game*Spark",
         "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5McENmSUl1TFFWNDBmZllhelNRSm1OZkRfT21NTVFReGhJTzhrOU9XNEJFcDZodzRjSy13QlRmU1BWU1g3YmxsbHZiMFBoeTZILXAtYTZxZmJOenJmTG5mdXQ0SnJxUQ?oc=5",
         "published_at": "2026-06-27T08:45:03+00:00",
-        "representative_place": "Quantic Dream / Star Wars Eclipse",
+        "representative_place": "Quantic Dream / Paris studio area",
         "place_label": "フランス-パリ",
         "sort_place_label": "フランス-パリ",
         "geocode_query": "Quantic Dream Paris France",
         "place_type": "studio_site",
-        "location_precision": "city",
-        "place_reason": "game-all未解決記事に『Star Wars Eclipse』と『Detroit: Become Human』開発元のストライキが明示されており、Quantic Dreamの所在地としてパリに置く（一致語: Detroit: Become Human）",
-        "confidence": 0.82,
+        "location_precision": "studio_area",
+        "place_reason": "Star Wars Eclipseの記事はQuantic Dreamが主体なので、パリ市代表点ではなくQuantic Dreamスタジオ周辺に置く。住所まで確実に固定せず、スタジオ周辺粒度に止める（一致語: Detroit: Become Human）",
+        "confidence": 0.74,
         "rule_id": "observed_quantic_dream_star_wars_eclipse_paris_202606",
         "matched_text": "Detroit: Become Human",
         "match_source": "known_place_title"
@@ -281,8 +254,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.5683,
-          55.6761
+          12.578,
+          55.6785
         ]
       },
       "properties": {
@@ -290,14 +263,14 @@
         "source": "GamesIndustry.biz Latest Articles Feed",
         "link": "https://www.gamesindustry.biz/five-things-to-avoid-when-marketing-your-indie-game-opinion",
         "published_at": "2026-06-26T14:07:12+00:00",
-        "representative_place": "IO Interactive / 007 First Light",
-        "place_label": "デンマーク-コペンハーゲン",
-        "sort_place_label": "デンマーク-コペンハーゲン",
+        "representative_place": "IO Interactive / Copenhagen headquarters area",
+        "place_label": "IO Interactive / Copenhagen headquarters area",
+        "sort_place_label": "IO Interactive / Copenhagen headquarters area",
         "geocode_query": "IO Interactive Copenhagen Denmark",
         "place_type": "studio_site",
-        "location_precision": "city",
-        "place_reason": "game-all未解決記事に『007』新作と『ヒットマン』開発チームが明示されており、007 First Lightの開発主体であるIO Interactiveの所在地としてコペンハーゲンに置く",
-        "confidence": 0.84,
+        "location_precision": "headquarters_area",
+        "place_reason": "007 First Lightの記事はIO Interactiveが主体なので、コペンハーゲン市代表点ではなくIO Interactive本社周辺として置く。住所まで確実に固定せず、本社周辺粒度に止める",
+        "confidence": 0.76,
         "rule_id": "observed_io_interactive_007_first_light_copenhagen_202606",
         "matched_text": "IO Interactive",
         "match_source": "rule"
@@ -308,8 +281,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.4737,
-          31.2304
+          121.5637,
+          31.21
         ]
       },
       "properties": {
@@ -317,14 +290,14 @@
         "source": "Latest Updates | PocketGamer.biz",
         "link": "https://www.pocketgamer.biz/inside-supercells-approach-to-community-management-with-vladislav-perge/",
         "published_at": "2026-06-26T13:30:00+00:00",
-        "representative_place": "Pocket Gamer Connects Summit Shanghai speaker session",
-        "place_label": "中国-上海市",
-        "sort_place_label": "中国-上海市",
-        "geocode_query": "Shanghai China",
+        "representative_place": "Pocket Gamer Connects Summit Shanghai / Shanghai New International Expo Centre",
+        "place_label": "中国-上海市-浦東新区-上海新国際博覧中心",
+        "sort_place_label": "中国-上海市-浦東新区-上海新国際博覧中心",
+        "geocode_query": "Shanghai New International Expo Centre Pudong Shanghai China",
         "place_type": "event_site",
-        "location_precision": "city",
-        "place_reason": "game-all未解決記事のタイトルにPGC Shanghai、summaryにPocket Gamer Connects Summit Shanghaiが明示されているため上海に置く",
-        "confidence": 0.88,
+        "location_precision": "venue",
+        "place_reason": "PGC Shanghaiは上海市代表点ではなく、ChinaJoy連動イベントとして使われる上海新国際博覧中心の会場単位で置く",
+        "confidence": 0.74,
         "rule_id": "observed_pgc_shanghai_speaker_202607",
         "matched_text": "Pocket Gamer Connects Summit Shanghai",
         "match_source": "rule"
@@ -335,8 +308,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.5683,
-          55.6761
+          12.578,
+          55.6785
         ]
       },
       "properties": {
@@ -344,14 +317,14 @@
         "source": "Game World Observer",
         "link": "https://gameworldobserver.com/2026/06/26/007-first-light-was-the-highest-grossing-game-in-may-in-the-us",
         "published_at": "2026-06-26T13:28:30+00:00",
-        "representative_place": "IO Interactive / 007 First Light",
-        "place_label": "デンマーク-コペンハーゲン",
-        "sort_place_label": "デンマーク-コペンハーゲン",
+        "representative_place": "IO Interactive / Copenhagen headquarters area",
+        "place_label": "IO Interactive / Copenhagen headquarters area",
+        "sort_place_label": "IO Interactive / Copenhagen headquarters area",
         "geocode_query": "IO Interactive Copenhagen Denmark",
         "place_type": "studio_site",
-        "location_precision": "city",
-        "place_reason": "game-all未解決記事に『007』新作と『ヒットマン』開発チームが明示されており、007 First Lightの開発主体であるIO Interactiveの所在地としてコペンハーゲンに置く（一致語: 007 First Light）",
-        "confidence": 0.84,
+        "location_precision": "headquarters_area",
+        "place_reason": "007 First Lightの記事はIO Interactiveが主体なので、コペンハーゲン市代表点ではなくIO Interactive本社周辺として置く。住所まで確実に固定せず、本社周辺粒度に止める（一致語: 007 First Light）",
+        "confidence": 0.76,
         "rule_id": "observed_io_interactive_007_first_light_copenhagen_202606",
         "matched_text": "007 First Light",
         "match_source": "known_place_title"
@@ -416,8 +389,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.2015,
-          47.6101
+          -122.2016,
+          47.617
         ]
       },
       "properties": {
@@ -425,14 +398,14 @@
         "source": "GamesIndustry.biz Latest Articles Feed",
         "link": "https://www.gamesindustry.biz/sony-cuts-292-jobs-at-destiny-maker-bungie",
         "published_at": "2026-06-26T07:31:49+00:00",
-        "representative_place": "Bungie / Destiny",
-        "place_label": "米国-ワシントン州-ベルビュー",
-        "sort_place_label": "米国-ワシントン州-ベルビュー",
-        "geocode_query": "Bungie Bellevue Washington United States",
+        "representative_place": "Bungie / Bellevue headquarters area",
+        "place_label": "米国-Bungie / Bellevue headquarters area",
+        "sort_place_label": "米国-Bungie / Bellevue headquarters area",
+        "geocode_query": "Bungie headquarters Bellevue Washington United States",
         "place_type": "studio_site",
-        "location_precision": "city",
-        "place_reason": "game-all未解決記事にDestiny開発元Bungieの人員削減・企画記事があり、Bungieの所在地としてベルビューに置く（一致語: Sony cuts 292 jobs at Destiny maker Bungie）",
-        "confidence": 0.84,
+        "location_precision": "headquarters_area",
+        "place_reason": "Destiny開発元Bungieの記事なので、ベルビュー市代表点ではなくBungie本社周辺として置く。住所まで確実に固定せず、本社周辺粒度に止める（一致語: Sony cuts 292 jobs at Destiny maker Bungie）",
+        "confidence": 0.78,
         "rule_id": "observed_bungie_destiny_layoffs_bellevue_202606",
         "matched_text": "Sony cuts 292 jobs at Destiny maker Bungie",
         "match_source": "known_place_title"
@@ -587,14 +560,14 @@
         "source": "Latest Updates | PocketGamer.biz",
         "link": "https://www.pocketgamer.biz/rush-royale-surpasses-500m-in-lifetime-revenue/",
         "published_at": "2026-06-25T14:31:00+00:00",
-        "representative_place": "MY.GAMES / Rush Royale",
-        "place_label": "オランダ-アムステルダム",
-        "sort_place_label": "オランダ-アムステルダム",
+        "representative_place": "MY.GAMES Amsterdam office area",
+        "place_label": "MY.GAMES Amsterdam office area",
+        "sort_place_label": "MY.GAMES Amsterdam office area",
         "geocode_query": "MY.GAMES Amsterdam Netherlands",
         "place_type": "publisher_site",
-        "location_precision": "city",
-        "place_reason": "game-all未解決記事のsummaryにMy.GamesのRush Royaleが明示されており、MY.GAMESの所在地としてアムステルダムに置く（一致語: Rush Royale surpasses $500m）",
-        "confidence": 0.76,
+        "location_precision": "office_area",
+        "place_reason": "Rush Royaleの記事はMY.GAMESが主体なので、アムステルダム市代表点ではなくMY.GAMESオフィス周辺として置く。住所まで確実に固定せず、オフィス周辺粒度に止める（一致語: Rush Royale surpasses $500m）",
+        "confidence": 0.7,
         "rule_id": "observed_mygames_rush_royale_amsterdam_202606",
         "matched_text": "Rush Royale surpasses $500m",
         "match_source": "known_place_title"
@@ -740,8 +713,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.2171,
-          47.4829
+          -122.224,
+          47.459
         ]
       },
       "properties": {
@@ -749,13 +722,13 @@
         "source": "gamedeveloper",
         "link": "https://www.gamedeveloper.com/business/magic-the-gathering-arena-unionize-despite-allegations-of-interference",
         "published_at": "2026-06-25T10:12:57+00:00",
-        "representative_place": "Wizards of the Coast / Magic: The Gathering Arena",
-        "place_label": "米国-ワシントン州-レントン",
-        "sort_place_label": "米国-ワシントン州-レントン",
-        "geocode_query": "Wizards of the Coast Renton Washington United States",
+        "representative_place": "Wizards of the Coast / Renton headquarters",
+        "place_label": "米国-Wizards of the Coast / Renton headquarters",
+        "sort_place_label": "米国-Wizards of the Coast / Renton headquarters",
+        "geocode_query": "Wizards of the Coast headquarters Renton Washington United States",
         "place_type": "studio_site",
-        "location_precision": "city",
-        "place_reason": "game-all未解決記事にMagic: The Gathering Arena開発者の労組化が明示されており、Wizards of the Coastの所在地としてレントンに置く（一致語: Magic: The Gathering Arena developers have successfully unionized）",
+        "location_precision": "headquarters_area",
+        "place_reason": "Wizards of the CoastはRenton本社まで確認できるため、レントン市代表点ではなく本社周辺として置く（一致語: Magic: The Gathering Arena developers have successfully unionized）",
         "confidence": 0.78,
         "rule_id": "observed_wotc_magic_arena_union_renton_202606",
         "matched_text": "Magic: The Gathering Arena developers have successfully unionized",
@@ -857,14 +830,14 @@
         "source": "Mobilegamer.biz",
         "link": "https://mobilegamer.biz/data-digest-world-cup-numbers-dtc-hits-17bn-uefn-payouts-mays-top-ads-more/",
         "published_at": "2026-06-24T14:10:36+00:00",
-        "representative_place": "MY.GAMES / Rush Royale",
-        "place_label": "オランダ-アムステルダム",
-        "sort_place_label": "オランダ-アムステルダム",
+        "representative_place": "MY.GAMES Amsterdam office area",
+        "place_label": "MY.GAMES Amsterdam office area",
+        "sort_place_label": "MY.GAMES Amsterdam office area",
         "geocode_query": "MY.GAMES Amsterdam Netherlands",
         "place_type": "publisher_site",
-        "location_precision": "city",
-        "place_reason": "game-all未解決記事のsummaryにMy.GamesのRush Royaleが明示されており、MY.GAMESの所在地としてアムステルダムに置く",
-        "confidence": 0.76,
+        "location_precision": "office_area",
+        "place_reason": "Rush Royaleの記事はMY.GAMESが主体なので、アムステルダム市代表点ではなくMY.GAMESオフィス周辺として置く。住所まで確実に固定せず、オフィス周辺粒度に止める",
+        "confidence": 0.7,
         "rule_id": "observed_mygames_rush_royale_amsterdam_202606",
         "matched_text": "Rush Royale",
         "match_source": "rule"
@@ -875,8 +848,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.9603,
-          50.9375
+          6.982,
+          50.9473
         ]
       },
       "properties": {
@@ -884,16 +857,16 @@
         "source": "Latest Updates | PocketGamer.biz",
         "link": "https://www.pocketgamer.biz/nigeria-to-bring-first-ever-developer-delegation-and-booth-to-gamescom-2026/",
         "published_at": "2026-06-24T12:40:00+00:00",
-        "representative_place": "Gamescom Congress 2026",
-        "place_label": "ドイツ-ノルトライン＝ヴェストファーレン州-ケルン",
-        "sort_place_label": "ドイツ-ノルトライン＝ヴェストファーレン州-ケルン",
-        "geocode_query": "Gamescom Cologne Germany",
+        "representative_place": "Nigeria developer delegation to Gamescom / Koelnmesse",
+        "place_label": "ドイツ-ノルトライン＝ヴェストファーレン州-ケルン-Koelnmesse",
+        "sort_place_label": "ドイツ-ノルトライン＝ヴェストファーレン州-ケルン-Koelnmesse",
+        "geocode_query": "Koelnmesse Messeplatz 1 Cologne Germany",
         "place_type": "event_site",
-        "location_precision": "city",
-        "place_reason": "game-all未解決記事にGamescom Congress / Gamescom 2026が明示されているため、gamescom開催地としてケルンに置く（一致語: Gamescom 2026）",
-        "confidence": 0.88,
-        "rule_id": "observed_gamescom_congress_german_president_cologne_202606",
-        "matched_text": "Gamescom 2026",
+        "location_precision": "venue",
+        "place_reason": "Gamescomはケルン市代表点ではなくKoelnmesse会場単位で置く。ナイジェリア開発者代表団の記事も出展先がGamescomなので同会場に寄せる（一致語: Nigeria to bring first-ever developer delegation and booth to Gamescom 2026）",
+        "confidence": 0.86,
+        "rule_id": "observed_nigeria_gamescom_cologne_202606",
+        "matched_text": "Nigeria to bring first-ever developer delegation and booth to Gamescom 2026",
         "match_source": "known_place_title"
       }
     },
@@ -929,8 +902,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.4737,
-          31.2304
+          121.4368,
+          31.1846
         ]
       },
       "properties": {
@@ -938,14 +911,14 @@
         "source": "Latest Updates | PocketGamer.biz",
         "link": "https://www.pocketgamer.biz/hoyoverses-new-game-honkai-nexus-anima-gets-closed-beta-test-in-july/",
         "published_at": "2026-06-24T10:10:00+00:00",
-        "representative_place": "miHoYo / HoYoverse Honkai: Nexus Anima",
+        "representative_place": "miHoYo / HoYoverse Shanghai studio area",
         "place_label": "中国-上海市",
         "sort_place_label": "中国-上海市",
-        "geocode_query": "miHoYo Shanghai China",
+        "geocode_query": "miHoYo Xuhui Shanghai China",
         "place_type": "studio_site",
-        "location_precision": "city",
-        "place_reason": "game-all未解決記事にHoYoverseのHonkai新作が明示されており、Honkaiシリーズの開発元miHoYoの所在地として上海に置く。中国一般ではなくスタジオ所在地として扱う（一致語: HoYoverse’s new game Honkai: Nexus Anima）",
-        "confidence": 0.78,
+        "location_precision": "district",
+        "place_reason": "HoYoverse/miHoYoの記事なので、上海市代表点ではなくmiHoYo/HoYoverseのスタジオ周辺として徐匯区側に置く。住所固定ではなく地区粒度に止める（一致語: HoYoverse’s new game Honkai: Nexus Anima）",
+        "confidence": 0.72,
         "rule_id": "observed_hoyoverse_honkai_nexus_anima_shanghai_202606",
         "matched_text": "HoYoverse’s new game Honkai: Nexus Anima",
         "match_source": "known_place_title"
@@ -983,8 +956,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.4737,
-          31.2304
+          121.5637,
+          31.21
         ]
       },
       "properties": {
@@ -992,14 +965,14 @@
         "source": "Latest Updates | PocketGamer.biz",
         "link": "https://www.pocketgamer.biz/socialpeta-cmo-summer-liu-to-speak-at-pgc-shanghai/",
         "published_at": "2026-06-24T10:00:00+00:00",
-        "representative_place": "Pocket Gamer Connects Summit Shanghai speaker session",
-        "place_label": "中国-上海市",
-        "sort_place_label": "中国-上海市",
-        "geocode_query": "Shanghai China",
+        "representative_place": "Pocket Gamer Connects Summit Shanghai / Shanghai New International Expo Centre",
+        "place_label": "中国-上海市-浦東新区-上海新国際博覧中心",
+        "sort_place_label": "中国-上海市-浦東新区-上海新国際博覧中心",
+        "geocode_query": "Shanghai New International Expo Centre Pudong Shanghai China",
         "place_type": "event_site",
-        "location_precision": "city",
-        "place_reason": "game-all未解決記事のタイトルにPGC Shanghai、summaryにPocket Gamer Connects Summit Shanghaiが明示されているため上海に置く（一致語: SocialPeta CMO Summer Liu to speak at PGC Shanghai）",
-        "confidence": 0.88,
+        "location_precision": "venue",
+        "place_reason": "PGC Shanghaiは上海市代表点ではなく、ChinaJoy連動イベントとして使われる上海新国際博覧中心の会場単位で置く（一致語: SocialPeta CMO Summer Liu to speak at PGC Shanghai）",
+        "confidence": 0.74,
         "rule_id": "observed_pgc_shanghai_speaker_202607",
         "matched_text": "SocialPeta CMO Summer Liu to speak at PGC Shanghai",
         "match_source": "known_place_title"
@@ -1010,8 +983,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.2015,
-          47.6101
+          -122.2016,
+          47.617
         ]
       },
       "properties": {
@@ -1019,14 +992,14 @@
         "source": "GamesIndustry.biz Latest Articles Feed",
         "link": "https://www.gamesindustry.biz/bungie-devs-reportedly-pitched-destiny-dating-game",
         "published_at": "2026-06-24T09:11:32+00:00",
-        "representative_place": "Bungie / Destiny",
-        "place_label": "米国-ワシントン州-ベルビュー",
-        "sort_place_label": "米国-ワシントン州-ベルビュー",
-        "geocode_query": "Bungie Bellevue Washington United States",
+        "representative_place": "Bungie / Bellevue headquarters area",
+        "place_label": "米国-Bungie / Bellevue headquarters area",
+        "sort_place_label": "米国-Bungie / Bellevue headquarters area",
+        "geocode_query": "Bungie headquarters Bellevue Washington United States",
         "place_type": "studio_site",
-        "location_precision": "city",
-        "place_reason": "game-all未解決記事にDestiny開発元Bungieの人員削減・企画記事があり、Bungieの所在地としてベルビューに置く（一致語: Bungie devs reportedly pitched Destiny dating game）",
-        "confidence": 0.84,
+        "location_precision": "headquarters_area",
+        "place_reason": "Destiny開発元Bungieの記事なので、ベルビュー市代表点ではなくBungie本社周辺として置く。住所まで確実に固定せず、本社周辺粒度に止める（一致語: Bungie devs reportedly pitched Destiny dating game）",
+        "confidence": 0.78,
         "rule_id": "observed_bungie_destiny_layoffs_bellevue_202606",
         "matched_text": "Bungie devs reportedly pitched Destiny dating game",
         "match_source": "known_place_title"
@@ -1073,14 +1046,14 @@
         "source": "gamedeveloper",
         "link": "https://www.gamedeveloper.com/design/how-a-12-year-wait-made-alien-isolation-2-a-better-sequel",
         "published_at": "2026-06-23T14:40:48+00:00",
-        "representative_place": "Creative Assembly / Alien Isolation 2",
-        "place_label": "英国-イングランド-ホーシャム",
-        "sort_place_label": "英国-イングランド-ホーシャム",
+        "representative_place": "Creative Assembly / Horsham studio area",
+        "place_label": "Creative Assembly / Horsham studio area",
+        "sort_place_label": "Creative Assembly / Horsham studio area",
         "geocode_query": "Creative Assembly Horsham England",
         "place_type": "studio_site",
-        "location_precision": "city",
-        "place_reason": "game-all未解決記事にAlien Isolation 2とCreative Assemblyの開発者インタビューがあり、Creative Assemblyの所在地としてホーシャムに置く（一致語: How a 12 year wait made Alien Isolation 2）",
-        "confidence": 0.82,
+        "location_precision": "studio_area",
+        "place_reason": "Alien Isolation 2の記事はCreative Assemblyが主体なので、ホーシャム市代表点ではなくCreative Assemblyスタジオ周辺として置く。住所まで確実に固定せず、スタジオ周辺粒度に止める（一致語: How a 12 year wait made Alien Isolation 2）",
+        "confidence": 0.76,
         "rule_id": "observed_creative_assembly_alien_isolation_2_horsham_202606",
         "matched_text": "How a 12 year wait made Alien Isolation 2",
         "match_source": "known_place_title"
@@ -1253,8 +1226,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.4737,
-          31.2304
+          121.4368,
+          31.1846
         ]
       },
       "properties": {
@@ -1262,14 +1235,14 @@
         "source": "Mobilegamer.biz",
         "link": "https://mobilegamer.biz/honkai-nexus-anima-is-hoyoverses-take-on-the-pokemon-formula/",
         "published_at": "2026-06-23T09:28:54+00:00",
-        "representative_place": "miHoYo / HoYoverse Honkai: Nexus Anima",
+        "representative_place": "miHoYo / HoYoverse Shanghai studio area",
         "place_label": "中国-上海市",
         "sort_place_label": "中国-上海市",
-        "geocode_query": "miHoYo Shanghai China",
+        "geocode_query": "miHoYo Xuhui Shanghai China",
         "place_type": "studio_site",
-        "location_precision": "city",
-        "place_reason": "game-all未解決記事にHoYoverseのHonkai新作が明示されており、Honkaiシリーズの開発元miHoYoの所在地として上海に置く。中国一般ではなくスタジオ所在地として扱う（一致語: Hoyoverse’s take on the Pokémon formula）",
-        "confidence": 0.78,
+        "location_precision": "district",
+        "place_reason": "HoYoverse/miHoYoの記事なので、上海市代表点ではなくmiHoYo/HoYoverseのスタジオ周辺として徐匯区側に置く。住所固定ではなく地区粒度に止める（一致語: Hoyoverse’s take on the Pokémon formula）",
+        "confidence": 0.72,
         "rule_id": "observed_hoyoverse_honkai_nexus_anima_shanghai_202606",
         "matched_text": "Hoyoverse’s take on the Pokémon formula",
         "match_source": "known_place_title"
@@ -1307,8 +1280,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.4737,
-          31.2304
+          121.5637,
+          31.21
         ]
       },
       "properties": {
@@ -1316,14 +1289,14 @@
         "source": "Latest Updates | PocketGamer.biz",
         "link": "https://www.pocketgamer.biz/kingsofts-claire-yang-joins-pgc-shanghai-to-talk-mid-sized-studio-survival/",
         "published_at": "2026-06-23T08:57:00+00:00",
-        "representative_place": "Pocket Gamer Connects Summit Shanghai speaker session",
-        "place_label": "中国-上海市",
-        "sort_place_label": "中国-上海市",
-        "geocode_query": "Shanghai China",
+        "representative_place": "Pocket Gamer Connects Summit Shanghai / Shanghai New International Expo Centre",
+        "place_label": "中国-上海市-浦東新区-上海新国際博覧中心",
+        "sort_place_label": "中国-上海市-浦東新区-上海新国際博覧中心",
+        "geocode_query": "Shanghai New International Expo Centre Pudong Shanghai China",
         "place_type": "event_site",
-        "location_precision": "city",
-        "place_reason": "game-all未解決記事のタイトルにPGC Shanghai、summaryにPocket Gamer Connects Summit Shanghaiが明示されているため上海に置く（一致語: PGC Shanghai）",
-        "confidence": 0.88,
+        "location_precision": "venue",
+        "place_reason": "PGC Shanghaiは上海市代表点ではなく、ChinaJoy連動イベントとして使われる上海新国際博覧中心の会場単位で置く（一致語: PGC Shanghai）",
+        "confidence": 0.74,
         "rule_id": "observed_pgc_shanghai_speaker_202607",
         "matched_text": "PGC Shanghai",
         "match_source": "known_place_title"
@@ -1334,8 +1307,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.4194,
-          37.7749
+          -122.398,
+          37.789
         ]
       },
       "properties": {
@@ -1343,14 +1316,14 @@
         "source": "gamedeveloper",
         "link": "https://www.gamedeveloper.com/business/ubisoft-eliminates-93-roles-in-san-francisco",
         "published_at": "2026-06-22T17:38:03+00:00",
-        "representative_place": "Ubisoft San Francisco layoffs",
+        "representative_place": "Ubisoft San Francisco office area",
         "place_label": "米国-カリフォルニア州-サンフランシスコ",
         "sort_place_label": "米国-カリフォルニア州-サンフランシスコ",
-        "geocode_query": "San Francisco California United States",
+        "geocode_query": "Ubisoft San Francisco California United States",
         "place_type": "labor_site",
-        "location_precision": "city",
-        "place_reason": "game-all未解決記事のタイトルに『Ubisoft eliminates 93 roles in San Francisco』、summaryにCalifornia WARN noticeが明示されているためサンフランシスコに置く（一致語: Ubisoft eliminates 93 roles in San Francisco）",
-        "confidence": 0.9,
+        "location_precision": "office_area",
+        "place_reason": "Ubisoft San Franciscoの人員削減記事なので、サンフランシスコ市代表点ではなく同オフィス周辺として置く。WARN記事では都市単位だが、会社主体が明確なためオフィス周辺に寄せる（一致語: Ubisoft eliminates 93 roles in San Francisco）",
+        "confidence": 0.74,
         "rule_id": "observed_ubisoft_san_francisco_layoffs_202606",
         "matched_text": "Ubisoft eliminates 93 roles in San Francisco",
         "match_source": "known_place_title"
@@ -1658,8 +1631,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.1218,
-          52.2053
+          0.142,
+          52.218
         ]
       },
       "properties": {
@@ -1667,14 +1640,14 @@
         "source": "gamedeveloper",
         "link": "https://www.gamedeveloper.com/business/report-xbox-was-set-on-splitting-with-ninja-theory-when-showing-its-new-project",
         "published_at": "2026-06-17T15:34:55+00:00",
-        "representative_place": "Ninja Theory / Hellblade",
-        "place_label": "英国-イングランド-ケンブリッジ",
-        "sort_place_label": "英国-イングランド-ケンブリッジ",
+        "representative_place": "Ninja Theory / Cambridge studio area",
+        "place_label": "Ninja Theory / Cambridge studio area",
+        "sort_place_label": "Ninja Theory / Cambridge studio area",
         "geocode_query": "Ninja Theory Cambridge England",
         "place_type": "studio_site",
-        "location_precision": "city",
-        "place_reason": "game-all未解決記事にHellblade開発元Ninja Theoryの閉鎖リスクが明示されているため、同スタジオの所在地としてケンブリッジに置く（一致語: Ninja Theory）",
-        "confidence": 0.86,
+        "location_precision": "studio_area",
+        "place_reason": "Hellblade開発元Ninja Theoryの記事なので、ケンブリッジ市代表点ではなくNinja Theoryスタジオ周辺として置く。住所まで確実に固定せず、スタジオ周辺粒度に止める（一致語: Ninja Theory）",
+        "confidence": 0.76,
         "rule_id": "observed_ninja_theory_hellblade_closure_cambridge_202606",
         "matched_text": "Ninja Theory",
         "match_source": "known_place_title"
@@ -1712,8 +1685,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.9603,
-          50.9375
+          6.982,
+          50.9473
         ]
       },
       "properties": {
@@ -1721,14 +1694,14 @@
         "source": "GamesIndustry.biz Latest Articles Feed",
         "link": "https://www.gamesindustry.biz/president-of-germany-to-open-gamescom-congress-and-attend-gamescom-2026",
         "published_at": "2026-06-17T12:57:45+00:00",
-        "representative_place": "Gamescom Congress 2026",
-        "place_label": "ドイツ-ノルトライン＝ヴェストファーレン州-ケルン",
-        "sort_place_label": "ドイツ-ノルトライン＝ヴェストファーレン州-ケルン",
-        "geocode_query": "Gamescom Cologne Germany",
+        "representative_place": "Gamescom Congress 2026 / Koelnmesse",
+        "place_label": "ドイツ-ノルトライン＝ヴェストファーレン州-ケルン-Koelnmesse",
+        "sort_place_label": "ドイツ-ノルトライン＝ヴェストファーレン州-ケルン-Koelnmesse",
+        "geocode_query": "Koelnmesse Messeplatz 1 Cologne Germany",
         "place_type": "event_site",
-        "location_precision": "city",
-        "place_reason": "game-all未解決記事にGamescom Congress / Gamescom 2026が明示されているため、gamescom開催地としてケルンに置く（一致語: President of Germany to open Gamescom Congress and attend Gamescom 2026）",
-        "confidence": 0.88,
+        "location_precision": "venue",
+        "place_reason": "GamescomはケルンのKoelnmesseで開催されるため、ケルン市代表点ではなく会場単位に置く（一致語: President of Germany to open Gamescom Congress and attend Gamescom 2026）",
+        "confidence": 0.86,
         "rule_id": "observed_gamescom_congress_german_president_cologne_202606",
         "matched_text": "President of Germany to open Gamescom Congress and attend Gamescom 2026",
         "match_source": "known_place_title"
@@ -1748,13 +1721,13 @@
         "source": "GamesIndustry.biz Latest Articles Feed",
         "link": "https://www.gamesindustry.biz/kwalee-labs-shut-down-following-launch-of-luna-abyss",
         "published_at": "2026-06-17T12:36:17+00:00",
-        "representative_place": "Kwalee Labs / Luna Abyss",
-        "place_label": "英国-イングランド-レミントン・スパ",
-        "sort_place_label": "英国-イングランド-レミントン・スパ",
+        "representative_place": "Kwalee Labs / Leamington Spa studio area",
+        "place_label": "Kwalee Labs / Leamington Spa studio area",
+        "sort_place_label": "Kwalee Labs / Leamington Spa studio area",
         "geocode_query": "Kwalee Leamington Spa England",
         "place_type": "studio_site",
-        "location_precision": "city",
-        "place_reason": "game-all未解決記事にKwalee Labsの閉鎖とLuna Abyssが明示されており、Kwaleeの所在地としてレミントン・スパに置く（一致語: Kwalee Labs shut down following launch of Luna Abyss）",
+        "location_precision": "studio_area",
+        "place_reason": "Kwalee Labsの記事なので、レミントン・スパ市代表点ではなくKwalee周辺として置く。住所まで確実に固定せず、スタジオ周辺粒度に止める（一致語: Kwalee Labs shut down following launch of Luna Abyss）",
         "confidence": 0.72,
         "rule_id": "observed_kwalee_labs_luna_abyss_leamington_202606",
         "matched_text": "Kwalee Labs shut down following launch of Luna Abyss",
@@ -1793,8 +1766,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.4117,
-          34.0211
+          -118.418,
+          33.9755
         ]
       },
       "properties": {
@@ -1802,14 +1775,14 @@
         "source": "gamedeveloper",
         "link": "https://www.gamedeveloper.com/business/treyarch-studio-head-steps-down-after-22-years",
         "published_at": "2026-06-16T14:05:00+00:00",
-        "representative_place": "Treyarch",
-        "place_label": "米国-カリフォルニア州-ロサンゼルス",
-        "sort_place_label": "米国-カリフォルニア州-ロサンゼルス",
-        "geocode_query": "Treyarch Los Angeles California United States",
+        "representative_place": "Treyarch / Playa Vista",
+        "place_label": "米国-カリフォルニア州-ロサンゼルス-プラヤ・ビスタ",
+        "sort_place_label": "米国-カリフォルニア州-ロサンゼルス-プラヤ・ビスタ",
+        "geocode_query": "Playa Vista Los Angeles California United States",
         "place_type": "studio_site",
-        "location_precision": "city",
-        "place_reason": "game-all未解決記事にTreyarchスタジオヘッド退任が明示されているため、同スタジオの所在地としてロサンゼルスに置く（一致語: Treyarch studio head steps down after 22 years）",
-        "confidence": 0.8,
+        "location_precision": "district",
+        "place_reason": "Treyarchはロサンゼルス市代表点ではなくPlaya Vista所在のスタジオとして扱う。現時点では公開確認できる安全な粒度を地区単位に止める（一致語: Treyarch studio head steps down after 22 years）",
+        "confidence": 0.76,
         "rule_id": "observed_treyarch_studio_head_los_angeles_202606",
         "matched_text": "Treyarch studio head steps down after 22 years",
         "match_source": "known_place_title"
@@ -1874,8 +1847,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.1218,
-          52.2053
+          0.142,
+          52.218
         ]
       },
       "properties": {
@@ -1883,14 +1856,14 @@
         "source": "Game*Spark",
         "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBlcVcyNUllSW9MbXZHTzlfWFNaLUxtb3JseEIwSVExZ1RmUzVpd1lwbnJYQ09oN0NxNEIzUnpfaU9NYVVVbXN1UzZ5WUJ2dlhvMERLQzdhaHVORXloTGxKM3hDem14dw?oc=5",
         "published_at": "2026-06-16T07:00:00+00:00",
-        "representative_place": "Ninja Theory / Hellblade",
-        "place_label": "英国-イングランド-ケンブリッジ",
-        "sort_place_label": "英国-イングランド-ケンブリッジ",
+        "representative_place": "Ninja Theory / Cambridge studio area",
+        "place_label": "Ninja Theory / Cambridge studio area",
+        "sort_place_label": "Ninja Theory / Cambridge studio area",
         "geocode_query": "Ninja Theory Cambridge England",
         "place_type": "studio_site",
-        "location_precision": "city",
-        "place_reason": "game-all未解決記事にHellblade開発元Ninja Theoryの閉鎖リスクが明示されているため、同スタジオの所在地としてケンブリッジに置く（一致語: Hellblade』開発元Ninja Theory）",
-        "confidence": 0.86,
+        "location_precision": "studio_area",
+        "place_reason": "Hellblade開発元Ninja Theoryの記事なので、ケンブリッジ市代表点ではなくNinja Theoryスタジオ周辺として置く。住所まで確実に固定せず、スタジオ周辺粒度に止める（一致語: Hellblade』開発元Ninja Theory）",
+        "confidence": 0.76,
         "rule_id": "observed_ninja_theory_hellblade_closure_cambridge_202606",
         "matched_text": "Hellblade』開発元Ninja Theory",
         "match_source": "known_place_title"
@@ -1901,8 +1874,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.1218,
-          52.2053
+          -73.5673,
+          45.5017
         ]
       },
       "properties": {
@@ -1910,16 +1883,16 @@
         "source": "GamesIndustry.biz Latest Articles Feed",
         "link": "https://www.gamesindustry.biz/xbox-is-reportedly-considering-closing-south-of-midnight-studio-compulsion-games-with-double-fine-and-ninja-theory-also-allegedly-at-risk",
         "published_at": "2026-06-15T21:00:01+00:00",
-        "representative_place": "Ninja Theory / Hellblade",
-        "place_label": "英国-イングランド-ケンブリッジ",
-        "sort_place_label": "英国-イングランド-ケンブリッジ",
-        "geocode_query": "Ninja Theory Cambridge England",
+        "representative_place": "Compulsion Games / South of Midnight",
+        "place_label": "カナダ-ケベック州-モントリオール",
+        "sort_place_label": "カナダ-ケベック州-モントリオール",
+        "geocode_query": "Compulsion Games Montreal Canada",
         "place_type": "studio_site",
         "location_precision": "city",
-        "place_reason": "game-all未解決記事にHellblade開発元Ninja Theoryの閉鎖リスクが明示されているため、同スタジオの所在地としてケンブリッジに置く（一致語: Ninja Theory）",
-        "confidence": 0.86,
-        "rule_id": "observed_ninja_theory_hellblade_closure_cambridge_202606",
-        "matched_text": "Ninja Theory",
+        "place_reason": "game-all未解決記事にSouth of Midnight開発元Compulsion Gamesの閉鎖リスクが明示されているため、同スタジオの所在地としてモントリオールに置く（一致語: South of Midnight studio, Compulsion Games）",
+        "confidence": 0.84,
+        "rule_id": "observed_compulsion_games_south_of_midnight_montreal_202606",
+        "matched_text": "South of Midnight studio, Compulsion Games",
         "match_source": "known_place_title"
       }
     },
@@ -1937,14 +1910,14 @@
         "source": "GamesIndustry.biz Latest Articles Feed",
         "link": "https://www.gamesindustry.biz/toys-for-bob-says-spyro-reigniteds-11m-sales-proved-theres-an-audience-that-woke-up-to-show-up-for-that-series",
         "published_at": "2026-06-15T20:24:47+00:00",
-        "representative_place": "Toys for Bob / Spyro",
-        "place_label": "米国-カリフォルニア州-ノバト",
-        "sort_place_label": "米国-カリフォルニア州-ノバト",
+        "representative_place": "Toys for Bob / Novato studio area",
+        "place_label": "米国-Toys for Bob / Novato studio area",
+        "sort_place_label": "米国-Toys for Bob / Novato studio area",
         "geocode_query": "Toys for Bob Novato California United States",
         "place_type": "studio_site",
-        "location_precision": "city",
-        "place_reason": "game-all未解決記事にSpyro開発元Toys for Bobが明示されているため、同スタジオの所在地としてノバトに置く（一致語: Toys for Bob says Spyro: Reignited）",
-        "confidence": 0.82,
+        "location_precision": "studio_area",
+        "place_reason": "Spyro開発元Toys for Bobの記事なので、ノバト市代表点ではなくToys for Bobスタジオ周辺として置く。住所まで確実に固定せず、スタジオ周辺粒度に止める（一致語: Toys for Bob says Spyro: Reignited）",
+        "confidence": 0.74,
         "rule_id": "observed_toys_for_bob_spyro_novato_202606",
         "matched_text": "Toys for Bob says Spyro: Reignited",
         "match_source": "known_place_title"
@@ -2063,6 +2036,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.1278,
+          51.5074
+        ]
+      },
+      "properties": {
+        "title": "『バットマン：アーカム』開発チームが新作DCマルチプレイヤーゲームを開発か？失敗を恐れず「サービス型ゲーム」に再挑戦 - 玩具人 TOY PEOPLE",
+        "source": "玩具人 TOY PEOPLE",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9hZl9XRjZmbzNiRllqUU9pTmRia3dvVXdkUUxNSk1yU3dBc3dycGxwNnkwUVZrQnhNNkVRcnNTeVdtYXNvYk12U2NDMFNfZ0p2?oc=5",
+        "published_at": "2026-06-12T10:29:50+00:00",
+        "representative_place": "Rocksteady Studios / DC multiplayer game",
+        "place_label": "英国-イングランド-ロンドン",
+        "sort_place_label": "英国-イングランド-ロンドン",
+        "geocode_query": "Rocksteady Studios London England",
+        "place_type": "studio_site",
+        "location_precision": "city",
+        "place_reason": "game-all未解決記事に『バットマン：アーカム』開発チームが新作DCマルチプレイヤーゲームを開発か、と明示されているため、Arkham開発元Rocksteady Studiosの所在地としてロンドンに置く（一致語: バットマン：アーカム』開発チーム）",
+        "confidence": 0.78,
+        "rule_id": "observed_rocksteady_dc_multiplayer_london_202606",
+        "matched_text": "バットマン：アーカム』開発チーム",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.1376,
           51.5144
         ]
@@ -2090,8 +2090,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.1218,
-          52.2053
+          0.1771,
+          52.1829
         ]
       },
       "properties": {
@@ -2099,14 +2099,14 @@
         "source": "GamesIndustry.biz Latest Articles Feed",
         "link": "https://www.gamesindustry.biz/new-arm-tech-enables-the-use-of-unreal-engine-megalights-on-mobile",
         "published_at": "2026-06-10T13:00:00+00:00",
-        "representative_place": "Arm / Neural Dawn",
-        "place_label": "英国-イングランド-ケンブリッジ",
-        "sort_place_label": "英国-イングランド-ケンブリッジ",
-        "geocode_query": "Arm Cambridge England",
+        "representative_place": "Arm headquarters / 110 Fulbourn Road",
+        "place_label": "英国-イングランド-ケンブリッジ-110 Fulbourn Road",
+        "sort_place_label": "英国-イングランド-ケンブリッジ-110 Fulbourn Road",
+        "geocode_query": "110 Fulbourn Road Cambridge CB1 9NJ United Kingdom",
         "place_type": "company_site",
-        "location_precision": "city",
-        "place_reason": "game-all未解決記事にUK-based Armとゲーム技術デモNeural Dawnが明示されているため、Armの代表地点としてケンブリッジに置く（一致語: New Arm tech enables the use of Unreal Engine MegaLights on mobile）",
-        "confidence": 0.76,
+        "location_precision": "street_address",
+        "place_reason": "ArmはCambridgeの110 Fulbourn Roadが本社所在地として確認できるため、ケンブリッジ市代表点ではなく住所単位に置く（一致語: New Arm tech enables the use of Unreal Engine MegaLights on mobile）",
+        "confidence": 0.84,
         "rule_id": "observed_arm_neural_dawn_cambridge_202606",
         "matched_text": "New Arm tech enables the use of Unreal Engine MegaLights on mobile",
         "match_source": "known_place_title"
@@ -2117,8 +2117,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.1218,
-          52.2053
+          0.148,
+          52.2351
         ]
       },
       "properties": {
@@ -2126,14 +2126,14 @@
         "source": "GamesIndustry.biz Latest Articles Feed",
         "link": "https://www.gamesindustry.biz/frontier-developments-reports-record-profits-in-fy26-turnaround",
         "published_at": "2026-06-10T12:52:49+00:00",
-        "representative_place": "Frontier Developments",
-        "place_label": "英国-イングランド-ケンブリッジ",
-        "sort_place_label": "英国-イングランド-ケンブリッジ",
-        "geocode_query": "Frontier Developments Cambridge England",
+        "representative_place": "Frontier Developments / Cambridge Science Park",
+        "place_label": "英国-イングランド-ケンブリッジ-Cambridge Science Park",
+        "sort_place_label": "英国-イングランド-ケンブリッジ-Cambridge Science Park",
+        "geocode_query": "Cambridge Science Park Milton Road Cambridge United Kingdom",
         "place_type": "studio_site",
-        "location_precision": "city",
-        "place_reason": "game-all未解決記事にFrontier DevelopmentsのFY26業績が明示されているため、同社所在地としてケンブリッジに置く（一致語: Frontier Developments reports record profits in FY26 turnaround）",
-        "confidence": 0.78,
+        "location_precision": "campus",
+        "place_reason": "Frontier DevelopmentsはCambridge Science Park所在として確認できるため、ケンブリッジ市代表点ではなくサイエンスパーク単位に置く（一致語: Frontier Developments reports record profits in FY26 turnaround）",
+        "confidence": 0.82,
         "rule_id": "observed_frontier_developments_fy26_cambridge_202606",
         "matched_text": "Frontier Developments reports record profits in FY26 turnaround",
         "match_source": "known_place_title"
@@ -2252,8 +2252,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.1218,
-          52.2053
+          0.142,
+          52.218
         ]
       },
       "properties": {
@@ -2261,14 +2261,14 @@
         "source": "GamesIndustry.biz Latest Articles Feed",
         "link": "https://www.gamesindustry.biz/ninja-theory-cancels-project-mara",
         "published_at": "2026-06-09T07:46:09+00:00",
-        "representative_place": "Ninja Theory / Hellblade",
-        "place_label": "英国-イングランド-ケンブリッジ",
-        "sort_place_label": "英国-イングランド-ケンブリッジ",
+        "representative_place": "Ninja Theory / Cambridge studio area",
+        "place_label": "Ninja Theory / Cambridge studio area",
+        "sort_place_label": "Ninja Theory / Cambridge studio area",
         "geocode_query": "Ninja Theory Cambridge England",
         "place_type": "studio_site",
-        "location_precision": "city",
-        "place_reason": "game-all未解決記事にHellblade開発元Ninja Theoryの閉鎖リスクが明示されているため、同スタジオの所在地としてケンブリッジに置く（一致語: Ninja Theory）",
-        "confidence": 0.86,
+        "location_precision": "studio_area",
+        "place_reason": "Hellblade開発元Ninja Theoryの記事なので、ケンブリッジ市代表点ではなくNinja Theoryスタジオ周辺として置く。住所まで確実に固定せず、スタジオ周辺粒度に止める（一致語: Ninja Theory）",
+        "confidence": 0.76,
         "rule_id": "observed_ninja_theory_hellblade_closure_cambridge_202606",
         "matched_text": "Ninja Theory",
         "match_source": "known_place_title"
@@ -2288,14 +2288,14 @@
         "source": "GamesIndustry.biz Latest Articles Feed",
         "link": "https://www.gamesindustry.biz/after-a-stint-on-warzone-toys-for-bob-is-thrilled-to-be-back-on-spyro-we-were-moving-away-from-the-types-of-games-that-are-near-and-dear-to-our-hearts",
         "published_at": "2026-06-08T15:50:25+00:00",
-        "representative_place": "Toys for Bob / Spyro",
-        "place_label": "米国-カリフォルニア州-ノバト",
-        "sort_place_label": "米国-カリフォルニア州-ノバト",
+        "representative_place": "Toys for Bob / Novato studio area",
+        "place_label": "米国-Toys for Bob / Novato studio area",
+        "sort_place_label": "米国-Toys for Bob / Novato studio area",
         "geocode_query": "Toys for Bob Novato California United States",
         "place_type": "studio_site",
-        "location_precision": "city",
-        "place_reason": "game-all未解決記事にSpyro開発元Toys for Bobが明示されているため、同スタジオの所在地としてノバトに置く（一致語: Toys for Bob）",
-        "confidence": 0.82,
+        "location_precision": "studio_area",
+        "place_reason": "Spyro開発元Toys for Bobの記事なので、ノバト市代表点ではなくToys for Bobスタジオ周辺として置く。住所まで確実に固定せず、スタジオ周辺粒度に止める（一致語: Toys for Bob）",
+        "confidence": 0.74,
         "rule_id": "observed_toys_for_bob_spyro_novato_202606",
         "matched_text": "Toys for Bob",
         "match_source": "known_place_title"
@@ -2333,8 +2333,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.5023,
-          34.6937
+          135.4906,
+          34.7053
         ]
       },
       "properties": {
@@ -2342,14 +2342,14 @@
         "source": "GamesIndustry.biz Latest Articles Feed",
         "link": "https://www.gamesindustry.biz/platinum-is-making-a-triple-a-ninja-turtles-game-because-theyre-huge-fans-of-the-ip",
         "published_at": "2026-06-05T21:45:36+00:00",
-        "representative_place": "PlatinumGames / Teenage Mutant Ninja Turtles: The Last Ronin",
-        "place_label": "日本-大阪府-大阪市",
-        "sort_place_label": "日本-大阪府-大阪市",
-        "geocode_query": "PlatinumGames Osaka Japan",
+        "representative_place": "PlatinumGames / Umeda Sky Building West Tower 8F",
+        "place_label": "PlatinumGames / Umeda Sky Building West Tower 8F",
+        "sort_place_label": "PlatinumGames / Umeda Sky Building West Tower 8F",
+        "geocode_query": "Umeda Sky Building West Tower 8F 1-1-30 Oyodonaka Kita-ku Osaka Japan",
         "place_type": "studio_site",
-        "location_precision": "city",
-        "place_reason": "game-all未解決記事のsummaryにBayonetta dev PlatinumGamesがTeenage Mutant Ninja Turtles: The Last Roninを開発すると明示されているため、同スタジオ所在地として大阪に置く（一致語: Platinum is making a triple-A Ninja Turtles game）",
-        "confidence": 0.84,
+        "location_precision": "building_floor",
+        "place_reason": "PlatinumGamesは大阪市北区大淀中1-1-30 梅田スカイビル西棟8Fまで所在地が確認できるため、大阪市代表点ではなくビル階層単位に置く（一致語: Platinum is making a triple-A Ninja Turtles game）",
+        "confidence": 0.88,
         "rule_id": "observed_platinumgames_tmnt_osaka_202606",
         "matched_text": "Platinum is making a triple-A Ninja Turtles game",
         "match_source": "known_place_title"
@@ -2684,8 +2684,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.4074,
-          39.9042
+          121.4368,
+          31.1846
         ]
       },
       "properties": {
@@ -2693,17 +2693,17 @@
         "source": "Game World Observer",
         "link": "https://gameworldobserver.com/2026/05/26/the-creators-of-genshin-impact-will-spend-nearly-15-billion-on-ai",
         "published_at": "2026-05-26T13:06:24+00:00",
-        "representative_place": "miHoYo AI event in Beijing",
-        "place_label": "中国-北京市",
-        "sort_place_label": "中国-北京市",
-        "geocode_query": "Beijing China",
-        "place_type": "event_site",
-        "location_precision": "city",
-        "place_reason": "game-all未解決記事のsummaryにmiHoYoのLiu Weiが北京のAIイベントで発表したと明示されているため、発表イベント地点として北京に置く（一致語: The creators of Genshin Impact will spend nearly $15 billion on AI）",
-        "confidence": 0.88,
-        "rule_id": "observed_mihoyo_ai_beijing_event_202605",
-        "matched_text": "The creators of Genshin Impact will spend nearly $15 billion on AI",
-        "match_source": "known_place_title"
+        "representative_place": "miHoYo / HoYoverse Shanghai studio area",
+        "place_label": "中国-上海市",
+        "sort_place_label": "中国-上海市",
+        "geocode_query": "miHoYo Xuhui Shanghai China",
+        "place_type": "studio_site",
+        "location_precision": "district",
+        "place_reason": "HoYoverse/miHoYoの記事なので、上海市代表点ではなくmiHoYo/HoYoverseのスタジオ周辺として徐匯区側に置く。住所固定ではなく地区粒度に止める",
+        "confidence": 0.72,
+        "rule_id": "observed_hoyoverse_honkai_nexus_anima_shanghai_202606",
+        "matched_text": "miHoYo",
+        "match_source": "rule"
       }
     },
     {
@@ -3008,8 +3008,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.6503,
-          35.6762
+          139.7657,
+          35.67
         ]
       },
       "properties": {
@@ -3017,14 +3017,14 @@
         "source": "Game World Observer",
         "link": "https://gameworldobserver.com/2026/04/21/the-creators-of-the-anime-one-piece-and-dragon-ball-have-launched-a-gaming-division",
         "published_at": "2026-04-21T13:48:52+00:00",
-        "representative_place": "Toei Company gaming division",
+        "representative_place": "Toei Company / Ginza headquarters",
         "place_label": "日本-東京都",
         "sort_place_label": "日本-東京都",
-        "geocode_query": "Toei Company Tokyo Japan",
+        "geocode_query": "Toei Company Ginza Chuo Tokyo Japan",
         "place_type": "company_site",
-        "location_precision": "city",
-        "place_reason": "game-all未解決記事のsummaryにToei Companyがゲーム事業へ進出すると明示されているため、同社所在地として東京に置く（一致語: The creators of the anime One Piece and Dragon Ball have launched a gaming division）",
-        "confidence": 0.8,
+        "location_precision": "headquarters_area",
+        "place_reason": "Toei Companyは東京市代表点ではなく銀座の本社周辺として置く（一致語: The creators of the anime One Piece and Dragon Ball have launched a gaming division）",
+        "confidence": 0.78,
         "rule_id": "observed_toei_company_gaming_division_tokyo_202604",
         "matched_text": "The creators of the anime One Piece and Dragon Ball have launched a gaming division",
         "match_source": "known_place_title"
@@ -3332,33 +3332,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -63.5752,
-          44.6488
-        ]
-      },
-      "properties": {
-        "title": "Ubisoft shuts down Halifax mobile gaming studio; affected employees hint at union busting - The Times of India",
-        "source": "The Times of India",
-        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOaWlRNmkxOG9laDFpRFJqSEIzZUpqclJwNm5Ga3NwN016c0F3Z0RYSFMzWXlvWmNqYko0dFdLTVE3cnYwRDVXaEpZWDZmYU5rZ0ZjWDVzaVVtajFTTGFJbkxYTjE2Ukg0NnNGcm9qaXBKYldXSzZBSllWLXUwX1ZyREp6ZXZaWm1FM3QwcHMwdUhhZ3dkZVJyY1BDTWRPVWpwajhpaWlRTTFMQnNSSFVKckdOekhQMl9XbElBTS00VGlNLW1rdjh4X19NRDJ0TGJUNWpwR25TNzdXMEx2UVZpeGVPcGZjTl80WkM0NWplUGNzUHBjeXlWWWE2N2jSAYICQVVfeXFMTU1DdVMxTnJuc3hfT1REZWxmUDRYc2lYa193ZTJaSEgzYlBxSDVEV3ZQclYtX1owQU5yb3o0X1lQSnZTUEs4azNiMmZBT0JIUzNVWlFHTTU5eFRJdEQ4V3lGVUhiVThTaEtULTNUVkZBQ0Q1ZENzOHNLZnlfUDlYNHR3bmlYc043VlQ4ZmNuM2JJRXBGdExiRUJGRktqZnFqYTVVa19OcUttRVhuR2pYaFIzQXFjanljc1pCY0JJUjRSdXRxRHZDeGRjemwzSGhVTFdjcThrRm10bWFMUUVQMGdqRHBWR1cwMWhiOVk1eUI2RGpEV2hTaHdwQVo1WDI1U0pn?oc=5",
-        "published_at": "2026-01-08T08:00:00+00:00",
-        "representative_place": "Halifax mobile gaming studio closure",
-        "place_label": "カナダ-ノバスコシア州-ハリファックス",
-        "sort_place_label": "カナダ-ノバスコシア州-ハリファックス",
-        "geocode_query": "Halifax Nova Scotia Canada",
-        "place_type": "studio_site",
-        "location_precision": "city",
-        "place_reason": "未解決記事のタイトルに『Halifax mobile gaming studio』と明示されているため、閉鎖対象のスタジオ所在地としてハリファックスに置く（一致語: Ubisoft shuts down Halifax mobile gaming studio）",
-        "confidence": 0.86,
-        "rule_id": "observed_ubisoft_halifax_closure_202601",
-        "matched_text": "Ubisoft shuts down Halifax mobile gaming studio",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           77.5946,
           12.9716
         ]
@@ -3476,14 +3449,14 @@
         "source": "PR TIMES",
         "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBhbjRkZkJwRWpxWW5JbFlBckFxZ29VYklFRWZSZk1vVWhXMm1ycXByN3ZMWkZka2FXMWQyTmlrUFJTcFJJYWFUVDJvTHRXNmlPZVMtT2dia19yRzVocmU3QUMyZzJDMVRHbGc?oc=5",
         "published_at": "2025-06-16T07:00:00+00:00",
-        "representative_place": "Creative Assembly / Alien Isolation 2",
-        "place_label": "英国-イングランド-ホーシャム",
-        "sort_place_label": "英国-イングランド-ホーシャム",
+        "representative_place": "Creative Assembly / Horsham studio area",
+        "place_label": "Creative Assembly / Horsham studio area",
+        "sort_place_label": "Creative Assembly / Horsham studio area",
         "geocode_query": "Creative Assembly Horsham England",
         "place_type": "studio_site",
-        "location_precision": "city",
-        "place_reason": "game-all未解決記事にAlien Isolation 2とCreative Assemblyの開発者インタビューがあり、Creative Assemblyの所在地としてホーシャムに置く（一致語: Creative Assembly）",
-        "confidence": 0.82,
+        "location_precision": "studio_area",
+        "place_reason": "Alien Isolation 2の記事はCreative Assemblyが主体なので、ホーシャム市代表点ではなくCreative Assemblyスタジオ周辺として置く。住所まで確実に固定せず、スタジオ周辺粒度に止める（一致語: Creative Assembly）",
+        "confidence": 0.76,
         "rule_id": "observed_creative_assembly_alien_isolation_2_horsham_202606",
         "matched_text": "Creative Assembly",
         "match_source": "known_place_title"
@@ -3864,6 +3837,33 @@
         "confidence": 0.82,
         "rule_id": "observed_ubisoft_philippines_industry_202502",
         "matched_text": "Ubisoft Philippines",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0686,
+          59.3293
+        ]
+      },
+      "properties": {
+        "title": "オープンワールドゲーム開発でおなじみのAvalanche Studiosが「3分社化」。開発は3スタジオに分かれ、新作も発表 - AUTOMATON",
+        "source": "AUTOMATON",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE12UDB3V3hOdFlYb1dBenZQV2lLVGNiVjNUb2daUENnM2UwNWhhRkNObjhQVWxQX0FlZGhfMlZiazB0ZC1zMGlkcWVYemRyMVAyN3d1LVJYbEY4RTBySHZic1NkdFZCYk05THFLUg?oc=5",
+        "published_at": "2020-03-27T07:00:00+00:00",
+        "representative_place": "Avalanche Studios / Just Cause",
+        "place_label": "スウェーデン-ストックホルム",
+        "sort_place_label": "スウェーデン-ストックホルム",
+        "geocode_query": "Avalanche Studios Stockholm Sweden",
+        "place_type": "studio_site",
+        "location_precision": "city",
+        "place_reason": "game-all未解決記事に『ジャストコーズ』開発元が未発表AAAオープンワールド作品に着手か、と明示されているため、Just Cause開発元Avalanche Studiosの所在地としてストックホルムに置く（一致語: Avalanche Studios）",
+        "confidence": 0.78,
+        "rule_id": "observed_avalanche_studios_just_cause_stockholm_202604",
+        "matched_text": "Avalanche Studios",
         "match_source": "known_place_title"
       }
     }
