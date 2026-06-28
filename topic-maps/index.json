@@ -1,633 +1,136 @@
 {
   "ok": true,
-  "created_at": "2026-06-28T16:42:59.436324+00:00",
+  "created_at": "2026-06-28T16:50:52.284138+00:00",
   "feeds": [
     {
-      "id": "game-developer-global",
-      "label": "Game Developer: Global",
+      "id": "game-all",
+      "label": "ゲーム",
+      "rss_urls": [
+        "https://www.gamedeveloper.com/rss.xml",
+        "https://www.gamesindustry.biz/feed",
+        "https://gameworldobserver.com/feed",
+        "https://nikopartners.com/feed/",
+        "https://www.pocketgamer.biz/rss/",
+        "https://mobilegamer.biz/feed/",
+        "https://gamesindustryafrica.com/feed/",
+        "https://www.nag.co.za/feed/",
+        "https://www.kakuchopurei.com/feed/",
+        "https://www.afkgaming.com/feed",
+        "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20India&hl=en-IN&gl=IN&ceid=IN:en",
+        "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Philippines&hl=en-PH&gl=PH&ceid=PH:en",
+        "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Eastern%20Europe&hl=en&gl=PL&ceid=PL:en",
+        "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Africa&hl=en&gl=ZA&ceid=ZA:en",
+        "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Southeast%20Asia&hl=en-SG&gl=SG&ceid=SG:en",
+        "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA&hl=ja&gl=JP&ceid=JP:ja",
+        "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja",
+        "https://news.google.com/rss/search?q=%E6%B5%B7%E5%A4%96%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA&hl=ja&gl=JP&ceid=JP:ja",
+        "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja"
+      ],
       "rss_url": "https://www.gamedeveloper.com/rss.xml",
-      "geojson": "topic-maps/game-developer-global.geojson",
-      "unresolved": "topic-maps/game-developer-global-unresolved.json",
-      "csv": "../output/topic-maps/game-developer-global.csv",
+      "geojson": "topic-maps/game-all.geojson",
+      "unresolved": "topic-maps/game-all-unresolved.json",
+      "csv": "../output/topic-maps/game-all.csv",
       "stats": {
-        "feed_id": "game-developer-global",
-        "feed_label": "Game Developer: Global",
+        "feed_id": "game-all",
+        "feed_label": "ゲーム",
+        "rss_urls": [
+          "https://www.gamedeveloper.com/rss.xml",
+          "https://www.gamesindustry.biz/feed",
+          "https://gameworldobserver.com/feed",
+          "https://nikopartners.com/feed/",
+          "https://www.pocketgamer.biz/rss/",
+          "https://mobilegamer.biz/feed/",
+          "https://gamesindustryafrica.com/feed/",
+          "https://www.nag.co.za/feed/",
+          "https://www.kakuchopurei.com/feed/",
+          "https://www.afkgaming.com/feed",
+          "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20India&hl=en-IN&gl=IN&ceid=IN:en",
+          "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Philippines&hl=en-PH&gl=PH&ceid=PH:en",
+          "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Eastern%20Europe&hl=en&gl=PL&ceid=PL:en",
+          "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Africa&hl=en&gl=ZA&ceid=ZA:en",
+          "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Southeast%20Asia&hl=en-SG&gl=SG&ceid=SG:en",
+          "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA&hl=ja&gl=JP&ceid=JP:ja",
+          "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja",
+          "https://news.google.com/rss/search?q=%E6%B5%B7%E5%A4%96%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA&hl=ja&gl=JP&ceid=JP:ja",
+          "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja"
+        ],
         "rss_url": "https://www.gamedeveloper.com/rss.xml",
-        "fetched": 50,
-        "filtered": 50,
-        "resolved": 0,
-        "unresolved": 50,
-        "rules": 34,
-        "known_places": 36,
+        "fetched": 990,
+        "fetched_by_url": {
+          "https://www.gamedeveloper.com/rss.xml": 50,
+          "https://www.gamesindustry.biz/feed": 100,
+          "https://gameworldobserver.com/feed": 100,
+          "https://nikopartners.com/feed/": 0,
+          "https://www.pocketgamer.biz/rss/": 50,
+          "https://mobilegamer.biz/feed/": 10,
+          "https://gamesindustryafrica.com/feed/": 10,
+          "https://www.nag.co.za/feed/": 10,
+          "https://www.kakuchopurei.com/feed/": 10,
+          "https://www.afkgaming.com/feed": 0,
+          "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20India&hl=en-IN&gl=IN&ceid=IN:en": 79,
+          "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Philippines&hl=en-PH&gl=PH&ceid=PH:en": 78,
+          "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Eastern%20Europe&hl=en&gl=PL&ceid=PL:en": 74,
+          "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Africa&hl=en&gl=ZA&ceid=ZA:en": 79,
+          "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Southeast%20Asia&hl=en-SG&gl=SG&ceid=SG:en": 77,
+          "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA&hl=ja&gl=JP&ceid=JP:ja": 75,
+          "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja": 79,
+          "https://news.google.com/rss/search?q=%E6%B5%B7%E5%A4%96%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA&hl=ja&gl=JP&ceid=JP:ja": 75,
+          "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja": 77
+        },
+        "filtered": 908,
+        "resolved": 87,
+        "unresolved": 821,
+        "rules": 59,
+        "known_places": 61,
         "loaded_data_files": [
           "data/place_rules.json",
           "data/unresolved_known_places_12.json",
           "data/unresolved_known_places_13.json",
-          "data/unresolved_known_places_14.json"
+          "data/unresolved_known_places_14.json",
+          "data/unresolved_known_places_15.json"
         ],
         "topic_keywords": [
           "game",
           "games",
+          "gaming",
+          "video game",
           "developer",
           "development",
           "studio",
           "publisher",
           "industry",
-          "indie",
-          "mobile",
-          "console",
-          "PC"
-        ],
-        "exclude_keywords": []
-      }
-    },
-    {
-      "id": "gamesindustry-biz-global",
-      "label": "GamesIndustry.biz: Global industry",
-      "rss_url": "https://www.gamesindustry.biz/feed",
-      "geojson": "topic-maps/gamesindustry-biz-global.geojson",
-      "unresolved": "topic-maps/gamesindustry-biz-global-unresolved.json",
-      "csv": "../output/topic-maps/gamesindustry-biz-global.csv",
-      "stats": {
-        "feed_id": "gamesindustry-biz-global",
-        "feed_label": "GamesIndustry.biz: Global industry",
-        "rss_url": "https://www.gamesindustry.biz/feed",
-        "fetched": 100,
-        "filtered": 100,
-        "resolved": 1,
-        "unresolved": 99,
-        "rules": 34,
-        "known_places": 36,
-        "loaded_data_files": [
-          "data/place_rules.json",
-          "data/unresolved_known_places_12.json",
-          "data/unresolved_known_places_13.json",
-          "data/unresolved_known_places_14.json"
-        ],
-        "topic_keywords": [
-          "game",
-          "games",
-          "industry",
-          "studio",
-          "publisher",
-          "developer",
-          "mobile",
           "market",
           "launch",
           "layoffs",
-          "funding"
-        ],
-        "exclude_keywords": []
-      }
-    },
-    {
-      "id": "gameworldobserver-global",
-      "label": "Game World Observer: Global industry",
-      "rss_url": "https://gameworldobserver.com/feed",
-      "geojson": "topic-maps/gameworldobserver-global.geojson",
-      "unresolved": "topic-maps/gameworldobserver-global-unresolved.json",
-      "csv": "../output/topic-maps/gameworldobserver-global.csv",
-      "stats": {
-        "feed_id": "gameworldobserver-global",
-        "feed_label": "Game World Observer: Global industry",
-        "rss_url": "https://gameworldobserver.com/feed",
-        "fetched": 100,
-        "filtered": 100,
-        "resolved": 0,
-        "unresolved": 100,
-        "rules": 34,
-        "known_places": 36,
-        "loaded_data_files": [
-          "data/place_rules.json",
-          "data/unresolved_known_places_12.json",
-          "data/unresolved_known_places_13.json",
-          "data/unresolved_known_places_14.json"
-        ],
-        "topic_keywords": [
-          "game",
-          "games",
-          "studio",
-          "developer",
-          "publisher",
-          "industry",
-          "market",
+          "funding",
+          "mobile",
+          "console",
+          "PC",
           "Steam",
-          "mobile",
-          "PC"
-        ],
-        "exclude_keywords": []
-      }
-    },
-    {
-      "id": "niko-partners-asia",
-      "label": "Niko Partners: Asia games market",
-      "rss_url": "https://nikopartners.com/feed/",
-      "geojson": "topic-maps/niko-partners-asia.geojson",
-      "unresolved": "topic-maps/niko-partners-asia-unresolved.json",
-      "csv": "../output/topic-maps/niko-partners-asia.csv",
-      "stats": {
-        "feed_id": "niko-partners-asia",
-        "feed_label": "Niko Partners: Asia games market",
-        "rss_url": "https://nikopartners.com/feed/",
-        "fetched": 0,
-        "filtered": 0,
-        "resolved": 0,
-        "unresolved": 0,
-        "rules": 34,
-        "known_places": 36,
-        "loaded_data_files": [
-          "data/place_rules.json",
-          "data/unresolved_known_places_12.json",
-          "data/unresolved_known_places_13.json",
-          "data/unresolved_known_places_14.json"
-        ],
-        "topic_keywords": [
-          "game",
-          "games",
-          "gaming",
-          "market",
-          "Asia",
-          "China",
-          "India",
-          "Southeast Asia",
-          "mobile",
-          "esports"
-        ],
-        "exclude_keywords": []
-      }
-    },
-    {
-      "id": "pocketgamer-biz-mobile-global",
-      "label": "PocketGamer.biz: Mobile games business",
-      "rss_url": "https://www.pocketgamer.biz/rss/",
-      "geojson": "topic-maps/pocketgamer-biz-mobile-global.geojson",
-      "unresolved": "topic-maps/pocketgamer-biz-mobile-global-unresolved.json",
-      "csv": "../output/topic-maps/pocketgamer-biz-mobile-global.csv",
-      "stats": {
-        "feed_id": "pocketgamer-biz-mobile-global",
-        "feed_label": "PocketGamer.biz: Mobile games business",
-        "rss_url": "https://www.pocketgamer.biz/rss/",
-        "fetched": 50,
-        "filtered": 50,
-        "resolved": 4,
-        "unresolved": 46,
-        "rules": 34,
-        "known_places": 36,
-        "loaded_data_files": [
-          "data/place_rules.json",
-          "data/unresolved_known_places_12.json",
-          "data/unresolved_known_places_13.json",
-          "data/unresolved_known_places_14.json"
-        ],
-        "topic_keywords": [
-          "mobile",
-          "game",
-          "games",
-          "studio",
-          "developer",
-          "publisher",
-          "market",
-          "launch",
-          "revenue"
-        ],
-        "exclude_keywords": []
-      }
-    },
-    {
-      "id": "mobilegamer-biz-global",
-      "label": "MobileGamer.biz: Mobile games",
-      "rss_url": "https://mobilegamer.biz/feed/",
-      "geojson": "topic-maps/mobilegamer-biz-global.geojson",
-      "unresolved": "topic-maps/mobilegamer-biz-global-unresolved.json",
-      "csv": "../output/topic-maps/mobilegamer-biz-global.csv",
-      "stats": {
-        "feed_id": "mobilegamer-biz-global",
-        "feed_label": "MobileGamer.biz: Mobile games",
-        "rss_url": "https://mobilegamer.biz/feed/",
-        "fetched": 10,
-        "filtered": 10,
-        "resolved": 1,
-        "unresolved": 9,
-        "rules": 34,
-        "known_places": 36,
-        "loaded_data_files": [
-          "data/place_rules.json",
-          "data/unresolved_known_places_12.json",
-          "data/unresolved_known_places_13.json",
-          "data/unresolved_known_places_14.json"
-        ],
-        "topic_keywords": [
-          "mobile",
-          "game",
-          "games",
-          "studio",
-          "developer",
-          "publisher",
-          "market",
-          "launch",
-          "revenue"
-        ],
-        "exclude_keywords": []
-      }
-    },
-    {
-      "id": "gamesindustry-africa",
-      "label": "Games Industry Africa",
-      "rss_url": "https://gamesindustryafrica.com/feed/",
-      "geojson": "topic-maps/gamesindustry-africa.geojson",
-      "unresolved": "topic-maps/gamesindustry-africa-unresolved.json",
-      "csv": "../output/topic-maps/gamesindustry-africa.csv",
-      "stats": {
-        "feed_id": "gamesindustry-africa",
-        "feed_label": "Games Industry Africa",
-        "rss_url": "https://gamesindustryafrica.com/feed/",
-        "fetched": 10,
-        "filtered": 10,
-        "resolved": 7,
-        "unresolved": 3,
-        "rules": 34,
-        "known_places": 36,
-        "loaded_data_files": [
-          "data/place_rules.json",
-          "data/unresolved_known_places_12.json",
-          "data/unresolved_known_places_13.json",
-          "data/unresolved_known_places_14.json"
-        ],
-        "topic_keywords": [
-          "game",
-          "games",
-          "gaming",
-          "Africa",
-          "studio",
-          "developer",
-          "publisher",
           "esports",
-          "mobile",
-          "market"
-        ],
-        "exclude_keywords": []
-      }
-    },
-    {
-      "id": "nag-south-africa",
-      "label": "NAG: South Africa gaming",
-      "rss_url": "https://www.nag.co.za/feed/",
-      "geojson": "topic-maps/nag-south-africa.geojson",
-      "unresolved": "topic-maps/nag-south-africa-unresolved.json",
-      "csv": "../output/topic-maps/nag-south-africa.csv",
-      "stats": {
-        "feed_id": "nag-south-africa",
-        "feed_label": "NAG: South Africa gaming",
-        "rss_url": "https://www.nag.co.za/feed/",
-        "fetched": 10,
-        "filtered": 6,
-        "resolved": 0,
-        "unresolved": 6,
-        "rules": 34,
-        "known_places": 36,
-        "loaded_data_files": [
-          "data/place_rules.json",
-          "data/unresolved_known_places_12.json",
-          "data/unresolved_known_places_13.json",
-          "data/unresolved_known_places_14.json"
-        ],
-        "topic_keywords": [
-          "game",
-          "games",
-          "gaming",
-          "South Africa",
-          "studio",
-          "developer",
-          "esports",
-          "review",
-          "PC",
-          "console"
-        ],
-        "exclude_keywords": []
-      }
-    },
-    {
-      "id": "kakuchopurei-sea",
-      "label": "Kakuchopurei: Southeast Asia gaming",
-      "rss_url": "https://www.kakuchopurei.com/feed/",
-      "geojson": "topic-maps/kakuchopurei-sea.geojson",
-      "unresolved": "topic-maps/kakuchopurei-sea-unresolved.json",
-      "csv": "../output/topic-maps/kakuchopurei-sea.csv",
-      "stats": {
-        "feed_id": "kakuchopurei-sea",
-        "feed_label": "Kakuchopurei: Southeast Asia gaming",
-        "rss_url": "https://www.kakuchopurei.com/feed/",
-        "fetched": 10,
-        "filtered": 3,
-        "resolved": 1,
-        "unresolved": 2,
-        "rules": 34,
-        "known_places": 36,
-        "loaded_data_files": [
-          "data/place_rules.json",
-          "data/unresolved_known_places_12.json",
-          "data/unresolved_known_places_13.json",
-          "data/unresolved_known_places_14.json"
-        ],
-        "topic_keywords": [
-          "game",
-          "games",
-          "gaming",
-          "Southeast Asia",
-          "Malaysia",
-          "Philippines",
-          "Singapore",
-          "Indonesia",
-          "studio",
-          "developer",
-          "esports"
-        ],
-        "exclude_keywords": []
-      }
-    },
-    {
-      "id": "afk-gaming-india-sea",
-      "label": "AFK Gaming: India / SEA esports",
-      "rss_url": "https://www.afkgaming.com/feed",
-      "geojson": "topic-maps/afk-gaming-india-sea.geojson",
-      "unresolved": "topic-maps/afk-gaming-india-sea-unresolved.json",
-      "csv": "../output/topic-maps/afk-gaming-india-sea.csv",
-      "stats": {
-        "feed_id": "afk-gaming-india-sea",
-        "feed_label": "AFK Gaming: India / SEA esports",
-        "rss_url": "https://www.afkgaming.com/feed",
-        "fetched": 0,
-        "filtered": 0,
-        "resolved": 0,
-        "unresolved": 0,
-        "rules": 34,
-        "known_places": 36,
-        "loaded_data_files": [
-          "data/place_rules.json",
-          "data/unresolved_known_places_12.json",
-          "data/unresolved_known_places_13.json",
-          "data/unresolved_known_places_14.json"
-        ],
-        "topic_keywords": [
-          "game",
-          "games",
-          "gaming",
-          "India",
-          "Southeast Asia",
-          "esports",
-          "mobile",
-          "PC",
-          "tournament",
-          "publisher"
-        ],
-        "exclude_keywords": []
-      }
-    },
-    {
-      "id": "google-news-game-india-en",
-      "label": "Google News: India gaming",
-      "rss_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20India&hl=en-IN&gl=IN&ceid=IN:en",
-      "geojson": "topic-maps/google-news-game-india-en.geojson",
-      "unresolved": "topic-maps/google-news-game-india-en-unresolved.json",
-      "csv": "../output/topic-maps/google-news-game-india-en.csv",
-      "stats": {
-        "feed_id": "google-news-game-india-en",
-        "feed_label": "Google News: India gaming",
-        "rss_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20India&hl=en-IN&gl=IN&ceid=IN:en",
-        "fetched": 79,
-        "filtered": 79,
-        "resolved": 11,
-        "unresolved": 68,
-        "rules": 34,
-        "known_places": 36,
-        "loaded_data_files": [
-          "data/place_rules.json",
-          "data/unresolved_known_places_12.json",
-          "data/unresolved_known_places_13.json",
-          "data/unresolved_known_places_14.json"
-        ],
-        "topic_keywords": [
-          "game",
-          "games",
-          "gaming",
-          "India",
-          "studio",
-          "developer",
-          "mobile",
-          "esports",
-          "online gaming"
-        ],
-        "exclude_keywords": [
-          "betting",
-          "casino",
-          "fantasy sports"
-        ]
-      }
-    },
-    {
-      "id": "google-news-game-philippines-en",
-      "label": "Google News: Philippines gaming",
-      "rss_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Philippines&hl=en-PH&gl=PH&ceid=PH:en",
-      "geojson": "topic-maps/google-news-game-philippines-en.geojson",
-      "unresolved": "topic-maps/google-news-game-philippines-en-unresolved.json",
-      "csv": "../output/topic-maps/google-news-game-philippines-en.csv",
-      "stats": {
-        "feed_id": "google-news-game-philippines-en",
-        "feed_label": "Google News: Philippines gaming",
-        "rss_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Philippines&hl=en-PH&gl=PH&ceid=PH:en",
-        "fetched": 77,
-        "filtered": 76,
-        "resolved": 22,
-        "unresolved": 54,
-        "rules": 34,
-        "known_places": 36,
-        "loaded_data_files": [
-          "data/place_rules.json",
-          "data/unresolved_known_places_12.json",
-          "data/unresolved_known_places_13.json",
-          "data/unresolved_known_places_14.json"
-        ],
-        "topic_keywords": [
-          "game",
-          "games",
-          "gaming",
-          "Philippines",
-          "studio",
-          "developer",
-          "mobile",
-          "esports"
-        ],
-        "exclude_keywords": [
-          "betting",
-          "casino"
-        ]
-      }
-    },
-    {
-      "id": "google-news-game-eastern-europe-en",
-      "label": "Google News: Eastern Europe gaming",
-      "rss_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Eastern%20Europe&hl=en&gl=PL&ceid=PL:en",
-      "geojson": "topic-maps/google-news-game-eastern-europe-en.geojson",
-      "unresolved": "topic-maps/google-news-game-eastern-europe-en-unresolved.json",
-      "csv": "../output/topic-maps/google-news-game-eastern-europe-en.csv",
-      "stats": {
-        "feed_id": "google-news-game-eastern-europe-en",
-        "feed_label": "Google News: Eastern Europe gaming",
-        "rss_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Eastern%20Europe&hl=en&gl=PL&ceid=PL:en",
-        "fetched": 73,
-        "filtered": 70,
-        "resolved": 1,
-        "unresolved": 69,
-        "rules": 34,
-        "known_places": 36,
-        "loaded_data_files": [
-          "data/place_rules.json",
-          "data/unresolved_known_places_12.json",
-          "data/unresolved_known_places_13.json",
-          "data/unresolved_known_places_14.json"
-        ],
-        "topic_keywords": [
-          "game",
-          "games",
-          "gaming",
-          "Eastern Europe",
-          "studio",
-          "developer",
-          "Poland",
-          "Ukraine",
-          "Czech",
-          "Romania",
-          "Hungary"
-        ],
-        "exclude_keywords": [
-          "betting",
-          "casino"
-        ]
-      }
-    },
-    {
-      "id": "google-news-game-africa-en",
-      "label": "Google News: Africa gaming",
-      "rss_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Africa&hl=en&gl=ZA&ceid=ZA:en",
-      "geojson": "topic-maps/google-news-game-africa-en.geojson",
-      "unresolved": "topic-maps/google-news-game-africa-en-unresolved.json",
-      "csv": "../output/topic-maps/google-news-game-africa-en.csv",
-      "stats": {
-        "feed_id": "google-news-game-africa-en",
-        "feed_label": "Google News: Africa gaming",
-        "rss_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Africa&hl=en&gl=ZA&ceid=ZA:en",
-        "fetched": 79,
-        "filtered": 79,
-        "resolved": 13,
-        "unresolved": 66,
-        "rules": 34,
-        "known_places": 36,
-        "loaded_data_files": [
-          "data/place_rules.json",
-          "data/unresolved_known_places_12.json",
-          "data/unresolved_known_places_13.json",
-          "data/unresolved_known_places_14.json"
-        ],
-        "topic_keywords": [
-          "game",
-          "games",
-          "gaming",
-          "Africa",
-          "studio",
-          "developer",
-          "South Africa",
-          "Nigeria",
-          "Kenya",
-          "Ghana",
-          "mobile",
-          "esports"
-        ],
-        "exclude_keywords": [
-          "betting",
-          "casino"
-        ]
-      }
-    },
-    {
-      "id": "google-news-game-southeast-asia-en",
-      "label": "Google News: Southeast Asia gaming",
-      "rss_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Southeast%20Asia&hl=en-SG&gl=SG&ceid=SG:en",
-      "geojson": "topic-maps/google-news-game-southeast-asia-en.geojson",
-      "unresolved": "topic-maps/google-news-game-southeast-asia-en-unresolved.json",
-      "csv": "../output/topic-maps/google-news-game-southeast-asia-en.csv",
-      "stats": {
-        "feed_id": "google-news-game-southeast-asia-en",
-        "feed_label": "Google News: Southeast Asia gaming",
-        "rss_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Southeast%20Asia&hl=en-SG&gl=SG&ceid=SG:en",
-        "fetched": 76,
-        "filtered": 75,
-        "resolved": 9,
-        "unresolved": 66,
-        "rules": 34,
-        "known_places": 36,
-        "loaded_data_files": [
-          "data/place_rules.json",
-          "data/unresolved_known_places_12.json",
-          "data/unresolved_known_places_13.json",
-          "data/unresolved_known_places_14.json"
-        ],
-        "topic_keywords": [
-          "game",
-          "games",
-          "gaming",
-          "Southeast Asia",
-          "Singapore",
-          "Malaysia",
-          "Indonesia",
-          "Vietnam",
-          "Thailand",
-          "Philippines",
-          "studio",
-          "developer",
-          "mobile",
-          "esports"
-        ],
-        "exclude_keywords": [
-          "betting",
-          "casino"
-        ]
-      }
-    },
-    {
-      "id": "google-news-game-ja",
-      "label": "Google News: ゲーム会社・新作",
-      "rss_url": "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA&hl=ja&gl=JP&ceid=JP:ja",
-      "geojson": "topic-maps/google-news-game-ja.geojson",
-      "unresolved": "topic-maps/google-news-game-ja-unresolved.json",
-      "csv": "../output/topic-maps/google-news-game-ja.csv",
-      "stats": {
-        "feed_id": "google-news-game-ja",
-        "feed_label": "Google News: ゲーム会社・新作",
-        "rss_url": "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA&hl=ja&gl=JP&ceid=JP:ja",
-        "fetched": 75,
-        "filtered": 75,
-        "resolved": 0,
-        "unresolved": 75,
-        "rules": 34,
-        "known_places": 36,
-        "loaded_data_files": [
-          "data/place_rules.json",
-          "data/unresolved_known_places_12.json",
-          "data/unresolved_known_places_13.json",
-          "data/unresolved_known_places_14.json"
-        ],
-        "topic_keywords": [
+          "indie",
           "ゲーム",
           "ゲーム会社",
+          "スマホゲーム",
+          "インディーゲーム",
           "新作",
           "発売",
           "発表",
           "開発",
           "スタジオ",
           "配信",
-          "運営"
+          "運営",
+          "パブリッシャー",
+          "買収",
+          "閉鎖"
         ],
         "exclude_keywords": [
+          "betting",
+          "casino",
+          "fantasy sports",
+          "攻略",
+          "リセマラ",
+          "ガチャ結果",
           "セール",
           "割引",
           "値下げ",
@@ -638,130 +141,11 @@
       }
     },
     {
-      "id": "google-news-game-mobile-ja",
-      "label": "Google News: スマホゲーム",
-      "rss_url": "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja",
-      "geojson": "topic-maps/google-news-game-mobile-ja.geojson",
-      "unresolved": "topic-maps/google-news-game-mobile-ja-unresolved.json",
-      "csv": "../output/topic-maps/google-news-game-mobile-ja.csv",
-      "stats": {
-        "feed_id": "google-news-game-mobile-ja",
-        "feed_label": "Google News: スマホゲーム",
-        "rss_url": "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja",
-        "fetched": 78,
-        "filtered": 74,
-        "resolved": 0,
-        "unresolved": 74,
-        "rules": 34,
-        "known_places": 36,
-        "loaded_data_files": [
-          "data/place_rules.json",
-          "data/unresolved_known_places_12.json",
-          "data/unresolved_known_places_13.json",
-          "data/unresolved_known_places_14.json"
-        ],
-        "topic_keywords": [
-          "スマホゲーム",
-          "新作",
-          "運営",
-          "事前登録",
-          "配信",
-          "サービス開始",
-          "開発"
-        ],
-        "exclude_keywords": [
-          "攻略",
-          "リセマラ",
-          "ガチャ結果",
-          "セール",
-          "割引"
-        ]
-      }
-    },
-    {
-      "id": "google-news-game-overseas-ja",
-      "label": "Google News: 海外ゲームスタジオ",
-      "rss_url": "https://news.google.com/rss/search?q=%E6%B5%B7%E5%A4%96%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA&hl=ja&gl=JP&ceid=JP:ja",
-      "geojson": "topic-maps/google-news-game-overseas-ja.geojson",
-      "unresolved": "topic-maps/google-news-game-overseas-ja-unresolved.json",
-      "csv": "../output/topic-maps/google-news-game-overseas-ja.csv",
-      "stats": {
-        "feed_id": "google-news-game-overseas-ja",
-        "feed_label": "Google News: 海外ゲームスタジオ",
-        "rss_url": "https://news.google.com/rss/search?q=%E6%B5%B7%E5%A4%96%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA&hl=ja&gl=JP&ceid=JP:ja",
-        "fetched": 75,
-        "filtered": 73,
-        "resolved": 0,
-        "unresolved": 73,
-        "rules": 34,
-        "known_places": 36,
-        "loaded_data_files": [
-          "data/place_rules.json",
-          "data/unresolved_known_places_12.json",
-          "data/unresolved_known_places_13.json",
-          "data/unresolved_known_places_14.json"
-        ],
-        "topic_keywords": [
-          "海外ゲーム",
-          "スタジオ",
-          "新作",
-          "発表",
-          "開発",
-          "パブリッシャー",
-          "買収",
-          "閉鎖"
-        ],
-        "exclude_keywords": [
-          "セール",
-          "割引",
-          "値下げ",
-          "OFF",
-          "クーポン"
-        ]
-      }
-    },
-    {
-      "id": "google-news-game-indie-ja",
-      "label": "Google News: インディーゲーム",
-      "rss_url": "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja",
-      "geojson": "topic-maps/google-news-game-indie-ja.geojson",
-      "unresolved": "topic-maps/google-news-game-indie-ja-unresolved.json",
-      "csv": "../output/topic-maps/google-news-game-indie-ja.csv",
-      "stats": {
-        "feed_id": "google-news-game-indie-ja",
-        "feed_label": "Google News: インディーゲーム",
-        "rss_url": "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja",
-        "fetched": 64,
-        "filtered": 59,
-        "resolved": 0,
-        "unresolved": 59,
-        "rules": 34,
-        "known_places": 36,
-        "loaded_data_files": [
-          "data/place_rules.json",
-          "data/unresolved_known_places_12.json",
-          "data/unresolved_known_places_13.json",
-          "data/unresolved_known_places_14.json"
-        ],
-        "topic_keywords": [
-          "インディーゲーム",
-          "開発者",
-          "スタジオ",
-          "新作",
-          "発表",
-          "配信"
-        ],
-        "exclude_keywords": [
-          "セール",
-          "割引",
-          "値下げ",
-          "OFF"
-        ]
-      }
-    },
-    {
       "id": "google-news-ai-ja",
       "label": "Google News: AI / 生成AI",
+      "rss_urls": [
+        "https://news.google.com/rss/search?q=AI%20%E7%94%9F%E6%88%90AI%20OpenAI&hl=ja&gl=JP&ceid=JP:ja"
+      ],
       "rss_url": "https://news.google.com/rss/search?q=AI%20%E7%94%9F%E6%88%90AI%20OpenAI&hl=ja&gl=JP&ceid=JP:ja",
       "geojson": "topic-maps/google-news-ai-ja.geojson",
       "unresolved": "topic-maps/google-news-ai-ja-unresolved.json",
@@ -769,18 +153,25 @@
       "stats": {
         "feed_id": "google-news-ai-ja",
         "feed_label": "Google News: AI / 生成AI",
+        "rss_urls": [
+          "https://news.google.com/rss/search?q=AI%20%E7%94%9F%E6%88%90AI%20OpenAI&hl=ja&gl=JP&ceid=JP:ja"
+        ],
         "rss_url": "https://news.google.com/rss/search?q=AI%20%E7%94%9F%E6%88%90AI%20OpenAI&hl=ja&gl=JP&ceid=JP:ja",
         "fetched": 100,
+        "fetched_by_url": {
+          "https://news.google.com/rss/search?q=AI%20%E7%94%9F%E6%88%90AI%20OpenAI&hl=ja&gl=JP&ceid=JP:ja": 100
+        },
         "filtered": 100,
         "resolved": 1,
         "unresolved": 99,
-        "rules": 34,
-        "known_places": 36,
+        "rules": 59,
+        "known_places": 61,
         "loaded_data_files": [
           "data/place_rules.json",
           "data/unresolved_known_places_12.json",
           "data/unresolved_known_places_13.json",
-          "data/unresolved_known_places_14.json"
+          "data/unresolved_known_places_14.json",
+          "data/unresolved_known_places_15.json"
         ],
         "topic_keywords": [
           "AI",
@@ -795,6 +186,9 @@
     {
       "id": "google-news-disaster-ja",
       "label": "Google News: 災害・地震・大雨",
+      "rss_urls": [
+        "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja"
+      ],
       "rss_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja",
       "geojson": "topic-maps/google-news-disaster-ja.geojson",
       "unresolved": "topic-maps/google-news-disaster-ja-unresolved.json",
@@ -802,18 +196,25 @@
       "stats": {
         "feed_id": "google-news-disaster-ja",
         "feed_label": "Google News: 災害・地震・大雨",
+        "rss_urls": [
+          "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja"
+        ],
         "rss_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja",
-        "fetched": 69,
-        "filtered": 62,
+        "fetched": 70,
+        "fetched_by_url": {
+          "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja": 70
+        },
+        "filtered": 61,
         "resolved": 0,
-        "unresolved": 62,
-        "rules": 34,
-        "known_places": 36,
+        "unresolved": 61,
+        "rules": 59,
+        "known_places": 61,
         "loaded_data_files": [
           "data/place_rules.json",
           "data/unresolved_known_places_12.json",
           "data/unresolved_known_places_13.json",
-          "data/unresolved_known_places_14.json"
+          "data/unresolved_known_places_14.json",
+          "data/unresolved_known_places_15.json"
         ],
         "topic_keywords": [
           "災害",
