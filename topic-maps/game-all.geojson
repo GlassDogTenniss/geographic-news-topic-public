@@ -1,7 +1,7 @@
 {
   "type": "FeatureCollection",
   "properties": {
-    "created_at": "2026-06-28T22:35:09.428932+00:00",
+    "created_at": "2026-06-28T22:41:16.417537+00:00",
     "count": 139,
     "stats": {
       "feed_id": "game-all",
@@ -28,7 +28,7 @@
         "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja"
       ],
       "rss_url": "https://www.gamedeveloper.com/rss.xml",
-      "fetched": 989,
+      "fetched": 990,
       "fetched_by_url": {
         "https://www.gamedeveloper.com/rss.xml": 50,
         "https://www.gamesindustry.biz/feed": 100,
@@ -138,6 +138,33 @@
         "confidence": 0.84,
         "rule_id": "observed_io_interactive_007_first_light_copenhagen_202606",
         "matched_text": "『007』シリーズ新作ゲーム",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1278,
+          51.5074
+        ]
+      },
+      "properties": {
+        "title": "『バットマン：アーカム』開発チームが新作DCマルチプレイヤーゲームを開発か？失敗を恐れず「サービス型ゲーム」に再挑戦 - 玩具人 TOY PEOPLE",
+        "source": "玩具人 TOY PEOPLE",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9hZl9XRjZmbzNiRllqUU9pTmRia3dvVXdkUUxNSk1yU3dBc3dycGxwNnkwUVZrQnhNNkVRcnNTeVdtYXNvYk12U2NDMFNfZ0p2?oc=5",
+        "published_at": "2026-06-28T09:04:42+00:00",
+        "representative_place": "Rocksteady Studios / DC multiplayer game",
+        "place_label": "英国-イングランド-ロンドン",
+        "sort_place_label": "英国-イングランド-ロンドン",
+        "geocode_query": "Rocksteady Studios London England",
+        "place_type": "studio_site",
+        "location_precision": "city",
+        "place_reason": "game-all未解決記事に『バットマン：アーカム』開発チームが新作DCマルチプレイヤーゲームを開発か、と明示されているため、Arkham開発元Rocksteady Studiosの所在地としてロンドンに置く（一致語: バットマン：アーカム』開発チーム）",
+        "confidence": 0.78,
+        "rule_id": "observed_rocksteady_dc_multiplayer_london_202606",
+        "matched_text": "バットマン：アーカム』開発チーム",
         "match_source": "known_place_title"
       }
     },
@@ -2036,35 +2063,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.1278,
-          51.5074
-        ]
-      },
-      "properties": {
-        "title": "『バットマン：アーカム』開発チームが新作DCマルチプレイヤーゲームを開発か？失敗を恐れず「サービス型ゲーム」に再挑戦 - 玩具人 TOY PEOPLE",
-        "source": "玩具人 TOY PEOPLE",
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9hZl9XRjZmbzNiRllqUU9pTmRia3dvVXdkUUxNSk1yU3dBc3dycGxwNnkwUVZrQnhNNkVRcnNTeVdtYXNvYk12U2NDMFNfZ0p2?oc=5",
-        "published_at": "2026-06-12T10:29:50+00:00",
-        "representative_place": "Rocksteady Studios / DC multiplayer game",
-        "place_label": "英国-イングランド-ロンドン",
-        "sort_place_label": "英国-イングランド-ロンドン",
-        "geocode_query": "Rocksteady Studios London England",
-        "place_type": "studio_site",
-        "location_precision": "city",
-        "place_reason": "game-all未解決記事に『バットマン：アーカム』開発チームが新作DCマルチプレイヤーゲームを開発か、と明示されているため、Arkham開発元Rocksteady Studiosの所在地としてロンドンに置く（一致語: バットマン：アーカム』開発チーム）",
-        "confidence": 0.78,
-        "rule_id": "observed_rocksteady_dc_multiplayer_london_202606",
-        "matched_text": "バットマン：アーカム』開発チーム",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.1278,
-          51.5074
+          -0.1376,
+          51.5144
         ]
       },
       "properties": {
@@ -2072,14 +2072,14 @@
         "source": "GamesIndustry.biz Latest Articles Feed",
         "link": "https://www.gamesindustry.biz/playstack-ceo-new-owner-will-keep-it-separate-from-its-games-media-brands-including-gamesspot-and-fandom",
         "published_at": "2026-06-12T08:00:00+00:00",
-        "representative_place": "Playstack",
-        "place_label": "英国-イングランド-ロンドン",
-        "sort_place_label": "英国-イングランド-ロンドン",
-        "geocode_query": "Playstack London England",
+        "representative_place": "Playstack Ltd. / 56A Poland St",
+        "place_label": "英国-イングランド-ロンドン-ソーホー-56A Poland St",
+        "sort_place_label": "英国-イングランド-ロンドン-ソーホー-56A Poland St",
+        "geocode_query": "56A Poland St London W1F 7NN United Kingdom",
         "place_type": "publisher_site",
-        "location_precision": "city",
-        "place_reason": "game-all未解決記事にBalatro / Abiotic FactorのパブリッシャーPlaystackの売却後方針が明示されているため、同社所在地としてロンドンに置く（一致語: Playstack CEO: new owner will keep it separate）",
-        "confidence": 0.76,
+        "location_precision": "street_address",
+        "place_reason": "Playstackは56A Poland St, London W1F 7NNの住所まで確認できるため、ロンドン市代表点ではなく住所単位に置く（一致語: Playstack CEO: new owner will keep it separate）",
+        "confidence": 0.9,
         "rule_id": "observed_playstack_imc_sale_london_202606",
         "matched_text": "Playstack CEO: new owner will keep it separate",
         "match_source": "known_place_title"
@@ -2603,8 +2603,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.1278,
-          51.5074
+          -0.1376,
+          51.5144
         ]
       },
       "properties": {
@@ -2612,14 +2612,14 @@
         "source": "Game World Observer",
         "link": "https://gameworldobserver.com/2026/05/29/a-controlling-stake-in-the-publisher-balatro-will-be-purchased-for-150-million",
         "published_at": "2026-05-29T13:37:43+00:00",
-        "representative_place": "Playstack",
-        "place_label": "英国-イングランド-ロンドン",
-        "sort_place_label": "英国-イングランド-ロンドン",
-        "geocode_query": "Playstack London England",
+        "representative_place": "Playstack Ltd. / 56A Poland St",
+        "place_label": "英国-イングランド-ロンドン-ソーホー-56A Poland St",
+        "sort_place_label": "英国-イングランド-ロンドン-ソーホー-56A Poland St",
+        "geocode_query": "56A Poland St London W1F 7NN United Kingdom",
         "place_type": "publisher_site",
-        "location_precision": "city",
-        "place_reason": "game-all未解決記事にBalatro / Abiotic FactorのパブリッシャーPlaystackの売却後方針が明示されているため、同社所在地としてロンドンに置く",
-        "confidence": 0.76,
+        "location_precision": "street_address",
+        "place_reason": "Playstackは56A Poland St, London W1F 7NNの住所まで確認できるため、ロンドン市代表点ではなく住所単位に置く",
+        "confidence": 0.9,
         "rule_id": "observed_playstack_imc_sale_london_202606",
         "matched_text": "Playstack",
         "match_source": "rule"
@@ -3332,6 +3332,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -63.5752,
+          44.6488
+        ]
+      },
+      "properties": {
+        "title": "Ubisoft shuts down Halifax mobile gaming studio; affected employees hint at union busting - The Times of India",
+        "source": "The Times of India",
+        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOaWlRNmkxOG9laDFpRFJqSEIzZUpqclJwNm5Ga3NwN016c0F3Z0RYSFMzWXlvWmNqYko0dFdLTVE3cnYwRDVXaEpZWDZmYU5rZ0ZjWDVzaVVtajFTTGFJbkxYTjE2Ukg0NnNGcm9qaXBKYldXSzZBSllWLXUwX1ZyREp6ZXZaWm1FM3QwcHMwdUhhZ3dkZVJyY1BDTWRPVWpwajhpaWlRTTFMQnNSSFVKckdOekhQMl9XbElBTS00VGlNLW1rdjh4X19NRDJ0TGJUNWpwR25TNzdXMEx2UVZpeGVPcGZjTl80WkM0NWplUGNzUHBjeXlWWWE2N2jSAYICQVVfeXFMTU1DdVMxTnJuc3hfT1REZWxmUDRYc2lYa193ZTJaSEgzYlBxSDVEV3ZQclYtX1owQU5yb3o0X1lQSnZTUEs4azNiMmZBT0JIUzNVWlFHTTU5eFRJdEQ4V3lGVUhiVThTaEtULTNUVkZBQ0Q1ZENzOHNLZnlfUDlYNHR3bmlYc043VlQ4ZmNuM2JJRXBGdExiRUJGRktqZnFqYTVVa19OcUttRVhuR2pYaFIzQXFjanljc1pCY0JJUjRSdXRxRHZDeGRjemwzSGhVTFdjcThrRm10bWFMUUVQMGdqRHBWR1cwMWhiOVk1eUI2RGpEV2hTaHdwQVo1WDI1U0pn?oc=5",
+        "published_at": "2026-01-08T08:00:00+00:00",
+        "representative_place": "Halifax mobile gaming studio closure",
+        "place_label": "カナダ-ノバスコシア州-ハリファックス",
+        "sort_place_label": "カナダ-ノバスコシア州-ハリファックス",
+        "geocode_query": "Halifax Nova Scotia Canada",
+        "place_type": "studio_site",
+        "location_precision": "city",
+        "place_reason": "未解決記事のタイトルに『Halifax mobile gaming studio』と明示されているため、閉鎖対象のスタジオ所在地としてハリファックスに置く（一致語: Ubisoft shuts down Halifax mobile gaming studio）",
+        "confidence": 0.86,
+        "rule_id": "observed_ubisoft_halifax_closure_202601",
+        "matched_text": "Ubisoft shuts down Halifax mobile gaming studio",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           77.5946,
           12.9716
         ]
@@ -3548,8 +3575,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.1278,
-          51.5074
+          -0.1376,
+          51.5144
         ]
       },
       "properties": {
@@ -3557,14 +3584,14 @@
         "source": "ファミ通",
         "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5Va3VCZzE4ei0wei1od1FIVjJnZkZzUHNzYmNVek55YlRaQ3QtM216MFE0dE8tSlB0TmxyUGl3UXQxdndfV3JERWVTSUswMkZSMnEyLUY4bw?oc=5",
         "published_at": "2025-03-27T07:00:00+00:00",
-        "representative_place": "Playstack",
-        "place_label": "英国-イングランド-ロンドン",
-        "sort_place_label": "英国-イングランド-ロンドン",
-        "geocode_query": "Playstack London England",
+        "representative_place": "Playstack Ltd. / 56A Poland St",
+        "place_label": "英国-イングランド-ロンドン-ソーホー-56A Poland St",
+        "sort_place_label": "英国-イングランド-ロンドン-ソーホー-56A Poland St",
+        "geocode_query": "56A Poland St London W1F 7NN United Kingdom",
         "place_type": "publisher_site",
-        "location_precision": "city",
-        "place_reason": "game-all未解決記事にBalatro / Abiotic FactorのパブリッシャーPlaystackの売却後方針が明示されているため、同社所在地としてロンドンに置く（一致語: Playstack）",
-        "confidence": 0.76,
+        "location_precision": "street_address",
+        "place_reason": "Playstackは56A Poland St, London W1F 7NNの住所まで確認できるため、ロンドン市代表点ではなく住所単位に置く（一致語: Playstack）",
+        "confidence": 0.9,
         "rule_id": "observed_playstack_imc_sale_london_202606",
         "matched_text": "Playstack",
         "match_source": "known_place_title"
@@ -3837,33 +3864,6 @@
         "confidence": 0.82,
         "rule_id": "observed_ubisoft_philippines_industry_202502",
         "matched_text": "Ubisoft Philippines",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          18.0686,
-          59.3293
-        ]
-      },
-      "properties": {
-        "title": "オープンワールドゲーム開発でおなじみのAvalanche Studiosが「3分社化」。開発は3スタジオに分かれ、新作も発表 - AUTOMATON",
-        "source": "AUTOMATON",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE12UDB3V3hOdFlYb1dBenZQV2lLVGNiVjNUb2daUENnM2UwNWhhRkNObjhQVWxQX0FlZGhfMlZiazB0ZC1zMGlkcWVYemRyMVAyN3d1LVJYbEY4RTBySHZic1NkdFZCYk05THFLUg?oc=5",
-        "published_at": "2020-03-27T07:00:00+00:00",
-        "representative_place": "Avalanche Studios / Just Cause",
-        "place_label": "スウェーデン-ストックホルム",
-        "sort_place_label": "スウェーデン-ストックホルム",
-        "geocode_query": "Avalanche Studios Stockholm Sweden",
-        "place_type": "studio_site",
-        "location_precision": "city",
-        "place_reason": "game-all未解決記事に『ジャストコーズ』開発元が未発表AAAオープンワールド作品に着手か、と明示されているため、Just Cause開発元Avalanche Studiosの所在地としてストックホルムに置く（一致語: Avalanche Studios）",
-        "confidence": 0.78,
-        "rule_id": "observed_avalanche_studios_just_cause_stockholm_202604",
-        "matched_text": "Avalanche Studios",
         "match_source": "known_place_title"
       }
     }
