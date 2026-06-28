@@ -4,170 +4,177 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>RSS Topic Maps</title>
-  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.css">
   <style>
-    html, body { height: 100%; margin: 0; font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
-    body { display: grid; grid-template-columns: 380px 1fr; }
-    aside { border-right: 1px solid #ddd; padding: 14px; overflow: auto; background: #fafafa; }
-    main { min-width: 0; }
-    #map { height: 100%; width: 100%; }
-    h1 { font-size: 18px; margin: 0 0 12px; }
-    select, button { width: 100%; box-sizing: border-box; font-size: 14px; padding: 8px; margin: 4px 0 10px; }
-    .stats { font-size: 13px; line-height: 1.55; background: white; border: 1px solid #ddd; border-radius: 8px; padding: 10px; margin-bottom: 12px; }
-    .item { border: 1px solid #ddd; border-radius: 8px; padding: 10px; margin: 8px 0; background: white; cursor: pointer; }
-    .item:hover { background: #f3f6ff; }
-    .title { font-weight: 650; font-size: 13px; line-height: 1.45; margin-bottom: 6px; }
-    .meta { font-size: 12px; color: #555; line-height: 1.45; }
-    .empty { color: #777; font-size: 13px; }
-    a { color: #0645ad; }
-    @media (max-width: 760px) {
-      body { display: block; }
-      aside { height: 45vh; border-right: 0; border-bottom: 1px solid #ddd; }
-      #map { height: 55vh; }
+    html, body, #map { height: 100%; margin: 0; }
+    body { overflow: clip; font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; color: #1f2933; }
+    #map { width: 100%; position: relative; }
+    .panel-toggle { position: fixed; z-index: 1100; top: 12px; right: 12px; border: 0; border-radius: 999px; padding: 9px 12px; background: rgba(255,255,255,.96); box-shadow: 0 2px 12px rgba(0,0,0,.20); font-weight: 700; cursor: pointer; }
+    body:not(.panel-collapsed) > .panel-toggle { display: none; }
+    .updated-at-badge { position: absolute; z-index: 1090; right: 12px; bottom: 26px; max-width: calc(100vw - 24px); border-radius: 999px; padding: 7px 10px; background: rgba(255,255,255,.94); box-shadow: 0 2px 12px rgba(0,0,0,.16); font-size: 12px; color: #333; white-space: nowrap; }
+    .panel { position: fixed; z-index: 1000; top: 12px; left: 12px; width: min(420px, calc(100vw - 24px)); max-height: calc(100vh - 24px); overflow: clip; display: flex; flex-direction: column; background: rgba(255,255,255,.94); border-radius: 10px; box-shadow: 0 2px 12px rgba(0,0,0,.18); font-size: 14px; line-height: 1.5; }
+    .panel-collapsed .panel { display: none; }
+    .panel-header { position: relative; flex: 0 0 auto; padding: 12px 14px 10px; border-bottom: 1px solid rgba(0,0,0,.12); background: rgba(255,255,255,.96); }
+    .panel-close-button { position: absolute; z-index: 2; top: 10px; right: 10px; border: 0; border-radius: 999px; padding: 7px 10px; background: rgba(17,85,204,.10); color: #111; box-shadow: 0 1px 6px rgba(0,0,0,.12); font-weight: 700; cursor: pointer; }
+    .panel-scroll { flex: 1 1 auto; min-height: 0; overflow: auto; padding: 0 14px 12px; }
+    .panel h1 { font-size: 16px; margin: 0 0 2px; padding-right: 104px; }
+    .schedule-note { color: #444; font-size: 12px; margin-bottom: 6px; }
+    .muted { color: #666; font-size: 12px; }
+    .feed-control { margin-top: 8px; }
+    .feed-control label { display: block; color: #555; font-size: 12px; font-weight: 700; margin-bottom: 3px; }
+    .feed-control select { width: 100%; box-sizing: border-box; border: 1px solid rgba(0,0,0,.20); border-radius: 8px; padding: 8px 9px; background: white; font: inherit; font-size: 13px; }
+    .stats { display: grid; grid-template-columns: repeat(4, 1fr); gap: 6px; margin-top: 8px; }
+    .stat { background: rgba(0,0,0,.04); border-radius: 8px; padding: 6px; }
+    .stat-value { display: block; font-weight: 700; }
+    .stat-label { display: block; color: #666; font-size: 11px; }
+    .country-indicator { margin-top: 8px; border-left: 4px solid var(--country-border, #ccd6e0); border-radius: 8px; padding: 6px 8px; background: var(--country-header-bg, rgba(0,0,0,.035)); color: #333; font-size: 12px; font-weight: 700; }
+    .topic-list { margin-top: 10px; display: grid; gap: 8px; }
+    .topic-item { border-top: 1px solid rgba(0,0,0,.08); border-left: 3px solid var(--country-border, #ccd6e0); border-radius: 8px; padding: 8px 8px 8px 9px; background: var(--country-bg, rgba(0,0,0,.025)); cursor: pointer; }
+    .topic-item.active { border-left-width: 5px; background: linear-gradient(0deg, rgba(17,85,204,.08), rgba(17,85,204,.08)), var(--country-bg, #fff); }
+    .topic-title { font-weight: 650; }
+    .topic-meta { color: #555; font-size: 12px; margin-top: 2px; }
+    .empty { color: #777; font-size: 13px; margin-top: 12px; }
+    a { color: #1155cc; }
+    @media (max-width: 700px) {
+      .panel-toggle { top: calc(env(safe-area-inset-top, 0px) + 8px); right: 8px; padding: 8px 10px; }
+      .updated-at-badge { right: 8px; bottom: 28px; font-size: 11px; padding: 6px 9px; }
+      .panel { top: calc(env(safe-area-inset-top, 0px) + 8px); left: 8px; width: calc(100vw - 16px); max-height: calc(100vh - 24px); }
+      .panel-header { padding: 12px; }
+      .panel-close-button { top: 10px; right: 10px; }
+      .panel-scroll { padding: 0 12px 12px; }
+      .panel h1 { padding-right: 104px; }
     }
   </style>
 </head>
 <body>
-  <aside>
-    <h1>RSS Topic Maps</h1>
-    <label for="feedSelect">RSS / トピック</label>
-    <select id="feedSelect"></select>
-    <div id="stats" class="stats">読み込み中...</div>
-    <div id="list"></div>
+  <div id="map"></div>
+  <button id="panelToggle" class="panel-toggle" type="button" aria-expanded="true">一覧を閉じる</button>
+  <div id="updatedAtBadge" class="updated-at-badge">更新日を取得中</div>
+  <aside class="panel" id="sidePanel">
+    <div class="panel-header">
+      <button id="panelCloseButton" class="panel-close-button" type="button">一覧を閉じる</button>
+      <h1>RSS Topic Maps</h1>
+      <div class="schedule-note">RSSごとのニュース地図を切り替えて確認します</div>
+      <div id="status" class="muted">loading topic-maps/index.json...</div>
+      <div class="feed-control">
+        <label for="feedSelect">RSS / トピック</label>
+        <select id="feedSelect"></select>
+      </div>
+      <div id="statsSlot"></div>
+    </div>
+    <div class="panel-scroll">
+      <div id="topicList" class="topic-list"></div>
+    </div>
   </aside>
-  <main>
-    <div id="map"></div>
-  </main>
 
-  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.js"></script>
   <script>
-    const map = L.map('map', { worldCopyJump: true }).setView([32, 15], 2);
-    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-      maxZoom: 19,
-      attribution: '&copy; OpenStreetMap contributors'
-    }).addTo(map);
+    const map = L.map('map').setView([36.2, 138.2], 5);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', { maxZoom: 19, attribution: '&copy; OpenStreetMap contributors' }).addTo(map);
+    L.tileLayer('https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png', { maxZoom: 17, opacity: 0.23, attribution: 'Terrain overlay: &copy; OpenTopoMap (CC-BY-SA)' }).addTo(map);
+    delete L.Icon.Default.prototype._getIconUrl;
+    L.Icon.Default.mergeOptions({ iconRetinaUrl: 'https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/images/marker-icon-2x.png', iconUrl: 'https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/images/marker-icon.png', shadowUrl: 'https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/images/marker-shadow.png' });
 
-    let currentLayer = null;
-    const feedSelect = document.getElementById('feedSelect');
-    const statsBox = document.getElementById('stats');
-    const listBox = document.getElementById('list');
+    const statusEl = document.getElementById('status');
+    const feedSelectEl = document.getElementById('feedSelect');
+    const statsSlotEl = document.getElementById('statsSlot');
+    const topicListEl = document.getElementById('topicList');
+    const panelToggleEl = document.getElementById('panelToggle');
+    const panelCloseButtonEl = document.getElementById('panelCloseButton');
+    const panelScrollEl = document.querySelector('.panel-scroll');
+    const updatedAtBadgeEl = document.getElementById('updatedAtBadge');
 
-    async function loadIndex() {
-      const response = await fetch('topic-maps/index.json', { cache: 'no-store' });
-      if (!response.ok) throw new Error('topic-maps/index.json を読めませんでした');
-      return response.json();
-    }
+    let feeds = [];
+    let markers = [];
+    let topicItems = [];
+    let activeTopicItem = null;
+    let countryIndicatorEl = null;
+    let scrollFrame = null;
 
-    async function loadGeoJSON(path) {
-      const response = await fetch(path, { cache: 'no-store' });
-      if (!response.ok) throw new Error(path + ' を読めませんでした');
-      return response.json();
-    }
-
-    function renderStats(feed, geojson) {
-      const stats = feed.stats || geojson.properties?.stats || {};
-      const createdAt = geojson.properties?.created_at || '';
-      statsBox.innerHTML = `
-        <div><strong>${escapeHtml(feed.label || feed.id)}</strong></div>
-        <div>取得: ${stats.fetched ?? 0}</div>
-        <div>抽出: ${stats.filtered ?? 0}</div>
-        <div>解決: ${stats.resolved ?? 0}</div>
-        <div>未解決: ${stats.unresolved ?? 0}</div>
-        <div>作成: ${escapeHtml(createdAt)}</div>
-        <div><a href="${escapeAttr(feed.geojson)}" target="_blank" rel="noopener">GeoJSON</a></div>
-      `;
-    }
-
-    function renderList(features, markers) {
-      if (!features.length) {
-        listBox.innerHTML = '<p class="empty">解決済み地点がありません。</p>';
-        return;
-      }
-      listBox.innerHTML = '';
-      features.forEach((feature, index) => {
-        const p = feature.properties || {};
-        const div = document.createElement('div');
-        div.className = 'item';
-        div.innerHTML = `
-          <div class="title">${escapeHtml(p.title || '')}</div>
-          <div class="meta">${escapeHtml(p.place_label || p.representative_place || '')}</div>
-          <div class="meta">${escapeHtml(p.source || '')}</div>
-          <div class="meta">一致: ${escapeHtml(p.matched_text || '')}</div>
-        `;
-        div.addEventListener('click', () => {
-          const marker = markers[index];
-          if (!marker) return;
-          map.setView(marker.getLatLng(), Math.max(map.getZoom(), 6));
-          marker.openPopup();
-        });
-        listBox.appendChild(div);
-      });
-    }
+    function esc(v) { return String(v ?? '').replaceAll('&','&amp;').replaceAll('<','&lt;').replaceAll('>','&gt;').replaceAll('"','&quot;').replaceAll("'",'&#039;'); }
+    function displayPlace(p) { return p.place_label || p.representative_place || p.geocode_query || ''; }
+    function originalTitleBlock(p) { return p.original_title ? `<br><small>原題: ${esc(p.original_title)}</small>` : ''; }
+    function popup(p) { const link = esc(p.link); return `<strong>${esc(p.title)}</strong>${originalTitleBlock(p)}<br><span>${esc(displayPlace(p))}</span><br><small>${esc(p.place_type)}</small><br><p>${esc(p.place_reason)}</p>${link ? `<a href="${link}" target="_blank" rel="noopener noreferrer">${esc(p.source) || 'source'}</a>` : ''}`; }
+    function isKunlunPlaceholder(feature) { return (feature.properties || {}).rule_id === 'unresolved_kunlun_placeholder'; }
+    function getFeaturePlace(feature) { const p = feature.properties || {}; return p.sort_place_label || p.place_label || p.representative_place || p.geocode_query || ''; }
+    function getFeaturePublishedAt(feature) { const p = feature.properties || {}; const time = Date.parse(p.published_at || ''); return Number.isNaN(time) ? 0 : time; }
+    function sortedFeaturesByPlace(features) { return [...features].sort((a, b) => { const ak = isKunlunPlaceholder(a); const bk = isKunlunPlaceholder(b); if (ak !== bk) return ak ? 1 : -1; const placeOrder = getFeaturePlace(a).localeCompare(getFeaturePlace(b), 'ja-JP', { numeric: true, sensitivity: 'base' }); if (placeOrder) return placeOrder; return getFeaturePublishedAt(b) - getFeaturePublishedAt(a); }); }
+    function countryFromPlaceLabel(label) { const text = String(label || '').trim(); if (!text) return '国不明'; if (text.startsWith('日本-')) return '日本'; if (/^(北海道|東京都|京都府|大阪府|.{2,3}県)(-|$)/.test(text)) return '日本'; return text.split(/[-・/]/).map(part => part.trim()).find(Boolean) || '国不明'; }
+    function getFeatureCountry(feature) { const p = feature.properties || {}; return countryFromPlaceLabel(p.place_label || p.representative_place || p.geocode_query || p.sort_place_label || ''); }
+    function countryColors(country) { let hash = 0; for (const char of country) hash = ((hash * 31) + char.charCodeAt(0)) >>> 0; const hue = hash % 360; return { bg: `hsl(${hue} 70% 97%)`, border: `hsl(${hue} 45% 78%)`, header: `hsl(${hue} 70% 95%)` }; }
+    function applyCountryStyle(el, country) { const colors = countryColors(country); el.style.setProperty('--country-bg', colors.bg); el.style.setProperty('--country-border', colors.border); el.style.setProperty('--country-header-bg', colors.header); }
+    function ensureCountryIndicator() { if (countryIndicatorEl) return countryIndicatorEl; countryIndicatorEl = document.createElement('div'); countryIndicatorEl.className = 'country-indicator'; countryIndicatorEl.textContent = '表示中の国: -'; return countryIndicatorEl; }
+    function updateCountryIndicator(country) { const indicator = ensureCountryIndicator(); indicator.textContent = `表示中の国: ${country || '-'}`; applyCountryStyle(indicator, country || '国不明'); }
+    function firstVisibleTopicItem() { if (!panelScrollEl || !topicItems.length) return null; const top = panelScrollEl.getBoundingClientRect().top; return topicItems.find(item => item.getBoundingClientRect().bottom > top + 6) || topicItems[0]; }
+    function updateVisibleCountry() { const item = firstVisibleTopicItem(); if (item) updateCountryIndicator(item.dataset.country || '国不明'); }
+    function scheduleVisibleCountryUpdate() { if (scrollFrame) cancelAnimationFrame(scrollFrame); scrollFrame = requestAnimationFrame(() => { scrollFrame = null; updateVisibleCountry(); }); }
+    function isPanelCollapsed() { return document.body.classList.contains('panel-collapsed'); }
+    function scrollActiveTopicItem(behavior = 'smooth') { if (!activeTopicItem || isPanelCollapsed()) return; activeTopicItem.scrollIntoView({ block: 'start', behavior }); }
+    function setActiveTopicItem(item, options = {}) { const shouldScroll = options.scroll !== false; if (activeTopicItem) activeTopicItem.classList.remove('active'); activeTopicItem = item; activeTopicItem.classList.add('active'); updateCountryIndicator(item.dataset.country || '国不明'); if (shouldScroll) scrollActiveTopicItem(); }
+    function updatePanelControls(collapsed) { panelToggleEl.textContent = collapsed ? '一覧を開く' : '一覧を閉じる'; panelToggleEl.setAttribute('aria-expanded', String(!collapsed)); if (panelCloseButtonEl) panelCloseButtonEl.hidden = collapsed; }
+    function setPanelCollapsed(collapsed) { document.body.classList.toggle('panel-collapsed', collapsed); updatePanelControls(collapsed); setTimeout(() => { map.invalidateSize(); if (!collapsed) { scrollActiveTopicItem(); scheduleVisibleCountryUpdate(); } }, 160); }
+    function formatUpdatedAt(value) { if (!value) return '更新日不明'; const date = new Date(value); if (Number.isNaN(date.getTime())) return `更新: ${value}`; return `更新: ${date.toLocaleString('ja-JP', { timeZone: 'Asia/Tokyo', year: 'numeric', month: '2-digit', day: '2-digit', hour: '2-digit', minute: '2-digit' })}`; }
+    function setUpdatedAt(createdAt) { const label = formatUpdatedAt(createdAt); statusEl.textContent = label; updatedAtBadgeEl.textContent = label; updatedAtBadgeEl.title = createdAt || ''; }
+    function kunlunFeature(item) { return { type: 'Feature', geometry: { type: 'Point', coordinates: [90.0, 35.0] }, properties: { title: item.title || '', original_title: item.original_title, source: item.source || '', link: item.link || '', published_at: item.published_at || null, representative_place: '場所不明(崑崙山)', place_label: '場所不明(崑崙山)', sort_place_label: '場所不明(崑崙山)', geocode_query: 'Kunlun Mountains, China', place_type: 'unresolved_placeholder', location_precision: 'placeholder', place_reason: '場所を特定できなかったため、未解決ニュースの仮置き地点として崑崙山に置いています。', confidence: 0, rule_id: 'unresolved_kunlun_placeholder' } }; }
+    function kunlunFeatures(payload) { const items = Array.isArray(payload) ? payload : (payload.unresolved || payload.items || payload.articles || []); return items.filter(item => item && item.title).map(kunlunFeature); }
+    function fetchJson(path) { return fetch(`${path}?t=${Date.now()}`, { cache: 'no-store' }).then(r => { if (!r.ok) throw new Error(`${path} を読めませんでした: HTTP ${r.status}`); return r.json(); }); }
+    function clearMapAndList() { markers.forEach(marker => marker.remove()); markers = []; topicItems = []; activeTopicItem = null; topicListEl.replaceChildren(); }
+    function currentStats(feed, geojson, unresolvedFeatures) { const stats = { ...(feed.stats || {}), ...((geojson.properties && geojson.properties.stats) || {}) }; return { fetched: stats.fetched ?? '-', filtered: stats.filtered ?? '-', resolved: (geojson.features || []).length, unresolved: stats.unresolved ?? unresolvedFeatures.length }; }
+    function renderStats(feed, geojson, unresolvedFeatures) { const stats = currentStats(feed, geojson, unresolvedFeatures); const block = document.createElement('div'); block.className = 'stats'; block.innerHTML = `<div class="stat"><span class="stat-value">${esc(stats.fetched)}</span><span class="stat-label">取得</span></div><div class="stat"><span class="stat-value">${esc(stats.filtered)}</span><span class="stat-label">抽出</span></div><div class="stat"><span class="stat-value">${esc(stats.resolved)}</span><span class="stat-label">解決</span></div><div class="stat"><span class="stat-value">${esc(stats.unresolved)}</span><span class="stat-label">場所不明</span></div>`; statsSlotEl.replaceChildren(block, ensureCountryIndicator()); updateVisibleCountry(); }
+    function addList(feature, marker) { const p = feature.properties || {}; const country = getFeatureCountry(feature); const item = document.createElement('div'); item.className = 'topic-item country-coded'; item.dataset.country = country; applyCountryStyle(item, country); const original = p.original_title ? `<div class="topic-meta">原題: ${esc(p.original_title)}</div>` : ''; item.innerHTML = `<div class="topic-title">${esc(p.title)}</div>${original}<div class="topic-meta">${esc(displayPlace(p))} / ${esc(p.place_type)}</div>`; item.addEventListener('click', () => { setActiveTopicItem(item); map.panTo(marker.getLatLng()); marker.openPopup(); }); marker.on('click', () => setActiveTopicItem(item, { scroll: !isPanelCollapsed() })); topicItems.push(item); topicListEl.appendChild(item); }
 
     async function selectFeed(feed) {
-      statsBox.textContent = '読み込み中...';
-      listBox.innerHTML = '';
-      const geojson = await loadGeoJSON(feed.geojson);
-      if (currentLayer) map.removeLayer(currentLayer);
-      const markers = [];
-      currentLayer = L.geoJSON(geojson, {
-        pointToLayer: (feature, latlng) => {
-          const marker = L.circleMarker(latlng, { radius: 7, weight: 2, fillOpacity: 0.75 });
-          markers.push(marker);
-          return marker;
-        },
-        onEachFeature: (feature, layer) => {
-          const p = feature.properties || {};
-          layer.bindPopup(`
-            <strong>${escapeHtml(p.title || '')}</strong><br>
-            ${escapeHtml(p.representative_place || '')}<br>
-            ${escapeHtml(p.place_label || '')}<br>
-            <a href="${escapeAttr(p.link || '#')}" target="_blank" rel="noopener">記事を開く</a>
-          `);
-        }
-      }).addTo(map);
-      const features = geojson.features || [];
-      if (features.length) {
-        map.fitBounds(currentLayer.getBounds(), { padding: [30, 30] });
-      } else {
-        map.setView([32, 15], 2);
+      statusEl.textContent = '読み込み中...';
+      updatedAtBadgeEl.textContent = '読み込み中...';
+      clearMapAndList();
+      statsSlotEl.replaceChildren();
+      const [geojson, unresolvedJson] = await Promise.all([fetchJson(feed.geojson), fetchJson(feed.unresolved).catch(() => ({ unresolved: [] }))]);
+      const unresolvedFeatures = kunlunFeatures(unresolvedJson);
+      const features = sortedFeaturesByPlace([...(geojson.features || []), ...unresolvedFeatures]);
+      if (!features.length) {
+        topicListEl.innerHTML = '<p class="empty">表示できる地点がありません。</p>';
       }
-      renderStats(feed, geojson);
-      renderList(features, markers);
+      features.forEach(feature => {
+        const c = feature.geometry && feature.geometry.coordinates;
+        if (!c || c.length < 2) return;
+        const marker = L.marker([c[1], c[0]]).addTo(map);
+        marker.bindPopup(popup(feature.properties || {}));
+        markers.push(marker);
+        addList(feature, marker);
+      });
+      if (markers.length) map.fitBounds(L.featureGroup(markers).getBounds().pad(0.25)); else map.setView([36.2, 138.2], 5);
+      renderStats(feed, geojson, unresolvedFeatures);
+      const createdAt = (geojson.properties && geojson.properties.created_at) || geojson.created_at || feed.created_at;
+      setUpdatedAt(createdAt);
     }
 
-    function escapeHtml(value) {
-      return String(value).replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
-    }
+    panelToggleEl.addEventListener('click', () => setPanelCollapsed(!document.body.classList.contains('panel-collapsed')));
+    if (panelCloseButtonEl) panelCloseButtonEl.addEventListener('click', () => setPanelCollapsed(true));
+    if (panelScrollEl) panelScrollEl.addEventListener('scroll', scheduleVisibleCountryUpdate, { passive: true });
+    if (window.innerWidth <= 700) setPanelCollapsed(true); else updatePanelControls(false);
 
-    function escapeAttr(value) {
-      return escapeHtml(value).replace(/'/g, '&#39;');
-    }
-
-    loadIndex()
+    fetchJson('topic-maps/index.json')
       .then(index => {
-        const feeds = index.feeds || [];
-        if (!feeds.length) {
-          statsBox.textContent = 'feed がありません。workflow を実行して topic-maps/index.json を生成してください。';
-          return;
-        }
+        feeds = index.feeds || [];
+        if (!feeds.length) throw new Error('feed がありません。workflow を実行して topic-maps/index.json を生成してください。');
         feeds.forEach(feed => {
           const option = document.createElement('option');
           option.value = feed.id;
           option.textContent = feed.label || feed.id;
-          feedSelect.appendChild(option);
+          feedSelectEl.appendChild(option);
         });
-        feedSelect.addEventListener('change', () => {
-          const feed = feeds.find(item => item.id === feedSelect.value);
+        feedSelectEl.addEventListener('change', () => {
+          const feed = feeds.find(item => item.id === feedSelectEl.value);
           if (feed) selectFeed(feed).catch(showError);
         });
-        selectFeed(feeds[0]).catch(showError);
+        return selectFeed(feeds[0]);
       })
       .catch(showError);
 
     function showError(error) {
       console.error(error);
-      statsBox.textContent = error.message || String(error);
+      statusEl.textContent = error.message || String(error);
+      updatedAtBadgeEl.textContent = '読み込み失敗';
     }
   </script>
 </body>
