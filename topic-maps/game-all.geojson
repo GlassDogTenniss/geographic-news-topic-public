@@ -1,8 +1,8 @@
 {
   "type": "FeatureCollection",
   "properties": {
-    "created_at": "2026-06-28T22:28:12.926937+00:00",
-    "count": 117,
+    "created_at": "2026-06-28T22:35:09.428932+00:00",
+    "count": 139,
     "stats": {
       "feed_id": "game-all",
       "feed_label": "ゲーム",
@@ -51,10 +51,10 @@
         "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja": 77
       },
       "filtered": 907,
-      "resolved": 117,
-      "unresolved": 790,
-      "rules": 94,
-      "known_places": 96,
+      "resolved": 139,
+      "unresolved": 768,
+      "rules": 111,
+      "known_places": 113,
       "loaded_data_files": [
         "data/place_rules.json",
         "data/unresolved_known_places_12.json",
@@ -2009,6 +2009,141 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.1356,
+          50.8198
+        ]
+      },
+      "properties": {
+        "title": "The GamesIndustry.biz Summer Party returns Wednesday July 15",
+        "source": "GamesIndustry.biz Latest Articles Feed",
+        "link": "https://www.gamesindustry.biz/gamesindustrybiz-summer-party-returns-wednesday-july-15",
+        "published_at": "2026-06-12T15:32:54+00:00",
+        "representative_place": "GamesIndustry.biz Summer Party / Brighton Pier",
+        "place_label": "英国-イングランド-ブライトン",
+        "sort_place_label": "英国-イングランド-ブライトン",
+        "geocode_query": "Brighton Pier Brighton England",
+        "place_type": "event_site",
+        "location_precision": "venue",
+        "place_reason": "game-all未解決記事のsummaryに『Horatio's Bar on Brighton Pier』と明示されているため、イベント会場としてブライトン・ピアに置く（一致語: The GamesIndustry.biz Summer Party returns Wednesday July 15）",
+        "confidence": 0.92,
+        "rule_id": "observed_gibiz_summer_party_brighton_pier_202607",
+        "matched_text": "The GamesIndustry.biz Summer Party returns Wednesday July 15",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1278,
+          51.5074
+        ]
+      },
+      "properties": {
+        "title": "『バットマン：アーカム』開発チームが新作DCマルチプレイヤーゲームを開発か？失敗を恐れず「サービス型ゲーム」に再挑戦 - 玩具人 TOY PEOPLE",
+        "source": "玩具人 TOY PEOPLE",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9hZl9XRjZmbzNiRllqUU9pTmRia3dvVXdkUUxNSk1yU3dBc3dycGxwNnkwUVZrQnhNNkVRcnNTeVdtYXNvYk12U2NDMFNfZ0p2?oc=5",
+        "published_at": "2026-06-12T10:29:50+00:00",
+        "representative_place": "Rocksteady Studios / DC multiplayer game",
+        "place_label": "英国-イングランド-ロンドン",
+        "sort_place_label": "英国-イングランド-ロンドン",
+        "geocode_query": "Rocksteady Studios London England",
+        "place_type": "studio_site",
+        "location_precision": "city",
+        "place_reason": "game-all未解決記事に『バットマン：アーカム』開発チームが新作DCマルチプレイヤーゲームを開発か、と明示されているため、Arkham開発元Rocksteady Studiosの所在地としてロンドンに置く（一致語: バットマン：アーカム』開発チーム）",
+        "confidence": 0.78,
+        "rule_id": "observed_rocksteady_dc_multiplayer_london_202606",
+        "matched_text": "バットマン：アーカム』開発チーム",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1278,
+          51.5074
+        ]
+      },
+      "properties": {
+        "title": "Playstack CEO: new owner will keep it separate from its games media brands including GamesSpot and Fandom",
+        "source": "GamesIndustry.biz Latest Articles Feed",
+        "link": "https://www.gamesindustry.biz/playstack-ceo-new-owner-will-keep-it-separate-from-its-games-media-brands-including-gamesspot-and-fandom",
+        "published_at": "2026-06-12T08:00:00+00:00",
+        "representative_place": "Playstack",
+        "place_label": "英国-イングランド-ロンドン",
+        "sort_place_label": "英国-イングランド-ロンドン",
+        "geocode_query": "Playstack London England",
+        "place_type": "publisher_site",
+        "location_precision": "city",
+        "place_reason": "game-all未解決記事にBalatro / Abiotic FactorのパブリッシャーPlaystackの売却後方針が明示されているため、同社所在地としてロンドンに置く（一致語: Playstack CEO: new owner will keep it separate）",
+        "confidence": 0.76,
+        "rule_id": "observed_playstack_imc_sale_london_202606",
+        "matched_text": "Playstack CEO: new owner will keep it separate",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1218,
+          52.2053
+        ]
+      },
+      "properties": {
+        "title": "New Arm tech enables the use of Unreal Engine MegaLights on mobile",
+        "source": "GamesIndustry.biz Latest Articles Feed",
+        "link": "https://www.gamesindustry.biz/new-arm-tech-enables-the-use-of-unreal-engine-megalights-on-mobile",
+        "published_at": "2026-06-10T13:00:00+00:00",
+        "representative_place": "Arm / Neural Dawn",
+        "place_label": "英国-イングランド-ケンブリッジ",
+        "sort_place_label": "英国-イングランド-ケンブリッジ",
+        "geocode_query": "Arm Cambridge England",
+        "place_type": "company_site",
+        "location_precision": "city",
+        "place_reason": "game-all未解決記事にUK-based Armとゲーム技術デモNeural Dawnが明示されているため、Armの代表地点としてケンブリッジに置く（一致語: New Arm tech enables the use of Unreal Engine MegaLights on mobile）",
+        "confidence": 0.76,
+        "rule_id": "observed_arm_neural_dawn_cambridge_202606",
+        "matched_text": "New Arm tech enables the use of Unreal Engine MegaLights on mobile",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1218,
+          52.2053
+        ]
+      },
+      "properties": {
+        "title": "Frontier Developments reports record profits in FY26 turnaround",
+        "source": "GamesIndustry.biz Latest Articles Feed",
+        "link": "https://www.gamesindustry.biz/frontier-developments-reports-record-profits-in-fy26-turnaround",
+        "published_at": "2026-06-10T12:52:49+00:00",
+        "representative_place": "Frontier Developments",
+        "place_label": "英国-イングランド-ケンブリッジ",
+        "sort_place_label": "英国-イングランド-ケンブリッジ",
+        "geocode_query": "Frontier Developments Cambridge England",
+        "place_type": "studio_site",
+        "location_precision": "city",
+        "place_reason": "game-all未解決記事にFrontier DevelopmentsのFY26業績が明示されているため、同社所在地としてケンブリッジに置く（一致語: Frontier Developments reports record profits in FY26 turnaround）",
+        "confidence": 0.78,
+        "rule_id": "observed_frontier_developments_fy26_cambridge_202606",
+        "matched_text": "Frontier Developments reports record profits in FY26 turnaround",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           18.4241,
           -33.9249
         ]
@@ -2036,6 +2171,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          144.9631,
+          -37.8136
+        ]
+      },
+      "properties": {
+        "title": "Big Walk's creators reflect on their six-year journey",
+        "source": "GamesIndustry.biz Latest Articles Feed",
+        "link": "https://www.gamesindustry.biz/big-walks-creators-reflect-on-their-six-year-journey",
+        "published_at": "2026-06-09T15:00:00+00:00",
+        "representative_place": "House House / Big Walk",
+        "place_label": "オーストラリア-ビクトリア州-メルボルン",
+        "sort_place_label": "オーストラリア-ビクトリア州-メルボルン",
+        "geocode_query": "Melbourne Victoria Australia",
+        "place_type": "studio_site",
+        "location_precision": "city",
+        "place_reason": "game-all未解決記事のsummaryに『Melbourne-based developer House House』と明示されているため、House Houseの所在地としてメルボルンに置く（一致語: Big Walk's creators reflect on their six-year journey）",
+        "confidence": 0.92,
+        "rule_id": "observed_house_house_big_walk_melbourne_202606",
+        "matched_text": "Big Walk's creators reflect on their six-year journey",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.2137,
           46.2276
         ]
@@ -2055,6 +2217,33 @@
         "confidence": 0.78,
         "rule_id": "observed_nintendo_joycon_fine_france_202606",
         "matched_text": "Nintendo was fined 35 million euros",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2433,
+          38.9637
+        ]
+      },
+      "properties": {
+        "title": "Türkiye's domestic mobile revenue grew 6% to $347m in 2025",
+        "source": "GamesIndustry.biz Latest Articles Feed",
+        "link": "https://www.gamesindustry.biz/turkiyes-domestic-mobile-revenue-grew-6-to-347m-in-2025",
+        "published_at": "2026-06-09T09:05:24+00:00",
+        "representative_place": "Türkiye mobile games market",
+        "place_label": "トルコ",
+        "sort_place_label": "トルコ",
+        "geocode_query": "Turkey",
+        "place_type": "market_region",
+        "location_precision": "country",
+        "place_reason": "game-all未解決記事のタイトル・summaryにTürkiye / Turkish developer revenueが明示され、国単位のモバイルゲーム市場記事であるためトルコに置く（一致語: Türkiye's domestic mobile revenue grew 6% to $347m in 2025）",
+        "confidence": 0.78,
+        "rule_id": "observed_turkiye_mobile_revenue_2025",
+        "matched_text": "Türkiye's domestic mobile revenue grew 6% to $347m in 2025",
         "match_source": "known_place_title"
       }
     },
@@ -2144,6 +2333,60 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          135.5023,
+          34.6937
+        ]
+      },
+      "properties": {
+        "title": "Platinum is making a triple-A Ninja Turtles game because they're \"huge fans\" of the IP",
+        "source": "GamesIndustry.biz Latest Articles Feed",
+        "link": "https://www.gamesindustry.biz/platinum-is-making-a-triple-a-ninja-turtles-game-because-theyre-huge-fans-of-the-ip",
+        "published_at": "2026-06-05T21:45:36+00:00",
+        "representative_place": "PlatinumGames / Teenage Mutant Ninja Turtles: The Last Ronin",
+        "place_label": "日本-大阪府-大阪市",
+        "sort_place_label": "日本-大阪府-大阪市",
+        "geocode_query": "PlatinumGames Osaka Japan",
+        "place_type": "studio_site",
+        "location_precision": "city",
+        "place_reason": "game-all未解決記事のsummaryにBayonetta dev PlatinumGamesがTeenage Mutant Ninja Turtles: The Last Roninを開発すると明示されているため、同スタジオ所在地として大阪に置く（一致語: Platinum is making a triple-A Ninja Turtles game）",
+        "confidence": 0.84,
+        "rule_id": "observed_platinumgames_tmnt_osaka_202606",
+        "matched_text": "Platinum is making a triple-A Ninja Turtles game",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.0,
+          54.0
+        ]
+      },
+      "properties": {
+        "title": "\"We have secured our components for this year\" – Nex Playground hopes to avoid any further AI-related price rises",
+        "source": "GamesIndustry.biz Latest Articles Feed",
+        "link": "https://www.gamesindustry.biz/we-have-secured-our-components-for-this-year-nex-playground-hopes-to-avoid-any-further-ai-related-price-rises",
+        "published_at": "2026-06-05T16:42:42+00:00",
+        "representative_place": "Nex Playground launch in UK and Ireland",
+        "place_label": "英国・アイルランド",
+        "sort_place_label": "英国・アイルランド",
+        "geocode_query": "United Kingdom Ireland",
+        "place_type": "launch_market_region",
+        "location_precision": "multi_region",
+        "place_reason": "game-all未解決記事のsummaryに『UK and Ireland launch of the Nex Playground』と明示されているため、ローンチ対象地域として英国・アイルランドに置く（一致語: Nex Playground hopes to avoid any further AI-related price rises）",
+        "confidence": 0.82,
+        "rule_id": "observed_nex_playground_uk_ireland_launch_202606",
+        "matched_text": "Nex Playground hopes to avoid any further AI-related price rises",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           17.6791,
           1.6508
         ]
@@ -2217,6 +2460,33 @@
         "confidence": 0.82,
         "rule_id": "observed_nodding_heads_games_pune_202606",
         "matched_text": "Nodding Heads Games",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9041,
+          52.3676
+        ]
+      },
+      "properties": {
+        "title": "『PUBG』生んだクリエイターのスタジオが資金難に。早期アクセス中の新作は開発中止・無料化へ―ブレンダン・グリーン氏が組織再編を発表 - Game*Spark",
+        "source": "Game*Spark",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1hckg1dHdoeU9aTzV1R09Ib2hyeFZQUEhTNWwtVGFIaGxyZ29HVUhZVzBxSV8zYjJicjdnSHFEd2MwajNrb0xNdnB1ZkNfN2NGZzJaelpxRUt2RW4wX1I5WnVqUV9oQQ?oc=5",
+        "published_at": "2026-06-04T07:00:00+00:00",
+        "representative_place": "PlayerUnknown Productions",
+        "place_label": "オランダ-アムステルダム",
+        "sort_place_label": "オランダ-アムステルダム",
+        "geocode_query": "PlayerUnknown Productions Amsterdam Netherlands",
+        "place_type": "studio_site",
+        "location_precision": "city",
+        "place_reason": "game-all未解決記事にPUBGを生んだブレンダン・グリーン氏のスタジオ再編が明示されているため、PlayerUnknown Productionsの所在地としてアムステルダムに置く（一致語: PUBG』生んだクリエイターのスタジオ）",
+        "confidence": 0.76,
+        "rule_id": "observed_playerunknown_productions_restructure_amsterdam_202606",
+        "matched_text": "PUBG』生んだクリエイターのスタジオ",
         "match_source": "known_place_title"
       }
     },
@@ -2306,6 +2576,60 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          144.9631,
+          -37.8136
+        ]
+      },
+      "properties": {
+        "title": "Atari just got bigger: it has acquired the creators of Crossy Road",
+        "source": "Game World Observer",
+        "link": "https://gameworldobserver.com/2026/06/01/atari-just-got-bigger-it-has-acquired-the-creators-of-crossy-road",
+        "published_at": "2026-06-01T11:39:42+00:00",
+        "representative_place": "Hipster Whale / Crossy Road",
+        "place_label": "オーストラリア-ビクトリア州-メルボルン",
+        "sort_place_label": "オーストラリア-ビクトリア州-メルボルン",
+        "geocode_query": "Hipster Whale Melbourne Australia",
+        "place_type": "studio_site",
+        "location_precision": "city",
+        "place_reason": "game-all未解決記事のsummaryにAtariによるCrossy Road開発元Hipster Whale買収が明示されているため、同スタジオ所在地としてメルボルンに置く（一致語: Atari just got bigger: it has acquired the creators of Crossy Road）",
+        "confidence": 0.82,
+        "rule_id": "observed_hipster_whale_atari_acquisition_melbourne_202606",
+        "matched_text": "Atari just got bigger: it has acquired the creators of Crossy Road",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1278,
+          51.5074
+        ]
+      },
+      "properties": {
+        "title": "A controlling stake in the publisher Balatro will be purchased for $150 million",
+        "source": "Game World Observer",
+        "link": "https://gameworldobserver.com/2026/05/29/a-controlling-stake-in-the-publisher-balatro-will-be-purchased-for-150-million",
+        "published_at": "2026-05-29T13:37:43+00:00",
+        "representative_place": "Playstack",
+        "place_label": "英国-イングランド-ロンドン",
+        "sort_place_label": "英国-イングランド-ロンドン",
+        "geocode_query": "Playstack London England",
+        "place_type": "publisher_site",
+        "location_precision": "city",
+        "place_reason": "game-all未解決記事にBalatro / Abiotic FactorのパブリッシャーPlaystackの売却後方針が明示されているため、同社所在地としてロンドンに置く",
+        "confidence": 0.76,
+        "rule_id": "observed_playstack_imc_sale_london_202606",
+        "matched_text": "Playstack",
+        "match_source": "rule"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           78.9629,
           20.5937
         ]
@@ -2352,6 +2676,33 @@
         "confidence": 0.56,
         "rule_id": "observed_africa_gaming_market_202606",
         "matched_text": "Africa Plays Its Own Game",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.4074,
+          39.9042
+        ]
+      },
+      "properties": {
+        "title": "The creators of Genshin Impact will spend nearly $15 billion on AI",
+        "source": "Game World Observer",
+        "link": "https://gameworldobserver.com/2026/05/26/the-creators-of-genshin-impact-will-spend-nearly-15-billion-on-ai",
+        "published_at": "2026-05-26T13:06:24+00:00",
+        "representative_place": "miHoYo AI event in Beijing",
+        "place_label": "中国-北京市",
+        "sort_place_label": "中国-北京市",
+        "geocode_query": "Beijing China",
+        "place_type": "event_site",
+        "location_precision": "city",
+        "place_reason": "game-all未解決記事のsummaryにmiHoYoのLiu Weiが北京のAIイベントで発表したと明示されているため、発表イベント地点として北京に置く（一致語: The creators of Genshin Impact will spend nearly $15 billion on AI）",
+        "confidence": 0.88,
+        "rule_id": "observed_mihoyo_ai_beijing_event_202605",
+        "matched_text": "The creators of Genshin Impact will spend nearly $15 billion on AI",
         "match_source": "known_place_title"
       }
     },
@@ -2522,6 +2873,87 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -21.9426,
+          64.1466
+        ]
+      },
+      "properties": {
+        "title": "Pearl Abyss sold the creators of EVE Online for much less than it purchased them for",
+        "source": "Game World Observer",
+        "link": "https://gameworldobserver.com/2026/04/30/pearl-abyss-sold-the-creators-of-eve-online-for-much-less-than-it-purchased-them-for",
+        "published_at": "2026-04-30T12:58:08+00:00",
+        "representative_place": "CCP Games / EVE Online",
+        "place_label": "アイスランド-レイキャビク",
+        "sort_place_label": "アイスランド-レイキャビク",
+        "geocode_query": "CCP Games Reykjavik Iceland",
+        "place_type": "studio_site",
+        "location_precision": "city",
+        "place_reason": "game-all未解決記事のsummaryにPearl AbyssがCCP Gamesを経営陣に売却すると明示されているため、CCP Gamesの所在地としてレイキャビクに置く（一致語: Pearl Abyss sold the creators of EVE Online）",
+        "confidence": 0.84,
+        "rule_id": "observed_ccp_games_pearl_abyss_sale_reykjavik_202604",
+        "matched_text": "Pearl Abyss sold the creators of EVE Online",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3522,
+          48.8566
+        ]
+      },
+      "properties": {
+        "title": "Report: Spiders studio may shut down after 18 eears of operation",
+        "source": "Game World Observer",
+        "link": "https://gameworldobserver.com/2026/04/29/report-spiders-studio-may-shut-down-after-18-eears-of-operation",
+        "published_at": "2026-04-29T14:20:35+00:00",
+        "representative_place": "Spiders Studio",
+        "place_label": "フランス-パリ",
+        "sort_place_label": "フランス-パリ",
+        "geocode_query": "Spiders Studio Paris France",
+        "place_type": "studio_site",
+        "location_precision": "city",
+        "place_reason": "game-all未解決記事にGreedFall / Steelrisingで知られるSpidersの売却・閉鎖リスクが明示されているため、同スタジオ所在地としてパリに置く（一致語: Spiders studio may shut down）",
+        "confidence": 0.8,
+        "rule_id": "observed_spiders_studio_sale_paris_202604",
+        "matched_text": "Spiders studio may shut down",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0122,
+          52.2297
+        ]
+      },
+      "properties": {
+        "title": "People Can Fly acquired a publisher founded by veterans of Gearbox Publishing",
+        "source": "Game World Observer",
+        "link": "https://gameworldobserver.com/2026/04/27/people-can-fly-acquired-a-publisher-founded-by-veterans-of-gearbox-publishing",
+        "published_at": "2026-04-27T11:07:47+00:00",
+        "representative_place": "People Can Fly / Cooldown Games acquisition",
+        "place_label": "ポーランド-ワルシャワ",
+        "sort_place_label": "ポーランド-ワルシャワ",
+        "geocode_query": "People Can Fly Warsaw Poland",
+        "place_type": "studio_site",
+        "location_precision": "city",
+        "place_reason": "game-all未解決記事のsummaryに『Polish company People Can Fly』によるCooldown Games買収が明示されているため、同社所在地としてワルシャワに置く（一致語: People Can Fly acquired a publisher）",
+        "confidence": 0.84,
+        "rule_id": "observed_people_can_fly_cooldown_games_warsaw_202604",
+        "matched_text": "People Can Fly acquired a publisher",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           22.9375,
           -30.5595
         ]
@@ -2541,6 +2973,60 @@
         "confidence": 0.78,
         "rule_id": "observed_nyamakop_relooted_south_africa_202606",
         "matched_text": "South African studio makes waves",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0686,
+          59.3293
+        ]
+      },
+      "properties": {
+        "title": "新作開発中止やスタジオ閉鎖など続く『ジャストコーズ』開発元、未発表AAAオープンワールド作品に着手か。求人情報から判明 - Game*Spark",
+        "source": "Game*Spark",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBYUHBEODl6ZVJpQjBmM1RqcFljM1d3YTd3eHRNVUNGX1JSd3U3QndOUVg1cVBfREFWREZfR3BKVnRDZHB4eUhTOEJaY0d1a2V1djJUR3loY2ZyMi15TnRZbnVHcGZKQQ?oc=5",
+        "published_at": "2026-04-25T07:00:00+00:00",
+        "representative_place": "Avalanche Studios / Just Cause",
+        "place_label": "スウェーデン-ストックホルム",
+        "sort_place_label": "スウェーデン-ストックホルム",
+        "geocode_query": "Avalanche Studios Stockholm Sweden",
+        "place_type": "studio_site",
+        "location_precision": "city",
+        "place_reason": "game-all未解決記事に『ジャストコーズ』開発元が未発表AAAオープンワールド作品に着手か、と明示されているため、Just Cause開発元Avalanche Studiosの所在地としてストックホルムに置く（一致語: 未発表AAAオープンワールド作品）",
+        "confidence": 0.78,
+        "rule_id": "observed_avalanche_studios_just_cause_stockholm_202604",
+        "matched_text": "未発表AAAオープンワールド作品",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6503,
+          35.6762
+        ]
+      },
+      "properties": {
+        "title": "The creators of the anime One Piece and Dragon Ball have launched a gaming division",
+        "source": "Game World Observer",
+        "link": "https://gameworldobserver.com/2026/04/21/the-creators-of-the-anime-one-piece-and-dragon-ball-have-launched-a-gaming-division",
+        "published_at": "2026-04-21T13:48:52+00:00",
+        "representative_place": "Toei Company gaming division",
+        "place_label": "日本-東京都",
+        "sort_place_label": "日本-東京都",
+        "geocode_query": "Toei Company Tokyo Japan",
+        "place_type": "company_site",
+        "location_precision": "city",
+        "place_reason": "game-all未解決記事のsummaryにToei Companyがゲーム事業へ進出すると明示されているため、同社所在地として東京に置く（一致語: The creators of the anime One Piece and Dragon Ball have launched a gaming division）",
+        "confidence": 0.8,
+        "rule_id": "observed_toei_company_gaming_division_tokyo_202604",
+        "matched_text": "The creators of the anime One Piece and Dragon Ball have launched a gaming division",
         "match_source": "known_place_title"
       }
     },
@@ -2900,6 +3386,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          18.0686,
+          59.3293
+        ]
+      },
+      "properties": {
+        "title": "『ジャストコーズ』Avalanche Studiosがリヴァプールスタジオ閉鎖を発表―5地点に構えていたスタジオは残り2つに - Game*Spark",
+        "source": "Game*Spark",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9KWXh6cDgza1p0bDBvSkN5aWwzcHdRSy1YNUpwM2lRdWZFTW1OOWdwcVY5Y0RFSTFYeWVhVkRGWjMtZzlkMHV4XzhiTExwQ0RKS0o1bUtwTmhRbHRPWFZ0MWJ3RzZSdw?oc=5",
+        "published_at": "2025-10-01T07:00:00+00:00",
+        "representative_place": "Avalanche Studios / Just Cause",
+        "place_label": "スウェーデン-ストックホルム",
+        "sort_place_label": "スウェーデン-ストックホルム",
+        "geocode_query": "Avalanche Studios Stockholm Sweden",
+        "place_type": "studio_site",
+        "location_precision": "city",
+        "place_reason": "game-all未解決記事に『ジャストコーズ』開発元が未発表AAAオープンワールド作品に着手か、と明示されているため、Just Cause開発元Avalanche Studiosの所在地としてストックホルムに置く（一致語: Avalanche Studios）",
+        "confidence": 0.78,
+        "rule_id": "observed_avalanche_studios_just_cause_stockholm_202604",
+        "matched_text": "Avalanche Studios",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           22.9375,
           -30.5595
         ]
@@ -3035,6 +3548,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.1278,
+          51.5074
+        ]
+      },
+      "properties": {
+        "title": "“Triple-i Initiative”第2回が4月11日1時より配信、『Balatoro』Playstackも参加。45分間広告なしノンストップのインディー配信イベント【37の開発スタジオが集結】 - ファミ通",
+        "source": "ファミ通",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5Va3VCZzE4ei0wei1od1FIVjJnZkZzUHNzYmNVek55YlRaQ3QtM216MFE0dE8tSlB0TmxyUGl3UXQxdndfV3JERWVTSUswMkZSMnEyLUY4bw?oc=5",
+        "published_at": "2025-03-27T07:00:00+00:00",
+        "representative_place": "Playstack",
+        "place_label": "英国-イングランド-ロンドン",
+        "sort_place_label": "英国-イングランド-ロンドン",
+        "geocode_query": "Playstack London England",
+        "place_type": "publisher_site",
+        "location_precision": "city",
+        "place_reason": "game-all未解決記事にBalatro / Abiotic FactorのパブリッシャーPlaystackの売却後方針が明示されているため、同社所在地としてロンドンに置く（一致語: Playstack）",
+        "confidence": 0.76,
+        "rule_id": "observed_playstack_imc_sale_london_202606",
+        "matched_text": "Playstack",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           121.0508,
           14.5503
         ]
@@ -3054,6 +3594,33 @@
         "confidence": 0.82,
         "rule_id": "observed_ubisoft_philippines_industry_202502",
         "matched_text": "How Ubisoft Philippines is Leveling Up the Local Gaming Industry",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0686,
+          59.3293
+        ]
+      },
+      "properties": {
+        "title": "デビュー作の開発中に経営状況悪化...Avalanche Studios共同創設者の新スタジオ従業員削減へ - Game*Spark",
+        "source": "Game*Spark",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBheGFoTHNxUVFHNk9Id01feHZkVkt4a3Fzek51SE85NHc4MFR0OThUdjQ1S0tRN3NoOE5kOFBpb0ZndXhlV2VLUEtpdlFpTEVGUm1lUXpYMWg5U3RSWWVFSDdaY0hydw?oc=5",
+        "published_at": "2025-02-18T08:00:00+00:00",
+        "representative_place": "Avalanche Studios / Just Cause",
+        "place_label": "スウェーデン-ストックホルム",
+        "sort_place_label": "スウェーデン-ストックホルム",
+        "geocode_query": "Avalanche Studios Stockholm Sweden",
+        "place_type": "studio_site",
+        "location_precision": "city",
+        "place_reason": "game-all未解決記事に『ジャストコーズ』開発元が未発表AAAオープンワールド作品に着手か、と明示されているため、Just Cause開発元Avalanche Studiosの所在地としてストックホルムに置く（一致語: Avalanche Studios）",
+        "confidence": 0.78,
+        "rule_id": "observed_avalanche_studios_just_cause_stockholm_202604",
+        "matched_text": "Avalanche Studios",
         "match_source": "known_place_title"
       }
     },
@@ -3270,6 +3837,33 @@
         "confidence": 0.82,
         "rule_id": "observed_ubisoft_philippines_industry_202502",
         "matched_text": "Ubisoft Philippines",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0686,
+          59.3293
+        ]
+      },
+      "properties": {
+        "title": "オープンワールドゲーム開発でおなじみのAvalanche Studiosが「3分社化」。開発は3スタジオに分かれ、新作も発表 - AUTOMATON",
+        "source": "AUTOMATON",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE12UDB3V3hOdFlYb1dBenZQV2lLVGNiVjNUb2daUENnM2UwNWhhRkNObjhQVWxQX0FlZGhfMlZiazB0ZC1zMGlkcWVYemRyMVAyN3d1LVJYbEY4RTBySHZic1NkdFZCYk05THFLUg?oc=5",
+        "published_at": "2020-03-27T07:00:00+00:00",
+        "representative_place": "Avalanche Studios / Just Cause",
+        "place_label": "スウェーデン-ストックホルム",
+        "sort_place_label": "スウェーデン-ストックホルム",
+        "geocode_query": "Avalanche Studios Stockholm Sweden",
+        "place_type": "studio_site",
+        "location_precision": "city",
+        "place_reason": "game-all未解決記事に『ジャストコーズ』開発元が未発表AAAオープンワールド作品に着手か、と明示されているため、Just Cause開発元Avalanche Studiosの所在地としてストックホルムに置く（一致語: Avalanche Studios）",
+        "confidence": 0.78,
+        "rule_id": "observed_avalanche_studios_just_cause_stockholm_202604",
+        "matched_text": "Avalanche Studios",
         "match_source": "known_place_title"
       }
     }
