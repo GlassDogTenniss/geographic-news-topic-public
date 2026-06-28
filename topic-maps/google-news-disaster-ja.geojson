@@ -1,21 +1,22 @@
 {
   "type": "FeatureCollection",
   "properties": {
-    "created_at": "2026-06-28T15:54:35.728953+00:00",
-    "count": 0,
+    "created_at": "2026-06-28T16:01:01.952413+00:00",
+    "count": 20,
     "stats": {
       "feed_id": "google-news-disaster-ja",
       "feed_label": "Google News: 災害・地震・大雨",
       "rss_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja",
       "fetched": 69,
-      "filtered": 62,
-      "resolved": 0,
-      "unresolved": 62,
-      "rules": 9,
-      "known_places": 11,
+      "filtered": 61,
+      "resolved": 20,
+      "unresolved": 41,
+      "rules": 34,
+      "known_places": 35,
       "loaded_data_files": [
         "data/place_rules.json",
-        "data/unresolved_known_places_12.json"
+        "data/unresolved_known_places_12.json",
+        "data/unresolved_known_places_15.json"
       ],
       "topic_keywords": [
         "災害",
@@ -28,5 +29,546 @@
       "exclude_keywords": []
     }
   },
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7671,
+          35.6812
+        ]
+      },
+      "properties": {
+        "title": "「災害大国・日本」W台風と前線による大雨、さらに震度6強・6弱の地震も相次ぐ… - 文化放送",
+        "source": "文化放送",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBHQU5DQk43RS1KSERURXlCQVh2ZUtjYkpiVFNZb0t5ODBHZWxwNklxS19tZGRkZXNKYmhPU05QODZieTBfZDlHUm1kVVFWVkhJcW90azBB?oc=5",
+        "published_at": "2026-06-28T08:42:11+00:00",
+        "representative_place": "日本",
+        "place_label": "日本",
+        "sort_place_label": "日本",
+        "geocode_query": "Japan",
+        "place_type": "affected_region",
+        "location_precision": "country",
+        "place_reason": "日本全体を扱う災害記事を、国レベルの代表地点として東京付近に置く",
+        "confidence": 0.42,
+        "rule_id": "japan_disaster_broad_topic",
+        "matched_text": "災害大国",
+        "match_source": "rule"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.5683,
+          35.6639
+        ]
+      },
+      "properties": {
+        "title": "【台風情報】台風7号　次第に山梨県から遠ざかる　警報級の大雨の可能性は低く　地震で地盤が緩んでいる所があり、土砂災害に注意　甲府地方気象台が発表 - ｄメニューニュース",
+        "source": "ｄメニューニュース",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9JT2dlY1lYM0dvTGlTdms3TFpmRWRfNVJLSWRTVGI4eUxSZ1NqRjloZFRWbF9aX1V1TFFOTFlqZEhYZGV1QThqRDNfX3BBS3Q1ZGNKemFjZFJRR3FmY3NFTm1TcFVCY0dxV3Z5WC11QdIBdEFVX3lxTE42YUhoVVU2NmpnckZUbExXZm5xTHhTUVVpcmlYOWJBM1pxUV9NN3hUSDZYVnBWN1hrRlFZcW05YVpDdlZtYmtHcGRGSEx4MU1Xck94YmtORDdNTWxLclU2ZU40Q3lTalBuNHhMV1c3Tm1FcmtW?oc=5",
+        "published_at": "2026-06-27T09:16:00+00:00",
+        "representative_place": "日本・山梨県",
+        "place_label": "日本-山梨県",
+        "sort_place_label": "日本-山梨県",
+        "geocode_query": "Yamanashi Prefecture Japan",
+        "place_type": "affected_site",
+        "location_precision": "prefecture",
+        "place_reason": "山梨県内の地震・大雨・台風影響に関する記事を、対象都道府県の代表地点に置く（一致語: 甲府地方気象台）",
+        "confidence": 0.72,
+        "rule_id": "yamanashi_prefecture_disaster_topic",
+        "matched_text": "甲府地方気象台",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.8586,
+          34.6516
+        ]
+      },
+      "properties": {
+        "title": "【台風7号接近】静岡県内で大雨の見込み レベル４土砂災害危険警報 南伊豆町では土砂崩れも - 日テレNEWS NNN",
+        "source": "日テレNEWS NNN",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Ec04tcVYxVHlNSkczRTUzak56M2hOQ18zOTdGSFJqbkgzaDY3UHc4eEZEVkJYRFk5aFJwZThlR2p0ZkF3S2ExV3p1b0dGSmRvTjhvaUduaElrenh2OEpUUWRTdTF4SVJPR0hsVWZXdGw2MXYydkZKQlhaNUhEUjg?oc=5",
+        "published_at": "2026-06-27T02:59:00+00:00",
+        "representative_place": "日本・静岡県南伊豆町",
+        "place_label": "日本-静岡県-南伊豆町",
+        "sort_place_label": "日本-静岡県-南伊豆町",
+        "geocode_query": "Minamiizu Shizuoka Japan",
+        "place_type": "affected_site",
+        "location_precision": "town",
+        "place_reason": "南伊豆町で発生した土砂崩れ・大雨影響の記事を、対象自治体に置く（一致語: 南伊豆町）",
+        "confidence": 0.78,
+        "rule_id": "minamiizu_disaster_topic",
+        "matched_text": "南伊豆町",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.5683,
+          35.6639
+        ]
+      },
+      "properties": {
+        "title": "山梨で震度6弱の地震 17人けが 土砂災害警戒レベル引き下げ 富士山に異常なし 台風の大雨と余震に警戒 - FNNプライムオンライン",
+        "source": "FNNプライムオンライン",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9sTUdEU1hUTUx1Xzh1MDcxVGJ0V0Y1U2xVcVZPN1FDR2NURXRFWUxNT2JrSF9xRXdBa0pkdXE5TXdUb0NmSzFFOGlnM3Rfdw?oc=5",
+        "published_at": "2026-06-27T02:56:00+00:00",
+        "representative_place": "日本・山梨県",
+        "place_label": "日本-山梨県",
+        "sort_place_label": "日本-山梨県",
+        "geocode_query": "Yamanashi Prefecture Japan",
+        "place_type": "affected_site",
+        "location_precision": "prefecture",
+        "place_reason": "山梨県内の地震・大雨・台風影響に関する記事を、対象都道府県の代表地点に置く（一致語: 山梨）",
+        "confidence": 0.72,
+        "rule_id": "yamanashi_prefecture_disaster_topic",
+        "matched_text": "山梨",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7671,
+          35.6812
+        ]
+      },
+      "properties": {
+        "title": "台風7号が接近中の関東は再び大雨ピーク　揺れが強かった地域は土砂崩れに警戒(気象予報士 伊藤　杏子 2026年06月27日) - tenki.jp",
+        "source": "tenki.jp",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB6SDJFUDVISUNRZ3VtQmQ5UUZDM2o3TzBlTjNJZVhxT2JfT1pXemxHVGdQaXptdnZOTDltLUw2NkhoRjdIdTlCdmRGQW1qMGhLZVdwWkFXVC0zbUs2VVBra1RWOUFfQWPSAWxBVV95cUxOWkVjWTJJNTNXOWkwVnh6M19EeWlDSDVCYTJ5ZUt2VEtwMW11eHBRZm1Jbk1jMUtlRXUwQ21TdDQycWp5ZXdwQlB2blJOUGFvaFc0RXhZQmlkNVMzVENpdUthdVRVcVdUbjE0UWc?oc=5",
+        "published_at": "2026-06-27T02:30:10+00:00",
+        "representative_place": "日本・関東甲信",
+        "place_label": "日本-関東甲信",
+        "sort_place_label": "日本-関東甲信",
+        "geocode_query": "Kanto Koshin Japan",
+        "place_type": "affected_region",
+        "location_precision": "region",
+        "place_reason": "関東・関東甲信にまたがる気象・災害記事を、広域代表地点として東京付近に置く（一致語: 関東）",
+        "confidence": 0.54,
+        "rule_id": "kanto_koshin_disaster_topic",
+        "matched_text": "関東",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.5683,
+          35.6639
+        ]
+      },
+      "properties": {
+        "title": "【台風情報】台風７号が接近 土砂災害などに厳重に警戒 これまでの大雨や昨夜の地震で通常よりも少ない雨量でも土砂災害の危険度が高まるおそれ 【進路予想・雨と風のシミュレーション】 | 山梨のニュース | ＵＴＹテレビ山梨 - TBS NEWS DIG",
+        "source": "TBS NEWS DIG",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xM1daUnNqUnB6aWVQcG0zczhmSkdOVnNaNjQyRVV1TTZvR0JTTnllY1dGMEpEUnZpVS03bllHd0ZfQTNZWWViVHpramJPN3B2eW5FU0d3OXdOdw?oc=5",
+        "published_at": "2026-06-27T02:28:00+00:00",
+        "representative_place": "日本・山梨県",
+        "place_label": "日本-山梨県",
+        "sort_place_label": "日本-山梨県",
+        "geocode_query": "Yamanashi Prefecture Japan",
+        "place_type": "affected_site",
+        "location_precision": "prefecture",
+        "place_reason": "山梨県内の地震・大雨・台風影響に関する記事を、対象都道府県の代表地点に置く（一致語: 山梨）",
+        "confidence": 0.72,
+        "rule_id": "yamanashi_prefecture_disaster_topic",
+        "matched_text": "山梨",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.3831,
+          34.9769
+        ]
+      },
+      "properties": {
+        "title": "強い揺れの静岡・関東甲信 27日にダブル台風が接近 土砂災害に厳重警戒を（松浦悠真） - エキスパート - Yahoo!ニュース",
+        "source": "Yahoo!ニュース",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSGo0bHNnU2R0eWtpSk9ZVW04eExKc3hzNGRCZVlZdGdYLXp5NTdnUDdpR0NlSzhCT1d4bzRwV21JWjVZTUJZdFV1a0ZNS25hX2xia3RENjdoTU13bS11TTFrLVVMZmVfbUxDSnROOUF2MXNnbHJFUnZjaWF0WGdJMllhTnBGd3hN?oc=5",
+        "published_at": "2026-06-26T14:46:00+00:00",
+        "representative_place": "日本・静岡県",
+        "place_label": "日本-静岡県",
+        "sort_place_label": "日本-静岡県",
+        "geocode_query": "Shizuoka Prefecture Japan",
+        "place_type": "affected_site",
+        "location_precision": "prefecture",
+        "place_reason": "静岡県内の大雨・台風・地震影響に関する記事を、対象都道府県の代表地点に置く（一致語: 静岡）",
+        "confidence": 0.7,
+        "rule_id": "shizuoka_prefecture_disaster_topic",
+        "matched_text": "静岡",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.5683,
+          35.6639
+        ]
+      },
+      "properties": {
+        "title": "最大震度6弱の山梨県や関東では27日に台風が最接近　土砂災害やがけ崩れに厳重警戒(気象予報士 牧　良幸 2026年06月26日) - tenki.jp",
+        "source": "tenki.jp",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9RX2U5YjdUWXh4a1owWGFBLThqdDFaQi1sWFJON3dZQ25OdGhZTkhiTDkxOU5Mb0VYUktVUDl3ZDFUZklYdUdobmNLUjBMS21lYk9wVXdhQ3ByQXRxUll3NXZQRzljNm_SAWxBVV95cUxNS3ZsTmFIVVl5UUFBRGhaUEpIRWtrT0k3M0Ezb18wc3FjaG5zLUpmdUNDZlVxV3JCd1l5YWtaUmVvQWx2akpKWlhzMGlzTG56SHY0aUtzQ3Rfam5TUVItRllsVDZENldBV1NCcHA?oc=5",
+        "published_at": "2026-06-26T14:28:43+00:00",
+        "representative_place": "日本・山梨県",
+        "place_label": "日本-山梨県",
+        "sort_place_label": "日本-山梨県",
+        "geocode_query": "Yamanashi Prefecture Japan",
+        "place_type": "affected_site",
+        "location_precision": "prefecture",
+        "place_reason": "山梨県内の地震・大雨・台風影響に関する記事を、対象都道府県の代表地点に置く（一致語: 山梨県）",
+        "confidence": 0.72,
+        "rule_id": "yamanashi_prefecture_disaster_topic",
+        "matched_text": "山梨県",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.5683,
+          35.6639
+        ]
+      },
+      "properties": {
+        "title": "山梨で震度6弱 台風接近で大雨警戒 過去には台風の雨と地震で大規模土砂災害も #エキスパートトピ（松浦悠真） - エキスパート - Yahoo!ニュース",
+        "source": "Yahoo!ニュース",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSTVwY0dUdFkwVEc3elE1VFVkZHpNdmtGcktKRHNpTVppQjVkdGlhSW4tbkEwaVgwRDd2d2F0QlZnUm5UY1kwRmtvQTVDWl9RRTllQkNqcHJKQVh5U3JTZVUwdEE1S290ZTBUMkJxVmhCcF9zSlBEQlFINmZjX20tUEFVanFKNzBr?oc=5",
+        "published_at": "2026-06-26T14:03:30+00:00",
+        "representative_place": "日本・山梨県",
+        "place_label": "日本-山梨県",
+        "sort_place_label": "日本-山梨県",
+        "geocode_query": "Yamanashi Prefecture Japan",
+        "place_type": "affected_site",
+        "location_precision": "prefecture",
+        "place_reason": "山梨県内の地震・大雨・台風影響に関する記事を、対象都道府県の代表地点に置く（一致語: 山梨）",
+        "confidence": 0.72,
+        "rule_id": "yamanashi_prefecture_disaster_topic",
+        "matched_text": "山梨",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7671,
+          35.6812
+        ]
+      },
+      "properties": {
+        "title": "２つの台風や梅雨前線影響 27日にかけて東海や関東甲信中心に大雨が続くおそれ 土砂災害などに厳重な警戒 - 日テレNEWS NNN",
+        "source": "日テレNEWS NNN",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBkS2lPOE8tUkZyVFNIM3dZc3BqSzVqRjVKR1Iya1FlU21jSDBxVDBuM3EyUGo4enJNajVCNi1EMnVRQVVkLWc4Y2VfekhXOGw1bVpvejN6Q1BJOXRCdDNOQ2E5dld0dlltVlRmMERvVVZVTm90cTJhckV1YVE?oc=5",
+        "published_at": "2026-06-26T07:01:01+00:00",
+        "representative_place": "日本・関東甲信",
+        "place_label": "日本-関東甲信",
+        "sort_place_label": "日本-関東甲信",
+        "geocode_query": "Kanto Koshin Japan",
+        "place_type": "affected_region",
+        "location_precision": "region",
+        "place_reason": "関東・関東甲信にまたがる気象・災害記事を、広域代表地点として東京付近に置く（一致語: 関東甲信）",
+        "confidence": 0.54,
+        "rule_id": "kanto_koshin_disaster_topic",
+        "matched_text": "関東甲信",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7671,
+          35.6812
+        ]
+      },
+      "properties": {
+        "title": "【6/26最新】台風7号・地震・大雨の影響でヤマト運輸、佐川急便、日本郵便で配送遅延や集配停止が発生 - Yahoo!ニュース",
+        "source": "Yahoo!ニュース",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rdmNsSGZwbVdrdlhxX0U5QXVFZFlSTmdSX1ZWdmFkNFR4d2dxYWRNMGhQODdDelIydmNWa2VaRHhuQmxuZTc3OVlxZ1RXMHA4c2tvZlRxcjA4enBSSUVoUTJOMjBIdmRCOV9Cem9hQVUxUDBSb3NoaWtHMy1vVUU?oc=5",
+        "published_at": "2026-06-26T00:01:45+00:00",
+        "representative_place": "日本",
+        "place_label": "日本",
+        "sort_place_label": "日本",
+        "geocode_query": "Japan",
+        "place_type": "affected_region",
+        "location_precision": "country",
+        "place_reason": "日本全体を扱う災害記事を、国レベルの代表地点として東京付近に置く",
+        "confidence": 0.42,
+        "rule_id": "japan_disaster_broad_topic",
+        "matched_text": "日本",
+        "match_source": "rule"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7671,
+          35.6812
+        ]
+      },
+      "properties": {
+        "title": "活発な梅雨前線影響で西、東日本で大雨 2つの台風は27日にかけ接近見込み…大雨災害に厳重警戒を - 日テレNEWS NNN",
+        "source": "日テレNEWS NNN",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9HQ2pCQUN0Q2ZiaDVIajg3NjZXQlhRUURoQVZmVXdQM2sySDFxTHNsdW1KcktUeXFsWVFTREZ6QzdBbW1YeDRhd08wVUJDRnYyUlhoOWk1Z0dSZGZqRjBYRWhKWlMyWjdnUXpkTzFyd281bnBBOXVQRGFlQU8?oc=5",
+        "published_at": "2026-06-25T23:04:00+00:00",
+        "representative_place": "日本",
+        "place_label": "日本",
+        "sort_place_label": "日本",
+        "geocode_query": "Japan",
+        "place_type": "affected_region",
+        "location_precision": "country",
+        "place_reason": "日本全体を扱う災害記事を、国レベルの代表地点として東京付近に置く",
+        "confidence": 0.42,
+        "rule_id": "japan_disaster_broad_topic",
+        "matched_text": "日本",
+        "match_source": "rule"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7671,
+          35.6812
+        ]
+      },
+      "properties": {
+        "title": "活発な梅雨前線影響…西日本で大雨 2つの台風も北上中、大雨災害に厳重警戒を（2026年6月25日掲載）｜日テレNEWS NNN - 日テレNEWS NNN",
+        "source": "日テレNEWS NNN",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBkYjdpYWw5dTNWVTh3Tk5ONW5MMExjeTNEM3dDU04yWkRHdEhBcHhzTk1MRkVNSVJST1FYd0d1M0JsNFp6TE5sNDRBSm91Nm12UlBRY1ZYcHJUa2FVNW1VVTZET1B6LXFQcDNnV2JhczVSVF9pZ2MteXNYVkQ?oc=5",
+        "published_at": "2026-06-25T22:18:00+00:00",
+        "representative_place": "日本",
+        "place_label": "日本",
+        "sort_place_label": "日本",
+        "geocode_query": "Japan",
+        "place_type": "affected_region",
+        "location_precision": "country",
+        "place_reason": "日本全体を扱う災害記事を、国レベルの代表地点として東京付近に置く",
+        "confidence": 0.42,
+        "rule_id": "japan_disaster_broad_topic",
+        "matched_text": "日本",
+        "match_source": "rule"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7671,
+          35.6812
+        ]
+      },
+      "properties": {
+        "title": "九州で大雨 2つの台風が日本の南を北上中 土砂災害などに厳重警戒（2026年6月24日掲載）｜日テレNEWS NNN - 日テレNEWS NNN",
+        "source": "日テレNEWS NNN",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1zVjNubFlpU0pvVzhJOWprQ0s1TnB0UFQ1c0dCaHlfNlB1YmRXeHJYOG5QSlA3ODFjME1oUi1DWnpZZmIwWHJvTTYwdW5Gc1JXRURwaUp6WTU1NUthZ3hJQ053anRNZ3RhUUtvU1V3VklSd3VTX1h2cXFyR0w?oc=5",
+        "published_at": "2026-06-25T02:48:01+00:00",
+        "representative_place": "日本",
+        "place_label": "日本",
+        "sort_place_label": "日本",
+        "geocode_query": "Japan",
+        "place_type": "affected_region",
+        "location_precision": "country",
+        "place_reason": "日本全体を扱う災害記事を、国レベルの代表地点として東京付近に置く",
+        "confidence": 0.42,
+        "rule_id": "japan_disaster_broad_topic",
+        "matched_text": "日本",
+        "match_source": "rule"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7671,
+          35.6812
+        ]
+      },
+      "properties": {
+        "title": "中米でM7.1の地震 この地震による日本への津波の影響なし（2026年6月24日掲載）｜日テレNEWS NNN - 日テレNEWS NNN",
+        "source": "日テレNEWS NNN",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5ZTTUwZnAzUlRNblhlME9fS3dKY1h5RzJTQWJaRDB5em13ckVLdmR6aFZ4WF83NU1KN3JYLUlxMzhSZUEwVnhwRnVST2d3RVNNaHB0Si1XeEZlbFRLdFhZZXhOT25aaDFTdmlGQ3hGR2FNSk1WME9DR2ZlS2g?oc=5",
+        "published_at": "2026-06-24T23:14:06+00:00",
+        "representative_place": "日本",
+        "place_label": "日本",
+        "sort_place_label": "日本",
+        "geocode_query": "Japan",
+        "place_type": "affected_region",
+        "location_precision": "country",
+        "place_reason": "日本全体を扱う災害記事を、国レベルの代表地点として東京付近に置く",
+        "confidence": 0.42,
+        "rule_id": "japan_disaster_broad_topic",
+        "matched_text": "日本",
+        "match_source": "rule"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7671,
+          35.6812
+        ]
+      },
+      "properties": {
+        "title": "【天気】九州で線状降水帯発生のおそれ 大雨災害に厳重な警戒を 台風7号は週末にかけて日本列島に - 日テレNEWS NNN",
+        "source": "日テレNEWS NNN",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5rT25QYjR5LUMxVVZ4SnEydFNwOEJRZjBOZGlDVHg3MG1MOW9leWJyVEFydzlfLVRFMEFjWk5ieHQxZFgwc09LdmVHdXZKc1NtazVWU0NuZFhYaGtFZlhQWXUzUXVvSno5bkw3cFkxajZ5RVExaDlNTjhzNXM?oc=5",
+        "published_at": "2026-06-24T22:07:01+00:00",
+        "representative_place": "日本",
+        "place_label": "日本",
+        "sort_place_label": "日本",
+        "geocode_query": "Japan",
+        "place_type": "affected_region",
+        "location_precision": "country",
+        "place_reason": "日本全体を扱う災害記事を、国レベルの代表地点として東京付近に置く",
+        "confidence": 0.42,
+        "rule_id": "japan_disaster_broad_topic",
+        "matched_text": "日本",
+        "match_source": "rule"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7671,
+          35.6812
+        ]
+      },
+      "properties": {
+        "title": "九州で線状降水帯が発生のおそれ 大雨による災害発生のおそれ ふたつの台風、週末にかけ日本列島へ近づく見込み - 日テレNEWS NNN",
+        "source": "日テレNEWS NNN",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBCR1JkQmVQS0FjQTcweGE0UWhzVXJqZURNT3NFRUJLRm5FRTA5cGhJdDhlMlJVSFRVRnctemlXekxNenY4Rmc2N0pEdlRKMC13RnJBekY5QVZJYmxvMGdPS0dWbHZUazRzdEFSTmhPRVdJMlN4Z3pWMkc3RzA?oc=5",
+        "published_at": "2026-06-23T22:22:00+00:00",
+        "representative_place": "日本",
+        "place_label": "日本",
+        "sort_place_label": "日本",
+        "geocode_query": "Japan",
+        "place_type": "affected_region",
+        "location_precision": "country",
+        "place_reason": "日本全体を扱う災害記事を、国レベルの代表地点として東京付近に置く",
+        "confidence": 0.42,
+        "rule_id": "japan_disaster_broad_topic",
+        "matched_text": "日本",
+        "match_source": "rule"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.9066,
+          35.1815
+        ]
+      },
+      "properties": {
+        "title": "台風6号　四国～東海は今夜暗い時間に大雨災害リスク大　線状降水帯発生のおそれも(気象予報士 福冨　里香 2026年06月02日) - tenki.jp",
+        "source": "tenki.jp",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DOUFaU0RpRFlJZS1UdkFvTXJJb205d2ZEZlowNVV6cVNBd01ZTHVaMGl4TlN0UzZrZW9leE9FTFpaRU1PaTdjRFJLUVI5RF9HaFRRU0E5a0c0YVAwSnVpemdVOEZrUzVFY0pKetIBckFVX3lxTE1Rdkc2S04xVDBoeFJvVTVGcHZmSGNJYzJoZHJfaW93d2ZGRlQtbDI3cUxOcGFWcnNYN0FfNGZiYzd4SV84OFlySEp5Y1pUam9vNlFaR2pZaS0wZkQwdXozWmlUWlVDbjk1WmE0bTVOMWxNZw?oc=5",
+        "published_at": "2026-06-02T07:00:00+00:00",
+        "representative_place": "日本・東海地方",
+        "place_label": "日本-東海地方",
+        "sort_place_label": "日本-東海地方",
+        "geocode_query": "Tokai region Japan",
+        "place_type": "affected_region",
+        "location_precision": "region",
+        "place_reason": "東海地方にまたがる気象・災害記事を、広域代表地点として名古屋付近に置く（一致語: 東海）",
+        "confidence": 0.52,
+        "rule_id": "tokai_region_disaster_topic",
+        "matched_text": "東海",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.5683,
+          35.6639
+        ]
+      },
+      "properties": {
+        "title": "台風6号「土砂災害“レベル4”の可能性」3日に最接近 “警報級”大雨に注意 山梨（2026年6月1日掲載）｜YBS NEWS NNN - 日テレNEWS NNN",
+        "source": "日テレNEWS NNN",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVE1XODVHbmFtWGdXem9sbjd3RkNRWm1MaTh6VnNra3N1S3Q3OEMxbXZ0a0xKcG13bldBeXNaVTBRdU8wMDEyOUxJdXg3bjVMaTEtMFZqY0tEVC1UeVY2eDc1UmtjUFFKY1o4MVJGOWdHMDA0ZFFSU2JiNnpFdU5oNWpwMVNhOTg?oc=5",
+        "published_at": "2026-06-01T07:00:00+00:00",
+        "representative_place": "日本・山梨県",
+        "place_label": "日本-山梨県",
+        "sort_place_label": "日本-山梨県",
+        "geocode_query": "Yamanashi Prefecture Japan",
+        "place_type": "affected_site",
+        "location_precision": "prefecture",
+        "place_reason": "山梨県内の地震・大雨・台風影響に関する記事を、対象都道府県の代表地点に置く（一致語: 山梨）",
+        "confidence": 0.72,
+        "rule_id": "yamanashi_prefecture_disaster_topic",
+        "matched_text": "山梨",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7671,
+          35.6812
+        ]
+      },
+      "properties": {
+        "title": "地震・台風・豪雨 ～なぜ日本は災害が多いのか？｜コラム｜目からウロコな防災メディア「防災・減災のススメ」 - oyo.co.jp",
+        "source": "oyo.co.jp",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5nNXVFOXRJeHdvMGRnd1l5ZVNfSzNhODNxaFV0M0NPY1NrY2dFQ3U5N0d4SUhiMklvdEN0TTJJOHlaWUZEYXY0MGtnMW5Bc053WDZaZDdvSQ?oc=5",
+        "published_at": "2021-05-31T07:00:00+00:00",
+        "representative_place": "日本",
+        "place_label": "日本",
+        "sort_place_label": "日本",
+        "geocode_query": "Japan",
+        "place_type": "affected_region",
+        "location_precision": "country",
+        "place_reason": "日本全体を扱う災害記事を、国レベルの代表地点として東京付近に置く",
+        "confidence": 0.42,
+        "rule_id": "japan_disaster_broad_topic",
+        "matched_text": "日本",
+        "match_source": "rule"
+      }
+    }
+  ]
 }

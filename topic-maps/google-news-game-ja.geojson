@@ -1,21 +1,22 @@
 {
   "type": "FeatureCollection",
   "properties": {
-    "created_at": "2026-06-28T15:54:35.728953+00:00",
-    "count": 0,
+    "created_at": "2026-06-28T16:01:01.952413+00:00",
+    "count": 53,
     "stats": {
       "feed_id": "google-news-game-ja",
       "feed_label": "Google News: ゲーム",
       "rss_url": "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%20%E4%BB%BB%E5%A4%A9%E5%A0%82%20Steam%20PlayStation&hl=ja&gl=JP&ceid=JP:ja",
-      "fetched": 75,
-      "filtered": 55,
-      "resolved": 0,
-      "unresolved": 55,
-      "rules": 9,
-      "known_places": 11,
+      "fetched": 77,
+      "filtered": 56,
+      "resolved": 53,
+      "unresolved": 3,
+      "rules": 34,
+      "known_places": 35,
       "loaded_data_files": [
         "data/place_rules.json",
-        "data/unresolved_known_places_12.json"
+        "data/unresolved_known_places_12.json",
+        "data/unresolved_known_places_15.json"
       ],
       "topic_keywords": [
         "ゲーム",
@@ -28,5 +29,1437 @@
       "exclude_keywords": []
     }
   },
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.756,
+          34.9671
+        ]
+      },
+      "properties": {
+        "title": "「CAPCOM MID YEAR SALE」開催！ 『バイオハザード レクイエム』がPlayStation(TM)Store、ニンテンドーeショップで初セール！ - PR TIMES",
+        "source": "PR TIMES",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAyQmhiTWxHYnBWN1QwLXJaWnlOeU5kRW5UN1oxOEkwamNhZWFyVEM4SGQ4aFRyWlZ0NzUwUks5cmZDdzdJUHdRVW1sQ3p3TmFLR08tajJ4UTcyeHZKZndYZ0o4LXJOakNhMkE?oc=5",
+        "published_at": "2026-05-27T07:00:00+00:00",
+        "representative_place": "任天堂本社",
+        "place_label": "日本-京都府-京都市-南区",
+        "sort_place_label": "日本-京都府-京都市-南区",
+        "geocode_query": "Nintendo headquarters Kyoto Japan",
+        "place_type": "institution_site",
+        "location_precision": "building",
+        "place_reason": "任天堂・Nintendo Switch関連の記事を、企業主体の代表地点として任天堂本社に置く（一致語: ニンテンドーeショップ）",
+        "confidence": 0.66,
+        "rule_id": "nintendo_kyoto_headquarters_topic",
+        "matched_text": "ニンテンドーeショップ",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5214,
+          34.6863
+        ]
+      },
+      "properties": {
+        "title": "【GWゲームセールまとめ】『ペルソナ5 ザ・ロイヤル』80％オフ、『スト6』50％オフ、『FF7リメイク インターグレード』40％オフなど人気タイトルが大幅値下げ - ファミ通",
+        "source": "ファミ通",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBLd1ZvYlR2bmtfdFRNbXhIMWdESTQzMkdIOWlGZ1gxQTN1d01GVjNQTEdvRTJnV3MtSFZRWTdCZzU2alNtVlpRdFVPX1FDTk5ROHdJMnFGUQ?oc=5",
+        "published_at": "2026-05-06T07:00:00+00:00",
+        "representative_place": "カプコン本社",
+        "place_label": "日本-大阪府-大阪市-中央区",
+        "sort_place_label": "日本-大阪府-大阪市-中央区",
+        "geocode_query": "Capcom headquarters Chuo Osaka Japan",
+        "place_type": "institution_site",
+        "location_precision": "building",
+        "place_reason": "CAPCOM・カプコン作品関連の記事を、企業主体の代表地点としてカプコン本社に置く（一致語: スト6）",
+        "confidence": 0.68,
+        "rule_id": "capcom_osaka_headquarters_topic",
+        "matched_text": "スト6",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.756,
+          34.9671
+        ]
+      },
+      "properties": {
+        "title": "【終了】Switch/PS4/Steam「東亰ザナドゥ eX＋」最大65％OFF！ | 日本ファルコム 公式サイト - 日本ファルコム 公式サイト",
+        "source": "日本ファルコム 公式サイト",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9vUm5WYmdobGo1bDI2QlZ3dVhLbXhPUzN1M0QxNmFHc2NkV2ZCS0JrSjFsS2U2RTZNeGdSR3YxOUdIdlVuNW9IQUp3LTk5cnlfMVE?oc=5",
+        "published_at": "2026-04-28T07:00:00+00:00",
+        "representative_place": "任天堂本社",
+        "place_label": "日本-京都府-京都市-南区",
+        "sort_place_label": "日本-京都府-京都市-南区",
+        "geocode_query": "Nintendo headquarters Kyoto Japan",
+        "place_type": "institution_site",
+        "location_precision": "building",
+        "place_reason": "任天堂・Nintendo Switch関連の記事を、企業主体の代表地点として任天堂本社に置く（一致語: Switch）",
+        "confidence": 0.66,
+        "rule_id": "nintendo_kyoto_headquarters_topic",
+        "matched_text": "Switch",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.756,
+          34.9671
+        ]
+      },
+      "properties": {
+        "title": "『龍が如く 極３ / 龍が如く３外伝 Dark Ties』が初登場！「セガ GWセール」がPS Store／ニンテンドーeショップ／Steamで開催中 - ASCII.jp",
+        "source": "ASCII.jp",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9SZVc2RVFjdUx4NjZ4NWFRN3NaRm0tUWFGdEdiMkhKMVU2bVBxMXV0RlplaUhOdWp2ZDdPMGt6dkZXWS1PQ2ZMbGc3ZU5zVEdKblRKaw?oc=5",
+        "published_at": "2026-04-24T07:00:00+00:00",
+        "representative_place": "任天堂本社",
+        "place_label": "日本-京都府-京都市-南区",
+        "sort_place_label": "日本-京都府-京都市-南区",
+        "geocode_query": "Nintendo headquarters Kyoto Japan",
+        "place_type": "institution_site",
+        "location_precision": "building",
+        "place_reason": "任天堂・Nintendo Switch関連の記事を、企業主体の代表地点として任天堂本社に置く（一致語: ニンテンドーeショップ）",
+        "confidence": 0.66,
+        "rule_id": "nintendo_kyoto_headquarters_topic",
+        "matched_text": "ニンテンドーeショップ",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.756,
+          34.9671
+        ]
+      },
+      "properties": {
+        "title": "「ゴールデンウィークセール2026」を開催！ ニンテンドーeショップは15タイトル、PS Storeは20タイトル、Steamは55タイトルがセール対象、最大90%OFFで提供！ - spike-chunsoft.co.jp",
+        "source": "spike-chunsoft.co.jp",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE16aGVVNXR0MDhVakZrcTRNdDVTLWk0TmJONG5QSGRlTTF0eXdROU5MTlVhLWdKemMtR3BLVEhaZThaMG5qSW0wVmMtLVh6WmRjenpTbks2VQ?oc=5",
+        "published_at": "2026-04-22T07:00:00+00:00",
+        "representative_place": "任天堂本社",
+        "place_label": "日本-京都府-京都市-南区",
+        "sort_place_label": "日本-京都府-京都市-南区",
+        "geocode_query": "Nintendo headquarters Kyoto Japan",
+        "place_type": "institution_site",
+        "location_precision": "building",
+        "place_reason": "任天堂・Nintendo Switch関連の記事を、企業主体の代表地点として任天堂本社に置く（一致語: ニンテンドーeショップ）",
+        "confidence": 0.66,
+        "rule_id": "nintendo_kyoto_headquarters_topic",
+        "matched_text": "ニンテンドーeショップ",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5214,
+          34.6863
+        ]
+      },
+      "properties": {
+        "title": "「CAPCOM GOLDEN WEEK SALE」開催！ 大型連休にプレイしたいゲームを探しているなら今がチャンス！ カプコン人気タイトルのゲーム本編、追加コンテンツがお買い得！ - PR TIMES",
+        "source": "PR TIMES",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA1SmdUbURnMnJOd09NZ1lyYTJVSFN0WDdaY3V2RGowMGJ1N0tBa3JtSVJoT3JnaTZnNEM2LXJDYkVhRXlBVmZOVlE0MlZNUHl4SjladXJMRWppMkdCRzZ1cC1hZ3o5cUVWbVE?oc=5",
+        "published_at": "2026-04-22T07:00:00+00:00",
+        "representative_place": "カプコン本社",
+        "place_label": "日本-大阪府-大阪市-中央区",
+        "sort_place_label": "日本-大阪府-大阪市-中央区",
+        "geocode_query": "Capcom headquarters Chuo Osaka Japan",
+        "place_type": "institution_site",
+        "location_precision": "building",
+        "place_reason": "CAPCOM・カプコン作品関連の記事を、企業主体の代表地点としてカプコン本社に置く（一致語: CAPCOM）",
+        "confidence": 0.68,
+        "rule_id": "capcom_osaka_headquarters_topic",
+        "matched_text": "CAPCOM",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1396,
+          47.6423
+        ]
+      },
+      "properties": {
+        "title": "Steam MachineがPlayStationの最大の競合に？元Xbox幹部が語る次世代ゲーム機の勢力図 - スマホダイジェスト",
+        "source": "スマホダイジェスト",
+        "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5EUnRQd0haU3FKc3pMNld6WmlYTU5TenlHbVh6eVpKVy1aZEpsVmY2TmNyVWFBSFdCeG04UjMzYWlhV1IweVo3bQ?oc=5",
+        "published_at": "2026-03-08T08:00:00+00:00",
+        "representative_place": "Microsoft本社",
+        "place_label": "米国-ワシントン州-レドモンド",
+        "sort_place_label": "米国-ワシントン州-レドモンド",
+        "geocode_query": "Microsoft Redmond Washington United States",
+        "place_type": "institution_site",
+        "location_precision": "campus",
+        "place_reason": "Microsoft・Copilot・Xbox関連の記事を、企業主体の代表地点としてMicrosoft本社に置く（一致語: Xbox）",
+        "confidence": 0.64,
+        "rule_id": "microsoft_redmond_headquarters_topic",
+        "matched_text": "Xbox",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7034,
+          35.6938
+        ]
+      },
+      "properties": {
+        "title": "#春のスクエニゲームフェス 対象タイトル一覧 - Square Enix, Ltd.",
+        "source": "Square Enix, Ltd.",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE15eG04SE13bHp1QkVBT1NZUXZhbzlfV2tHMWVlV1VSM2s1Q1JzQnZWVHFFTjVzWXVxY1dub2dyQldKd09uUkRaQXJ1a1JCeDlHcXZHN0JzR0tEZmxZRFE?oc=5",
+        "published_at": "2026-02-25T08:00:00+00:00",
+        "representative_place": "スクウェア・エニックス本社",
+        "place_label": "日本-東京都-新宿区",
+        "sort_place_label": "日本-東京都-新宿区",
+        "geocode_query": "Square Enix headquarters Shinjuku Tokyo Japan",
+        "place_type": "institution_site",
+        "location_precision": "city_district",
+        "place_reason": "Square Enix・スクエニ作品関連の記事を、企業主体の代表地点として新宿区に置く（一致語: Square Enix）",
+        "confidence": 0.62,
+        "rule_id": "square_enix_shinjuku_headquarters_topic",
+        "matched_text": "Square Enix",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.756,
+          34.9671
+        ]
+      },
+      "properties": {
+        "title": "【1/13まで】『ToHeart』と『モノクロームメビウス 刻ノ代贖』が過去最大割引でセール中。DL版セールがニンテンドーeショップ、PSストア、Steam、DMM GAMESで開催中 - 電撃オンライン",
+        "source": "電撃オンライン",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5pOXFNRjRYQ0cxWmwwRHY2S1BMMGphY3g1blMxUmdOYkxrQUhadVczckdjTWVxU2xZcXJpblZHM0FzeFM5OWhOMTZXQnVtMzVKYzR2NG81X014QQ?oc=5",
+        "published_at": "2025-12-22T08:00:00+00:00",
+        "representative_place": "任天堂本社",
+        "place_label": "日本-京都府-京都市-南区",
+        "sort_place_label": "日本-京都府-京都市-南区",
+        "geocode_query": "Nintendo headquarters Kyoto Japan",
+        "place_type": "institution_site",
+        "location_precision": "building",
+        "place_reason": "任天堂・Nintendo Switch関連の記事を、企業主体の代表地点として任天堂本社に置く（一致語: ニンテンドーeショップ）",
+        "confidence": 0.66,
+        "rule_id": "nintendo_kyoto_headquarters_topic",
+        "matched_text": "ニンテンドーeショップ",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5214,
+          34.6863
+        ]
+      },
+      "properties": {
+        "title": "「CAPCOM WINTER SALE」開催中！ 各デジタルストアでゲーム本編、追加コンテンツが2025年を締めくくるお買い得価格でセール中！ | 株式会社カプコンのプレスリリース - PR TIMES",
+        "source": "PR TIMES",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBLNXBSZXJGZWRjSWNXVlVpVlptN0FveW50TUNxZGJ0ZUNydFZsQVlMc1FoWFZCd1o1UG4zbzJBYVpSUHpNcjJsd3NnYm5oU3pPTjBMMnQ4emlJZm1xMF9xMmVRdTZNQkxtaXc?oc=5",
+        "published_at": "2025-12-19T08:00:00+00:00",
+        "representative_place": "カプコン本社",
+        "place_label": "日本-大阪府-大阪市-中央区",
+        "sort_place_label": "日本-大阪府-大阪市-中央区",
+        "geocode_query": "Capcom headquarters Chuo Osaka Japan",
+        "place_type": "institution_site",
+        "location_precision": "building",
+        "place_reason": "CAPCOM・カプコン作品関連の記事を、企業主体の代表地点としてカプコン本社に置く（一致語: CAPCOM）",
+        "confidence": 0.68,
+        "rule_id": "capcom_osaka_headquarters_topic",
+        "matched_text": "CAPCOM",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5214,
+          34.6863
+        ]
+      },
+      "properties": {
+        "title": "「CAPCOM WINTER SALE」開催！ カプコン人気タイトルのゲーム本編、追加コンテンツがお買い得価格でセール中！ - PR TIMES",
+        "source": "PR TIMES",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1JV3A4OTBRZzNDZFUwTkQ4dTFmTXVkY0MzMmo2V180VTduQm9nTDBUTzhxeTBKanlKU2NXeEtCMU12bldqNFVkM0lTOEdwbHBCM0stWXVwNURoN2pKRXZ0T2VhOEVvSW5nVnc?oc=5",
+        "published_at": "2025-12-12T08:00:00+00:00",
+        "representative_place": "カプコン本社",
+        "place_label": "日本-大阪府-大阪市-中央区",
+        "sort_place_label": "日本-大阪府-大阪市-中央区",
+        "geocode_query": "Capcom headquarters Chuo Osaka Japan",
+        "place_type": "institution_site",
+        "location_precision": "building",
+        "place_reason": "CAPCOM・カプコン作品関連の記事を、企業主体の代表地点としてカプコン本社に置く（一致語: CAPCOM）",
+        "confidence": 0.68,
+        "rule_id": "capcom_osaka_headquarters_topic",
+        "matched_text": "CAPCOM",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2015,
+          47.6101
+        ]
+      },
+      "properties": {
+        "title": "スイッチ2やプレステの脅威となりうる新ゲーム機が登場。Steam Machineに勝算はあるのか? - 東洋経済オンライン",
+        "source": "東洋経済オンライン",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBRc2lyYXAyRjlXckxrNFE0NWpmQ2tOZFJobTRBYWRQY00xb1pYbXBkMldObFFHMWRKYi10OGRJN2Y5SENuRVdDbGVnelZkWkhSNHZOUUhpZDVFa2xnZFBR?oc=5",
+        "published_at": "2025-11-21T08:00:00+00:00",
+        "representative_place": "Valve本社",
+        "place_label": "米国-ワシントン州-ベルビュー",
+        "sort_place_label": "米国-ワシントン州-ベルビュー",
+        "geocode_query": "Valve Bellevue Washington United States",
+        "place_type": "institution_site",
+        "location_precision": "city",
+        "place_reason": "Steam・Valve関連の記事を、サービス運営主体の代表地点としてベルビューに置く（一致語: Steam Machine）",
+        "confidence": 0.62,
+        "rule_id": "valve_bellevue_headquarters_topic",
+        "matched_text": "Steam Machine",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7034,
+          35.6938
+        ]
+      },
+      "properties": {
+        "title": "#秋のスクエニゲームフェス 対象タイトル一覧 - Square Enix, Ltd.",
+        "source": "Square Enix, Ltd.",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBicnIzVldmeFRxcG02ZlcyOU5KV0tMaGw2UUVxMnlESjNMQkdSQi10OGdlekpYZDJXNlY1UUZtTEdGYkQ1Z3VpYWlBZ1hqU0xrdTh0RlZYQ1JoY2ZwQ1E?oc=5",
+        "published_at": "2025-11-21T08:00:00+00:00",
+        "representative_place": "スクウェア・エニックス本社",
+        "place_label": "日本-東京都-新宿区",
+        "sort_place_label": "日本-東京都-新宿区",
+        "geocode_query": "Square Enix headquarters Shinjuku Tokyo Japan",
+        "place_type": "institution_site",
+        "location_precision": "city_district",
+        "place_reason": "Square Enix・スクエニ作品関連の記事を、企業主体の代表地点として新宿区に置く（一致語: Square Enix）",
+        "confidence": 0.62,
+        "rule_id": "square_enix_shinjuku_headquarters_topic",
+        "matched_text": "Square Enix",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.756,
+          34.9671
+        ]
+      },
+      "properties": {
+        "title": "【12/2まで】『ToHeart』や『うたわれるもの』シリーズなど、最大で50％割引のDL版セールがニンテンドーeショップ、PSストア、Steamで開催中 - 電撃オンライン",
+        "source": "電撃オンライン",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1YX21tM1N5U0JTaU9pR1VjX1k5WlZWQ3UzSzRMcGZ3RnhBOWlwQXRZeXVGUXhoWm1jUWM0aEtBV1ZQNmNoRkh4eHc4UndWeDZRbEpqTF9uYTgydw?oc=5",
+        "published_at": "2025-11-20T08:00:00+00:00",
+        "representative_place": "任天堂本社",
+        "place_label": "日本-京都府-京都市-南区",
+        "sort_place_label": "日本-京都府-京都市-南区",
+        "geocode_query": "Nintendo headquarters Kyoto Japan",
+        "place_type": "institution_site",
+        "location_precision": "building",
+        "place_reason": "任天堂・Nintendo Switch関連の記事を、企業主体の代表地点として任天堂本社に置く（一致語: ニンテンドーeショップ）",
+        "confidence": 0.66,
+        "rule_id": "nintendo_kyoto_headquarters_topic",
+        "matched_text": "ニンテンドーeショップ",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7404,
+          35.6302
+        ]
+      },
+      "properties": {
+        "title": "「日本だけ」値下げのPS5、Steam新ハードに見るゲームビジネスの大きな変化【西田宗千佳のイマトミライ】 - Impress Watch",
+        "source": "Impress Watch",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE8xNGIwQUI4RnBMTHVrNkJYXzh3d0kzUEJoLWtoZHBtVzY2MWF0eXktZUlqZ1M2SGM0OWZrMmJXLThpU0w5Ul9zSTdDTHdYSm9QZlFNdkJfbktXbE9XOXNncHliVkdldDJKLVJaTlRtZnhCQQ?oc=5",
+        "published_at": "2025-11-17T08:00:00+00:00",
+        "representative_place": "ソニーグループ本社",
+        "place_label": "日本-東京都-港区-港南",
+        "sort_place_label": "日本-東京都-港区-港南",
+        "geocode_query": "Sony Group headquarters Konan Minato Tokyo Japan",
+        "place_type": "institution_site",
+        "location_precision": "building",
+        "place_reason": "Sony・PlayStation関連の記事を、企業主体の代表地点としてソニーグループ本社に置く（一致語: PS5）",
+        "confidence": 0.64,
+        "rule_id": "sony_tokyo_headquarters_topic",
+        "matched_text": "PS5",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.756,
+          34.9671
+        ]
+      },
+      "properties": {
+        "title": "PS/Switch/Xbox/Steam「コーエーテクモTGSセール2025」開催！ - gamecity.ne.jp",
+        "source": "gamecity.ne.jp",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBWVGtRX1h6Y2UzM1FaSlBJSlozQmlDSnlqY3Fvb0RUQWJhb2RaR0JHMkdyaTFzQWVwSG42Q1lTTGxzbmZ4ZV9ObHBTdXU0U0d6QWFvRw?oc=5",
+        "published_at": "2025-09-24T07:00:00+00:00",
+        "representative_place": "任天堂本社",
+        "place_label": "日本-京都府-京都市-南区",
+        "sort_place_label": "日本-京都府-京都市-南区",
+        "geocode_query": "Nintendo headquarters Kyoto Japan",
+        "place_type": "institution_site",
+        "location_precision": "building",
+        "place_reason": "任天堂・Nintendo Switch関連の記事を、企業主体の代表地点として任天堂本社に置く（一致語: Switch）",
+        "confidence": 0.66,
+        "rule_id": "nintendo_kyoto_headquarters_topic",
+        "matched_text": "Switch",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.756,
+          34.9671
+        ]
+      },
+      "properties": {
+        "title": "大注目作『ホロウナイト シルクソング』配信開始で、すぐさま“サーバー悲鳴”状態に。一時はSteam・Switch・PS・Xboxの“配信ストア全滅”報告も - AUTOMATON",
+        "source": "AUTOMATON",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMnNfLVp2akxvYWd3dE0tS0hzeDZEVDRwZk85SjhlMmtMcVNjQXQ0UjgxSHJfWWVvbXdLSEpCaGlHTGVYMkp4VzhaWnM0TnRTVHRvT3oyQWdfMlZ2UjFLeTdKNkxuMHJGUHI0bi1sTmVmZGxGNHZjbUpNUXpmaWFlUU51dnFndGpGcTlN?oc=5",
+        "published_at": "2025-09-05T07:00:00+00:00",
+        "representative_place": "任天堂本社",
+        "place_label": "日本-京都府-京都市-南区",
+        "sort_place_label": "日本-京都府-京都市-南区",
+        "geocode_query": "Nintendo headquarters Kyoto Japan",
+        "place_type": "institution_site",
+        "location_precision": "building",
+        "place_reason": "任天堂・Nintendo Switch関連の記事を、企業主体の代表地点として任天堂本社に置く（一致語: Switch）",
+        "confidence": 0.66,
+        "rule_id": "nintendo_kyoto_headquarters_topic",
+        "matched_text": "Switch",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7034,
+          35.6938
+        ]
+      },
+      "properties": {
+        "title": "#夏のスクエニゲームフェス 対象タイトル一覧 - Square Enix, Ltd.",
+        "source": "Square Enix, Ltd.",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB4MGN5T1dYd1lVRzljUThUT0paaFBseHJEOEQwdUNoZjJPejllM2NkUlZaNDBhNFVsMzJhcUJqWUtFZDZMTUc5RXptMTI3NkVHTkotQ3l1alpUTEx2VGRIV0JsME5nUmFIUjRoZ09SU3NEdw?oc=5",
+        "published_at": "2025-08-01T07:00:00+00:00",
+        "representative_place": "スクウェア・エニックス本社",
+        "place_label": "日本-東京都-新宿区",
+        "sort_place_label": "日本-東京都-新宿区",
+        "geocode_query": "Square Enix headquarters Shinjuku Tokyo Japan",
+        "place_type": "institution_site",
+        "location_precision": "city_district",
+        "place_reason": "Square Enix・スクエニ作品関連の記事を、企業主体の代表地点として新宿区に置く（一致語: Square Enix）",
+        "confidence": 0.62,
+        "rule_id": "square_enix_shinjuku_headquarters_topic",
+        "matched_text": "Square Enix",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.756,
+          34.9671
+        ]
+      },
+      "properties": {
+        "title": "『オールド スクール ラリー』ローポリビジュアルが魅力のレースゲーム、正式版が2025年冬にリリースへ。Switch、PS、Steamで体験版が配信開始 - ファミ通",
+        "source": "ファミ通",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Fem9zdUhaeDFFS0ZIUG5WeElMektld3RfTUZSb202dmxxa2RVa1B4U3RxX0E2MTNWVGFNVWhPSmhXTWN6R0wwZ05JVzVqMmlZZ0R1V0xtNA?oc=5",
+        "published_at": "2025-07-12T07:00:00+00:00",
+        "representative_place": "任天堂本社",
+        "place_label": "日本-京都府-京都市-南区",
+        "sort_place_label": "日本-京都府-京都市-南区",
+        "geocode_query": "Nintendo headquarters Kyoto Japan",
+        "place_type": "institution_site",
+        "location_precision": "building",
+        "place_reason": "任天堂・Nintendo Switch関連の記事を、企業主体の代表地点として任天堂本社に置く（一致語: Switch）",
+        "confidence": 0.66,
+        "rule_id": "nintendo_kyoto_headquarters_topic",
+        "matched_text": "Switch",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.756,
+          34.9671
+        ]
+      },
+      "properties": {
+        "title": "新作パズルゲーム『初音ミク ロジックペイントS+』7月24日発売！ Switch、PS4/PS5、Xbox、Steam版を世界同時リリース！ - PR TIMES",
+        "source": "PR TIMES",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1qMG55MGRsYUwyYXl3My02SnVtbzJYekZzQ2FCQnVFem5ZcmUtbF9HNDFtWXJCUVc5OEwzWVgyeEV0Smt1TTFoZGh6RVVMandMZzI5ZnZxWDVWRXRZQnlqdl94Tk9HVUZobFE?oc=5",
+        "published_at": "2025-07-10T07:00:00+00:00",
+        "representative_place": "任天堂本社",
+        "place_label": "日本-京都府-京都市-南区",
+        "sort_place_label": "日本-京都府-京都市-南区",
+        "geocode_query": "Nintendo headquarters Kyoto Japan",
+        "place_type": "institution_site",
+        "location_precision": "building",
+        "place_reason": "任天堂・Nintendo Switch関連の記事を、企業主体の代表地点として任天堂本社に置く（一致語: Switch）",
+        "confidence": 0.66,
+        "rule_id": "nintendo_kyoto_headquarters_topic",
+        "matched_text": "Switch",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.756,
+          34.9671
+        ]
+      },
+      "properties": {
+        "title": "【ホロライブ】『ホロの花札』Switch・PS版も発売決定。Switch特装版は小ネタ満載の任天堂製リアル花札も同梱 - 電撃オンライン",
+        "source": "電撃オンライン",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JNDkxT2ZWWkJzRTJQdVJ4V3FwVlBZWmJqeng0bXFHeFlheTczZWpHRXd5a2NmaW9ULXIxSUgzdFlMVndLd0JEb0NGai1vTHJlZUJHZ2JTVVR5dw?oc=5",
+        "published_at": "2025-03-07T08:00:00+00:00",
+        "representative_place": "任天堂本社",
+        "place_label": "日本-京都府-京都市-南区",
+        "sort_place_label": "日本-京都府-京都市-南区",
+        "geocode_query": "Nintendo headquarters Kyoto Japan",
+        "place_type": "institution_site",
+        "location_precision": "building",
+        "place_reason": "任天堂・Nintendo Switch関連の記事を、企業主体の代表地点として任天堂本社に置く（一致語: Switch）",
+        "confidence": 0.66,
+        "rule_id": "nintendo_kyoto_headquarters_topic",
+        "matched_text": "Switch",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2015,
+          47.6101
+        ]
+      },
+      "properties": {
+        "title": "PS Vitaの人気作『機動戦士ガンダムSEED BATTLE DESTINY』がリマスター！ニンテンドースイッチ/Steam向けに遊びやすくなって蘇る【UPDATE】 - インサイド",
+        "source": "インサイド",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBjNWVtYXFINmxVOVNaMU5pTm1leE5QTHBRaldNcDBOWVBuUjZhTS1MMXd3bFhFeDh1T05od3JOdE5ZWExJTFcxVnVuOW51N19uNkNXQVRwclU2bHpzWkN3UGtwTWk1RTU2Y0E?oc=5",
+        "published_at": "2025-02-14T08:00:00+00:00",
+        "representative_place": "Valve本社",
+        "place_label": "米国-ワシントン州-ベルビュー",
+        "sort_place_label": "米国-ワシントン州-ベルビュー",
+        "geocode_query": "Valve Bellevue Washington United States",
+        "place_type": "institution_site",
+        "location_precision": "city",
+        "place_reason": "Steam・Valve関連の記事を、サービス運営主体の代表地点としてベルビューに置く（一致語: Steam）",
+        "confidence": 0.62,
+        "rule_id": "valve_bellevue_headquarters_topic",
+        "matched_text": "Steam",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.756,
+          34.9671
+        ]
+      },
+      "properties": {
+        "title": "【年末年始ゲームセールまとめ】最大90％オフ！『エルデンリング』『龍が如く８』『メタファー』『桃鉄ワールド』などSwitch、PS5、Xbox、Steamの人気作が対象に - ファミ通",
+        "source": "ファミ通",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE52WTVKaVNwTXFDbThidFR6NzdRQkl2OWV1cnJtX2YyZTg4c3lfTjdjcmZVa2J2azNTZnVsd1YyQkYtM3EwNE51Tmp0aDFySzB4MkI3bWl6dw?oc=5",
+        "published_at": "2024-12-24T08:00:00+00:00",
+        "representative_place": "任天堂本社",
+        "place_label": "日本-京都府-京都市-南区",
+        "sort_place_label": "日本-京都府-京都市-南区",
+        "geocode_query": "Nintendo headquarters Kyoto Japan",
+        "place_type": "institution_site",
+        "location_precision": "building",
+        "place_reason": "任天堂・Nintendo Switch関連の記事を、企業主体の代表地点として任天堂本社に置く（一致語: Switch）",
+        "confidence": 0.66,
+        "rule_id": "nintendo_kyoto_headquarters_topic",
+        "matched_text": "Switch",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.756,
+          34.9671
+        ]
+      },
+      "properties": {
+        "title": "私の総プレイ時間は1500時間です PS、Steam、Xbox、Nintendo Switchプレイ統計サイトまとめ - ASCII.jp",
+        "source": "ASCII.jp",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBidG5kNTlIRGl0blZHclRPcjBHXy1VT0RXVFE1OW5LNnBWUGNQdUZWMTBxMHJXVzNyVUNoMjlab2prWFczZ05aQ3VkWXRtNFNLWVFaNg?oc=5",
+        "published_at": "2024-12-19T08:00:00+00:00",
+        "representative_place": "任天堂本社",
+        "place_label": "日本-京都府-京都市-南区",
+        "sort_place_label": "日本-京都府-京都市-南区",
+        "geocode_query": "Nintendo headquarters Kyoto Japan",
+        "place_type": "institution_site",
+        "location_precision": "building",
+        "place_reason": "任天堂・Nintendo Switch関連の記事を、企業主体の代表地点として任天堂本社に置く（一致語: Nintendo）",
+        "confidence": 0.66,
+        "rule_id": "nintendo_kyoto_headquarters_topic",
+        "matched_text": "Nintendo",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5214,
+          34.6863
+        ]
+      },
+      "properties": {
+        "title": "『モンハン』シリーズが最大75％オフ、ほかSteam版『逆転裁判123+456コレクション』が40％オフ、PS版『ドラゴンズドグマ 2』38％オフなど。CAPCOM BLACK FRIDAYセールが開催中 - ファミ通",
+        "source": "ファミ通",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5XSFdLRFpVQm1RbEJBaGMzMzRrVnl4UC05WEhIdnU1N1MwTG1FMzVzMGNfa1pYQ1JmSHQ3SDBRR01QbkdIZEp6aGRCelJ1dkUyang4dVBnaw?oc=5",
+        "published_at": "2024-11-12T08:00:00+00:00",
+        "representative_place": "カプコン本社",
+        "place_label": "日本-大阪府-大阪市-中央区",
+        "sort_place_label": "日本-大阪府-大阪市-中央区",
+        "geocode_query": "Capcom headquarters Chuo Osaka Japan",
+        "place_type": "institution_site",
+        "location_precision": "building",
+        "place_reason": "CAPCOM・カプコン作品関連の記事を、企業主体の代表地点としてカプコン本社に置く（一致語: CAPCOM）",
+        "confidence": 0.68,
+        "rule_id": "capcom_osaka_headquarters_topic",
+        "matched_text": "CAPCOM",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.756,
+          34.9671
+        ]
+      },
+      "properties": {
+        "title": "「CAPCOM TGS 2024 SALE」開催中！ Steam Store、PlayStation(TM)Store、ニンテンドーeショップにラインアップを追加してアップデート！ | 株式会社カプコンのプレスリリース - PR TIMES",
+        "source": "PR TIMES",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9vM3I5VWk5Q0dqVlZhdVhQVld6MlpwTDdOQTdEbjBMUU9wSFFCTFgtbk50XzdYeEtPNmwzWmJJeFdiTkdkV3ZLM0NZQjBPTnNCeU9FcHVvNmxHanhFYXRUOWYxaGVmbnJGV1E?oc=5",
+        "published_at": "2024-09-25T07:00:00+00:00",
+        "representative_place": "任天堂本社",
+        "place_label": "日本-京都府-京都市-南区",
+        "sort_place_label": "日本-京都府-京都市-南区",
+        "geocode_query": "Nintendo headquarters Kyoto Japan",
+        "place_type": "institution_site",
+        "location_precision": "building",
+        "place_reason": "任天堂・Nintendo Switch関連の記事を、企業主体の代表地点として任天堂本社に置く（一致語: ニンテンドーeショップ）",
+        "confidence": 0.66,
+        "rule_id": "nintendo_kyoto_headquarters_topic",
+        "matched_text": "ニンテンドーeショップ",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.756,
+          34.9671
+        ]
+      },
+      "properties": {
+        "title": "「信長の野望」シリーズを対象としたセールがSteam，PS Store，ニンテンドーeショップで開催中。最新作「新生WPK」は25％オフの8910円 - 4Gamer.net",
+        "source": "4Gamer.net",
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE12ZXZ6VUpBb1VWSGVRNXZQaExjUDFmeGx1dUZGQ1pneE9oYjFvX2ZHZnFabGl3b2ZGM0FLeXJudndET19rbUVPSUJOZkdQbE5sWXFjRm12WEZidWR6V2FrTkdGTQ?oc=5",
+        "published_at": "2024-08-14T07:00:00+00:00",
+        "representative_place": "任天堂本社",
+        "place_label": "日本-京都府-京都市-南区",
+        "sort_place_label": "日本-京都府-京都市-南区",
+        "geocode_query": "Nintendo headquarters Kyoto Japan",
+        "place_type": "institution_site",
+        "location_precision": "building",
+        "place_reason": "任天堂・Nintendo Switch関連の記事を、企業主体の代表地点として任天堂本社に置く（一致語: ニンテンドーeショップ）",
+        "confidence": 0.66,
+        "rule_id": "nintendo_kyoto_headquarters_topic",
+        "matched_text": "ニンテンドーeショップ",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.756,
+          34.9671
+        ]
+      },
+      "properties": {
+        "title": "どこかで見たミニゲーム集『あのゲー』の第2弾がSwitch／PS5／PS4／Steamで配信中！ - ASCII.jp",
+        "source": "ASCII.jp",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5QZUR5OE9vMDhiWXk5SkU4eVRpZTFVS3l0WE9Ca3EwN2NaNGJJT19CVEM0ZmhoRVZZVWI4WjY0bnBvSEluSG5RUXVDakFPRGpYN2I3VA?oc=5",
+        "published_at": "2024-07-19T07:00:00+00:00",
+        "representative_place": "任天堂本社",
+        "place_label": "日本-京都府-京都市-南区",
+        "sort_place_label": "日本-京都府-京都市-南区",
+        "geocode_query": "Nintendo headquarters Kyoto Japan",
+        "place_type": "institution_site",
+        "location_precision": "building",
+        "place_reason": "任天堂・Nintendo Switch関連の記事を、企業主体の代表地点として任天堂本社に置く（一致語: Switch）",
+        "confidence": 0.66,
+        "rule_id": "nintendo_kyoto_headquarters_topic",
+        "matched_text": "Switch",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.756,
+          34.9671
+        ]
+      },
+      "properties": {
+        "title": "【年末年始セールまとめ】Switch、PS5/PS4、Xbox、Steamなど人気作が最大99%オフ。『FF16』、『テイルズ オブ アライズ』DLC同梱版、『スト6』などがお買い得に！ - ファミ通",
+        "source": "ファミ通",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1MTnd5QS04aVZBSWJzYmtvVU1idmhzQzBVeDBZVjVpeDExbU9ISDNTVF9NaHlyZkJGNk9YWkp6SzFIdWI3a0Nnd3JsVjYwWXd1OGR4ZGhORXg0WFpxbEE?oc=5",
+        "published_at": "2023-12-26T08:00:00+00:00",
+        "representative_place": "任天堂本社",
+        "place_label": "日本-京都府-京都市-南区",
+        "sort_place_label": "日本-京都府-京都市-南区",
+        "geocode_query": "Nintendo headquarters Kyoto Japan",
+        "place_type": "institution_site",
+        "location_precision": "building",
+        "place_reason": "任天堂・Nintendo Switch関連の記事を、企業主体の代表地点として任天堂本社に置く（一致語: Switch）",
+        "confidence": 0.66,
+        "rule_id": "nintendo_kyoto_headquarters_topic",
+        "matched_text": "Switch",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.756,
+          34.9671
+        ]
+      },
+      "properties": {
+        "title": "「CAPCOM HALLOWEEN SALE」アップデート！ Steam Store、PlayStation(TM)Store、ニンテンドーeショップにラインナップ追加！ | 株式会社カプコンのプレスリリース - PR TIMES",
+        "source": "PR TIMES",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1RWW5VbnR1WGQzNnQ5ZGoyYV9QQTEyOUlDX1BlVWc4bUZPSHNZSmJJUV8xdDI2TUQxRk90NDBHRWlUWFR4bGxucVZrRjlrUHFnbnJXekhpZ3hCb3haYjAyaGxkbEpSU0I0V3c?oc=5",
+        "published_at": "2023-10-26T07:00:00+00:00",
+        "representative_place": "任天堂本社",
+        "place_label": "日本-京都府-京都市-南区",
+        "sort_place_label": "日本-京都府-京都市-南区",
+        "geocode_query": "Nintendo headquarters Kyoto Japan",
+        "place_type": "institution_site",
+        "location_precision": "building",
+        "place_reason": "任天堂・Nintendo Switch関連の記事を、企業主体の代表地点として任天堂本社に置く（一致語: ニンテンドーeショップ）",
+        "confidence": 0.66,
+        "rule_id": "nintendo_kyoto_headquarters_topic",
+        "matched_text": "ニンテンドーeショップ",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.756,
+          34.9671
+        ]
+      },
+      "properties": {
+        "title": "「CAPCOM HALLOWEEN SALE」アップデート！　Steam Store、PlayStation(TM)Store、ニンテンドーeショップにラインナップ追加！ - ゲームハック",
+        "source": "ゲームハック",
+        "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE56eTBfdTRvc0dsQV8zd3h1OGU2cGlRbUJfVTBVV0VWaVlkZ1pIaGtmM1NNQVgzTkMzZU5TLW5tZGTSAUZBVV95cUxNM3RQRmhhaVYyam15N2VkeXo5ZG5XZmZNb3FCQU9nOE5FUFo4a2I4MDRVNFEzTUZISFZQb20ta1hVNEJONGRB?oc=5",
+        "published_at": "2023-10-26T07:00:00+00:00",
+        "representative_place": "任天堂本社",
+        "place_label": "日本-京都府-京都市-南区",
+        "sort_place_label": "日本-京都府-京都市-南区",
+        "geocode_query": "Nintendo headquarters Kyoto Japan",
+        "place_type": "institution_site",
+        "location_precision": "building",
+        "place_reason": "任天堂・Nintendo Switch関連の記事を、企業主体の代表地点として任天堂本社に置く（一致語: ニンテンドーeショップ）",
+        "confidence": 0.66,
+        "rule_id": "nintendo_kyoto_headquarters_topic",
+        "matched_text": "ニンテンドーeショップ",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7404,
+          35.6302
+        ]
+      },
+      "properties": {
+        "title": "『東方シンセカイ』の発売日と対応機種｜Steam・PS4は？ - AppBank",
+        "source": "AppBank",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE96X0c0VWdpRkNNRGV4SERHU1d4aUprRzlwY0xJc282S0JTdUlyTEE1ZkREMFF5ZGpHM0FRNzNmWnZoRlhYTWxrX3phMEppVnFLZGM1QUs5OC12RTBYbXBpbA?oc=5",
+        "published_at": "2023-07-05T07:00:00+00:00",
+        "representative_place": "ソニーグループ本社",
+        "place_label": "日本-東京都-港区-港南",
+        "sort_place_label": "日本-東京都-港区-港南",
+        "geocode_query": "Sony Group headquarters Konan Minato Tokyo Japan",
+        "place_type": "institution_site",
+        "location_precision": "building",
+        "place_reason": "Sony・PlayStation関連の記事を、企業主体の代表地点としてソニーグループ本社に置く（一致語: PS4）",
+        "confidence": 0.64,
+        "rule_id": "sony_tokyo_headquarters_topic",
+        "matched_text": "PS4",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.756,
+          34.9671
+        ]
+      },
+      "properties": {
+        "title": "最大90％OFF！Steam®ストア、ニンテンドーeショップ、PlayStation™Storeにて、Cygamesのコンシューマータイトルがお得に買えるセールを開催中！ - PR TIMES",
+        "source": "PR TIMES",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9PWEFoSEZJaEcweUJ3b2ZWN1JObHFrdDNBM0FVM3h1MVN6dmhnek9la084NFMtQXhMaDRhaHB1Y3FacVJRVHo0N2xMeFlCV0JVSENGM2I5dktQMllvcTRqWEVmbGZkS3lPeUE?oc=5",
+        "published_at": "2023-06-30T07:00:00+00:00",
+        "representative_place": "任天堂本社",
+        "place_label": "日本-京都府-京都市-南区",
+        "sort_place_label": "日本-京都府-京都市-南区",
+        "geocode_query": "Nintendo headquarters Kyoto Japan",
+        "place_type": "institution_site",
+        "location_precision": "building",
+        "place_reason": "任天堂・Nintendo Switch関連の記事を、企業主体の代表地点として任天堂本社に置く（一致語: ニンテンドーeショップ）",
+        "confidence": 0.66,
+        "rule_id": "nintendo_kyoto_headquarters_topic",
+        "matched_text": "ニンテンドーeショップ",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.756,
+          34.9671
+        ]
+      },
+      "properties": {
+        "title": "最大60%OFF！ニンテンドーeショップ、PlayStation™Store、Steam®ストアにて、Cygamesのコンシューマーゲームがお得に買えるセールを開催中！ - PR TIMES",
+        "source": "PR TIMES",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE15cUNISTJna3VERGdkdmJFMUpycXMxeWRwU1d1MjhDZ1dXWlg2cnhsRUt5WTFBTHRleURvVHd2TUxlZ3IyS1l3VWVjOEUtSnZNemlpZTBtYlplZk9UTGRoZVBpQVZ3ajV0a2c?oc=5",
+        "published_at": "2022-12-23T08:00:00+00:00",
+        "representative_place": "任天堂本社",
+        "place_label": "日本-京都府-京都市-南区",
+        "sort_place_label": "日本-京都府-京都市-南区",
+        "geocode_query": "Nintendo headquarters Kyoto Japan",
+        "place_type": "institution_site",
+        "location_precision": "building",
+        "place_reason": "任天堂・Nintendo Switch関連の記事を、企業主体の代表地点として任天堂本社に置く（一致語: ニンテンドーeショップ）",
+        "confidence": 0.66,
+        "rule_id": "nintendo_kyoto_headquarters_topic",
+        "matched_text": "ニンテンドーeショップ",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.756,
+          34.9671
+        ]
+      },
+      "properties": {
+        "title": "【最大75%OFF】PS/Switch/Xbox/Steam「冬の大型セール」開催！「FE無双 風花雪月」「信長 新生」「アトリエ」「MF」がお買い得に！ - gamecity.ne.jp",
+        "source": "gamecity.ne.jp",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBJeEtWVzR3YzlJV3lTcDdUd0xLQmUyWDVTb1BLU2NUbWN1WjJXUFNhUlRBTmFMMjEzSFZ5MTNYRERDT1prRDZYc0l5MWdJck5PazRyZw?oc=5",
+        "published_at": "2022-12-23T08:00:00+00:00",
+        "representative_place": "任天堂本社",
+        "place_label": "日本-京都府-京都市-南区",
+        "sort_place_label": "日本-京都府-京都市-南区",
+        "geocode_query": "Nintendo headquarters Kyoto Japan",
+        "place_type": "institution_site",
+        "location_precision": "building",
+        "place_reason": "任天堂・Nintendo Switch関連の記事を、企業主体の代表地点として任天堂本社に置く（一致語: Switch）",
+        "confidence": 0.66,
+        "rule_id": "nintendo_kyoto_headquarters_topic",
+        "matched_text": "Switch",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.756,
+          34.9671
+        ]
+      },
+      "properties": {
+        "title": "『ロックマンエグゼ アドバンスドコレクション』がSwitch、PS4、PC（Steam）で2023年に発売決定。シリーズ作品10タイトルを収録。イラストギャラリーやBGMを好きに楽しめるモードも【Nintendo Direct mini】 - ファミ通",
+        "source": "ファミ通",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9hM3BqRWgtNmpobUFwM2VZRXFzcXp0QlMtT2QwVzdXY0VqYjQyc0ZMUkl0ZWhQZktkQ0RzYm1qa256aXhNY3ZzZFlyaWFjWFR3ZXFPbm1seld0ZlJMN0E?oc=5",
+        "published_at": "2022-06-28T07:00:00+00:00",
+        "representative_place": "任天堂本社",
+        "place_label": "日本-京都府-京都市-南区",
+        "sort_place_label": "日本-京都府-京都市-南区",
+        "geocode_query": "Nintendo headquarters Kyoto Japan",
+        "place_type": "institution_site",
+        "location_precision": "building",
+        "place_reason": "任天堂・Nintendo Switch関連の記事を、企業主体の代表地点として任天堂本社に置く（一致語: Nintendo）",
+        "confidence": 0.66,
+        "rule_id": "nintendo_kyoto_headquarters_topic",
+        "matched_text": "Nintendo",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.756,
+          34.9671
+        ]
+      },
+      "properties": {
+        "title": "「アトリエ」シリーズ25周年セール第2弾開催！ PS Store・ニンテンドーeショップ・Steamにて最大50％OFF - GAME Watch",
+        "source": "GAME Watch",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBzT19DbWZnZ3FqS09aOUxrWUw5QTltSmREem1odDgtSDJyNXRHUTJjaVVoa29JYXB2c1ZrZ3NmSXdIa3g4Rkg4Yy1MVGQ2UEU4TG1CZ2pvcnFnWDU5Ty1OVUJGRTlUQQ?oc=5",
+        "published_at": "2022-06-22T07:00:00+00:00",
+        "representative_place": "任天堂本社",
+        "place_label": "日本-京都府-京都市-南区",
+        "sort_place_label": "日本-京都府-京都市-南区",
+        "geocode_query": "Nintendo headquarters Kyoto Japan",
+        "place_type": "institution_site",
+        "location_precision": "building",
+        "place_reason": "任天堂・Nintendo Switch関連の記事を、企業主体の代表地点として任天堂本社に置く（一致語: ニンテンドーeショップ）",
+        "confidence": 0.66,
+        "rule_id": "nintendo_kyoto_headquarters_topic",
+        "matched_text": "ニンテンドーeショップ",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.756,
+          34.9671
+        ]
+      },
+      "properties": {
+        "title": "【最大96%OFF】Switch、PS5/PS4、PC(Steam)などウィンター・年末年始セールまとめ。『FF7リメイク』『BF2042』『ロストジャッジメント』などお買い得に！ - ファミ通",
+        "source": "ファミ通",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFByQ3BaVjRZU21HQ0JnSXB1SUhlczVTdTlfMUVQTlRYQXRWZnYzdVBjOWQyWmd1UGRvTzZWMjlVMktVdk9wSnNkeFBRWVZ0WjZQczcxdnNvejhkNzZ3RkE?oc=5",
+        "published_at": "2021-12-25T08:00:00+00:00",
+        "representative_place": "任天堂本社",
+        "place_label": "日本-京都府-京都市-南区",
+        "sort_place_label": "日本-京都府-京都市-南区",
+        "geocode_query": "Nintendo headquarters Kyoto Japan",
+        "place_type": "institution_site",
+        "location_precision": "building",
+        "place_reason": "任天堂・Nintendo Switch関連の記事を、企業主体の代表地点として任天堂本社に置く（一致語: Switch）",
+        "confidence": 0.66,
+        "rule_id": "nintendo_kyoto_headquarters_topic",
+        "matched_text": "Switch",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7404,
+          35.6302
+        ]
+      },
+      "properties": {
+        "title": "真・女神転生5、PS4とSteam版の発売も予定か。動作が改善する可能性も - ゲームメモ",
+        "source": "ゲームメモ",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5oNlVCOW0yZmtROUNsbzBRRk54VzdPVUpaTWNucmszbE4zZmJ1N2NBcF9mbnR5eVkwWXQ1OHozQVNqWVA1a0JkUnpBYVNRNTBlSDA3eXFxeFNPTUx1VjhqeDV3UDNDd0hCaTRGanJ1ZVRvV09HY1VTUtIBgAFBVV95cUxPblc1T1B5UjZRZnAtZ3VINmw3bTFvYXJ3VnJQRHVPNnFMUjRDdHcyVFJkSXJIb29PRmhua0NVcVl4b1FQbDV5OFp2cnFJS2NpUW90dU1xd1pjdWZuS3k3cmRXMkcxUG1TdkpwbGdzdU40T2hsRW5ucV96TVpDc1RHQQ?oc=5",
+        "published_at": "2021-11-17T08:00:00+00:00",
+        "representative_place": "ソニーグループ本社",
+        "place_label": "日本-東京都-港区-港南",
+        "sort_place_label": "日本-東京都-港区-港南",
+        "geocode_query": "Sony Group headquarters Konan Minato Tokyo Japan",
+        "place_type": "institution_site",
+        "location_precision": "building",
+        "place_reason": "Sony・PlayStation関連の記事を、企業主体の代表地点としてソニーグループ本社に置く（一致語: PS4）",
+        "confidence": 0.64,
+        "rule_id": "sony_tokyo_headquarters_topic",
+        "matched_text": "PS4",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.756,
+          34.9671
+        ]
+      },
+      "properties": {
+        "title": "フライハイワークスがニンテンドーeショップ，PS Store，Steamで春季特大スペシャルセールを開催 - 4Gamer.net",
+        "source": "4Gamer.net",
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE96Z3pTcHNLY1BwdGhyUGtJYXdBWXlacXc1Wmk0ZWhuWVVHZS1BVnhfOWNOWWFLZVhZclZ1ZmpsRjFLdmpOWXdXeWstT1JFaWNtdV9MV0ZiM0pGaTNjaXFUQUxNTQ?oc=5",
+        "published_at": "2020-03-24T07:00:00+00:00",
+        "representative_place": "任天堂本社",
+        "place_label": "日本-京都府-京都市-南区",
+        "sort_place_label": "日本-京都府-京都市-南区",
+        "geocode_query": "Nintendo headquarters Kyoto Japan",
+        "place_type": "institution_site",
+        "location_precision": "building",
+        "place_reason": "任天堂・Nintendo Switch関連の記事を、企業主体の代表地点として任天堂本社に置く（一致語: ニンテンドーeショップ）",
+        "confidence": 0.66,
+        "rule_id": "nintendo_kyoto_headquarters_topic",
+        "matched_text": "ニンテンドーeショップ",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.756,
+          34.9671
+        ]
+      },
+      "properties": {
+        "title": "Travis Strikes Again: No More Heroes、PS4とSteamにも登場。任天堂Tシャツは… - ゲームメモ",
+        "source": "ゲームメモ",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1pWmtzZEhoUkZHbHFDVVZCbDV4SE5JUUhTRGRxb0UtZU1GNVJXeVdsemFsZlE2VlpkVkdyaG11TjQtZXdJSldRQU96Q3JjeHM5Q0xkVG1xeXY5eFBjd2xDdWtNY050TEpX0gFwQVVfeXFMTW55OWFsd3pJUEpNMnMzRUtGWkxld2FHT0R1X1JpYXpvRlZtdVJiSy1YQlFadlZabjBKcEhWVHBGM3Q2S003RGNzTVlYX3AzclJaLUhwOG9YeUluUl9jMDFXTlBMUEsySzlMWXVxc196SQ?oc=5",
+        "published_at": "2019-05-26T07:00:00+00:00",
+        "representative_place": "任天堂本社",
+        "place_label": "日本-京都府-京都市-南区",
+        "sort_place_label": "日本-京都府-京都市-南区",
+        "geocode_query": "Nintendo headquarters Kyoto Japan",
+        "place_type": "institution_site",
+        "location_precision": "building",
+        "place_reason": "任天堂・Nintendo Switch関連の記事を、企業主体の代表地点として任天堂本社に置く（一致語: 任天堂）",
+        "confidence": 0.66,
+        "rule_id": "nintendo_kyoto_headquarters_topic",
+        "matched_text": "任天堂",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7404,
+          35.6302
+        ]
+      },
+      "properties": {
+        "title": "「くにおくん」新作『ダウンタウン乱闘行進曲マッハ！！』PS4/ニンテンドースイッチ/Steam向けに発売決定！ - Game*Spark",
+        "source": "Game*Spark",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBOV2lxREhtYTBJX0hYVXlrblBGb0JJM0xRS0JRZWp2eFFhMlcya3R6cEsweWhfTjBURW5hQl9mYWZ1SEhTb2tteVZBN2dieC1WTWFYMmZVQWdVTWxMamlTZm1vM0Q?oc=5",
+        "published_at": "2019-02-23T08:00:00+00:00",
+        "representative_place": "ソニーグループ本社",
+        "place_label": "日本-東京都-港区-港南",
+        "sort_place_label": "日本-東京都-港区-港南",
+        "geocode_query": "Sony Group headquarters Konan Minato Tokyo Japan",
+        "place_type": "institution_site",
+        "location_precision": "building",
+        "place_reason": "Sony・PlayStation関連の記事を、企業主体の代表地点としてソニーグループ本社に置く（一致語: PS4）",
+        "confidence": 0.64,
+        "rule_id": "sony_tokyo_headquarters_topic",
+        "matched_text": "PS4",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7404,
+          35.6302
+        ]
+      },
+      "properties": {
+        "title": "シリーズの原点となる初代『GUILTY GEAR』がPS4/ニンテンドスイッチ/Steamにて配信決定！ - インサイド",
+        "source": "インサイド",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBpQWRQSV93M3RQU0pYZjRrQ3JrbF9HSjFlSGlBbHRyeXdvQUtvUFl3Q0dYWDZtLXBYOFdxN2FLLWZpaU0tZXByWEdTeWZhT2E5ekFVcXY5RkJIXzFBVFBpeHJHQmVGcEJreGc?oc=5",
+        "published_at": "2018-05-15T07:00:00+00:00",
+        "representative_place": "ソニーグループ本社",
+        "place_label": "日本-東京都-港区-港南",
+        "sort_place_label": "日本-東京都-港区-港南",
+        "geocode_query": "Sony Group headquarters Konan Minato Tokyo Japan",
+        "place_type": "institution_site",
+        "location_precision": "building",
+        "place_reason": "Sony・PlayStation関連の記事を、企業主体の代表地点としてソニーグループ本社に置く（一致語: PS4）",
+        "confidence": 0.64,
+        "rule_id": "sony_tokyo_headquarters_topic",
+        "matched_text": "PS4",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1396,
+          47.6423
+        ]
+      },
+      "properties": {
+        "title": "ショップ経営×冒険RPG『Moonlighter』Steam/PS4/Xbox版は5月29日に発売へ、日本語対応予定。ニンテンドースイッチ版は数か月後 - AUTOMATON",
+        "source": "AUTOMATON",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5pOE84VUJURjk2Z0x1c2VzSFg0N2NTSlNqTEJOVXo1azVVWmZxT3ZBaWw4emFrVjY3bzhOVTNhY2hBdGw0Yzk3ZHBhZ3djYTZla3ZjMEVvbmhJSzYwUENpS1ZGNm1wNFhKeFpV?oc=5",
+        "published_at": "2018-04-10T07:00:00+00:00",
+        "representative_place": "Microsoft本社",
+        "place_label": "米国-ワシントン州-レドモンド",
+        "sort_place_label": "米国-ワシントン州-レドモンド",
+        "geocode_query": "Microsoft Redmond Washington United States",
+        "place_type": "institution_site",
+        "location_precision": "campus",
+        "place_reason": "Microsoft・Copilot・Xbox関連の記事を、企業主体の代表地点としてMicrosoft本社に置く（一致語: Xbox）",
+        "confidence": 0.64,
+        "rule_id": "microsoft_redmond_headquarters_topic",
+        "matched_text": "Xbox",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1396,
+          47.6423
+        ]
+      },
+      "properties": {
+        "title": "傑作ステルス・ニンジャアクションが蘇る『Mark of the Ninja: Remastered』はニンテンドースイッチ版に加え、Steam/PS4/Xbox One向けにも発売 - AUTOMATON",
+        "source": "AUTOMATON",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmaTV0Rlp1S2hwSDZOOS1BLWgzZnRzLUljb2lPNzFyWFdyUWtoZThPeHd6M2NrZW5uSjVZaWU4TVVoMmd4Tm0wbExERjZNNzhQTWh6MVk3YmdXejFac2d1eFE3b1A3S1hKWjE4?oc=5",
+        "published_at": "2018-03-28T07:00:00+00:00",
+        "representative_place": "Microsoft本社",
+        "place_label": "米国-ワシントン州-レドモンド",
+        "sort_place_label": "米国-ワシントン州-レドモンド",
+        "geocode_query": "Microsoft Redmond Washington United States",
+        "place_type": "institution_site",
+        "location_precision": "campus",
+        "place_reason": "Microsoft・Copilot・Xbox関連の記事を、企業主体の代表地点としてMicrosoft本社に置く（一致語: Xbox）",
+        "confidence": 0.64,
+        "rule_id": "microsoft_redmond_headquarters_topic",
+        "matched_text": "Xbox",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7404,
+          35.6302
+        ]
+      },
+      "properties": {
+        "title": "人気タワーディフェンスゲーム続編『PixelJunk Monsters 2』発表。Steam/PS4/ニンテンドースイッチ向けに5月25日発売へ - AUTOMATON",
+        "source": "AUTOMATON",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1OdkpadUtyVHBMdHVOdE5YQXhCbk5vU3dEaXRhVmZ4N2EwMGpEb09YT2x1Z1hxVUVCLVY3UktoU1Q3T09uNGFtRnE5Z0YwdThGRmR4TTZabDNHaDZ0WGJpOTRZOUhCUXVNLXBJ?oc=5",
+        "published_at": "2018-03-25T07:00:00+00:00",
+        "representative_place": "ソニーグループ本社",
+        "place_label": "日本-東京都-港区-港南",
+        "sort_place_label": "日本-東京都-港区-港南",
+        "geocode_query": "Sony Group headquarters Konan Minato Tokyo Japan",
+        "place_type": "institution_site",
+        "location_precision": "building",
+        "place_reason": "Sony・PlayStation関連の記事を、企業主体の代表地点としてソニーグループ本社に置く（一致語: PS4）",
+        "confidence": 0.64,
+        "rule_id": "sony_tokyo_headquarters_topic",
+        "matched_text": "PS4",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1396,
+          47.6423
+        ]
+      },
+      "properties": {
+        "title": "ド派手な背景を横切る惑星探索・横スクロールアクション『PLANET ALPHA』発表。PC/PlayStation 4/Xbox One/ニンテンドースイッチ向けに発売へ - AUTOMATON",
+        "source": "AUTOMATON",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAwV3lEMkZ2RlFFQnoxRzFEWnFKbWUyVmVRUm5GNF9rM0pUaXJNQ1pwaTFNZ2gyeWg5WTczOUkxczNIXzNzNkNrTjZ0Nzc1WUhMdFdtMXB3WU1wdEJCOTA1cDZjUEU0b0s3VWhB?oc=5",
+        "published_at": "2018-03-14T07:00:00+00:00",
+        "representative_place": "Microsoft本社",
+        "place_label": "米国-ワシントン州-レドモンド",
+        "sort_place_label": "米国-ワシントン州-レドモンド",
+        "geocode_query": "Microsoft Redmond Washington United States",
+        "place_type": "institution_site",
+        "location_precision": "campus",
+        "place_reason": "Microsoft・Copilot・Xbox関連の記事を、企業主体の代表地点としてMicrosoft本社に置く（一致語: Xbox）",
+        "confidence": 0.64,
+        "rule_id": "microsoft_redmond_headquarters_topic",
+        "matched_text": "Xbox",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7404,
+          35.6302
+        ]
+      },
+      "properties": {
+        "title": "『サガ スカーレット グレイス 緋色の野望』Steam/PS4/ニンテンドースイッチ/モバイル向けに発表。PS Vita版からシナリオなど新要素を追加 - AUTOMATON",
+        "source": "AUTOMATON",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5pdG0ySjRvTEU4TjdIdGlGYnpXbEN4c1lLa0ktYlZPcU5PMFlCNXBDWWdxTEs5UVhEelhSZldWQldZRkFvUGtnV3NiOHVnV21YTHI4Z196VS1XeTZ6OXFxRmdzTUtvMzVjb3Vn?oc=5",
+        "published_at": "2018-03-09T08:00:00+00:00",
+        "representative_place": "ソニーグループ本社",
+        "place_label": "日本-東京都-港区-港南",
+        "sort_place_label": "日本-東京都-港区-港南",
+        "geocode_query": "Sony Group headquarters Konan Minato Tokyo Japan",
+        "place_type": "institution_site",
+        "location_precision": "building",
+        "place_reason": "Sony・PlayStation関連の記事を、企業主体の代表地点としてソニーグループ本社に置く（一致語: PS4）",
+        "confidence": 0.64,
+        "rule_id": "sony_tokyo_headquarters_topic",
+        "matched_text": "PS4",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7404,
+          35.6302
+        ]
+      },
+      "properties": {
+        "title": "Steamでメガヒットした「人型猫」と恋するアドベンチャー『ネコぱら』PS4/ニンテンドースイッチにて発売へ - AUTOMATON",
+        "source": "AUTOMATON",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5tR1pxOGM5TW1EcUk5WHNEOU1FaGpoQmYzWm42MElNQVNVWGNqRmhmQ1BDS01KbXBnUXBSZTlhdzVZODFKRHBlNHkzRVpPT21fWllSTWdBWlBXMVVzWW1pU2J3OFhPTlByTzFN?oc=5",
+        "published_at": "2018-01-29T08:00:00+00:00",
+        "representative_place": "ソニーグループ本社",
+        "place_label": "日本-東京都-港区-港南",
+        "sort_place_label": "日本-東京都-港区-港南",
+        "geocode_query": "Sony Group headquarters Konan Minato Tokyo Japan",
+        "place_type": "institution_site",
+        "location_precision": "building",
+        "place_reason": "Sony・PlayStation関連の記事を、企業主体の代表地点としてソニーグループ本社に置く（一致語: PS4）",
+        "confidence": 0.64,
+        "rule_id": "sony_tokyo_headquarters_topic",
+        "matched_text": "PS4",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1396,
+          47.6423
+        ]
+      },
+      "properties": {
+        "title": "恐竜だらけの世界を探検するサンドボックス『PixArk』Steam/PS4/Xbox One/ニンテンドースイッチ向けに発表。『ARK』スピンオフ作品 - AUTOMATON",
+        "source": "AUTOMATON",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1kaUxleS13Y0xnWXlndkxVSTRaUm9PQUwyaWxmU0J2VGw1Y1A0MlRzZHVJMjJ5MnVyMGs3ZGdqZnhrV1JZTkRiRUVhWGdlLVoyR0Uydi02VVg4SUozVzBLNnFBb1lwdmYtNjdn?oc=5",
+        "published_at": "2018-01-26T08:00:00+00:00",
+        "representative_place": "Microsoft本社",
+        "place_label": "米国-ワシントン州-レドモンド",
+        "sort_place_label": "米国-ワシントン州-レドモンド",
+        "geocode_query": "Microsoft Redmond Washington United States",
+        "place_type": "institution_site",
+        "location_precision": "campus",
+        "place_reason": "Microsoft・Copilot・Xbox関連の記事を、企業主体の代表地点としてMicrosoft本社に置く（一致語: Xbox）",
+        "confidence": 0.64,
+        "rule_id": "microsoft_redmond_headquarters_topic",
+        "matched_text": "Xbox",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1396,
+          47.6423
+        ]
+      },
+      "properties": {
+        "title": "ローグヴァニア・アクション『Dead Cells』PS4/Xbox One/ニンテンドースイッチにて発売へ。Steamで熱烈な支持を得たヒット作 - AUTOMATON",
+        "source": "AUTOMATON",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBONkE4dHVqU2FFaDM2M09keTVpbjNGTHpnUmJjNFMxMW9MbHIwaGZXMWRQYjJwOHgyMndBU1B2WFdmaGRhWFNUaENwU1dsTVJ1RlA0UU9MbTROc2pObW1rcUlfemlfMGZtcWhF?oc=5",
+        "published_at": "2018-01-26T08:00:00+00:00",
+        "representative_place": "Microsoft本社",
+        "place_label": "米国-ワシントン州-レドモンド",
+        "sort_place_label": "米国-ワシントン州-レドモンド",
+        "geocode_query": "Microsoft Redmond Washington United States",
+        "place_type": "institution_site",
+        "location_precision": "campus",
+        "place_reason": "Microsoft・Copilot・Xbox関連の記事を、企業主体の代表地点としてMicrosoft本社に置く（一致語: Xbox）",
+        "confidence": 0.64,
+        "rule_id": "microsoft_redmond_headquarters_topic",
+        "matched_text": "Xbox",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1396,
+          47.6423
+        ]
+      },
+      "properties": {
+        "title": "追加要素を盛り込んだリマスター版『ロマンシング サガ2』本日発売。Steam/PS4/Xbox One/ニンテンドースイッチで発売 - AUTOMATON",
+        "source": "AUTOMATON",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFByWEVyV3NUYnJTcXo5ZnUzQlRIUVZrc1E3WFUwVHdhbElOa01xUkhYMkxDaWJmZ1Vta3RPZEFJaF9HTmVCZlYzenMxZ2tub25ybnQxWENydjJIczNRbHNWbGdGRm1JMjVzbWhj?oc=5",
+        "published_at": "2017-12-15T08:00:00+00:00",
+        "representative_place": "Microsoft本社",
+        "place_label": "米国-ワシントン州-レドモンド",
+        "sort_place_label": "米国-ワシントン州-レドモンド",
+        "geocode_query": "Microsoft Redmond Washington United States",
+        "place_type": "institution_site",
+        "location_precision": "campus",
+        "place_reason": "Microsoft・Copilot・Xbox関連の記事を、企業主体の代表地点としてMicrosoft本社に置く（一致語: Xbox）",
+        "confidence": 0.64,
+        "rule_id": "microsoft_redmond_headquarters_topic",
+        "matched_text": "Xbox",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7404,
+          35.6302
+        ]
+      },
+      "properties": {
+        "title": "『SteamWorld Dig 2』ニンテンドースイッチ版に加えて、Steam/PS4版の発売が決定。初秋までに同時期発売へ - AUTOMATON",
+        "source": "AUTOMATON",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9LbWhLOXhlaFlqLS1jM1otZE41Yzl2QUxTb2tLWHZTOXJqd1V5U2JZMmNjbXFVcTJEV1NEOGR6WTNIMDUwTWJoV3NIc0I0YkNnTjJFOUJsZ1NVa3hnOEd6RmZLVUpsVzFITHhV?oc=5",
+        "published_at": "2017-06-28T07:00:00+00:00",
+        "representative_place": "ソニーグループ本社",
+        "place_label": "日本-東京都-港区-港南",
+        "sort_place_label": "日本-東京都-港区-港南",
+        "geocode_query": "Sony Group headquarters Konan Minato Tokyo Japan",
+        "place_type": "institution_site",
+        "location_precision": "building",
+        "place_reason": "Sony・PlayStation関連の記事を、企業主体の代表地点としてソニーグループ本社に置く（一致語: PS4）",
+        "confidence": 0.64,
+        "rule_id": "sony_tokyo_headquarters_topic",
+        "matched_text": "PS4",
+        "match_source": "known_place_title"
+      }
+    }
+  ]
 }
