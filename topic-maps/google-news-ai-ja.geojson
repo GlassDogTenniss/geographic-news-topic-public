@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "properties": {
+    "created_at": "2026-06-28T15:49:20.384050+00:00",
+    "count": 1,
+    "stats": {
+      "feed_id": "google-news-ai-ja",
+      "feed_label": "Google News: AI / 生成AI",
+      "rss_url": "https://news.google.com/rss/search?q=AI%20%E7%94%9F%E6%88%90AI%20OpenAI&hl=ja&gl=JP&ceid=JP:ja",
+      "fetched": 100,
+      "filtered": 80,
+      "resolved": 1,
+      "unresolved": 79,
+      "rules": 9,
+      "known_places": 11,
+      "loaded_data_files": [
+        "data/place_rules.json",
+        "data/unresolved_known_places_12.json"
+      ],
+      "topic_keywords": [
+        "AI",
+        "生成AI",
+        "人工知能",
+        "OpenAI",
+        "ChatGPT"
+      ],
+      "exclude_keywords": []
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.009,
+          37.3349
+        ]
+      },
+      "properties": {
+        "title": "生成AI広告時代に突入か？OpenAIがChatGPTの広告を発表。一方AppleはGemini採用も - 株式会社オトナル",
+        "source": "株式会社オトナル",
+        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1lZUdLWDNmTmVPSjMwWk9RUFdsbXRXVGZ4WkN4ZnVIRmxUbmhOOXF0VzYxeVBOeDFEWDI0N2NNTnBwd042cFE?oc=5",
+        "published_at": "2026-02-14T08:00:00+00:00",
+        "representative_place": "Apple本社",
+        "place_label": "米国-カリフォルニア州-クパチーノ",
+        "sort_place_label": "米国-カリフォルニア州-クパチーノ",
+        "geocode_query": "Apple Park Cupertino California United States",
+        "place_type": "institution_site",
+        "location_precision": "campus",
+        "place_reason": "Apple製品・Apple社に関する記事を、企業主体の代表地点としてApple本社に置く（一致語: Apple）",
+        "confidence": 0.66,
+        "rule_id": "apple_cupertino_headquarters",
+        "matched_text": "Apple",
+        "match_source": "known_place_title"
+      }
+    }
+  ]
+}

@@ -3,28 +3,172 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>ニュース地図 topic 実験</title>
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.css">
-  <link rel="stylesheet" href="./style.css?v=20260629-1">
+  <title>RSS Topic Maps</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+  <style>
+    html, body { height: 100%; margin: 0; font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    body { display: grid; grid-template-columns: 380px 1fr; }
+    aside { border-right: 1px solid #ddd; padding: 14px; overflow: auto; background: #fafafa; }
+    main { min-width: 0; }
+    #map { height: 100%; width: 100%; }
+    h1 { font-size: 18px; margin: 0 0 12px; }
+    select, button { width: 100%; box-sizing: border-box; font-size: 14px; padding: 8px; margin: 4px 0 10px; }
+    .stats { font-size: 13px; line-height: 1.55; background: white; border: 1px solid #ddd; border-radius: 8px; padding: 10px; margin-bottom: 12px; }
+    .item { border: 1px solid #ddd; border-radius: 8px; padding: 10px; margin: 8px 0; background: white; cursor: pointer; }
+    .item:hover { background: #f3f6ff; }
+    .title { font-weight: 650; font-size: 13px; line-height: 1.45; margin-bottom: 6px; }
+    .meta { font-size: 12px; color: #555; line-height: 1.45; }
+    .empty { color: #777; font-size: 13px; }
+    a { color: #0645ad; }
+    @media (max-width: 760px) {
+      body { display: block; }
+      aside { height: 45vh; border-right: 0; border-bottom: 1px solid #ddd; }
+      #map { height: 55vh; }
+    }
+  </style>
 </head>
 <body>
-  <div id="map"></div>
-  <button id="panelToggle" class="panel-toggle" type="button" aria-expanded="true">一覧を閉じる</button>
-  <div id="updatedAtBadge" class="updated-at-badge">更新日を取得中</div>
-  <aside class="panel" id="sidePanel">
-    <div class="panel-header">
-      <button id="panelCloseButton" class="panel-close-button" type="button">一覧を閉じる</button>
-      <h1>ニュース地図 topic 実験</h1>
-      <div class="schedule-note">place_label 正規化の確認用ビューです</div>
-      <div id="status" class="muted">loading latest.geojson...</div>
-    </div>
-    <div class="panel-scroll">
-      <div id="stats" class="stats"></div>
-      <div id="topicList" class="topic-list"></div>
-      <div id="unresolvedList" class="unresolved-list"></div>
-    </div>
+  <aside>
+    <h1>RSS Topic Maps</h1>
+    <label for="feedSelect">RSS / トピック</label>
+    <select id="feedSelect"></select>
+    <div id="stats" class="stats">読み込み中...</div>
+    <div id="list"></div>
   </aside>
-  <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.js"></script>
-  <script src="./app.js?v=20260629-1"></script>
+  <main>
+    <div id="map"></div>
+  </main>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script>
+    const map = L.map('map', { worldCopyJump: true }).setView([32, 15], 2);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(map);
+
+    let currentLayer = null;
+    const feedSelect = document.getElementById('feedSelect');
+    const statsBox = document.getElementById('stats');
+    const listBox = document.getElementById('list');
+
+    async function loadIndex() {
+      const response = await fetch('topic-maps/index.json', { cache: 'no-store' });
+      if (!response.ok) throw new Error('topic-maps/index.json を読めませんでした');
+      return response.json();
+    }
+
+    async function loadGeoJSON(path) {
+      const response = await fetch(path, { cache: 'no-store' });
+      if (!response.ok) throw new Error(path + ' を読めませんでした');
+      return response.json();
+    }
+
+    function renderStats(feed, geojson) {
+      const stats = feed.stats || geojson.properties?.stats || {};
+      const createdAt = geojson.properties?.created_at || '';
+      statsBox.innerHTML = `
+        <div><strong>${escapeHtml(feed.label || feed.id)}</strong></div>
+        <div>取得: ${stats.fetched ?? 0}</div>
+        <div>抽出: ${stats.filtered ?? 0}</div>
+        <div>解決: ${stats.resolved ?? 0}</div>
+        <div>未解決: ${stats.unresolved ?? 0}</div>
+        <div>作成: ${escapeHtml(createdAt)}</div>
+        <div><a href="${escapeAttr(feed.geojson)}" target="_blank" rel="noopener">GeoJSON</a></div>
+      `;
+    }
+
+    function renderList(features, markers) {
+      if (!features.length) {
+        listBox.innerHTML = '<p class="empty">解決済み地点がありません。</p>';
+        return;
+      }
+      listBox.innerHTML = '';
+      features.forEach((feature, index) => {
+        const p = feature.properties || {};
+        const div = document.createElement('div');
+        div.className = 'item';
+        div.innerHTML = `
+          <div class="title">${escapeHtml(p.title || '')}</div>
+          <div class="meta">${escapeHtml(p.place_label || p.representative_place || '')}</div>
+          <div class="meta">${escapeHtml(p.source || '')}</div>
+          <div class="meta">一致: ${escapeHtml(p.matched_text || '')}</div>
+        `;
+        div.addEventListener('click', () => {
+          const marker = markers[index];
+          if (!marker) return;
+          map.setView(marker.getLatLng(), Math.max(map.getZoom(), 6));
+          marker.openPopup();
+        });
+        listBox.appendChild(div);
+      });
+    }
+
+    async function selectFeed(feed) {
+      statsBox.textContent = '読み込み中...';
+      listBox.innerHTML = '';
+      const geojson = await loadGeoJSON(feed.geojson);
+      if (currentLayer) map.removeLayer(currentLayer);
+      const markers = [];
+      currentLayer = L.geoJSON(geojson, {
+        pointToLayer: (feature, latlng) => {
+          const marker = L.circleMarker(latlng, { radius: 7, weight: 2, fillOpacity: 0.75 });
+          markers.push(marker);
+          return marker;
+        },
+        onEachFeature: (feature, layer) => {
+          const p = feature.properties || {};
+          layer.bindPopup(`
+            <strong>${escapeHtml(p.title || '')}</strong><br>
+            ${escapeHtml(p.representative_place || '')}<br>
+            ${escapeHtml(p.place_label || '')}<br>
+            <a href="${escapeAttr(p.link || '#')}" target="_blank" rel="noopener">記事を開く</a>
+          `);
+        }
+      }).addTo(map);
+      const features = geojson.features || [];
+      if (features.length) {
+        map.fitBounds(currentLayer.getBounds(), { padding: [30, 30] });
+      } else {
+        map.setView([32, 15], 2);
+      }
+      renderStats(feed, geojson);
+      renderList(features, markers);
+    }
+
+    function escapeHtml(value) {
+      return String(value).replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+    }
+
+    function escapeAttr(value) {
+      return escapeHtml(value).replace(/'/g, '&#39;');
+    }
+
+    loadIndex()
+      .then(index => {
+        const feeds = index.feeds || [];
+        if (!feeds.length) {
+          statsBox.textContent = 'feed がありません。workflow を実行して topic-maps/index.json を生成してください。';
+          return;
+        }
+        feeds.forEach(feed => {
+          const option = document.createElement('option');
+          option.value = feed.id;
+          option.textContent = feed.label || feed.id;
+          feedSelect.appendChild(option);
+        });
+        feedSelect.addEventListener('change', () => {
+          const feed = feeds.find(item => item.id === feedSelect.value);
+          if (feed) selectFeed(feed).catch(showError);
+        });
+        selectFeed(feeds[0]).catch(showError);
+      })
+      .catch(showError);
+
+    function showError(error) {
+      console.error(error);
+      statsBox.textContent = error.message || String(error);
+    }
+  </script>
 </body>
 </html>

@@ -1,0 +1,32 @@
+{
+  "type": "FeatureCollection",
+  "properties": {
+    "created_at": "2026-06-28T15:49:20.384050+00:00",
+    "count": 0,
+    "stats": {
+      "feed_id": "google-news-disaster-ja",
+      "feed_label": "Google News: 災害・地震・大雨",
+      "rss_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja",
+      "fetched": 69,
+      "filtered": 62,
+      "resolved": 0,
+      "unresolved": 62,
+      "rules": 9,
+      "known_places": 11,
+      "loaded_data_files": [
+        "data/place_rules.json",
+        "data/unresolved_known_places_12.json"
+      ],
+      "topic_keywords": [
+        "災害",
+        "地震",
+        "大雨",
+        "台風",
+        "氾濫",
+        "土砂"
+      ],
+      "exclude_keywords": []
+    }
+  },
+  "features": []
+}
