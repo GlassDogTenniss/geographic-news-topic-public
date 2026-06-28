@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "properties": {
+    "created_at": "2026-06-28T16:32:08.618584+00:00",
+    "count": 0,
+    "stats": {
+      "feed_id": "game-developer-global",
+      "feed_label": "Game Developer: Global",
+      "rss_url": "https://www.gamedeveloper.com/rss.xml",
+      "fetched": 50,
+      "filtered": 50,
+      "resolved": 0,
+      "unresolved": 50,
+      "rules": 9,
+      "known_places": 11,
+      "loaded_data_files": [
+        "data/place_rules.json",
+        "data/unresolved_known_places_12.json"
+      ],
+      "topic_keywords": [
+        "game",
+        "games",
+        "developer",
+        "development",
+        "studio",
+        "publisher",
+        "industry",
+        "indie",
+        "mobile",
+        "console",
+        "PC"
+      ],
+      "exclude_keywords": []
+    }
+  },
+  "features": []
+}

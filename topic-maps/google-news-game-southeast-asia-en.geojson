@@ -1,0 +1,152 @@
+{
+  "type": "FeatureCollection",
+  "properties": {
+    "created_at": "2026-06-28T16:32:08.618584+00:00",
+    "count": 4,
+    "stats": {
+      "feed_id": "google-news-game-southeast-asia-en",
+      "feed_label": "Google News: Southeast Asia gaming",
+      "rss_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Southeast%20Asia&hl=en-SG&gl=SG&ceid=SG:en",
+      "fetched": 77,
+      "filtered": 76,
+      "resolved": 4,
+      "unresolved": 72,
+      "rules": 9,
+      "known_places": 11,
+      "loaded_data_files": [
+        "data/place_rules.json",
+        "data/unresolved_known_places_12.json"
+      ],
+      "topic_keywords": [
+        "game",
+        "games",
+        "gaming",
+        "Southeast Asia",
+        "Singapore",
+        "Malaysia",
+        "Indonesia",
+        "Vietnam",
+        "Thailand",
+        "Philippines",
+        "studio",
+        "developer",
+        "mobile",
+        "esports"
+      ],
+      "exclude_keywords": [
+        "betting",
+        "casino"
+      ]
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.009,
+          37.3349
+        ]
+      },
+      "properties": {
+        "title": "Horror game ‘Agni’, mech RPG ‘Kriegsfront’ bring Southeast Asian flavor to familiar genres - Rappler",
+        "source": "Rappler",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWFgxY0dONE5DaG12Y2pWS1FFX0dYOVotWmVpSFhPUlI4UUd6MlRBZ1dBRHFiVDE4UjF6TXVaT0pETmFIQXNMc2tJQ3pJa3l4VFhaUGZqR0RkYUVCbW1RRUpnMThGTmszQ1ZBZjcwODJwaWhXbTdrWGtab1FjZlZobUpneHBoS2p3Zm5WRHo3TnIzT3hwbUJkejVleUtDWHRnNldtbjRXZ2pTSHdWdGpXU0w5V0NYb2czbTd4VExMQkFJYWNRYVZV?oc=5",
+        "published_at": "2025-04-23T07:00:00+00:00",
+        "representative_place": "Apple本社",
+        "place_label": "米国-カリフォルニア州-クパチーノ",
+        "sort_place_label": "米国-カリフォルニア州-クパチーノ",
+        "geocode_query": "Apple Park Cupertino California United States",
+        "place_type": "institution_site",
+        "location_precision": "campus",
+        "place_reason": "Apple製品・Apple社に関する記事を、企業主体の代表地点としてApple本社に置く（一致語: Apple）",
+        "confidence": 0.66,
+        "rule_id": "apple_cupertino_headquarters",
+        "matched_text": "Apple",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.009,
+          37.3349
+        ]
+      },
+      "properties": {
+        "title": "Video games in 2024: The ‘Tetris’ beater, ‘Palworld’ hype, PH’s ‘Until Then’ - Rappler",
+        "source": "Rappler",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbHVZTjlmSndOcmdleThiQUtSd1RiZFpUOHNMSVlvcHlFdno2M1Jubk1HdkhRUEFvZExLbk52dXZjSWVjaDNXR053Qnc4RGdYTlBXUmhzNHFWY3c5T19IUHJVYTFGTnFlNlA5LUpXeTgtUU9wY0Vld0M2MTBsMUVaSXRoSDlaQVhyeE1Ob0lPZkpBcDA4a0lrXzVPREQxbHdXN1ZXU0lXam5lWnc?oc=5",
+        "published_at": "2024-12-16T08:00:00+00:00",
+        "representative_place": "Apple本社",
+        "place_label": "米国-カリフォルニア州-クパチーノ",
+        "sort_place_label": "米国-カリフォルニア州-クパチーノ",
+        "geocode_query": "Apple Park Cupertino California United States",
+        "place_type": "institution_site",
+        "location_precision": "campus",
+        "place_reason": "Apple製品・Apple社に関する記事を、企業主体の代表地点としてApple本社に置く（一致語: Apple）",
+        "confidence": 0.66,
+        "rule_id": "apple_cupertino_headquarters",
+        "matched_text": "Apple",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.009,
+          37.3349
+        ]
+      },
+      "properties": {
+        "title": "What will it take to produce Southeast Asia’s first triple-A video game? - Rappler",
+        "source": "Rappler",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZzlwVnhTRmE3QjVZUWduZEZuNzdiaEpzZERncUVLTUNiN2RGZXFXQmhZUnp3X1BycF9NajFyYWlHaWptS2dJak50dGhYcE5rNVNPUjBnSnRWVjg1T0tYQWZmT2ZFMG5ZSC11c25GNTlKenFwQVJuUzRONXItZTJWcnp4bGdRd2l0bVUyS05kS2FlbE82R290Nk1WOTQzX01ZX2NWWTdpVkw3QQ?oc=5",
+        "published_at": "2024-03-20T07:00:00+00:00",
+        "representative_place": "Apple本社",
+        "place_label": "米国-カリフォルニア州-クパチーノ",
+        "sort_place_label": "米国-カリフォルニア州-クパチーノ",
+        "geocode_query": "Apple Park Cupertino California United States",
+        "place_type": "institution_site",
+        "location_precision": "campus",
+        "place_reason": "Apple製品・Apple社に関する記事を、企業主体の代表地点としてApple本社に置く（一致語: Apple）",
+        "confidence": 0.66,
+        "rule_id": "apple_cupertino_headquarters",
+        "matched_text": "Apple",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.009,
+          37.3349
+        ]
+      },
+      "properties": {
+        "title": "Microsoft officially launches PC Game Pass in Southeast Asia - Rappler",
+        "source": "Rappler",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPb09seU1JamIzb3RhMEVWenhNMnRaUF9ubk1sU09zdExUS1l1OE5QSlFnRzI5VVRfWHYycVU2UUxLS1Q4Tmcxb3FLM1VXUnZuSnBWcnpST3VZMkJkX1FuMm96TmtGTzJZdXNzN0N2b1VXa1BOMjJoOUFWODZRbUQ1WFQ5dkxuYWt2WHhuWk5HRVNTMlk?oc=5",
+        "published_at": "2022-04-22T07:00:00+00:00",
+        "representative_place": "Apple本社",
+        "place_label": "米国-カリフォルニア州-クパチーノ",
+        "sort_place_label": "米国-カリフォルニア州-クパチーノ",
+        "geocode_query": "Apple Park Cupertino California United States",
+        "place_type": "institution_site",
+        "location_precision": "campus",
+        "place_reason": "Apple製品・Apple社に関する記事を、企業主体の代表地点としてApple本社に置く（一致語: Apple）",
+        "confidence": 0.66,
+        "rule_id": "apple_cupertino_headquarters",
+        "matched_text": "Apple",
+        "match_source": "known_place_title"
+      }
+    }
+  ]
+}

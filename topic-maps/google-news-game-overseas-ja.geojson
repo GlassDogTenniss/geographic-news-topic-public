@@ -4,13 +4,13 @@
     "created_at": "2026-06-28T16:32:08.618584+00:00",
     "count": 0,
     "stats": {
-      "feed_id": "google-news-game-ja",
-      "feed_label": "Google News: ゲーム会社・新作",
-      "rss_url": "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA&hl=ja&gl=JP&ceid=JP:ja",
+      "feed_id": "google-news-game-overseas-ja",
+      "feed_label": "Google News: 海外ゲームスタジオ",
+      "rss_url": "https://news.google.com/rss/search?q=%E6%B5%B7%E5%A4%96%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA&hl=ja&gl=JP&ceid=JP:ja",
       "fetched": 75,
-      "filtered": 75,
+      "filtered": 73,
       "resolved": 0,
-      "unresolved": 75,
+      "unresolved": 73,
       "rules": 9,
       "known_places": 11,
       "loaded_data_files": [
@@ -18,23 +18,21 @@
         "data/unresolved_known_places_12.json"
       ],
       "topic_keywords": [
-        "ゲーム",
-        "ゲーム会社",
+        "海外ゲーム",
+        "スタジオ",
         "新作",
-        "発売",
         "発表",
         "開発",
-        "スタジオ",
-        "配信",
-        "運営"
+        "パブリッシャー",
+        "買収",
+        "閉鎖"
       ],
       "exclude_keywords": [
         "セール",
         "割引",
         "値下げ",
         "OFF",
-        "クーポン",
-        "ポイント還元"
+        "クーポン"
       ]
     }
   },

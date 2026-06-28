@@ -1,0 +1,40 @@
+{
+  "type": "FeatureCollection",
+  "properties": {
+    "created_at": "2026-06-28T16:32:08.618584+00:00",
+    "count": 0,
+    "stats": {
+      "feed_id": "google-news-game-eastern-europe-en",
+      "feed_label": "Google News: Eastern Europe gaming",
+      "rss_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Eastern%20Europe&hl=en&gl=PL&ceid=PL:en",
+      "fetched": 74,
+      "filtered": 69,
+      "resolved": 0,
+      "unresolved": 69,
+      "rules": 9,
+      "known_places": 11,
+      "loaded_data_files": [
+        "data/place_rules.json",
+        "data/unresolved_known_places_12.json"
+      ],
+      "topic_keywords": [
+        "game",
+        "games",
+        "gaming",
+        "Eastern Europe",
+        "studio",
+        "developer",
+        "Poland",
+        "Ukraine",
+        "Czech",
+        "Romania",
+        "Hungary"
+      ],
+      "exclude_keywords": [
+        "betting",
+        "casino"
+      ]
+    }
+  },
+  "features": []
+}

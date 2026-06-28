@@ -1,0 +1,549 @@
+{
+  "ok": true,
+  "created_at": "2026-06-28T16:32:08.618584+00:00",
+  "stats": {
+    "feed_id": "google-news-game-overseas-ja",
+    "feed_label": "Google News: 海外ゲームスタジオ",
+    "rss_url": "https://news.google.com/rss/search?q=%E6%B5%B7%E5%A4%96%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA&hl=ja&gl=JP&ceid=JP:ja",
+    "fetched": 75,
+    "filtered": 73,
+    "resolved": 0,
+    "unresolved": 73,
+    "rules": 9,
+    "known_places": 11,
+    "loaded_data_files": [
+      "data/place_rules.json",
+      "data/unresolved_known_places_12.json"
+    ],
+    "topic_keywords": [
+      "海外ゲーム",
+      "スタジオ",
+      "新作",
+      "発表",
+      "開発",
+      "パブリッシャー",
+      "買収",
+      "閉鎖"
+    ],
+    "exclude_keywords": [
+      "セール",
+      "割引",
+      "値下げ",
+      "OFF",
+      "クーポン"
+    ]
+  },
+  "unresolved": [
+    {
+      "title": "『007』シリーズ新作ゲーム、正式タイトル発表！『ヒットマン』開発チームが手掛ける「ジェームズ・ボンド」がSummer Game Festで再び登場 - 玩具人 TOY PEOPLE",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBWY3F3UjlLdm13NFEyVmF0bGhXSFdkUFUzWGYwX2Y4Sm9LMGVZMnlUbko3bkdtOUZ4RmRxdHNteU9Id2wtMmI4YWpSSzlubVh0?oc=5",
+      "source": "玩具人 TOY PEOPLE",
+      "published_at": "2026-06-28T14:12:57+00:00",
+      "summary": "『007』シリーズ新作ゲーム、正式タイトル発表！『ヒットマン』開発チームが手掛ける「ジェームズ・ボンド」がSummer Game Festで再び登場    玩具人 TOY PEOPLE"
+    },
+    {
+      "title": "長らく開発中の新作アクションADV『Star Wars Eclipse』を救うにはレイオフ中止が必要と主張。『Detroit: Become Human』開発元でストライキ実施との海外報道 - Game*Spark",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5McENmSUl1TFFWNDBmZllhelNRSm1OZkRfT21NTVFReGhJTzhrOU9XNEJFcDZodzRjSy13QlRmU1BWU1g3YmxsbHZiMFBoeTZILXAtYTZxZmJOenJmTG5mdXQ0SnJxUQ?oc=5",
+      "source": "Game*Spark",
+      "published_at": "2026-06-27T08:45:03+00:00",
+      "summary": "長らく開発中の新作アクションADV『Star Wars Eclipse』を救うにはレイオフ中止が必要と主張。『Detroit: Become Human』開発元でストライキ実施との海外報道    Game*Spark"
+    },
+    {
+      "title": "ユービーアイソフトが大規模組織再編を発表、『時間の砂』リメイク含む6作品が開発中止に。2つのスタジオ閉鎖、ライブサービス型ゲームに注力へ - 玩具人 TOY PEOPLE",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1rQnRoTzJ1Y2xobTNWOERTRFBxb21TUHJEQ0VHelpYUExybHhxRDg3WjMtZndJQngxMlFwYjZkT1JzYnA1N2U5YWpORFJhOFFf?oc=5",
+      "source": "玩具人 TOY PEOPLE",
+      "published_at": "2026-06-25T03:53:22+00:00",
+      "summary": "ユービーアイソフトが大規模組織再編を発表、『時間の砂』リメイク含む6作品が開発中止に。2つのスタジオ閉鎖、ライブサービス型ゲームに注力へ    玩具人 TOY PEOPLE"
+    },
+    {
+      "title": "新作発表から1週間…『Hellblade』開発元Ninja Theory閉鎖すると報道―他のXBOX関連スタジオも危機に直面か - Game*Spark",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBlcVcyNUllSW9MbXZHTzlfWFNaLUxtb3JseEIwSVExZ1RmUzVpd1lwbnJYQ09oN0NxNEIzUnpfaU9NYVVVbXN1UzZ5WUJ2dlhvMERLQzdhaHVORXloTGxKM3hDem14dw?oc=5",
+      "source": "Game*Spark",
+      "published_at": "2026-06-16T07:00:00+00:00",
+      "summary": "新作発表から1週間…『Hellblade』開発元Ninja Theory閉鎖すると報道―他のXBOX関連スタジオも危機に直面か    Game*Spark"
+    },
+    {
+      "title": "『Project GT』クラファンは“詐欺”、本物の開発元が声明発表―素材は関連会社から流出したもの、Kickstarterでは約1ヶ月間掲載 - インサイド",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1tVmZJQjRWM0U2amlhd1J3WFZna2tkb0VBR2hqd29EWm1OSEFCMHo4MWdER0oxeGNQdkgwdHBCeVJrU3U3NDdEU0xnNnBIcF95dVpRNmhOZnJhZndVeXNRQnlyMG4tcm1GcEE?oc=5",
+      "source": "インサイド",
+      "published_at": "2026-06-15T07:00:00+00:00",
+      "summary": "『Project GT』クラファンは“詐欺”、本物の開発元が声明発表―素材は関連会社から流出したもの、Kickstarterでは約1ヶ月間掲載    インサイド"
+    },
+    {
+      "title": "海外大手クラファンサイトに掲載の新作ゲーム、未発表作の「盗難データ」だった―ハイクオリティな美少女レース『Project GT』、「本物」の開発元が注意喚起へ - Game*Spark",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1QTlpNSnBKbEJIZFZDRVVuZGZaWkZlQVgyME5zMG40WWRFMlFTTGtzVlFORUlEbFo5NW14cXlGZ0sxZHZxb0ZEeUQ3YlkxX2d0a3ZWTW5ORVhlY0VZX2hpRVoxemNhYkZD?oc=5",
+      "source": "Game*Spark",
+      "published_at": "2026-06-15T07:00:00+00:00",
+      "summary": "海外大手クラファンサイトに掲載の新作ゲーム、未発表作の「盗難データ」だった―ハイクオリティな美少女レース『Project GT』、「本物」の開発元が注意喚起へ    Game*Spark"
+    },
+    {
+      "title": "『バットマン：アーカム』開発チームが新作DCマルチプレイヤーゲームを開発か？失敗を恐れず「サービス型ゲーム」に再挑戦 - 玩具人 TOY PEOPLE",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9hZl9XRjZmbzNiRllqUU9pTmRia3dvVXdkUUxNSk1yU3dBc3dycGxwNnkwUVZrQnhNNkVRcnNTeVdtYXNvYk12U2NDMFNfZ0p2?oc=5",
+      "source": "玩具人 TOY PEOPLE",
+      "published_at": "2026-06-12T10:29:50+00:00",
+      "summary": "『バットマン：アーカム』開発チームが新作DCマルチプレイヤーゲームを開発か？失敗を恐れず「サービス型ゲーム」に再挑戦    玩具人 TOY PEOPLE"
+    },
+    {
+      "title": "ラリアン・スタジオ新作『Divinity』血生々しい予告編が物議、開発チームは「猟奇的ではなくプレイヤーの理解力を尊重」と強調 - 玩具人 TOY PEOPLE",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9CT183WkNCbWxxYms5NWRHSnRfVC1yVXZKV3Y5WFdJTEFFVVNmSzJXQmZnRkFyZkVoSEJ0SW16el9pbDdIQlo4SWd6LTMwV0Vj?oc=5",
+      "source": "玩具人 TOY PEOPLE",
+      "published_at": "2026-06-10T14:05:02+00:00",
+      "summary": "ラリアン・スタジオ新作『Divinity』血生々しい予告編が物議、開発チームは「猟奇的ではなくプレイヤーの理解力を尊重」と強調    玩具人 TOY PEOPLE"
+    },
+    {
+      "title": "Summer Game Fest 2026で発表されるタイトルの予告をひとまとめ。「スター・ウォーズ」新作ターン制ストラテジーや『Forza』元開発者のオープンワールドレースなど登場 - Game*Spark",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBPX1RnakwzSWg1aEtEMTNCS0x3YmpHUnRVSXFDQzBKMEF1Vy00UXZKbWU0MTQ0ZW45d2JTRnVkTVRQVzRIYkR0Mm9GQ1M1QVJ2VVVVcFFRYzZaakRPY0tHeGMtWFNrZw?oc=5",
+      "source": "Game*Spark",
+      "published_at": "2026-06-05T07:00:00+00:00",
+      "summary": "Summer Game Fest 2026で発表されるタイトルの予告をひとまとめ。「スター・ウォーズ」新作ターン制ストラテジーや『Forza』元開発者のオープンワールドレースなど登場    Game*Spark"
+    },
+    {
+      "title": "『PUBG』生んだクリエイターのスタジオが資金難に。早期アクセス中の新作は開発中止・無料化へ―ブレンダン・グリーン氏が組織再編を発表 - Game*Spark",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1hckg1dHdoeU9aTzV1R09Ib2hyeFZQUEhTNWwtVGFIaGxyZ29HVUhZVzBxSV8zYjJicjdnSHFEd2MwajNrb0xNdnB1ZkNfN2NGZzJaelpxRUt2RW4wX1I5WnVqUV9oQQ?oc=5",
+      "source": "Game*Spark",
+      "published_at": "2026-06-04T07:00:00+00:00",
+      "summary": "『PUBG』生んだクリエイターのスタジオが資金難に。早期アクセス中の新作は開発中止・無料化へ―ブレンダン・グリーン氏が組織再編を発表    Game*Spark"
+    },
+    {
+      "title": "『Forza Horizon』元開発者ら設立のスタジオ手掛ける新作オープンワールドドライブゲーム正式発表トレイラー公開か―YouTubeでカウントダウン配信実施中 - Game*Spark",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE15RXNJbUNjaWFualcwR3BWRlZ0bFRwR0ppV3J4eWpVYW1yV2FkWWJKVlpKalNESmtRRzZ4eEsyOEJGeXcxZnllYlVrSDRaTTNFM0FMSnpHM2laN2JFdEtKbU5OQ0pQQQ?oc=5",
+      "source": "Game*Spark",
+      "published_at": "2026-05-27T07:00:00+00:00",
+      "summary": "『Forza Horizon』元開発者ら設立のスタジオ手掛ける新作オープンワールドドライブゲーム正式発表トレイラー公開か―YouTubeでカウントダウン配信実施中    Game*Spark"
+    },
+    {
+      "title": "『キングダムカム』開発スタジオが「ロード・オブ・ザ・リング」オープンワールドRPGを開発中！『キングダムカム』の新プロジェクトも進行と発表 - Game*Spark",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE96VXF5LV9VaUo3VEljZ3hZaDdHSkUtU3lkMkxiNGQ3UXhkMFhIVVRZRGZjb1pQUVN6cVpMZnJ5VEJHRk8wTmJiV0ExWVB0RzI3RTBYMGRETC1wTjMxOVNOXzJGY0ZRdw?oc=5",
+      "source": "Game*Spark",
+      "published_at": "2026-05-20T07:00:00+00:00",
+      "summary": "『キングダムカム』開発スタジオが「ロード・オブ・ザ・リング」オープンワールドRPGを開発中！『キングダムカム』の新プロジェクトも進行と発表    Game*Spark"
+    },
+    {
+      "title": "「名越スタジオ」公式サイトがアクセス不可に。3月から不穏な動きが続くも公式声明は未だ発表されず - Game*Spark",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5tTXdOVlJyc0FBZTRrbzJxamZ4VFpfSG40X3ptTk1FYVlQQ1Q3MTNzVmU3ckNtR0FoRjYwRGtlMktHdjl3LVNXYjJCN0RvNllrVzFaYUJtQ0l5OVVCR0JIbEpINF9tQQ?oc=5",
+      "source": "Game*Spark",
+      "published_at": "2026-05-13T07:00:00+00:00",
+      "summary": "「名越スタジオ」公式サイトがアクセス不可に。3月から不穏な動きが続くも公式声明は未だ発表されず    Game*Spark"
+    },
+    {
+      "title": "『Stellar Blade』続編は「発売初日から幅広いユーザーに届ける」―自社パブリッシング作品として2026年内詳細発表へ - Game*Spark",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ZN1d2WlFJNmJlbURGeGdqVVhBLWttQ0c4Mk9VTlRvTU80QjktMG5BTEFMRFVRRjVDMXc4eFEwS21qeXgtbUNUSU9fNU5pejQ1TFZGNU9tQ2FFbTdITkdfdS1FR01SQQ?oc=5",
+      "source": "Game*Spark",
+      "published_at": "2026-05-11T07:00:00+00:00",
+      "summary": "『Stellar Blade』続編は「発売初日から幅広いユーザーに届ける」―自社パブリッシング作品として2026年内詳細発表へ    Game*Spark"
+    },
+    {
+      "title": "新作開発中止やスタジオ閉鎖など続く『ジャストコーズ』開発元、未発表AAAオープンワールド作品に着手か。求人情報から判明 - Game*Spark",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBYUHBEODl6ZVJpQjBmM1RqcFljM1d3YTd3eHRNVUNGX1JSd3U3QndOUVg1cVBfREFWREZfR3BKVnRDZHB4eUhTOEJaY0d1a2V1djJUR3loY2ZyMi15TnRZbnVHcGZKQQ?oc=5",
+      "source": "Game*Spark",
+      "published_at": "2026-04-25T07:00:00+00:00",
+      "summary": "新作開発中止やスタジオ閉鎖など続く『ジャストコーズ』開発元、未発表AAAオープンワールド作品に着手か。求人情報から判明    Game*Spark"
+    },
+    {
+      "title": "『エコー・ザ・ドルフィン』『エコー・ザ・ドルフィン2』全バージョン収録の『Ecco the Dolphin: Complete』発表！ストリーマーやスピードラン挑戦者向けの新機能も - Game*Spark",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5OYzRyalNvNWpWSTdwd3hGNnlRRnI3WXkyUUhMVHB4Zzc1QzBiaHV2d0tYeGFtOVUtZXpLcjB2OVpxcDUyYVlEQUJPVTVSNzQ4ckNRVk5lWnpVXy1SSVdYQWZYTW9sZw?oc=5",
+      "source": "Game*Spark",
+      "published_at": "2026-04-22T07:00:00+00:00",
+      "summary": "『エコー・ザ・ドルフィン』『エコー・ザ・ドルフィン2』全バージョン収録の『Ecco the Dolphin: Complete』発表！ストリーマーやスピードラン挑戦者向けの新機能も    Game*Spark"
+    },
+    {
+      "title": "リメイク版『SILENT HILL 2』開発のBloober Team、7つものホラーゲーム制作中。初代『SH』やオリジナルシリーズ、スイッチ向け作品など進行 - Game*Spark",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE54M3lUOUJQRjR4SmJMcW8tVDJ4MzVBMGNYWDFZUE5pdzZWRy00T1V6LW44QUhiRU0zcVNxLUZncHdQd1dXTk55cTV1Z0l2NUxKZGFvLTJKeGc0SWZSUmtaSFJBMFQxdw?oc=5",
+      "source": "Game*Spark",
+      "published_at": "2026-04-15T07:00:00+00:00",
+      "summary": "リメイク版『SILENT HILL 2』開発のBloober Team、7つものホラーゲーム制作中。初代『SH』やオリジナルシリーズ、スイッチ向け作品など進行    Game*Spark"
+    },
+    {
+      "title": "終わらない大規模レイオフー新生『Deus Ex』等手掛けた開発元でスタッフ“124名”解雇、スタジオ責任者とも「袂を分かつ」 - Game*Spark",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5SYjhXNllSTnVOMTVxRUlCYjNuMjFXX2hFN0xXUzBYOTY0RHNiai1ZUW00bWVIbnh3VTVXc3c5WkxfcHJ3NXVmZE8wcHMtUXBDRWNQN3V2SHprS05SV3lvTXdtd2htQQ?oc=5",
+      "source": "Game*Spark",
+      "published_at": "2026-03-31T07:00:00+00:00",
+      "summary": "終わらない大規模レイオフー新生『Deus Ex』等手掛けた開発元でスタッフ“124名”解雇、スタジオ責任者とも「袂を分かつ」    Game*Spark"
+    },
+    {
+      "title": "仏パブリッシャー「NACON」傘下の開発スタジオ3社など子会社4社が破産申請へ―司法再建手続きの開始を求める - Game*Spark",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5UTW1UN1MzRndodEYxVkJ5Rkp5LTRJM2thVHQzQjltN0pnY3lhSGpfQ2FISHp5T2FtbHlJZEhVeUtJNTdYcjlFZklZSWh0UjhWcElkX0thX3Vuc2gzTFA1U0ltRXJFZw?oc=5",
+      "source": "Game*Spark",
+      "published_at": "2026-03-25T07:00:00+00:00",
+      "summary": "仏パブリッシャー「NACON」傘下の開発スタジオ3社など子会社4社が破産申請へ―司法再建手続きの開始を求める    Game*Spark"
+    },
+    {
+      "title": "Amazon Gamesが『Forza Horizon』元開発者率いるMaverick Gamesとのパブリッシング契約解消―オープンワールドの新作ドライブゲーム開発は順調で年内に更なる情報公開予定 - Game*Spark",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5OTkN3ZTRyd3dlbUlHMXNMYTZ3bmdPQ3g3TkhhRXFkZDhmVzZfRzI2U3VKbjFEby1fZXluRjl6eWZQQ25WNTJHdzVhN0hzZWhNeWlhVGt0czJHRjdVRXZBS3BGUXZFQQ?oc=5",
+      "source": "Game*Spark",
+      "published_at": "2026-02-26T08:00:00+00:00",
+      "summary": "Amazon Gamesが『Forza Horizon』元開発者率いるMaverick Gamesとのパブリッシング契約解消―オープンワールドの新作ドライブゲーム開発は順調で年内に更なる情報公開予定    Game*Spark"
+    },
+    {
+      "title": "組織再編後のユービーアイ、『アサシン クリード』複数作品&『ファークライ』2作品を開発中。テンセント出資スタジオにて - Game*Spark",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1DQ2dVZUREZm1zYjhUMEpnRk9IblFxU09laFVBRjBnbTVSVWtlV09tMWF3dnE0T0MyVDBxcTZhdEFhSUN6RTI4R0Juc3g5Y3FKMm9xdC1FOVJPZ05GZjJOanVpOUVrdw?oc=5",
+      "source": "Game*Spark",
+      "published_at": "2026-02-21T08:00:00+00:00",
+      "summary": "組織再編後のユービーアイ、『アサシン クリード』複数作品&『ファークライ』2作品を開発中。テンセント出資スタジオにて    Game*Spark"
+    },
+    {
+      "title": "『プリンス オブ ペルシャ 時間の砂』ついに開発中止発表。ユービーアイは6タイトル開発中止、7タイトル発売延期、2つのスタジオ閉鎖へ - Game*Spark",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5vUkxfSUctMG9yNmJ2SlN5Y3ExOUpkenprWFhEbXBTOFQtMlZIeXFYZ3ZDYTVyTUNuVTdjWHZTV2ptamxwVDYxRlphczZ4WHZjcm1BamZJUDBNZVZURlNpa1UtRG8xQQ?oc=5",
+      "source": "Game*Spark",
+      "published_at": "2026-01-22T08:00:00+00:00",
+      "summary": "『プリンス オブ ペルシャ 時間の砂』ついに開発中止発表。ユービーアイは6タイトル開発中止、7タイトル発売延期、2つのスタジオ閉鎖へ    Game*Spark"
+    },
+    {
+      "title": "セガのイルカACT『エコー・ザ・ドルフィン』新作開発が正式発表！原作クリエイターたち設立のスタジオが手掛ける - Game*Spark",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE11N2ZRZVdfangtNjNDWmphT1VDWEo4TnFhbW9jX1kyY0w2MGhFTU1Zd2tIRjZsMlY0ZTBXNWYtZzcwdXdnRDlCWW5wYWp1M2hDSHI1RUVDT0RBOEYyb0g2UzBEbm1iQQ?oc=5",
+      "source": "Game*Spark",
+      "published_at": "2026-01-15T08:00:00+00:00",
+      "summary": "セガのイルカACT『エコー・ザ・ドルフィン』新作開発が正式発表！原作クリエイターたち設立のスタジオが手掛ける    Game*Spark"
+    },
+    {
+      "title": "『ホグワーツ・レガシー』続編はオンラインマルチに対応？開発スタジオの求人情報が興味深い - Game*Spark",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA1VjJkblQ5dVZfT1Jqd3VFbXpnMVI0UFNwUXFsaEdhdHNlQkJBNlZjbFFoS2lHM1BuZEJyYlB5Z2xMR3EyRDBiSmdlR3FEVU45ckdFTEYtdUV2V1JySndOc0NBY0VQQQ?oc=5",
+      "source": "Game*Spark",
+      "published_at": "2025-12-23T08:00:00+00:00",
+      "summary": "『ホグワーツ・レガシー』続編はオンラインマルチに対応？開発スタジオの求人情報が興味深い    Game*Spark"
+    },
+    {
+      "title": "サンドボックスレース『Wreckreation』開発元が閉鎖危機―『バーンアウト』シリーズ元開発者ら設立のスタジオ - Game*Spark",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8xVnl1ZzRabV9hVVRyejNVb0JfUlNoZFE2SEc3QXhIOUh5aURqOEJuUF9HVktaWHlET3FNMy1Sc0U2VndXTWhjVGxORDhaLUE3SVdUZ29qY2lFZ21fZ1pHVGlLRjB0QQ?oc=5",
+      "source": "Game*Spark",
+      "published_at": "2025-12-06T08:00:00+00:00",
+      "summary": "サンドボックスレース『Wreckreation』開発元が閉鎖危機―『バーンアウト』シリーズ元開発者ら設立のスタジオ    Game*Spark"
+    },
+    {
+      "title": "任天堂がバンダイナムコのシンガポール開発拠点を子会社化へ スプラ3協力スタジオ取得でシンガポール二拠点体制・開発力を強化 - ゲーム情報！ゲームのはなし",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE00N1RNdEFhQkRTUGxpUXhWaTYyVTZFNGhmc0VqaEE3VGdNdGd3aWMxNjZSRndTaWdHUmF5bzJpbzNYRFJoSXZxUTFJWndzd3BneXBOcUViaTVSWlAtWlF1enkxTHdsYUhIYUdDbndQakdZbnh4WkZLOHdB?oc=5",
+      "source": "ゲーム情報！ゲームのはなし",
+      "published_at": "2025-11-27T08:00:00+00:00",
+      "summary": "任天堂がバンダイナムコのシンガポール開発拠点を子会社化へ スプラ3協力スタジオ取得でシンガポール二拠点体制・開発力を強化    ゲーム情報！ゲームのはなし"
+    },
+    {
+      "title": "『Cities: Skylines II』開発難の中、シリーズ開発スタジオ変更発表。15年以上のパートナーシップに区切り - Game*Spark",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE80MTFqcjAwZDlpT25wRmRkZlB2YUppekVLTUtWNFdHVG1CWjJaSjRNSDZiSkVUSzlGWFdJOEx2ZW5NWm9qYmFqbktDZUN4SVBkV2IzZm5LMXQ4QkdSSERoVnhwclpWUQ?oc=5",
+      "source": "Game*Spark",
+      "published_at": "2025-11-17T08:00:00+00:00",
+      "summary": "『Cities: Skylines II』開発難の中、シリーズ開発スタジオ変更発表。15年以上のパートナーシップに区切り    Game*Spark"
+    },
+    {
+      "title": "スクエニが事業改革を加速、「QAの7割AI化」と「海外スタジオ閉鎖」など開発体制を抜本的に見直し - Game*Spark",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5abi1aS0EzajNRZVhFR1RfQXFKLTZ5T0hWOC01ckpueERpX0NTOGpRNnJLcllGNktjZ3FSUnJ0aTg3Zkt2RjA3bzJRTmlJSzlIWHpvdVR6eWhVZ1V2OFR2OGlEeGRRdw?oc=5",
+      "source": "Game*Spark",
+      "published_at": "2025-11-07T08:00:00+00:00",
+      "summary": "スクエニが事業改革を加速、「QAの7割AI化」と「海外スタジオ閉鎖」など開発体制を抜本的に見直し    Game*Spark"
+    },
+    {
+      "title": "『WoW』『LoL』ベテラン開発者率いる元NetEase傘下スタジオが閉鎖―今のゲーム業界で新作MMOを手掛ける難しさを明かす - GameBusiness.jp",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5XLTRQajZUeGRUYlREdFBwemF6ZUY3aGFBTkY0a3Z2NkdLdWRsN1JZallmNi1rTks4RFRwVEpjWGpxREZEU1NfRHJEeU5WR0RScFJzN2owTzNhNm9fZU0wYjV0QjMzb1gy?oc=5",
+      "source": "GameBusiness.jp",
+      "published_at": "2025-11-05T08:00:00+00:00",
+      "summary": "『WoW』『LoL』ベテラン開発者率いる元NetEase傘下スタジオが閉鎖―今のゲーム業界で新作MMOを手掛ける難しさを明かす    GameBusiness.jp"
+    },
+    {
+      "title": "PS5『ゴースト・オブ・ヨウテイ』開発元トップ、これからも“1本勝負”の制作を宣言。『ゴースト・オブ』新作でも『怪盗スライ・クーパー』新作でも、1作集中開発 - AUTOMATON",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPLXp0SUpzUkdaS0dsTlZYNnVTT284YTFsaHR2RVhON3A2MjZIb0hneTJFMmo3VldJY3IzS1hsMzhxXzBKM0xnVUJMTG5Ibmw3bjJCSWw5RHBFR3htSHdEN2FMZURaM3NqSFh5NlpsenJHenY4Vk1sM09EeElSSExxSG1qWE5XTEtpamRWbkNB?oc=5",
+      "source": "AUTOMATON",
+      "published_at": "2025-10-15T07:00:00+00:00",
+      "summary": "PS5『ゴースト・オブ・ヨウテイ』開発元トップ、これからも“1本勝負”の制作を宣言。『ゴースト・オブ』新作でも『怪盗スライ・クーパー』新作でも、1作集中開発    AUTOMATON"
+    },
+    {
+      "title": "『ジャストコーズ』Avalanche Studiosがリヴァプールスタジオ閉鎖を発表―5地点に構えていたスタジオは残り2つに - Game*Spark",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9KWXh6cDgza1p0bDBvSkN5aWwzcHdRSy1YNUpwM2lRdWZFTW1OOWdwcVY5Y0RFSTFYeWVhVkRGWjMtZzlkMHV4XzhiTExwQ0RKS0o1bUtwTmhRbHRPWFZ0MWJ3RzZSdw?oc=5",
+      "source": "Game*Spark",
+      "published_at": "2025-10-01T07:00:00+00:00",
+      "summary": "『ジャストコーズ』Avalanche Studiosがリヴァプールスタジオ閉鎖を発表―5地点に構えていたスタジオは残り2つに    Game*Spark"
+    },
+    {
+      "title": "『L4D』開発スタジオの元CEO、新作Co-opシューターを開発中とコメント。プレイテスト参加者を募集へ - Game*Spark",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBjSDhMMlZYWEpkT0FsaEtJcmRYNHFvOWk0eThlUmVzbGVCMWgtNDBRYjA3aHEzREZ3TXc5NjNUUGp5UnNXS1Nhc1I0M0FoV1Z0RFMwbzR1R1BiWTBuV3FudnMtVEplZw?oc=5",
+      "source": "Game*Spark",
+      "published_at": "2025-09-01T07:00:00+00:00",
+      "summary": "『L4D』開発スタジオの元CEO、新作Co-opシューターを開発中とコメント。プレイテスト参加者を募集へ    Game*Spark"
+    },
+    {
+      "title": "ついに発売日が決まった『Hollow Knight: Silksong』、「なぜ発表から約6年もかかったのか」開発者が明かす。開発が難航したわけではなく、むしろ逆 - AUTOMATON",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbVBTRGJ6SmpOSEM3anIydkNiUHdhenNfVmNaOFVlSzZWM1lxVDhUQjhjT1dwR1hWWmpncExfcFRkeWFOMVN3ejczX3RzU1c0MU0zdHIyTGFncnBmRGNubXo0SXZPcC00bEZRTk14YmlWRzdXWVhWc3hIdXZNRnBCT1dSeUlFVFA5b1dr?oc=5",
+      "source": "AUTOMATON",
+      "published_at": "2025-08-22T07:00:00+00:00",
+      "summary": "ついに発売日が決まった『Hollow Knight: Silksong』、「なぜ発表から約6年もかかったのか」開発者が明かす。開発が難航したわけではなく、むしろ逆    AUTOMATON"
+    },
+    {
+      "title": "2019年から開発中の『バイオショック』新作、2Kによる内部レビューで不合格に―物語が大きな課題&スタジオ責任者解任との海外報道 - Game*Spark",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5XclNFdVI2X1ZrTWlQX3hzeENpWWdqMW1KNENaaFp0VGd1MkwwRjgtaGQzWU9Sc3oyM3U2aGJIR3pfN3kzWWhodUk5endkcUwtUEV3eEtXQVg5aHEtWHlUeU5iTER6dw?oc=5",
+      "source": "Game*Spark",
+      "published_at": "2025-08-04T07:00:00+00:00",
+      "summary": "2019年から開発中の『バイオショック』新作、2Kによる内部レビューで不合格に―物語が大きな課題&スタジオ責任者解任との海外報道    Game*Spark"
+    },
+    {
+      "title": "まるで『龍が如く』のヒートアクション！？龍が如くスタジオ開発『バーチャファイター』新作『New VIRTUA FIGHTER』Project最新バトル映像 - Game*Spark",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBkVU9TUUdFVzdoUlc1UVZEY3RlVU5nUmoxSFQ1WENKdHdJZy1lR19vTGs2b0dKbzZsOEZiLU9ZOHhTM3plUTJtTUsyRUlBbVdSenlhWnc1WTZRYVBqd0lLRjVGMHVTZw?oc=5",
+      "source": "Game*Spark",
+      "published_at": "2025-08-04T07:00:00+00:00",
+      "summary": "まるで『龍が如く』のヒートアクション！？龍が如くスタジオ開発『バーチャファイター』新作『New VIRTUA FIGHTER』Project最新バトル映像    Game*Spark"
+    },
+    {
+      "title": "レア社が“10年以上”手がけた注目作『Everwild』、開発中止。ベテラン社員もスタジオを離脱 - AUTOMATON",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1TRlQ3MzJQZFpLaGQ1cnQ3bGlwdXZKWmxYM2V3c1RQZVJDNDk2b0UySmlpWUg4NEhndW1QWEFncE1GN0tueDJUQnVnWTRYc3czRlBMTFJsR2E2bUdPRVpQRE90eGNKREhybVJVVm5yLUNJZVlVMTU1OGJxdWxYU2c?oc=5",
+      "source": "AUTOMATON",
+      "published_at": "2025-07-03T07:00:00+00:00",
+      "summary": "レア社が“10年以上”手がけた注目作『Everwild』、開発中止。ベテラン社員もスタジオを離脱    AUTOMATON"
+    },
+    {
+      "title": "KRAFTON、『Subnautica』シリーズ開発スタジオ経営陣の突然の変更発表―新任CEOは『Callisto Protocol』開発スタジオ代表に - Game*Spark",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBXT1cwUlpSU0dxV0hubFp1M1hRcHJydmp4WlFrMkVqU3ZtN3JIbk1Bd1paVnQ1Y3JGOUNheGpwcWRqNDJJRnNnT2lfLXhVT1BfYVZBaDBpUmxmeERTckZQVGh4YU5Wdw?oc=5",
+      "source": "Game*Spark",
+      "published_at": "2025-07-02T07:00:00+00:00",
+      "summary": "KRAFTON、『Subnautica』シリーズ開発スタジオ経営陣の突然の変更発表―新任CEOは『Callisto Protocol』開発スタジオ代表に    Game*Spark"
+    },
+    {
+      "title": "「幻のドットゲーム」企画が20年越しに復活！？『メタスラ』開発者等豪華メンバー集うKOHACHI STUDIO6月12日の新作発表を告知 - Game*Spark",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5QQlFZb0c3NzBRcTBzNDRXLWdVVVQwS1dDM190cjNCYjJJT1NfQ194Q3JGME1Lak1tTnF3cWNfb01pNXJ6bWRZeHdUa1RiSWMzOEg1TG1jVy1jT2lGb21EX3JTXzVYdw?oc=5",
+      "source": "Game*Spark",
+      "published_at": "2025-06-10T07:00:00+00:00",
+      "summary": "「幻のドットゲーム」企画が20年越しに復活！？『メタスラ』開発者等豪華メンバー集うKOHACHI STUDIO6月12日の新作発表を告知    Game*Spark"
+    },
+    {
+      "title": "『ブループロトコル』を受け継ぐ『Blue Protocol: Star Resonance』、「海外向け」に正式発表。“MMORPG”として新生 - AUTOMATON",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOR2pBS2p0VTI3bkNoaUloY2JKeDRsa0VTVHlaV3V4Y2tuNlllcjFJcjUxYTROV0ZiTDQyUnloa0FVTUF2M1hxLTNhRmxPUHR4cS1KSkJZNGJYTW01X0xRMkRqRHRSOXAtVW5LZXhyVFI2clhOZlp5d1VaOUhVSTAwWXJ1Sl9vLVJmNUo5RFhsQ0dLU1E?oc=5",
+      "source": "AUTOMATON",
+      "published_at": "2025-05-16T07:00:00+00:00",
+      "summary": "『ブループロトコル』を受け継ぐ『Blue Protocol: Star Resonance』、「海外向け」に正式発表。“MMORPG”として新生    AUTOMATON"
+    },
+    {
+      "title": "『バルダーズ・ゲート3』開発元トップ、「2030年までには新作を発表したい」と宣言。“離婚の危機”を避けるべく - AUTOMATON",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQV3lXMzhoM2xkREs0ejFUcktrZVFfSGJraTh1UkN5UVh1cGhJRTFxQm1FQTVHd3pNcFY1anFIOEtoNUNQdmdibmxLRGRCWDlWRzBSWTJoOGJfc2hlZjFTZW1hT01qcW1FdEg4ZnN3MVM4X0Zfby1OUy0xZjVtWlZORTh0S1FNUW9Dbm9vMnlCdmRDeEpw?oc=5",
+      "source": "AUTOMATON",
+      "published_at": "2025-04-28T07:00:00+00:00",
+      "summary": "『バルダーズ・ゲート3』開発元トップ、「2030年までには新作を発表したい」と宣言。“離婚の危機”を避けるべく    AUTOMATON"
+    },
+    {
+      "title": "突如閉鎖されたMonolith Productionsの特許「ネメシスシステム」、2036年まで親会社ワーナーが保有予定との報道。ただしスタジオ閉鎖・新作開発中止で宙ぶらりんに - AUTOMATON",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPY1N6TUlSSVhmMGhnODZGNkJSRnluMG9qVzlWcjZTRjlQMkM5QnBDV3ZmNXo0Q3doTnhBTmkxdjZHelpuMDZIc3FuVG5ubVZYME1yRzVMYjlJeHhhZ1JzbGJLdW9sNU5sSHBpTC1ZUkhxb0cyRW45NEFGX2dDX05iQXp0U1F0T3c1Q0RJWExwOXB1WC1l?oc=5",
+      "source": "AUTOMATON",
+      "published_at": "2025-02-28T08:00:00+00:00",
+      "summary": "突如閉鎖されたMonolith Productionsの特許「ネメシスシステム」、2036年まで親会社ワーナーが保有予定との報道。ただしスタジオ閉鎖・新作開発中止で宙ぶらりんに    AUTOMATON"
+    },
+    {
+      "title": "オープンワールドファンタジーRPG『Edge of Memories』発表。JRPG大好き海外スタジオと日本人著名クリエイターたちが強力タッグ - AUTOMATON",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVWZkUGdmRDlfd1lwS2pnWkI0alZhRXlXdU5tRmo0MWJIS3VEb1BaY0hTTXYwTWNQVjBVSUpQMUhMV3FnLWxIaUh6eWZ2Zy05ZEcxdTFKSkxYUHFua0d0c1NPZGQxRGJ5NWtsa2x4eHhLSDNWLVg4T0lwb21ROW1GZWZPZw?oc=5",
+      "source": "AUTOMATON",
+      "published_at": "2025-02-26T08:00:00+00:00",
+      "summary": "オープンワールドファンタジーRPG『Edge of Memories』発表。JRPG大好き海外スタジオと日本人著名クリエイターたちが強力タッグ    AUTOMATON"
+    },
+    {
+      "title": "『キャッ党忍伝てやんでえ』新作ゲーム化発表。デザインは原作そっくりのセル風アニメ。オランダのゲームスタジオが開発中 - ファミ通",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9IM0JPNG9YUngwajJpbTQ2dEdhQUE0WkxnUmo4bnY1dkZORXhaU1NrMmJRX0U2T3k0Nk1wd0NPblhpYjJFYjF6NUpCLUUzUHdzTERVUGhDMA?oc=5",
+      "source": "ファミ通",
+      "published_at": "2025-02-21T08:00:00+00:00",
+      "summary": "『キャッ党忍伝てやんでえ』新作ゲーム化発表。デザインは原作そっくりのセル風アニメ。オランダのゲームスタジオが開発中    ファミ通"
+    },
+    {
+      "title": "デビュー作の開発中に経営状況悪化...Avalanche Studios共同創設者の新スタジオ従業員削減へ - Game*Spark",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBheGFoTHNxUVFHNk9Id01feHZkVkt4a3Fzek51SE85NHc4MFR0OThUdjQ1S0tRN3NoOE5kOFBpb0ZndXhlV2VLUEtpdlFpTEVGUm1lUXpYMWg5U3RSWWVFSDdaY0hydw?oc=5",
+      "source": "Game*Spark",
+      "published_at": "2025-02-18T08:00:00+00:00",
+      "summary": "デビュー作の開発中に経営状況悪化...Avalanche Studios共同創設者の新スタジオ従業員削減へ    Game*Spark"
+    },
+    {
+      "title": "PlayStation Studiosの新作ライブサービスゲーム2本が未発表のまま開発中止、SIEが認める。PS5版『Demon's Souls』開発元と『Days Gone』開発元が手がけるも、それぞれとん挫 - AUTOMATON",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNmZDMlZ4OHpWaEZLLTNGTVJLdUNqNExHaU5reGJxNEVrQm9fMG5WdVl6V05MVmdyMHU0OWlxckllZ1cxcWlfSDZzWDhFNVBEWXRzc2t3RXZLTGhHWktUYXZnLUVNbUJDUzdkREpNMGFTQzZEdzU5S1J1WE5kWU9RN2J6anhiaU5zUmYtUHpMSXFyanBaSy1vTA?oc=5",
+      "source": "AUTOMATON",
+      "published_at": "2025-01-21T08:00:00+00:00",
+      "summary": "PlayStation Studiosの新作ライブサービスゲーム2本が未発表のまま開発中止、SIEが認める。PS5版『Demon's Souls』開発元と『Days Gone』開発元が手がけるも、それぞれとん挫    AUTOMATON"
+    },
+    {
+      "title": "セガ、世界的人気ゲームソフト『Shinobi』映画の企画開発に関するお知らせ - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CenZJT0dxN2FVOU0xSkF5TEZiaXh1QU1WeFNpX2lZOVBEMkp5TjBpX2hpTmpoaVlTWWx2cTlFTzdHbEpMTDhoZUc0WnR0MExDQmlkd3NjSDl2ZVBoanR6NzFnQ01XZDZEQkE?oc=5",
+      "source": "PR TIMES",
+      "published_at": "2024-10-09T07:00:00+00:00",
+      "summary": "セガ、世界的人気ゲームソフト『Shinobi』映画の企画開発に関するお知らせ    PR TIMES"
+    },
+    {
+      "title": "大失敗ゾンビサバイバル『The Day Before』の開発スタジオがまさかの復活、資金集めを開始し海外ゲーマー驚愕 - EAA FPS",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE96NkhMU0c4YmtOTkNWdVplNGYwS21PbU5OU0Etb0cyblJEOEpRaHpQVUgtcFRZV1JnbnpaTDRtb1gzM1VWMGxwRg?oc=5",
+      "source": "EAA FPS",
+      "published_at": "2024-09-28T07:00:00+00:00",
+      "summary": "大失敗ゾンビサバイバル『The Day Before』の開発スタジオがまさかの復活、資金集めを開始し海外ゲーマー驚愕    EAA FPS"
+    },
+    {
+      "title": "スクエニ・吉田直樹氏が「クリエイティブスタジオ3」で開発中の新作タイトル2本を“もうすぐ発表できるかも”と海外メディアのインタビューで明かす―SNSでは『FF9』リメイクを望む声も - GameBusiness.jp",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE12V3NNOUNfb25lbHpiTVNCc2Y2bGJsMXFoZzV0el90MjJpNk9Sb0pDb29WOU5tcnBBLXRfUXA5UnRwenpWdzVlaXlxVExmM2hrSWs4NXRhc1dtNVIteHRzS0ZuN0d1Qkp5?oc=5",
+      "source": "GameBusiness.jp",
+      "published_at": "2024-06-07T07:00:00+00:00",
+      "summary": "スクエニ・吉田直樹氏が「クリエイティブスタジオ3」で開発中の新作タイトル2本を“もうすぐ発表できるかも”と海外メディアのインタビューで明かす―SNSでは『FF9』リメイクを望む声も    GameBusiness.jp"
+    },
+    {
+      "title": "スクエニ・吉田直樹氏が「クリエイティブスタジオ3」で開発中の新作タイトル2本を“もうすぐ発表できるかも”と海外メディアのインタビューで明かす―SNSでは『FF9』リメイクを望む声も 1枚目の写真・画像 - インサイド",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ZalF4ek1RLWY3LWdfM2ZMV3ptbkl4QlYxSTFQa2Jrei01WnkwU3hCMGg0LXdqZVNadDJLWjE5UlhhcnRSWWROSmFmaU9uTkN4QkRmb2tZLWpiMEJ1VkgtT0JOZHZ5eVg2S3FYX2pYQ2tMdFpNZkpQX2Zn?oc=5",
+      "source": "インサイド",
+      "published_at": "2024-06-07T07:00:00+00:00",
+      "summary": "スクエニ・吉田直樹氏が「クリエイティブスタジオ3」で開発中の新作タイトル2本を“もうすぐ発表できるかも”と海外メディアのインタビューで明かす―SNSでは『FF9』リメイクを望む声も 1枚目の写真・画像    インサイド"
+    },
+    {
+      "title": "お仕事パズルアクション『Good Job!』の開発元が閉鎖へ。会社の支出に見合った仕事を獲得できなかったとして - AUTOMATON",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5EMGpiVW9tVkVxcXU0WFJDeXFRcXA1N3pZRkpNN1A1Yi1teXYzeGtqZGNOeGh6azRDUmk4QTdhQzZIUE43cDIyMkZWRWlpZlJDSGQ2WG1jUTdGdXhTazJMSHNMcnQybHlYRGhxbA?oc=5",
+      "source": "AUTOMATON",
+      "published_at": "2024-05-06T07:00:00+00:00",
+      "summary": "お仕事パズルアクション『Good Job!』の開発元が閉鎖へ。会社の支出に見合った仕事を獲得できなかったとして    AUTOMATON"
+    },
+    {
+      "title": "ベテランゲーム開発者集うスタジオ、新作発表と同時に「開発中断」も発表。デモ版に“最後の望み”を託す - AUTOMATON",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5vbWVERDZvMHdOaWtZdW5RRHJNbzZubXdnVzc2azkyTzc2OTRjVlVwSWhUb212a193NmFfejgxMzRzY1Y1VzBNX1JoVXlwR25nY1drMnpMY0NZZXRjRU9Hd3cyNFJWWnpHemZsbw?oc=5",
+      "source": "AUTOMATON",
+      "published_at": "2024-04-24T07:00:00+00:00",
+      "summary": "ベテランゲーム開発者集うスタジオ、新作発表と同時に「開発中断」も発表。デモ版に“最後の望み”を託す    AUTOMATON"
+    },
+    {
+      "title": "いくつ知ってる？超巨大に成長したXbox Game Studiosの開発会社をおさらいしよう～マイクロソフト直下編～【特集】 - Game*Spark",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE44eXNKUHpvZUdNRl92d0FnVkNnQ2xJWW5NNERNRjNweU0xa05XYVhDaW1yTzY5X29Kb2lEQklybUpkemRtTTRjNTlmUFRPNlJaYzhXM1RLLVdoMm1RdFZnb3VqdjdpUQ?oc=5",
+      "source": "Game*Spark",
+      "published_at": "2024-04-21T07:00:00+00:00",
+      "summary": "いくつ知ってる？超巨大に成長したXbox Game Studiosの開発会社をおさらいしよう～マイクロソフト直下編～【特集】    Game*Spark"
+    },
+    {
+      "title": "『クレイジータクシー』新作は“AAAタイトル”として大規模開発中。海外向けインタビューでさらっと明かされる - AUTOMATON",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE42RmRnWXBKbHdPRHlvU0I5bTN6d1NCbWVMa3g3bVF2WHZoTkNpVnYydkZuQU9JdVZ0dVBfNm1xTVY0NFFpWlZDLUd1WTA4bHcxY0VDNDk2VFJGZ1FWX0VFOHVTM2N1anBqNXpyZg?oc=5",
+      "source": "AUTOMATON",
+      "published_at": "2024-02-20T08:00:00+00:00",
+      "summary": "『クレイジータクシー』新作は“AAAタイトル”として大規模開発中。海外向けインタビューでさらっと明かされる    AUTOMATON"
+    },
+    {
+      "title": "海外スタジオによる新作アクションJRPG「Lost Hellden」が2025年に発売！緒賀岳志氏と崎元仁氏も開発に参加 - Gamer",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAxaGJVNlhUeDIyODZCM0pRR2hXZmRsSTJyVERuOWVLU01lQkhtMzZOYmQ3R29zTXN5WkVnTHNjLXlLYkF1eEZkNG96X0U3bWNvNnBRMA?oc=5",
+      "source": "Gamer",
+      "published_at": "2024-02-09T08:00:00+00:00",
+      "summary": "海外スタジオによる新作アクションJRPG「Lost Hellden」が2025年に発売！緒賀岳志氏と崎元仁氏も開発に参加    Gamer"
+    },
+    {
+      "title": "サイバーパンクFPS『Deus Ex』シリーズ新作、開発中止との報道。開発元では約100名がレイオフ - AUTOMATON",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DYUNYVDJqWHNyNE5Obmd6Y3J5aC00WWdHVWN4LU05SjlJUFlQbGZfbXJXR1ZSek14RzdBZjl4YmlrSTktNklHUy1nNzFSX2pSMVdqNGJKTnI3Z083ZzY1S1FJNFAtYzQtd2pfaA?oc=5",
+      "source": "AUTOMATON",
+      "published_at": "2024-01-30T08:00:00+00:00",
+      "summary": "サイバーパンクFPS『Deus Ex』シリーズ新作、開発中止との報道。開発元では約100名がレイオフ    AUTOMATON"
+    },
+    {
+      "title": "新作ゲーム「The Day Before」をリリースしたのち速攻で開発元のゲームスタジオが閉鎖 - GIGAZINE",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBZaG5kSTBadWp4TnUweTlUWi01T2hTbHpmRkF1TW0xQ2s0QTFETko1S21RNHpiM3dBOEFYTklVN04tSVg2Ylo5TVFDRVBlRGJQTHNUMWtiUkxGN1BtSGYxdG1wanZ2aDYwbWx3TU1FWW9EQkljbXJpS3pR?oc=5",
+      "source": "GIGAZINE",
+      "published_at": "2023-12-12T08:00:00+00:00",
+      "summary": "新作ゲーム「The Day Before」をリリースしたのち速攻で開発元のゲームスタジオが閉鎖    GIGAZINE"
+    },
+    {
+      "title": "ダークメトロイドヴァニア『Venture to the Vile』発表。なんとアニプレックスと海外ベテランゲーム開発者チームがタッグ、“化け物”の旅路描く - AUTOMATON",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1PRldBS0w5ZVV0TFdNRkZMdVBJZUVkV0ZOOXZUUGRZWmVJZ3BEUDY1WWxMamtBblNOcTNjdHNiQWxsTlpVSjQtbmZycFBPQmFhU0ZsZVNZZllfaHUzYXI1TGRKWnBHQklubHJfeQ?oc=5",
+      "source": "AUTOMATON",
+      "published_at": "2023-05-09T07:00:00+00:00",
+      "summary": "ダークメトロイドヴァニア『Venture to the Vile』発表。なんとアニプレックスと海外ベテランゲーム開発者チームがタッグ、“化け物”の旅路描く    AUTOMATON"
+    },
+    {
+      "title": "「『アーマード・コア6』は、『アーマード・コア』の新作です」との開発陣回答に海外ユーザー混乱。一体どんなゲームなんだ - AUTOMATON",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1TNWJ6aUVNNVhUTGRCNklIR09TcUZTMnIzQ3ZlUkhDTnU2clAtelpQWDlRU3paUE5xNDd0VE9iTHJHeVBFTGxaLUF4anpnYXNZa0FMNFZrUXdReFZGajRlOFhTcHVOSk4zRm1OWA?oc=5",
+      "source": "AUTOMATON",
+      "published_at": "2022-12-13T08:00:00+00:00",
+      "summary": "「『アーマード・コア6』は、『アーマード・コア』の新作です」との開発陣回答に海外ユーザー混乱。一体どんなゲームなんだ    AUTOMATON"
+    },
+    {
+      "title": "「バットマン」の新作VRゲームが開発中？ 海外ジャーナリストが資料から発見 - Mogura VR",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBPazB0ckFnRXQ1ekcwNkNlZVNvQTN6Vnh2d1Y0bVBneG45bUdGR2lENEVscGQxejBqSHU5Z2Q4T1BFeUtvQWl6aWhtdHJCdzVSLTFjRmxISQ?oc=5",
+      "source": "Mogura VR",
+      "published_at": "2022-11-26T08:00:00+00:00",
+      "summary": "「バットマン」の新作VRゲームが開発中？ 海外ジャーナリストが資料から発見    Mogura VR"
+    },
+    {
+      "title": "新会社「集英社ゲームス」始動 新作タイトルも複数発表 集英社のノウハウ、人材も活用 - ITmedia",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NTjVNX1E0T2hyWXk2TUJkUW1YLU56M1ZoeFozNkhQOG5ieGJtejNuY3NsYUZRZlp5SUU3cC1KcjBzOHlrZmdFdkFlSDExTnBjOWJBbGFOVzJlWGZnZ0JtcXdfdF9TUkVOcDBfUw?oc=5",
+      "source": "ITmedia",
+      "published_at": "2022-03-31T07:00:00+00:00",
+      "summary": "新会社「集英社ゲームス」始動 新作タイトルも複数発表 集英社のノウハウ、人材も活用    ITmedia"
+    },
+    {
+      "title": "Netflixのゲーム進出が本格化。まずは海外で評価の高いミステリアスADV『OXENFREE』の開発スタジオを傘下に - ファミ通",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBVUTNhZ1ZOWUtyS0ZRbXpwNURma2tvTEVaaVgtdG5GRVY2QjVKMEo0ZEZRNnBOTEZRYjl3b2NqM044N0RlX01wckZZbUhTUjRpLXM4c3VWVFpuTmtVRVE?oc=5",
+      "source": "ファミ通",
+      "published_at": "2021-09-29T07:00:00+00:00",
+      "summary": "Netflixのゲーム進出が本格化。まずは海外で評価の高いミステリアスADV『OXENFREE』の開発スタジオを傘下に    ファミ通"
+    },
+    {
+      "title": "格闘ゲーム『Virtua Fighter 5 Ultimate Showdown』海外PS4向けに発表。龍が如くスタジオが開発に参加し、グラフィックもパワーアップ - AUTOMATON",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE04cXpORnhnSzM4WE9ZWW03dURtbnExeFd0eFRqRGZIRmQ0d1VGTFFWNVFXZ1Vic1lhOVM2Q3dYNXoyellVdGttTHpEWkN1TXFsR0N3MUYwRnlBVmVMN2J6VUgtUnhnTHY1NFE2NA?oc=5",
+      "source": "AUTOMATON",
+      "published_at": "2021-05-25T07:00:00+00:00",
+      "summary": "格闘ゲーム『Virtua Fighter 5 Ultimate Showdown』海外PS4向けに発表。龍が如くスタジオが開発に参加し、グラフィックもパワーアップ    AUTOMATON"
+    },
+    {
+      "title": "『バトルフィールド』シリーズ新作の開発には、EA傘下スタジオが独自タイトルを後回しにして結集。EAが明かす - AUTOMATON",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5KZktneTZDaTV6d2hpV0xQTzZVWnZIeE4yWnRuY2xZaGtoY2ZQQUVOMDZFTWhERFZKRXA4eWFrR0pGcHFoWl9taGVQSEMteXA4TGR3dmM0MEtzR0ZPWmwwN0MyMGMteE82clZKTA?oc=5",
+      "source": "AUTOMATON",
+      "published_at": "2021-03-02T08:00:00+00:00",
+      "summary": "『バトルフィールド』シリーズ新作の開発には、EA傘下スタジオが独自タイトルを後回しにして結集。EAが明かす    AUTOMATON"
+    },
+    {
+      "title": "スピード感溢れる宇宙ドッグファイトSTG『Redout: Space Assault』来年1月22日リリースへ。反重力レースゲーム『Redout』開発元による新作 - AUTOMATON",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE81ak1lVUVPUkQtaUFwbGhLdnpSNnJDdGlUdFFVbFVsSG5KM0VIaVdPenVTSkVCT0hoSWtEVGxnR3pTQmNtS2UyUjJBRHpxdVlVSGdIVFlHUVM1MlBCVzVZRDlnMkRHRXZEZmV2Qg?oc=5",
+      "source": "AUTOMATON",
+      "published_at": "2020-12-17T08:00:00+00:00",
+      "summary": "スピード感溢れる宇宙ドッグファイトSTG『Redout: Space Assault』来年1月22日リリースへ。反重力レースゲーム『Redout』開発元による新作    AUTOMATON"
+    },
+    {
+      "title": "ヴァンパイア・バトルロイヤルゲームが、テンセント傘下スタジオで開発中。「Vampire: The Masquerade」IP作品 - AUTOMATON",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBRZnlFaXNqeHhiWENQcENCTHBsa0NQeEZkZEdRMkVJQTBmUy1vSTBBY195NWlrRGxMcWo5VmFsdnUyT3ppcnZ3bTRRWkd0MUlZaEdLc3NQSjV2amV3UVlmaHZSa1I0ZHBlV0pfZA?oc=5",
+      "source": "AUTOMATON",
+      "published_at": "2020-11-02T08:00:00+00:00",
+      "summary": "ヴァンパイア・バトルロイヤルゲームが、テンセント傘下スタジオで開発中。「Vampire: The Masquerade」IP作品    AUTOMATON"
+    },
+    {
+      "title": "高精細な2Dドット絵で描かれる新作RPG『Sea of Stars』正式発表、海外で大きな注目集める。『The Messenger』開発スタジオの最新作 - 電ファミニコゲーマー",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE94cFNtN0lHWUtwd2MxNjhJWnRocGozZXM0Ql9jbHlRQVZUUlBBWGtuMXk2czU3STJGVlA5ampDZ1B3XzBfbDduUy0wQ242UF9vaW5zQWhBckY?oc=5",
+      "source": "電ファミニコゲーマー",
+      "published_at": "2020-03-20T07:00:00+00:00",
+      "summary": "高精細な2Dドット絵で描かれる新作RPG『Sea of Stars』正式発表、海外で大きな注目集める。『The Messenger』開発スタジオの最新作    電ファミニコゲーマー"
+    },
+    {
+      "title": "株式会社ポケモンが新作ゲームを中国のTencentと共同開発と発表される - GIGAZINE",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0wUzB1ZEpqZ1NLQl9QTWgwNEhmNTAwNTNTaGU2dkJPS1RudEZuNkY5bk1TYzdqcVBwem5CaUNyUm9nLWpXZzRoVVZmSUdSdnhBblhEOVRmdXVzUDBBUWJpNUFpdWhaVkVISk1j?oc=5",
+      "source": "GIGAZINE",
+      "published_at": "2019-07-23T07:00:00+00:00",
+      "summary": "株式会社ポケモンが新作ゲームを中国のTencentと共同開発と発表される    GIGAZINE"
+    },
+    {
+      "title": "『Dead by Daylight』開発スタジオの残業時間はわずか0.25％。『Cyberpunk 2077』開発元は「より人道的な働き方」を目指すなど、労働問題への自発的言及続く - AUTOMATON",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1zdEFqbnJIS2U1Q2EtOWNLZlRHM0VlM2ZuYzdYSFRLREV3N09PeUVTOWJaN241YTJlVm90UFFGUGxjb01wZlp3czVkRENpNktDYkVUT2ZxU2dZMEsxZ1FFeV9FTHl6TTdoaVpr?oc=5",
+      "source": "AUTOMATON",
+      "published_at": "2019-05-28T07:00:00+00:00",
+      "summary": "『Dead by Daylight』開発スタジオの残業時間はわずか0.25％。『Cyberpunk 2077』開発元は「より人道的な働き方」を目指すなど、労働問題への自発的言及続く    AUTOMATON"
+    },
+    {
+      "title": "『デッドライジング』シリーズ新作を手がけていたカプコンのバンクーバースタジオが閉鎖に。主要タイトル開発を日本に集中させるため - AUTOMATON",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBCSm1nWlA5ell4Q01TUXRocTJ4MUpQY090LW15dnk5N3NVWUhXVVhhWWpweWZqcFRBRGdPbUVGVkRxRFE5TmRmV0lTb0xtU3RfSi1ZaXI1ZmctSk1TNTFKUU9WZ2hkelhNaGtB?oc=5",
+      "source": "AUTOMATON",
+      "published_at": "2018-09-19T07:00:00+00:00",
+      "summary": "『デッドライジング』シリーズ新作を手がけていたカプコンのバンクーバースタジオが閉鎖に。主要タイトル開発を日本に集中させるため    AUTOMATON"
+    },
+    {
+      "title": "バーンアウト元開発者によるクラッシュモード風ゲーム続編『Danger Zone 2』発表、7月発売へ。大クラッシュ必至の新作レースゲームも開発中 - AUTOMATON",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4tWl9wNUZrOTBtNmJmbHVqN3lENFhHb0c0STdnbVhGeURVSXhmN3FUQW5FSkU0UjVkQTdsczZjSVJ6c01DSGtoLTRGMWRqTFY2TmZRQlhBMDdCRkVOdlQzMW9ESE5iNFUtelBn?oc=5",
+      "source": "AUTOMATON",
+      "published_at": "2018-06-22T07:00:00+00:00",
+      "summary": "バーンアウト元開発者によるクラッシュモード風ゲーム続編『Danger Zone 2』発表、7月発売へ。大クラッシュ必至の新作レースゲームも開発中    AUTOMATON"
+    },
+    {
+      "title": "メトロイドWiiU新作を作っていたと言われる海外スタジオ、PS4、Xbox One「Raiders of the Broken Planet」をNXでもリリースの噂 - ゲームメモ",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5SS21ZYWRSeEhxTmNRYjVoVHBDcGNZT2hPX1BfV0IybkdfdHdnaHh5alNrdXY3cWZHRGdvQzZiVmxGOGVySHJ5YlNrS3hsNTdvSlFKb1pjUkNpMFpXVFI5aTdCVUNBbG12ZERSc2Rn0gF2QVVfeXFMUG0wUDZneFJTRTVHbjg0S1VoWkVXZF96bVVQdlhweW5iQW5UXzZYVHptU2QxTVpDQnRqdFBUT2xNTVBhZjJmTjJRMGt4OFE2UFdYME9YU0Jva0tUanFVck1iajRnR3NnV1lGdlhPem85NEx5VUxHdw?oc=5",
+      "source": "ゲームメモ",
+      "published_at": "2016-04-18T07:00:00+00:00",
+      "summary": "メトロイドWiiU新作を作っていたと言われる海外スタジオ、PS4、Xbox One「Raiders of the Broken Planet」をNXでもリリースの噂    ゲームメモ"
+    },
+    {
+      "title": "パズルエロゲー開発元が贈る新作『HunieCam Studio』は、えっちな配信で一攫千金を目指すライブチャットガールシミュレーター - AUTOMATON",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLUFfQk96RFFlWGdIaXpmelotUzBMS0tOQmEzVllmZzBvTjN2eUNQVENGYzhHN2RtTnJrdXRXSUowRFJORkRwSTBUWUR5OER0WmpBWDQ1SjNrSWxtYllUT3N4OHg0NmVQVWc1Z1hVQ2kxb3JXdXI4VWRTcU82eUhKRHhaSGRnMnozMGRzWlJyOUtkSlUyRm1OeDc1VXI2MmJ3VG5mWTE4YUZhbm1WX240VHJR?oc=5",
+      "source": "AUTOMATON",
+      "published_at": "2015-08-17T07:00:00+00:00",
+      "summary": "パズルエロゲー開発元が贈る新作『HunieCam Studio』は、えっちな配信で一攫千金を目指すライブチャットガールシミュレーター    AUTOMATON"
+    },
+    {
+      "title": "熱狂的ファンがゲーム開発スタジオに忍び込み未発表の新作をリークする、『Warframe』Digital Extremesが被害に - AUTOMATON",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdENvVnpnSVFzeXFhQTVpM3RXVmxLS3dzZmxBV3AxSTVsTll1cTdlaDUwd3R3SFd3SGdBZ3VfWE9pcWlNLWpuNU9QbmhDbEdYRl9henNOdENrMlNDTk9GWHJoeW9INC0wR045VXdSLTBLU0N4cTlMbGc2Nm10R09HZ091T0E?oc=5",
+      "source": "AUTOMATON",
+      "published_at": "2015-07-03T07:00:00+00:00",
+      "summary": "熱狂的ファンがゲーム開発スタジオに忍び込み未発表の新作をリークする、『Warframe』Digital Extremesが被害に    AUTOMATON"
+    }
+  ]
+}

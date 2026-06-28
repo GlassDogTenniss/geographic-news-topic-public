@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "properties": {
+    "created_at": "2026-06-28T16:32:08.618584+00:00",
+    "count": 0,
+    "stats": {
+      "feed_id": "mobilegamer-biz-global",
+      "feed_label": "MobileGamer.biz: Mobile games",
+      "rss_url": "https://mobilegamer.biz/feed/",
+      "fetched": 10,
+      "filtered": 10,
+      "resolved": 0,
+      "unresolved": 10,
+      "rules": 9,
+      "known_places": 11,
+      "loaded_data_files": [
+        "data/place_rules.json",
+        "data/unresolved_known_places_12.json"
+      ],
+      "topic_keywords": [
+        "mobile",
+        "game",
+        "games",
+        "studio",
+        "developer",
+        "publisher",
+        "market",
+        "launch",
+        "revenue"
+      ],
+      "exclude_keywords": []
+    }
+  },
+  "features": []
+}

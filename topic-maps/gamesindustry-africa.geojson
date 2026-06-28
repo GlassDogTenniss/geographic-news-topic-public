@@ -1,0 +1,36 @@
+{
+  "type": "FeatureCollection",
+  "properties": {
+    "created_at": "2026-06-28T16:32:08.618584+00:00",
+    "count": 0,
+    "stats": {
+      "feed_id": "gamesindustry-africa",
+      "feed_label": "Games Industry Africa",
+      "rss_url": "https://gamesindustryafrica.com/feed/",
+      "fetched": 10,
+      "filtered": 10,
+      "resolved": 0,
+      "unresolved": 10,
+      "rules": 9,
+      "known_places": 11,
+      "loaded_data_files": [
+        "data/place_rules.json",
+        "data/unresolved_known_places_12.json"
+      ],
+      "topic_keywords": [
+        "game",
+        "games",
+        "gaming",
+        "Africa",
+        "studio",
+        "developer",
+        "publisher",
+        "esports",
+        "mobile",
+        "market"
+      ],
+      "exclude_keywords": []
+    }
+  },
+  "features": []
+}

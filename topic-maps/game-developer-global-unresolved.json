@@ -1,0 +1,385 @@
+{
+  "ok": true,
+  "created_at": "2026-06-28T16:32:08.618584+00:00",
+  "stats": {
+    "feed_id": "game-developer-global",
+    "feed_label": "Game Developer: Global",
+    "rss_url": "https://www.gamedeveloper.com/rss.xml",
+    "fetched": 50,
+    "filtered": 50,
+    "resolved": 0,
+    "unresolved": 50,
+    "rules": 9,
+    "known_places": 11,
+    "loaded_data_files": [
+      "data/place_rules.json",
+      "data/unresolved_known_places_12.json"
+    ],
+    "topic_keywords": [
+      "game",
+      "games",
+      "developer",
+      "development",
+      "studio",
+      "publisher",
+      "industry",
+      "indie",
+      "mobile",
+      "console",
+      "PC"
+    ],
+    "exclude_keywords": []
+  },
+  "unresolved": [
+    {
+      "title": "Inside Skybound's video game strategy ft. David 'DA' Alpert and Jon Goldman",
+      "link": "https://www.gamedeveloper.com/business/analysts-attempt-to-make-sense-of-xbox-s-exclusivity-mindset-shift",
+      "source": "gamedeveloper",
+      "published_at": "2026-06-26T14:15:00+00:00",
+      "summary": "Skybound Entertainment CEO David 'DA' Alpert and co-chairman Jon Goldman discuss the company's future video game strategy following the successful release of Quarter Up's Invisible VS."
+    },
+    {
+      "title": "Keywords has laid off 128 employees in San Francisco",
+      "link": "https://www.gamedeveloper.com/business/keywords-has-laid-off-128-employees-in-san-francisco",
+      "source": "gamedeveloper",
+      "published_at": "2026-06-26T12:04:51+00:00",
+      "summary": "It's currently unclear what roles or departments have been impacted."
+    },
+    {
+      "title": "Steam Machine sticker shock, even more Ubisoft layoffs, and another Xbox price hike - Patch Notes #58",
+      "link": "https://www.gamedeveloper.com/business/steam-machine-sticker-shock-even-more-ubisoft-layoffs-and-another-xbox-price-hike-patch-notes-58",
+      "source": "gamedeveloper",
+      "published_at": "2026-06-26T10:57:22+00:00",
+      "summary": "Plus: Tencent reconsiders Japanese investments and the Nex Playground launches in the UK and Ireland."
+    },
+    {
+      "title": "Meccha Chameleon sells 7M copies in first two weeks",
+      "link": "https://www.gamedeveloper.com/business/meccha-chameleon-sells-7m-copies-in-first-two-weeks",
+      "source": "gamedeveloper",
+      "published_at": "2026-06-25T19:00:00+00:00",
+      "summary": "The hide-and-seek game is the latest multiplayer sensation."
+    },
+    {
+      "title": "VR dev Combat Waffle Studios lays off staff",
+      "link": "https://www.gamedeveloper.com/business/vr-dev-combat-waffle-studios-lays-off-staff",
+      "source": "gamedeveloper",
+      "published_at": "2026-06-25T18:10:00+00:00",
+      "summary": "The team behind Ghosts of Tabor 'remains confident' in the future of VR."
+    },
+    {
+      "title": "Microsoft raises price of Xbox consoles once again, sunsets 2TB model",
+      "link": "https://www.gamedeveloper.com/console/microsoft-raises-price-of-xbox-consoles-once-again-sunsets-2tb-model",
+      "source": "gamedeveloper",
+      "published_at": "2026-06-25T17:05:50+00:00",
+      "summary": "The cheapest Xbox console will now cost $499.99."
+    },
+    {
+      "title": "Update: At least 292 Bungie employees are being laid off by Sony",
+      "link": "https://www.gamedeveloper.com/business/sony-is-laying-off-most-of-the-destiny-team-and-some-marathon-devs",
+      "source": "gamedeveloper",
+      "published_at": "2026-06-25T15:17:18+00:00",
+      "summary": "Sony is also making reductions across SIE teams that support Bungie's operations."
+    },
+    {
+      "title": "Italian studio 34BigThings regains independence from Embracer",
+      "link": "https://www.gamedeveloper.com/business/italian-studio-34bigthings-regains-independence-from-embracer",
+      "source": "gamedeveloper",
+      "published_at": "2026-06-25T10:58:38+00:00",
+      "summary": "'Returning to full independence gives us absolute autonomy.'"
+    },
+    {
+      "title": "Magic: The Gathering Arena developers have successfully unionized",
+      "link": "https://www.gamedeveloper.com/business/magic-the-gathering-arena-unionize-despite-allegations-of-interference",
+      "source": "gamedeveloper",
+      "published_at": "2026-06-25T10:12:57+00:00",
+      "summary": "'Our dream is finally a reality.'"
+    },
+    {
+      "title": "Analysts attempt to make sense of Xbox's latest exclusivity pivot",
+      "link": "https://www.gamedeveloper.com/business/analysts-attempt-to-make-sense-of-xbox-s-exclusivity-mindset-shift",
+      "source": "gamedeveloper",
+      "published_at": "2026-06-25T09:04:12+00:00",
+      "summary": "'It's remarkable for how long Microsoft let many of its leading brands languish.'"
+    },
+    {
+      "title": "Tim Sweeney says only hope for new games is to 'connect to economies of other games'",
+      "link": "https://www.gamedeveloper.com/business/tim-sweeney-says-only-hope-for-new-games-is-to-connect-to-economies-of-other-games-",
+      "source": "gamedeveloper",
+      "published_at": "2026-06-24T20:30:11+00:00",
+      "summary": "To be successful, you must connect your game economies, says Epic Games CEO Tim Sweeney."
+    },
+    {
+      "title": "Former Xbox employees warn of potential for retaliation in rumored impending layoffs",
+      "link": "https://www.gamedeveloper.com/business/former-xbox-employees-warn-of-potential-for-retaliation-in-rumored-impending-layoffs",
+      "source": "gamedeveloper",
+      "published_at": "2026-06-24T20:27:45+00:00",
+      "summary": "Past employees believe their layoffs were retaliatory and caution devs to protect themselves as mass layoffs loom."
+    },
+    {
+      "title": "Investment house Denmu announces 'auteur-first' $50 million fund for game devs",
+      "link": "https://www.gamedeveloper.com/business/investment-house-denmu-announces-auteur-first-50-million-fund-for-game-devs",
+      "source": "gamedeveloper",
+      "published_at": "2026-06-24T16:00:00+00:00",
+      "summary": "Denmu's definition of \"auteur\" goes beyond individual creators."
+    },
+    {
+      "title": "New publisher Trailmark Games promises 'new path forward' for licensed games",
+      "link": "https://www.gamedeveloper.com/business/new-publisher-trailmark-games-promises-new-path-forward-for-licensed-games",
+      "source": "gamedeveloper",
+      "published_at": "2026-06-24T15:48:29+00:00",
+      "summary": "The makers Nickelodeon All-Star Brawl have founded a licensed game publisher."
+    },
+    {
+      "title": "Grand Theft Auto 6's $80 price settles the $100 question",
+      "link": "https://www.gamedeveloper.com/console/grand-theft-auto-6-s-80-price-settles-the-100-question",
+      "source": "gamedeveloper",
+      "published_at": "2026-06-24T14:34:37+00:00",
+      "summary": "Pre-orders for the game open Thursday."
+    },
+    {
+      "title": "Atari and MobyGames launch new career development platform called Moby Professional",
+      "link": "https://www.gamedeveloper.com/business/atari-and-mobygames-launch-new-career-development-platform-called-moby-professional",
+      "source": "gamedeveloper",
+      "published_at": "2026-06-24T08:00:00+00:00",
+      "summary": "MobyGames wants to help you land your next job."
+    },
+    {
+      "title": "How a 12 year wait made Alien Isolation 2 a better sequel",
+      "link": "https://www.gamedeveloper.com/design/how-a-12-year-wait-made-alien-isolation-2-a-better-sequel",
+      "source": "gamedeveloper",
+      "published_at": "2026-06-23T14:40:48+00:00",
+      "summary": "We sat down with creative director Al Hope and animation director Simon Ridge to talk about Creative Assembly's big return to survival horror and the Alien franchise."
+    },
+    {
+      "title": "Report: Tencent mulling exits from multiple Japanese studios",
+      "link": "https://www.gamedeveloper.com/business/report-tencent-mulling-exits-from-multiple-japanese-studios",
+      "source": "gamedeveloper",
+      "published_at": "2026-06-23T13:22:22+00:00",
+      "summary": "The company went on an investment spree in Japan at the turn of the decade but is now purportedly keen to refocus its portfolio around UGC platforms."
+    },
+    {
+      "title": "Valve is making it easier to build your own Steam Machine",
+      "link": "https://www.gamedeveloper.com/business/valve-is-making-it-easier-to-build-your-own-steam-machine",
+      "source": "gamedeveloper",
+      "published_at": "2026-06-23T10:29:07+00:00",
+      "summary": "No reservation? No problem."
+    },
+    {
+      "title": "Steam Machine pricing starts at $1,049 for 512GB model",
+      "link": "https://www.gamedeveloper.com/pc/steam-machine-pricing-starts-at-1-049-for-512gb-model",
+      "source": "gamedeveloper",
+      "published_at": "2026-06-22T20:07:34+00:00",
+      "summary": "The Steam Machine price tag has soared past $1,000 (though not by much)."
+    },
+    {
+      "title": "Report: EA conducts layoffs in Hyderabad, India and the US",
+      "link": "https://www.gamedeveloper.com/business/report-ea-conducts-layoffs-in-hyderabad-india-and-the-us",
+      "source": "gamedeveloper",
+      "published_at": "2026-06-22T18:05:56+00:00",
+      "summary": "The latest round of layoffs reportedly impacts workers across the 'recruitment, customer support, trust and safety, and IT teams.'"
+    },
+    {
+      "title": "Ubisoft eliminates 93 roles in San Francisco",
+      "link": "https://www.gamedeveloper.com/business/ubisoft-eliminates-93-roles-in-san-francisco",
+      "source": "gamedeveloper",
+      "published_at": "2026-06-22T17:38:03+00:00",
+      "summary": "A California WARN notice shows 93 roles impacted."
+    },
+    {
+      "title": "Godot confirms it tolerates 'some AI assistance' but rejects 'vibe coded' tag",
+      "link": "https://www.gamedeveloper.com/business/godot-confirms-it-tolerates-some-ai-assistance-but-rejects-vibe-coded-accusations",
+      "source": "gamedeveloper",
+      "published_at": "2026-06-22T15:35:26+00:00",
+      "summary": "'Any slop PR is automatically rejected, as simple as that.'"
+    },
+    {
+      "title": "French union STJV to commence national strike outside Quantic Dream",
+      "link": "https://www.gamedeveloper.com/business/french-union-stjv-to-commence-national-strike-outside-quantic-dream",
+      "source": "gamedeveloper",
+      "published_at": "2026-06-22T14:49:33+00:00",
+      "summary": "The strike will begin in Paris later this week in protest of ongoing layoffs and instability."
+    },
+    {
+      "title": "'Larger budgets and longer schedules do not lead to better games:' Thank You For Your Application recoups dev costs in 22 hours",
+      "link": "https://www.gamedeveloper.com/business/-larger-budgets-and-longer-schedules-do-not-lead-to-better-games-thank-you-for-your-application-recoups-dev-costs-in-22-hours",
+      "source": "gamedeveloper",
+      "published_at": "2026-06-22T10:54:50+00:00",
+      "summary": "The indie title was made by a team fresh out of university."
+    },
+    {
+      "title": "Obituary: Ubisoft co-founder Claude Guillemot dies in plane crash",
+      "link": "https://www.gamedeveloper.com/business/obituary-ubisoft-co-founder-claude-guillemot-killed-in-plane-crash",
+      "source": "gamedeveloper",
+      "published_at": "2026-06-22T09:32:02+00:00",
+      "summary": "Guillemot established the influential French publisher in 1986 alongside his brothers."
+    },
+    {
+      "title": "Kabam consolidating LA office and making layoffs",
+      "link": "https://www.gamedeveloper.com/business/kabam-making-layoffs-after-choosing-to-consolidate-la-office",
+      "source": "gamedeveloper",
+      "published_at": "2026-06-19T15:24:51+00:00",
+      "summary": "It's unclear how many roles have been eliminated at the Marvel Contest of Champions developer."
+    },
+    {
+      "title": "Report: Former Xbox president Sarah Bond and Take-Two CEO Strauss Zelnick linked to Peter Thiel's secret society",
+      "link": "https://www.gamedeveloper.com/business/report-former-xbox-president-sarah-bond-and-take-two-ceo-strauss-zelnick-involved-in-peter-thiel-backed-secret-society",
+      "source": "gamedeveloper",
+      "published_at": "2026-06-19T14:09:13+00:00",
+      "summary": "A series of leaks have tied multiple current and former video game industry execs to the controversial billionaire's invite-only 'Dialog' conference."
+    },
+    {
+      "title": "Rockstar's legal setback, Final Fantasy tax incentives, and PlayStation swaps 'PC' for 'AI' - Patch Notes #57",
+      "link": "https://www.gamedeveloper.com/business/rockstar-s-legal-setback-final-fantasy-tax-incentives-and-playstation-swaps-pc-for-ai-patch-notes-57",
+      "source": "gamedeveloper",
+      "published_at": "2026-06-19T10:43:12+00:00",
+      "summary": "Plus: Don't Nod is fighting for survival and Firezide Chat introduces you to the people behind the games."
+    },
+    {
+      "title": "'A new industry with a new identity:' How Canadian devs are faring in 2026",
+      "link": "https://www.gamedeveloper.com/business/-a-new-industry-with-a-new-identity-how-canadian-devs-are-faring-in-2026",
+      "source": "gamedeveloper",
+      "published_at": "2026-06-18T17:59:13+00:00",
+      "summary": "We spoke to developers at Toronto Canada's XP Game Summit to see how they are getting by in increasingly tumultuous times."
+    },
+    {
+      "title": "Pocketpair lead on generative AI: Gamers don't want it",
+      "link": "https://www.gamedeveloper.com/business/palworld-lead-on-genai-gamers-don-t-want-it",
+      "source": "gamedeveloper",
+      "published_at": "2026-06-18T15:46:44+00:00",
+      "summary": "Pocketpair communications director and publishing manager John Buckley doesn't see genAI ever becoming too prominent."
+    },
+    {
+      "title": "Vampire Survivors dev 'reviewing' Fortnite collab after Epic's AI announcement",
+      "link": "https://www.gamedeveloper.com/business/vampire-survivors-dev-reviewing-fortnite-collab-after-ai-usage-news",
+      "source": "gamedeveloper",
+      "published_at": "2026-06-18T14:44:30+00:00",
+      "summary": "Poncle voiced its doubts mere hours after the collaboration's announcement."
+    },
+    {
+      "title": "Don't Nod pursuing 'several levers' to secure financial future after Tencent decides against short-term investment",
+      "link": "https://www.gamedeveloper.com/business/don-t-nod-pursuing-several-levers-to-secure-financial-future-after-tencent-decides-against-short-term-investment",
+      "source": "gamedeveloper",
+      "published_at": "2026-06-17T19:12:04+00:00",
+      "summary": "'While Tencent has decided not to make an additional investment in the studio in the short term, it continues to be a long-term shareholder of the company.'"
+    },
+    {
+      "title": "Unreal Engine 6 will merge UE5 and UEFN into 'a single, unified engine'",
+      "link": "https://www.gamedeveloper.com/programming/unreal-engine-6-will-merge-ue5-and-uefn-into-a-single-unified-engine-",
+      "source": "gamedeveloper",
+      "published_at": "2026-06-17T18:44:50+00:00",
+      "summary": "Major changes to Unreal Engine include a change of programming model, tools for cross-game interoperability, and genAI pipeline features."
+    },
+    {
+      "title": "OtherSide Entertainment lays off 17 staff following game cancellation",
+      "link": "https://www.gamedeveloper.com/business/otherside-entertainment-lays-off-17-staff-following-game-cancellation",
+      "source": "gamedeveloper",
+      "published_at": "2026-06-17T18:06:20+00:00",
+      "summary": "OtherSide says the current challenging video game landscape rendered codenamed project Argos 'unviable for now.'"
+    },
+    {
+      "title": "Report: Xbox was set on splitting with Ninja Theory when unveiling its new project",
+      "link": "https://www.gamedeveloper.com/business/report-xbox-was-set-on-splitting-with-ninja-theory-when-showing-its-new-project",
+      "source": "gamedeveloper",
+      "published_at": "2026-06-17T15:34:55+00:00",
+      "summary": "Microsoft reportedly had already planned to sunset or split with Ninja Theory while presenting Senua during the latest showcase."
+    },
+    {
+      "title": "Returnal director will be 'responsibly ambitious' to ensure his new studio prospers",
+      "link": "https://www.gamedeveloper.com/production/-the-game-is-the-boss-returnal-director-harry-krueger-wants-his-new-studio-to-live-forever",
+      "source": "gamedeveloper",
+      "published_at": "2026-06-17T14:29:05+00:00",
+      "summary": "The Housemarque veteran explains how he intends to break new ground while remaining 'lean and mean'—and yes, that might involve the use of generative AI."
+    },
+    {
+      "title": "Rockstar suffers legal blow in union busting dispute as trial date set",
+      "link": "https://www.gamedeveloper.com/business/rockstar-suffers-legal-blow-in-union-busting-dispute-as-trial-date-set",
+      "source": "gamedeveloper",
+      "published_at": "2026-06-17T13:30:38+00:00",
+      "summary": "The decision means fired union workers will be able to bring blacklisting claims against the studio at trial later this year."
+    },
+    {
+      "title": "Resource management? Survival games are about time management.",
+      "link": "https://www.gamedeveloper.com/design/resource-management-survival-games-are-about-time-management-",
+      "source": "gamedeveloper",
+      "published_at": "2026-06-17T13:00:00+00:00",
+      "summary": "'The moment to moment gameplay… none of that matters. That's the smoke and mirrors,' says Pacific Drive director Seth Rosen"
+    },
+    {
+      "title": "Luna Abyss development team laid off by Kwalee",
+      "link": "https://www.gamedeveloper.com/business/luna-abyss-development-team-laid-off-by-kwalee",
+      "source": "gamedeveloper",
+      "published_at": "2026-06-17T09:56:46+00:00",
+      "summary": "The UK publisher has made the entire development team redundant just weeks after the acclaimed shooter hit shelves."
+    },
+    {
+      "title": "EU Commission to 'engage with the industry' over Stop Killing Games initiative",
+      "link": "https://www.gamedeveloper.com/business/eu-commission-to-engage-with-the-industry-over-stop-killing-games-initiative",
+      "source": "gamedeveloper",
+      "published_at": "2026-06-16T16:17:05+00:00",
+      "summary": "At this stage, the Commission can't propose a legal obligation to keep video games playable after they stop being provided commercially."
+    },
+    {
+      "title": "Analyzing Mouse: P.I. For Hire's audacious worldbuilding - Narrative Notebook #4",
+      "link": "https://www.gamedeveloper.com/design/analyzing-mouse-p-i-for-hire-s-audacious-worldbuilding-narrative-notebook",
+      "source": "gamedeveloper",
+      "published_at": "2026-06-16T14:08:07+00:00",
+      "summary": "Fumi Games' Mouse: P.I. For Hire is more than a Steamboat Willy parody—but does its worldbuilding always stick the landing?"
+    },
+    {
+      "title": "Treyarch studio head steps down after 22 years",
+      "link": "https://www.gamedeveloper.com/business/treyarch-studio-head-steps-down-after-22-years",
+      "source": "gamedeveloper",
+      "published_at": "2026-06-16T14:05:00+00:00",
+      "summary": "Two new co-studio heads will take over for Mark Gordon."
+    },
+    {
+      "title": "Banned horror title Horses begins recouping development costs after selling 30,000 copies",
+      "link": "https://www.gamedeveloper.com/business/horses-begins-recouping-development-costs-after-selling-30-000-copies",
+      "source": "gamedeveloper",
+      "published_at": "2026-06-16T13:18:12+00:00",
+      "summary": "Santa Ragione has earned $8,000 from those sales after paying back the title's private investors and director Andrea Lucco Borlera."
+    },
+    {
+      "title": "UK social media ban will restrict 'high-risk' features on game platforms",
+      "link": "https://www.gamedeveloper.com/business/uk-social-media-ban-will-restrict-high-risk-features-on-game-platforms",
+      "source": "gamedeveloper",
+      "published_at": "2026-06-16T11:16:26+00:00",
+      "summary": "Platforms that offer communications and livestreaming functionality will be impacted by the new legislation."
+    },
+    {
+      "title": "Report: Multiple Xbox game studio heads negotiating with Xbox to avoid closure",
+      "link": "https://www.gamedeveloper.com/business/report-compulsion-games-leadership-in-negotiations-with-xbox-potential-studio-closure",
+      "source": "gamedeveloper",
+      "published_at": "2026-06-15T20:16:23+00:00",
+      "summary": "Update: Xbox's strategic reset appears to involve shutting down or divesting less-profitable studios."
+    },
+    {
+      "title": "EA announces advertising platform to launch ads 'directly into gameplay'",
+      "link": "https://www.gamedeveloper.com/marketing/ea-announces-advertising-platform-to-launch-ads-directly-into-gameplay-",
+      "source": "gamedeveloper",
+      "published_at": "2026-06-15T19:05:16+00:00",
+      "summary": "The new EA Advertising platform is launching with partnerships from Visa, Red Bull, Xfinity, Lowe's, Peacock, and Mountain Dew."
+    },
+    {
+      "title": "Report: Two former Rare execs are leaving Xbox",
+      "link": "https://www.gamedeveloper.com/business/report-two-former-rare-execs-are-leaving-xbox",
+      "source": "gamedeveloper",
+      "published_at": "2026-06-15T16:59:02+00:00",
+      "summary": "Head of Xbox Game Studios Craig Duncan and Xbox Game Studios chief of staff Louise O'Connor are leaving the outfit."
+    },
+    {
+      "title": "Microsoft CEO says Xbox must become 'sustainable' as it reportedly considers major spinoff",
+      "link": "https://www.gamedeveloper.com/console/microsoft-ceo-says-xbox-must-become-sustainable-as-it-reportedly-considers-major-spinoff",
+      "source": "gamedeveloper",
+      "published_at": "2026-06-15T15:06:39+00:00",
+      "summary": "'The challenge we have is we've not been monetizing that entertainment...if anything we've been subsidizing that entertainment.'"
+    },
+    {
+      "title": "The art of game writing in 'non-narrative' games ft. Emma Kidwell and Harrison Pink",
+      "link": "https://www.gamedeveloper.com/design/the-art-of-game-writing-in-non-narrative-games-ft-emma-kidwell-and-harrison-pink",
+      "source": "gamedeveloper",
+      "published_at": "2026-06-12T14:15:00+00:00",
+      "summary": "This week senior editor Bryant Francis sits down with narrative designer Harrison Pink and game writer Emma Kidwell for a conversation about the craft of creating narrative content in games that don’t strictly have a narrative focus."
+    }
+  ]
+}

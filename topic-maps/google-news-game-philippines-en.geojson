@@ -1,0 +1,416 @@
+{
+  "type": "FeatureCollection",
+  "properties": {
+    "created_at": "2026-06-28T16:32:08.618584+00:00",
+    "count": 14,
+    "stats": {
+      "feed_id": "google-news-game-philippines-en",
+      "feed_label": "Google News: Philippines gaming",
+      "rss_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Philippines&hl=en-PH&gl=PH&ceid=PH:en",
+      "fetched": 78,
+      "filtered": 77,
+      "resolved": 14,
+      "unresolved": 63,
+      "rules": 9,
+      "known_places": 11,
+      "loaded_data_files": [
+        "data/place_rules.json",
+        "data/unresolved_known_places_12.json"
+      ],
+      "topic_keywords": [
+        "game",
+        "games",
+        "gaming",
+        "Philippines",
+        "studio",
+        "developer",
+        "mobile",
+        "esports"
+      ],
+      "exclude_keywords": [
+        "betting",
+        "casino"
+      ]
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.009,
+          37.3349
+        ]
+      },
+      "properties": {
+        "title": "What is ‘GoreBox’, the video game temporarily banned by the CICC? - Rappler",
+        "source": "Rappler",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9YWlFyTmFZOVA4OS0tYUZkTld1a3pQUnBwQ19pTEFleExheF9CXzZEWU9QQ0JqS2Fha0lGS3ctMWg2SkoyR1R4TXVhckJtZkV3NXo4bGxiZG9tZldPUTBSdzhvNnFWcWZaMURxcnhXLXRhUklxTUM2czVESk8?oc=5",
+        "published_at": "2026-06-23T10:20:00+00:00",
+        "representative_place": "Apple本社",
+        "place_label": "米国-カリフォルニア州-クパチーノ",
+        "sort_place_label": "米国-カリフォルニア州-クパチーノ",
+        "geocode_query": "Apple Park Cupertino California United States",
+        "place_type": "institution_site",
+        "location_precision": "campus",
+        "place_reason": "Apple製品・Apple社に関する記事を、企業主体の代表地点としてApple本社に置く（一致語: Apple）",
+        "confidence": 0.66,
+        "rule_id": "apple_cupertino_headquarters",
+        "matched_text": "Apple",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.009,
+          37.3349
+        ]
+      },
+      "properties": {
+        "title": "Horror game ‘Agni’, mech RPG ‘Kriegsfront’ bring Southeast Asian flavor to familiar genres - Rappler",
+        "source": "Rappler",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWFgxY0dONE5DaG12Y2pWS1FFX0dYOVotWmVpSFhPUlI4UUd6MlRBZ1dBRHFiVDE4UjF6TXVaT0pETmFIQXNMc2tJQ3pJa3l4VFhaUGZqR0RkYUVCbW1RRUpnMThGTmszQ1ZBZjcwODJwaWhXbTdrWGtab1FjZlZobUpneHBoS2p3Zm5WRHo3TnIzT3hwbUJkejVleUtDWHRnNldtbjRXZ2pTSHdWdGpXU0w5V0NYb2czbTd4VExMQkFJYWNRYVZV?oc=5",
+        "published_at": "2025-04-23T07:00:00+00:00",
+        "representative_place": "Apple本社",
+        "place_label": "米国-カリフォルニア州-クパチーノ",
+        "sort_place_label": "米国-カリフォルニア州-クパチーノ",
+        "geocode_query": "Apple Park Cupertino California United States",
+        "place_type": "institution_site",
+        "location_precision": "campus",
+        "place_reason": "Apple製品・Apple社に関する記事を、企業主体の代表地点としてApple本社に置く（一致語: Apple）",
+        "confidence": 0.66,
+        "rule_id": "apple_cupertino_headquarters",
+        "matched_text": "Apple",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.009,
+          37.3349
+        ]
+      },
+      "properties": {
+        "title": "Video games in 2024: The ‘Tetris’ beater, ‘Palworld’ hype, PH’s ‘Until Then’ - Rappler",
+        "source": "Rappler",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbHVZTjlmSndOcmdleThiQUtSd1RiZFpUOHNMSVlvcHlFdno2M1Jubk1HdkhRUEFvZExLbk52dXZjSWVjaDNXR053Qnc4RGdYTlBXUmhzNHFWY3c5T19IUHJVYTFGTnFlNlA5LUpXeTgtUU9wY0Vld0M2MTBsMUVaSXRoSDlaQVhyeE1Ob0lPZkpBcDA4a0lrXzVPREQxbHdXN1ZXU0lXam5lWnc?oc=5",
+        "published_at": "2024-12-16T08:00:00+00:00",
+        "representative_place": "Apple本社",
+        "place_label": "米国-カリフォルニア州-クパチーノ",
+        "sort_place_label": "米国-カリフォルニア州-クパチーノ",
+        "geocode_query": "Apple Park Cupertino California United States",
+        "place_type": "institution_site",
+        "location_precision": "campus",
+        "place_reason": "Apple製品・Apple社に関する記事を、企業主体の代表地点としてApple本社に置く（一致語: Apple）",
+        "confidence": 0.66,
+        "rule_id": "apple_cupertino_headquarters",
+        "matched_text": "Apple",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.009,
+          37.3349
+        ]
+      },
+      "properties": {
+        "title": "Rappler Talk Tech: ‘Until Then’ developers on Filipino representation in games - Rappler",
+        "source": "Rappler",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMlg3QXhkbkFDcnR2RzhzaGdVOFcwZVViT2h0dGlWTVcxd2pWNmJLWHJCQUhRTUZrWmwtOTdNWlk0aUQ4MDRieWhmSHRjNk9WY09OWGpKeFpPaHM0c2ZGNDUtTHRKZmo5ZzY1aDQ4MTNTS004YW0wckxvSnNmd1dlS09WU0VxVGpQZTR0aVhGZDBMTW5JVXUxU01RQ3lPbnROM0tXV0g1V3ZRWGtz?oc=5",
+        "published_at": "2024-08-09T07:00:00+00:00",
+        "representative_place": "Apple本社",
+        "place_label": "米国-カリフォルニア州-クパチーノ",
+        "sort_place_label": "米国-カリフォルニア州-クパチーノ",
+        "geocode_query": "Apple Park Cupertino California United States",
+        "place_type": "institution_site",
+        "location_precision": "campus",
+        "place_reason": "Apple製品・Apple社に関する記事を、企業主体の代表地点としてApple本社に置く（一致語: Apple）",
+        "confidence": 0.66,
+        "rule_id": "apple_cupertino_headquarters",
+        "matched_text": "Apple",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.009,
+          37.3349
+        ]
+      },
+      "properties": {
+        "title": "6 exciting games and demos from the Philippine Game Development Expo - Rappler",
+        "source": "Rappler",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQY0xnNDk1X0p2dWFjc2RtYUJMaGtid3dJWTNnUlFkZUhXUnJNOVBsUTR5d3EzQ1pZTjF0alJhS3dieENUWGFzbFo1azNra1pQY0lMNUtMNkxBNWpibG1FOFQ2YS1ZWTRpM2ZwVmxmTDdlemx1OEhULXp3Z240Uk9mV2FidUtxWW9pMjl3bUtjVnEyc1hlMTFqRWZXTXdUSEwxZ2pJ?oc=5",
+        "published_at": "2024-08-04T07:00:00+00:00",
+        "representative_place": "Apple本社",
+        "place_label": "米国-カリフォルニア州-クパチーノ",
+        "sort_place_label": "米国-カリフォルニア州-クパチーノ",
+        "geocode_query": "Apple Park Cupertino California United States",
+        "place_type": "institution_site",
+        "location_precision": "campus",
+        "place_reason": "Apple製品・Apple社に関する記事を、企業主体の代表地点としてApple本社に置く（一致語: Apple）",
+        "confidence": 0.66,
+        "rule_id": "apple_cupertino_headquarters",
+        "matched_text": "Apple",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.009,
+          37.3349
+        ]
+      },
+      "properties": {
+        "title": "Filipino-made game 'Fallen Tear: The Ascension' dazzles with beautiful hand-drawn animation - Rappler",
+        "source": "Rappler",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRGlTN002MlZhX2hSSng4dEtqbmN6TFJ1MVo5QlVncVl3YmxLTk5ILUN4VlBObHhCM1ZBNExyMGlBQW5HdzZkWWpjSWNva3ZLNmlPX0hKNDZPMlBkbnpod3M3ZUFBNUpvR3ZXamI1WGY1WTBvbVpLa2xIaWZQd1lGai1lSjlUMS1yZTIxQ01rYi1IWlF4XzJ4WFFEUFlIVE5rdWdYdA?oc=5",
+        "published_at": "2024-04-20T07:00:00+00:00",
+        "representative_place": "Apple本社",
+        "place_label": "米国-カリフォルニア州-クパチーノ",
+        "sort_place_label": "米国-カリフォルニア州-クパチーノ",
+        "geocode_query": "Apple Park Cupertino California United States",
+        "place_type": "institution_site",
+        "location_precision": "campus",
+        "place_reason": "Apple製品・Apple社に関する記事を、企業主体の代表地点としてApple本社に置く（一致語: Apple）",
+        "confidence": 0.66,
+        "rule_id": "apple_cupertino_headquarters",
+        "matched_text": "Apple",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.009,
+          37.3349
+        ]
+      },
+      "properties": {
+        "title": "Game studio co-founded by Filipina wins at 2024 BAFTA Games Awards - Rappler",
+        "source": "Rappler",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWko3RDRyQWh3cnY0U1ZQNllRWFdZTHF2REdMdTl3Y0dWbS1zYnpfV2J4N1JkcHBVN2VSa2RUOHo4UW10akI5OU8tejRzU216SjdkaWhRbFVzZ2VRbDBjaTVPZHpLTVNRNlFZdWdvcGNFdGNOSy1jbXhFSWVkR01IdVk1cWJoT29QSld5bUQzbHcyaHJEYXpOSGNyUVZGZ0dXbXJ4UnJZTFdDSXlDMlFBS2Z3ME1KUTFWTWtpRlZ3?oc=5",
+        "published_at": "2024-04-12T07:00:00+00:00",
+        "representative_place": "Apple本社",
+        "place_label": "米国-カリフォルニア州-クパチーノ",
+        "sort_place_label": "米国-カリフォルニア州-クパチーノ",
+        "geocode_query": "Apple Park Cupertino California United States",
+        "place_type": "institution_site",
+        "location_precision": "campus",
+        "place_reason": "Apple製品・Apple社に関する記事を、企業主体の代表地点としてApple本社に置く（一致語: Apple）",
+        "confidence": 0.66,
+        "rule_id": "apple_cupertino_headquarters",
+        "matched_text": "Apple",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.009,
+          37.3349
+        ]
+      },
+      "properties": {
+        "title": "PH startup Gamer Points proposes ad-based earning mechanism while playing video games - Rappler",
+        "source": "Rappler",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVEdnMjRIZkRwX2dNV1NuTXhRR0pJLWdaOXU2VEdYS25QODN4bEVfU0M3aUMxNktEUm8zSjZqLWI5NkZjRmxQTHA0aXN6M1F5S0tmWlNQRTVWTmZvNDlkYUZxUk9tY2VrdVJ6UGExUDQxZ3VhRGtCQnJzd3RXT0RDTU9EeC1odmhxYjc0ZnR4bkhNRDdKLVNnSXBfSEpGdVN6QmFyemRoTmJzcGZVbl9SNGVfVmZndEN6b1hHZUFtemg2bUlC?oc=5",
+        "published_at": "2023-09-08T07:00:00+00:00",
+        "representative_place": "Apple本社",
+        "place_label": "米国-カリフォルニア州-クパチーノ",
+        "sort_place_label": "米国-カリフォルニア州-クパチーノ",
+        "geocode_query": "Apple Park Cupertino California United States",
+        "place_type": "institution_site",
+        "location_precision": "campus",
+        "place_reason": "Apple製品・Apple社に関する記事を、企業主体の代表地点としてApple本社に置く（一致語: Apple）",
+        "confidence": 0.66,
+        "rule_id": "apple_cupertino_headquarters",
+        "matched_text": "Apple",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.009,
+          37.3349
+        ]
+      },
+      "properties": {
+        "title": "ESGS, the PH’s premier annual game convention, makes face-to-face return on October 28 - Rappler",
+        "source": "Rappler",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcVFzODhCRVhPRWdOcWlHOUwwd2VJTjlsamtRVEFobVotYUtod2V5U3p5a3BObXhJNUdlbTVQbWZ6Z2dyRTNWenZBbHZ5SVhOa0tWSWdqT3VzUkM1c1BhelZ2c3VubFo2THNhaElFSTBReTlSb2ttdHNXQTV0bUdhX1pieTNlWUJULW9BZmY4ZDMtVVVNS3JuTWZNa21WVVMzTVJ6YUwxRlBtVS1tdEIxVGxEWDM?oc=5",
+        "published_at": "2022-10-25T07:00:00+00:00",
+        "representative_place": "Apple本社",
+        "place_label": "米国-カリフォルニア州-クパチーノ",
+        "sort_place_label": "米国-カリフォルニア州-クパチーノ",
+        "geocode_query": "Apple Park Cupertino California United States",
+        "place_type": "institution_site",
+        "location_precision": "campus",
+        "place_reason": "Apple製品・Apple社に関する記事を、企業主体の代表地点としてApple本社に置く（一致語: Apple）",
+        "confidence": 0.66,
+        "rule_id": "apple_cupertino_headquarters",
+        "matched_text": "Apple",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.009,
+          37.3349
+        ]
+      },
+      "properties": {
+        "title": "Fun is the name of the game for new NFT play-to-earn project RedShield Games - Rappler",
+        "source": "Rappler",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNN3o1SmxUdzFfdG4zbVktWm9CbmRRNENBNjlkMEhvYzNuOTJVZ2pYVnJCYjg2eVEwWXRFeDJaTzJqR3F4SERydFI3eHBMbTBMSjZHV0h2bUlvMHZNV3VHZkFNNG1vS0lGWEd1QkRsMkpNY1QxQzBYN2ZiQnRrdmRLWkNPYkNYOTRJOFE?oc=5",
+        "published_at": "2022-05-27T07:00:00+00:00",
+        "representative_place": "Apple本社",
+        "place_label": "米国-カリフォルニア州-クパチーノ",
+        "sort_place_label": "米国-カリフォルニア州-クパチーノ",
+        "geocode_query": "Apple Park Cupertino California United States",
+        "place_type": "institution_site",
+        "location_precision": "campus",
+        "place_reason": "Apple製品・Apple社に関する記事を、企業主体の代表地点としてApple本社に置く（一致語: Apple）",
+        "confidence": 0.66,
+        "rule_id": "apple_cupertino_headquarters",
+        "matched_text": "Apple",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.009,
+          37.3349
+        ]
+      },
+      "properties": {
+        "title": "Microsoft officially launches PC Game Pass in Southeast Asia - Rappler",
+        "source": "Rappler",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPb09seU1JamIzb3RhMEVWenhNMnRaUF9ubk1sU09zdExUS1l1OE5QSlFnRzI5VVRfWHYycVU2UUxLS1Q4Tmcxb3FLM1VXUnZuSnBWcnpST3VZMkJkX1FuMm96TmtGTzJZdXNzN0N2b1VXa1BOMjJoOUFWODZRbUQ1WFQ5dkxuYWt2WHhuWk5HRVNTMlk?oc=5",
+        "published_at": "2022-04-22T07:00:00+00:00",
+        "representative_place": "Apple本社",
+        "place_label": "米国-カリフォルニア州-クパチーノ",
+        "sort_place_label": "米国-カリフォルニア州-クパチーノ",
+        "geocode_query": "Apple Park Cupertino California United States",
+        "place_type": "institution_site",
+        "location_precision": "campus",
+        "place_reason": "Apple製品・Apple社に関する記事を、企業主体の代表地点としてApple本社に置く（一致語: Apple）",
+        "confidence": 0.66,
+        "rule_id": "apple_cupertino_headquarters",
+        "matched_text": "Apple",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.009,
+          37.3349
+        ]
+      },
+      "properties": {
+        "title": "Building worlds and world-class talent: Ubisoft Philippines devs on working on ‘Far Cry 6’ - Rappler",
+        "source": "Rappler",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPczZyTDZ6Sko0bmR0QU5VQkxNZ1gtbUZ0UEEwTXFJQThZQ0lLWUo2X3Y3Qk9ZeFZUYWNCV0tsaUxiTFY0WTVUVmZHQzhZUlV2VHFCX25MUkJ5WFBpbGM4eHdCMU5lRkp5aGRkWFFpbE5mNVJwcWF4eGZxVENmMjlHMnNvTU9ERHY5OFlr?oc=5",
+        "published_at": "2021-12-01T08:00:00+00:00",
+        "representative_place": "Apple本社",
+        "place_label": "米国-カリフォルニア州-クパチーノ",
+        "sort_place_label": "米国-カリフォルニア州-クパチーノ",
+        "geocode_query": "Apple Park Cupertino California United States",
+        "place_type": "institution_site",
+        "location_precision": "campus",
+        "place_reason": "Apple製品・Apple社に関する記事を、企業主体の代表地点としてApple本社に置く（一致語: Apple）",
+        "confidence": 0.66,
+        "rule_id": "apple_cupertino_headquarters",
+        "matched_text": "Apple",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.009,
+          37.3349
+        ]
+      },
+      "properties": {
+        "title": "Q&A: Ubisoft Philippines studio art director JP Tan on their work on ‘AC: Valhalla’ - Rappler",
+        "source": "Rappler",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTWhRZkVYVXZ6V2tPeGJRNlp6YWRzWUxVcFB4cURXOUpWaUJJVzhXQ3luWl81djl6TjMxMHFTWDAydV9nb2RkYjUwMUJRbWpOXzh2SzlIRnFUcXJoM3g0M1pZX0p3Q2JZYUhTYXJ6ZlJ3UXlrRTZ2eDJhRHlSMzcxQ0Z0RFRHNVdrM0RYTENxM0k0ZklxeXp5VGJqRm9PMHZ6QkdDWkhka3JQazFISV9VOQ?oc=5",
+        "published_at": "2020-09-14T07:00:00+00:00",
+        "representative_place": "Apple本社",
+        "place_label": "米国-カリフォルニア州-クパチーノ",
+        "sort_place_label": "米国-カリフォルニア州-クパチーノ",
+        "geocode_query": "Apple Park Cupertino California United States",
+        "place_type": "institution_site",
+        "location_precision": "campus",
+        "place_reason": "Apple製品・Apple社に関する記事を、企業主体の代表地点としてApple本社に置く（一致語: Apple）",
+        "confidence": 0.66,
+        "rule_id": "apple_cupertino_headquarters",
+        "matched_text": "Apple",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.009,
+          37.3349
+        ]
+      },
+      "properties": {
+        "title": "Filipino game developers showcase titles at Tokyo Game Show 2016 - Rappler",
+        "source": "Rappler",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPalh1aDJzNVBQSm96R1JpMWpuRllPVUN1TEljbHFBM3phRl9OaWpRTHUtbDNnY1k1QU9Nd2JBM3J2SFlVLXJVZjNCZTRoQlFxcUdIekZmdkhZMHBjR1o2WjNWQk1vbGxWcEpKZW9zS2tlcVFobkhaaTRYWW5LeHo1UmNZNFhtY3ZyeWsteEs5dGcxZw?oc=5",
+        "published_at": "2016-09-18T07:00:00+00:00",
+        "representative_place": "Apple本社",
+        "place_label": "米国-カリフォルニア州-クパチーノ",
+        "sort_place_label": "米国-カリフォルニア州-クパチーノ",
+        "geocode_query": "Apple Park Cupertino California United States",
+        "place_type": "institution_site",
+        "location_precision": "campus",
+        "place_reason": "Apple製品・Apple社に関する記事を、企業主体の代表地点としてApple本社に置く（一致語: Apple）",
+        "confidence": 0.66,
+        "rule_id": "apple_cupertino_headquarters",
+        "matched_text": "Apple",
+        "match_source": "known_place_title"
+      }
+    }
+  ]
+}

@@ -1,0 +1,728 @@
+{
+  "ok": true,
+  "created_at": "2026-06-28T16:32:08.618584+00:00",
+  "stats": {
+    "feed_id": "gamesindustry-biz-global",
+    "feed_label": "GamesIndustry.biz: Global industry",
+    "rss_url": "https://www.gamesindustry.biz/feed",
+    "fetched": 100,
+    "filtered": 100,
+    "resolved": 1,
+    "unresolved": 99,
+    "rules": 9,
+    "known_places": 11,
+    "loaded_data_files": [
+      "data/place_rules.json",
+      "data/unresolved_known_places_12.json"
+    ],
+    "topic_keywords": [
+      "game",
+      "games",
+      "industry",
+      "studio",
+      "publisher",
+      "developer",
+      "mobile",
+      "market",
+      "launch",
+      "layoffs",
+      "funding"
+    ],
+    "exclude_keywords": []
+  },
+  "unresolved": [
+    {
+      "title": "PlayStation hardware sales fall to their lowest May total since 2000 | US Monthly Charts",
+      "link": "https://www.gamesindustry.biz/playstation-hardware-sales-fall-to-their-lowest-may-total-since-2000-us-monthly-charts",
+      "source": "GamesIndustry.biz Latest Articles Feed",
+      "published_at": "2026-06-26T17:37:13+00:00",
+      "summary": "PlayStation 5 unit sales in the United States dropped 58% year on year in May, according to Circana, reaching their lowest May total since 2000. Xbox unit sales, meanwhile, reached their lowest ever recorded figures for May, dropping 12% year on year.    Read more"
+    },
+    {
+      "title": "Valve can afford a niche, pricey hardware launch; Sony and Microsoft can't | Opinion",
+      "link": "https://www.gamesindustry.biz/valve-can-afford-a-niche-pricey-hardware-launch-sony-and-microsoft-cant",
+      "source": "GamesIndustry.biz Latest Articles Feed",
+      "published_at": "2026-06-26T15:04:18+00:00",
+      "summary": "The  great hardware pricing crisis  may feel like it's been going on for ages, but in truth, its full effects have only been felt in certain specific consumer sectors so far. If you're directly shopping for PC components like RAM or SSDs, you know just how bad things have become; people in the market for things like SD cards or USB sticks may also have seen some jaw-dropping prices lately.    Read more"
+    },
+    {
+      "title": "Five things to avoid when marketing your indie game | Opinion",
+      "link": "https://www.gamesindustry.biz/five-things-to-avoid-when-marketing-your-indie-game-opinion",
+      "source": "GamesIndustry.biz Latest Articles Feed",
+      "published_at": "2026-06-26T14:07:12+00:00",
+      "summary": "Axel Fälth and Linn Stjernlöf of    Mi5 Communications    share over two decades of experience within PR and marketing in the tech and games industry, and have worked with clients including Raw Fury, Ubisoft, Sega, Low Drag Labs, IO Interactive, Bethesda, and Krufs Productions.      Read more"
+    },
+    {
+      "title": "Italy's 34BigThings spins out from Embracer Group",
+      "link": "https://www.gamesindustry.biz/italys-34bigthings-spins-out-from-embracer-group",
+      "source": "GamesIndustry.biz Latest Articles Feed",
+      "published_at": "2026-06-26T09:14:52+00:00",
+      "summary": "Italian studio 34BigThings has spun out of games conglomerate Embracer Group.    Read more"
+    },
+    {
+      "title": "Epic's Sweeney claims Steam AI labels are \"really irresponsible of Valve\"",
+      "link": "https://www.gamesindustry.biz/epics-sweeney-claims-steam-ai-labels-are-really-irresponsible-of-valve",
+      "source": "GamesIndustry.biz Latest Articles Feed",
+      "published_at": "2026-06-26T08:12:39+00:00",
+      "summary": "The CEO of Epic Games, Tim Sweeney, has said that Valve's decision to have disclosure labels for projects on Steam that make use of AI is \"really irresponsible\".    Read more"
+    },
+    {
+      "title": "Sony cuts 292 jobs at Destiny maker Bungie",
+      "link": "https://www.gamesindustry.biz/sony-cuts-292-jobs-at-destiny-maker-bungie",
+      "source": "GamesIndustry.biz Latest Articles Feed",
+      "published_at": "2026-06-26T07:31:49+00:00",
+      "summary": "Sony Interactive Entertainment is cutting jobs at Destiny maker Bungie.    Read more"
+    },
+    {
+      "title": "Microsoft significantly increases Xbox prices worldwide and withdraws 2TB model citing \"components crisis\"",
+      "link": "https://www.gamesindustry.biz/microsoft-significantly-increases-xbox-prices-worldwide-and-withdraws-2tb-model-citing-components-crisis",
+      "source": "GamesIndustry.biz Latest Articles Feed",
+      "published_at": "2026-06-25T18:20:07+00:00",
+      "summary": "Microsoft has announced that it is increasing the price of Xbox worldwide from August 2, blaming increased costs for console storage and memory. The 512 GB models will increase by $100 and the 1TB model will increase by $150; the 2TB variant will be withdrawn. The company did not immediately confirm pricing for non-US markets.    Read more"
+    },
+    {
+      "title": "\"Mission Impossible is high on my list\" – how Paramount plans to use co-dev to exploit its archive, while building its own all-new IP",
+      "link": "https://www.gamesindustry.biz/mission-impossible-is-high-on-my-list-how-paramount-plans-to-use-co-dev-to-exploit-its-archive-while-building-its-own-all-new-ip",
+      "source": "GamesIndustry.biz Latest Articles Feed",
+      "published_at": "2026-06-25T17:46:38+00:00",
+      "summary": "Just before Summer Games Fest kicked off, Paramount Skydance announced it was merging its video games divisions into a new entity called Paramount Games Studio.    Read more"
+    },
+    {
+      "title": "VC fund Vgames launches new $10m Indie Fund",
+      "link": "https://www.gamesindustry.biz/vc-fund-vgames-launches-new-10m-indie-fund",
+      "source": "GamesIndustry.biz Latest Articles Feed",
+      "published_at": "2026-06-25T14:15:00+00:00",
+      "summary": "Venture capital firm Vgames is launching a new $10 million Indie Fund.    Read more"
+    },
+    {
+      "title": "Circana: Nintendo Switch 2 helped US physical game spending increase year-on-year for first time since 2009",
+      "link": "https://www.gamesindustry.biz/circana-nintendo-switch-2-helped-us-physical-game-spending-increase-year-on-year-for-first-time-since-2009",
+      "source": "GamesIndustry.biz Latest Articles Feed",
+      "published_at": "2026-06-25T12:13:39+00:00",
+      "summary": "The Nintendo Switch 2 helped US physical games spending see its first year-on-year increase since 2009.    Read more"
+    },
+    {
+      "title": "Tencent, Xbox, Game Angels, Ansible and Flick to speak on Game Republic New Horizons investor stage",
+      "link": "https://www.gamesindustry.biz/tencent-xbox-game-angels-ansible-and-flick-to-speak-on-game-republic-new-horizons-investor-stage",
+      "source": "GamesIndustry.biz Latest Articles Feed",
+      "published_at": "2026-06-25T10:24:03+00:00",
+      "summary": "The organisers of the Game Republic New Horizons conference have announced the first speakers to take to the stage in its Investor Zone.    Read more"
+    },
+    {
+      "title": "Micron says chip shortage will \"improve gradually\" in 2028",
+      "link": "https://www.gamesindustry.biz/micron-says-chip-shortage-will-improve-gradually-in-2028",
+      "source": "GamesIndustry.biz Latest Articles Feed",
+      "published_at": "2026-06-25T09:47:36+00:00",
+      "summary": "The CEO of chip giant Micron, Sanjay Mehrotra, has said that the AI-fueled global RAM and NAND shortage will continue through 2027 and \"improve gradually\" the following year.    Read more"
+    },
+    {
+      "title": "FromSoftware parent CEO keeps position following activist investors' disappointment in firm's handling of Elden Ring",
+      "link": "https://www.gamesindustry.biz/fromsoftware-parent-ceo-keeps-position-following-activist-investors-disappointment-in-firms-handling-of-elden-ring",
+      "source": "GamesIndustry.biz Latest Articles Feed",
+      "published_at": "2026-06-25T09:15:48+00:00",
+      "summary": "The CEO of FromSoftware parent company Kadokawa Corporation, Takeshi Natsuno, has retained his position after an activist investor group tried to oust him.    Read more"
+    },
+    {
+      "title": "Sony is reportedly enforcing \"stricter guidelines\" against so-called \"shovelware\" PlayStation games",
+      "link": "https://www.gamesindustry.biz/sony-is-reportedly-enforcing-stricter-guidelines-against-so-called-shovelware-playstation-games",
+      "source": "GamesIndustry.biz Latest Articles Feed",
+      "published_at": "2026-06-24T20:01:30+00:00",
+      "summary": "Sony is seemingly enforcing \"stricter guidelines\" by cutting ties with alleged \"shovelware\" publishers like the Brazilian-based Afil Games.    Read more"
+    },
+    {
+      "title": "Jagex confirms \"landmark publishing partnerships\" to bring RuneScape to Japan, South Korea, and South East Asia",
+      "link": "https://www.gamesindustry.biz/jagex-confirms-landmark-publishing-partnerships-to-bring-runescape-to-japan-south-korea-and-south-east-asia",
+      "source": "GamesIndustry.biz Latest Articles Feed",
+      "published_at": "2026-06-24T19:33:41+00:00",
+      "summary": "RuneScape developer Jagex has announced two publishing partnerships to bring RuneScape: Dragonwilds to Japan, South Korea, and South East Asia.    Read more"
+    },
+    {
+      "title": "Why new investment house Denmu has $50m to give to \"auteur\" developers",
+      "link": "https://www.gamesindustry.biz/why-new-investment-house-denmu-has-50m-to-give-to-auteur-developers",
+      "source": "GamesIndustry.biz Latest Articles Feed",
+      "published_at": "2026-06-24T16:50:48+00:00",
+      "summary": "Denmu is a new investment firm with $50 million to play with. The organisation was founded in 2025 by general partners Ryan You and Michael Fan, who act as the firm's CEO and creative director, respectively. Both coming from an investment background, including some shared time at VC firm Galaxy Interactive, they felt that the financial options available to developers weren't right for every project.    Read more"
+    },
+    {
+      "title": "GTA 6: Will $80 be the new standard, and will more publishers start to skip physical releases?",
+      "link": "https://www.gamesindustry.biz/gta-6-will-80-be-the-new-standard-and-will-more-publishers-start-to-skip-physical-releases",
+      "source": "GamesIndustry.biz Latest Articles Feed",
+      "published_at": "2026-06-24T16:48:42+00:00",
+      "summary": "With a release date committed to and huge sales guaranteed, one of the last big questions around GTA 6 was the price tag. Today, we  received the answer : $79.99 for the standard edition, and $99.99 for the ultimate edition, with the physical editions coming with not a disc but a download code.    Read more"
+    },
+    {
+      "title": "GTA 6 sales predictions: how many copies will Rockstar sell at $80?",
+      "link": "https://www.gamesindustry.biz/gta-6-sales-predictions-how-many-copies-will-rockstar-sell-at-80",
+      "source": "GamesIndustry.biz Latest Articles Feed",
+      "published_at": "2026-06-24T16:35:53+00:00",
+      "summary": "We already know the GTA 6 release date, and  now we know how much it will cost  – a slightly elevated but not unprecedented price of $79.99, with a $100 special edition adding a series of additional content to the single-player game. We also know that it will be paying lip service to the notion of a physical release, with the boxed version containing only a code to download the game.    Read more"
+    },
+    {
+      "title": "GTA 6 will launch at $79.99 and will be download only",
+      "link": "https://www.gamesindustry.biz/gta-6-will-launch-at-7999-and-will-be-download-only",
+      "source": "GamesIndustry.biz Latest Articles Feed",
+      "published_at": "2026-06-24T11:18:38+00:00",
+      "summary": "Update, June 25:  The pricing for standard and ultimate editions of GTA 6 in other territories has been announced:    Read more"
+    },
+    {
+      "title": "Appcharge: Direct-to-consumer market worth around $17bn today",
+      "link": "https://www.gamesindustry.biz/appcharge-direct-to-consumer-market-worth-around-17bn-today",
+      "source": "GamesIndustry.biz Latest Articles Feed",
+      "published_at": "2026-06-24T11:00:00+00:00",
+      "summary": "New research suggests that direct-to-consumer (DTC) spending on mobile was around $17 billion in 2025.    Read more"
+    },
+    {
+      "title": "Valve admits Steam Machine is \"more expensive\" than it hoped",
+      "link": "https://www.gamesindustry.biz/valve-admits-steam-machine-is-more-expensive-than-it-hoped",
+      "source": "GamesIndustry.biz Latest Articles Feed",
+      "published_at": "2026-06-24T09:48:50+00:00",
+      "summary": "Games giant Valve has admitted that its Steam Machine hardware has a higher cost than it would have liked.    Read more"
+    },
+    {
+      "title": "Mobygames announces new suite of pro tools for users to maintain their career profile, find jobs and see industry insights",
+      "link": "https://www.gamesindustry.biz/mobygames-announces-new-suite-of-pro-tools-for-users-to-maintain-career-profile-find-jobs-and-see-industry-insights",
+      "source": "GamesIndustry.biz Latest Articles Feed",
+      "published_at": "2026-06-24T09:46:37+00:00",
+      "summary": "Atari-owned industry database MobyGames has launched a new suite of tools for industry professionals, including rich profiles for people to record and share their career progress and achievements, and access to \"personalized Job postings, insights and industry tracking.\" The service launches today as a free beta, with certain features to be paywalled at final launch.    Read more"
+    },
+    {
+      "title": "Bungie devs reportedly pitched Destiny dating game",
+      "link": "https://www.gamesindustry.biz/bungie-devs-reportedly-pitched-destiny-dating-game",
+      "source": "GamesIndustry.biz Latest Articles Feed",
+      "published_at": "2026-06-24T09:11:32+00:00",
+      "summary": "Staff at Bungie apparently pitched the idea of making a dating game based on its smash hit sci-fi shooter Destiny.    Read more"
+    },
+    {
+      "title": "EA: AI is delivering \"faster prototyping\" and a \"real rise in creativity\" in its studios",
+      "link": "https://www.gamesindustry.biz/ea-ai-is-delivering-faster-prototyping-and-a-real-rise-in-creativity-in-its-studios",
+      "source": "GamesIndustry.biz Latest Articles Feed",
+      "published_at": "2026-06-23T12:39:11+00:00",
+      "summary": "As reported by  Eurogamer , EA's president of enterprise development, Laura Miele, has said that AI has led to a \"real rise in creativity\" at the company's studios.    Read more"
+    },
+    {
+      "title": "Report: Tencent plans to exit investments in Japanese studios like Story of Seasons developer Marvelous",
+      "link": "https://www.gamesindustry.biz/report-tencent-plans-to-exit-investments-in-japanese-studios-like-story-of-seasons-developer-marvelous",
+      "source": "GamesIndustry.biz Latest Articles Feed",
+      "published_at": "2026-06-23T11:52:58+00:00",
+      "summary": "A report from  Bloomberg  suggests that Tencent is in talks to exit some of its minority investments in Japanese studios, including Marvelous, the developer of the Rune Factory, Daemon x Machina, and Story of Seasons games.    Read more"
+    },
+    {
+      "title": "\"This is going to be a niche device\" – Analysts react to the $1,000+ Steam Machine price reveal",
+      "link": "https://www.gamesindustry.biz/this-is-going-to-be-a-niche-device-analysts-react-to-the-1000-steam-machine-price-reveal",
+      "source": "GamesIndustry.biz Latest Articles Feed",
+      "published_at": "2026-06-23T11:01:40+00:00",
+      "summary": "Yesterday, Valve finally  revealed the launch price  for its hotly anticipated Steam Machine console/PC hybrid. Prices will start at $1,049 for a 515GB without a controller, and go up to $1,428 for a 2TB machine with a controller.    Read more"
+    },
+    {
+      "title": "EA is reportedly laying off recruitment, customer support, safety, and IT staff",
+      "link": "https://www.gamesindustry.biz/ea-is-reportedly-laying-off-recruitment-customer-support-safety-and-it-staff",
+      "source": "GamesIndustry.biz Latest Articles Feed",
+      "published_at": "2026-06-22T21:29:34+00:00",
+      "summary": "Electronic Arts (EA) is allegedly initiating another round of cuts, primarily impacting recruitment, customer support, trust and safety, and IT teams.    Read more"
+    },
+    {
+      "title": "Volunteer-led RTS BAR signs publishing deal with Hooded Horse",
+      "link": "https://www.gamesindustry.biz/volunteer-led-rts-bar-signs-publishing-deal-with-hooded-horse",
+      "source": "GamesIndustry.biz Latest Articles Feed",
+      "published_at": "2026-06-22T20:53:28+00:00",
+      "summary": "Beyond All Reason (BAR), the volunteer-led \"epic scale RTS\" game, has signed a publishing deal with Hooded Horse.    Read more"
+    },
+    {
+      "title": "Obsidian sued in class action lawsuit over alleged \"systematic pattern of wage and hour violations\"",
+      "link": "https://www.gamesindustry.biz/obsidian-sued-in-class-action-lawsuit-over-alleged-systematic-pattern-of-wage-and-hour-violations",
+      "source": "GamesIndustry.biz Latest Articles Feed",
+      "published_at": "2026-06-22T20:18:56+00:00",
+      "summary": "Fallout: New Vegas and The Outer Worlds developer Obsidian Entertainment is being sued in a class action lawsuit that accuses the studio of \"a systematic pattern of wage and hour violations under the California Labor Code and Industrial Welfare Commission ('IWC') Wage Orders.\"    Read more"
+    },
+    {
+      "title": "Valve's Steam Machine price starts at $1049 / £879; original pricing \"no longer viable\" due to hardware supply issues",
+      "link": "https://www.gamesindustry.biz/valves-steam-machine-price-starts-at-1049-879-original-pricing-no-longer-viable-due-to-hardware-supply-issues",
+      "source": "GamesIndustry.biz Latest Articles Feed",
+      "published_at": "2026-06-22T17:00:00+00:00",
+      "summary": "Steam has announced pricing and extremely limited availability for the Steam Machine, the desktop/living room sibling of the successful Steam Deck. It will be available in 512GB and 2TB versions, priced at $1,049 USD / £879 GBP and $1,349 USD / £1,149 GBP, and availability will be determined by a lottery system that opens today.    Read more"
+    },
+    {
+      "title": "\"You just look at the number and go, 'What happened?'\" –  The developers of RV There Yet? on their surprise, multi-million selling success",
+      "link": "https://www.gamesindustry.biz/you-just-look-at-the-number-and-go-what-happened-the-developers-of-rv-there-yet-on-their-surprise-multi-million-selling-success",
+      "source": "GamesIndustry.biz Latest Articles Feed",
+      "published_at": "2026-06-22T14:43:55+00:00",
+      "summary": "When Nuggets Entertainment set out to build  RV There Yet?  from a game jam project to full release, co-founder and CEO Tim Badylak thought it \"might sell 20,000 or so units in a year.\" That estimate turned out to be spectacularly conservative: the cooperative recreational vehicle adventure actually sold two million units in eight days.    Read more"
+    },
+    {
+      "title": "Marvel Contest of Champions studio Kabam lays off unknown number of staff in LA office consolidation",
+      "link": "https://www.gamesindustry.biz/marvel-contest-of-champions-studio-kabam-lays-off-unknown-number-of-staff-in-la-office-consolidation",
+      "source": "GamesIndustry.biz Latest Articles Feed",
+      "published_at": "2026-06-22T09:55:00+00:00",
+      "summary": "The developer of Marvel Contest of Champions, Kabam, has laid off an unknown number of employees as part of a consolidation of its office in Los Angeles, California.    Read more"
+    },
+    {
+      "title": "CD Projekt joint-CEO says it's \"fair\" that the studio \"lost the faith\" of some of its audience after Cyberpunk 2077 launch",
+      "link": "https://www.gamesindustry.biz/cd-projekt-joint-ceo-says-its-fair-that-the-studio-lost-the-faith-of-some-of-its-audience-after-cyberpunk-2077-launch",
+      "source": "GamesIndustry.biz Latest Articles Feed",
+      "published_at": "2026-06-22T09:24:20+00:00",
+      "summary": "One of the joint-CEOs at Polish giant CD Projekt, Michał Nowakowski, has admitted that the company lost the trust of some of its audience due to the messy launch of Cyberpunk 2077.    Read more"
+    },
+    {
+      "title": "Ubisoft co-founder Claude Guillemot has died in a plane crash",
+      "link": "https://www.gamesindustry.biz/ubisoft-co-founder-claude-guillemot-has-died-in-a-plane-crash",
+      "source": "GamesIndustry.biz Latest Articles Feed",
+      "published_at": "2026-06-22T09:04:01+00:00",
+      "summary": "One of the co-founders of French games giant, Ubisoft, Claude Guillemot, has been killed in a plane crash.    Read more"
+    },
+    {
+      "title": "As AI costs rise, there’s little evidence of major utility in game development | Opinion",
+      "link": "https://www.gamesindustry.biz/as-ai-costs-rise-theres-little-evidence-of-major-utility-in-game-development-opinion",
+      "source": "GamesIndustry.biz Latest Articles Feed",
+      "published_at": "2026-06-19T16:11:41+00:00",
+      "summary": "It’s been almost impossible to avoid the conversation about  Generative AI in the games industry  over the past couple of years. No matter which side you fall on personally – from starry-eyed evangelists, via the cautiously interested and the ethically concerned, all the way to the hard-bitten harbingers of dystopia – the discussion itself has never been off the agenda.    Read more"
+    },
+    {
+      "title": "European Commission aims to facilitate code of conduct for managing \"end of life\" for games following Stop Killing Games petition",
+      "link": "https://www.gamesindustry.biz/european-commission-aims-to-facilitate-code-of-conduct-for-managing-end-of-life-for-games-following-stop-killing-games-petition",
+      "source": "GamesIndustry.biz Latest Articles Feed",
+      "published_at": "2026-06-19T12:06:16+00:00",
+      "summary": "The European Commission has responded to the Stop Killing Games petition, saying that it is unable to \"propose a legal obligation\" to keep games playable after they are no longer available commercially.    Read more"
+    },
+    {
+      "title": "Roblox details how much creators will pay for brand integrations",
+      "link": "https://www.gamesindustry.biz/roblox-details-how-much-creators-will-pay-for-brand-integrations",
+      "source": "GamesIndustry.biz Latest Articles Feed",
+      "published_at": "2026-06-19T10:17:34+00:00",
+      "summary": "Games platform Roblox has finally announced how large a cut it will take from brand integrations.    Read more"
+    },
+    {
+      "title": "Report: PlayStation changed first-party single-player PC strategy due to lack of revenue",
+      "link": "https://www.gamesindustry.biz/report-playstation-changed-first-party-single-player-pc-strategy-due-to-lack-of-revenue",
+      "source": "GamesIndustry.biz Latest Articles Feed",
+      "published_at": "2026-06-19T09:19:54+00:00",
+      "summary": "Platform holder PlayStation reportedly has changed its strategy regarding first-party titles on PC, partly due to the fact that they weren't generating enough revenue.    Read more"
+    },
+    {
+      "title": "Newzoo: Global games market made over $200bn in 2025",
+      "link": "https://www.gamesindustry.biz/newzoo-global-games-market-made-over-200bn-in-2025",
+      "source": "GamesIndustry.biz Latest Articles Feed",
+      "published_at": "2026-06-19T08:49:01+00:00",
+      "summary": "Research from data firm Newzoo shows that the games market generated over $200 billion in revenue during 2025.    Read more"
+    },
+    {
+      "title": "\"We're not trying to replace it. This is very much a love letter\": Why Crystal Dynamics is remaking the original Tomb Raider (again)",
+      "link": "https://www.gamesindustry.biz/were-not-trying-to-replace-it-this-is-very-much-a-love-letter-why-crystal-dynamics-is-remaking-the-original-tomb-raider-again",
+      "source": "GamesIndustry.biz Latest Articles Feed",
+      "published_at": "2026-06-18T15:36:37+00:00",
+      "summary": "The future of Tomb Raider begins with a return to its past. Crystal Dynamics  announced a brand new Tomb Raider in 2022 alongside a publishing deal with Amazon , promising a new single-player narrative-driven title built in Unreal Engine 5. This was subsequently revealed to be Tomb Raider Catalyst, a game set at the furthest point in the franchise timeline that attempts to unify all of the different versions of Tomb Raider we've had so far. That's currently set to release in 2027.    Read more"
+    },
+    {
+      "title": "Why one in three new games at SGF has got their launch wrong | Opinion",
+      "link": "https://www.gamesindustry.biz/why-one-in-three-new-games-at-sgf-has-got-their-launch-wrong-opinion",
+      "source": "GamesIndustry.biz Latest Articles Feed",
+      "published_at": "2026-06-18T15:00:00+00:00",
+      "summary": "The enormous energy put into announcing games, versus the energy put into the follow up is astonishing. The idea that anyone could think that SGF was some kind of goal or end game rather than the start of an uphill struggle is mind-blowing.    Read more"
+    },
+    {
+      "title": "Don't Nod says it has \"several levers\" to secure financial position after auditors detailed cash woes",
+      "link": "https://www.gamesindustry.biz/dont-nod-says-it-has-several-levers-to-secure-financial-position-after-auditors-detailed-cash-woes",
+      "source": "GamesIndustry.biz Latest Articles Feed",
+      "published_at": "2026-06-18T10:58:01+00:00",
+      "summary": "French developer Don't Nod has said that it is hard at work to secure more cash after an auditor's report suggested the company could run out of money by November.    Read more"
+    },
+    {
+      "title": "OtherSide Entertainment cuts 17 jobs after Argos cancellation",
+      "link": "https://www.gamesindustry.biz/otherside-entertainment-cuts-17-jobs-after-argos-cancellation",
+      "source": "GamesIndustry.biz Latest Articles Feed",
+      "published_at": "2026-06-18T10:30:59+00:00",
+      "summary": "Developer OtherSide Entertainment has made 17 members of staff redundant after an in-development project fell through.    Read more"
+    },
+    {
+      "title": "UK employment tribunal denies Rockstar's request to have 'blacklisting' claims removed from upcoming trial",
+      "link": "https://www.gamesindustry.biz/uk-employment-tribunal-denies-rockstars-request-to-have-blacklisting-claims-removed-from-upcoming-trial",
+      "source": "GamesIndustry.biz Latest Articles Feed",
+      "published_at": "2026-06-18T09:18:04+00:00",
+      "summary": "A UK employment tribunal has refused Rockstar Games' request to have allegations of 'blacklisting' removed in the case brought against it by fired workers, represented by the IWGB Game Workers union.    Read more"
+    },
+    {
+      "title": "Everything you need to know from State of Unreal 2026: Unreal Engine 6, Unreal Engine 5.8, and $1bn paid to UEFN devs",
+      "link": "https://www.gamesindustry.biz/everything-you-need-to-know-from-state-of-unreal-2026-unreal-engine-6-unreal-engine-58-and-1bn-paid-to-fortnite-devs",
+      "source": "GamesIndustry.biz Latest Articles Feed",
+      "published_at": "2026-06-18T00:12:49+00:00",
+      "summary": "Today's State of Unreal keynote at Unreal Fest Chicago  formally unveiled  Unreal Engine 6 and confirmed Unreal Engine 5.8 is now available.    Read more"
+    },
+    {
+      "title": "President of Germany to open Gamescom Congress and attend Gamescom 2026",
+      "link": "https://www.gamesindustry.biz/president-of-germany-to-open-gamescom-congress-and-attend-gamescom-2026",
+      "source": "GamesIndustry.biz Latest Articles Feed",
+      "published_at": "2026-06-17T12:57:45+00:00",
+      "summary": "Federal President of Germany Frank-Walter Steinmeier will attend Gamescom and open Gamescom Congress, the event's summit on the intersection of games and culture, politics and technology. Steinmeier will be the first German head of state to attend gamescom.    Read more"
+    },
+    {
+      "title": "Kwalee Labs shut down following launch of Luna Abyss",
+      "link": "https://www.gamesindustry.biz/kwalee-labs-shut-down-following-launch-of-luna-abyss",
+      "source": "GamesIndustry.biz Latest Articles Feed",
+      "published_at": "2026-06-17T12:36:17+00:00",
+      "summary": "Kwalee Labs, the developer behind the well-received PC and PS5 shooter Luna Abyss, has been shuttered only a month after the game launched. The firm was originally founded as Bonsai Collective, which Kwalee purchased out of administration in September, according to  a LinkedIn post by former creative director Benni Hill .    Read more"
+    },
+    {
+      "title": "The devs of Chinese hit The Scroll of Taiwu on what Western devs get wrong in China - and why they rejected generative AI",
+      "link": "https://www.gamesindustry.biz/how-dare-we-use-something-like-that-on-someones-dream-why-generative-ai-artwork-is-a-no-go-for-the-scroll-of-taiwu",
+      "source": "GamesIndustry.biz Latest Articles Feed",
+      "published_at": "2026-06-17T11:00:00+00:00",
+      "summary": "Long before the global success of Genshin Impact and Black Myth: Wukong,  The Scroll of Taiwu  from ConchShip Games pointed towards the potentially huge market for Chinese-developed titles.    Read more"
+    },
+    {
+      "title": "Thatgamecompany's 20-year journey from anti-Columbine school project to a celebration of Van Gogh",
+      "link": "https://www.gamesindustry.biz/thatgamecompanys-20-year-journey-from-anti-columbine-school-project-to-a-celebration-of-van-gogh",
+      "source": "GamesIndustry.biz Latest Articles Feed",
+      "published_at": "2026-06-16T18:02:55+00:00",
+      "summary": "Jenova Chen, the co-founder of Thatgamecompany, never seriously considered making video games when he was younger. \"Where I grew up, video games were seen as gambling, and oversexualized kind of soft porn, and overviolenced. Nobody respected video games. My parents would be ashamed if I told them I would be making video games.\"    Read more"
+    },
+    {
+      "title": "Auditors warn Don't Nod will run out of cash by November if it is unable to secure financing",
+      "link": "https://www.gamesindustry.biz/auditors-warn-dont-nod-will-run-out-of-cash-by-november-if-it-is-unable-to-secure-financing",
+      "source": "GamesIndustry.biz Latest Articles Feed",
+      "published_at": "2026-06-16T11:20:29+00:00",
+      "summary": "French game developer Don't Nod could run out of money by November if it is unable to secure further financing.    Read more"
+    },
+    {
+      "title": "TIGA appoints nine industry veterans to board of directors",
+      "link": "https://www.gamesindustry.biz/tiga-appoints-nine-industry-veterans-to-board-of-directors",
+      "source": "GamesIndustry.biz Latest Articles Feed",
+      "published_at": "2026-06-16T10:23:44+00:00",
+      "summary": "UK video games trade body TIGA has added nine new members to its board of directors.    Read more"
+    },
+    {
+      "title": "Research suggests exercise games like Ring Fit Adventure could treat early stages of depression",
+      "link": "https://www.gamesindustry.biz/research-suggests-exercise-games-like-ring-fit-adventure-could-treat-early-stages-of-depression",
+      "source": "GamesIndustry.biz Latest Articles Feed",
+      "published_at": "2026-06-16T10:04:05+00:00",
+      "summary": "New research shows that exercise games – or 'exergames' – like Nintendo's Ring Fit Adventure could help people deal with the early stages of depression.    Read more"
+    },
+    {
+      "title": "Xbox is reportedly considering closing South of Midnight studio, Compulsion Games, with Double Fine and Ninja Theory also allegedly at risk",
+      "link": "https://www.gamesindustry.biz/xbox-is-reportedly-considering-closing-south-of-midnight-studio-compulsion-games-with-double-fine-and-ninja-theory-also-allegedly-at-risk",
+      "source": "GamesIndustry.biz Latest Articles Feed",
+      "published_at": "2026-06-15T21:00:01+00:00",
+      "summary": "Update, June 16:  Staff at Senua developer Ninja Theory were apparently told on a call on Monday, June 15, that the studio was at risk of closure.  That's according to The Verge , which reports that employees were told that the company was hoping to find a buyer.    Read more"
+    },
+    {
+      "title": "Toys for Bob says Spyro: Reignited's 11m sales proved \"there's an audience that woke up to show up for that series\"",
+      "link": "https://www.gamesindustry.biz/toys-for-bob-says-spyro-reigniteds-11m-sales-proved-theres-an-audience-that-woke-up-to-show-up-for-that-series",
+      "source": "GamesIndustry.biz Latest Articles Feed",
+      "published_at": "2026-06-15T20:24:47+00:00",
+      "summary": "Spyro: A Realm Beyond developer Toys for Bob revealed that while it was a \"massive, massive risk\" to go independent, Spyro Reignited Trilogy's 11 million sales proved \"there's an audience that woke up to show up for that series.\"    Read more"
+    },
+    {
+      "title": "Blizzard sues private World of Warcraft server for \"large-scale, egregious, and ongoing infringement of Blizzard's intellectual property\"",
+      "link": "https://www.gamesindustry.biz/blizzard-sues-private-world-of-warcraft-server-for-large-scale-egregious-and-ongoing-infringement-of-blizzards-intellectual-property",
+      "source": "GamesIndustry.biz Latest Articles Feed",
+      "published_at": "2026-06-15T17:38:02+00:00",
+      "summary": "Blizzard has filed a copyright lawsuit against the private World of Warcraft server project,  Project Ascension.    Read more"
+    },
+    {
+      "title": "HR veteran Liz Prince awarded MBE for services to the games industry and diversity",
+      "link": "https://www.gamesindustry.biz/hr-veteran-liz-prince-awarded-mbe-for-services-to-the-games-industry-and-diversity",
+      "source": "GamesIndustry.biz Latest Articles Feed",
+      "published_at": "2026-06-15T15:46:05+00:00",
+      "summary": "Liz Prince, veteran business manager at gaming recruitment specialist Amiqus, has been awarded an MBE in the King's Birthday Honours list for services to the Games Industry and Diversity.    Read more"
+    },
+    {
+      "title": "Xbox Game Studios boss Craig Duncan and Chief of Staff Louise O'Connor step down",
+      "link": "https://www.gamesindustry.biz/xbox-game-studios-boss-craig-duncan-and-chief-of-staff-louise-oconnor-step-down",
+      "source": "GamesIndustry.biz Latest Articles Feed",
+      "published_at": "2026-06-15T14:56:34+00:00",
+      "summary": "Craig Duncan, the leader of Xbox Games Studios, has departed the business after eighteen months in the role, according to a report in  The Game Business . His chief of staff Louise O'Connor is also leaving, less than a year after joining.    Read more"
+    },
+    {
+      "title": "What went wrong with Sega's $776m acquisition of Angry Birds giant Rovio?",
+      "link": "https://www.gamesindustry.biz/what-went-wrong-with-segas-776m-acquisition-of-angry-birds-giant-rovio",
+      "source": "GamesIndustry.biz Latest Articles Feed",
+      "published_at": "2026-06-15T12:38:52+00:00",
+      "summary": "In 2023, Japanese games giant Sega Sammy  acquired  Angry Birds maker Rovio for $776 million.    Read more"
+    },
+    {
+      "title": "EA rolls out Advertising platform to let companies market \"directly into gameplay\"",
+      "link": "https://www.gamesindustry.biz/ea-rolls-out-advertising-arm-to-let-companies-market-directly-into-gameplay",
+      "source": "GamesIndustry.biz Latest Articles Feed",
+      "published_at": "2026-06-15T11:18:51+00:00",
+      "summary": "US publishing giant Electronic Arts is launching EA Advertising, a new platform that allows brands to market directly to consumers via gameplay.    Read more"
+    },
+    {
+      "title": "Sonic lead says AAA developers have much to learn from indie studios",
+      "link": "https://www.gamesindustry.biz/sonic-lead-says-aaa-developers-have-much-to-learn-from-indie-studios",
+      "source": "GamesIndustry.biz Latest Articles Feed",
+      "published_at": "2026-06-15T10:33:31+00:00",
+      "summary": "Takashi Iizuka, the producer on Sega's Sonic the Hedgehog franchise, has said that AAA developers can take lessons from how indie studios operate.    Read more"
+    },
+    {
+      "title": "UKIE welcomes video games being classed separately from social media as UK government announces ban",
+      "link": "https://www.gamesindustry.biz/ukie-hails-video-games-being-classed-separately-from-social-media-as-uk-government-announces-ban",
+      "source": "GamesIndustry.biz Latest Articles Feed",
+      "published_at": "2026-06-15T10:03:50+00:00",
+      "summary": "UK video games trade body UKIE has welcomed the government's decision to classify video games as being distinct from social media, as a ban on the latter for under-16s is set to be introduced.    Read more"
+    },
+    {
+      "title": "Report: Microsoft weighing up spinning off Xbox",
+      "link": "https://www.gamesindustry.biz/report-microsoft-weighing-up-spinning-off-xbox",
+      "source": "GamesIndustry.biz Latest Articles Feed",
+      "published_at": "2026-06-15T09:16:32+00:00",
+      "summary": "Tech giant Microsoft is reportedly considering spinning off Xbox as a separate entity or restructuring the games division as a wholly owned subsidiary.    Read more"
+    },
+    {
+      "title": "Asha Sharma faces tough decisions with limited room for manoeuvre | Opinion",
+      "link": "https://www.gamesindustry.biz/asha-sharma-faces-tough-decisions-with-limited-room-for-manoeuvre-opinion",
+      "source": "GamesIndustry.biz Latest Articles Feed",
+      "published_at": "2026-06-12T15:53:54+00:00",
+      "summary": "The general consensus on Asha Sharma's first 100 days as Xbox CEO has been largely positive. She has certainly confounded the fears of early detractors who took one look at her  background in the company's Core AI division  and decried her appointment to Xbox as a death knell. The primary fear seemed to be that she would turn Microsoft's gaming division into another trojan horse for getting Copilot onto everyone's devices; instead, last month she announced the  cancellation of the Copilot project  for consoles that had started before she arrived.    Read more"
+    },
+    {
+      "title": "The GamesIndustry.biz Summer Party returns Wednesday July 15",
+      "link": "https://www.gamesindustry.biz/gamesindustrybiz-summer-party-returns-wednesday-july-15",
+      "source": "GamesIndustry.biz Latest Articles Feed",
+      "published_at": "2026-06-12T15:32:54+00:00",
+      "summary": "The GamesIndustry.biz Summer Party will take place Wednesday July 15, returning once again to Horatio's Bar on Brighton Pier.    Read more"
+    },
+    {
+      "title": "\"We're going to see more hit games coming from publishers you've never heard of\" – Pocketpair and the indie publishing revolution",
+      "link": "https://www.gamesindustry.biz/were-going-to-see-more-hit-games-coming-from-publishers-youve-never-heard-of-pocketpair-and-the-indie-publishing-revolution",
+      "source": "GamesIndustry.biz Latest Articles Feed",
+      "published_at": "2026-06-12T12:58:30+00:00",
+      "summary": "John Buckley, head of publishing and communications at Palworld creator Pocketpair, says that big publishers need to get with the times. \"The terms they offer and the way they structure their deals have increasingly become irrelevant to what the industry is today.\"    Read more"
+    },
+    {
+      "title": "\"I was given that opportunity to go crazy and do something kind of insane\" - Will Wright and Maxis look back on nine years making Spore",
+      "link": "https://www.gamesindustry.biz/maxis-devs-detail-the-operational-challenges-behind-spores-nine-year-development-cycle",
+      "source": "GamesIndustry.biz Latest Articles Feed",
+      "published_at": "2026-06-12T11:04:51+00:00",
+      "summary": "A new retrospective on Maxis' creature simulation game Spore outlines the operational challenges that shaped its nine-year development cycle.    Read more"
+    },
+    {
+      "title": "Playstack CEO: new owner will keep it separate from its games media brands including GamesSpot and Fandom",
+      "link": "https://www.gamesindustry.biz/playstack-ceo-new-owner-will-keep-it-separate-from-its-games-media-brands-including-gamesspot-and-fandom",
+      "source": "GamesIndustry.biz Latest Articles Feed",
+      "published_at": "2026-06-12T08:00:00+00:00",
+      "summary": "Harvey Elliott, the CEO of Balatro and Abiotic publisher Playstack, has said the firm's  sale to the owner of Fandom and GameSpot  will not impact either, telling  GamesIndustry.biz  that new owner Integrated Media Company (IMC) had committed to maintaining Playstack separately from its media investments.    Read more"
+    },
+    {
+      "title": "Nintendo implements restrictions to multi-language Switch 2 in Japan to combat scalpers",
+      "link": "https://www.gamesindustry.biz/nintendo-implements-restrictions-to-multi-language-switch-2-in-japan-to-combat-scalpers",
+      "source": "GamesIndustry.biz Latest Articles Feed",
+      "published_at": "2026-06-12T07:57:02+00:00",
+      "summary": "Nintendo has implemented purchase restrictions on the Switch 2 multi-language version in Japan.    Read more"
+    },
+    {
+      "title": "\"My worry is that generative AI is poisoning the well\" – Take-Two's former head of AI shares his concerns on the current hype cycle",
+      "link": "https://www.gamesindustry.biz/my-worry-is-that-generative-ai-is-poisoning-the-well-take-twos-former-head-of-ai-shares-his-concerns-on-the-current-hype-cycle",
+      "source": "GamesIndustry.biz Latest Articles Feed",
+      "published_at": "2026-06-11T12:05:40+00:00",
+      "summary": "Back at the start of April, it emerged that  Take-Two had laid off its AI team  as part of a restructuring initiative.    Read more"
+    },
+    {
+      "title": "Xbox says hardware pricing boom represents \"great\" opportunity for games streaming",
+      "link": "https://www.gamesindustry.biz/xbox-says-hardware-pricing-boom-represents-great-opportunity-for-games-streaming",
+      "source": "GamesIndustry.biz Latest Articles Feed",
+      "published_at": "2026-06-11T10:23:57+00:00",
+      "summary": "Xbox's  newly anointed chief strategy officer, Matthew Ball , has said that the current spike in hardware pricing represents an opportunity for games streaming.    Read more"
+    },
+    {
+      "title": "Analyst: Q1 2026 revenue figures show there is still demand for compelling single-player video games",
+      "link": "https://www.gamesindustry.biz/analyst-q1-2026-revenue-figures-show-there-is-still-demand-for-compelling-single-player-video-games",
+      "source": "GamesIndustry.biz Latest Articles Feed",
+      "published_at": "2026-06-11T10:19:50+00:00",
+      "summary": "Global game content revenue increased 3.6% to $54.14 billion in Q1 2026, marking the seventh consecutive quarter of year-over-year growth, according to estimates reported by S&P Global Market Intelligence.    Read more"
+    },
+    {
+      "title": "Jin Universe Studios launches with investor backing to fund debut title Aether Dawn",
+      "link": "https://www.gamesindustry.biz/jin-universe-studios-launches-with-investor-backing-to-fund-debut-title-aether-dawn",
+      "source": "GamesIndustry.biz Latest Articles Feed",
+      "published_at": "2026-06-11T06:54:56+00:00",
+      "summary": "Singapore-based Jin Universe Studios has launched, backed by Arbitrum Gaming Ventures (AGV) and Bitkraft Ventures.    Read more"
+    },
+    {
+      "title": "Ubisoft's San Francisco office impacted by current round of cuts",
+      "link": "https://www.gamesindustry.biz/yet-more-layoffs-reported-at-ubisoft-this-time-in-san-francisco",
+      "source": "GamesIndustry.biz Latest Articles Feed",
+      "published_at": "2026-06-10T23:06:00+00:00",
+      "summary": "On the same day as  Ubisoft announced it was closing its studios in Winnipeg and Belgrade and proposing further changes in Barcelona , it's now believed dozens of staff have been laid off from its San Francisco studio, too.    Read more"
+    },
+    {
+      "title": "Xbox reportedly planning more layoffs as CEO calls for \"Xbox reset\"",
+      "link": "https://www.gamesindustry.biz/xbox-reportedly-planning-more-layoffs-as-ceo-calls-for-xbox-reset",
+      "source": "GamesIndustry.biz Latest Articles Feed",
+      "published_at": "2026-06-10T22:47:49+00:00",
+      "summary": "Xbox is reportedly considering major layoffs, telling staff, \"we need to reassess [...] our investment priorities for the next five years\" and warning \"we've become too reliant on vendors to operate our systems and must become more self-reliant as an engineering culture to build for the future.\"    Read more"
+    },
+    {
+      "title": "Ubisoft closing studios in Winnipeg and Belgrade and cutting publishing roles worldwide, 380 jobs at risk",
+      "link": "https://www.gamesindustry.biz/ubisoft-closing-studios-in-winnipeg-and-belgrade-and-cutting-publishing-roles-worldwide-380-jobs-at-risk",
+      "source": "GamesIndustry.biz Latest Articles Feed",
+      "published_at": "2026-06-10T17:00:00+00:00",
+      "summary": "Ubisoft has carried out another round of cuts as part of its  seemingly endless restructuring process , sources have told   GamesIndustry.biz  . It is closing its studios in Winnipeg and Belgrade and proposing further changes in Barcelona and to its global publishing team. 380 roles are understood to be at risk.    Read more"
+    },
+    {
+      "title": "Why the $55bn acquisition of Electronic Arts isn't your usual leveraged buyout",
+      "link": "https://www.gamesindustry.biz/why-the-55bn-acquisition-of-electronic-arts-isnt-your-usual-leveraged-buyout",
+      "source": "GamesIndustry.biz Latest Articles Feed",
+      "published_at": "2026-06-10T14:00:15+00:00",
+      "summary": "In September 2025, the news broke that a consortium of investors led by Saudi Arabia's Public Investment Fund (PIF) had  made an offer to buy Electronic Arts .    Read more"
+    },
+    {
+      "title": "ESA warns 'No Fakes Act' fails to distinguish between deepfakes and digital replicas used in video games",
+      "link": "https://www.gamesindustry.biz/esa-warns-no-fakes-act-fails-to-distinguish-between-deepfakes-and-digital-replicas-used-in-video-games",
+      "source": "GamesIndustry.biz Latest Articles Feed",
+      "published_at": "2026-06-10T13:55:21+00:00",
+      "summary": "The Entertainment Software Association (ESA) has warned that a proposed deepfake bill could hurt the games industry by failing to distinguish between AI-generated content and digital replicas.    Read more"
+    },
+    {
+      "title": "New Arm tech enables the use of Unreal Engine MegaLights on mobile",
+      "link": "https://www.gamesindustry.biz/new-arm-tech-enables-the-use-of-unreal-engine-megalights-on-mobile",
+      "source": "GamesIndustry.biz Latest Articles Feed",
+      "published_at": "2026-06-10T13:00:00+00:00",
+      "summary": "The UK-based semiconductor and software design company Arm has revealed the game Neural Dawn, which takes advantage of Arm's neural graphics technology to allow the use of Unreal Engine MegaLights on mobile devices. Until now, the ray-tracing capabilities of MegaLights were not supported on mobile.    Read more"
+    },
+    {
+      "title": "Frontier Developments reports record profits in FY26 turnaround",
+      "link": "https://www.gamesindustry.biz/frontier-developments-reports-record-profits-in-fy26-turnaround",
+      "source": "GamesIndustry.biz Latest Articles Feed",
+      "published_at": "2026-06-10T12:52:49+00:00",
+      "summary": "Frontier Developments reported its second-highest revenue to date, rising 16% to £104.8 million in FY26.    Read more"
+    },
+    {
+      "title": "Xbox CEO outlines strategy to prioritise cost-efficiency and exclusive titles over premium hardware",
+      "link": "https://www.gamesindustry.biz/xbox-ceo-outlines-strategy-to-prioritise-cost-efficiency-and-exclusive-titles-over-premium-hardware",
+      "source": "GamesIndustry.biz Latest Articles Feed",
+      "published_at": "2026-06-10T08:24:06+00:00",
+      "summary": "Xbox CEO Asha Sharma says the industry should prioritise reducing hardware production costs rather than focusing solely on developing the \"most premium, high-performance consoles\".    Read more"
+    },
+    {
+      "title": "Big Walk's creators reflect on their six-year journey",
+      "link": "https://www.gamesindustry.biz/big-walks-creators-reflect-on-their-six-year-journey",
+      "source": "GamesIndustry.biz Latest Articles Feed",
+      "published_at": "2026-06-09T15:00:00+00:00",
+      "summary": "The mandatory COVID lockdowns of 2020 inspired Big Walk. Melbourne-based developer House House – which was behind the 2019 hit Untitled Goose Game – wanted to create something that was about socialising outside with your friends at a time when this was impossible. But the devs had no idea it would take six years to complete.    Read more"
+    },
+    {
+      "title": "Date Everything wins two accolades at The Gayming Awards 2026",
+      "link": "https://www.gamesindustry.biz/date-everything-wins-two-accolades-at-the-gayming-awards-2026",
+      "source": "GamesIndustry.biz Latest Articles Feed",
+      "published_at": "2026-06-09T13:00:00+00:00",
+      "summary": "Sassy Chap Games' Date Everything won Best LGBTQ+ Indie Game and the Gayming Fan Favourite Award at this year's Gayming Awards.    Read more"
+    },
+    {
+      "title": "\"Product visibility needs a more cohesive and structural approach\" – How VaultN aims to unify the digital distribution ecosystem",
+      "link": "https://www.gamesindustry.biz/product-visibility-needs-a-more-cohesive-and-structural-approach-how-vaultn-aims-to-unify-the-digital-distribution-ecosystem",
+      "source": "GamesIndustry.biz Latest Articles Feed",
+      "published_at": "2026-06-09T12:00:00+00:00",
+      "summary": "Last year, the digital distribution platform VaultN partnered with Take-Two Interactive, having already secured customers such as Bethesda, Team17, Landfall, and Curve.    Read more"
+    },
+    {
+      "title": "Amazon committed to developing Lord of the Rings game, is \"evaluating different concepts\"",
+      "link": "https://www.gamesindustry.biz/amazon-committed-to-developing-lord-of-the-rings-game-is-evaluating-different-concepts",
+      "source": "GamesIndustry.biz Latest Articles Feed",
+      "published_at": "2026-06-09T10:20:40+00:00",
+      "summary": "Amazon remains committed to developing a Lord of the Rings game, despite recent reports of its   MMO project being cancelled .    Read more"
+    },
+    {
+      "title": "Türkiye's domestic mobile revenue grew 6% to $347m in 2025",
+      "link": "https://www.gamesindustry.biz/turkiyes-domestic-mobile-revenue-grew-6-to-347m-in-2025",
+      "source": "GamesIndustry.biz Latest Articles Feed",
+      "published_at": "2026-06-09T09:05:24+00:00",
+      "summary": "Türkiye's mobile revenue rose 6% in 2025 to $347 million, its highest annual total to date. Over the past six years, Turkish developer revenue has grown by 450% to $2.7 billion.    Read more"
+    },
+    {
+      "title": "Ninja Theory cancels Project Mara",
+      "link": "https://www.gamesindustry.biz/ninja-theory-cancels-project-mara",
+      "source": "GamesIndustry.biz Latest Articles Feed",
+      "published_at": "2026-06-09T07:46:09+00:00",
+      "summary": "Ninja Theory has cancelled its horror title codenamed Project Mara.    Read more"
+    },
+    {
+      "title": "Roblox partners with SuperAwesome to bring \"brand safe advertising\" to under-13s",
+      "link": "https://www.gamesindustry.biz/roblox-partners-with-superawesome-to-bring-brand-safe-advertising-to-under-13s",
+      "source": "GamesIndustry.biz Latest Articles Feed",
+      "published_at": "2026-06-08T21:53:33+00:00",
+      "summary": "Youth marketing firm SuperAwesome has been appointed Roblox's commercial and technology partner for \"under-13 contextual advertising.\"    Read more"
+    },
+    {
+      "title": "Xbox explains new exclusives policy: players \"can expect a reliable pipeline\" of exclusive titles in service of  \"turning around the business\"",
+      "link": "https://www.gamesindustry.biz/xbox-explains-new-exclusives-policy-players-can-expect-a-reliable-pipeline-of-exclusive-titles-in-service-of-turning-around-the-business",
+      "source": "GamesIndustry.biz Latest Articles Feed",
+      "published_at": "2026-06-08T18:42:29+00:00",
+      "summary": "Xbox Chief Strategy Officer Matthew Ball has given more insight into the firm's new commitment to platform exclusives, following the  announcement yesterday that both Gears of War: E-Day and Clockwork Revolution would not be available on non-Xbox platforms .    Read more"
+    },
+    {
+      "title": "After a stint on Warzone, Toys for Bob is thrilled to be back on Spyro – \"We were moving away from the types of games that are near and dear to our hearts\"",
+      "link": "https://www.gamesindustry.biz/after-a-stint-on-warzone-toys-for-bob-is-thrilled-to-be-back-on-spyro-we-were-moving-away-from-the-types-of-games-that-are-near-and-dear-to-our-hearts",
+      "source": "GamesIndustry.biz Latest Articles Feed",
+      "published_at": "2026-06-08T15:50:25+00:00",
+      "summary": "You might know Toys for Bob from the Skylanders franchise, as well as the 2018 Spyro Reignited Trilogy and 2020's Crash Bandicoot 4: It's About Time. But you might not appreciate just how long this studio has been around. \"We're actually one of the longest running game development studios in North America,\" studio head Paul Yan tells  GamesIndustry.biz . \"We just celebrated our 37 year anniversary this past April.\"    Read more"
+    },
+    {
+      "title": "Nintendo of Europe agrees to pay €35m fine for Joy-Con drift defects",
+      "link": "https://www.gamesindustry.biz/nintendo-of-europe-agrees-to-pay-35m-fine-for-joy-con-drift-defects",
+      "source": "GamesIndustry.biz Latest Articles Feed",
+      "published_at": "2026-06-08T13:43:43+00:00",
+      "summary": "Nintendo of Europe has agreed to pay a €35 million fine after a French regulator found the company misled customers about Joy-Con drift defects on original Switch controllers.    Read more"
+    },
+    {
+      "title": "Nintendo confirms revised Switch 2 console with replaceable battery for EU consumers",
+      "link": "https://www.gamesindustry.biz/nintendo-confirms-revised-switch-2-console-with-replaceable-battery-for-eu-consumers",
+      "source": "GamesIndustry.biz Latest Articles Feed",
+      "published_at": "2026-06-08T08:33:49+00:00",
+      "summary": "Nintendo has announced a revised Switch 2 console for Europe to  comply with legislation requiring replaceable batteries .    Read more"
+    },
+    {
+      "title": "\"We walked away from years of work\" – The long and troubled journey of The Wolf Among Us 2",
+      "link": "https://www.gamesindustry.biz/we-walked-away-from-years-of-work-the-long-and-troubled-journey-of-the-wolf-among-us-2",
+      "source": "GamesIndustry.biz Latest Articles Feed",
+      "published_at": "2026-06-08T08:00:00+00:00",
+      "summary": "After a long, long wait, the Big Bad Wolf has finally returned.    Read more"
+    },
+    {
+      "title": "Xbox confirms console exclusivity will be decided on \"case by case basis\"",
+      "link": "https://www.gamesindustry.biz/xbox-confirms-console-exclusivity-will-be-decided-on-case-by-case-basis",
+      "source": "GamesIndustry.biz Latest Articles Feed",
+      "published_at": "2026-06-08T06:56:03+00:00",
+      "summary": "Xbox opened its summer showcase with the news that Gears of War E-day will not, after all, be releasing on PlayStation 5, and neither will inXile's Clockwork Revolution.    Read more"
+    },
+    {
+      "title": "Crystal Dynamics using generative AI for early prototyping, but \"finished content is human-created\"",
+      "link": "https://www.gamesindustry.biz/crystal-dynamics-using-generative-ai-for-early-prototyping-but-finished-content-is-human-created",
+      "source": "GamesIndustry.biz Latest Articles Feed",
+      "published_at": "2026-06-08T06:35:50+00:00",
+      "summary": "Crystal Dynamics has given more detail to  GamesIndustry.biz  on how it's using AI in the development of Tomb Raider: Legacy of Atlantis, following online backlash to the firm's  disclosure in the Steam page for the game .    Read more"
+    },
+    {
+      "title": "The Summer Game Fest showcase showed Japan’s top game-makers racing ever further ahead of the west | Opinion",
+      "link": "https://www.gamesindustry.biz/the-summer-game-fest-showcase-showed-japans-top-game-makers-racing-ever-further-ahead-of-the-west-opinion",
+      "source": "GamesIndustry.biz Latest Articles Feed",
+      "published_at": "2026-06-06T18:00:45+00:00",
+      "summary": "Summer Game Fest’s 2026 showcase  seemed to cement a grim truth for western game-makers: Japanese studios are delivering more and more quality games hardcore players love than the west seems able to right now.    Read more"
+    },
+    {
+      "title": "007 First Light officially sells 2.7 million copies, \"probably\" at three million",
+      "link": "https://www.gamesindustry.biz/007-first-light-officially-sells-27-million-copies-probably-at-three-million",
+      "source": "GamesIndustry.biz Latest Articles Feed",
+      "published_at": "2026-06-06T16:03:05+00:00",
+      "summary": "IO Interactive CEO Hakan Abrak says that the studio's recently-released 007 First Light is approaching three million copies sold, and while the game has yet to recoup its budget the goal is well below the $200 million budget previously reported. He says that conversations are ongoing about how the firm will work with Bond licence owner Amazon beyond the first year of content for the game.    Read more"
+    },
+    {
+      "title": "Platinum is making a triple-A Ninja Turtles game because they're \"huge fans\" of the IP",
+      "link": "https://www.gamesindustry.biz/platinum-is-making-a-triple-a-ninja-turtles-game-because-theyre-huge-fans-of-the-ip",
+      "source": "GamesIndustry.biz Latest Articles Feed",
+      "published_at": "2026-06-05T21:45:36+00:00",
+      "summary": "Bayonetta dev PlatinumGames signed up to work on Teenage Mutant Ninja Turtles: The Last Ronin because the studio were \"huge fans\" of the IP, according to Dan Prigg, the head of the  newly re-announced Paramount Games Studio . Platinum was announced as the developer of the game in the Summer Game Fest showcase today.    Read more"
+    },
+    {
+      "title": "\"We have secured our components for this year\" – Nex Playground hopes to avoid any further AI-related price rises",
+      "link": "https://www.gamesindustry.biz/we-have-secured-our-components-for-this-year-nex-playground-hopes-to-avoid-any-further-ai-related-price-rises",
+      "source": "GamesIndustry.biz Latest Articles Feed",
+      "published_at": "2026-06-05T16:42:42+00:00",
+      "summary": "Pre-orders are  already live  for the UK and Ireland launch of the Nex Playground, which is set to ship towards the end of June. The console, which is aimed at families and employs motion-tracking technology – much like Microsoft's long-gone Kinect – proved to be a surprise hit in the United States,  pushing the PlayStation 5 into third place  for gaming hardware unit sales in November 2025.    Read more"
+    },
+    {
+      "title": "Merge Mansion dev Metacore lays off 159 employees, closes studios in Germany and Sweden",
+      "link": "https://www.gamesindustry.biz/merge-mansion-dev-metacore-lays-off-159-employees-closes-operations-in-germany-and-sweden",
+      "source": "GamesIndustry.biz Latest Articles Feed",
+      "published_at": "2026-06-05T13:49:47+00:00",
+      "summary": "Mobile studio Metacore has  confirmed layoffs of 159 employees in Finland  and the closure of its operations in Germany and Sweden.    Read more"
+    }
+  ]
+}

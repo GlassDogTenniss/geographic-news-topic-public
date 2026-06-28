@@ -1,0 +1,734 @@
+{
+  "ok": true,
+  "created_at": "2026-06-28T16:32:08.618584+00:00",
+  "stats": {
+    "feed_id": "gameworldobserver-global",
+    "feed_label": "Game World Observer: Global industry",
+    "rss_url": "https://gameworldobserver.com/feed",
+    "fetched": 100,
+    "filtered": 100,
+    "resolved": 0,
+    "unresolved": 100,
+    "rules": 9,
+    "known_places": 11,
+    "loaded_data_files": [
+      "data/place_rules.json",
+      "data/unresolved_known_places_12.json"
+    ],
+    "topic_keywords": [
+      "game",
+      "games",
+      "studio",
+      "developer",
+      "publisher",
+      "industry",
+      "market",
+      "Steam",
+      "mobile",
+      "PC"
+    ],
+    "exclude_keywords": []
+  },
+  "unresolved": [
+    {
+      "title": "007 First Light was the highest-grossing game in May in the US",
+      "link": "https://gameworldobserver.com/2026/06/26/007-first-light-was-the-highest-grossing-game-in-may-in-the-us",
+      "source": "Game World Observer",
+      "published_at": "2026-06-26T13:28:30+00:00",
+      "summary": "Circana analyst Mat Piscatella continues to share data on the U.S. gaming market. He published detailed statistics for May, which include information on revenue and top blockbusters."
+    },
+    {
+      "title": "WN Istanbul’26 took place in Turkey. We share the results",
+      "link": "https://gameworldobserver.com/2026/06/25/wn-istanbul26-took-place-in-turkey-we-share-the-results",
+      "source": "Game World Observer",
+      "published_at": "2026-06-25T14:41:38+00:00",
+      "summary": "Last week, WN Istanbul’26 took place in Istanbul — the tenth anniversary Turkish event for game developers and publishers organized by WN Media Group. Here’s what happened at the event."
+    },
+    {
+      "title": "Google Play is preparing to reduce its commission in the European Union, the United Kingdom, and the United States",
+      "link": "https://gameworldobserver.com/2026/06/25/google-play-is-preparing-to-reduce-its-commission-in-the-european-union-the-united-kingdom-and-the-united-states",
+      "source": "Game World Observer",
+      "published_at": "2026-06-25T13:51:46+00:00",
+      "summary": "Google Corporation has confirmed that it still plans to reduce the commission rate in its app store. It first announced its intentions back in March ahead of the conclusion of its long-standing legal battles with Epic Games."
+    },
+    {
+      "title": "Stronghold 4 has garnered over 250,000 wishlists",
+      "link": "https://gameworldobserver.com/2026/06/24/stronghold-4-has-garnered-over-250000-wishlists",
+      "source": "Game World Observer",
+      "published_at": "2026-06-24T05:56:12+00:00",
+      "summary": "Steam users have shown great interest in the new installment of the legendary strategy franchise Stronghold. They added Stronghold 4 to their wishlists a quarter of a million times within just two weeks of the game’s announcement."
+    },
+    {
+      "title": "Report: Tencent May Sell Its Stake in Several Japanese Studios",
+      "link": "https://gameworldobserver.com/2026/06/23/report-tencent-may-sell-its-stake-in-several-japanese-studios",
+      "source": "Game World Observer",
+      "published_at": "2026-06-23T13:48:35+00:00",
+      "summary": "The Chinese giant Tencent is preparing to divest some of its gaming assets in Japan, reports Bloomberg, citing sources."
+    },
+    {
+      "title": "Obsidian Entertainment accused of skimping on salaries",
+      "link": "https://gameworldobserver.com/2026/06/22/obsidian-entertainment-accused-of-skimping-on-salaries",
+      "source": "Game World Observer",
+      "published_at": "2026-06-22T11:52:01+00:00",
+      "summary": "Obsidian Entertainment has faced a lawsuit in the United States. The company was sued by former employees who claim it violated California labor laws."
+    },
+    {
+      "title": "Sony has officially removed the release of single-player games on PC from its business strategy",
+      "link": "https://gameworldobserver.com/2026/06/19/sony-has-officially-removed-the-release-of-single-player-games-on-pc-from-its-business-strategy",
+      "source": "Game World Observer",
+      "published_at": "2026-06-19T13:17:20+00:00",
+      "summary": "Every June, Sony submits a comprehensive annual report to the U.S. Securities and Exchange Commission (SEC), detailing its business strategy among other things. As noted by Game File journalist Stephen Totilo, this time the company introduced several significant changes regarding its gaming division’s operations."
+    },
+    {
+      "title": "The crisis didn’t prevent the gaming market from setting a revenue record in 2025, according to analytics",
+      "link": "https://gameworldobserver.com/2026/06/18/the-crisis-didnt-prevent-the-gaming-market-from-setting-a-revenue-record-in-2025-according-to-analytics",
+      "source": "Game World Observer",
+      "published_at": "2026-06-18T13:53:31+00:00",
+      "summary": "The analytics company Newzoo has finally summed up the results for the global video game market in 2025—before this, they had released several forecasts. As it turns out, last year became the most profitable in monetary terms in the history of observations, despite numerous layoffs and studio closures."
+    },
+    {
+      "title": "The European Commission did not support the initiative to preserve the Stop Killing Games",
+      "link": "https://gameworldobserver.com/2026/06/17/the-european-commission-did-not-support-the-initiative-to-preserve-the-stop-killing-games",
+      "source": "Game World Observer",
+      "published_at": "2026-06-17T13:35:04+00:00",
+      "summary": "The authors of the Stop Killing Games initiative, aimed at preventing the deactivation of games purchased by gamers, were unable to secure support from the European Commission. The agency officially stated that “at this stage,” it cannot intervene and amend EU legislation."
+    },
+    {
+      "title": "Report: Xbox intends to close several studios at once",
+      "link": "https://gameworldobserver.com/2026/06/16/report-xbox-intends-to-close-several-studios-at-once",
+      "source": "Game World Observer",
+      "published_at": "2026-06-16T06:07:36+00:00",
+      "summary": "Microsoft’s gaming division may undergo significant “downsizing.” As reported by Bloomberg journalist Jason Schreier, XBOX is preparing to part ways with at least three teams."
+    },
+    {
+      "title": "Valve has once again been accused of having a monopoly in the PC market — this time in the Netherlands",
+      "link": "https://gameworldobserver.com/2026/06/15/valve-has-once-again-been-accused-of-having-a-monopoly-in-the-pc-market-this-time-in-the-netherlands",
+      "source": "Game World Observer",
+      "published_at": "2026-06-15T11:51:50+00:00",
+      "summary": "A Dutch NGO, The Consumer Competition Claims Foundation (CCCF), has taken a stand against the owner of Steam."
+    },
+    {
+      "title": "Case Study: How The One Game Studio Hit 170% D1 ROAS and Achieved a 1.26x Ad LTV Lift with ByteBrew Ads",
+      "link": "https://gameworldobserver.com/2026/06/11/case-study-how-the-one-game-studio-hit-170-d1-roas-and-achieved-a-1-26x-ad-ltv-lift-with-bytebrew-ads",
+      "source": "Game World Observer",
+      "published_at": "2026-06-11T15:01:39+00:00",
+      "summary": "Kian Hozouri, COO and co-founder of ByteBrew, shared in his Game World Observer column how his startup helped The One Game Studio achieve impressive results in ROAS and Ad LTV growth."
+    },
+    {
+      "title": "Ubisoft to lay off several hundred employees and close two studios",
+      "link": "https://gameworldobserver.com/2026/06/11/ubisoft-to-lay-off-several-hundred-employees-and-close-two-studios",
+      "source": "Game World Observer",
+      "published_at": "2026-06-11T12:47:47+00:00",
+      "summary": "Restructuring is ongoing at Ubisoft. This has been reported by the media, referencing an internal company letter."
+    },
+    {
+      "title": "ESA is concerned that the American bill against deepfakes could harm video games",
+      "link": "https://gameworldobserver.com/2026/06/10/esa-is-concerned-that-the-american-bill-against-deepfakes-could-harm-video-games",
+      "source": "Game World Observer",
+      "published_at": "2026-06-10T14:39:23+00:00",
+      "summary": "This week, a bill aimed at combating deepfakes will be reviewed in the United States. Although the initiative does not directly concern video games, it could still have an impact on them—and not in a positive way. At least, that’s the perspective of the Entertainment Software Association (ESA)."
+    },
+    {
+      "title": "Nintendo was fined 35 million euros due to Joy-Con stick drift",
+      "link": "https://gameworldobserver.com/2026/06/09/nintendo-was-fined-35-million-euros-due-to-joy-con-stick-drift",
+      "source": "Game World Observer",
+      "published_at": "2026-06-09T13:44:38+00:00",
+      "summary": "In France, an investigation into Nintendo related to defective Joy-Con controller sticks has concluded. The outcome was not in the company’s favor."
+    },
+    {
+      "title": "Report: Supercell conducted layoffs in its North American division",
+      "link": "https://gameworldobserver.com/2026/06/08/report-supercell-conducted-layoffs-in-its-north-american-division",
+      "source": "Game World Observer",
+      "published_at": "2026-06-08T12:19:33+00:00",
+      "summary": "The workforce of Supercell has become smaller, reports MobileGamer, referencing posts from laid-off employees on social media."
+    },
+    {
+      "title": "The WN Istanbul’26 program has been announced. Among the participants are Rovio, Epic Games Store, Rollic Games, PlaySide Studios, and many others",
+      "link": "https://gameworldobserver.com/2026/06/04/the-wn-istanbul26-program-has-been-announced-among-the-participants-are-rovio-epic-games-store-rollic-games-playside-studios-and-many-others",
+      "source": "Game World Observer",
+      "published_at": "2026-06-04T12:57:49+00:00",
+      "summary": "In two weeks, on June 18 and 19, a business event for game developers and publishers, WN Istanbul’26, will take place in Turkey. Here’s what’s on the event’s agenda."
+    },
+    {
+      "title": "The WN Growth Summit took place in Limassol. Here are the highlights",
+      "link": "https://gameworldobserver.com/2026/06/03/the-wn-growth-summit-took-place-in-limassol-here-are-the-highlights",
+      "source": "Game World Observer",
+      "published_at": "2026-06-03T10:12:30+00:00",
+      "summary": "Last week on May 28, one of Cyprus’s largest cities hosted the WN Growth Summit Limassol’26. It focused on the growth challenges of the gaming business. Below are the key outcomes of the event."
+    },
+    {
+      "title": "Gabe Newell on the accusations of Steam’s monopoly: “Customers have enormous choice where they purchase their products”",
+      "link": "https://gameworldobserver.com/2026/06/02/gabe-newell-on-the-accusations-of-steams-monopoly-customers-have-enormous-choice-where-they-purchase-their-products",
+      "source": "Game World Observer",
+      "published_at": "2026-06-02T14:34:59+00:00",
+      "summary": "In 2023, Valve’s head Gabe Newell provided testimony in a legal case against Wolfire Games, which accused the company of monopolizing the PC store market. A transcript of his speech was recently obtained by Bloomberg."
+    },
+    {
+      "title": "Atari just got bigger: it has acquired the creators of Crossy Road",
+      "link": "https://gameworldobserver.com/2026/06/01/atari-just-got-bigger-it-has-acquired-the-creators-of-crossy-road",
+      "source": "Game World Observer",
+      "published_at": "2026-06-01T11:39:42+00:00",
+      "summary": "Atari continues its spree of M&A deals. This time, it announced the acquisition of the studio Hipster Whale."
+    },
+    {
+      "title": "A controlling stake in the publisher Balatro will be purchased for $150 million",
+      "link": "https://gameworldobserver.com/2026/05/29/a-controlling-stake-in-the-publisher-balatro-will-be-purchased-for-150-million",
+      "source": "Game World Observer",
+      "published_at": "2026-05-29T13:37:43+00:00",
+      "summary": "The British holding company TruFin has decided to sell its stake in Playstack—a publisher with a portfolio that includes Balatro, Abiotic Factor, Mortal Shell, and many other well-known games."
+    },
+    {
+      "title": "Report: KRAFTON will indeed pay the creators of Subnautica 2 $250 million",
+      "link": "https://gameworldobserver.com/2026/05/28/report-krafton-will-indeed-pay-the-creators-of-subnautica-2-250-million",
+      "source": "Game World Observer",
+      "published_at": "2026-05-28T14:11:10+00:00",
+      "summary": "The South Korean company KRAFTON has agreed to pay the studio Unknown Worlds a promised multimillion-dollar bonus. This was reported by sources from The Korea Economic Daily."
+    },
+    {
+      "title": "CD PROJEKT shares fell slightly after the announcement of a new expansion for The Witcher 3",
+      "link": "https://gameworldobserver.com/2026/05/27/cd-projekt-shares-fell-slightly-after-the-announcement-of-a-new-expansion-for-the-witcher-3",
+      "source": "Game World Observer",
+      "published_at": "2026-05-27T13:36:53+00:00",
+      "summary": "Rumors that CD PROJEKT is working on a third DLC for The Witcher 3: Wild Hunt have turned out to be true. The Polish company has officially announced the expansion titled Songs of the Past. However, investors have reacted coolly to the announcement."
+    },
+    {
+      "title": "The creators of Genshin Impact will spend nearly $15 billion on AI",
+      "link": "https://gameworldobserver.com/2026/05/26/the-creators-of-genshin-impact-will-spend-nearly-15-billion-on-ai",
+      "source": "Game World Observer",
+      "published_at": "2026-05-26T13:06:24+00:00",
+      "summary": "The head of miHoYo, Liu Wei, spoke at a private event in Beijing dedicated to artificial intelligence. During the event, he announced plans for the Chinese studio to actively develop AI for game creation."
+    },
+    {
+      "title": "The developers of Star Citizen have already raised over a billion dollars",
+      "link": "https://gameworldobserver.com/2026/05/25/the-developers-of-star-citizen-have-already-raised-over-a-billion-dollars",
+      "source": "Game World Observer",
+      "published_at": "2026-05-25T11:52:49+00:00",
+      "summary": "The crowdfunding campaign for Star Citizen has reached an astronomical milestone."
+    },
+    {
+      "title": "Losses decreased 15 times, GTA VI was not postponed — and more from Take-Two’s annual report",
+      "link": "https://gameworldobserver.com/2026/05/22/losses-decreased-15-times-gta-vi-was-not-postponed-and-more-from-take-twos-annual-report",
+      "source": "Game World Observer",
+      "published_at": "2026-05-22T13:06:36+00:00",
+      "summary": "The last fiscal year (April 2025 – March 2026) was excellent for Take-Two Interactive. The company’s results surpassed its forecasts."
+    },
+    {
+      "title": "Case Study: How DREADMOOR Reached 200,000+ Wishlists and Where They Came From",
+      "link": "https://gameworldobserver.com/2026/05/21/case-study-how-dreadmoor-reached-200000-wishlists-and-where-they-came-from",
+      "source": "Game World Observer",
+      "published_at": "2026-05-21T12:17:58+00:00",
+      "summary": "Irene Borodina, CMO of Digital Vortex Entertainment, explained how wishlists for the new game DREADMOOR were specifically generated in her column for Game World Observer."
+    },
+    {
+      "title": "Fellowship Entertainment will separate from Embracer Group in 2027, taking with it “The Lord of the Rings” and many other major IPs",
+      "link": "https://gameworldobserver.com/2026/05/20/fellowship-entertainment-will-separate-from-embracer-group-in-2027-taking-with-it-the-lord-of-the-rings-and-many-other-major-ips",
+      "source": "Game World Observer",
+      "published_at": "2026-05-20T13:57:32+00:00",
+      "summary": "Embracer Group has outlined the next phase of its transformation."
+    },
+    {
+      "title": "Fortnite has returned to the App Store worldwide, except in Australia",
+      "link": "https://gameworldobserver.com/2026/05/19/fortnite-has-returned-to-the-app-store-worldwide-except-in-australia",
+      "source": "Game World Observer",
+      "published_at": "2026-05-19T13:53:48+00:00",
+      "summary": "Epic Games announced this landmark event in the news section of its website. The company noted that this result was achieved due to prolonged legal proceedings in the United States."
+    },
+    {
+      "title": "Strauss Zelnick: Changing the visual style of the first Borderlands cost $50 million",
+      "link": "https://gameworldobserver.com/2026/05/18/strauss-zelnick-changing-the-visual-style-of-the-first-borderlands-cost-50-million",
+      "source": "Game World Observer",
+      "published_at": "2026-05-18T12:02:15+00:00",
+      "summary": "Such an amount was mentioned by Take-Two Interactive CEO Strauss Zelnick in an interview with podcaster David Senra."
+    },
+    {
+      "title": "The program for the WN Growth Summit has been published — the event will discuss what can drive sales growth in the modern gaming industry",
+      "link": "https://gameworldobserver.com/2026/05/15/the-program-for-the-wn-growth-summit-has-been-published-the-event-will-discuss-what-can-drive-sales-growth-in-the-modern-gaming-industry",
+      "source": "Game World Observer",
+      "published_at": "2026-05-15T13:51:02+00:00",
+      "summary": "The summit is happening very soon — in two weeks, on May 28th. From 9 AM to 5 PM, industry experts will share their experiences, cases, and advice with each other in a roundtable format."
+    },
+    {
+      "title": "The bill against the shutdown of online games was supported in the California Assembly",
+      "link": "https://gameworldobserver.com/2026/05/15/the-bill-against-the-shutdown-of-online-games-was-supported-in-the-california-assembly",
+      "source": "Game World Observer",
+      "published_at": "2026-05-15T13:28:32+00:00",
+      "summary": "The majority of the members of the California State Assembly Appropriations Committee voted in favor of it."
+    },
+    {
+      "title": "The preview version of Unreal Engine 5.8 has been released",
+      "link": "https://gameworldobserver.com/2026/05/14/the-preview-version-of-unreal-engine-5-8-has-been-released",
+      "source": "Game World Observer",
+      "published_at": "2026-05-14T13:49:00+00:00",
+      "summary": "Epic Games has released a preview version of the Unreal Engine 5.8, allowing developers to test out the tool’s new features in advance."
+    },
+    {
+      "title": "Record profit for the ninth consecutive year — and more from Capcom’s report",
+      "link": "https://gameworldobserver.com/2026/05/13/record-profit-for-the-ninth-consecutive-year-and-more-from-capcoms-report",
+      "source": "Game World Observer",
+      "published_at": "2026-05-13T14:27:11+00:00",
+      "summary": "The Japanese company Capcom released its report for the fiscal year ending March 31, 2026. In the document, it boasted new records."
+    },
+    {
+      "title": "WN Istanbul ’26 is happening very soon — June 18-19",
+      "link": "https://gameworldobserver.com/2026/05/13/wn-istanbul-26-is-happening-very-soon-june-18-19",
+      "source": "Game World Observer",
+      "published_at": "2026-05-13T11:01:59+00:00",
+      "summary": "At the beginning of summer, WN Istanbul’26 will open its doors on the shores of the Bosphorus. This will be a landmark event — the tenth Istanbul event for game developers and publishers hosted by WN Media Group."
+    },
+    {
+      "title": "The authors of INDIKA have raised 5 million dollars in investments",
+      "link": "https://gameworldobserver.com/2026/05/12/the-authors-of-indika-have-raised-5-million-dollars-in-investments",
+      "source": "Game World Observer",
+      "published_at": "2026-05-12T13:22:13+00:00",
+      "summary": "The funds will be allocated to the development of a new game — “larger and more ambitious.”"
+    },
+    {
+      "title": "Bungie’s setbacks resulted in a $766 million write-off — key points from Sony’s annual report",
+      "link": "https://gameworldobserver.com/2026/05/08/bungies-setbacks-resulted-in-a-766-million-write-off-key-points-from-sonys-annual-report",
+      "source": "Game World Observer",
+      "published_at": "2026-05-08T13:38:29+00:00",
+      "summary": "The Sony Corporation released its report for the fiscal year ending on March 31, 2026. Below are the key metrics of the gaming division."
+    },
+    {
+      "title": "Google DeepMind acquired a minority stake in the studio behind EVE Online",
+      "link": "https://gameworldobserver.com/2026/05/07/google-deepmind-acquired-a-minority-stake-in-the-studio-behind-eve-online",
+      "source": "Game World Observer",
+      "published_at": "2026-05-07T13:33:31+00:00",
+      "summary": "The purchase cost was in the “millions” of dollars."
+    },
+    {
+      "title": "Report: Another group of MindsEye authors has been laid off. The studio’s staff is now ten times smaller than it was during its peak",
+      "link": "https://gameworldobserver.com/2026/05/06/report-another-group-of-mindseye-authors-has-been-laid-off-the-studios-staff-is-now-ten-times-smaller-than-it-was-during-its-peak",
+      "source": "Game World Observer",
+      "published_at": "2026-05-06T14:16:57+00:00",
+      "summary": "Kotaku sources reported that the studio Build a Rocket Boy has gone through another round of layoffs."
+    },
+    {
+      "title": "The WN Growth Summit will take place on May 28 in Limassol. Its key theme is how the gaming business can achieve growth",
+      "link": "https://gameworldobserver.com/2026/05/05/the-wn-growth-summit-will-take-place-on-may-28-in-limassol-its-key-theme-is-how-the-gaming-business-can-achieve-growth",
+      "source": "Game World Observer",
+      "published_at": "2026-05-05T17:13:37+00:00",
+      "summary": "The WN Growth Summit is an annual series of events where game development owners and top executives discuss industry challenges, share experiences, and seek new growth opportunities."
+    },
+    {
+      "title": "Supercell to become the owner of Metacore, the developer of Merge Mansion",
+      "link": "https://gameworldobserver.com/2026/05/05/supercell-to-become-the-owner-of-metacore-the-developer-of-merge-mansion",
+      "source": "Game World Observer",
+      "published_at": "2026-05-05T14:06:30+00:00",
+      "summary": "The Finnish giant Supercell is set to grow even larger. It has announced plans to purchase all shares of the creators behind the popular mobile puzzle game Merge Mansion."
+    },
+    {
+      "title": "Tencent has acquired another part of the studio behind Black Myth: Wukong",
+      "link": "https://gameworldobserver.com/2026/05/04/tencent-has-acquired-another-part-of-the-studio-behind-black-myth-wukong",
+      "source": "Game World Observer",
+      "published_at": "2026-05-04T12:21:24+00:00",
+      "summary": "Tencent now owns 24% of Game Science shares."
+    },
+    {
+      "title": "Pearl Abyss sold the creators of EVE Online for much less than it purchased them for",
+      "link": "https://gameworldobserver.com/2026/04/30/pearl-abyss-sold-the-creators-of-eve-online-for-much-less-than-it-purchased-them-for",
+      "source": "Game World Observer",
+      "published_at": "2026-04-30T12:58:08+00:00",
+      "summary": "The company Pearl Abyss will no longer own CCP Games. It has announced that it is selling the studio back to its management."
+    },
+    {
+      "title": "Report: Spiders studio may shut down after 18 eears of operation",
+      "link": "https://gameworldobserver.com/2026/04/29/report-spiders-studio-may-shut-down-after-18-eears-of-operation",
+      "source": "Game World Observer",
+      "published_at": "2026-04-29T14:20:35+00:00",
+      "summary": "At the end of March, Nacon put up Spiders for sale — the studio known for GreedFall and Steelrising. However, according to the French portal Origami, no one showed interest in purchasing it."
+    },
+    {
+      "title": "Digital Bros has acquired the rights to Wuchang: Fallen Feathers",
+      "link": "https://gameworldobserver.com/2026/04/28/digital-bros-has-acquired-the-rights-to-wuchang-fallen-feathers",
+      "source": "Game World Observer",
+      "published_at": "2026-04-28T14:23:02+00:00",
+      "summary": "Digital Bros is the parent company of publisher 505 Games, which released the soulslike game Wuchang: Fallen Feathers last year. The company announced a deal with the developers of the game from the Chinese studio Leenzee."
+    },
+    {
+      "title": "People Can Fly acquired a publisher founded by veterans of Gearbox Publishing",
+      "link": "https://gameworldobserver.com/2026/04/27/people-can-fly-acquired-a-publisher-founded-by-veterans-of-gearbox-publishing",
+      "source": "Game World Observer",
+      "published_at": "2026-04-27T11:07:47+00:00",
+      "summary": "In 2024, a group of former employees from Gearbox Publishing decided to establish their own publishing company — Cooldown Games. For nearly two years, it operated with indie status and has now become part of the Polish company People Can Fly."
+    },
+    {
+      "title": "“Players are frustrated” — Microsoft Gaming has rebranded back to Xbox and promised to adjust its strategy",
+      "link": "https://gameworldobserver.com/2026/04/24/players-are-frustrated-microsoft-gaming-has-rebranded-back-to-xbox-and-promised-to-adjust-its-strategy",
+      "source": "Game World Observer",
+      "published_at": "2026-04-24T12:54:27+00:00",
+      "summary": "The head of Microsoft’s gaming division, Asha Sharma, and the content director, Matt Booty, published a statement detailing plans for the future development of their team."
+    },
+    {
+      "title": "It’s now official: Turkey will tighten control over Steam and other gaming platforms",
+      "link": "https://gameworldobserver.com/2026/04/23/its-now-official-turkey-will-tighten-control-over-steam-and-other-gaming-platforms",
+      "source": "Game World Observer",
+      "published_at": "2026-04-23T13:42:14+00:00",
+      "summary": "At the beginning of the year, a bill was developed in Turkey, establishing a number of requirements for gaming platforms like Steam and Epic Games Store. After thorough consideration, the country’s parliament decided to approve it — but with some minor concessions."
+    },
+    {
+      "title": "The Australian authorities have demanded that Valve explain how it combats extremism on Steam",
+      "link": "https://gameworldobserver.com/2026/04/22/the-australian-authorities-have-demanded-that-valve-explain-how-it-combats-extremism-on-steam",
+      "source": "Game World Observer",
+      "published_at": "2026-04-22T13:35:19+00:00",
+      "summary": "The authorities have made the same demand to the owners of Fortnite, Minecraft, and Roblox. They appealed to them directly."
+    },
+    {
+      "title": "The creators of the anime One Piece and Dragon Ball have launched a gaming division",
+      "link": "https://gameworldobserver.com/2026/04/21/the-creators-of-the-anime-one-piece-and-dragon-ball-have-launched-a-gaming-division",
+      "source": "Game World Observer",
+      "published_at": "2026-04-21T13:48:52+00:00",
+      "summary": "Many people know the Japanese film company Toei Company for its variety of anime series — One Piece, Dragon Ball, Yu-Gi-Oh!, Sailor Moon, and others. Now its portfolio is about to expand further, as Toei Company has decided to actively venture into video games."
+    },
+    {
+      "title": "Analysis: In 2025, the total budget for new releases on Steam exceeded $27 billion, setting a record",
+      "link": "https://gameworldobserver.com/2026/04/20/analysis-in-2025-the-total-budget-for-new-releases-on-steam-exceeded-27-billion-setting-a-record",
+      "source": "Game World Observer",
+      "published_at": "2026-04-20T12:33:54+00:00",
+      "summary": "This conclusion was reached by the analytical platform HushCrasher*."
+    },
+    {
+      "title": "The audience for Warhammer 40,000: Space Marine 2 has grown to 12 million people",
+      "link": "https://gameworldobserver.com/2026/04/17/the-audience-for-warhammer-40000-space-marine-2-has-grown-to-12-million-people",
+      "source": "Game World Observer",
+      "published_at": "2026-04-17T14:20:36+00:00",
+      "summary": "Saber Interactive admitted that they did not expect such results even remotely. They exceeded their “wildest hopes.”"
+    },
+    {
+      "title": "In 2022, Riot Games wanted to acquire the creators of Ashes of Creation — the deal could have amounted to $500 million",
+      "link": "https://gameworldobserver.com/2026/04/16/in-2022-riot-games-wanted-to-acquire-the-creators-of-ashes-of-creation-the-deal-could-have-amounted-to-500-million",
+      "source": "Game World Observer",
+      "published_at": "2026-04-16T15:18:25+00:00",
+      "summary": "This information became known from the documents shared online by Intrepid Studios founder Steven Sharif during his legal dispute with the studio’s investors."
+    },
+    {
+      "title": "Former Gaijin Entertainment Employee: The Company is in Disarray, and Fired Developers Retain Access to Internal Systems for Years",
+      "link": "https://gameworldobserver.com/2026/04/15/former-gaijin-entertainment-employee-the-company-is-in-disarray-and-fired-developers-retain-access-to-internal-systems-for-years",
+      "source": "Game World Observer",
+      "published_at": "2026-04-15T14:34:37+00:00",
+      "summary": "Former Gaijin Entertainment Community Manager Yevgeny Kononenko (also known as Keofox) wrote two lengthy posts on Reddit criticizing the authors of War Thunder. He alleged issues with data security within the company, discrimination against Russian-speaking employees, and manipulation of reviews on Steam."
+    },
+    {
+      "title": "Hackers leaked data from Rockstar Games — every day, the company earns over a million dollars from GTA Online",
+      "link": "https://gameworldobserver.com/2026/04/14/hackers-leaked-data-from-rockstar-games-every-day-the-company-earns-over-a-million-dollars-from-gta-online",
+      "source": "Game World Observer",
+      "published_at": "2026-04-14T14:30:37+00:00",
+      "summary": "The hacker group ShinyHunters has released information online that they managed to steal from Rockstar Games. Notably, the leaked materials revealed the earnings of GTA Online and Red Dead Online."
+    },
+    {
+      "title": "Rumor: The founder of Intrepid Studios spent some of the Kickstarter funds on a personal chef, cigars, and antiques — Sharif himself denies this",
+      "link": "https://gameworldobserver.com/2026/04/13/rumor-the-founder-of-intrepid-studios-spent-some-of-the-kickstarter-funds-on-a-personal-chef-cigars-and-antiques-sharif-himself-denies-this",
+      "source": "Game World Observer",
+      "published_at": "2026-04-13T13:01:24+00:00",
+      "summary": "A scandal continues to unfold around the creators of Ashes of Creation studio."
+    },
+    {
+      "title": "The creators of Slay the Princess will publish third-party games",
+      "link": "https://gameworldobserver.com/2026/04/10/the-creators-of-slay-the-princess-will-publish-third-party-games",
+      "source": "Game World Observer",
+      "published_at": "2026-04-10T13:16:20+00:00",
+      "summary": "New indie publishers continue to emerge in the market. Just a few days ago, the co-authors of Peak announced the launch of their publishing house, and now the creators of Slay the Princess from Black Tabby Games have shared similar news."
+    },
+    {
+      "title": "The creators of HoMM: Olden Era, REPLACED, and This Is the Police have merged into a holding company called Nova Assembly",
+      "link": "https://gameworldobserver.com/2026/04/09/five-portfolio-studios-of-gem-capital-have-merged-into-a-holding-company-called-nova-assembly",
+      "source": "Game World Observer",
+      "published_at": "2026-04-09T14:31:33+00:00",
+      "summary": "The developers of Heroes of Might & Magic: Olden Era have decided to join forces with four other game studios. Together, they have formed a holding company named Nova Assembly, aiming to challenge the crisis in the industry."
+    },
+    {
+      "title": "The authors of Peak and Content Warning have launched their own publishing house",
+      "link": "https://gameworldobserver.com/2026/04/08/the-authors-of-peak-and-content-warning-have-launched-their-own-publishing-house",
+      "source": "Game World Observer",
+      "published_at": "2026-04-08T14:58:27+00:00",
+      "summary": "The Swedish studio Landfall Games has officially announced the launch of a publishing label called Evil Landfall."
+    },
+    {
+      "title": "Playtika may be put up for sale — the company has decided to explore “strategic alternatives” for business development",
+      "link": "https://gameworldobserver.com/2026/04/07/playtika-may-be-put-up-for-sale-the-company-has-decided-to-explore-strategic-alternatives-for-business-development",
+      "source": "Game World Observer",
+      "published_at": "2026-04-07T13:44:43+00:00",
+      "summary": "The leadership at Playtika aims to increase the company’s market value. To achieve this, it has established a special independent committee that will analyze all options for Playtika’s future operations."
+    },
+    {
+      "title": "The creators of the unsuccessful Chernobylite 2 have filed for bankruptcy",
+      "link": "https://gameworldobserver.com/2026/04/06/the-creators-of-the-unsuccessful-chernobylite-2-have-filed-for-bankruptcy",
+      "source": "Game World Observer",
+      "published_at": "2026-04-06T12:21:08+00:00",
+      "summary": "The Polish studio The Farm 51, best known for the Chernobylite series, continues to face difficulties."
+    },
+    {
+      "title": "Co-founder of Raven Software has left the company—he worked at the studio for 36 years",
+      "link": "https://gameworldobserver.com/2026/04/03/co-founder-of-raven-software-has-left-the-company-he-worked-at-the-studio-for-36-years",
+      "source": "Game World Observer",
+      "published_at": "2026-04-03T13:36:42+00:00",
+      "summary": "Brian Raffel announced his departure from Raven Software. He decided it’s time to retire and enjoy a well-deserved rest."
+    },
+    {
+      "title": "Call of Duty: Black Ops 7 earns $30,000 for every negative review on Steam — and other humorous analytics from GameDiscoverCo",
+      "link": "https://gameworldobserver.com/2026/04/02/call-of-duty-black-ops-7-earns-30000-for-every-negative-review-on-steam-and-other-humorous-analytics-from-gamediscoverco",
+      "source": "Game World Observer",
+      "published_at": "2026-04-02T14:45:18+00:00",
+      "summary": "On April 1st, many companies make humorous announcements and generally play tricks on their audience. GameDiscoverCo, an analytical service, also joined in and launched the Insights Lab tool, which allows users to explore various atypical statistics on Steam."
+    },
+    {
+      "title": "Shift Up has acquired the studio responsible for creating Resident Evil",
+      "link": "https://gameworldobserver.com/2026/04/01/shift-up-has-acquired-the-studio-responsible-for-creating-resident-evil",
+      "source": "Game World Observer",
+      "published_at": "2026-04-01T14:27:11+00:00",
+      "summary": "The creators of Stellar Blade have decided to expand. They announced the acquisition of Unbound — a studio founded several years ago by the renowned game designer Shinji Mikami."
+    },
+    {
+      "title": "Rumor: Disney executives might be interested in acquiring Epic Games in the future",
+      "link": "https://gameworldobserver.com/2026/03/31/rumor-disney-executives-might-be-interested-in-acquiring-epic-games-in-the-future",
+      "source": "Game World Observer",
+      "published_at": "2026-03-31T14:00:42+00:00",
+      "summary": "The corporation is allegedly just waiting for the right moment."
+    },
+    {
+      "title": "Sales of Death Stranding 2 have reached 2 million copies — analysis",
+      "link": "https://gameworldobserver.com/2026/03/30/sales-of-death-stranding-2-have-reached-2-million-copies-analysis",
+      "source": "Game World Observer",
+      "published_at": "2026-03-30T11:33:23+00:00",
+      "summary": "Credit for crossing the milestone should be given to the recent release of the game’s PC version, reports the analytics company Alinea Analytics."
+    },
+    {
+      "title": "Unity will sell Supersonic and shut down the ironSource Ads Network",
+      "link": "https://gameworldobserver.com/2026/03/27/unity-will-sell-supersonic-and-shut-down-the-ironsource-ads-network",
+      "source": "Game World Observer",
+      "published_at": "2026-03-27T14:26:58+00:00",
+      "summary": "The company Unity has decided to dispose of two major assets. It disclosed its plans in a report for investors."
+    },
+    {
+      "title": "Report: Budgets for AAA games in the US and Canada now amount to at least $300 million",
+      "link": "https://gameworldobserver.com/2026/03/26/report-budgets-for-aaa-games-in-the-us-and-canada-now-amount-to-at-least-300-million",
+      "source": "Game World Observer",
+      "published_at": "2026-03-26T13:51:22+00:00",
+      "summary": "The development of major games is becoming increasingly expensive."
+    },
+    {
+      "title": "Schreier: Sony has shut down Dark Outlaw Games, a studio founded by a former Call of Duty developer",
+      "link": "https://gameworldobserver.com/2026/03/25/schreier-sony-has-shut-down-dark-outlaw-games-a-studio-founded-by-a-former-call-of-duty-developer",
+      "source": "Game World Observer",
+      "published_at": "2026-03-25T14:08:14+00:00",
+      "summary": "The gaming division of Sony has decreased by one more studio. According to Bloomberg journalist Jason Schreier, the corporation has parted ways with Dark Outlaw Games, which had not managed to release any games."
+    },
+    {
+      "title": "Subsidiaries of Nacon have filed for insolvency",
+      "link": "https://gameworldobserver.com/2026/03/24/subsidiaries-of-nacon-have-filed-for-insolvency",
+      "source": "Game World Observer",
+      "published_at": "2026-03-24T14:27:10+00:00",
+      "summary": "The French publisher Nacon continues to face difficulties."
+    },
+    {
+      "title": "Slay the Spire 2 has already surpassed Hollow Knight: Silksong and Hades II in revenue on Steam — analytics",
+      "link": "https://gameworldobserver.com/2026/03/23/slay-the-spire-2-has-already-surpassed-hollow-knight-silksong-and-hades-ii-in-revenue-on-steam-analytics",
+      "source": "Game World Observer",
+      "published_at": "2026-03-23T11:52:54+00:00",
+      "summary": "It is reported that within two weeks of its release, Slay the Spire 2 has grossed over $92 million."
+    },
+    {
+      "title": "The second-best year in CD PROJEKT’s history — and more from the company’s report",
+      "link": "https://gameworldobserver.com/2026/03/20/the-second-best-year-in-cd-projekts-history-and-more-from-the-companys-report",
+      "source": "Game World Observer",
+      "published_at": "2026-03-20T12:32:15+00:00",
+      "summary": "The year 2025 turned out to be one of the best for CD PROJEKT financially. In a recent report, the company revealed that it achieved the second-largest net profit in its history — surpassed only by 2020."
+    },
+    {
+      "title": "Shares of the developers of Crimson Desert plummeted by 30% due to insufficiently high game ratings",
+      "link": "https://gameworldobserver.com/2026/03/19/shares-of-the-developers-of-crimson-desert-plummeted-by-30-due-to-insufficiently-high-game-ratings",
+      "source": "Game World Observer",
+      "published_at": "2026-03-19T14:48:58+00:00",
+      "summary": "On the morning of March 19, the stock price of the South Korean company Pearl Abyss plummeted. As of the time of writing, each share is priced at 46,000 won (30.7 dollars) on the exchange—this is 29.88% less than the previous evening."
+    },
+    {
+      "title": "Crimson Desert has already earned over 20 million dollars on Steam",
+      "link": "https://gameworldobserver.com/2026/03/18/crimson-desert-has-already-earned-over-20-million-dollars-on-steam",
+      "source": "Game World Observer",
+      "published_at": "2026-03-18T14:00:54+00:00",
+      "summary": "Steam users are massively pre-ordering Crimson Desert, report analysts from Alinea Analytics."
+    },
+    {
+      "title": "NVIDIA introduced DLSS 5 with photorealistic AI graphics — the technology did not appeal to everyone",
+      "link": "https://gameworldobserver.com/2026/03/17/nvidia-introduced-dlss-5-with-photorealistic-ai-graphics-the-technology-did-not-appeal-to-everyone",
+      "source": "Game World Observer",
+      "published_at": "2026-03-17T14:04:09+00:00",
+      "summary": "Yesterday, on March 16, at the GDC 2026 conference, NVIDIA unveiled the next version of their image enhancement and scaling technology, Deep Learning Super Sampling (DLSS). They claim that DLSS 5 marks “the biggest breakthrough in computer graphics” since the advent of real-time ray tracing."
+    },
+    {
+      "title": "A Saudi Arabian company purchased 5% of Capcom",
+      "link": "https://gameworldobserver.com/2026/03/16/a-saudi-arabian-company-purchased-5-of-capcom",
+      "source": "Game World Observer",
+      "published_at": "2026-03-16T11:46:20+00:00",
+      "summary": "The Electronic Gaming Development Company (EGDC) from Saudi Arabia has become one of the largest shareholders of Capcom."
+    },
+    {
+      "title": "In two years, PC games will surpass console games in revenue — analysis",
+      "link": "https://gameworldobserver.com/2026/03/13/in-two-years-pc-games-will-surpass-console-games-in-revenue-analysis",
+      "source": "Game World Observer",
+      "published_at": "2026-03-13T13:43:08+00:00",
+      "summary": "The PC gaming segment will experience significant growth in the coming years, both in terms of revenue and audience. This and much more is discussed in the latest report by the analytics company Newzoo."
+    },
+    {
+      "title": "The PEGI rating will be updated. Games with loot boxes will be assigned a PEGI 16 rating, while games with “unrestricted communication capabilities” will receive a PEGI 18 rating",
+      "link": "https://gameworldobserver.com/2026/03/12/the-pegi-rating-will-be-updated-games-with-loot-boxes-will-be-assigned-a-pegi-16-rating-while-games-with-unrestricted-communication-capabilities-will-receive-a-pegi-18-rating",
+      "source": "Game World Observer",
+      "published_at": "2026-03-12T14:28:53+00:00",
+      "summary": "The Pan European Game Information (PEGI) organization is set to make significant changes to its rating system. Starting in June, it will factor in four new criteria when determining age restrictions for games."
+    },
+    {
+      "title": "In 2025, nearly 6,000 games earned over $100,000 on Steam—a record",
+      "link": "https://gameworldobserver.com/2026/03/11/in-2025-nearly-6000-games-earned-over-100000-on-steam-a-record",
+      "source": "Game World Observer",
+      "published_at": "2026-03-11T13:44:21+00:00",
+      "summary": "Valve presented at the GDC 2026 conference with a talk where they shared some fresh figures regarding the Steam store. The full presentation is not yet publicly available, but some slides were published on social media by Game Developer journalist Chris Kerr."
+    },
+    {
+      "title": "Valve has received two more lawsuits – over loot boxes and music rights",
+      "link": "https://gameworldobserver.com/2026/03/10/valve-has-received-two-more-lawsuits-over-loot-boxes-and-music-rights",
+      "source": "Game World Observer",
+      "published_at": "2026-03-10T12:09:04+00:00",
+      "summary": "In late February, the state of New York filed a lawsuit against Valve, accusing the company of promoting gambling. As it turns out, those were not the only legal troubles for the company. It is now facing two more lawsuits."
+    },
+    {
+      "title": "Report: Unity is considering selling its Chinese division and is preparing to close offices in France",
+      "link": "https://gameworldobserver.com/2026/03/06/report-unity-is-considering-selling-its-chinese-division-and-is-preparing-to-close-offices-in-france",
+      "source": "Game World Observer",
+      "published_at": "2026-03-06T13:37:48+00:00",
+      "summary": "Unity is reportedly considering shedding a portion of its business, several media outlets claim."
+    },
+    {
+      "title": "Google will gradually reduce the commission in Google Play",
+      "link": "https://gameworldobserver.com/2026/03/05/google-will-gradually-reduce-the-commission-in-google-play",
+      "source": "Game World Observer",
+      "published_at": "2026-03-05T06:37:30+00:00",
+      "summary": "The corporation Google did not wait for the U.S. court to approve its settlement agreement with Epic Games and announced changes to Google Play."
+    },
+    {
+      "title": "Report: U.S. authorities may force Tencent to divest its American gaming assets",
+      "link": "https://gameworldobserver.com/2026/03/04/report-u-s-authorities-may-force-tencent-to-divest-its-american-gaming-assets",
+      "source": "Game World Observer",
+      "published_at": "2026-03-04T12:25:58+00:00",
+      "summary": "The White House has once again turned its attention to investments by the Chinese giant Tencent in U.S. gaming companies, reports the Financial Times, citing sources. According to the newspaper, American authorities fear that such deals could potentially pose a threat to the country’s national security."
+    },
+    {
+      "title": "Assets from Chinese developers will be removed from the Unity Asset Store",
+      "link": "https://gameworldobserver.com/2026/03/03/assets-from-chinese-developers-will-be-removed-from-the-unity-asset-store",
+      "source": "Game World Observer",
+      "published_at": "2026-03-03T14:06:24+00:00",
+      "summary": "They will be removed from the global store version on March 31, 2026."
+    },
+    {
+      "title": "Report: Tencent plans to buy a stake in the studio behind Block Blast!",
+      "link": "https://gameworldobserver.com/2026/03/02/report-tencent-plans-to-buy-a-stake-in-the-studio-behind-block-blast",
+      "source": "Game World Observer",
+      "published_at": "2026-03-02T12:21:36+00:00",
+      "summary": "According to Bloomberg, it is in talks to acquire a ‘small’ stake in Hungry Studio."
+    },
+    {
+      "title": "Ubisoft Report: Rise in PC Sales and the Success of Assassin’s Creed",
+      "link": "https://gameworldobserver.com/2026/02/13/ubisoft-report-rise-in-pc-sales-and-the-success-of-assassins-creed",
+      "source": "Game World Observer",
+      "published_at": "2026-02-13T06:45:45+00:00",
+      "summary": "Ubisoft published a report for the third quarter of its current fiscal year, covering the period from October 1 to December 31, 2025. Here are the highlights from the document."
+    },
+    {
+      "title": "Embracer Group’s quarterly revenue fell by 26%, but the holding company remains satisfied",
+      "link": "https://gameworldobserver.com/2026/02/12/embracer-groups-quarterly-revenue-fell-by-26-but-the-holding-company-remains-satisfied",
+      "source": "Game World Observer",
+      "published_at": "2026-02-12T08:18:42+00:00",
+      "summary": "On December 31, 2025, Embracer Group concluded the third quarter of its current fiscal year. In a recent report, the Swedish holding company detailed how this period unfolded."
+    },
+    {
+      "title": "Mewgenics recouped its development costs three hours after release",
+      "link": "https://gameworldobserver.com/2026/02/11/mewgenics-recouped-its-development-costs-three-hours-after-release",
+      "source": "Game World Observer",
+      "published_at": "2026-02-11T14:05:31+00:00",
+      "summary": "The game quickly became a hit."
+    },
+    {
+      "title": "Supercell’s CEO on the results of 2025: “It was almost a record year”",
+      "link": "https://gameworldobserver.com/2026/02/10/supercells-ceo-on-the-results-of-2025-it-was-almost-a-record-year",
+      "source": "Game World Observer",
+      "published_at": "2026-02-10T14:44:56+00:00",
+      "summary": "Supercell CEO Ilkka Paananen published the company’s traditional blog column, discussing the successes of the past year. We have highlighted the key figures."
+    },
+    {
+      "title": "Former miHoYo employees receive prison sentences for bribery",
+      "link": "https://gameworldobserver.com/2026/02/09/former-mihoyo-employees-receive-prison-sentences-for-bribery",
+      "source": "Game World Observer",
+      "published_at": "2026-02-09T11:38:10+00:00",
+      "summary": "The Chinese studio miHoYo, known for Genshin Impact, Honkai: Star Rail, and Zenless Zone Zero, announced that four of its former employees have been imprisoned. They were found guilty of abusing their official positions and accepting bribes."
+    },
+    {
+      "title": "The President of France does not rule out banning violent video games in the country",
+      "link": "https://gameworldobserver.com/2026/02/06/the-president-of-france-does-not-rule-out-banning-violent-video-games-in-the-country",
+      "source": "Game World Observer",
+      "published_at": "2026-02-06T13:04:59+00:00",
+      "summary": "All for the protection of the mental health of French children and adolescents."
+    },
+    {
+      "title": "The active audience of the PlayStation Network has reached a record level — and more from Sony’s report",
+      "link": "https://gameworldobserver.com/2026/02/05/the-active-audience-of-the-playstation-network-has-reached-a-record-level-and-more-from-sonys-report",
+      "source": "Game World Observer",
+      "published_at": "2026-02-05T07:16:46+00:00",
+      "summary": "Sony Corporation released its financial report for October-December 2025. We have selected the key highlights concerning its gaming division."
+    },
+    {
+      "title": "Revenue exceeded forecasts — and more from the Take-Two report",
+      "link": "https://gameworldobserver.com/2026/02/04/revenue-exceeded-forecasts-and-more-from-the-take-two-report",
+      "source": "Game World Observer",
+      "published_at": "2026-02-04T14:13:34+00:00",
+      "summary": "Take-Two Interactive reported on its third fiscal quarter of 2026, which ended on December 31, 2025. The results were better than the company had anticipated."
+    },
+    {
+      "title": "Nintendo Report: Revenue Doubled, Switch 2 Sales Surpass 17 Million Units",
+      "link": "https://gameworldobserver.com/2026/02/03/nintendo-report-revenue-doubled-switch-2-sales-surpass-17-million-units",
+      "source": "Game World Observer",
+      "published_at": "2026-02-03T08:33:29+00:00",
+      "summary": "Nintendo has announced its results for the first nine months of fiscal 2026 — that is, for the period from April 1 to December 31, 2025. The company reported that Switch 2 sales continued to gain momentum, and as a result, the company’s revenues increased."
+    },
+    {
+      "title": "In Turkey, there has been a proposal to tighten control over Steam and Epic Games Store",
+      "link": "https://gameworldobserver.com/2026/02/02/in-turkey-there-has-been-a-proposal-to-tighten-control-over-steam-and-epic-games-store",
+      "source": "Game World Observer",
+      "published_at": "2026-02-02T08:30:59+00:00",
+      "summary": "The Ministry of Family and Social Services of Turkey has prepared a draft law, which, if passed, would impose stricter regulations on the operation of Steam, Epic Games Store, and other game stores in the country."
+    },
+    {
+      "title": "GDC: More and more developers view generative AI as harmful to the gaming industry",
+      "link": "https://gameworldobserver.com/2026/01/30/gdc-more-and-more-developers-view-generative-ai-as-harmful-to-the-gaming-industry",
+      "source": "Game World Observer",
+      "published_at": "2026-01-30T13:03:28+00:00",
+      "summary": "The organizers of the Game Developers Conference (GDC) have published the results of their traditional developer survey: this time, 2,300 participants took part. We’ve selected some interesting highlights from the report."
+    },
+    {
+      "title": "“We cemented our leadership on the Amazon Appstore”: Mamboo’s Artur Beresnev on 2025 results",
+      "link": "https://gameworldobserver.com/2026/01/29/we-cemented-our-leadership-on-the-amazon-appstore-mamboos-artur-beresnev-on-2025-results",
+      "source": "Game World Observer",
+      "published_at": "2026-01-29T15:02:37+00:00",
+      "summary": "We continue our 2025 wrap-up together with top managers and experts from the games industry. Up next is an interview with Artur Beresnev, CEO at Mamboo Entertainment."
+    },
+    {
+      "title": "“The market finally entered a phase of hypercompetition”: Digital Vortex’s Inna Gosteva about the situation as of the end of 2025",
+      "link": "https://gameworldobserver.com/2026/01/29/the-market-finally-entered-a-phase-of-hypercompetition-digital-vortexs-inna-gosteva-about-the-situation-as-of-the-end-of-2025",
+      "source": "Game World Observer",
+      "published_at": "2026-01-29T14:53:54+00:00",
+      "summary": "We continue our 2025 wrap-up together with top managers and experts from the games industry. Up next is an interview with Inna Gosteva, CBDO at Digital Vortex Entertainment."
+    },
+    {
+      "title": "Xbox revenue continues to decline — and more from Microsoft’s quarterly report",
+      "link": "https://gameworldobserver.com/2026/01/29/xbox-revenue-continues-to-decline-and-more-from-microsofts-quarterly-report",
+      "source": "Game World Observer",
+      "published_at": "2026-01-29T14:09:38+00:00",
+      "summary": "The Microsoft Corporation released a report outlining the financial results for the last three months of 2025, marking the second quarter of its fiscal year 2026."
+    },
+    {
+      "title": "Hooded Horse: indie developers with access to analytics sell their games better than 95% of indie publishers",
+      "link": "https://gameworldobserver.com/2026/01/28/hooded-horse-indie-developers-with-access-to-analytics-sell-their-games-better-than-95-of-indie-publishers",
+      "source": "Game World Observer",
+      "published_at": "2026-01-28T14:17:03+00:00",
+      "summary": "The head of Hooded Horse, a publishing house best known for Manor Lords and the upcoming Heroes of Might and Magic: Olden Era, Tim Bender, gave an interview to PC Gamer. During the conversation, he criticized the vast majority of indie publishers and essentially urged developers to self-publish their games."
+    }
+  ]
+}
