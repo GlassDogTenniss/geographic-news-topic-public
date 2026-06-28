@@ -1,21 +1,23 @@
 {
   "type": "FeatureCollection",
   "properties": {
-    "created_at": "2026-06-28T16:01:01.952413+00:00",
+    "created_at": "2026-06-28T16:23:34.826634+00:00",
     "count": 20,
     "stats": {
       "feed_id": "google-news-disaster-ja",
       "feed_label": "Google News: 災害・地震・大雨",
       "rss_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja",
       "fetched": 69,
-      "filtered": 61,
+      "filtered": 62,
       "resolved": 20,
-      "unresolved": 41,
-      "rules": 34,
-      "known_places": 35,
+      "unresolved": 42,
+      "rules": 81,
+      "known_places": 82,
       "loaded_data_files": [
         "data/place_rules.json",
         "data/unresolved_known_places_12.json",
+        "data/unresolved_known_places_13.json",
+        "data/unresolved_known_places_14.json",
         "data/unresolved_known_places_15.json"
       ],
       "topic_keywords": [

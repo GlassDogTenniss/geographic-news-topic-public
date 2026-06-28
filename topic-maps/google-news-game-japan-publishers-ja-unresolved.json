@@ -1,0 +1,46 @@
+{
+  "ok": true,
+  "created_at": "2026-06-28T16:23:34.826634+00:00",
+  "stats": {
+    "feed_id": "google-news-game-japan-publishers-ja",
+    "feed_label": "Google News: 国内ゲーム会社",
+    "rss_url": "https://news.google.com/rss/search?q=%E4%BB%BB%E5%A4%A9%E5%A0%82%20OR%20%E3%82%AB%E3%83%97%E3%82%B3%E3%83%B3%20OR%20%E3%82%BB%E3%82%AC%20OR%20%E3%82%B3%E3%83%8A%E3%83%9F%20OR%20%E3%83%90%E3%83%B3%E3%83%80%E3%82%A4%E3%83%8A%E3%83%A0%E3%82%B3%20OR%20%E3%82%B9%E3%82%AF%E3%82%A8%E3%83%8B&hl=ja&gl=JP&ceid=JP:ja",
+    "fetched": 100,
+    "filtered": 72,
+    "resolved": 72,
+    "unresolved": 0,
+    "rules": 81,
+    "known_places": 82,
+    "loaded_data_files": [
+      "data/place_rules.json",
+      "data/unresolved_known_places_12.json",
+      "data/unresolved_known_places_13.json",
+      "data/unresolved_known_places_14.json",
+      "data/unresolved_known_places_15.json"
+    ],
+    "topic_keywords": [
+      "任天堂",
+      "カプコン",
+      "セガ",
+      "コナミ",
+      "バンダイナムコ",
+      "バンナム",
+      "スクエニ",
+      "スクウェア・エニックス",
+      "コーエーテクモ",
+      "日本ファルコム",
+      "アトラス",
+      "スパイク・チュンソフト",
+      "Cygames"
+    ],
+    "exclude_keywords": [
+      "セール",
+      "割引",
+      "値下げ",
+      "OFF",
+      "クーポン",
+      "ポイント還元"
+    ]
+  },
+  "unresolved": []
+}

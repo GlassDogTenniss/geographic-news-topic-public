@@ -1,7 +1,7 @@
 {
   "type": "FeatureCollection",
   "properties": {
-    "created_at": "2026-06-28T16:01:01.952413+00:00",
+    "created_at": "2026-06-28T16:23:34.826634+00:00",
     "count": 96,
     "stats": {
       "feed_id": "google-news-ai-ja",
@@ -11,11 +11,13 @@
       "filtered": 100,
       "resolved": 96,
       "unresolved": 4,
-      "rules": 34,
-      "known_places": 35,
+      "rules": 81,
+      "known_places": 82,
       "loaded_data_files": [
         "data/place_rules.json",
         "data/unresolved_known_places_12.json",
+        "data/unresolved_known_places_13.json",
+        "data/unresolved_known_places_14.json",
         "data/unresolved_known_places_15.json"
       ],
       "topic_keywords": [
@@ -1119,6 +1121,33 @@
         ]
       },
       "properties": {
+        "title": "あなたの検索結果がAIの画像生成で独自図鑑になっていく新感覚ブラウザ「Flipbook」を元OpenAIチーム開発（生成AIクローズアップ） - テクノエッジ TechnoEdge",
+        "source": "テクノエッジ TechnoEdge",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0wRUc2UWpDNTgwWEREUXVKTHVBb0ZFQ2FPTnoyaUo2MEd4Q1lvczRVT000RGdzZTJkbUw5NkVDV2JGb0k2M3RLX0dnRVRfSGtQM2ZEUElMY2ZDSUpTQVNSa2Fnb2NlQWM?oc=5",
+        "published_at": "2026-04-27T07:00:00+00:00",
+        "representative_place": "OpenAI本社",
+        "place_label": "米国-カリフォルニア州-サンフランシスコ",
+        "sort_place_label": "米国-カリフォルニア州-サンフランシスコ",
+        "geocode_query": "OpenAI San Francisco California United States",
+        "place_type": "institution_site",
+        "location_precision": "city",
+        "place_reason": "OpenAI・ChatGPT・Codex関連の記事を、企業主体の代表地点としてOpenAI本社所在地のサンフランシスコに置く（一致語: OpenAI）",
+        "confidence": 0.62,
+        "rule_id": "openai_san_francisco_headquarters_topic",
+        "matched_text": "OpenAI",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4194,
+          37.7749
+        ]
+      },
+      "properties": {
         "title": "OpenAIが最新AIモデル「GPT-5.5」発表、エージェンティックAIとして大幅進化 - ビジネス+IT",
         "source": "ビジネス+IT",
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1sUUl5UV9aZGtaM1llLUxBdnctc3BoWmktVllxMFp5WXIzLUFNWDNXZUFnbHRBYUZzc1ROYXFyY2xXYzVNbnhMYnZYN1U1TVNLVGhv?oc=5",
@@ -1905,33 +1934,6 @@
         "title": "Stella AIにOpenAIの最新モデル「GPT-5.4 nano」を追加 - PR TIMES",
         "source": "PR TIMES",
         "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1iYWpCNUt3ZS0ySW9xMUlLbDJ1N2FYTlMtaUllcHZKT01Ga1NBTXpndTV1WjlVZmpyZnFUdy1YOTVJWW4zb1FaaFc2MHNYbGVpakFlaTRGRUNvV3FOZzhFSFAyZVRqbUlWZWc?oc=5",
-        "published_at": "2026-03-18T07:00:00+00:00",
-        "representative_place": "OpenAI本社",
-        "place_label": "米国-カリフォルニア州-サンフランシスコ",
-        "sort_place_label": "米国-カリフォルニア州-サンフランシスコ",
-        "geocode_query": "OpenAI San Francisco California United States",
-        "place_type": "institution_site",
-        "location_precision": "city",
-        "place_reason": "OpenAI・ChatGPT・Codex関連の記事を、企業主体の代表地点としてOpenAI本社所在地のサンフランシスコに置く（一致語: OpenAI）",
-        "confidence": 0.62,
-        "rule_id": "openai_san_francisco_headquarters_topic",
-        "matched_text": "OpenAI",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.4194,
-          37.7749
-        ]
-      },
-      "properties": {
-        "title": "OpenAI、高速・低コストに特化した軽量AIモデル「GPT-5.4 mini」および「nano」を公開 - ビジネス+IT",
-        "source": "ビジネス+IT",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAzdU82aF9rcXFRbElUX2VtalQ1SFhTaFF0eHpPV0NnNm5TcTFqQzNwajRTX2Z1aVZJT0w5dFZYTHpTSHh2SnJldFU2Uk53QlNIUXM0?oc=5",
         "published_at": "2026-03-18T07:00:00+00:00",
         "representative_place": "OpenAI本社",
         "place_label": "米国-カリフォルニア州-サンフランシスコ",

@@ -1,19 +1,21 @@
 {
   "ok": true,
-  "created_at": "2026-06-28T16:01:01.952413+00:00",
+  "created_at": "2026-06-28T16:23:34.826634+00:00",
   "stats": {
     "feed_id": "google-news-disaster-ja",
     "feed_label": "Google News: 災害・地震・大雨",
     "rss_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja",
     "fetched": 69,
-    "filtered": 61,
+    "filtered": 62,
     "resolved": 20,
-    "unresolved": 41,
-    "rules": 34,
-    "known_places": 35,
+    "unresolved": 42,
+    "rules": 81,
+    "known_places": 82,
     "loaded_data_files": [
       "data/place_rules.json",
       "data/unresolved_known_places_12.json",
+      "data/unresolved_known_places_13.json",
+      "data/unresolved_known_places_14.json",
       "data/unresolved_known_places_15.json"
     ],
     "topic_keywords": [
@@ -245,11 +247,11 @@
       "summary": "大雨ならキキクル活用を！浸水・土砂災害リスクを色で把握できる    読売新聞"
     },
     {
-      "title": "温暖化未対策なら70年後北海道も梅雨期に豪雨災害！九州の豪雨頻度1･5倍 - 読売新聞",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0zZ0IzZDJ3SkMzdGRqbUpuZ25xVGR5bnZETTJ6enJpU2FYVnBURUlmM0plMk5PQUN4YlVYdHJaNlhNWjI4aWtoZGQxaE9ZYnJuRV9vdzVFVEpjdUVBbHM5dw?oc=5",
-      "source": "読売新聞",
-      "published_at": "2022-02-18T08:00:00+00:00",
-      "summary": "温暖化未対策なら70年後北海道も梅雨期に豪雨災害！九州の豪雨頻度1･5倍    読売新聞"
+      "title": "国産初､災害対応キャンピングカーが変える未来 大雪や豪雨､台風､地震などの災害現場を想定 3ページ目 | ビジネス - 東洋経済オンライン",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0yVldMcEhYVmI5TDhnQ3FuWkVoV2cwaDcwNEpTOU5RcDRrZVlTRDNaWEtwTGR3Vms0djg2OUlVVVhkSGQ2SS1xR3BNdlEtUTloNlhabHAwckkyR2s?oc=5",
+      "source": "東洋経済オンライン",
+      "published_at": "2022-01-19T08:00:00+00:00",
+      "summary": "国産初､災害対応キャンピングカーが変える未来 大雪や豪雨､台風､地震などの災害現場を想定 3ページ目 | ビジネス    東洋経済オンライン"
     },
     {
       "title": "台風19号の浸水面積は地球温暖化で13・4倍！東京理科大・京大など推計 - 読売新聞",
@@ -257,6 +259,13 @@
       "source": "読売新聞",
       "published_at": "2021-12-04T08:00:00+00:00",
       "summary": "台風19号の浸水面積は地球温暖化で13・4倍！東京理科大・京大など推計    読売新聞"
+    },
+    {
+      "title": "豪雨災害時の高齢者施設（前編）夜間に浸水したらどうなるか - 読売新聞",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1kZ0pyd0RJQlpzbzJlRHR4ei1KR1lSWjV6ZXpyWEx3dzVaZkZnd2o0N3FPVldrM1BJNFhxa2RFNGNpVlAwSWtwOExObWpERjhueDlIay1IMm0taDUya0pSUw?oc=5",
+      "source": "読売新聞",
+      "published_at": "2021-11-27T08:00:00+00:00",
+      "summary": "豪雨災害時の高齢者施設（前編）夜間に浸水したらどうなるか    読売新聞"
     },
     {
       "title": "進む激甚化？災害は実際に増えているのかを検証する - 読売新聞",

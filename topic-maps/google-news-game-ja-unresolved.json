@@ -1,52 +1,302 @@
 {
   "ok": true,
-  "created_at": "2026-06-28T16:01:01.952413+00:00",
+  "created_at": "2026-06-28T16:23:34.826634+00:00",
   "stats": {
     "feed_id": "google-news-game-ja",
-    "feed_label": "Google News: ゲーム",
-    "rss_url": "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%20%E4%BB%BB%E5%A4%A9%E5%A0%82%20Steam%20PlayStation&hl=ja&gl=JP&ceid=JP:ja",
-    "fetched": 77,
-    "filtered": 56,
-    "resolved": 53,
-    "unresolved": 3,
-    "rules": 34,
-    "known_places": 35,
+    "feed_label": "Google News: ゲーム会社・新作",
+    "rss_url": "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA&hl=ja&gl=JP&ceid=JP:ja",
+    "fetched": 76,
+    "filtered": 76,
+    "resolved": 40,
+    "unresolved": 36,
+    "rules": 81,
+    "known_places": 82,
     "loaded_data_files": [
       "data/place_rules.json",
       "data/unresolved_known_places_12.json",
+      "data/unresolved_known_places_13.json",
+      "data/unresolved_known_places_14.json",
       "data/unresolved_known_places_15.json"
     ],
     "topic_keywords": [
       "ゲーム",
+      "ゲーム会社",
+      "新作",
+      "発売",
+      "発表",
+      "開発",
+      "スタジオ",
       "任天堂",
-      "Steam",
-      "PlayStation",
-      "PS5",
-      "Xbox"
+      "カプコン",
+      "バンダイナムコ",
+      "コナミ",
+      "スクウェア・エニックス",
+      "セガ",
+      "Cygames",
+      "HoYoverse",
+      "NEXON"
     ],
-    "exclude_keywords": []
+    "exclude_keywords": [
+      "セール",
+      "割引",
+      "値下げ",
+      "OFF",
+      "クーポン",
+      "ポイント還元"
+    ]
   },
   "unresolved": [
     {
-      "title": "『ToHeart』や『モノクロームメビウス 刻ノ代贖』が過去最大割引！ダウンロード版ゲーム最大50％OFF「アクアプラス ウインターセール」開催中！ - PR TIMES",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5KbDF0RGc2LWJXVm4yMGJoaC0xRTlmTWhNNWJvTDZ1c0Zrc0otVHlLTTdGck9xRXFJakVOaXFwd3ZUV1FzSTZzUGk1Tm9kLUJneTVnZ2pqYVVFTENDZjBiY0M4WWxIZFJZTnc?oc=5",
+      "title": "『Project GT』クラファンは“詐欺”、本物の開発元が声明発表―素材は関連会社から流出したもの、Kickstarterでは約1ヶ月間掲載 - インサイド",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1tVmZJQjRWM0U2amlhd1J3WFZna2tkb0VBR2hqd29EWm1OSEFCMHo4MWdER0oxeGNQdkgwdHBCeVJrU3U3NDdEU0xnNnBIcF95dVpRNmhOZnJhZndVeXNRQnlyMG4tcm1GcEE?oc=5",
+      "source": "インサイド",
+      "published_at": "2026-06-15T07:00:00+00:00",
+      "summary": "『Project GT』クラファンは“詐欺”、本物の開発元が声明発表―素材は関連会社から流出したもの、Kickstarterでは約1ヶ月間掲載    インサイド"
+    },
+    {
+      "title": "『Forza Horizon』元開発者ら設立のスタジオ手掛ける新作オープンワールドドライブゲーム正式発表トレイラー公開か―YouTubeでカウントダウン配信実施中 - Game*Spark",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE15RXNJbUNjaWFualcwR3BWRlZ0bFRwR0ppV3J4eWpVYW1yV2FkWWJKVlpKalNESmtRRzZ4eEsyOEJGeXcxZnllYlVrSDRaTTNFM0FMSnpHM2laN2JFdEtKbU5OQ0pQQQ?oc=5",
+      "source": "Game*Spark",
+      "published_at": "2026-05-27T07:00:00+00:00",
+      "summary": "『Forza Horizon』元開発者ら設立のスタジオ手掛ける新作オープンワールドドライブゲーム正式発表トレイラー公開か―YouTubeでカウントダウン配信実施中    Game*Spark"
+    },
+    {
+      "title": "『キングダムカム』開発スタジオが「ロード・オブ・ザ・リング」オープンワールドRPGを開発中！『キングダムカム』の新プロジェクトも進行と発表 - Game*Spark",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE96VXF5LV9VaUo3VEljZ3hZaDdHSkUtU3lkMkxiNGQ3UXhkMFhIVVRZRGZjb1pQUVN6cVpMZnJ5VEJHRk8wTmJiV0ExWVB0RzI3RTBYMGRETC1wTjMxOVNOXzJGY0ZRdw?oc=5",
+      "source": "Game*Spark",
+      "published_at": "2026-05-20T07:00:00+00:00",
+      "summary": "『キングダムカム』開発スタジオが「ロード・オブ・ザ・リング」オープンワールドRPGを開発中！『キングダムカム』の新プロジェクトも進行と発表    Game*Spark"
+    },
+    {
+      "title": "名越スタジオへの資金提供打ち切りが示す、AAAゲーム開発の“巨大資本依存”というジレンマ（リアルサウンド） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWWndKeTN4YkhkX3RzLVRUN0JrdjNVZGl1MUJBbDE1a0l4RmE2X2RoUmxvSTFGQlZJejYtZTBFbzRpQm1rbFIzSUZ2VW8tTEg5V2xQdXdrSlVKbWkycGFMZkN3RHI1VVctUkxsZkQ5ZC16NUVqZ1NJQmkxSnRmLUE?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-03-17T07:00:00+00:00",
+      "summary": "名越スタジオへの資金提供打ち切りが示す、AAAゲーム開発の“巨大資本依存”というジレンマ（リアルサウンド）    Yahoo!ニュース"
+    },
+    {
+      "title": "SIEの子会社から新設スタジオへ。「アンチャーテッド」「ラスアス」のディレクターが独立して感じた，ゲーム開発の“シンプルだけど大事なこと”［GDC 2026］ - 4Gamer.net",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBHU2MzbjR4ZkVGWjJuUzJHeTN3SVBxMkk1Y3MtN3hScTBWcTV6d2RzbHdORTVMZEFTTnN1bGtXQVl0LW5rTEZzY3Vlc0hoaFVJWnZheVRzcFdXVUpYb1owQnAwWQ?oc=5",
+      "source": "4Gamer.net",
+      "published_at": "2026-03-14T07:00:00+00:00",
+      "summary": "SIEの子会社から新設スタジオへ。「アンチャーテッド」「ラスアス」のディレクターが独立して感じた，ゲーム開発の“シンプルだけど大事なこと”［GDC 2026］    4Gamer.net"
+    },
+    {
+      "title": "ライトフライヤースタジオ、新作RPG『アナザーエデン ビギンズ』が2026年夏に全世界同時発売決定！ - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBtX3prOGRveGh2a1lCcGFwVFpLM0s2aTEyenA1d3EybG1GV0Vac0RMQmZkZGJxbjNQNHRyOGo3TUFhaFNNYmRzLW13dUgzWlFlcFhBc3VOaGxfNjVZWGY0Q2FOTnNyT2VXcmc?oc=5",
       "source": "PR TIMES",
-      "published_at": "2025-12-22T08:00:00+00:00",
-      "summary": "『ToHeart』や『モノクロームメビウス 刻ノ代贖』が過去最大割引！ダウンロード版ゲーム最大50％OFF「アクアプラス ウインターセール」開催中！    PR TIMES"
+      "published_at": "2026-02-06T08:00:00+00:00",
+      "summary": "ライトフライヤースタジオ、新作RPG『アナザーエデン ビギンズ』が2026年夏に全世界同時発売決定！    PR TIMES"
     },
     {
-      "title": "GWに開催しているゲームのダウンロード版のセール情報をチェック！ - ASCII.jp",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBaTzd0WFFkZzdtNkc5VXhuMDlvQjBhUUZ1aExlOVBRdV9ablJ1Y05LVEMwc0ZDdWktMW52Q3lTajU2U1pqX2N5NEEzMFlWVERzajF5Mw?oc=5",
-      "source": "ASCII.jp",
-      "published_at": "2022-05-03T07:00:00+00:00",
-      "summary": "GWに開催しているゲームのダウンロード版のセール情報をチェック！    ASCII.jp"
+      "title": "Naughty Dog、スタジオ史上最大級の新作『Intergalactic』開発中に“強制残業期間”発生と報じられる。「クランチ脱却」を掲げてきた最中 - AUTOMATON",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTHNFYlNTdzBpUWNGaFFDUG56bTdXR0dqbFZIWXVjbERzTktuY2VJMGtURE50QkMwS0tabGN0Ym1GSXA0UDlOR3hOdk1rUHJpc0JKSFZyU1c5S1JYMHlSby1QZXNBVGRrWHR3OURrd2VpdWg3a3dNWE03b3JQMnBYc2dLNA?oc=5",
+      "source": "AUTOMATON",
+      "published_at": "2025-12-19T08:00:00+00:00",
+      "summary": "Naughty Dog、スタジオ史上最大級の新作『Intergalactic』開発中に“強制残業期間”発生と報じられる。「クランチ脱却」を掲げてきた最中    AUTOMATON"
     },
     {
-      "title": "GWに開催しているゲームのダウンロード版のセール情報をチェック！ - 週刊アスキー",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE11RUtSWUt6MGRxWjFmOG03R19jM1JUVmRtdU5Dd3F1aHVfSEVSRloxS2pQTjBPdUdSdmcxSjQyenVaUTN5T1AtTXk5VzlONFZpM3hfU2ZtSWE1djBXSGc?oc=5",
-      "source": "週刊アスキー",
-      "published_at": "2022-05-02T09:53:29+00:00",
-      "summary": "GWに開催しているゲームのダウンロード版のセール情報をチェック！    週刊アスキー"
+      "title": "『NO LAW』サイバーパンクアクションRPG『The Ascent』開発スタジオNeon Giantの新作。猥雑な街でランチャーをぶっ放したりロボに乗って大暴れ【The Game Awards 2025】 - ファミ通",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBaSF8tQmZhNGhMMHREZG5vRzZJeWp6ZTBBR1RsMlp2UGJWbjcyNUdjcjVBOWplU1EwZ1dJMWQ2OUJPUm9laEpLellhZXdJNGp6ZkZKMWZZWQ?oc=5",
+      "source": "ファミ通",
+      "published_at": "2025-12-12T08:00:00+00:00",
+      "summary": "『NO LAW』サイバーパンクアクションRPG『The Ascent』開発スタジオNeon Giantの新作。猥雑な街でランチャーをぶっ放したりロボに乗って大暴れ【The Game Awards 2025】    ファミ通"
+    },
+    {
+      "title": "GPTRACK50小林裕幸氏の新作は2025年内に発表！ そして2026年の発売も宣言！「アクションのおもしろさに加え、アート部分も注目される作品になる」【設立3周年記念インタビュー】 - ファミ通",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1lclZjcU1oSWVia0pUdWVJRUdKYmZ3czhrc3B6aU5KZGY4OElYVDQ1WEhTR2c3SXdNdC0tUFpOQk10cXBuSjZzSENkeDhPTXNMYjd5QVF2NA?oc=5",
+      "source": "ファミ通",
+      "published_at": "2025-10-01T07:00:00+00:00",
+      "summary": "GPTRACK50小林裕幸氏の新作は2025年内に発表！ そして2026年の発売も宣言！「アクションのおもしろさに加え、アート部分も注目される作品になる」【設立3周年記念インタビュー】    ファミ通"
+    },
+    {
+      "title": "新作ホラーゲーム『End of Abyss』発表。『リトルナイトメア』元開発者による新スタジオが開発 - AUTOMATON",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1uOW1ZTWNsT2ZuX2Z1Q1FGSzRETDRsYWFtMENkbzJYNWNlTjNOY29FSHl2aWZPa21UWDdsalA3TU5hYTNEWGdXMWJkMnM3T0RoMGJ5RmNIN0pNSHBabEtYY0o3cUNzQXp1dmVKWXNZMzBOU3dEQUpvbVlMUjlxUQ?oc=5",
+      "source": "AUTOMATON",
+      "published_at": "2025-06-07T07:00:00+00:00",
+      "summary": "新作ホラーゲーム『End of Abyss』発表。『リトルナイトメア』元開発者による新スタジオが開発    AUTOMATON"
+    },
+    {
+      "title": "新たなゲーム会社「スタジオサザンカ」設立。元桜花スタジオ開発者が、「経営陣が開発者にビジネス責任を押し付けない」会社を目指して作った - AUTOMATON",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBvcDZua2NQck1fZjBnTzVaN2QwNEVoUjdvTE56TGU5b0p5T2owRUJlLTY3U1M3bHNqV2JZTzgzSkx2bm1HYTNxR0lWZzlSUlRrbHExWGt3UERYTkNORWR1cWhxQnJLTEZiY2ZvR0UyT0l0WW9H?oc=5",
+      "source": "AUTOMATON",
+      "published_at": "2025-03-03T08:00:00+00:00",
+      "summary": "新たなゲーム会社「スタジオサザンカ」設立。元桜花スタジオ開発者が、「経営陣が開発者にビジネス責任を押し付けない」会社を目指して作った    AUTOMATON"
+    },
+    {
+      "title": "最大200人同時プレイ可能なVRスポーツ「Orion Drift」発表 人気VRゴリラ「Gorilla Tag」の開発スタジオが制作 - Mogura VR",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5BbmRUN3phaHNuTzZ3dEhxQXN2bzBVSDZjRmZMbi1xYVVQVHFWVFV1VVQ4ZXhUdzhrMGVlbHE3QU9hNkwtclVhQkQ4Zk9sOEFFV1E?oc=5",
+      "source": "Mogura VR",
+      "published_at": "2025-02-20T08:00:00+00:00",
+      "summary": "最大200人同時プレイ可能なVRスポーツ「Orion Drift」発表 人気VRゴリラ「Gorilla Tag」の開発スタジオが制作    Mogura VR"
+    },
+    {
+      "title": "死んでも強くなり続けるアクション『SAROS』発表。『Returnal』開発スタジオ新作、すべての死に価値がある戦い - AUTOMATON",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAxcE85aUFKb1h2OGM3R1ZORG9oWlJxMVVkeTFlazcwRFExckJqWWVoR1lReENIVXo4a01vb0lxOHBLdVFpV2xHbVJQX1pQck53ZlBFYmhfZkFCS2VlSWdLMlEtc0NMM1lCYV9nX1BfUEdrWF9F?oc=5",
+      "source": "AUTOMATON",
+      "published_at": "2025-02-13T08:00:00+00:00",
+      "summary": "死んでも強くなり続けるアクション『SAROS』発表。『Returnal』開発スタジオ新作、すべての死に価値がある戦い    AUTOMATON"
+    },
+    {
+      "title": "ポケットペアが、パブリッシング事業「Pocketpair Publishing」を開始SURGENT STUDIOSの新作開発を支援、サポート開始を発表 - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBQVUhJWEZMa0ViOU1XQUE3dnRBeTFKLXpKR0ZNa29aQTlzMEVLSkttY2pDcS1ITkN5VFNaZ3FyckotaEYyLVFEMDQ0b3hFU2xSWG5jNFl5aHNNWjFta1FsMXZrUHV4YVByQnc?oc=5",
+      "source": "PR TIMES",
+      "published_at": "2025-01-23T08:00:00+00:00",
+      "summary": "ポケットペアが、パブリッシング事業「Pocketpair Publishing」を開始SURGENT STUDIOSの新作開発を支援、サポート開始を発表    PR TIMES"
+    },
+    {
+      "title": "神谷英樹率いるゲームスタジオ「クローバーズ」が始動！『大神』シリーズ最新作の制作も決定 - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE83SUZWQnowdjVaYzFnMnBEbTNyRzYxVGxNc3N0ZWw4RTdzby1rOWhlZEUtUzBJM2Vsek9zS0pMUGxRZ0RSNFVVaVliXzI2SnlPTURhMUFtVklXMVR1X3dJMGU4QmVYckVKV2c?oc=5",
+      "source": "PR TIMES",
+      "published_at": "2024-12-13T08:00:00+00:00",
+      "summary": "神谷英樹率いるゲームスタジオ「クローバーズ」が始動！『大神』シリーズ最新作の制作も決定    PR TIMES"
+    },
+    {
+      "title": "神谷英樹氏がディレクションする『大神 完全新作』プロジェクトが始動、新スタジオ“クローバーズ”も立ち上げ！ 「“作家性”を大事に」「何かすごいものが生まれてきそうだと感じてもらえるゲーム会社に」 - ファミ通",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5NZDk0V2hmNGd2WVdHRDU5bUNBdU5BVzlnd081NGE5WllHUDczN0J3ZUpGWmc1M3doVGQxdVZfUnYwbU9hUjZxb0ZXdXlVWS11c0NoTWtCUQ?oc=5",
+      "source": "ファミ通",
+      "published_at": "2024-12-13T08:00:00+00:00",
+      "summary": "神谷英樹氏がディレクションする『大神 完全新作』プロジェクトが始動、新スタジオ“クローバーズ”も立ち上げ！ 「“作家性”を大事に」「何かすごいものが生まれてきそうだと感じてもらえるゲーム会社に」    ファミ通"
+    },
+    {
+      "title": "【大神続編】『大神 完全新作』（続編）プロジェクト発表。神谷英樹氏のゲーム業界復帰作。開発はマシンヘッドワークス、株式会社エムツー、クローバーズが手掛ける【The Game Awards 2024】 - ファミ通",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE85UFZKR2llcGMtcGs3Y0MwU0htMW9UTzh2X1E3VlJ5R0VnYnd3RXZxSDJCRmJKTmZSX3BwSVl0YUdJanpPb2pVMW96ZE9IQXEyUnRDeXVJZw?oc=5",
+      "source": "ファミ通",
+      "published_at": "2024-12-13T08:00:00+00:00",
+      "summary": "【大神続編】『大神 完全新作』（続編）プロジェクト発表。神谷英樹氏のゲーム業界復帰作。開発はマシンヘッドワークス、株式会社エムツー、クローバーズが手掛ける【The Game Awards 2024】    ファミ通"
+    },
+    {
+      "title": "神谷英樹氏率いるゲームスタジオ「クローバーズ」が始動。「The Game Awards 2024」で、『大神』完全新作が発表 - 電ファミニコゲーマー",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJWTkzZEtKQnJoNnFzeXpOVXFqTXBHaEtjTUwxcERJUTZOSUc2bTg4NEJaZUttR3lBQ1ItQ0dqNHRJcUNqRGFCQ2xxTHl6a1k5b2Z0UzNLaE5RUQ?oc=5",
+      "source": "電ファミニコゲーマー",
+      "published_at": "2024-12-13T08:00:00+00:00",
+      "summary": "神谷英樹氏率いるゲームスタジオ「クローバーズ」が始動。「The Game Awards 2024」で、『大神』完全新作が発表    電ファミニコゲーマー"
+    },
+    {
+      "title": "『SIFU』の開発スタジオが手がける新作サッカーアクションゲーム『REMATCH』発表 - 電ファミニコゲーマー",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1xMUc2MWcwSHFKY2c4XzdxQVFCZHhoQncxeXNrTElDUTFLczdRSVlQUHhVXzZQYjRPQWxkcXkzT1dObUpOQnpfakFyZVBRZVFod2hTMDR4aVk?oc=5",
+      "source": "電ファミニコゲーマー",
+      "published_at": "2024-12-13T08:00:00+00:00",
+      "summary": "『SIFU』の開発スタジオが手がける新作サッカーアクションゲーム『REMATCH』発表    電ファミニコゲーマー"
+    },
+    {
+      "title": "ベテラン開発者が率いるゲームスタジオGPTRACK50の新作は、「ゲームデザイン主導」のアクションRPG。絵ではなくシステムから作る、ベテランたちの「長年やりたかった」開発手法 - AUTOMATON",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ycHNnd001S1I4RlE5YlhlNWZGYjR5bU04WUNNZnZ0dXFScEhBNkpoUXAwRzRfSko4eXh4U0VLQ0hyaGxJcHpUZXRuUUtIRU9JcFVlTjZEaHQzLXRwZWdyRXNPSXRUd01VQzlESXVsdFNXeHpN?oc=5",
+      "source": "AUTOMATON",
+      "published_at": "2024-10-15T07:00:00+00:00",
+      "summary": "ベテラン開発者が率いるゲームスタジオGPTRACK50の新作は、「ゲームデザイン主導」のアクションRPG。絵ではなくシステムから作る、ベテランたちの「長年やりたかった」開発手法    AUTOMATON"
+    },
+    {
+      "title": "“発売後4日でスタジオ閉鎖”されたゲーム『The Day Before』のFNTASTIC、スタジオ再始動を表明。「過ちを繰り返さない」とアピール - AUTOMATON",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQkFpd0VPbnpyb0o1cy1NSGpQTDJpR2tNaE11bm5XbU9JMENra3lCVkJHU3dOZ0hRZ2ktdVhUQ1I1LUVlQ1VTTmNSekdrdEtwMFQ2ekliUFQ0WVF4UW1KUGF6cGxPRG4tU3NjVWN5MWVPNmtGNDgzUDFHQXMzT1RRVzJuS25YUmNtRGc?oc=5",
+      "source": "AUTOMATON",
+      "published_at": "2024-09-27T07:00:00+00:00",
+      "summary": "“発売後4日でスタジオ閉鎖”されたゲーム『The Day Before』のFNTASTIC、スタジオ再始動を表明。「過ちを繰り返さない」とアピール    AUTOMATON"
+    },
+    {
+      "title": "お仕事パズルアクション『Good Job!』の開発元が閉鎖へ。会社の支出に見合った仕事を獲得できなかったとして - AUTOMATON",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5EMGpiVW9tVkVxcXU0WFJDeXFRcXA1N3pZRkpNN1A1Yi1teXYzeGtqZGNOeGh6azRDUmk4QTdhQzZIUE43cDIyMkZWRWlpZlJDSGQ2WG1jUTdGdXhTazJMSHNMcnQybHlYRGhxbA?oc=5",
+      "source": "AUTOMATON",
+      "published_at": "2024-05-06T07:00:00+00:00",
+      "summary": "お仕事パズルアクション『Good Job!』の開発元が閉鎖へ。会社の支出に見合った仕事を獲得できなかったとして    AUTOMATON"
+    },
+    {
+      "title": "サイバーパンクFPS『Deus Ex』シリーズ新作、開発中止との報道。開発元では約100名がレイオフ - AUTOMATON",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DYUNYVDJqWHNyNE5Obmd6Y3J5aC00WWdHVWN4LU05SjlJUFlQbGZfbXJXR1ZSek14RzdBZjl4YmlrSTktNklHUy1nNzFSX2pSMVdqNGJKTnI3Z083ZzY1S1FJNFAtYzQtd2pfaA?oc=5",
+      "source": "AUTOMATON",
+      "published_at": "2024-01-30T08:00:00+00:00",
+      "summary": "サイバーパンクFPS『Deus Ex』シリーズ新作、開発中止との報道。開発元では約100名がレイオフ    AUTOMATON"
+    },
+    {
+      "title": "“時代逆行スタイル”ゲーム会社・スタジオフレアはなぜその道を選び、何を作ろうとしているのか。「ただ面白いゲームを作りたい」を貫く森利道氏に訊く - AUTOMATON",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpQlM1bmtEbklVYWJ6TDhHV2ZMVGI2NDF4bllXMjJGbGNFMkZDYUhhMnJCTDljc05rRThnLThnNjFySV8tMXJaTUJjQUVMak5RcEZ1UXk1a1FBMUlzTm1HQ2lVNVdaamlITGJUZQ?oc=5",
+      "source": "AUTOMATON",
+      "published_at": "2024-01-18T08:00:00+00:00",
+      "summary": "“時代逆行スタイル”ゲーム会社・スタジオフレアはなぜその道を選び、何を作ろうとしているのか。「ただ面白いゲームを作りたい」を貫く森利道氏に訊く    AUTOMATON"
+    },
+    {
+      "title": "『風ノ旅ビト』『Sky』の開発者率いるスタジオの新作の情報が発表 - 電ファミニコゲーマー",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9vUkdiOXh5bFFlNHhqRUJGSEM0N3dzNEMwenpmenBaU093b21zZWtTYVAwaGVqN2xxVHkydmdqZWJycGkydmpEX1hISDYxbU5YX0x0RXZTUno?oc=5",
+      "source": "電ファミニコゲーマー",
+      "published_at": "2023-07-12T07:00:00+00:00",
+      "summary": "『風ノ旅ビト』『Sky』の開発者率いるスタジオの新作の情報が発表    電ファミニコゲーマー"
+    },
+    {
+      "title": "「シャーロック・ホームズ」のアドベンチャーゲームなどで知られるウクライナのゲームスタジオ・Frogwaresが謎の新作ホラーゲーム『Project Palianytsia』を発表 - 電ファミニコゲーマー",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5RaXJWbU8tcWxHTHlxa2tzdUFZYV9iMG85Q0dNTWVDWTRPdjJfeUliRlduSWdieWdhWUtPVmxOWkYySGlQWDUyM2IxeUVYOXRsZTBKa2VKN0o?oc=5",
+      "source": "電ファミニコゲーマー",
+      "published_at": "2022-05-20T07:00:00+00:00",
+      "summary": "「シャーロック・ホームズ」のアドベンチャーゲームなどで知られるウクライナのゲームスタジオ・Frogwaresが謎の新作ホラーゲーム『Project Palianytsia』を発表    電ファミニコゲーマー"
+    },
+    {
+      "title": "新会社「集英社ゲームス」始動 新作タイトルも複数発表 集英社のノウハウ、人材も活用 - ITmedia",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NTjVNX1E0T2hyWXk2TUJkUW1YLU56M1ZoeFozNkhQOG5ieGJtejNuY3NsYUZRZlp5SUU3cC1KcjBzOHlrZmdFdkFlSDExTnBjOWJBbGFOVzJlWGZnZ0JtcXdfdF9TUkVOcDBfUw?oc=5",
+      "source": "ITmedia",
+      "published_at": "2022-03-31T07:00:00+00:00",
+      "summary": "新会社「集英社ゲームス」始動 新作タイトルも複数発表 集英社のノウハウ、人材も活用    ITmedia"
+    },
+    {
+      "title": "『ショベルナイト』の開発スタジオ・Yacht Club Gamesが新作ゲーム『Mina the Hollower』を発表。ダークな雰囲気のゲームボーイカラー風アクション - 電ファミニコゲーマー",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBtRFpGbWZZU1g3aUNBS3RiZzkxZU5hWlVhRWlGVGIxRXJzNzRlQzY0Z1d4bW9OWWdFY2VtMm52Y1pUdVRVdFQ4RFpINUpVdTNFQ1ZwTmF2OE0?oc=5",
+      "source": "電ファミニコゲーマー",
+      "published_at": "2022-02-02T08:00:00+00:00",
+      "summary": "『ショベルナイト』の開発スタジオ・Yacht Club Gamesが新作ゲーム『Mina the Hollower』を発表。ダークな雰囲気のゲームボーイカラー風アクション    電ファミニコゲーマー"
+    },
+    {
+      "title": "『ドラゴンクエスト12』の開発には、オルカも参加。超人気ゲーム新作に実力派国内開発会社が集う - AUTOMATON",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE40TnAtS0MxRTZud1g2blozYWl0UE9UVG1EYmpBYXNIdTdrbFpHbmVwT291SkNRb3BydVBubnZLRGhTN3pDdU5ydjFJSWM4V20tZDZjVWc3YTZSSUUxZko2dHlTellHUTNJY2J4aA?oc=5",
+      "source": "AUTOMATON",
+      "published_at": "2021-09-21T07:00:00+00:00",
+      "summary": "『ドラゴンクエスト12』の開発には、オルカも参加。超人気ゲーム新作に実力派国内開発会社が集う    AUTOMATON"
+    },
+    {
+      "title": "シリコンスタジオ、『トリニティセブン』題材の新作ゲームを開発中止に - gamebiz【ゲームビズ】",
+      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9Xd1ZBUG5QT1Q2cmNpOW9wcnZQYUExejQ0ZV9LVkdMRWhWVnZ0aHRiQmRXTXJuTElFdFZXS2Q3eTBwcmhK?oc=5",
+      "source": "gamebiz【ゲームビズ】",
+      "published_at": "2021-07-27T18:58:11+00:00",
+      "summary": "シリコンスタジオ、『トリニティセブン』題材の新作ゲームを開発中止に    gamebiz【ゲームビズ】"
+    },
+    {
+      "title": "Atari2600向けに新作開発！Activisionの共同創設者David Crane氏がレトロゲーム開発をメインとするゲームスタジオを設立 - GameBusiness.jp",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8taFJOVDhQWHg1RVFidUtKbUVwZktrOFFDcXRta193MVdlNGdqN0pvNjVCM0MydzFBdk56QnVrcllVNS01Q3Bvdy1qR0tZVjdvNFM1c0drLVpIMVB1OW1mUFVxTjZCaExu?oc=5",
+      "source": "GameBusiness.jp",
+      "published_at": "2021-03-08T08:00:00+00:00",
+      "summary": "Atari2600向けに新作開発！Activisionの共同創設者David Crane氏がレトロゲーム開発をメインとするゲームスタジオを設立    GameBusiness.jp"
+    },
+    {
+      "title": "世界的ゲームメーカーの元CEOが新たなゲーム会社を設立、新作ゲームの開発も進行中 - GIGAZINE",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwOUNsYUhHRzQ5cHdTcjNwNlFWWldLZ0d6aVRFTkdwdVhMdHBXUWx6TnVUcXBQUlJhM29YTzV0MUZsLXNhVU9aMmZJMkYwZE1icW5xVGpqdHppZw?oc=5",
+      "source": "GIGAZINE",
+      "published_at": "2020-09-24T07:00:00+00:00",
+      "summary": "世界的ゲームメーカーの元CEOが新たなゲーム会社を設立、新作ゲームの開発も進行中    GIGAZINE"
+    },
+    {
+      "title": "工画堂スタジオが新作『夢現Re:Master』を発表！ ジャンルは“キラ☆ふわガールズラブゲーム制作会社ADV”【TGS2018】 - ファミ通",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nZjRnLVF6bmN5UG5tUXNfX0k1WFotZ2xfb1phX2IyVzJfRnp0NDMxSzU3Q3lGRUE4QlY4UWxqbmRwX1kwSEUtWUJ0NGR2NWNNTGFtYmxxX1oxNDNMdnc?oc=5",
+      "source": "ファミ通",
+      "published_at": "2018-09-20T07:00:00+00:00",
+      "summary": "工画堂スタジオが新作『夢現Re:Master』を発表！ ジャンルは“キラ☆ふわガールズラブゲーム制作会社ADV”【TGS2018】    ファミ通"
+    },
+    {
+      "title": "『Dead by Daylight』開発元が、新作『Deathgarden』を発表。1人のハンターと5人の逃走者が対峙する非対称シューター - AUTOMATON",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE45RlIxaWdVZkNObXpnN2Q2XzFiVmNFN0VBMVJWU21FTnNkTHVyMzhTTDlWUEdYN29wbF9Ga1R6RHA5RndacTQwbTVaWUhNX3VieUVyMkdyVlVKbmhRNG1CemZYWjc1ZC01U0hZ?oc=5",
+      "source": "AUTOMATON",
+      "published_at": "2018-03-30T07:00:00+00:00",
+      "summary": "『Dead by Daylight』開発元が、新作『Deathgarden』を発表。1人のハンターと5人の逃走者が対峙する非対称シューター    AUTOMATON"
+    },
+    {
+      "title": "シリコンスタジオと坂口博信氏が率いるミストウォーカーが新作を共同開発！ イメージイラストが公開 - Appliv Games",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1FWHh4Mmh4V1VaRnhlR2w5cnhYNlg1cEI5UURrY01CZnN4RFF6MVp1NTVLTFhrYUJ0aG4yZ3VUQk00clJyaFJITHVMS1JoRXVC?oc=5",
+      "source": "Appliv Games",
+      "published_at": "2018-01-17T17:54:08+00:00",
+      "summary": "シリコンスタジオと坂口博信氏が率いるミストウォーカーが新作を共同開発！ イメージイラストが公開    Appliv Games"
+    },
+    {
+      "title": "非公式「バイオ2」リメイクを作っていた開発スタジオ、現在は『バイオ CODE:Veronica』アーティストと共に新作ホラーを制作中 - AUTOMATON",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5FSThJZjhmWUZSQUlVVURuWk02THVtMGk4cFpzR1NNVEpJOTRlM00wRzVyTHNHVWNuWC1tMHk5SjR4MDNmRUJQbHBrUkFVQ08tTzk2Njl3VmJTMTBQT19hRlJ3RmtBelVOSnZF?oc=5",
+      "source": "AUTOMATON",
+      "published_at": "2016-03-23T07:00:00+00:00",
+      "summary": "非公式「バイオ2」リメイクを作っていた開発スタジオ、現在は『バイオ CODE:Veronica』アーティストと共に新作ホラーを制作中    AUTOMATON"
     }
   ]
 }

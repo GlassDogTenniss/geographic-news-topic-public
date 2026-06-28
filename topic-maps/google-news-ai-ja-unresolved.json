@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "created_at": "2026-06-28T16:01:01.952413+00:00",
+  "created_at": "2026-06-28T16:23:34.826634+00:00",
   "stats": {
     "feed_id": "google-news-ai-ja",
     "feed_label": "Google News: AI / 生成AI",
@@ -9,11 +9,13 @@
     "filtered": 100,
     "resolved": 96,
     "unresolved": 4,
-    "rules": 34,
-    "known_places": 35,
+    "rules": 81,
+    "known_places": 82,
     "loaded_data_files": [
       "data/place_rules.json",
       "data/unresolved_known_places_12.json",
+      "data/unresolved_known_places_13.json",
+      "data/unresolved_known_places_14.json",
       "data/unresolved_known_places_15.json"
     ],
     "topic_keywords": [

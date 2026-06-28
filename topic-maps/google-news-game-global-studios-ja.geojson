@@ -1,0 +1,265 @@
+{
+  "type": "FeatureCollection",
+  "properties": {
+    "created_at": "2026-06-28T16:23:34.826634+00:00",
+    "count": 8,
+    "stats": {
+      "feed_id": "google-news-game-global-studios-ja",
+      "feed_label": "Google News: 海外ゲームスタジオ",
+      "rss_url": "https://news.google.com/rss/search?q=Riot%20Games%20OR%20Epic%20Games%20OR%20Ubisoft%20OR%20CD%20Projekt%20OR%20KRAFTON%20OR%20Larian%20OR%20Remedy&hl=ja&gl=JP&ceid=JP:ja",
+      "fetched": 50,
+      "filtered": 8,
+      "resolved": 8,
+      "unresolved": 0,
+      "rules": 81,
+      "known_places": 82,
+      "loaded_data_files": [
+        "data/place_rules.json",
+        "data/unresolved_known_places_12.json",
+        "data/unresolved_known_places_13.json",
+        "data/unresolved_known_places_14.json",
+        "data/unresolved_known_places_15.json"
+      ],
+      "topic_keywords": [
+        "Riot Games",
+        "Epic Games",
+        "Ubisoft",
+        "CD Projekt",
+        "KRAFTON",
+        "Larian",
+        "Remedy",
+        "Paradox",
+        "Devolver",
+        "Annapurna",
+        "Tencent",
+        "NetEase",
+        "EA"
+      ],
+      "exclude_keywords": [
+        "セール",
+        "割引",
+        "値下げ",
+        "OFF",
+        "クーポン"
+      ]
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0579,
+          22.5431
+        ]
+      },
+      "properties": {
+        "title": "Tencent、損失を厭わず日本スタジオの保有株売却を検討 - games.gg",
+        "source": "games.gg",
+        "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPa3dic1F6SzZsM2VacEg5S0NfNWJNSTA0ZUdhTENXUWNvQzU5MExESmZyR1ZNRXh3azFLaGdhbmRqellPc1dhN2xENXJxQlplMmp6Vmw4Nnl1R2tKQjlkaHY4QTlocThSOVdocW5JS3J6T3RIZGN6RkxqdDkyV2ZSLV9LcG5iY3lVR19GR3JaVzBXMUZKVEw3LS11c0pQTXdlVVBwVDNUcHNkdXhJUVd1eExubmJaalZvMHVwMXdqMklTdzJUN2NidWtNRWRQeWZwRi16ang4SGJ1eEc4c0I1TE1lN0otb0NxN2wwQzRtYTJ3SVZMa21YQjhZZHA0eVdic2E3TzVJNmtqNjhXc0xCMGhHc1VnY0laRHNHT2pFWXZMTERLWlNZdTNwWDVoeFFZQXNhV003UTVJNU5jQU9GT21PNVY?oc=5",
+        "published_at": "2026-06-24T13:40:54+00:00",
+        "representative_place": "Tencent",
+        "place_label": "中国-広東省-深圳市",
+        "sort_place_label": "中国-広東省-深圳市",
+        "geocode_query": "Tencent Shenzhen China",
+        "place_type": "institution_site",
+        "location_precision": "city",
+        "place_reason": "Tencent関連の記事を、企業主体の代表地点として深圳市に置く（一致語: Tencent）",
+        "confidence": 0.6,
+        "rule_id": "tencent_shenzhen_topic",
+        "matched_text": "Tencent",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2437,
+          34.0522
+        ]
+      },
+      "properties": {
+        "title": "NVIDIA、KRAFTON、NC、そして『League of Legends』の現王者 T1 が韓国の PC バンで RTX Spark を祝う - NVIDIA | Japan Blog",
+        "source": "NVIDIA | Japan Blog",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNWZ1UEw3b1Fkc08yNUE4ejBwck9nSmtvamxnREI4OUhkdS12X2RIMkFfd1FULWRvRW9iSkNlX3RYR2c0eklod1hTeHVseV8zVWhSNE5EVUVWampNQ2pHeUpmRmh5RjlLZjN5cGNxdTk2NTBWbVBLVGZLTWMtdzB1VV91dw?oc=5",
+        "published_at": "2026-06-11T07:00:00+00:00",
+        "representative_place": "Riot Games",
+        "place_label": "米国-カリフォルニア州-ロサンゼルス",
+        "sort_place_label": "米国-カリフォルニア州-ロサンゼルス",
+        "geocode_query": "Riot Games Los Angeles California United States",
+        "place_type": "institution_site",
+        "location_precision": "city",
+        "place_reason": "Riot Games関連の記事を、企業主体の代表地点としてロサンゼルスに置く（一致語: League of Legends）",
+        "confidence": 0.58,
+        "rule_id": "riot_los_angeles_topic",
+        "matched_text": "League of Legends",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0122,
+          52.2297
+        ]
+      },
+      "properties": {
+        "title": "The Witcher 4 Gameplay Reveal: CD Projekt Red新作発表 - games.gg",
+        "source": "games.gg",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOT0VCY3NqQ0xQQ0NjcTNUQWNlbVNtZEduc2VvNGk5OU1wTnQ5UGYwWEl0TUdvdk5taldQY3ZaN0xFcWliSW5IaVhKbzI2dzRHTjNZN1ZFNERBVHZZenNXeDVNeGhnM1NxaWJYZ0R3aDM1OXdpVVNpdHhqTHp6X2Nhc2lESGdKV2FqOGpYQlgwTV9QSC0xLVpHVV9mNjBjT0lUQWIzV201Nl9Odw?oc=5",
+        "published_at": "2026-03-31T07:00:00+00:00",
+        "representative_place": "CD PROJEKT",
+        "place_label": "ポーランド-マゾフシェ県-ワルシャワ",
+        "sort_place_label": "ポーランド-マゾフシェ県-ワルシャワ",
+        "geocode_query": "CD Projekt Warsaw Poland",
+        "place_type": "institution_site",
+        "location_precision": "city",
+        "place_reason": "CD PROJEKT関連の記事を、企業主体の代表地点としてワルシャワに置く（一致語: CD Projekt Red）",
+        "confidence": 0.56,
+        "rule_id": "cd_projekt_warsaw_topic",
+        "matched_text": "CD Projekt Red",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.7811,
+          35.7915
+        ]
+      },
+      "properties": {
+        "title": "シリーズ最新作『ウィッチャー4』標準PS5上で60fps動作の技術デモ公開―Epic Gamesの「State of Unreal」にて - Game*Spark",
+        "source": "Game*Spark",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ZdWVsQXJFNEtOY0ppWVJaM0Q5OXI1S3RGOTgtaFV4SGFTYnJiUlJpREkyVzA4NFBMX0pBZFFkajY4WU5iTkctQUtoY0V1eWZOTWJndmI2MUw0X1ZoT3p5dUF2MXNTdw?oc=5",
+        "published_at": "2025-06-03T07:00:00+00:00",
+        "representative_place": "Epic Games",
+        "place_label": "米国-ノースカロライナ州-ケーリー",
+        "sort_place_label": "米国-ノースカロライナ州-ケーリー",
+        "geocode_query": "Epic Games Cary North Carolina United States",
+        "place_type": "institution_site",
+        "location_precision": "city",
+        "place_reason": "Epic Games関連の記事を、企業主体の代表地点としてケーリーに置く（一致語: Epic Games）",
+        "confidence": 0.58,
+        "rule_id": "epic_games_cary_topic",
+        "matched_text": "Epic Games",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0579,
+          22.5431
+        ]
+      },
+      "properties": {
+        "title": "Tencentが中国軍との関係が疑われる企業のブラックリストに追加され株価7％超の下落、企業の評判悪化のほか財務省による制裁の圧力にさらされる可能性も - GIGAZINE",
+        "source": "GIGAZINE",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBuZENJZzZubXFfOVZtU01pWVZUVnlTcG9haTA5S2JPczJ6SVZxOGJFUFk3ckJOaHNjYndYcXJlU0lXSGlTME1SU3ZydUZNTzZSbWFITGo4Qm5GTmdoVjRfZzJEbEhDOVVLNmNrLXVXQjNpSHRoX1FnWXBR?oc=5",
+        "published_at": "2025-01-07T08:00:00+00:00",
+        "representative_place": "Tencent",
+        "place_label": "中国-広東省-深圳市",
+        "sort_place_label": "中国-広東省-深圳市",
+        "geocode_query": "Tencent Shenzhen China",
+        "place_type": "institution_site",
+        "location_precision": "city",
+        "place_reason": "Tencent関連の記事を、企業主体の代表地点として深圳市に置く（一致語: Tencent）",
+        "confidence": 0.6,
+        "rule_id": "tencent_shenzhen_topic",
+        "matched_text": "Tencent",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6559,
+          60.2055
+        ]
+      },
+      "properties": {
+        "title": "「The Game Awards 2023」ノミネート作品発表 & 投票受付開始！ゲームオブザイヤー候補は『Alan Wake II』『バルダーズ・ゲート3』『Spider-Man 2』『バイオハザード RE:4』『マリオ ワンダー』『ゼルダの伝説 ティアキン』 - EAA FPS",
+        "source": "EAA FPS",
+        "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE45bzdoZ2Fid2RVcXpHbGtKYWxsUGxOSkJwb29tbDdqMjBiR3V0Y3hwa0RZUVJuUDgxT2llM19fQW1YSl9ncVhOYQ?oc=5",
+        "published_at": "2023-11-14T08:00:00+00:00",
+        "representative_place": "Remedy Entertainment",
+        "place_label": "フィンランド-ウーシマー県-エスポー",
+        "sort_place_label": "フィンランド-ウーシマー県-エスポー",
+        "geocode_query": "Remedy Entertainment Espoo Finland",
+        "place_type": "institution_site",
+        "location_precision": "city",
+        "place_reason": "Remedy Entertainment関連の記事を、企業主体の代表地点としてエスポーに置く（一致語: Alan Wake）",
+        "confidence": 0.52,
+        "rule_id": "remedy_espoo_topic",
+        "matched_text": "Alan Wake",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.7811,
+          35.7915
+        ]
+      },
+      "properties": {
+        "title": "Alan Wake 2, Baldur’s Gate 3 tie for most Game Awards nominations - Epic Games",
+        "source": "Epic Games",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRWQtMUdtdVg3Qk0wenlFeGlVRngtU29id3JsdGVOOWw0azBUMkF6ZE5BeTlFSFMydlMtd1EzN1MzdkJSZmhHNTRmbm0zRnpndWlQbHBZdXFzcS1mYnFON0hWd2R3Z25FMmpUQ2ZuUGxQRG1kU2lveWN6U2paLUNKQmpaRlNkM0FEZG54OWZPem1zbVNGMWhnTjV4OUc4SG1xLXBISmp3OXY?oc=5",
+        "published_at": "2023-11-13T08:00:00+00:00",
+        "representative_place": "Epic Games",
+        "place_label": "米国-ノースカロライナ州-ケーリー",
+        "sort_place_label": "米国-ノースカロライナ州-ケーリー",
+        "geocode_query": "Epic Games Cary North Carolina United States",
+        "place_type": "institution_site",
+        "location_precision": "city",
+        "place_reason": "Epic Games関連の記事を、企業主体の代表地点としてケーリーに置く（一致語: Epic Games）",
+        "confidence": 0.58,
+        "rule_id": "epic_games_cary_topic",
+        "matched_text": "Epic Games",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.7811,
+          35.7915
+        ]
+      },
+      "properties": {
+        "title": "Steamだけじゃ物足りない。これから始めるEpic Gamesストア。無料ゲームを毎週配信中 - 4Gamer.net",
+        "source": "4Gamer.net",
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1QVHpacmRGNG0zS3Atdm90WTRFRVZKMFpvemNLSUgzUVdJVHQ5bVBwVDQ0NjlacGVLdmVpYWJjZlVSd3FNVUtvN21sSHZBRUdzcE9ORGd0cE1SZEQ4aVRMU1ROaw?oc=5",
+        "published_at": "2023-04-30T07:00:00+00:00",
+        "representative_place": "Epic Games",
+        "place_label": "米国-ノースカロライナ州-ケーリー",
+        "sort_place_label": "米国-ノースカロライナ州-ケーリー",
+        "geocode_query": "Epic Games Cary North Carolina United States",
+        "place_type": "institution_site",
+        "location_precision": "city",
+        "place_reason": "Epic Games関連の記事を、企業主体の代表地点としてケーリーに置く（一致語: Epic Games）",
+        "confidence": 0.58,
+        "rule_id": "epic_games_cary_topic",
+        "matched_text": "Epic Games",
+        "match_source": "known_place_title"
+      }
+    }
+  ]
+}

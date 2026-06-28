@@ -1,0 +1,613 @@
+{
+  "type": "FeatureCollection",
+  "properties": {
+    "created_at": "2026-06-28T16:23:34.826634+00:00",
+    "count": 21,
+    "stats": {
+      "feed_id": "google-news-game-indie-ja",
+      "feed_label": "Google News: インディーゲーム",
+      "rss_url": "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja",
+      "fetched": 78,
+      "filtered": 72,
+      "resolved": 21,
+      "unresolved": 51,
+      "rules": 81,
+      "known_places": 82,
+      "loaded_data_files": [
+        "data/place_rules.json",
+        "data/unresolved_known_places_12.json",
+        "data/unresolved_known_places_13.json",
+        "data/unresolved_known_places_14.json",
+        "data/unresolved_known_places_15.json"
+      ],
+      "topic_keywords": [
+        "インディーゲーム",
+        "開発者",
+        "スタジオ",
+        "新作",
+        "発表",
+        "配信",
+        "BitSummit",
+        "Devolver",
+        "Annapurna",
+        "Supergiant",
+        "PLAYISM"
+      ],
+      "exclude_keywords": [
+        "セール",
+        "割引",
+        "値下げ",
+        "OFF"
+      ]
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.1265,
+          37.42
+        ]
+      },
+      "properties": {
+        "title": "【無料化】『PUBG』クリエイターによるオープンワールドサバイバル『Prologue: Go Wayback!』最終アップデート配信 - Game*Spark",
+        "source": "Game*Spark",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zRm5sMXQyLUcwVkxTeGdxUk9sQUdmYTZZYV9IZG9JOVRZeEhUSE90Z2NUTzZFZ0pfem1QZ0ZlcVNaZGhvVm9sZ0d2MmdhT2ZYZzB6MWRTb1pfdkt3TTNfSEdocXFldw?oc=5",
+        "published_at": "2026-06-18T07:00:00+00:00",
+        "representative_place": "KRAFTON",
+        "place_label": "韓国-京畿道-城南市",
+        "sort_place_label": "韓国-京畿道-城南市",
+        "geocode_query": "KRAFTON Seongnam South Korea",
+        "place_type": "institution_site",
+        "location_precision": "city",
+        "place_reason": "KRAFTON・PUBG関連の記事を、企業主体の代表地点として城南市に置く（一致語: PUBG）",
+        "confidence": 0.56,
+        "rule_id": "krafton_seongnam_topic",
+        "matched_text": "PUBG",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0841,
+          37.422
+        ]
+      },
+      "properties": {
+        "title": "個人ゲーム開発者POMENEST STUDIO、コイン落とし×モンスター育成RPG『コインサマナー』をApp StoreとGoogle Playでリリース - gamebiz【ゲームビズ】",
+        "source": "gamebiz【ゲームビズ】",
+        "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1nbGM3V0RheWh4SmxRdGYzaGVULWwyakxlenFGNVR5UFYzTUtDcFAtd05hd1JiMThEMWd4elJLWE5JcUpy?oc=5",
+        "published_at": "2026-05-26T07:00:00+00:00",
+        "representative_place": "Google本社",
+        "place_label": "米国-カリフォルニア州-マウンテンビュー",
+        "sort_place_label": "米国-カリフォルニア州-マウンテンビュー",
+        "geocode_query": "Googleplex Mountain View California United States",
+        "place_type": "institution_site",
+        "location_precision": "campus",
+        "place_reason": "Google・Gemini・Alphabet関連の記事を、企業主体の代表地点としてGoogle本社に置く（一致語: Google）",
+        "confidence": 0.64,
+        "rule_id": "google_mountain_view_headquarters_topic",
+        "matched_text": "Google",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2364,
+          37.4852
+        ]
+      },
+      "properties": {
+        "title": "ゲームクリエイターが生み出す作品を、世界へ。ドリコム発インディーゲームスタジオ『DRECOM CREATORS STUDIO』始動！ - PR TIMES",
+        "source": "PR TIMES",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE16Vlg5R2lGRGRqUjliQnB6QTMtZHZZeHdTSm9KbWpRTGNtWUhmc1BXMVhld3NLZG1mUkg1SWJoQ191X21UZjdRQ2lVN3VRVFYxSENvRGpFYTFJRnRoUmhpMC1ienpkQktLRkE?oc=5",
+        "published_at": "2026-05-14T07:00:00+00:00",
+        "representative_place": "Electronic Arts",
+        "place_label": "米国-カリフォルニア州-レッドウッドシティ",
+        "sort_place_label": "米国-カリフォルニア州-レッドウッドシティ",
+        "geocode_query": "Electronic Arts Redwood City California United States",
+        "place_type": "institution_site",
+        "location_precision": "city",
+        "place_reason": "Electronic Arts関連の記事を、企業主体の代表地点としてレッドウッドシティに置く",
+        "confidence": 0.56,
+        "rule_id": "electronic_arts_redwood_city_topic",
+        "matched_text": "EA",
+        "match_source": "rule"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2364,
+          37.4852
+        ]
+      },
+      "properties": {
+        "title": "ドリコムのインディーゲームスタジオ「DRECOM CREATORS STUDIO」設立。個人・小規模開発ゲームを包括サポート、世界に広げる - AUTOMATON",
+        "source": "AUTOMATON",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xV1BSTWxUdlJrREJvRDhjOHdpZzZqLVY4LXJfTTd1QkRnNVZQbElfQWo0TllFUjJ4dGRGbkMwSk43TENqbHRCaWhYVE1MRVJVQ0Z4WENUb0RaWDJuWk5jRHc1M2JyUk5oQUZJcw?oc=5",
+        "published_at": "2026-05-14T07:00:00+00:00",
+        "representative_place": "Electronic Arts",
+        "place_label": "米国-カリフォルニア州-レッドウッドシティ",
+        "sort_place_label": "米国-カリフォルニア州-レッドウッドシティ",
+        "geocode_query": "Electronic Arts Redwood City California United States",
+        "place_type": "institution_site",
+        "location_precision": "city",
+        "place_reason": "Electronic Arts関連の記事を、企業主体の代表地点としてレッドウッドシティに置く",
+        "confidence": 0.56,
+        "rule_id": "electronic_arts_redwood_city_topic",
+        "matched_text": "EA",
+        "match_source": "rule"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7671,
+          35.6812
+        ]
+      },
+      "properties": {
+        "title": "日本におけるインディーゲームの現在地とは。インディーゲーム開発者でもある一條貴彰氏が語る，投資や資金調達の課題とその打開策 - 4Gamer.net",
+        "source": "4Gamer.net",
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5HT0xxOV9HZ3huZ0FyUUhNeDVjcVMzekR5ZlFNdUR4a0dTS0Z6MWhCa3NYcV9RUmIyVjRzdlhCQlVKWGVncHBVb3o1Q18wNnZQM29aSnRxamtsejVDSUNYVWdYRQ?oc=5",
+        "published_at": "2026-04-17T07:00:00+00:00",
+        "representative_place": "日本",
+        "place_label": "日本",
+        "sort_place_label": "日本",
+        "geocode_query": "Japan",
+        "place_type": "affected_region",
+        "location_precision": "country",
+        "place_reason": "日本全体を扱う災害記事を、国レベルの代表地点として東京付近に置く",
+        "confidence": 0.42,
+        "rule_id": "japan_disaster_broad_topic",
+        "matched_text": "日本",
+        "match_source": "rule"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2015,
+          47.6101
+        ]
+      },
+      "properties": {
+        "title": "Steamで2025年好評殺到した国産ヒットゲーム開発者、みんな“予想外の成功”だった。『Chill with You：Lo-Fi Story』『Öoo』『DRAPLINE』開発者が振り返る、意外な高評価の裏側 - AUTOMATON",
+        "source": "AUTOMATON",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9hVEIxQU9pbm9XTmV2X2RMU1MtS1lEMDVMZEZCdl9zVGw0UjN0bnhQRURORmxQcS1vUC1yeW93SFE1OHJuNjgzc1BwNTFyWnNIMTZCZkNQX1BoandQcnZ6djJ0YndKSnpfQTJaMGtaVQ?oc=5",
+        "published_at": "2025-12-31T08:00:00+00:00",
+        "representative_place": "Valve本社",
+        "place_label": "米国-ワシントン州-ベルビュー",
+        "sort_place_label": "米国-ワシントン州-ベルビュー",
+        "geocode_query": "Valve Bellevue Washington United States",
+        "place_type": "institution_site",
+        "location_precision": "city",
+        "place_reason": "Steam・Valve関連の記事を、サービス運営主体の代表地点としてベルビューに置く（一致語: Steam）",
+        "confidence": 0.62,
+        "rule_id": "valve_bellevue_headquarters_topic",
+        "matched_text": "Steam",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7671,
+          35.6812
+        ]
+      },
+      "properties": {
+        "title": "「日本の開発者にはマネできない部分がある」吉田修平氏が見た中国ゲームの現場。ビジネスマインドと「長く働ける環境」 - ゲーム情報！ゲームのはなし",
+        "source": "ゲーム情報！ゲームのはなし",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0xWExtaU9mN0VrZ3VYLTFiY2hFaG1qcmZjVDIzQ05MN3FNWWNmTjhfSTRkZFV3Rm5jUFQ0bDhwalFyQmp0aGtGakd3YzBVMTREMXpuTkU3Q1ZLOEZyRnhBTzNFeWhlcUQ2VXZqNE9mSEFMQVpI?oc=5",
+        "published_at": "2025-12-07T08:00:00+00:00",
+        "representative_place": "日本",
+        "place_label": "日本",
+        "sort_place_label": "日本",
+        "geocode_query": "Japan",
+        "place_type": "affected_region",
+        "location_precision": "country",
+        "place_reason": "日本全体を扱う災害記事を、国レベルの代表地点として東京付近に置く",
+        "confidence": 0.42,
+        "rule_id": "japan_disaster_broad_topic",
+        "matched_text": "日本",
+        "match_source": "rule"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2015,
+          47.6101
+        ]
+      },
+      "properties": {
+        "title": "Steamの「不透明な決定」でスタジオ閉鎖の危機。新作ホラー『Horses』配信禁止の背景とは - ゲーム情報！ゲームのはなし",
+        "source": "ゲーム情報！ゲームのはなし",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE84RjNyc3NCRmtCVXBZQW0zWmNKWERrbmZGRk1Hd1BKM1ItdXhXVmZCWElPelJzUHZqN0MyaVF2amVtSUFrcy1TbHRxazBMdTNfVFpxcjNZRmRXLVdLWFBCa3c0bDI?oc=5",
+        "published_at": "2025-11-26T08:00:00+00:00",
+        "representative_place": "Valve本社",
+        "place_label": "米国-ワシントン州-ベルビュー",
+        "sort_place_label": "米国-ワシントン州-ベルビュー",
+        "geocode_query": "Valve Bellevue Washington United States",
+        "place_type": "institution_site",
+        "location_precision": "city",
+        "place_reason": "Steam・Valve関連の記事を、サービス運営主体の代表地点としてベルビューに置く（一致語: Steam）",
+        "confidence": 0.62,
+        "rule_id": "valve_bellevue_headquarters_topic",
+        "matched_text": "Steam",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2015,
+          47.6101
+        ]
+      },
+      "properties": {
+        "title": "Nexting、インディーゲームスタジオMimmox開発の3Dパズルゲーム『UMAMIパズル』をSteamにて発売 - gamebiz【ゲームビズ】",
+        "source": "gamebiz【ゲームビズ】",
+        "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9yem1rcTN1M2FDWkJXRENJUjN6MkhQWHhpSkJNY0JyT0psQlEwZEtURXFGT2FidWQ3U2tUZENtYUc4ZVZo?oc=5",
+        "published_at": "2025-11-18T08:00:00+00:00",
+        "representative_place": "Valve本社",
+        "place_label": "米国-ワシントン州-ベルビュー",
+        "sort_place_label": "米国-ワシントン州-ベルビュー",
+        "geocode_query": "Valve Bellevue Washington United States",
+        "place_type": "institution_site",
+        "location_precision": "city",
+        "place_reason": "Steam・Valve関連の記事を、サービス運営主体の代表地点としてベルビューに置く（一致語: Steam）",
+        "confidence": 0.62,
+        "rule_id": "valve_bellevue_headquarters_topic",
+        "matched_text": "Steam",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2015,
+          47.6101
+        ]
+      },
+      "properties": {
+        "title": "完全新作『みんなで空気読み。ワールド タイVer.』Steamストア、トレーラーを公開。『Timelie 』を手掛けたタイのクリエイターチーム”Urnique Studio”との共同プロジェクト | 株式会社ジー・モードのプレスリリース - PR TIMES",
+        "source": "PR TIMES",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9yeDI0M1d3SGJGNVJjcnFtOVJHT1diVlp4OWNlTlZoM0pla1hrTW1RTVR3UDZ3a1JmdF9LelFfS2xyNjJwbHdhZXAyWDBUUmdxYzRqcUhXNTdFVXFheS1uZjFUU1JyUE9KMkE?oc=5",
+        "published_at": "2025-07-07T07:00:00+00:00",
+        "representative_place": "Valve本社",
+        "place_label": "米国-ワシントン州-ベルビュー",
+        "sort_place_label": "米国-ワシントン州-ベルビュー",
+        "geocode_query": "Valve Bellevue Washington United States",
+        "place_type": "institution_site",
+        "location_precision": "city",
+        "place_reason": "Steam・Valve関連の記事を、サービス運営主体の代表地点としてベルビューに置く（一致語: Steam）",
+        "confidence": 0.62,
+        "rule_id": "valve_bellevue_headquarters_topic",
+        "matched_text": "Steam",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1484,
+          37.4848
+        ]
+      },
+      "properties": {
+        "title": "「幻のドットゲーム」企画が20年越しに復活！？『メタスラ』開発者等豪華メンバー集うKOHACHI STUDIO6月12日の新作発表を告知 - Game*Spark",
+        "source": "Game*Spark",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5QQlFZb0c3NzBRcTBzNDRXLWdVVVQwS1dDM190cjNCYjJJT1NfQ194Q3JGME1Lak1tTnF3cWNfb01pNXJ6bWRZeHdUa1RiSWMzOEg1TG1jVy1jT2lGb21EX3JTXzVYdw?oc=5",
+        "published_at": "2025-06-10T07:00:00+00:00",
+        "representative_place": "Meta本社",
+        "place_label": "米国-カリフォルニア州-メンローパーク",
+        "sort_place_label": "米国-カリフォルニア州-メンローパーク",
+        "geocode_query": "Meta Menlo Park California United States",
+        "place_type": "institution_site",
+        "location_precision": "city",
+        "place_reason": "Meta・Facebook・Instagram関連の記事を、企業主体の代表地点としてメンローパークに置く",
+        "confidence": 0.6,
+        "rule_id": "meta_menlo_park_headquarters_topic",
+        "matched_text": "メタ",
+        "match_source": "rule"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7671,
+          35.6812
+        ]
+      },
+      "properties": {
+        "title": "オープンワールドファンタジーRPG『Edge of Memories』発表。JRPG大好き海外スタジオと日本人著名クリエイターたちが強力タッグ - AUTOMATON",
+        "source": "AUTOMATON",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVWZkUGdmRDlfd1lwS2pnWkI0alZhRXlXdU5tRmo0MWJIS3VEb1BaY0hTTXYwTWNQVjBVSUpQMUhMV3FnLWxIaUh6eWZ2Zy05ZEcxdTFKSkxYUHFua0d0c1NPZGQxRGJ5NWtsa2x4eHhLSDNWLVg4T0lwb21ROW1GZWZPZw?oc=5",
+        "published_at": "2025-02-26T08:00:00+00:00",
+        "representative_place": "日本",
+        "place_label": "日本",
+        "sort_place_label": "日本",
+        "geocode_query": "Japan",
+        "place_type": "affected_region",
+        "location_precision": "country",
+        "place_reason": "日本全体を扱う災害記事を、国レベルの代表地点として東京付近に置く",
+        "confidence": 0.42,
+        "rule_id": "japan_disaster_broad_topic",
+        "matched_text": "日本",
+        "match_source": "rule"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0122,
+          52.2297
+        ]
+      },
+      "properties": {
+        "title": "中世舞台の4XストラテジーRPG新作『Liegecraft』発表！CD PROJEKT RED、Paradox、11 bit出身者からなる新興スタジオ開発 - Game*Spark",
+        "source": "Game*Spark",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9qajladGxGTl9Ja2dQbGNJanJualRCUHpIR3RCQ1VPQzM3cm1ad1NEUUdIUkdidjl2OE9jd2FZWFZZWGFjRi1rMzdVc29Lci02N2toblFPeGhXa0lnQXVNVF9FY0lMdw?oc=5",
+        "published_at": "2024-10-25T07:00:00+00:00",
+        "representative_place": "CD PROJEKT",
+        "place_label": "ポーランド-マゾフシェ県-ワルシャワ",
+        "sort_place_label": "ポーランド-マゾフシェ県-ワルシャワ",
+        "geocode_query": "CD Projekt Warsaw Poland",
+        "place_type": "institution_site",
+        "location_precision": "city",
+        "place_reason": "CD PROJEKT関連の記事を、企業主体の代表地点としてワルシャワに置く（一致語: CD PROJEKT）",
+        "confidence": 0.56,
+        "rule_id": "cd_projekt_warsaw_topic",
+        "matched_text": "CD PROJEKT",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7516,
+          35.6581
+        ]
+      },
+      "properties": {
+        "title": "バンダイナムコグループのインディーゲームコンテスト インディーゲームクリエイターに向けたコンテスト「第2回GYAAR Studio インディーゲームコンテスト」結果発表！ - PR TIMES",
+        "source": "PR TIMES",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvZy1talFFZDFvakJkNWMtU2Q4anNVbHlXOUlQNElWeWg4VTZFVHMxeDZScGNURlR4elh0SzRmYTRod2lDc05hNndhR2FJMlk2Y3o5V2daLWVDc25YRXVLZDlRR3RnX04teFE?oc=5",
+        "published_at": "2024-03-03T08:00:00+00:00",
+        "representative_place": "バンダイナムコエンターテインメント",
+        "place_label": "日本-東京都-港区",
+        "sort_place_label": "日本-東京都-港区",
+        "geocode_query": "Bandai Namco Entertainment Minato Tokyo Japan",
+        "place_type": "institution_site",
+        "location_precision": "city_district",
+        "place_reason": "バンダイナムコ関連の記事を、企業主体の代表地点として東京都港区に置く（一致語: バンダイナムコ）",
+        "confidence": 0.62,
+        "rule_id": "bandai_namco_tokyo_topic",
+        "matched_text": "バンダイナムコ",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7516,
+          35.6581
+        ]
+      },
+      "properties": {
+        "title": "なぜ大企業バンダイナムコスタジオがインディーゲームを作るのか？その裏にはゲーム産業の大きな課題があった - IGN Japan",
+        "source": "IGN Japan",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1acDlMQkV4QXVlUEJlTmRoVWU4VVA3NEpGZ1c2bGhhSDhWN1FXNTk3QUJfODNWTWl0UEc4ZUl3RktzQjlPSUZUdUZzMkFydzhiQ3NF?oc=5",
+        "published_at": "2023-04-11T07:00:00+00:00",
+        "representative_place": "バンダイナムコエンターテインメント",
+        "place_label": "日本-東京都-港区",
+        "sort_place_label": "日本-東京都-港区",
+        "geocode_query": "Bandai Namco Entertainment Minato Tokyo Japan",
+        "place_type": "institution_site",
+        "location_precision": "city_district",
+        "place_reason": "バンダイナムコ関連の記事を、企業主体の代表地点として東京都港区に置く（一致語: バンダイナムコ）",
+        "confidence": 0.62,
+        "rule_id": "bandai_namco_tokyo_topic",
+        "matched_text": "バンダイナムコ",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7516,
+          35.6581
+        ]
+      },
+      "properties": {
+        "title": "バンダイナムコスタジオのインディーゲームレーベル「GYAAR Studio」主導！インディーゲームクリエイターに向けたコンテスト「第1回GYAAR Studio インディーゲームコンテスト」結果発表！ - PR TIMES",
+        "source": "PR TIMES",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ibWhSdmJjZFFpTFRmMndsc1NYTDI4ZkJHZGV1QWVSYjVKUWFUOGpRY3BXZ3dXeW9tdWw2YjVDZ2pvOFdaWm00aUZSTE1xc2lpSm5SNk83WF9wUVlidjhSTjFKbm81Qk1KbEE?oc=5",
+        "published_at": "2023-03-04T08:00:00+00:00",
+        "representative_place": "バンダイナムコエンターテインメント",
+        "place_label": "日本-東京都-港区",
+        "sort_place_label": "日本-東京都-港区",
+        "geocode_query": "Bandai Namco Entertainment Minato Tokyo Japan",
+        "place_type": "institution_site",
+        "location_precision": "city_district",
+        "place_reason": "バンダイナムコ関連の記事を、企業主体の代表地点として東京都港区に置く（一致語: バンダイナムコ）",
+        "confidence": 0.62,
+        "rule_id": "bandai_namco_tokyo_topic",
+        "matched_text": "バンダイナムコ",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7516,
+          35.6581
+        ]
+      },
+      "properties": {
+        "title": "支援金総額最大1億円！ バンダイナムコが大規模なインディーゲームコンテストを開催する目的に迫る独占インタビュー！ - ファミ通",
+        "source": "ファミ通",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Bc0RMUzZHM0hjUFF0NHpla3JkTGhzS3Z3emQxRkxIXzZIcG9BUFVLdWJXb1B5VVhVNDBaMUVGbndsdjBqTEM3cDBYakgycXpqWGJyZHU3TEVHR2xiZEE?oc=5",
+        "published_at": "2022-11-13T08:00:00+00:00",
+        "representative_place": "バンダイナムコエンターテインメント",
+        "place_label": "日本-東京都-港区",
+        "sort_place_label": "日本-東京都-港区",
+        "geocode_query": "Bandai Namco Entertainment Minato Tokyo Japan",
+        "place_type": "institution_site",
+        "location_precision": "city_district",
+        "place_reason": "バンダイナムコ関連の記事を、企業主体の代表地点として東京都港区に置く（一致語: バンダイナムコ）",
+        "confidence": 0.62,
+        "rule_id": "bandai_namco_tokyo_topic",
+        "matched_text": "バンダイナムコ",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7516,
+          35.6581
+        ]
+      },
+      "properties": {
+        "title": "バンダイナムコスタジオのインディーゲームレーベル“GYAAR Studio”主導のゲームコンテストが開催決定。入賞者には総額最大1億円の支援金を贈呈 - ファミ通",
+        "source": "ファミ通",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9pTlVweS1ZbXVGVjg3bzdjTndYT2g3Um5uWkZkUUdxWkp4VmdzVUlzc1E5cmVvYmZ1dmJBWnQyWHp2UWxOeGFYSkVYdXlaaTlYcGN4Z2dvTS1qRHFJNHc?oc=5",
+        "published_at": "2022-11-13T08:00:00+00:00",
+        "representative_place": "バンダイナムコエンターテインメント",
+        "place_label": "日本-東京都-港区",
+        "sort_place_label": "日本-東京都-港区",
+        "geocode_query": "Bandai Namco Entertainment Minato Tokyo Japan",
+        "place_type": "institution_site",
+        "location_precision": "city_district",
+        "place_reason": "バンダイナムコ関連の記事を、企業主体の代表地点として東京都港区に置く（一致語: バンダイナムコ）",
+        "confidence": 0.62,
+        "rule_id": "bandai_namco_tokyo_topic",
+        "matched_text": "バンダイナムコ",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2015,
+          47.6101
+        ]
+      },
+      "properties": {
+        "title": "アヒル好き開発者による好きなアヒルが作れる『Duck Creator』―Steamページには世界中のアヒル好きが【開発者インタビュー】 - GameBusiness.jp",
+        "source": "GameBusiness.jp",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9RTnFoUjBuUjZNaHA4ZWNrNzJLMXZZLXN6Sy0wTlk5TEN2bndMa1ozSnFaQ0k1bEJfd0JBTjB2ZUhfdU1YQkljd0N0MFZPdGdCR05QaHRFVENhRm9RaVVLenY4dXItblFo?oc=5",
+        "published_at": "2021-11-15T08:00:00+00:00",
+        "representative_place": "Valve本社",
+        "place_label": "米国-ワシントン州-ベルビュー",
+        "sort_place_label": "米国-ワシントン州-ベルビュー",
+        "geocode_query": "Valve Bellevue Washington United States",
+        "place_type": "institution_site",
+        "location_precision": "city",
+        "place_reason": "Steam・Valve関連の記事を、サービス運営主体の代表地点としてベルビューに置く（一致語: Steam）",
+        "confidence": 0.62,
+        "rule_id": "valve_bellevue_headquarters_topic",
+        "matched_text": "Steam",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2015,
+          47.6101
+        ]
+      },
+      "properties": {
+        "title": "Steamでの度重なる返金により次作開発を断念―インディホラー『Summer of '58』開発スタジオが発表 - GameBusiness.jp",
+        "source": "GameBusiness.jp",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BV29QcGxMN2M3Z0ZUdFVPOG9ianYyVXp6UGdlbTdrbXN0UzhITW1nVG9CMlJucWN5d2JwY1VYZEZxR3JERldQSEtKbGVNQThINEJaZzdxcmJiVVZHdHA2WFZpa0tZX283?oc=5",
+        "published_at": "2021-08-30T07:00:00+00:00",
+        "representative_place": "Valve本社",
+        "place_label": "米国-ワシントン州-ベルビュー",
+        "sort_place_label": "米国-ワシントン州-ベルビュー",
+        "geocode_query": "Valve Bellevue Washington United States",
+        "place_type": "institution_site",
+        "location_precision": "city",
+        "place_reason": "Steam・Valve関連の記事を、サービス運営主体の代表地点としてベルビューに置く（一致語: Steam）",
+        "confidence": 0.62,
+        "rule_id": "valve_bellevue_headquarters_topic",
+        "matched_text": "Steam",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.006,
+          40.7128
+        ]
+      },
+      "properties": {
+        "title": "『Fallout: New Vegas』のObsidian、「あのTake-Twoの元で開発する新作には、やはりゲーム内課金を導入するのか」ファンの不安に回答 - AUTOMATON",
+        "source": "AUTOMATON",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0tamJiV3Yzems1UmVFZDN1X0Q0V2tJQTl6UzF4cHJOVFJVZ1hyWGg0ckhvdEJ0U3BsSFFyWUFLLUlNbnMxc2RHa1VKUC00bDVnVExWLW9Gb2h5Nmlrd21CZXNBUnRKeldnbVBJ?oc=5",
+        "published_at": "2017-12-18T08:00:00+00:00",
+        "representative_place": "Take-Two Interactive / Rockstar Games",
+        "place_label": "米国-ニューヨーク州-ニューヨーク",
+        "sort_place_label": "米国-ニューヨーク州-ニューヨーク",
+        "geocode_query": "Take-Two Interactive New York United States",
+        "place_type": "institution_site",
+        "location_precision": "city",
+        "place_reason": "Take-Two・Rockstar Games関連の記事を、企業主体の代表地点としてニューヨークに置く（一致語: Take-Two）",
+        "confidence": 0.56,
+        "rule_id": "take_two_new_york_topic",
+        "matched_text": "Take-Two",
+        "match_source": "known_place_title"
+      }
+    }
+  ]
+}

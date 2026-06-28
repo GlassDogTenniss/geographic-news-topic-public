@@ -1,0 +1,429 @@
+{
+  "type": "FeatureCollection",
+  "properties": {
+    "created_at": "2026-06-28T16:23:34.826634+00:00",
+    "count": 14,
+    "stats": {
+      "feed_id": "google-news-game-mobile-ja",
+      "feed_label": "Google News: スマホゲーム運営会社",
+      "rss_url": "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja",
+      "fetched": 79,
+      "filtered": 73,
+      "resolved": 14,
+      "unresolved": 59,
+      "rules": 81,
+      "known_places": 82,
+      "loaded_data_files": [
+        "data/place_rules.json",
+        "data/unresolved_known_places_12.json",
+        "data/unresolved_known_places_13.json",
+        "data/unresolved_known_places_14.json",
+        "data/unresolved_known_places_15.json"
+      ],
+      "topic_keywords": [
+        "スマホゲーム",
+        "新作",
+        "運営",
+        "事前登録",
+        "配信",
+        "Cygames",
+        "HoYoverse",
+        "NEXON",
+        "MIXI",
+        "DeNA",
+        "GREE",
+        "コロプラ",
+        "gumi",
+        "KLab",
+        "アカツキ"
+      ],
+      "exclude_keywords": [
+        "攻略",
+        "リセマラ",
+        "ガチャ結果",
+        "セール",
+        "割引"
+      ]
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.732,
+          35.6225
+        ]
+      },
+      "properties": {
+        "title": "セガ、iOS/Android向けRPG『銀魂 すまほ ばとるくろにくる』を配信決定…本日より事前登録開始…開発はNextNinja - gamebiz【ゲームビズ】",
+        "source": "gamebiz【ゲームビズ】",
+        "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFA3eWFTSmRUMlN5UXk1RER0clVKUFlmR1JPVTFSNjF5VF9ITFZCT2Z6MzBuUXo2dlBUc3ZlNW1UaDN3ekN3?oc=5",
+        "published_at": "2025-11-13T08:00:00+00:00",
+        "representative_place": "セガ本社",
+        "place_label": "日本-東京都-品川区",
+        "sort_place_label": "日本-東京都-品川区",
+        "geocode_query": "Sega headquarters Shinagawa Tokyo Japan",
+        "place_type": "institution_site",
+        "location_precision": "city_district",
+        "place_reason": "セガ作品・セガ関連の記事を、企業主体の代表地点として品川区に置く（一致語: セガ）",
+        "confidence": 0.62,
+        "rule_id": "sega_shinagawa_headquarters_topic",
+        "matched_text": "セガ",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4079,
+          35.7138
+        ]
+      },
+      "properties": {
+        "title": "スマートフォン向け新作RPG『英雄伝説 ガガーブトリロジー』2025年12月より日本国内向けサービス決定 - 日本ファルコム 公式サイト",
+        "source": "日本ファルコム 公式サイト",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1jYl9rcjB1dHZpaTZ0UnJFRW0zXzZZUTdmdlU1OWdhVXlDTHhwdDUta2QtYURWTXpWQVVKdURUTVRNMTNHQjNXWlNJQk5VZURZUmlN?oc=5",
+        "published_at": "2025-11-06T08:00:00+00:00",
+        "representative_place": "日本ファルコム本社",
+        "place_label": "日本-東京都-立川市",
+        "sort_place_label": "日本-東京都-立川市",
+        "geocode_query": "Nihon Falcom Tachikawa Tokyo Japan",
+        "place_type": "institution_site",
+        "location_precision": "city",
+        "place_reason": "日本ファルコム作品・企業関連の記事を、企業主体の代表地点として立川市に置く（一致語: 日本ファルコム）",
+        "confidence": 0.62,
+        "rule_id": "falcom_tachikawa_headquarters_topic",
+        "matched_text": "日本ファルコム",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2364,
+          37.4852
+        ]
+      },
+      "properties": {
+        "title": "【幻想水滸伝 STAR LEAP】配信日・事前登録特典・最新情報まとめ - 電撃オンライン",
+        "source": "電撃オンライン",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xRU4xRkVMb3hhcFhYdElzQlVVVDA0QXp4NlUtUGE3bXBGdllhXzlTejJtZTlacHJtOU5COENJTFVqcDVIM2kyTFljaE5KOVZxR20wYkN5VEY4QQ?oc=5",
+        "published_at": "2025-07-18T07:00:00+00:00",
+        "representative_place": "Electronic Arts",
+        "place_label": "米国-カリフォルニア州-レッドウッドシティ",
+        "sort_place_label": "米国-カリフォルニア州-レッドウッドシティ",
+        "geocode_query": "Electronic Arts Redwood City California United States",
+        "place_type": "institution_site",
+        "location_precision": "city",
+        "place_reason": "Electronic Arts関連の記事を、企業主体の代表地点としてレッドウッドシティに置く",
+        "confidence": 0.56,
+        "rule_id": "electronic_arts_redwood_city_topic",
+        "matched_text": "EA",
+        "match_source": "rule"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7671,
+          35.6812
+        ]
+      },
+      "properties": {
+        "title": "【ペルソナ５: The Phantom X】配信日と事前登録情報｜最新情報 - AppMedia",
+        "source": "AppMedia",
+        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB0N3F0S0lNa0RzMWJhb3BlR3ZRcnBoLXh3LUd6eFFIZl9kNWFZcm82VzllRFY2SUU2MTJkUGFLWWhZbkdIUk5qMjlqckg?oc=5",
+        "published_at": "2025-06-26T07:00:00+00:00",
+        "representative_place": "アトラス",
+        "place_label": "日本-東京都",
+        "sort_place_label": "日本-東京都",
+        "geocode_query": "Atlus Tokyo Japan",
+        "place_type": "institution_site",
+        "location_precision": "prefecture",
+        "place_reason": "アトラス関連の記事を、企業主体の代表地点として東京都に置く（一致語: ペルソナ）",
+        "confidence": 0.54,
+        "rule_id": "atlus_tokyo_topic",
+        "matched_text": "ペルソナ",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7671,
+          35.6812
+        ]
+      },
+      "properties": {
+        "title": "『ペルソナ』シリーズ最新作『ペルソナ５: The Phantom X』事前ダウンロードを開始！事前登録は200万件を突破！ - sega.jp",
+        "source": "sega.jp",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9PdnVmazdia0FMYm9qN2EydE11YkJfNkpuLXdJVjJab0N6ajBGSUZyeExqUW5rRmdnM0pJc3dKVXEteXVjem5aa3dZR1lXdC15bFNBQW93?oc=5",
+        "published_at": "2025-06-25T07:00:00+00:00",
+        "representative_place": "アトラス",
+        "place_label": "日本-東京都",
+        "sort_place_label": "日本-東京都",
+        "geocode_query": "Atlus Tokyo Japan",
+        "place_type": "institution_site",
+        "location_precision": "prefecture",
+        "place_reason": "アトラス関連の記事を、企業主体の代表地点として東京都に置く（一致語: ペルソナ）",
+        "confidence": 0.54,
+        "rule_id": "atlus_tokyo_topic",
+        "matched_text": "ペルソナ",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7671,
+          35.6812
+        ]
+      },
+      "properties": {
+        "title": "『ペルソナ』シリーズ最新作『ペルソナ５: The Phantom X』豪華ゲストが出演する生放送“『P5X』通信 -リリース直前スペシャル！-”6月25日（水）20時より配信決定！ - sega.jp",
+        "source": "sega.jp",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE93X3lBN1RpX2ZSbWdXSF9UazZHMkgtNFNnanI2YUVuUEJrc0tCbTlXUnl3OEFyZ0RuLXVtVmg2UUNtT2hQZ1hzRTZEMlZzZlhLSTdpZUZ3?oc=5",
+        "published_at": "2025-06-23T01:41:01+00:00",
+        "representative_place": "アトラス",
+        "place_label": "日本-東京都",
+        "sort_place_label": "日本-東京都",
+        "geocode_query": "Atlus Tokyo Japan",
+        "place_type": "institution_site",
+        "location_precision": "prefecture",
+        "place_reason": "アトラス関連の記事を、企業主体の代表地点として東京都に置く（一致語: ペルソナ）",
+        "confidence": 0.54,
+        "rule_id": "atlus_tokyo_topic",
+        "matched_text": "ペルソナ",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2364,
+          37.4852
+        ]
+      },
+      "properties": {
+        "title": "【ブレイクマイケース】配信日と事前登録情報｜最新情報｜BREAK MY CASE - AppMedia",
+        "source": "AppMedia",
+        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBhYzBOU1A0c1NHV2JzM0FxNk5RNXlZTm1MR05vZkV2ZTJuZFRSaDg4eWpUNDhHQkJnbVB2NmpNc1RQMzlYdDJLQWlHbF8?oc=5",
+        "published_at": "2024-05-09T07:00:00+00:00",
+        "representative_place": "Electronic Arts",
+        "place_label": "米国-カリフォルニア州-レッドウッドシティ",
+        "sort_place_label": "米国-カリフォルニア州-レッドウッドシティ",
+        "geocode_query": "Electronic Arts Redwood City California United States",
+        "place_type": "institution_site",
+        "location_precision": "city",
+        "place_reason": "Electronic Arts関連の記事を、企業主体の代表地点としてレッドウッドシティに置く",
+        "confidence": 0.56,
+        "rule_id": "electronic_arts_redwood_city_topic",
+        "matched_text": "EA",
+        "match_source": "rule"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7301,
+          35.6092
+        ]
+      },
+      "properties": {
+        "title": "牧場物語MOBILEの配信日と事前登録情報 - GameWith",
+        "source": "GameWith",
+        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9LTWNhU1pTWjAwNlFNa3hQdXpPQkc4elZfN1kwRy02YnVXdTJyVzZPREVlN25TSC1hNm5mWnVHQm9PdWd6TlE?oc=5",
+        "published_at": "2023-01-20T08:00:00+00:00",
+        "representative_place": "マーベラス",
+        "place_label": "日本-東京都-品川区",
+        "sort_place_label": "日本-東京都-品川区",
+        "geocode_query": "Marvelous Shinagawa Tokyo Japan",
+        "place_type": "institution_site",
+        "location_precision": "city_district",
+        "place_reason": "マーベラス関連の記事を、企業主体の代表地点として品川区に置く（一致語: 牧場物語）",
+        "confidence": 0.56,
+        "rule_id": "marvelous_shinagawa_topic",
+        "matched_text": "牧場物語",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.632,
+          35.4578
+        ]
+      },
+      "properties": {
+        "title": "コーテク、「北斗の拳」の新作スマホゲーム『真・北斗無双』にてストアでの事前登録を開始 無料LINEスタンプ配信＆PV公開 - gamebiz【ゲームビズ】",
+        "source": "gamebiz【ゲームビズ】",
+        "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5rejJvTmJ4SndUM3R3T2NzbW9xSFRHbHRjb1ZNSDQ4ZlFkUTEwU29EN1JOejdsc21NSDdQdXQwQUxUUWZt?oc=5",
+        "published_at": "2021-07-29T07:37:27+00:00",
+        "representative_place": "コーエーテクモゲームス",
+        "place_label": "日本-神奈川県-横浜市-西区",
+        "sort_place_label": "日本-神奈川県-横浜市-西区",
+        "geocode_query": "Koei Tecmo Games Yokohama Japan",
+        "place_type": "institution_site",
+        "location_precision": "city_district",
+        "place_reason": "コーエーテクモ関連の記事を、企業主体の代表地点として横浜市西区に置く（一致語: 無双）",
+        "confidence": 0.62,
+        "rule_id": "koei_tecmo_yokohama_topic",
+        "matched_text": "無双",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7016,
+          35.658
+        ]
+      },
+      "properties": {
+        "title": "事前登録3周年は回避！　スマホゲーム「ウマ娘 プリティーダービー」のリリース日決定　「待ってた」「ようやく」 | ねとらぼ - ねとらぼ",
+        "source": "ねとらぼ",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1DeWFFMzdHcXRpcUJKNUNRamRzNEVXSDByT0REbkhKUDZiZzFhNThFZHhiOGFZNFo1NWlXV1JpWlN6WFREZVBaTzFGV3pkR1pFMi1yd0RRdmQ3UU5LcVHSAWNBVV95cUxOenk2MG1OeVlqNXNQeWRUZmpGd3hwZ3ZZaEoyMndxdFJlUkNQVEpaSC1ybExNVTB3VkNYbk01ejFKNTdfUUg3T1JOOG1Wcl9IZVpNenZQOVo5YWtTdEtTaV80Yms?oc=5",
+        "published_at": "2020-12-20T08:00:00+00:00",
+        "representative_place": "Cygames",
+        "place_label": "日本-東京都-渋谷区",
+        "sort_place_label": "日本-東京都-渋谷区",
+        "geocode_query": "Cygames Shibuya Tokyo Japan",
+        "place_type": "institution_site",
+        "location_precision": "city_district",
+        "place_reason": "Cygames関連の記事を、企業主体の代表地点として渋谷区に置く（一致語: ウマ娘）",
+        "confidence": 0.62,
+        "rule_id": "cygames_shibuya_topic",
+        "matched_text": "ウマ娘",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7671,
+          35.6812
+        ]
+      },
+      "properties": {
+        "title": "ミニモレーシング2日本配信決定！11月13日から事前登録開始 - PR TIMES",
+        "source": "PR TIMES",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBpUEhXaU45RzdNUUFyckJOQjU0THl3V0dlZUEwWVNyUEJWMkgzMEdWamRvWXI3TmI5ZXM1ci0wMDdNX092bVNHWjNzeTdERW96LU9RVkhNejhQLUY5RXpiUTBsZUxnRWxPU1E?oc=5",
+        "published_at": "2020-11-13T08:00:00+00:00",
+        "representative_place": "日本",
+        "place_label": "日本",
+        "sort_place_label": "日本",
+        "geocode_query": "Japan",
+        "place_type": "affected_region",
+        "location_precision": "country",
+        "place_reason": "日本全体を扱う災害記事を、国レベルの代表地点として東京付近に置く",
+        "confidence": 0.42,
+        "rule_id": "japan_disaster_broad_topic",
+        "matched_text": "日本",
+        "match_source": "rule"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7016,
+          35.658
+        ]
+      },
+      "properties": {
+        "title": "スマホゲーム「ウマ娘」、運営が2020年配信を示唆　事前登録開始から2年越しのリリースへ | ねとらぼ - ねとらぼ",
+        "source": "ねとらぼ",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9BNmM0OXFVdktGc0dOSF9XVnFxamx6djctUDdVbGJQdXVLb0cxYXFQbWl1OTFYVzJlY29HQS10U0VRQTRXNDVBYkRDckxpQXhfSTloTlBqcVBKRWhPeWfSAWNBVV95cUxQVFQ0UTladXJhdFRBV1hxQ3BucTdtZC1fbWVfaDIxWm1YX3J2RDNXNXJ5RTliSWo0UnIyb1UwcGZ5ZnVuVE5BTGtwa3FnSnQzWGJSb05DN25aZTZHU0tsbmh0VG8?oc=5",
+        "published_at": "2019-12-26T08:00:00+00:00",
+        "representative_place": "Cygames",
+        "place_label": "日本-東京都-渋谷区",
+        "sort_place_label": "日本-東京都-渋谷区",
+        "geocode_query": "Cygames Shibuya Tokyo Japan",
+        "place_type": "institution_site",
+        "location_precision": "city_district",
+        "place_reason": "Cygames関連の記事を、企業主体の代表地点として渋谷区に置く（一致語: ウマ娘）",
+        "confidence": 0.62,
+        "rule_id": "cygames_shibuya_topic",
+        "matched_text": "ウマ娘",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1551,
+          30.2741
+        ]
+      },
+      "properties": {
+        "title": "【荒野行動】配信日/リリース日はいつ？事前登録情報 - AppMedia",
+        "source": "AppMedia",
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1POG9mdlFvRU5OVmZCLThjNkQ0NkJDczFBOW9XZzB3b0NnT3E0eXV5SkJjVjdsYXNXSkxJc3o0aU0tMHVWaFFLTmlUdw?oc=5",
+        "published_at": "2018-03-15T07:00:00+00:00",
+        "representative_place": "NetEase",
+        "place_label": "中国-浙江省-杭州市",
+        "sort_place_label": "中国-浙江省-杭州市",
+        "geocode_query": "NetEase Hangzhou China",
+        "place_type": "institution_site",
+        "location_precision": "city",
+        "place_reason": "NetEase関連の記事を、企業主体の代表地点として杭州市に置く（一致語: 荒野行動）",
+        "confidence": 0.58,
+        "rule_id": "netease_hangzhou_topic",
+        "matched_text": "荒野行動",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1484,
+          37.4848
+        ]
+      },
+      "properties": {
+        "title": "「メタルマックス」シリーズ最新作 超改造戦車RPG「METAL MAX FIREWORKS」 事前登録開始！ 登録特典【戦車つきプレミアム☆GAL】を手に入れろ！ - PR TIMES",
+        "source": "PR TIMES",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9XY0hoM0tQZXdzZURNYXdReTdRSGctbm5NZnFNMnB6M1piZnVDdmlRc1ViMlJzU0dLVVN0NVpyUHNjWVd1NmphcEhiN25VQnBZVnowUmY3b1RJblNhcEpyeFZ1Z21uaUlWX2c?oc=5",
+        "published_at": "2015-07-10T07:00:00+00:00",
+        "representative_place": "Meta本社",
+        "place_label": "米国-カリフォルニア州-メンローパーク",
+        "sort_place_label": "米国-カリフォルニア州-メンローパーク",
+        "geocode_query": "Meta Menlo Park California United States",
+        "place_type": "institution_site",
+        "location_precision": "city",
+        "place_reason": "Meta・Facebook・Instagram関連の記事を、企業主体の代表地点としてメンローパークに置く",
+        "confidence": 0.6,
+        "rule_id": "meta_menlo_park_headquarters_topic",
+        "matched_text": "メタ",
+        "match_source": "rule"
+      }
+    }
+  ]
+}

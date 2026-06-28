@@ -1,0 +1,1994 @@
+{
+  "type": "FeatureCollection",
+  "properties": {
+    "created_at": "2026-06-28T16:23:34.826634+00:00",
+    "count": 72,
+    "stats": {
+      "feed_id": "google-news-game-japan-publishers-ja",
+      "feed_label": "Google News: 国内ゲーム会社",
+      "rss_url": "https://news.google.com/rss/search?q=%E4%BB%BB%E5%A4%A9%E5%A0%82%20OR%20%E3%82%AB%E3%83%97%E3%82%B3%E3%83%B3%20OR%20%E3%82%BB%E3%82%AC%20OR%20%E3%82%B3%E3%83%8A%E3%83%9F%20OR%20%E3%83%90%E3%83%B3%E3%83%80%E3%82%A4%E3%83%8A%E3%83%A0%E3%82%B3%20OR%20%E3%82%B9%E3%82%AF%E3%82%A8%E3%83%8B&hl=ja&gl=JP&ceid=JP:ja",
+      "fetched": 100,
+      "filtered": 72,
+      "resolved": 72,
+      "unresolved": 0,
+      "rules": 81,
+      "known_places": 82,
+      "loaded_data_files": [
+        "data/place_rules.json",
+        "data/unresolved_known_places_12.json",
+        "data/unresolved_known_places_13.json",
+        "data/unresolved_known_places_14.json",
+        "data/unresolved_known_places_15.json"
+      ],
+      "topic_keywords": [
+        "任天堂",
+        "カプコン",
+        "セガ",
+        "コナミ",
+        "バンダイナムコ",
+        "バンナム",
+        "スクエニ",
+        "スクウェア・エニックス",
+        "コーエーテクモ",
+        "日本ファルコム",
+        "アトラス",
+        "スパイク・チュンソフト",
+        "Cygames"
+      ],
+      "exclude_keywords": [
+        "セール",
+        "割引",
+        "値下げ",
+        "OFF",
+        "クーポン",
+        "ポイント還元"
+      ]
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.732,
+          35.6225
+        ]
+      },
+      "properties": {
+        "title": "セガサターンの「センチメンタルグラフティ」が復活。エンターグラムよりリメイク版がリリース決定一部シナリオは現在の時勢に合わせての調整しつつオリジナル版を再現 - Excite エキサイト",
+        "source": "Excite エキサイト",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5wbnlNcjlIdV9LLUNyU2tHZEhfNENJNUxHRkhjMHBHaU1lVUsyZmlfMUkxM00zR3p5UkRWWDRSMF9GWkxIZkswdDIzakFOb2Z2bjRYWUZoNnQ4UkhJTFVDMnpfUUhBMUo4dWpOTGV0RWxDb1A4aGc4?oc=5",
+        "published_at": "2026-06-28T13:05:39+00:00",
+        "representative_place": "セガ本社",
+        "place_label": "日本-東京都-品川区",
+        "sort_place_label": "日本-東京都-品川区",
+        "geocode_query": "Sega headquarters Shinagawa Tokyo Japan",
+        "place_type": "institution_site",
+        "location_precision": "city_district",
+        "place_reason": "セガ作品・セガ関連の記事を、企業主体の代表地点として品川区に置く",
+        "confidence": 0.62,
+        "rule_id": "sega_shinagawa_headquarters_topic",
+        "matched_text": "セガ",
+        "match_source": "rule"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.732,
+          35.6225
+        ]
+      },
+      "properties": {
+        "title": "セガサターンの「センチメンタルグラフティ」が復活。エンターグラムよりリメイク版がリリース決定一部シナリオは現在の時勢に合わせての調整しつつオリジナル版を再現 | チバテレ＋プラス - 千葉テレビ放送",
+        "source": "千葉テレビ放送",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4tdVI5X2ZVbFlUNVdCZWY1ZHA0SS1RLXhBNUpGUUUxN0RhWFdBNVpPbFZmNGItcFd1Y0pFejFPSURRX2o3UmRaZTFYcDRNZzVmUl9zb3pKX0FDNm5nUV9N0gFkQVVfeXFMTThnZDlOREo1aUtZM3BwdmEzQjJaNm5Od0xacXItUVNMc1F2MDRJMW9ZUTUwcFpaOC1rbmtralBGMk1pRlNRVEtJdldobjJlWVJUbnE2N281MGpuVlhRRU1aMm1nbg?oc=5",
+        "published_at": "2026-06-28T11:59:24+00:00",
+        "representative_place": "セガ本社",
+        "place_label": "日本-東京都-品川区",
+        "sort_place_label": "日本-東京都-品川区",
+        "geocode_query": "Sega headquarters Shinagawa Tokyo Japan",
+        "place_type": "institution_site",
+        "location_precision": "city_district",
+        "place_reason": "セガ作品・セガ関連の記事を、企業主体の代表地点として品川区に置く",
+        "confidence": 0.62,
+        "rule_id": "sega_shinagawa_headquarters_topic",
+        "matched_text": "セガ",
+        "match_source": "rule"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.732,
+          35.6225
+        ]
+      },
+      "properties": {
+        "title": "『センチメンタルグラフティ』のリメイク版が制作決定。1998年にセガサターン向けに発売された恋愛シミュレーションゲーム - ニコニコニュース",
+        "source": "ニコニコニュース",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8zVV81TE1EZW14NEJRRlBWMlJlYzI2SVo3N2ttck5LTjdQTl9aY2tBZlVRMzlVTTBodThGUlluNDctMEQxSERxdGh2TVVpc253VllmUUFqaW9xblFMSWRzaUc0eHB0YndmTDdKUHNuckh4TU1RdDN1RWxfcw?oc=5",
+        "published_at": "2026-06-28T11:30:14+00:00",
+        "representative_place": "セガ本社",
+        "place_label": "日本-東京都-品川区",
+        "sort_place_label": "日本-東京都-品川区",
+        "geocode_query": "Sega headquarters Shinagawa Tokyo Japan",
+        "place_type": "institution_site",
+        "location_precision": "city_district",
+        "place_reason": "セガ作品・セガ関連の記事を、企業主体の代表地点として品川区に置く",
+        "confidence": 0.62,
+        "rule_id": "sega_shinagawa_headquarters_topic",
+        "matched_text": "セガ",
+        "match_source": "rule"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.732,
+          35.6225
+        ]
+      },
+      "properties": {
+        "title": "セガサターンの「センチメンタルグラフティ」が復活。エンターグラムよりリメイク版がリリース決定 - GAME Watch",
+        "source": "GAME Watch",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE80OVNKTGUyMmQzbzU4aksxTjlVWWpiYmFfYTF2YjV4U0ZJZ0hEbGhLanR6bHhWMzNDLWxsejdOS3NQNmdmdkhCUUVkWENJMDhfVXI0WUp1ZWV5c1VQTDRSenItZXBXdw?oc=5",
+        "published_at": "2026-06-28T11:30:00+00:00",
+        "representative_place": "セガ本社",
+        "place_label": "日本-東京都-品川区",
+        "sort_place_label": "日本-東京都-品川区",
+        "geocode_query": "Sega headquarters Shinagawa Tokyo Japan",
+        "place_type": "institution_site",
+        "location_precision": "city_district",
+        "place_reason": "セガ作品・セガ関連の記事を、企業主体の代表地点として品川区に置く",
+        "confidence": 0.62,
+        "rule_id": "sega_shinagawa_headquarters_topic",
+        "matched_text": "セガ",
+        "match_source": "rule"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7516,
+          35.6581
+        ]
+      },
+      "properties": {
+        "title": "『ゴッドイーター』シリーズの未来について、バンダイナムコスタジオ吉村広氏が語る。「ユーザーさんの声は受け取っています」 - ファミ通",
+        "source": "ファミ通",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1taVY5ZTMteWJOdjFydUFHdHQ3NkYxQ01uQUxfTWFWWUVsMmhDT0paQjFvVjdxWjBUT1M0b2ZaY2xRdE5wSDFyRUYwM1lQdDR2dVVTY25Kcw?oc=5",
+        "published_at": "2026-06-28T11:14:00+00:00",
+        "representative_place": "バンダイナムコエンターテインメント",
+        "place_label": "日本-東京都-港区",
+        "sort_place_label": "日本-東京都-港区",
+        "geocode_query": "Bandai Namco Entertainment Minato Tokyo Japan",
+        "place_type": "institution_site",
+        "location_precision": "city_district",
+        "place_reason": "バンダイナムコ関連の記事を、企業主体の代表地点として東京都港区に置く（一致語: バンダイナムコ）",
+        "confidence": 0.62,
+        "rule_id": "bandai_namco_tokyo_topic",
+        "matched_text": "バンダイナムコ",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.732,
+          35.6225
+        ]
+      },
+      "properties": {
+        "title": "『センチメンタルグラフティ』リメイクの制作が発表。1998年にセガサターン用ソフトとして発売された恋愛シミュレーションが令和に蘇る - ファミ通",
+        "source": "ファミ通",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Ra1hia3pWNXpxNGFRdFpNaGZnaW1NMWU0NU16bF9hRXRCQUZXX1FRakNJWktUd0ZJazVPVm5HcWRVTFYzdWdCbU80UVpkTUVkTjRrMWw2OA?oc=5",
+        "published_at": "2026-06-28T10:56:00+00:00",
+        "representative_place": "セガ本社",
+        "place_label": "日本-東京都-品川区",
+        "sort_place_label": "日本-東京都-品川区",
+        "geocode_query": "Sega headquarters Shinagawa Tokyo Japan",
+        "place_type": "institution_site",
+        "location_precision": "city_district",
+        "place_reason": "セガ作品・セガ関連の記事を、企業主体の代表地点として品川区に置く",
+        "confidence": 0.62,
+        "rule_id": "sega_shinagawa_headquarters_topic",
+        "matched_text": "セガ",
+        "match_source": "rule"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.756,
+          34.9671
+        ]
+      },
+      "properties": {
+        "title": "スプラトゥーン レイダース Direct 2026.6.30 | 任天堂 - nintendo.com",
+        "source": "nintendo.com",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zdTZ3VVJ3RXZnSE9VVFhVajZpemlVeHFUX2tlTEtWNTU4MDRKWnplQXZhLXNycnpwQkpvdjFsNmo1dzd4a2tZdGtOWF81aGFlb3VueWpTWFItUWdXN1NPY2x3TlR2QTVNa05kMG14aEg?oc=5",
+        "published_at": "2026-06-28T10:36:00+00:00",
+        "representative_place": "任天堂本社",
+        "place_label": "日本-京都府-京都市-南区",
+        "sort_place_label": "日本-京都府-京都市-南区",
+        "geocode_query": "Nintendo headquarters Kyoto Japan",
+        "place_type": "institution_site",
+        "location_precision": "building",
+        "place_reason": "任天堂・Nintendo Switch関連の記事を、企業主体の代表地点として任天堂本社に置く（一致語: 任天堂）",
+        "confidence": 0.66,
+        "rule_id": "nintendo_kyoto_headquarters_topic",
+        "matched_text": "任天堂",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5214,
+          34.6863
+        ]
+      },
+      "properties": {
+        "title": "カプコンTV!! 6月29日(月)よる8時配信！ おついち＆土佐兄弟がゲスト出演、『鬼武者 Way of the Sword』体験版も紹介 - AppBank",
+        "source": "AppBank",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE56elo0MXQ0RUQ4RlAyM1VsMFp4TWxvSVl5aFp4OTEwQWp0S3dyd2U1WnJoa0hxR0ROejVtYnZFU1RFQWRTdzBkcFVVN2ZobmFQbWFYMVFtQ1ZsX1FpSVlOdw?oc=5",
+        "published_at": "2026-06-28T09:03:21+00:00",
+        "representative_place": "カプコン本社",
+        "place_label": "日本-大阪府-大阪市-中央区",
+        "sort_place_label": "日本-大阪府-大阪市-中央区",
+        "geocode_query": "Capcom headquarters Chuo Osaka Japan",
+        "place_type": "institution_site",
+        "location_precision": "building",
+        "place_reason": "CAPCOM・カプコン作品関連の記事を、企業主体の代表地点としてカプコン本社に置く（一致語: カプコン）",
+        "confidence": 0.68,
+        "rule_id": "capcom_osaka_headquarters_topic",
+        "matched_text": "カプコン",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.756,
+          34.9671
+        ]
+      },
+      "properties": {
+        "title": "【今日は何の日？】任天堂、Nintendo SwitchのDL版ソフトを手渡しでプレゼントできる「ギフトセット」を発売（2024年6月28日） - gamebiz【ゲームビズ】",
+        "source": "gamebiz【ゲームビズ】",
+        "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9XSWpWOWdPbEJEVnZ4QlNhVmRtNzBLWGR0S29idDVnT1BXSDZGTG1OX0N2czZ3bFRUTUxuU2RXOVVIbFla?oc=5",
+        "published_at": "2026-06-28T01:27:20+00:00",
+        "representative_place": "任天堂本社",
+        "place_label": "日本-京都府-京都市-南区",
+        "sort_place_label": "日本-京都府-京都市-南区",
+        "geocode_query": "Nintendo headquarters Kyoto Japan",
+        "place_type": "institution_site",
+        "location_precision": "building",
+        "place_reason": "任天堂・Nintendo Switch関連の記事を、企業主体の代表地点として任天堂本社に置く（一致語: Nintendo）",
+        "confidence": 0.66,
+        "rule_id": "nintendo_kyoto_headquarters_topic",
+        "matched_text": "Nintendo",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5214,
+          34.6863
+        ]
+      },
+      "properties": {
+        "title": "カプコンの体験型施設“CAPCOMIX”がみなとみらいに2026年夏オープン！ “昇龍拳ジャンプ”、“モンハンアーチェリー”などが楽しめる - 電撃オンライン",
+        "source": "電撃オンライン",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TUHFtelpiRjEySko5bTJfUVZVS1pnZmF2dmFUMGJlaTVOeHRkQVFjRjlHTERRLTB5akpuYURLc1FaU2xYakZ3bXMwcENFQjlTNFFkb0xZNFhrZw?oc=5",
+        "published_at": "2026-06-27T05:15:00+00:00",
+        "representative_place": "カプコン本社",
+        "place_label": "日本-大阪府-大阪市-中央区",
+        "sort_place_label": "日本-大阪府-大阪市-中央区",
+        "geocode_query": "Capcom headquarters Chuo Osaka Japan",
+        "place_type": "institution_site",
+        "location_precision": "building",
+        "place_reason": "CAPCOM・カプコン作品関連の記事を、企業主体の代表地点としてカプコン本社に置く（一致語: CAPCOM）",
+        "confidence": 0.68,
+        "rule_id": "capcom_osaka_headquarters_topic",
+        "matched_text": "CAPCOM",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5214,
+          34.6863
+        ]
+      },
+      "properties": {
+        "title": "6月予約開始、新発売のカプコンキャラクターグッズをご紹介！ - PR TIMES",
+        "source": "PR TIMES",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5PdUdfVWdaSF9BaW5jUnZfU0FPQlExVzc4N3RaMnp6QVBmcWxCbE5ia1gtR3lmbDhYQndHang4NEVPMlFWTjBrWjlaekhjV0pLTkV1QXBBc1YzWFBwaUUzN0k3T09PcHBYeEE?oc=5",
+        "published_at": "2026-06-26T08:00:01+00:00",
+        "representative_place": "カプコン本社",
+        "place_label": "日本-大阪府-大阪市-中央区",
+        "sort_place_label": "日本-大阪府-大阪市-中央区",
+        "geocode_query": "Capcom headquarters Chuo Osaka Japan",
+        "place_type": "institution_site",
+        "location_precision": "building",
+        "place_reason": "CAPCOM・カプコン作品関連の記事を、企業主体の代表地点としてカプコン本社に置く（一致語: カプコン）",
+        "confidence": 0.68,
+        "rule_id": "capcom_osaka_headquarters_topic",
+        "matched_text": "カプコン",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.756,
+          34.9671
+        ]
+      },
+      "properties": {
+        "title": "任天堂の株価、10カ月で半値以下に 株主総会で社長「結果で示す」（朝日新聞） - Yahoo!ニュース",
+        "source": "Yahoo!ニュース",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJdHpscld6M2lCdGdRZFcxSU5QclFDQzNHazZzVHlkNlJSWEtlNW9RMGhoTXp6WlJUV2Y5Z05yVUM0RGh4NDNlZi10RktKXzZuaWkyMVRZYkxUZjlxQXpEbTZjSng1Ui1HVzJPU042eTJvSzhIeVhtLUJEZ0pmZlk?oc=5",
+        "published_at": "2026-06-26T07:24:30+00:00",
+        "representative_place": "任天堂本社",
+        "place_label": "日本-京都府-京都市-南区",
+        "sort_place_label": "日本-京都府-京都市-南区",
+        "geocode_query": "Nintendo headquarters Kyoto Japan",
+        "place_type": "institution_site",
+        "location_precision": "building",
+        "place_reason": "任天堂・Nintendo Switch関連の記事を、企業主体の代表地点として任天堂本社に置く（一致語: 任天堂）",
+        "confidence": 0.66,
+        "rule_id": "nintendo_kyoto_headquarters_topic",
+        "matched_text": "任天堂",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.756,
+          34.9671
+        ]
+      },
+      "properties": {
+        "title": "任天堂の株価、10カ月で半値以下に 株主総会で社長「結果で示す」 (朝日新聞) - Yahoo!ニュース",
+        "source": "Yahoo!ニュース",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVmVyRVJjeGpleThTUHZ2T0RNVXVhS2YzbFlwUFJrTlpfRndmaDQ0LU5WNWd3U19Hc1hsYVVnVnJuUzdKNUJnb3FjakNnZVE0MjZfWF9kZFBodmJZeUI3SlNhY2VqYjh3NVIzd1VWVVQ2VlZBcDBTN1gtM3MzaUZZOEp6bXJOZjMzajZXWF9B?oc=5",
+        "published_at": "2026-06-26T07:24:30+00:00",
+        "representative_place": "任天堂本社",
+        "place_label": "日本-京都府-京都市-南区",
+        "sort_place_label": "日本-京都府-京都市-南区",
+        "geocode_query": "Nintendo headquarters Kyoto Japan",
+        "place_type": "institution_site",
+        "location_precision": "building",
+        "place_reason": "任天堂・Nintendo Switch関連の記事を、企業主体の代表地点として任天堂本社に置く（一致語: 任天堂）",
+        "confidence": 0.66,
+        "rule_id": "nintendo_kyoto_headquarters_topic",
+        "matched_text": "任天堂",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7516,
+          35.6581
+        ]
+      },
+      "properties": {
+        "title": "ゲーム・エンタメ特許の「他社牽制力」ランキング、バンダイナムコが首位—コナミ・SIEが続く - Game*Spark",
+        "source": "Game*Spark",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE55d3ZPRjRoVHVKbFJoUDdqdWtHQkE2QW1udVNrcS1KMzBsaEJ0b0c1YnItdVJpeVVESWxBU0tzemM5WDZMNlZURm1FSDgxRjV4VHJLcXVqcFVXUkhYZEVNX0theHlyQQ?oc=5",
+        "published_at": "2026-06-26T07:15:02+00:00",
+        "representative_place": "バンダイナムコエンターテインメント",
+        "place_label": "日本-東京都-港区",
+        "sort_place_label": "日本-東京都-港区",
+        "geocode_query": "Bandai Namco Entertainment Minato Tokyo Japan",
+        "place_type": "institution_site",
+        "location_precision": "city_district",
+        "place_reason": "バンダイナムコ関連の記事を、企業主体の代表地点として東京都港区に置く（一致語: バンダイナムコ）",
+        "confidence": 0.62,
+        "rule_id": "bandai_namco_tokyo_topic",
+        "matched_text": "バンダイナムコ",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.756,
+          34.9671
+        ]
+      },
+      "properties": {
+        "title": "任天堂(株)【7974】：掲示板 - Yahoo!ファイナンス",
+        "source": "Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1EUzdXOVdwR0VRZ3RLVHRzSXpIQ2w0Vmlzczhka3J3QUZqc2pmSjNJZVB4by1oS0dIU0V6Wlo5aER6WmpfazhvU2llRXY5YXVua2luR3ljQThuUQ?oc=5",
+        "published_at": "2026-06-26T07:02:16+00:00",
+        "representative_place": "任天堂本社",
+        "place_label": "日本-京都府-京都市-南区",
+        "sort_place_label": "日本-京都府-京都市-南区",
+        "geocode_query": "Nintendo headquarters Kyoto Japan",
+        "place_type": "institution_site",
+        "location_precision": "building",
+        "place_reason": "任天堂・Nintendo Switch関連の記事を、企業主体の代表地点として任天堂本社に置く（一致語: 任天堂）",
+        "confidence": 0.66,
+        "rule_id": "nintendo_kyoto_headquarters_topic",
+        "matched_text": "任天堂",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.756,
+          34.9671
+        ]
+      },
+      "properties": {
+        "title": "任天堂(株)【7974】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
+        "source": "Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4tSVlNS3MzemNSSnBVZlRtc3U5LXVlb1FvTk85Vk03RFFhamVHQ0RSemhDQUplY3BPYUxhOEc4YUdUNjVpU1FWbUpqajJjZjVUQWlHZFpCcEFMdHhEM0NB?oc=5",
+        "published_at": "2026-06-26T06:52:51+00:00",
+        "representative_place": "任天堂本社",
+        "place_label": "日本-京都府-京都市-南区",
+        "sort_place_label": "日本-京都府-京都市-南区",
+        "geocode_query": "Nintendo headquarters Kyoto Japan",
+        "place_type": "institution_site",
+        "location_precision": "building",
+        "place_reason": "任天堂・Nintendo Switch関連の記事を、企業主体の代表地点として任天堂本社に置く（一致語: 任天堂）",
+        "confidence": 0.66,
+        "rule_id": "nintendo_kyoto_headquarters_topic",
+        "matched_text": "任天堂",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5214,
+          34.6863
+        ]
+      },
+      "properties": {
+        "title": "カプコン、『モンスターハンターストーリーズ3』で強力なキングモンスターが登場する無料アップデートと有料DLC「ルディ編」を配信開始 - gamebiz【ゲームビズ】",
+        "source": "gamebiz【ゲームビズ】",
+        "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9iS2NQYjIzbFRUeUJTaWtyNDFlU01QMzRUUDRDVGlOQzVibjZEcDRwdDBKSFdycEc5UjVqSlU4Uk1hbXNZ?oc=5",
+        "published_at": "2026-06-26T06:49:13+00:00",
+        "representative_place": "カプコン本社",
+        "place_label": "日本-大阪府-大阪市-中央区",
+        "sort_place_label": "日本-大阪府-大阪市-中央区",
+        "geocode_query": "Capcom headquarters Chuo Osaka Japan",
+        "place_type": "institution_site",
+        "location_precision": "building",
+        "place_reason": "CAPCOM・カプコン作品関連の記事を、企業主体の代表地点としてカプコン本社に置く（一致語: カプコン）",
+        "confidence": 0.68,
+        "rule_id": "capcom_osaka_headquarters_topic",
+        "matched_text": "カプコン",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.756,
+          34.9671
+        ]
+      },
+      "properties": {
+        "title": "後場コメント No.1 アセンテック、シャープ、ｇｕｍｉ、任天堂、ＡＺ－ＣＯＭ丸、ＡＢＣマート(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
+        "source": "Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQaXZrZEFMalpkWHdfQjloeER0NGppRlBfQUtxZU0tUjRjZU5GZFlHdDlCMTVtUFE0d3lxV3RmMkpIVk1JRjA1dFpRWFB4Y3VrN2hCNWZuYVktZUNRRXcyeFBMaXpOdlRVTEdpSDZkQW43Z2s1NWtYRlVZc25OQ3RHWE5sMTd1U2c?oc=5",
+        "published_at": "2026-06-26T06:33:00+00:00",
+        "representative_place": "任天堂本社",
+        "place_label": "日本-京都府-京都市-南区",
+        "sort_place_label": "日本-京都府-京都市-南区",
+        "geocode_query": "Nintendo headquarters Kyoto Japan",
+        "place_type": "institution_site",
+        "location_precision": "building",
+        "place_reason": "任天堂・Nintendo Switch関連の記事を、企業主体の代表地点として任天堂本社に置く（一致語: 任天堂）",
+        "confidence": 0.66,
+        "rule_id": "nintendo_kyoto_headquarters_topic",
+        "matched_text": "任天堂",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.765,
+          35.671
+        ]
+      },
+      "properties": {
+        "title": "コナミグループ[9766]：投資単位の引下げに関する考え方及び方針等について 2026年6月26日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+        "source": "日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUXppZjRKeVZDQmdfNWtPLVBzazQ0NmJhV3JrcmZEX2x1ckM4dXprZ3U3Y0ZFRnowcEZoTWpWdTlWNDduVVB2RmdKQzhXUVhFT05SM3RiTF93Slc0Z05fTVA1RVdCT2lKM01pQ3llV0FyVVdvVHYxa3dmMHZqUF9SakQxSEhJeEFfSGhpTTFtU3h5N2hhb0RPX3FGWXg0UEg0ckVkVExyTUlQS2NMREpDaEdzMGw0dWxvZ1F0cnY2SUU1MTMtT1Z1X1hFS20?oc=5",
+        "published_at": "2026-06-26T06:30:00+00:00",
+        "representative_place": "コナミグループ",
+        "place_label": "日本-東京都-中央区-銀座",
+        "sort_place_label": "日本-東京都-中央区-銀座",
+        "geocode_query": "Konami Group Ginza Tokyo Japan",
+        "place_type": "institution_site",
+        "location_precision": "district",
+        "place_reason": "コナミ関連の記事を、企業主体の代表地点として銀座に置く",
+        "confidence": 0.62,
+        "rule_id": "konami_tokyo_topic",
+        "matched_text": "コナミ",
+        "match_source": "rule"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5214,
+          34.6863
+        ]
+      },
+      "properties": {
+        "title": "カプコンTV!!が6月29日(月)よる8時から配信決定！ 『鬼武者 Way of the Sword』『デビル メイ クライ ５ デビルハンターエディション』を紹介！ - PR TIMES",
+        "source": "PR TIMES",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5IWXlTUlVsZm9qVG5iRzVicVpEM2k5c0pjN1hLR1YwM0VKanIxSlFNZ09IcXppaGExU0NwUkppNXJienBTWDhiVEktYl8xUHM1ZTdHc0xsdzFtZGhBcTVxaFFRUnA0RWZiOXc?oc=5",
+        "published_at": "2026-06-26T04:00:02+00:00",
+        "representative_place": "カプコン本社",
+        "place_label": "日本-大阪府-大阪市-中央区",
+        "sort_place_label": "日本-大阪府-大阪市-中央区",
+        "geocode_query": "Capcom headquarters Chuo Osaka Japan",
+        "place_type": "institution_site",
+        "location_precision": "building",
+        "place_reason": "CAPCOM・カプコン作品関連の記事を、企業主体の代表地点としてカプコン本社に置く（一致語: カプコン）",
+        "confidence": 0.68,
+        "rule_id": "capcom_osaka_headquarters_topic",
+        "matched_text": "カプコン",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.756,
+          34.9671
+        ]
+      },
+      "properties": {
+        "title": "任天堂－新安値 マイクロソフトがXbox値上げ 27年秋までにメモリ価格倍増を予想(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
+        "source": "Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPa1FqUWs0bGRMdy1YV2VRZlA2RURKSzdLN2dWOXJaUnNSUWhDalNjbWxaTGdHaG9OdHdVaGJ6UXhObWl4UlZpODg2a09lYXFsNFU2QUF0UFdBS0hjUktKWFluVmROcXo3NU9YV2VBbHBoOE1rWndaejVoMk9HbnNjSUVYTDRIRGM?oc=5",
+        "published_at": "2026-06-26T03:40:00+00:00",
+        "representative_place": "任天堂本社",
+        "place_label": "日本-京都府-京都市-南区",
+        "sort_place_label": "日本-京都府-京都市-南区",
+        "geocode_query": "Nintendo headquarters Kyoto Japan",
+        "place_type": "institution_site",
+        "location_precision": "building",
+        "place_reason": "任天堂・Nintendo Switch関連の記事を、企業主体の代表地点として任天堂本社に置く（一致語: 任天堂）",
+        "confidence": 0.66,
+        "rule_id": "nintendo_kyoto_headquarters_topic",
+        "matched_text": "任天堂",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7034,
+          35.6938
+        ]
+      },
+      "properties": {
+        "title": "3Dインベストメント、スクエニHDの株主・市場参加者を対象とした意見調査結果と、第46回定時株主総会における取締役再任の議案に棄権の議決権行使を行ったことを公表 - Business Wire",
+        "source": "Business Wire",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9SVm1QdFhsWTBpNENtZFlZYXdnTDV6VGlVWUd4dGlNcTNoek9oYW1URnl0bUdOMmpGWW96VXVKNkZOVUZzUHI0VkRQeE1nTUxZYjNOamtVQ3RXNGE3cV90ZVh1UGNlUVU?oc=5",
+        "published_at": "2026-06-26T03:00:00+00:00",
+        "representative_place": "スクウェア・エニックス本社",
+        "place_label": "日本-東京都-新宿区",
+        "sort_place_label": "日本-東京都-新宿区",
+        "geocode_query": "Square Enix headquarters Shinjuku Tokyo Japan",
+        "place_type": "institution_site",
+        "location_precision": "city_district",
+        "place_reason": "Square Enix・スクエニ作品関連の記事を、企業主体の代表地点として新宿区に置く（一致語: スクエニ）",
+        "confidence": 0.62,
+        "rule_id": "square_enix_shinjuku_headquarters_topic",
+        "matched_text": "スクエニ",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7516,
+          35.6581
+        ]
+      },
+      "properties": {
+        "title": "【ゲーム・エンターテインメント】他社牽制力ランキング2025 トップ3はバンダイナムコ、コナミ、SIE - ドリームニュース",
+        "source": "ドリームニュース",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5FTDhvNEI3U0E5eDdGdjFkMUhmLWlHc18xN1Z3VDRlVkxmY0JVYzBrLV9IZjVMU196VzliOVExV3AtZzFEWkxVSmJPN2hVMXpldGZz?oc=5",
+        "published_at": "2026-06-26T02:30:00+00:00",
+        "representative_place": "バンダイナムコエンターテインメント",
+        "place_label": "日本-東京都-港区",
+        "sort_place_label": "日本-東京都-港区",
+        "geocode_query": "Bandai Namco Entertainment Minato Tokyo Japan",
+        "place_type": "institution_site",
+        "location_precision": "city_district",
+        "place_reason": "バンダイナムコ関連の記事を、企業主体の代表地点として東京都港区に置く（一致語: バンダイナムコ）",
+        "confidence": 0.62,
+        "rule_id": "bandai_namco_tokyo_topic",
+        "matched_text": "バンダイナムコ",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.756,
+          34.9671
+        ]
+      },
+      "properties": {
+        "title": "前場コメント No.4 西武ＨＤ、任天堂、ヒューリック、ニップン、ＦフォースＧ、ＹＥＤＩＧＩＴ(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
+        "source": "Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRGpwOU5PS1Y5SVd1OXRpQlVMcEFwT1FHazl1Z2pPM2Q1a1BBM1NoeHF2Nkx2VmZzLU41cnc5U3NTS0RNUHpmWHdOeG9ZdndIcG9Id1pmUWk0NWI1a2RRa3kzclB4Q0lVU0Z3bHp4bXlLODg0b3hfLVYyYkQ1UGZPOHlqMU1kQ3M?oc=5",
+        "published_at": "2026-06-26T02:30:00+00:00",
+        "representative_place": "任天堂本社",
+        "place_label": "日本-京都府-京都市-南区",
+        "sort_place_label": "日本-京都府-京都市-南区",
+        "geocode_query": "Nintendo headquarters Kyoto Japan",
+        "place_type": "institution_site",
+        "location_precision": "building",
+        "place_reason": "任天堂・Nintendo Switch関連の記事を、企業主体の代表地点として任天堂本社に置く（一致語: 任天堂）",
+        "confidence": 0.66,
+        "rule_id": "nintendo_kyoto_headquarters_topic",
+        "matched_text": "任天堂",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.765,
+          35.671
+        ]
+      },
+      "properties": {
+        "title": "コナミスポーツ｜ニュース｜コナミスポーツがプロゴルファー加藤麗奈選手とサポート契約を締結 - KONAMI GROUP CORPORATION",
+        "source": "KONAMI GROUP CORPORATION",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1iUlN3UnRUenA2N0FHbWoxZzc0UFZpOXk4TGlObzhlWFU1NERfUzNlOGRVS29OaUxteHZ5cXZkTXZtZndGcXYwZk0tUzAwMFN6YmtPMVVXOG5iOFVfWEQ3Vm9fUXNzX1c1YlZiNVNR?oc=5",
+        "published_at": "2026-06-26T01:00:00+00:00",
+        "representative_place": "コナミグループ",
+        "place_label": "日本-東京都-中央区-銀座",
+        "sort_place_label": "日本-東京都-中央区-銀座",
+        "geocode_query": "Konami Group Ginza Tokyo Japan",
+        "place_type": "institution_site",
+        "location_precision": "district",
+        "place_reason": "コナミ関連の記事を、企業主体の代表地点として銀座に置く（一致語: KONAMI）",
+        "confidence": 0.62,
+        "rule_id": "konami_tokyo_topic",
+        "matched_text": "KONAMI",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.756,
+          34.9671
+        ]
+      },
+      "properties": {
+        "title": "任天堂が本社隣接地に９階建て研究開発拠点、１２１０億円投入「ユニークな娯楽を届けることに挑戦」 - 読売新聞",
+        "source": "読売新聞",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5tSnlnV0Y1X1AtYnAtZml5Wjk1bE9YWGhub1cxNDMtZmw4T083Y1VLUHJuei00V1J0Y01LWE5Sb0I0d05pM1kyVEgxRGJtVXZZZnFLZHdfZHpRYmJpYkdadlpZSWU?oc=5",
+        "published_at": "2026-06-26T00:30:00+00:00",
+        "representative_place": "任天堂本社",
+        "place_label": "日本-京都府-京都市-南区",
+        "sort_place_label": "日本-京都府-京都市-南区",
+        "geocode_query": "Nintendo headquarters Kyoto Japan",
+        "place_type": "institution_site",
+        "location_precision": "building",
+        "place_reason": "任天堂・Nintendo Switch関連の記事を、企業主体の代表地点として任天堂本社に置く（一致語: 任天堂）",
+        "confidence": 0.66,
+        "rule_id": "nintendo_kyoto_headquarters_topic",
+        "matched_text": "任天堂",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.756,
+          34.9671
+        ]
+      },
+      "properties": {
+        "title": "寄前【成行注文】買い越しランキング ＩＮＰＥＸ、任天堂、ＪＴ [08:36] - 株探",
+        "source": "株探",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE80QmZJbjVFeW8zOVBZazU1Z0tETDRIZGNxNmFmWjBiZ005Zm9hWHpRQVY5SWg1Yk9BUVl0cWtoc0FtWWd6MU83X2F0SW9WM3EzaTdCaHREOFgyaVJzSWg5aA?oc=5",
+        "published_at": "2026-06-25T23:36:41+00:00",
+        "representative_place": "任天堂本社",
+        "place_label": "日本-京都府-京都市-南区",
+        "sort_place_label": "日本-京都府-京都市-南区",
+        "geocode_query": "Nintendo headquarters Kyoto Japan",
+        "place_type": "institution_site",
+        "location_precision": "building",
+        "place_reason": "任天堂・Nintendo Switch関連の記事を、企業主体の代表地点として任天堂本社に置く（一致語: 任天堂）",
+        "confidence": 0.66,
+        "rule_id": "nintendo_kyoto_headquarters_topic",
+        "matched_text": "任天堂",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5214,
+          34.6863
+        ]
+      },
+      "properties": {
+        "title": "鬼武者新作は9月25日発売へ「カプコンスポットライト｜2026.6.26」まとめ - Saiga NAK",
+        "source": "Saiga NAK",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ZN1FyUjhVQ0RRQ3RNa3N0SG5zX2o3cUU3SmNDMVZnVkxLVy1uVy1QWFdfSml2UG9RdFlDZXcxTDBvd051REMyRFVhWUxYd0ZRXzN3YS1yamZZbDJCY0dDeGdYZGbSAWpBVV95cUxNVUphT1BxLVd5NWxsSG9MaVQwT0FJUkNRV0M4SFVnQ3ZxZXBwbVlVZElvVDY3eHZ0bkZHMDJwTU9paVRZb0tLSE94WER1aG1lT1plX2NlZ3pEQzBucDI2TUxkRXVuR0wwblFB?oc=5",
+        "published_at": "2026-06-25T22:14:40+00:00",
+        "representative_place": "カプコン本社",
+        "place_label": "日本-大阪府-大阪市-中央区",
+        "sort_place_label": "日本-大阪府-大阪市-中央区",
+        "geocode_query": "Capcom headquarters Chuo Osaka Japan",
+        "place_type": "institution_site",
+        "location_precision": "building",
+        "place_reason": "CAPCOM・カプコン作品関連の記事を、企業主体の代表地点としてカプコン本社に置く（一致語: カプコン）",
+        "confidence": 0.68,
+        "rule_id": "capcom_osaka_headquarters_topic",
+        "matched_text": "カプコン",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5214,
+          34.6863
+        ]
+      },
+      "properties": {
+        "title": "カプコンの剣戟アクションゲーム最新作『鬼武者 Way of the Sword』の新映像！ 主人公に幾度となく襲い掛かる曲者幻魔「怒伐天」を公開！ - PR TIMES",
+        "source": "PR TIMES",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1mMzNJUEdPR2kzQmQ1eDJWcUhGWC1DX2pTM1dKbVdTWWFvWG94cGg0c1JJLWJSUUFmZ3Q3eUVsb3F3LU95WWpVZU1ndFJsbGhhU1Zfcm1VU1JCSy1FMllNbDVtb25aZ3YzUXc?oc=5",
+        "published_at": "2026-06-25T21:47:44+00:00",
+        "representative_place": "カプコン本社",
+        "place_label": "日本-大阪府-大阪市-中央区",
+        "sort_place_label": "日本-大阪府-大阪市-中央区",
+        "geocode_query": "Capcom headquarters Chuo Osaka Japan",
+        "place_type": "institution_site",
+        "location_precision": "building",
+        "place_reason": "CAPCOM・カプコン作品関連の記事を、企業主体の代表地点としてカプコン本社に置く（一致語: カプコン）",
+        "confidence": 0.68,
+        "rule_id": "capcom_osaka_headquarters_topic",
+        "matched_text": "カプコン",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5214,
+          34.6863
+        ]
+      },
+      "properties": {
+        "title": "『ドラゴンズドグマ 2：ダークアリズン』ディレクター木下研人氏が“極北の地ノルガン”の冒険を紹介。ハクスラの遊びも！【カプコンスポットライト】 - ファミ通",
+        "source": "ファミ通",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9XRDFFN2NXSjdydGhUaDVxUHlfZ3JONTBkVEdJTV82aVM3dGdVRFhmNktMODMwem9ScFY0ZVQ1X054Q0pmMG5NVkZRdnVMTUt4YTJ4NjFoUQ?oc=5",
+        "published_at": "2026-06-25T21:25:00+00:00",
+        "representative_place": "カプコン本社",
+        "place_label": "日本-大阪府-大阪市-中央区",
+        "sort_place_label": "日本-大阪府-大阪市-中央区",
+        "geocode_query": "Capcom headquarters Chuo Osaka Japan",
+        "place_type": "institution_site",
+        "location_precision": "building",
+        "place_reason": "CAPCOM・カプコン作品関連の記事を、企業主体の代表地点としてカプコン本社に置く（一致語: カプコン）",
+        "confidence": 0.68,
+        "rule_id": "capcom_osaka_headquarters_topic",
+        "matched_text": "カプコン",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.756,
+          34.9671
+        ]
+      },
+      "properties": {
+        "title": "任天堂 研究開発機能の強化 建物建設費は1,210億円 延床面積49,305.87㎡の「任天堂株式会社 技術開発棟」 完成イメージや概要を公表！: 陽は西から昇る！ 関西のプロジェクト探訪 - 東京・大阪 都心上空ヘリコプター遊覧飛行",
+        "source": "東京・大阪 都心上空ヘリコプター遊覧飛行",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBYemU0WUZUVmxZd1R6VjVkRmdHZ3k5ZG11U1BNRnpaUzRqcEU2cDVqRnplY1BCN0xOS2ZRVVZUUlFUSV91UUlneFQ2NndJOXRtLUI0cHdHQWtLZXZWU3NpeWZpTXFhRHZQa0Q1Rk5rUmdKaXc?oc=5",
+        "published_at": "2026-06-25T20:20:00+00:00",
+        "representative_place": "任天堂本社",
+        "place_label": "日本-京都府-京都市-南区",
+        "sort_place_label": "日本-京都府-京都市-南区",
+        "geocode_query": "Nintendo headquarters Kyoto Japan",
+        "place_type": "institution_site",
+        "location_precision": "building",
+        "place_reason": "任天堂・Nintendo Switch関連の記事を、企業主体の代表地点として任天堂本社に置く（一致語: 任天堂）",
+        "confidence": 0.66,
+        "rule_id": "nintendo_kyoto_headquarters_topic",
+        "matched_text": "任天堂",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5214,
+          34.6863
+        ]
+      },
+      "properties": {
+        "title": "【発売20周年】カプコンの名作『大神』の世界を網羅した幻の設定画集、ファン待望の完全復刻版が7月刊行（リアルサウンド） - Yahoo!ニュース",
+        "source": "Yahoo!ニュース",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BZUpQS1BpMTNibVNHMVZlUnFobUJnNVBHdmJPTUJCVjNOYWtMYTl6Mk9UVFlheFAzUk9vVVBWY21zV1NkWlFZSEVoZlczOENieldoaWF0UWRILXY1SVVXMlkyRWE1X1NkbjlJQzdvQlpUbkVyc0VGZVJ0WXFXZGc?oc=5",
+        "published_at": "2026-06-25T15:30:10+00:00",
+        "representative_place": "カプコン本社",
+        "place_label": "日本-大阪府-大阪市-中央区",
+        "sort_place_label": "日本-大阪府-大阪市-中央区",
+        "geocode_query": "Capcom headquarters Chuo Osaka Japan",
+        "place_type": "institution_site",
+        "location_precision": "building",
+        "place_reason": "CAPCOM・カプコン作品関連の記事を、企業主体の代表地点としてカプコン本社に置く（一致語: カプコン）",
+        "confidence": 0.68,
+        "rule_id": "capcom_osaka_headquarters_topic",
+        "matched_text": "カプコン",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.756,
+          34.9671
+        ]
+      },
+      "properties": {
+        "title": "任天堂29年に技術新拠点 1210億円 - Yahoo!ニュース",
+        "source": "Yahoo!ニュース",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE53T2VWSURtR3lQX28zN3Zsd29VZFZMdVVyVWZMNXM4TWFCSWRCQ0VFVkwxZUFOWURRTWVUVi12Rk9HbWpvVXppQUw3bWN4cVRL?oc=5",
+        "published_at": "2026-06-25T12:55:01+00:00",
+        "representative_place": "任天堂本社",
+        "place_label": "日本-京都府-京都市-南区",
+        "sort_place_label": "日本-京都府-京都市-南区",
+        "geocode_query": "Nintendo headquarters Kyoto Japan",
+        "place_type": "institution_site",
+        "location_precision": "building",
+        "place_reason": "任天堂・Nintendo Switch関連の記事を、企業主体の代表地点として任天堂本社に置く（一致語: 任天堂）",
+        "confidence": 0.66,
+        "rule_id": "nintendo_kyoto_headquarters_topic",
+        "matched_text": "任天堂",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.756,
+          34.9671
+        ]
+      },
+      "properties": {
+        "title": "任天堂、研究開発の新拠点 1210億円で2029年3月竣工 - CNET Japan",
+        "source": "CNET Japan",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBsZnd2bDZyRjFHMFhnSF9sR1lBbmROZzI1Mlh6bzloQmU4VjRueG82SGFqZEJUUjlmUGtpMXZ4bzh6a19mSFVQWnMyaHRGYVJKb0E?oc=5",
+        "published_at": "2026-06-25T12:29:00+00:00",
+        "representative_place": "任天堂本社",
+        "place_label": "日本-京都府-京都市-南区",
+        "sort_place_label": "日本-京都府-京都市-南区",
+        "geocode_query": "Nintendo headquarters Kyoto Japan",
+        "place_type": "institution_site",
+        "location_precision": "building",
+        "place_reason": "任天堂・Nintendo Switch関連の記事を、企業主体の代表地点として任天堂本社に置く（一致語: 任天堂）",
+        "confidence": 0.66,
+        "rule_id": "nintendo_kyoto_headquarters_topic",
+        "matched_text": "任天堂",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.756,
+          34.9671
+        ]
+      },
+      "properties": {
+        "title": "任天堂、1210億円投じ技術開発棟を2029年3月竣工へ スイッチ2後継も視野に開発基盤を強化 - finance.biggo.jp",
+        "source": "finance.biggo.jp",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9NaE5SMjRKUEdQbm44UnI5VlRlbVFVRW9jamdZOUJUOGF3WXN6MWVadklOdXlsb0I4bVVGM0JFeFZYWmp6Q0pObkQyWlBVZEN5ekExMElkckFOMGJWTHQ2X25Ecm03Q2IwQkFGdVVwcEJqVXds?oc=5",
+        "published_at": "2026-06-25T12:05:00+00:00",
+        "representative_place": "任天堂本社",
+        "place_label": "日本-京都府-京都市-南区",
+        "sort_place_label": "日本-京都府-京都市-南区",
+        "geocode_query": "Nintendo headquarters Kyoto Japan",
+        "place_type": "institution_site",
+        "location_precision": "building",
+        "place_reason": "任天堂・Nintendo Switch関連の記事を、企業主体の代表地点として任天堂本社に置く（一致語: 任天堂）",
+        "confidence": 0.66,
+        "rule_id": "nintendo_kyoto_headquarters_topic",
+        "matched_text": "任天堂",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.756,
+          34.9671
+        ]
+      },
+      "properties": {
+        "title": "任天堂が技術新拠点 スイッチ2ソフトなど開発強化 「ユニークな娯楽届けることに挑戦」（産経新聞） - Yahoo!ニュース",
+        "source": "Yahoo!ニュース",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA0b0ZCM1NIVmk3RWNNVDM3VWtweXo4UGx6SjVvQ1lVVVZBNXZ0X0Y5REJ5eDFzLWl5X1hpSmhKRDBHdkZsOWRjaHY3aUstalZLbEtWVDM3a1V4TlRGSzYyNF9UV21mSVZUN1NVRFk4ckR2TUxEcDJmSWNpcEZ0TU0?oc=5",
+        "published_at": "2026-06-25T11:04:48+00:00",
+        "representative_place": "任天堂本社",
+        "place_label": "日本-京都府-京都市-南区",
+        "sort_place_label": "日本-京都府-京都市-南区",
+        "geocode_query": "Nintendo headquarters Kyoto Japan",
+        "place_type": "institution_site",
+        "location_precision": "building",
+        "place_reason": "任天堂・Nintendo Switch関連の記事を、企業主体の代表地点として任天堂本社に置く（一致語: 任天堂）",
+        "confidence": 0.66,
+        "rule_id": "nintendo_kyoto_headquarters_topic",
+        "matched_text": "任天堂",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.756,
+          34.9671
+        ]
+      },
+      "properties": {
+        "title": "任天堂、技術開発棟を29年3月竣工 建設費1210億円 - Impress Watch",
+        "source": "Impress Watch",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBuaE9ja2hmeHFoM1VUSmJlazNoakhxN0ZXR1poZk5SZG02UFNwZ3dqOGlRSDVMVFk5VkRNbzI1R0VXYzFFTGx3d0U0NHBPR0pOeUZDNDlaX3FMa1BYUUtFaC1OWTc?oc=5",
+        "published_at": "2026-06-25T11:00:00+00:00",
+        "representative_place": "任天堂本社",
+        "place_label": "日本-京都府-京都市-南区",
+        "sort_place_label": "日本-京都府-京都市-南区",
+        "geocode_query": "Nintendo headquarters Kyoto Japan",
+        "place_type": "institution_site",
+        "location_precision": "building",
+        "place_reason": "任天堂・Nintendo Switch関連の記事を、企業主体の代表地点として任天堂本社に置く（一致語: 任天堂）",
+        "confidence": 0.66,
+        "rule_id": "nintendo_kyoto_headquarters_topic",
+        "matched_text": "任天堂",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.756,
+          34.9671
+        ]
+      },
+      "properties": {
+        "title": "任天堂、高精細になった新社屋「技術開発棟」29年竣工へ 延べ4万9000平方mに拡大、開発拠点としてサーバ設置など継続投資 - テクノエッジ TechnoEdge",
+        "source": "テクノエッジ TechnoEdge",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5LWXVVZTBMaTFOaG5GSi1BWWFhX0xhNXpRU0lpdFprWUhBYnkteG1ZbWtreVZHb1BfYk9zODg4SVlFSFFWTXhvU1J4LVM1M2tnSnBkb09Ga0pkaFhQdzl3NkNtbUV0aTg?oc=5",
+        "published_at": "2026-06-25T10:16:30+00:00",
+        "representative_place": "任天堂本社",
+        "place_label": "日本-京都府-京都市-南区",
+        "sort_place_label": "日本-京都府-京都市-南区",
+        "geocode_query": "Nintendo headquarters Kyoto Japan",
+        "place_type": "institution_site",
+        "location_precision": "building",
+        "place_reason": "任天堂・Nintendo Switch関連の記事を、企業主体の代表地点として任天堂本社に置く（一致語: 任天堂）",
+        "confidence": 0.66,
+        "rule_id": "nintendo_kyoto_headquarters_topic",
+        "matched_text": "任天堂",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.756,
+          34.9671
+        ]
+      },
+      "properties": {
+        "title": "任天堂、京都市に新研究開発拠点＝29年3月完成予定(時事通信) - Yahoo!ファイナンス",
+        "source": "Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcUFleFdadkhCdXk2OTNiQk9mcXQ1RUR6dmM0bW43cHN0TG5ITVI1S0dtaEVDaE5zMU53TTl4cVhYdzlzX1lPRFRVVTVUTm5XSGlnOGd2RlhtRFFieGtVOXhOb0hJMWM1d2JVV2Z0R2g1Q09oNTAzRm9ROUpTVzkzMGVlY2NfWFk?oc=5",
+        "published_at": "2026-06-25T10:15:35+00:00",
+        "representative_place": "任天堂本社",
+        "place_label": "日本-京都府-京都市-南区",
+        "sort_place_label": "日本-京都府-京都市-南区",
+        "geocode_query": "Nintendo headquarters Kyoto Japan",
+        "place_type": "institution_site",
+        "location_precision": "building",
+        "place_reason": "任天堂・Nintendo Switch関連の記事を、企業主体の代表地点として任天堂本社に置く（一致語: 任天堂）",
+        "confidence": 0.66,
+        "rule_id": "nintendo_kyoto_headquarters_topic",
+        "matched_text": "任天堂",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.756,
+          34.9671
+        ]
+      },
+      "properties": {
+        "title": "京都市南区の任天堂「新開発拠点」全容明らかに 建設費に1210億円、規模や完成時期は？ - 京都新聞デジタル",
+        "source": "京都新聞デジタル",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9aRDI0NWtCeTJCNWlCSmlud1FOS2VRT1FtVjVNWVUxY1pFV2g1MGp3eG1NNkdneFFjZEtLd0lGaWJOMmoybU5TZFBBb1oyN1FOSHdZaFUtSlM?oc=5",
+        "published_at": "2026-06-25T10:12:00+00:00",
+        "representative_place": "任天堂本社",
+        "place_label": "日本-京都府-京都市-南区",
+        "sort_place_label": "日本-京都府-京都市-南区",
+        "geocode_query": "Nintendo headquarters Kyoto Japan",
+        "place_type": "institution_site",
+        "location_precision": "building",
+        "place_reason": "任天堂・Nintendo Switch関連の記事を、企業主体の代表地点として任天堂本社に置く（一致語: 任天堂）",
+        "confidence": 0.66,
+        "rule_id": "nintendo_kyoto_headquarters_topic",
+        "matched_text": "任天堂",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.756,
+          34.9671
+        ]
+      },
+      "properties": {
+        "title": "任天堂の新開発拠点、29年3月完成 建設費1210億円で京都の本社隣に - 日本経済新聞",
+        "source": "日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE11QkVxY0RGR0hNVW1JMnFKYWI3R0trOE5CMXVkQ19LUUF1YjFhRHU1WnY5dFcwMUlkSVlwMWNyNGJXQmd0REpJTXBWSjFHLVFvOVhIcEgybzBnTjhhLTNGaEJLTm5xZFE1ZGdkSw?oc=5",
+        "published_at": "2026-06-25T08:25:26+00:00",
+        "representative_place": "任天堂本社",
+        "place_label": "日本-京都府-京都市-南区",
+        "sort_place_label": "日本-京都府-京都市-南区",
+        "geocode_query": "Nintendo headquarters Kyoto Japan",
+        "place_type": "institution_site",
+        "location_precision": "building",
+        "place_reason": "任天堂・Nintendo Switch関連の記事を、企業主体の代表地点として任天堂本社に置く（一致語: 任天堂）",
+        "confidence": 0.66,
+        "rule_id": "nintendo_kyoto_headquarters_topic",
+        "matched_text": "任天堂",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.756,
+          34.9671
+        ]
+      },
+      "properties": {
+        "title": "任天堂が新社屋「技術開発棟」の建築を発表―ソフトウェアおよびハードウェアの新たな研究開発拠点として2029年3月竣工予定 - Game*Spark",
+        "source": "Game*Spark",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBESXRQTGw5NDJoUzhIdUg0SGhaUW5rdkRadzBFTDJVNXVhM1Q3clliZjdVNHNSQmhwY3FVMkl3bDMyVDJYUG9wc1gyMHhFVUVGTTF6UVJ0OV9qX0ZJXzdqTzg1TFU0dw?oc=5",
+        "published_at": "2026-06-25T07:25:03+00:00",
+        "representative_place": "任天堂本社",
+        "place_label": "日本-京都府-京都市-南区",
+        "sort_place_label": "日本-京都府-京都市-南区",
+        "geocode_query": "Nintendo headquarters Kyoto Japan",
+        "place_type": "institution_site",
+        "location_precision": "building",
+        "place_reason": "任天堂・Nintendo Switch関連の記事を、企業主体の代表地点として任天堂本社に置く（一致語: 任天堂）",
+        "confidence": 0.66,
+        "rule_id": "nintendo_kyoto_headquarters_topic",
+        "matched_text": "任天堂",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.756,
+          34.9671
+        ]
+      },
+      "properties": {
+        "title": "任天堂、新社屋「技術開発棟」の完成イメージを公開。新たな研究開発拠点として2029年3月竣工へ - GAME Watch",
+        "source": "GAME Watch",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1qLWxqbFBXeWNiZmF1eVhocFZubEY2aXh0ZEdDdXhWOVJleEN2dkNsNURISE10dWRLOGt6WE1fSW1rTklmSVk3VmttU2FHcGhuMEhEbS02bHo4LXFvWmstNXRscmFDUQ?oc=5",
+        "published_at": "2026-06-25T07:09:05+00:00",
+        "representative_place": "任天堂本社",
+        "place_label": "日本-京都府-京都市-南区",
+        "sort_place_label": "日本-京都府-京都市-南区",
+        "geocode_query": "Nintendo headquarters Kyoto Japan",
+        "place_type": "institution_site",
+        "location_precision": "building",
+        "place_reason": "任天堂・Nintendo Switch関連の記事を、企業主体の代表地点として任天堂本社に置く（一致語: 任天堂）",
+        "confidence": 0.66,
+        "rule_id": "nintendo_kyoto_headquarters_topic",
+        "matched_text": "任天堂",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.756,
+          34.9671
+        ]
+      },
+      "properties": {
+        "title": "任天堂、新社屋「技術開発棟」の完成イメージを公開。新たな研究開発拠点として2029年3月竣工へ (GAME Watch) - Yahoo!ニュース",
+        "source": "Yahoo!ニュース",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbEp3ZTZyLXdTc1pqYy0zU255Y2J4NE1ZZXNfdjhIVWI4NE9zNHM1QjVhRkpCQTNnVXRpREZoOXQ3YTNRVmlVeTNxVk1uZG9sMHZYZGM3cjNsdXVWNm15R01YaXp2eHh2UGJkTUhTYkxxZlRBUFBZdGcwWkw1X3RzVXRMTTMyWHd6QUJSVW9R?oc=5",
+        "published_at": "2026-06-25T07:09:00+00:00",
+        "representative_place": "任天堂本社",
+        "place_label": "日本-京都府-京都市-南区",
+        "sort_place_label": "日本-京都府-京都市-南区",
+        "geocode_query": "Nintendo headquarters Kyoto Japan",
+        "place_type": "institution_site",
+        "location_precision": "building",
+        "place_reason": "任天堂・Nintendo Switch関連の記事を、企業主体の代表地点として任天堂本社に置く（一致語: 任天堂）",
+        "confidence": 0.66,
+        "rule_id": "nintendo_kyoto_headquarters_topic",
+        "matched_text": "任天堂",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.756,
+          34.9671
+        ]
+      },
+      "properties": {
+        "title": "任天堂 1億円以上の役員報酬開示4人（東京商工リサーチ） - Yahoo!ニュース",
+        "source": "Yahoo!ニュース",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE01eW1GWVl3dkJwR3BReEpjRVFkejcwb3g3bVg1ZGw5QU9ub0hHU21uVlhaVGlKX1RyaWUtUlY0dzhHSENpdzNxYUUyVE1jUWU3LWVmXzRNa0xCbnNLcVozdmxSNHJGMnNwR3FyRi1RenNhdWoyZ0dGVHUyRnlfZ0E?oc=5",
+        "published_at": "2026-06-25T07:01:00+00:00",
+        "representative_place": "任天堂本社",
+        "place_label": "日本-京都府-京都市-南区",
+        "sort_place_label": "日本-京都府-京都市-南区",
+        "geocode_query": "Nintendo headquarters Kyoto Japan",
+        "place_type": "institution_site",
+        "location_precision": "building",
+        "place_reason": "任天堂・Nintendo Switch関連の記事を、企業主体の代表地点として任天堂本社に置く（一致語: 任天堂）",
+        "confidence": 0.66,
+        "rule_id": "nintendo_kyoto_headquarters_topic",
+        "matched_text": "任天堂",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5214,
+          34.6863
+        ]
+      },
+      "properties": {
+        "title": "カプコンの体験型施設「CAPCOMIX」がみなとみらいに今夏オープン！ 「昇龍拳ジャンプ」などが楽しめる - GAME Watch",
+        "source": "GAME Watch",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE15YTdPMjM1ZHhKUkxZLVhwb3hqY25oVkNVMTRlU1FWcXJwY25TMlgtNmRwbEk5QVBiTEM2R3FmcF93WHAzWjFRRVctU1ZJV2hDaWZkM1FrOUF5d1FsN1VfUVVqQlQzQQ?oc=5",
+        "published_at": "2026-06-25T06:25:35+00:00",
+        "representative_place": "カプコン本社",
+        "place_label": "日本-大阪府-大阪市-中央区",
+        "sort_place_label": "日本-大阪府-大阪市-中央区",
+        "geocode_query": "Capcom headquarters Chuo Osaka Japan",
+        "place_type": "institution_site",
+        "location_precision": "building",
+        "place_reason": "CAPCOM・カプコン作品関連の記事を、企業主体の代表地点としてカプコン本社に置く（一致語: CAPCOM）",
+        "confidence": 0.68,
+        "rule_id": "capcom_osaka_headquarters_topic",
+        "matched_text": "CAPCOM",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.756,
+          34.9671
+        ]
+      },
+      "properties": {
+        "title": "ゲーム業界の将来は本当に暗いのか 任天堂と海外大手が抱える課題の違いとは #エキスパートトピ（多根清史） - エキスパート - Yahoo!ニュース",
+        "source": "Yahoo!ニュース",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSkFWZnVRUjBkRVZFYkppS3JvTDVfdkhYaC1YYmFrVXZpN3FWdWNXSzNuYm5aLVh2R2pZRl9la1d3YUwzVmQxVmo3WUVzZmY1THVqcC1FbXVPTWlkT1VFSTVUMGx2YU1mQm1mRXdVOW9xemV0cTZ6Z2RSSW4yQmlwZWR3Vm9VeE5f?oc=5",
+        "published_at": "2026-06-24T21:01:12+00:00",
+        "representative_place": "任天堂本社",
+        "place_label": "日本-京都府-京都市-南区",
+        "sort_place_label": "日本-京都府-京都市-南区",
+        "geocode_query": "Nintendo headquarters Kyoto Japan",
+        "place_type": "institution_site",
+        "location_precision": "building",
+        "place_reason": "任天堂・Nintendo Switch関連の記事を、企業主体の代表地点として任天堂本社に置く（一致語: 任天堂）",
+        "confidence": 0.66,
+        "rule_id": "nintendo_kyoto_headquarters_topic",
+        "matched_text": "任天堂",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.756,
+          34.9671
+        ]
+      },
+      "properties": {
+        "title": "任天堂の株価低迷報道 強固な財務基盤もなぜ批判 背景は #エキスパートトピ（河村鳴紘） - エキスパート - Yahoo!ニュース",
+        "source": "Yahoo!ニュース",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdEhFSmxDYjNmVjE0cmpweXBtNlBqWnVKQXB4bTg2YXF4azJFWkYwdjl0cGJuWll3TWpYaFh1Uk9fZTRqZldScnhuSHdhUW9WNXYyNUFJcHVNQ3pTc29kZTlaTzNIV2w5dy1DQmxKTXJrd1QtQVhhRW16ZTEzcEFiN05McHNlOHVs?oc=5",
+        "published_at": "2026-06-24T20:01:11+00:00",
+        "representative_place": "任天堂本社",
+        "place_label": "日本-京都府-京都市-南区",
+        "sort_place_label": "日本-京都府-京都市-南区",
+        "geocode_query": "Nintendo headquarters Kyoto Japan",
+        "place_type": "institution_site",
+        "location_precision": "building",
+        "place_reason": "任天堂・Nintendo Switch関連の記事を、企業主体の代表地点として任天堂本社に置く（一致語: 任天堂）",
+        "confidence": 0.66,
+        "rule_id": "nintendo_kyoto_headquarters_topic",
+        "matched_text": "任天堂",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5214,
+          34.6863
+        ]
+      },
+      "properties": {
+        "title": "「カプコン」ぬいぐるみシリーズ「カプころん」新作登場！『モンハン』より「アルシュベルド」「ゴア・マガラ」、『流星のロックマン』など6種発売（インサイド） - Yahoo!ニュース",
+        "source": "Yahoo!ニュース",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zZGpDLV82WVp4LU1BOTlIamxPSlp3eTZXeGVLSjFYZlJwYWJ3VkxzNVJsSWlVZHc2RlJJeXF5dkdYaXlhS21sVnlQRlFNdjhoUi1raUlIcFlBbGJERkVySndmcnltTHBGWTVxMnpwQV9ZQzJneWxrN1dGbVM0eGs?oc=5",
+        "published_at": "2026-06-24T12:40:02+00:00",
+        "representative_place": "カプコン本社",
+        "place_label": "日本-大阪府-大阪市-中央区",
+        "sort_place_label": "日本-大阪府-大阪市-中央区",
+        "geocode_query": "Capcom headquarters Chuo Osaka Japan",
+        "place_type": "institution_site",
+        "location_precision": "building",
+        "place_reason": "CAPCOM・カプコン作品関連の記事を、企業主体の代表地点としてカプコン本社に置く（一致語: カプコン）",
+        "confidence": 0.68,
+        "rule_id": "capcom_osaka_headquarters_topic",
+        "matched_text": "カプコン",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.765,
+          35.671
+        ]
+      },
+      "properties": {
+        "title": "“『メタルギアソリッド2』のソースコード流出”を受け、コナミがリーカーを訴えたとの報道。まずは「リーカー特定」に向けて徹底追及の構え - AUTOMATON",
+        "source": "AUTOMATON",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1nV2o3YTdwVmZFbGdwUXRQdUtLMGhBajBCLTlDckQtd1YxMG1ZeHhNbXZDUzNNMjJlaTR6eXBoX1B4RzlNQjE5ZUhvWlpUSm1qVEVVSTM3b3Z4dVBRQUp6UE1PV0Jncl80OTNreQ?oc=5",
+        "published_at": "2026-06-24T10:14:33+00:00",
+        "representative_place": "コナミグループ",
+        "place_label": "日本-東京都-中央区-銀座",
+        "sort_place_label": "日本-東京都-中央区-銀座",
+        "geocode_query": "Konami Group Ginza Tokyo Japan",
+        "place_type": "institution_site",
+        "location_precision": "district",
+        "place_reason": "コナミ関連の記事を、企業主体の代表地点として銀座に置く（一致語: メタルギア）",
+        "confidence": 0.62,
+        "rule_id": "konami_tokyo_topic",
+        "matched_text": "メタルギア",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.756,
+          34.9671
+        ]
+      },
+      "properties": {
+        "title": "任天堂関連企業、Switch 2発売で明暗 コネクタを提供するホシデンは大幅増収増益、ゲームソフト格納用LSIのメガチップスは減収・営業損失に - gamebiz【ゲームビズ】",
+        "source": "gamebiz【ゲームビズ】",
+        "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE0zd1ppYmllX1draExuQ3pRTFhZYXBmUUtIRklLcENpNmtLZXoyMUoybEZCZVM2emxTcG9oRnhhLXN5RnlX?oc=5",
+        "published_at": "2026-06-24T08:14:00+00:00",
+        "representative_place": "任天堂本社",
+        "place_label": "日本-京都府-京都市-南区",
+        "sort_place_label": "日本-京都府-京都市-南区",
+        "geocode_query": "Nintendo headquarters Kyoto Japan",
+        "place_type": "institution_site",
+        "location_precision": "building",
+        "place_reason": "任天堂・Nintendo Switch関連の記事を、企業主体の代表地点として任天堂本社に置く（一致語: Switch）",
+        "confidence": 0.66,
+        "rule_id": "nintendo_kyoto_headquarters_topic",
+        "matched_text": "Switch",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.756,
+          34.9671
+        ]
+      },
+      "properties": {
+        "title": "任天堂が年初来安値 半導体値上がりが重荷（24日の株式市場） - 日本経済新聞",
+        "source": "日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xaVBBQnVWZFVTTnJPTFZhTkpRREtlRFZxaXN1MlpkQzYxSnVNcXZrY3J3MXBudFp3Z2dvMFV6M3QzUFNhTVNZNGJCNW13ZHNXTEYyWnB4M0hnXzBGSUJ5S2k3cnhPT21RUEg0Zg?oc=5",
+        "published_at": "2026-06-24T08:06:49+00:00",
+        "representative_place": "任天堂本社",
+        "place_label": "日本-京都府-京都市-南区",
+        "sort_place_label": "日本-京都府-京都市-南区",
+        "geocode_query": "Nintendo headquarters Kyoto Japan",
+        "place_type": "institution_site",
+        "location_precision": "building",
+        "place_reason": "任天堂・Nintendo Switch関連の記事を、企業主体の代表地点として任天堂本社に置く（一致語: 任天堂）",
+        "confidence": 0.66,
+        "rule_id": "nintendo_kyoto_headquarters_topic",
+        "matched_text": "任天堂",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.756,
+          34.9671
+        ]
+      },
+      "properties": {
+        "title": "任天堂が続落、愛眼が反発、パナHDが上昇（24日） - 日本経済新聞",
+        "source": "日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1aaXk0MGt5QVgzMFNONDVBQVNTOW5ibGUyYWx5MzZSZTY2Yzd2UDFMbHFSVTJpcS14ZVNNc2dDUUdUVGYtTk1tNk5kdWVENlZTckNnOHZiQWZlOExpcjFJT2RKVHVSUkU0VUs3ZlNyanZZb1kzNHZRTmgxcS1RQQ?oc=5",
+        "published_at": "2026-06-24T06:40:20+00:00",
+        "representative_place": "任天堂本社",
+        "place_label": "日本-京都府-京都市-南区",
+        "sort_place_label": "日本-京都府-京都市-南区",
+        "geocode_query": "Nintendo headquarters Kyoto Japan",
+        "place_type": "institution_site",
+        "location_precision": "building",
+        "place_reason": "任天堂・Nintendo Switch関連の記事を、企業主体の代表地点として任天堂本社に置く（一致語: 任天堂）",
+        "confidence": 0.66,
+        "rule_id": "nintendo_kyoto_headquarters_topic",
+        "matched_text": "任天堂",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.732,
+          35.6225
+        ]
+      },
+      "properties": {
+        "title": "今年のテーマは港町レトロ！ セガ ラッキーくじオンライン 「名探偵コナンカフェ ― 港町レトロ ―」販売開始 - sega.jp",
+        "source": "sega.jp",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00UnVpVVlzQXRlMml6Znl6OXc5Vk81cnM2Z3VvWEtRbUJqaUVuU3dDUll6d0VmYklHYzNEMFIwQzRjeldHbzVlQmFiQ0xrRjdGX2RUVFJ3?oc=5",
+        "published_at": "2026-06-24T06:12:08+00:00",
+        "representative_place": "セガ本社",
+        "place_label": "日本-東京都-品川区",
+        "sort_place_label": "日本-東京都-品川区",
+        "geocode_query": "Sega headquarters Shinagawa Tokyo Japan",
+        "place_type": "institution_site",
+        "location_precision": "city_district",
+        "place_reason": "セガ作品・セガ関連の記事を、企業主体の代表地点として品川区に置く（一致語: セガ）",
+        "confidence": 0.62,
+        "rule_id": "sega_shinagawa_headquarters_topic",
+        "matched_text": "セガ",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.756,
+          34.9671
+        ]
+      },
+      "properties": {
+        "title": "任天堂の株価が続落 2024年8月以来の安値、換金売り続く - 日本経済新聞",
+        "source": "日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBnWXpWbHNSUG9FSGpYZi1iZm9mS1ZZUHN6MTJJYnFyOHFoRTBGLVhIcXhVREdQWS16WDh0R19ySTEwMnFGTXlGOUdXYmNSTFhZS3p5NjRSYUpNcGFRaDZIbXJWcnUyam95WGRKcg?oc=5",
+        "published_at": "2026-06-24T03:16:25+00:00",
+        "representative_place": "任天堂本社",
+        "place_label": "日本-京都府-京都市-南区",
+        "sort_place_label": "日本-京都府-京都市-南区",
+        "geocode_query": "Nintendo headquarters Kyoto Japan",
+        "place_type": "institution_site",
+        "location_precision": "building",
+        "place_reason": "任天堂・Nintendo Switch関連の記事を、企業主体の代表地点として任天堂本社に置く（一致語: 任天堂）",
+        "confidence": 0.66,
+        "rule_id": "nintendo_kyoto_headquarters_topic",
+        "matched_text": "任天堂",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.732,
+          35.6225
+        ]
+      },
+      "properties": {
+        "title": "『ソニックフロンティア 超・デラックス』デジタル版が本日発売！｜セガ SEGA - sega.jp",
+        "source": "sega.jp",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5EN01EZjE3b0szT2JHQURUbEd5bk9sU0JpcjhlNGVMNm9BbmU5ZEpCeW9XOF9GU2E1RE9LVE9NS1BqQUNrLVA5UVNRSkw3eG45SHBtQnhB?oc=5",
+        "published_at": "2026-06-24T02:23:26+00:00",
+        "representative_place": "セガ本社",
+        "place_label": "日本-東京都-品川区",
+        "sort_place_label": "日本-東京都-品川区",
+        "geocode_query": "Sega headquarters Shinagawa Tokyo Japan",
+        "place_type": "institution_site",
+        "location_precision": "city_district",
+        "place_reason": "セガ作品・セガ関連の記事を、企業主体の代表地点として品川区に置く（一致語: SEGA）",
+        "confidence": 0.62,
+        "rule_id": "sega_shinagawa_headquarters_topic",
+        "matched_text": "SEGA",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5214,
+          34.6863
+        ]
+      },
+      "properties": {
+        "title": "カプコンストアの大人気商品「カプころんシリーズ」に、「モンスターハンター」シリーズをはじめとする全6キャラクターが新登場！ - CAPCOM",
+        "source": "CAPCOM",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9NbThTUXlSYkExd2IxMXlKaTh6LVNKN0tvMjdtLVdSaTNsN20xM080eFRvZE41U2NoNVUxa091dFZaelJDVm0wN3lKTGRNOW85cm42UkRwclp3M1pYYUZJeUdTM1lNblNpdGpCeWlHQlBiWlZ3bXc?oc=5",
+        "published_at": "2026-06-24T01:49:07+00:00",
+        "representative_place": "カプコン本社",
+        "place_label": "日本-大阪府-大阪市-中央区",
+        "sort_place_label": "日本-大阪府-大阪市-中央区",
+        "geocode_query": "Capcom headquarters Chuo Osaka Japan",
+        "place_type": "institution_site",
+        "location_precision": "building",
+        "place_reason": "CAPCOM・カプコン作品関連の記事を、企業主体の代表地点としてカプコン本社に置く（一致語: CAPCOM）",
+        "confidence": 0.68,
+        "rule_id": "capcom_osaka_headquarters_topic",
+        "matched_text": "CAPCOM",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.765,
+          35.671
+        ]
+      },
+      "properties": {
+        "title": "ジュニアゴルフの全国大会 「第13回 コナミスポーツ ジュニアカップ」 中学生の部 申込詳細を公開 - KONAMI GROUP CORPORATION",
+        "source": "KONAMI GROUP CORPORATION",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1XbV9KNVFTRHlxRlJrX2NUMHpYd0txb0dPYmpXWlhtbHhQYk1vcWJsQWdWb2x2anY2ZDE3MkZqT2VBQTdBbjMxZ3NjaVhEVlJVem5hTkVYREhOTUtjclR1QjRDU0xEUnQwSEYzUGdlMA?oc=5",
+        "published_at": "2026-06-24T01:00:00+00:00",
+        "representative_place": "コナミグループ",
+        "place_label": "日本-東京都-中央区-銀座",
+        "sort_place_label": "日本-東京都-中央区-銀座",
+        "geocode_query": "Konami Group Ginza Tokyo Japan",
+        "place_type": "institution_site",
+        "location_precision": "district",
+        "place_reason": "コナミ関連の記事を、企業主体の代表地点として銀座に置く（一致語: KONAMI）",
+        "confidence": 0.62,
+        "rule_id": "konami_tokyo_topic",
+        "matched_text": "KONAMI",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.756,
+          34.9671
+        ]
+      },
+      "properties": {
+        "title": "任天堂の株価低迷、ゲーム業界の暗い時代示唆－流れ変える要因見えず（Bloomberg） - Yahoo!ニュース",
+        "source": "Yahoo!ニュース",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8wYWRZY3p5Vy10aUNzNDJQYmhwODUyc0NWS29HbnlqdUpfSElTQ1AxYWpKb3ZnR3czNVlXT3dCVXZJYk5kZXJRN1M3eFVpdEo5VkYwTTFHd2ZLY3J0aHNnNzFxVlp3SzNOak52bE5haW55OC1LVnBkMkdMZ05JSEU?oc=5",
+        "published_at": "2026-06-24T00:44:31+00:00",
+        "representative_place": "任天堂本社",
+        "place_label": "日本-京都府-京都市-南区",
+        "sort_place_label": "日本-京都府-京都市-南区",
+        "geocode_query": "Nintendo headquarters Kyoto Japan",
+        "place_type": "institution_site",
+        "location_precision": "building",
+        "place_reason": "任天堂・Nintendo Switch関連の記事を、企業主体の代表地点として任天堂本社に置く（一致語: 任天堂）",
+        "confidence": 0.66,
+        "rule_id": "nintendo_kyoto_headquarters_topic",
+        "matched_text": "任天堂",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.756,
+          34.9671
+        ]
+      },
+      "properties": {
+        "title": "任天堂の株価低迷、ゲーム業界の暗い時代示唆－流れ変える要因見えず - Bloomberg.com",
+        "source": "Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBPUFpQcjlVX3lFZTZnM2JyaHVBNVpQRXNZM2FxUFJPQ0Npek56c1pjUE90UncwSVc2NjE3X0VoZHZuVDNEX0NQMEFjb1E1eDIzQ1lXeUdFLTFDSjk1U0NOU0pEUDZoY3ZhTS1mWHVfd250eW1pa3Uw?oc=5",
+        "published_at": "2026-06-24T00:44:00+00:00",
+        "representative_place": "任天堂本社",
+        "place_label": "日本-京都府-京都市-南区",
+        "sort_place_label": "日本-京都府-京都市-南区",
+        "geocode_query": "Nintendo headquarters Kyoto Japan",
+        "place_type": "institution_site",
+        "location_precision": "building",
+        "place_reason": "任天堂・Nintendo Switch関連の記事を、企業主体の代表地点として任天堂本社に置く（一致語: 任天堂）",
+        "confidence": 0.66,
+        "rule_id": "nintendo_kyoto_headquarters_topic",
+        "matched_text": "任天堂",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5214,
+          34.6863
+        ]
+      },
+      "properties": {
+        "title": "カプコンの名作ゲームソフト『大神』の発売20周年を記念し、双葉社から設定画集の完全復刻版が発売！ - PR TIMES",
+        "source": "PR TIMES",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5hbDdpZVBKRElEdm5lRFhXNWZJNThTaXd6VllvODFkenR2TjcxQTNpb2l5cDFkMGc5b25HdzhEdkNUVTVWRGJBdlJGeFp0bnNUTmMxUzAxTFhoai0zSU9rWWthSk16MklZOXc?oc=5",
+        "published_at": "2026-06-24T00:00:02+00:00",
+        "representative_place": "カプコン本社",
+        "place_label": "日本-大阪府-大阪市-中央区",
+        "sort_place_label": "日本-大阪府-大阪市-中央区",
+        "geocode_query": "Capcom headquarters Chuo Osaka Japan",
+        "place_type": "institution_site",
+        "location_precision": "building",
+        "place_reason": "CAPCOM・カプコン作品関連の記事を、企業主体の代表地点としてカプコン本社に置く（一致語: カプコン）",
+        "confidence": 0.68,
+        "rule_id": "capcom_osaka_headquarters_topic",
+        "matched_text": "カプコン",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.756,
+          34.9671
+        ]
+      },
+      "properties": {
+        "title": "NINTENDO 64発売から30周年。「3Dゲームの教科書」が任天堂に残した教訓とは #エキスパートトピ（多根清史） - エキスパート - Yahoo!ニュース",
+        "source": "Yahoo!ニュース",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYlRGaUl3ZnVnV0FKNEJiV3p4RENuaFFoanRnNFpmS1MwQ1VmbGNwdkdCdkE1cExkNkh0aHVDOG1LcldiUTJIbDBOYUUyR1gxdG13ZjBacnc3TnNpcjIwSlRBdXNqTGZqTTFwWGpRTmxDblNVX3dJX1FvdTNTQjRzcjFnY0pYU2Jr?oc=5",
+        "published_at": "2026-06-23T21:00:59+00:00",
+        "representative_place": "任天堂本社",
+        "place_label": "日本-京都府-京都市-南区",
+        "sort_place_label": "日本-京都府-京都市-南区",
+        "geocode_query": "Nintendo headquarters Kyoto Japan",
+        "place_type": "institution_site",
+        "location_precision": "building",
+        "place_reason": "任天堂・Nintendo Switch関連の記事を、企業主体の代表地点として任天堂本社に置く（一致語: 任天堂）",
+        "confidence": 0.66,
+        "rule_id": "nintendo_kyoto_headquarters_topic",
+        "matched_text": "任天堂",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5214,
+          34.6863
+        ]
+      },
+      "properties": {
+        "title": "『モンスターハンター』黒蝕竜「ゴア・マガラ」が「カプコンフィギュアビルダー」からソフビフィギュア化！あみあみにて予約受付中！ - 電撃ホビーウェブ",
+        "source": "電撃ホビーウェブ",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5BQUdoX2pSbEJtS29mRzVWS0VHMEZpUHFaMWpVQW5aTGJKSENIYjUwWXBJZzRoUU8xMnIzM3NsUkJENWFkX2tIV3NBc1hYU2Z6?oc=5",
+        "published_at": "2026-06-23T11:00:00+00:00",
+        "representative_place": "カプコン本社",
+        "place_label": "日本-大阪府-大阪市-中央区",
+        "sort_place_label": "日本-大阪府-大阪市-中央区",
+        "geocode_query": "Capcom headquarters Chuo Osaka Japan",
+        "place_type": "institution_site",
+        "location_precision": "building",
+        "place_reason": "CAPCOM・カプコン作品関連の記事を、企業主体の代表地点としてカプコン本社に置く（一致語: カプコン）",
+        "confidence": 0.68,
+        "rule_id": "capcom_osaka_headquarters_topic",
+        "matched_text": "カプコン",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7516,
+          35.6581
+        ]
+      },
+      "properties": {
+        "title": "バンダイナムコミュージックライブとバンダイナムコ研究所VTuber事業における業務提携に関するお知らせ - PR TIMES",
+        "source": "PR TIMES",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9nVktFYWk4TVVZeFpTMXBoUTRJX2ZoWERrX2VGSUd2b0VRd3dydDZ4T0Y5c1dVVnA5MERBZXJ0LUFIcVkwRXdKQnJtM1E4RG1IdHE2Q0xMMEwxd0JkMTY5QTlzQVBPbEUwQUE?oc=5",
+        "published_at": "2026-06-23T03:00:02+00:00",
+        "representative_place": "バンダイナムコエンターテインメント",
+        "place_label": "日本-東京都-港区",
+        "sort_place_label": "日本-東京都-港区",
+        "geocode_query": "Bandai Namco Entertainment Minato Tokyo Japan",
+        "place_type": "institution_site",
+        "location_precision": "city_district",
+        "place_reason": "バンダイナムコ関連の記事を、企業主体の代表地点として東京都港区に置く（一致語: バンダイナムコ）",
+        "confidence": 0.62,
+        "rule_id": "bandai_namco_tokyo_topic",
+        "matched_text": "バンダイナムコ",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5214,
+          34.6863
+        ]
+      },
+      "properties": {
+        "title": "「カプコンスポットライト」6月26日6時より配信決定！『モンハンストーリーズ3』や『ドラゴンズドグマ 2：ダークアリズン』の続報をお届け（インサイド） - Yahoo!ニュース",
+        "source": "Yahoo!ニュース",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1JLUNHQzZwOFA3U2ZRWDMxeXpVSTNTMzhTZjBCSXdqLWhueEYtOXlZemxTSDN0SktLMlNmNWVJSzVtS1hDQ3NlTnY0YVN6X0Q2NWtXdzdtajRmYkZNc0dPdUlUMmJMZU90dHcxMlpTdjhGbUpFYTMtRl83WUl4YzQ?oc=5",
+        "published_at": "2026-06-23T02:15:03+00:00",
+        "representative_place": "カプコン本社",
+        "place_label": "日本-大阪府-大阪市-中央区",
+        "sort_place_label": "日本-大阪府-大阪市-中央区",
+        "geocode_query": "Capcom headquarters Chuo Osaka Japan",
+        "place_type": "institution_site",
+        "location_precision": "building",
+        "place_reason": "CAPCOM・カプコン作品関連の記事を、企業主体の代表地点としてカプコン本社に置く（一致語: カプコン）",
+        "confidence": 0.68,
+        "rule_id": "capcom_osaka_headquarters_topic",
+        "matched_text": "カプコン",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5214,
+          34.6863
+        ]
+      },
+      "properties": {
+        "title": "“カプコンスポットライト”が6月26日6時から配信。放送時間は約30分、番組ナレーションは子安武人。『モンハンストーリーズ3』『鬼武者』新情報が発表 - ファミ通",
+        "source": "ファミ通",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE15QkFJWE5tN2p1U2FDaW8wQ1BkbXdUMHFTNEFLN0QxMUxjclQtMDdPRXdZTEQ3LVh2QTQ4WkpGSTJ2ZS1OWGN2dUhuZG54WVVNOVd6Ti1Wcw?oc=5",
+        "published_at": "2026-06-23T02:13:59+00:00",
+        "representative_place": "カプコン本社",
+        "place_label": "日本-大阪府-大阪市-中央区",
+        "sort_place_label": "日本-大阪府-大阪市-中央区",
+        "geocode_query": "Capcom headquarters Chuo Osaka Japan",
+        "place_type": "institution_site",
+        "location_precision": "building",
+        "place_reason": "CAPCOM・カプコン作品関連の記事を、企業主体の代表地点としてカプコン本社に置く（一致語: カプコン）",
+        "confidence": 0.68,
+        "rule_id": "capcom_osaka_headquarters_topic",
+        "matched_text": "カプコン",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7516,
+          35.6581
+        ]
+      },
+      "properties": {
+        "title": "バンダイナムコエクスペリエンス、ゲームセンター「ナムコ」のフランチャイズ事業を開始 ゲームセンター事業の新たな出店モデルを導入 - PR TIMES",
+        "source": "PR TIMES",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB6a0xhZF8tTFg0cnJKOWJMT3dyRk5qS1ZDangzMGNuM19zUTZweDVJVnJ0ZVEyT1lyWG5oc2RUZlNyc245aGNaMGNHNW5LeHBubFVDM3hRWWxWQ1NpUnpzeDJqZTZ0dEZjZlE?oc=5",
+        "published_at": "2026-06-23T02:00:02+00:00",
+        "representative_place": "バンダイナムコエンターテインメント",
+        "place_label": "日本-東京都-港区",
+        "sort_place_label": "日本-東京都-港区",
+        "geocode_query": "Bandai Namco Entertainment Minato Tokyo Japan",
+        "place_type": "institution_site",
+        "location_precision": "city_district",
+        "place_reason": "バンダイナムコ関連の記事を、企業主体の代表地点として東京都港区に置く（一致語: バンダイナムコ）",
+        "confidence": 0.62,
+        "rule_id": "bandai_namco_tokyo_topic",
+        "matched_text": "バンダイナムコ",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.732,
+          35.6225
+        ]
+      },
+      "properties": {
+        "title": "『セガNET麻雀 MJ』と『秘宝伝』シリーズがコラボ！ 全国大会“秘宝伝CUP”開催 - sega.jp",
+        "source": "sega.jp",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9PbHBzUVhHbHVNdFBnbkZVRWdEUGNGcnZBTlNKd0pRWHZCVjVjMGFkdGk5NjctSFd3dERYaXd4VmV2WGx5RnBQVDYwYWtuaHN5Z1J1UU1B?oc=5",
+        "published_at": "2026-06-22T07:44:42+00:00",
+        "representative_place": "セガ本社",
+        "place_label": "日本-東京都-品川区",
+        "sort_place_label": "日本-東京都-品川区",
+        "geocode_query": "Sega headquarters Shinagawa Tokyo Japan",
+        "place_type": "institution_site",
+        "location_precision": "city_district",
+        "place_reason": "セガ作品・セガ関連の記事を、企業主体の代表地点として品川区に置く（一致語: セガ）",
+        "confidence": 0.62,
+        "rule_id": "sega_shinagawa_headquarters_topic",
+        "matched_text": "セガ",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5214,
+          34.6863
+        ]
+      },
+      "properties": {
+        "title": "カプコンカフェで「ほっ」としよ？癒しが満載の「お茶犬」コラボが開催決定！ - CAPCOM",
+        "source": "CAPCOM",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdmNoYUpKNHRiYkE3c1lhWTlNMkFjMlNUY3RLYlNjUEplSnN6M05hZ205bHJSRWhsa25MZzBQUDFjS1hHTTFRUDA2YXhJSTBXVzUzY3BfXzVBczZUYjJXOFF0VkJCRkd4Q25VMzV2TDZuTzJRdnZLZGVvSF9sczdOWg?oc=5",
+        "published_at": "2026-06-18T07:00:00+00:00",
+        "representative_place": "カプコン本社",
+        "place_label": "日本-大阪府-大阪市-中央区",
+        "sort_place_label": "日本-大阪府-大阪市-中央区",
+        "geocode_query": "Capcom headquarters Chuo Osaka Japan",
+        "place_type": "institution_site",
+        "location_precision": "building",
+        "place_reason": "CAPCOM・カプコン作品関連の記事を、企業主体の代表地点としてカプコン本社に置く（一致語: CAPCOM）",
+        "confidence": 0.68,
+        "rule_id": "capcom_osaka_headquarters_topic",
+        "matched_text": "CAPCOM",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7034,
+          35.6938
+        ]
+      },
+      "properties": {
+        "title": "聖剣伝説35周年記念で『聖剣伝説コレクション』が950円！ 「スクエニ JUNE SALE Part 2」開催 - Square Enix, Ltd.",
+        "source": "Square Enix, Ltd.",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBLZlBiMDduR29zYUZzWFZQX1VaNC1SYXpram1qQnBvV0l1Y0t4Sjg2bFpGY1NUV3NXQ2p5clBHUGJaSUVRQ1V3LTljX3NicG1oMGZRNS1ZN211RFQzS3cw?oc=5",
+        "published_at": "2026-06-18T07:00:00+00:00",
+        "representative_place": "スクウェア・エニックス本社",
+        "place_label": "日本-東京都-新宿区",
+        "sort_place_label": "日本-東京都-新宿区",
+        "geocode_query": "Square Enix headquarters Shinjuku Tokyo Japan",
+        "place_type": "institution_site",
+        "location_precision": "city_district",
+        "place_reason": "Square Enix・スクエニ作品関連の記事を、企業主体の代表地点として新宿区に置く（一致語: Square Enix）",
+        "confidence": 0.62,
+        "rule_id": "square_enix_shinjuku_headquarters_topic",
+        "matched_text": "Square Enix",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.756,
+          34.9671
+        ]
+      },
+      "properties": {
+        "title": "ドコモ“爆アゲ”Nintendo Switch Online値上げ 任天堂にあわせて（アスキー） - Yahoo!ニュース",
+        "source": "Yahoo!ニュース",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBFdGREcW5STW9YMnAzb0xHaGVfaFpoVnBreUREa2lWUFF1T3p3YnVpR2g2a2paWUphNjdrLTdGbkwxejdZcDZpeThBSFk2ZkdwQmpYS3dHamN5eEJlcGpmUVZaOWlVYzV6amNBQUJQR3dnX2habXl0TmRCS1dNQTQ?oc=5",
+        "published_at": "2026-06-16T07:00:00+00:00",
+        "representative_place": "任天堂本社",
+        "place_label": "日本-京都府-京都市-南区",
+        "sort_place_label": "日本-京都府-京都市-南区",
+        "geocode_query": "Nintendo headquarters Kyoto Japan",
+        "place_type": "institution_site",
+        "location_precision": "building",
+        "place_reason": "任天堂・Nintendo Switch関連の記事を、企業主体の代表地点として任天堂本社に置く（一致語: Nintendo）",
+        "confidence": 0.66,
+        "rule_id": "nintendo_kyoto_headquarters_topic",
+        "matched_text": "Nintendo",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.765,
+          35.671
+        ]
+      },
+      "properties": {
+        "title": "「どんな服より、夏に似合う私へ」 コナミスポーツクラブが夏のキャンペーンを実施 ～子どもから大人まで始めやすくて続けやすい～ - KONAMI GROUP CORPORATION",
+        "source": "KONAMI GROUP CORPORATION",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Vcm1DTm1tWWFXaDI2Y0pPckFfZWlhZ2dyQ2VvTVJXYWtnZTlYQlMxaUJWaDhmX3pHak9jaW9SRlhqNmlPd2d3QkNwUlRLSEo0cUh5QXRQMDl2cVFONUNSRmRLRVRlbFZsV1BqLWJBTQ?oc=5",
+        "published_at": "2026-06-12T07:00:00+00:00",
+        "representative_place": "コナミグループ",
+        "place_label": "日本-東京都-中央区-銀座",
+        "sort_place_label": "日本-東京都-中央区-銀座",
+        "geocode_query": "Konami Group Ginza Tokyo Japan",
+        "place_type": "institution_site",
+        "location_precision": "district",
+        "place_reason": "コナミ関連の記事を、企業主体の代表地点として銀座に置く（一致語: KONAMI）",
+        "confidence": 0.62,
+        "rule_id": "konami_tokyo_topic",
+        "matched_text": "KONAMI",
+        "match_source": "known_place_title"
+      }
+    }
+  ]
+}
