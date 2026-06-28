@@ -1,8 +1,8 @@
 {
   "type": "FeatureCollection",
   "properties": {
-    "created_at": "2026-06-28T22:55:55.089516+00:00",
-    "count": 139,
+    "created_at": "2026-06-28T23:04:59.918330+00:00",
+    "count": 137,
     "stats": {
       "feed_id": "game-all",
       "feed_label": "ゲーム",
@@ -28,7 +28,7 @@
         "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja"
       ],
       "rss_url": "https://www.gamedeveloper.com/rss.xml",
-      "fetched": 989,
+      "fetched": 977,
       "fetched_by_url": {
         "https://www.gamedeveloper.com/rss.xml": 50,
         "https://www.gamesindustry.biz/feed": 100,
@@ -45,14 +45,14 @@
         "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Eastern%20Europe&hl=en&gl=PL&ceid=PL:en": 74,
         "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Africa&hl=en&gl=ZA&ceid=ZA:en": 79,
         "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Southeast%20Asia&hl=en-SG&gl=SG&ceid=SG:en": 77,
-        "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA&hl=ja&gl=JP&ceid=JP:ja": 74,
-        "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja": 79,
+        "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA&hl=ja&gl=JP&ceid=JP:ja": 65,
+        "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja": 77,
         "https://news.google.com/rss/search?q=%E6%B5%B7%E5%A4%96%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA&hl=ja&gl=JP&ceid=JP:ja": 75,
-        "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja": 77
+        "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja": 74
       },
-      "filtered": 907,
-      "resolved": 139,
-      "unresolved": 768,
+      "filtered": 897,
+      "resolved": 137,
+      "unresolved": 760,
       "rules": 111,
       "known_places": 113,
       "loaded_data_files": [
@@ -1442,8 +1442,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3522,
-          48.8566
+          2.378,
+          48.887
         ]
       },
       "properties": {
@@ -1451,14 +1451,14 @@
         "source": "gamedeveloper",
         "link": "https://www.gamedeveloper.com/business/rockstar-s-legal-setback-final-fantasy-tax-incentives-and-playstation-swaps-pc-for-ai-patch-notes-57",
         "published_at": "2026-06-19T10:43:12+00:00",
-        "representative_place": "Don't Nod",
+        "representative_place": "Don't Nod / Paris 19e studio area",
         "place_label": "フランス-パリ",
         "sort_place_label": "フランス-パリ",
-        "geocode_query": "Don't Nod Paris France",
+        "geocode_query": "Quartier de la Villette Paris 19 France",
         "place_type": "studio_site",
-        "location_precision": "city",
-        "place_reason": "game-all未解決記事にフランスのゲーム開発会社Don't Nodの資金繰り警告が明示されているため、同社所在地としてパリに置く。フランス一般ではなくスタジオ所在地として扱う",
-        "confidence": 0.82,
+        "location_precision": "district",
+        "place_reason": "Don't Nodはパリ市代表点ではなく、同スタジオが移転したパリ19区La Villette周辺として扱う。番地を確実に固定できるまでは地区粒度に止める",
+        "confidence": 0.76,
         "rule_id": "observed_dont_nod_cash_warning_paris_202606",
         "matched_text": "Don't Nod",
         "match_source": "rule"
@@ -1478,14 +1478,14 @@
         "source": "gamedeveloper",
         "link": "https://www.gamedeveloper.com/business/-a-new-industry-with-a-new-identity-how-canadian-devs-are-faring-in-2026",
         "published_at": "2026-06-18T17:59:13+00:00",
-        "representative_place": "XP Game Summit Toronto",
-        "place_label": "カナダ-オンタリオ州-トロント",
-        "sort_place_label": "カナダ-オンタリオ州-トロント",
-        "geocode_query": "Toronto Ontario Canada",
+        "representative_place": "XP Game Summit Toronto / event area",
+        "place_label": "カナダ-XP Game Summit Toronto / event area",
+        "sort_place_label": "カナダ-XP Game Summit Toronto / event area",
+        "geocode_query": "XP Game Summit Toronto Ontario Canada",
         "place_type": "event_site",
-        "location_precision": "city",
-        "place_reason": "game-all未解決記事のsummaryに『Toronto Canada's XP Game Summit』と明示されているため、カナダ開発者記事の取材・イベント地点としてトロントに置く（一致語: How Canadian devs are faring in 2026）",
-        "confidence": 0.88,
+        "location_precision": "event_area",
+        "place_reason": "XP Game Summitの記事なので、トロント市代表点ではなくイベント会場周辺として扱う。会場名・番地を確実に固定できるまで住所粒度にはしない（一致語: How Canadian devs are faring in 2026）",
+        "confidence": 0.68,
         "rule_id": "observed_xp_game_summit_toronto_canadian_devs_202606",
         "matched_text": "How Canadian devs are faring in 2026",
         "match_source": "known_place_title"
@@ -1523,8 +1523,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3522,
-          48.8566
+          2.378,
+          48.887
         ]
       },
       "properties": {
@@ -1532,14 +1532,14 @@
         "source": "GamesIndustry.biz Latest Articles Feed",
         "link": "https://www.gamesindustry.biz/dont-nod-says-it-has-several-levers-to-secure-financial-position-after-auditors-detailed-cash-woes",
         "published_at": "2026-06-18T10:58:01+00:00",
-        "representative_place": "Don't Nod",
+        "representative_place": "Don't Nod / Paris 19e studio area",
         "place_label": "フランス-パリ",
         "sort_place_label": "フランス-パリ",
-        "geocode_query": "Don't Nod Paris France",
+        "geocode_query": "Quartier de la Villette Paris 19 France",
         "place_type": "studio_site",
-        "location_precision": "city",
-        "place_reason": "game-all未解決記事にフランスのゲーム開発会社Don't Nodの資金繰り警告が明示されているため、同社所在地としてパリに置く。フランス一般ではなくスタジオ所在地として扱う（一致語: Don't Nod）",
-        "confidence": 0.82,
+        "location_precision": "district",
+        "place_reason": "Don't Nodはパリ市代表点ではなく、同スタジオが移転したパリ19区La Villette周辺として扱う。番地を確実に固定できるまでは地区粒度に止める（一致語: Don't Nod）",
+        "confidence": 0.76,
         "rule_id": "observed_dont_nod_cash_warning_paris_202606",
         "matched_text": "Don't Nod",
         "match_source": "known_place_title"
@@ -1559,14 +1559,14 @@
         "source": "GamesIndustry.biz Latest Articles Feed",
         "link": "https://www.gamesindustry.biz/otherside-entertainment-cuts-17-jobs-after-argos-cancellation",
         "published_at": "2026-06-18T10:30:59+00:00",
-        "representative_place": "OtherSide Entertainment / Argos cancellation",
-        "place_label": "米国-マサチューセッツ州-ボストン",
-        "sort_place_label": "米国-マサチューセッツ州-ボストン",
+        "representative_place": "OtherSide Entertainment / Boston studio area",
+        "place_label": "米国-OtherSide Entertainment / Boston studio area",
+        "sort_place_label": "米国-OtherSide Entertainment / Boston studio area",
         "geocode_query": "OtherSide Entertainment Boston Massachusetts United States",
         "place_type": "studio_site",
-        "location_precision": "city",
-        "place_reason": "game-all未解決記事にOtherSide Entertainmentの人員削減が明示されているため、同社所在地としてボストンに置く（一致語: OtherSide Entertainment cuts 17 jobs after Argos cancellation）",
-        "confidence": 0.78,
+        "location_precision": "studio_area",
+        "place_reason": "OtherSide Entertainmentの記事なので、ボストン市代表点ではなく同スタジオ周辺として扱う。番地を確実に固定できるまではstudio_areaに止める（一致語: OtherSide Entertainment cuts 17 jobs after Argos cancellation）",
+        "confidence": 0.68,
         "rule_id": "observed_otherside_argos_cancellation_boston_202606",
         "matched_text": "OtherSide Entertainment cuts 17 jobs after Argos cancellation",
         "match_source": "known_place_title"
@@ -1604,8 +1604,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3522,
-          48.8566
+          2.378,
+          48.887
         ]
       },
       "properties": {
@@ -1613,14 +1613,14 @@
         "source": "gamedeveloper",
         "link": "https://www.gamedeveloper.com/business/don-t-nod-pursuing-several-levers-to-secure-financial-future-after-tencent-decides-against-short-term-investment",
         "published_at": "2026-06-17T19:12:04+00:00",
-        "representative_place": "Don't Nod",
+        "representative_place": "Don't Nod / Paris 19e studio area",
         "place_label": "フランス-パリ",
         "sort_place_label": "フランス-パリ",
-        "geocode_query": "Don't Nod Paris France",
+        "geocode_query": "Quartier de la Villette Paris 19 France",
         "place_type": "studio_site",
-        "location_precision": "city",
-        "place_reason": "game-all未解決記事にフランスのゲーム開発会社Don't Nodの資金繰り警告が明示されているため、同社所在地としてパリに置く。フランス一般ではなくスタジオ所在地として扱う（一致語: Don't Nod）",
-        "confidence": 0.82,
+        "location_precision": "district",
+        "place_reason": "Don't Nodはパリ市代表点ではなく、同スタジオが移転したパリ19区La Villette周辺として扱う。番地を確実に固定できるまでは地区粒度に止める（一致語: Don't Nod）",
+        "confidence": 0.76,
         "rule_id": "observed_dont_nod_cash_warning_paris_202606",
         "matched_text": "Don't Nod",
         "match_source": "known_place_title"
@@ -1748,14 +1748,14 @@
         "source": "GamesIndustry.biz Latest Articles Feed",
         "link": "https://www.gamesindustry.biz/thatgamecompanys-20-year-journey-from-anti-columbine-school-project-to-a-celebration-of-van-gogh",
         "published_at": "2026-06-16T18:02:55+00:00",
-        "representative_place": "thatgamecompany",
-        "place_label": "米国-カリフォルニア州-サンタモニカ",
-        "sort_place_label": "米国-カリフォルニア州-サンタモニカ",
+        "representative_place": "thatgamecompany / Santa Monica studio area",
+        "place_label": "米国-thatgamecompany / Santa Monica studio area",
+        "sort_place_label": "米国-thatgamecompany / Santa Monica studio area",
         "geocode_query": "thatgamecompany Santa Monica California United States",
         "place_type": "studio_site",
-        "location_precision": "city",
-        "place_reason": "game-all未解決記事のタイトルとsummaryにThatgamecompany / Jenova Chenが明示されているため、同スタジオの所在地としてサンタモニカに置く（一致語: Thatgamecompany's 20-year journey）",
-        "confidence": 0.8,
+        "location_precision": "studio_area",
+        "place_reason": "thatgamecompanyの記事なので、サンタモニカ市代表点ではなく同スタジオ周辺として扱う。公開確認できる住所が得られるまではstudio_areaに止める（一致語: Thatgamecompany's 20-year journey）",
+        "confidence": 0.7,
         "rule_id": "observed_thatgamecompany_van_gogh_santa_monica_202606",
         "matched_text": "Thatgamecompany's 20-year journey",
         "match_source": "known_place_title"
@@ -1802,14 +1802,14 @@
         "source": "gamedeveloper",
         "link": "https://www.gamedeveloper.com/business/horses-begins-recouping-development-costs-after-selling-30-000-copies",
         "published_at": "2026-06-16T13:18:12+00:00",
-        "representative_place": "Santa Ragione / Horses",
-        "place_label": "イタリア-ミラノ",
-        "sort_place_label": "イタリア-ミラノ",
+        "representative_place": "Santa Ragione / Milan studio area",
+        "place_label": "イタリア-Santa Ragione / Milan studio area",
+        "sort_place_label": "イタリア-Santa Ragione / Milan studio area",
         "geocode_query": "Santa Ragione Milan Italy",
         "place_type": "studio_site",
-        "location_precision": "city",
-        "place_reason": "game-all未解決記事にSanta RagioneのHorsesが明示されているため、同スタジオの所在地としてミラノに置く（一致語: Banned horror title Horses begins recouping development costs）",
-        "confidence": 0.72,
+        "location_precision": "studio_area",
+        "place_reason": "Santa Ragioneの記事なので、ミラノ市代表点ではなく同スタジオ周辺として扱う。番地を確実に固定できるまではstudio_areaに止める（一致語: Banned horror title Horses begins recouping development costs）",
+        "confidence": 0.68,
         "rule_id": "observed_santa_ragione_horses_milan_202606",
         "matched_text": "Banned horror title Horses begins recouping development costs",
         "match_source": "known_place_title"
@@ -1820,8 +1820,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3522,
-          48.8566
+          2.378,
+          48.887
         ]
       },
       "properties": {
@@ -1829,14 +1829,14 @@
         "source": "GamesIndustry.biz Latest Articles Feed",
         "link": "https://www.gamesindustry.biz/auditors-warn-dont-nod-will-run-out-of-cash-by-november-if-it-is-unable-to-secure-financing",
         "published_at": "2026-06-16T11:20:29+00:00",
-        "representative_place": "Don't Nod",
+        "representative_place": "Don't Nod / Paris 19e studio area",
         "place_label": "フランス-パリ",
         "sort_place_label": "フランス-パリ",
-        "geocode_query": "Don't Nod Paris France",
+        "geocode_query": "Quartier de la Villette Paris 19 France",
         "place_type": "studio_site",
-        "location_precision": "city",
-        "place_reason": "game-all未解決記事にフランスのゲーム開発会社Don't Nodの資金繰り警告が明示されているため、同社所在地としてパリに置く。フランス一般ではなくスタジオ所在地として扱う（一致語: Don't Nod will run out of cash）",
-        "confidence": 0.82,
+        "location_precision": "district",
+        "place_reason": "Don't Nodはパリ市代表点ではなく、同スタジオが移転したパリ19区La Villette周辺として扱う。番地を確実に固定できるまでは地区粒度に止める（一致語: Don't Nod will run out of cash）",
+        "confidence": 0.76,
         "rule_id": "observed_dont_nod_cash_warning_paris_202606",
         "matched_text": "Don't Nod will run out of cash",
         "match_source": "known_place_title"
@@ -1874,8 +1874,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.5673,
-          45.5017
+          0.142,
+          52.218
         ]
       },
       "properties": {
@@ -1883,16 +1883,16 @@
         "source": "GamesIndustry.biz Latest Articles Feed",
         "link": "https://www.gamesindustry.biz/xbox-is-reportedly-considering-closing-south-of-midnight-studio-compulsion-games-with-double-fine-and-ninja-theory-also-allegedly-at-risk",
         "published_at": "2026-06-15T21:00:01+00:00",
-        "representative_place": "Compulsion Games / South of Midnight",
-        "place_label": "カナダ-ケベック州-モントリオール",
-        "sort_place_label": "カナダ-ケベック州-モントリオール",
-        "geocode_query": "Compulsion Games Montreal Canada",
+        "representative_place": "Ninja Theory / Cambridge studio area",
+        "place_label": "Ninja Theory / Cambridge studio area",
+        "sort_place_label": "Ninja Theory / Cambridge studio area",
+        "geocode_query": "Ninja Theory Cambridge England",
         "place_type": "studio_site",
-        "location_precision": "city",
-        "place_reason": "game-all未解決記事にSouth of Midnight開発元Compulsion Gamesの閉鎖リスクが明示されているため、同スタジオの所在地としてモントリオールに置く（一致語: South of Midnight studio, Compulsion Games）",
-        "confidence": 0.84,
-        "rule_id": "observed_compulsion_games_south_of_midnight_montreal_202606",
-        "matched_text": "South of Midnight studio, Compulsion Games",
+        "location_precision": "studio_area",
+        "place_reason": "Hellblade開発元Ninja Theoryの記事なので、ケンブリッジ市代表点ではなくNinja Theoryスタジオ周辺として置く。住所まで確実に固定せず、スタジオ周辺粒度に止める（一致語: Ninja Theory）",
+        "confidence": 0.76,
+        "rule_id": "observed_ninja_theory_hellblade_closure_cambridge_202606",
+        "matched_text": "Ninja Theory",
         "match_source": "known_place_title"
       }
     },
@@ -1937,14 +1937,14 @@
         "source": "gamedeveloper",
         "link": "https://www.gamedeveloper.com/business/report-compulsion-games-leadership-in-negotiations-with-xbox-potential-studio-closure",
         "published_at": "2026-06-15T20:16:23+00:00",
-        "representative_place": "Compulsion Games / South of Midnight",
-        "place_label": "カナダ-ケベック州-モントリオール",
-        "sort_place_label": "カナダ-ケベック州-モントリオール",
-        "geocode_query": "Compulsion Games Montreal Canada",
+        "representative_place": "Compulsion Games / Montreal studio area",
+        "place_label": "カナダ-Compulsion Games / Montreal studio area",
+        "sort_place_label": "カナダ-Compulsion Games / Montreal studio area",
+        "geocode_query": "Compulsion Games Montreal Quebec Canada",
         "place_type": "studio_site",
-        "location_precision": "city",
-        "place_reason": "game-all未解決記事にSouth of Midnight開発元Compulsion Gamesの閉鎖リスクが明示されているため、同スタジオの所在地としてモントリオールに置く（一致語: Report: Multiple Xbox game studio heads negotiating）",
-        "confidence": 0.84,
+        "location_precision": "studio_area",
+        "place_reason": "Compulsion Gamesの記事なので、モントリオール市代表点ではなく同スタジオ周辺として扱う。番地を確実に固定できるまではstudio_areaに止める（一致語: Report: Multiple Xbox game studio heads negotiating）",
+        "confidence": 0.72,
         "rule_id": "observed_compulsion_games_south_of_midnight_montreal_202606",
         "matched_text": "Report: Multiple Xbox game studio heads negotiating",
         "match_source": "known_place_title"
@@ -2180,14 +2180,14 @@
         "source": "GamesIndustry.biz Latest Articles Feed",
         "link": "https://www.gamesindustry.biz/big-walks-creators-reflect-on-their-six-year-journey",
         "published_at": "2026-06-09T15:00:00+00:00",
-        "representative_place": "House House / Big Walk",
-        "place_label": "オーストラリア-ビクトリア州-メルボルン",
-        "sort_place_label": "オーストラリア-ビクトリア州-メルボルン",
-        "geocode_query": "Melbourne Victoria Australia",
+        "representative_place": "House House / Melbourne studio area",
+        "place_label": "オーストラリア-House House / Melbourne studio area",
+        "sort_place_label": "オーストラリア-House House / Melbourne studio area",
+        "geocode_query": "House House Melbourne Victoria Australia",
         "place_type": "studio_site",
-        "location_precision": "city",
-        "place_reason": "game-all未解決記事のsummaryに『Melbourne-based developer House House』と明示されているため、House Houseの所在地としてメルボルンに置く（一致語: Big Walk's creators reflect on their six-year journey）",
-        "confidence": 0.92,
+        "location_precision": "studio_area",
+        "place_reason": "House Houseの記事なので、メルボルン市代表点ではなく同スタジオ周辺として扱う。公開住所を確実に固定できるまではstudio_areaに止める（一致語: Big Walk's creators reflect on their six-year journey）",
+        "confidence": 0.74,
         "rule_id": "observed_house_house_big_walk_melbourne_202606",
         "matched_text": "Big Walk's creators reflect on their six-year journey",
         "match_source": "known_place_title"
@@ -2477,14 +2477,14 @@
         "source": "Game*Spark",
         "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1hckg1dHdoeU9aTzV1R09Ib2hyeFZQUEhTNWwtVGFIaGxyZ29HVUhZVzBxSV8zYjJicjdnSHFEd2MwajNrb0xNdnB1ZkNfN2NGZzJaelpxRUt2RW4wX1I5WnVqUV9oQQ?oc=5",
         "published_at": "2026-06-04T07:00:00+00:00",
-        "representative_place": "PlayerUnknown Productions",
-        "place_label": "オランダ-アムステルダム",
-        "sort_place_label": "オランダ-アムステルダム",
+        "representative_place": "PlayerUnknown Productions / Amsterdam studio area",
+        "place_label": "PlayerUnknown Productions / Amsterdam studio area",
+        "sort_place_label": "PlayerUnknown Productions / Amsterdam studio area",
         "geocode_query": "PlayerUnknown Productions Amsterdam Netherlands",
         "place_type": "studio_site",
-        "location_precision": "city",
-        "place_reason": "game-all未解決記事にPUBGを生んだブレンダン・グリーン氏のスタジオ再編が明示されているため、PlayerUnknown Productionsの所在地としてアムステルダムに置く（一致語: PUBG』生んだクリエイターのスタジオ）",
-        "confidence": 0.76,
+        "location_precision": "studio_area",
+        "place_reason": "PlayerUnknown Productionsの記事なので、アムステルダム市代表点ではなく同スタジオ周辺として扱う。番地を確実に固定できるまではstudio_areaに止める（一致語: PUBG』生んだクリエイターのスタジオ）",
+        "confidence": 0.7,
         "rule_id": "observed_playerunknown_productions_restructure_amsterdam_202606",
         "matched_text": "PUBG』生んだクリエイターのスタジオ",
         "match_source": "known_place_title"
@@ -2585,14 +2585,14 @@
         "source": "Game World Observer",
         "link": "https://gameworldobserver.com/2026/06/01/atari-just-got-bigger-it-has-acquired-the-creators-of-crossy-road",
         "published_at": "2026-06-01T11:39:42+00:00",
-        "representative_place": "Hipster Whale / Crossy Road",
-        "place_label": "オーストラリア-ビクトリア州-メルボルン",
-        "sort_place_label": "オーストラリア-ビクトリア州-メルボルン",
-        "geocode_query": "Hipster Whale Melbourne Australia",
+        "representative_place": "Hipster Whale / Melbourne studio area",
+        "place_label": "オーストラリア-Hipster Whale / Melbourne studio area",
+        "sort_place_label": "オーストラリア-Hipster Whale / Melbourne studio area",
+        "geocode_query": "Hipster Whale Melbourne Victoria Australia",
         "place_type": "studio_site",
-        "location_precision": "city",
-        "place_reason": "game-all未解決記事のsummaryにAtariによるCrossy Road開発元Hipster Whale買収が明示されているため、同スタジオ所在地としてメルボルンに置く（一致語: Atari just got bigger: it has acquired the creators of Crossy Road）",
-        "confidence": 0.82,
+        "location_precision": "studio_area",
+        "place_reason": "Hipster Whaleの記事なので、メルボルン市代表点ではなく同スタジオ周辺として扱う。公開住所を確実に固定できるまではstudio_areaに止める（一致語: Atari just got bigger: it has acquired the creators of Crossy Road）",
+        "confidence": 0.72,
         "rule_id": "observed_hipster_whale_atari_acquisition_melbourne_202606",
         "matched_text": "Atari just got bigger: it has acquired the creators of Crossy Road",
         "match_source": "known_place_title"
@@ -2882,14 +2882,14 @@
         "source": "Game World Observer",
         "link": "https://gameworldobserver.com/2026/04/30/pearl-abyss-sold-the-creators-of-eve-online-for-much-less-than-it-purchased-them-for",
         "published_at": "2026-04-30T12:58:08+00:00",
-        "representative_place": "CCP Games / EVE Online",
-        "place_label": "アイスランド-レイキャビク",
-        "sort_place_label": "アイスランド-レイキャビク",
+        "representative_place": "CCP Games / Reykjavík headquarters area",
+        "place_label": "CCP Games / Reykjavík headquarters area",
+        "sort_place_label": "CCP Games / Reykjavík headquarters area",
         "geocode_query": "CCP Games Reykjavik Iceland",
         "place_type": "studio_site",
-        "location_precision": "city",
-        "place_reason": "game-all未解決記事のsummaryにPearl AbyssがCCP Gamesを経営陣に売却すると明示されているため、CCP Gamesの所在地としてレイキャビクに置く（一致語: Pearl Abyss sold the creators of EVE Online）",
-        "confidence": 0.84,
+        "location_precision": "headquarters_area",
+        "place_reason": "CCP Gamesの記事なので、レイキャビク市代表点ではなく同社本社周辺として扱う。番地を確実に固定できるまではheadquarters_areaに止める（一致語: Pearl Abyss sold the creators of EVE Online）",
+        "confidence": 0.72,
         "rule_id": "observed_ccp_games_pearl_abyss_sale_reykjavik_202604",
         "matched_text": "Pearl Abyss sold the creators of EVE Online",
         "match_source": "known_place_title"
@@ -3440,33 +3440,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.3259,
-          51.0629
-        ]
-      },
-      "properties": {
-        "title": "セガの英国スタジオCreative Assembly、『Total War(TM)』シリーズ25周年を記念し、年末の新作やコンテンツ発表を告知 - PR TIMES",
-        "source": "PR TIMES",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBhbjRkZkJwRWpxWW5JbFlBckFxZ29VYklFRWZSZk1vVWhXMm1ycXByN3ZMWkZka2FXMWQyTmlrUFJTcFJJYWFUVDJvTHRXNmlPZVMtT2dia19yRzVocmU3QUMyZzJDMVRHbGc?oc=5",
-        "published_at": "2025-06-16T07:00:00+00:00",
-        "representative_place": "Creative Assembly / Horsham studio area",
-        "place_label": "Creative Assembly / Horsham studio area",
-        "sort_place_label": "Creative Assembly / Horsham studio area",
-        "geocode_query": "Creative Assembly Horsham England",
-        "place_type": "studio_site",
-        "location_precision": "studio_area",
-        "place_reason": "Alien Isolation 2の記事はCreative Assemblyが主体なので、ホーシャム市代表点ではなくCreative Assemblyスタジオ周辺として置く。住所まで確実に固定せず、スタジオ周辺粒度に止める（一致語: Creative Assembly）",
-        "confidence": 0.76,
-        "rule_id": "observed_creative_assembly_alien_isolation_2_horsham_202606",
-        "matched_text": "Creative Assembly",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           108.2772,
           14.0583
         ]
@@ -3540,33 +3513,6 @@
         "confidence": 0.72,
         "rule_id": "observed_indonesia_game_creators_radar_202505",
         "matched_text": "Indonesia Should Be on Every Game Creators Radar",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.1376,
-          51.5144
-        ]
-      },
-      "properties": {
-        "title": "“Triple-i Initiative”第2回が4月11日1時より配信、『Balatoro』Playstackも参加。45分間広告なしノンストップのインディー配信イベント【37の開発スタジオが集結】 - ファミ通",
-        "source": "ファミ通",
-        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5Va3VCZzE4ei0wei1od1FIVjJnZkZzUHNzYmNVek55YlRaQ3QtM216MFE0dE8tSlB0TmxyUGl3UXQxdndfV3JERWVTSUswMkZSMnEyLUY4bw?oc=5",
-        "published_at": "2025-03-27T07:00:00+00:00",
-        "representative_place": "Playstack Ltd. / 56A Poland St",
-        "place_label": "英国-イングランド-ロンドン-ソーホー-56A Poland St",
-        "sort_place_label": "英国-イングランド-ロンドン-ソーホー-56A Poland St",
-        "geocode_query": "56A Poland St London W1F 7NN United Kingdom",
-        "place_type": "publisher_site",
-        "location_precision": "street_address",
-        "place_reason": "Playstackは56A Poland St, London W1F 7NNの住所まで確認できるため、ロンドン市代表点ではなく住所単位に置く（一致語: Playstack）",
-        "confidence": 0.9,
-        "rule_id": "observed_playstack_imc_sale_london_202606",
-        "matched_text": "Playstack",
         "match_source": "known_place_title"
       }
     },
