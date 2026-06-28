@@ -1,8 +1,8 @@
 {
   "type": "FeatureCollection",
   "properties": {
-    "created_at": "2026-06-28T23:50:16.257178+00:00",
-    "count": 150,
+    "created_at": "2026-06-28T23:56:35.621875+00:00",
+    "count": 139,
     "stats": {
       "feed_id": "game-all",
       "feed_label": "ゲーム",
@@ -28,7 +28,7 @@
         "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja"
       ],
       "rss_url": "https://www.gamedeveloper.com/rss.xml",
-      "fetched": 989,
+      "fetched": 987,
       "fetched_by_url": {
         "https://www.gamedeveloper.com/rss.xml": 50,
         "https://www.gamesindustry.biz/feed": 100,
@@ -41,18 +41,18 @@
         "https://www.kakuchopurei.com/feed/": 10,
         "https://www.afkgaming.com/feed": 0,
         "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20India&hl=en-IN&gl=IN&ceid=IN:en": 80,
-        "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Philippines&hl=en-PH&gl=PH&ceid=PH:en": 78,
-        "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Eastern%20Europe&hl=en&gl=PL&ceid=PL:en": 74,
+        "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Philippines&hl=en-PH&gl=PH&ceid=PH:en": 77,
+        "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Eastern%20Europe&hl=en&gl=PL&ceid=PL:en": 70,
         "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Africa&hl=en&gl=ZA&ceid=ZA:en": 79,
         "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Southeast%20Asia&hl=en-SG&gl=SG&ceid=SG:en": 77,
-        "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA&hl=ja&gl=JP&ceid=JP:ja": 75,
+        "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA&hl=ja&gl=JP&ceid=JP:ja": 74,
         "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja": 79,
         "https://news.google.com/rss/search?q=%E6%B5%B7%E5%A4%96%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA&hl=ja&gl=JP&ceid=JP:ja": 75,
         "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja": 77
       },
-      "filtered": 907,
-      "resolved": 150,
-      "unresolved": 757,
+      "filtered": 904,
+      "resolved": 139,
+      "unresolved": 765,
       "rules": 142,
       "known_places": 144,
       "loaded_data_files": [
@@ -134,8 +134,8 @@
         "geocode_query": "IO Interactive Copenhagen Denmark",
         "place_type": "studio_site",
         "location_precision": "headquarters_area",
-        "place_reason": "007 First Lightの記事はIO Interactiveが主体なので、コペンハーゲン市代表点ではなくIO Interactive本社周辺として置く。住所まで確実に固定せず、本社周辺粒度に止める（一致語: 『007』シリーズ新作ゲーム）",
-        "confidence": 0.76,
+        "place_reason": "IO Interactiveという社名だけで一般的なマーケティング記事まで拾っていたため、007 First Light / James Bondゲーム系の記事に絞ってコペンハーゲン本社周辺として扱う（一致語: 『007』シリーズ新作ゲーム）",
+        "confidence": 0.78,
         "rule_id": "observed_io_interactive_007_first_light_copenhagen_202606",
         "matched_text": "『007』シリーズ新作ゲーム",
         "match_source": "known_place_title"
@@ -254,33 +254,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.578,
-          55.6785
-        ]
-      },
-      "properties": {
-        "title": "Five things to avoid when marketing your indie game | Opinion",
-        "source": "GamesIndustry.biz Latest Articles Feed",
-        "link": "https://www.gamesindustry.biz/five-things-to-avoid-when-marketing-your-indie-game-opinion",
-        "published_at": "2026-06-26T14:07:12+00:00",
-        "representative_place": "IO Interactive / Copenhagen headquarters area",
-        "place_label": "IO Interactive / Copenhagen headquarters area",
-        "sort_place_label": "IO Interactive / Copenhagen headquarters area",
-        "geocode_query": "IO Interactive Copenhagen Denmark",
-        "place_type": "studio_site",
-        "location_precision": "headquarters_area",
-        "place_reason": "007 First Lightの記事はIO Interactiveが主体なので、コペンハーゲン市代表点ではなくIO Interactive本社周辺として置く。住所まで確実に固定せず、本社周辺粒度に止める",
-        "confidence": 0.76,
-        "rule_id": "observed_io_interactive_007_first_light_copenhagen_202606",
-        "matched_text": "IO Interactive",
-        "match_source": "rule"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           121.5637,
           31.21
         ]
@@ -323,8 +296,8 @@
         "geocode_query": "IO Interactive Copenhagen Denmark",
         "place_type": "studio_site",
         "location_precision": "headquarters_area",
-        "place_reason": "007 First Lightの記事はIO Interactiveが主体なので、コペンハーゲン市代表点ではなくIO Interactive本社周辺として置く。住所まで確実に固定せず、本社周辺粒度に止める（一致語: 007 First Light）",
-        "confidence": 0.76,
+        "place_reason": "IO Interactiveという社名だけで一般的なマーケティング記事まで拾っていたため、007 First Light / James Bondゲーム系の記事に絞ってコペンハーゲン本社周辺として扱う（一致語: 007 First Light）",
+        "confidence": 0.78,
         "rule_id": "observed_io_interactive_007_first_light_copenhagen_202606",
         "matched_text": "007 First Light",
         "match_source": "known_place_title"
@@ -377,7 +350,7 @@
         "geocode_query": "34BigThings Turin Italy",
         "place_type": "studio_site",
         "location_precision": "studio_area",
-        "place_reason": "34BigThingsの記事なので、イタリア国代表点ではなくトリノのスタジオ周辺として扱う。番地を確実に固定できるまではstudio_areaに止める（一致語: 34BigThings spins out）",
+        "place_reason": "Turinだけで別会社の記事を拾っていたため、34BigThings明示記事に絞ってトリノのスタジオ周辺として扱う（一致語: 34BigThings spins out）",
         "confidence": 0.76,
         "rule_id": "observed_34bigthings_italy_202606",
         "matched_text": "34BigThings spins out",
@@ -701,10 +674,10 @@
         "geocode_query": "34BigThings Turin Italy",
         "place_type": "studio_site",
         "location_precision": "studio_area",
-        "place_reason": "34BigThingsの記事なので、イタリア国代表点ではなくトリノのスタジオ周辺として扱う。番地を確実に固定できるまではstudio_areaに止める（一致語: Italian studio 34BigThings）",
+        "place_reason": "Turinだけで別会社の記事を拾っていたため、34BigThings明示記事に絞ってトリノのスタジオ周辺として扱う（一致語: 34BigThings regains independence）",
         "confidence": 0.76,
         "rule_id": "observed_34bigthings_italy_202606",
-        "matched_text": "Italian studio 34BigThings",
+        "matched_text": "34BigThings regains independence",
         "match_source": "known_place_title"
       }
     },
@@ -914,11 +887,11 @@
         "representative_place": "miHoYo / HoYoverse Shanghai studio area",
         "place_label": "中国-上海市",
         "sort_place_label": "中国-上海市",
-        "geocode_query": "miHoYo Xuhui Shanghai China",
+        "geocode_query": "miHoYo HoYoverse Xuhui Shanghai China",
         "place_type": "studio_site",
         "location_precision": "district",
-        "place_reason": "HoYoverse/miHoYoの記事なので、上海市代表点ではなくmiHoYo/HoYoverseのスタジオ周辺として徐匯区側に置く。住所固定ではなく地区粒度に止める（一致語: HoYoverse’s new game Honkai: Nexus Anima）",
-        "confidence": 0.72,
+        "place_reason": "miHoYoという会社名だけで北京イベントまで上海に吸っていたため、Honkai: Nexus Anima系の記事に絞って上海のHoYoverse周辺として扱う（一致語: HoYoverse’s new game Honkai: Nexus Anima）",
+        "confidence": 0.76,
         "rule_id": "observed_hoyoverse_honkai_nexus_anima_shanghai_202606",
         "matched_text": "HoYoverse’s new game Honkai: Nexus Anima",
         "match_source": "known_place_title"
@@ -1265,11 +1238,11 @@
         "representative_place": "miHoYo / HoYoverse Shanghai studio area",
         "place_label": "中国-上海市",
         "sort_place_label": "中国-上海市",
-        "geocode_query": "miHoYo Xuhui Shanghai China",
+        "geocode_query": "miHoYo HoYoverse Xuhui Shanghai China",
         "place_type": "studio_site",
         "location_precision": "district",
-        "place_reason": "HoYoverse/miHoYoの記事なので、上海市代表点ではなくmiHoYo/HoYoverseのスタジオ周辺として徐匯区側に置く。住所固定ではなく地区粒度に止める（一致語: Hoyoverse’s take on the Pokémon formula）",
-        "confidence": 0.72,
+        "place_reason": "miHoYoという会社名だけで北京イベントまで上海に吸っていたため、Honkai: Nexus Anima系の記事に絞って上海のHoYoverse周辺として扱う（一致語: Hoyoverse’s take on the Pokémon formula）",
+        "confidence": 0.76,
         "rule_id": "observed_hoyoverse_honkai_nexus_anima_shanghai_202606",
         "matched_text": "Hoyoverse’s take on the Pokémon formula",
         "match_source": "known_place_title"
@@ -1457,37 +1430,10 @@
         "geocode_query": "CD PROJEKT Warsaw Poland",
         "place_type": "studio_site",
         "location_precision": "headquarters_area",
-        "place_reason": "CD Projektの記事なので、ポーランド国代表点ではなくワルシャワのCD PROJEKT本社周辺として扱う。番地を確実に固定できるまではheadquarters_areaに止める（一致語: CD Projekt joint-CEO）",
+        "place_reason": "CD Projektという語だけで出身者・元社員記事まで拾っていたため、CD PROJEKT自体が記事主語の見出しに絞ってワルシャワ本社周辺として扱う（一致語: CD Projekt joint-CEO）",
         "confidence": 0.8,
         "rule_id": "observed_cd_projekt_polish_giant_202606",
         "matched_text": "CD Projekt joint-CEO",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.982,
-          50.9473
-        ]
-      },
-      "properties": {
-        "title": "GamesConnect AFRICA Launches Open Call for gamescom dev Scholarships",
-        "source": "Games Industry Africa",
-        "link": "https://gamesindustryafrica.com/2026/06/22/gamesconnect-africa-launches-open-call-for-gamescom-dev-scholarships/?utm_source=rss&utm_medium=rss&utm_campaign=gamesconnect-africa-launches-open-call-for-gamescom-dev-scholarships",
-        "published_at": "2026-06-22T04:34:00+00:00",
-        "representative_place": "Arabic Games and Devcom scholarship / Koelnmesse",
-        "place_label": "ドイツ-ノルトライン＝ヴェストファーレン州-ケルン-Koelnmesse",
-        "sort_place_label": "ドイツ-ノルトライン＝ヴェストファーレン州-ケルン-Koelnmesse",
-        "geocode_query": "Koelnmesse Messeplatz 1 Cologne Germany",
-        "place_type": "event_site",
-        "location_precision": "venue",
-        "place_reason": "devcom / gamescom参加先の記事なので、ケルン市代表点ではなくKoelnmesse会場単位に置く（一致語: gamescom）",
-        "confidence": 0.84,
-        "rule_id": "observed_arabic_games_devcom_cologne_202606",
-        "matched_text": "gamescom",
         "match_source": "known_place_title"
       }
     },
@@ -2171,33 +2117,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.6869,
-          45.0703
-        ]
-      },
-      "properties": {
-        "title": "Ubisoft closing studios in Winnipeg and Belgrade and cutting publishing roles worldwide, 380 jobs at risk",
-        "source": "GamesIndustry.biz Latest Articles Feed",
-        "link": "https://www.gamesindustry.biz/ubisoft-closing-studios-in-winnipeg-and-belgrade-and-cutting-publishing-roles-worldwide-380-jobs-at-risk",
-        "published_at": "2026-06-10T17:00:00+00:00",
-        "representative_place": "34BigThings / Turin studio area",
-        "place_label": "イタリア-34BigThings / Turin studio area",
-        "sort_place_label": "イタリア-34BigThings / Turin studio area",
-        "geocode_query": "34BigThings Turin Italy",
-        "place_type": "studio_site",
-        "location_precision": "studio_area",
-        "place_reason": "34BigThingsの記事なので、イタリア国代表点ではなくトリノのスタジオ周辺として扱う。番地を確実に固定できるまではstudio_areaに止める",
-        "confidence": 0.76,
-        "rule_id": "observed_34bigthings_italy_202606",
-        "matched_text": "Turin",
-        "match_source": "rule"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           0.1771,
           52.1829
         ]
@@ -2792,8 +2711,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.4368,
-          31.1846
+          116.4074,
+          39.9042
         ]
       },
       "properties": {
@@ -2801,17 +2720,17 @@
         "source": "Game World Observer",
         "link": "https://gameworldobserver.com/2026/05/26/the-creators-of-genshin-impact-will-spend-nearly-15-billion-on-ai",
         "published_at": "2026-05-26T13:06:24+00:00",
-        "representative_place": "miHoYo / HoYoverse Shanghai studio area",
-        "place_label": "中国-上海市",
-        "sort_place_label": "中国-上海市",
-        "geocode_query": "miHoYo Xuhui Shanghai China",
-        "place_type": "studio_site",
-        "location_precision": "district",
-        "place_reason": "HoYoverse/miHoYoの記事なので、上海市代表点ではなくmiHoYo/HoYoverseのスタジオ周辺として徐匯区側に置く。住所固定ではなく地区粒度に止める",
-        "confidence": 0.72,
-        "rule_id": "observed_hoyoverse_honkai_nexus_anima_shanghai_202606",
-        "matched_text": "miHoYo",
-        "match_source": "rule"
+        "representative_place": "miHoYo AI event in Beijing / event area",
+        "place_label": "中国-北京市",
+        "sort_place_label": "中国-北京市",
+        "geocode_query": "miHoYo AI event Beijing China venue",
+        "place_type": "event_site",
+        "location_precision": "event_area",
+        "place_reason": "北京のAIイベントでの発表記事なので、miHoYo/HoYoverse一般の上海スタジオではなく北京イベント地点として扱う。会場名・番地を確実に固定できるまではevent_areaに止める（一致語: The creators of Genshin Impact will spend nearly $15 billion on AI）",
+        "confidence": 0.76,
+        "rule_id": "observed_mihoyo_ai_beijing_event_202605",
+        "matched_text": "The creators of Genshin Impact will spend nearly $15 billion on AI",
+        "match_source": "known_place_title"
       }
     },
     {
@@ -2838,33 +2757,6 @@
         "confidence": 0.54,
         "rule_id": "observed_sea_sgf_timezone_202605",
         "matched_text": "Summer Game Fest Showcase — In Southeast Asian Timezone",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "title": "Ukraine’s Video Game Industry Is a Soft Power Superweapon - uatv.ua",
-        "source": "uatv.ua",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSi1vdVJHd0xobXZFWU5IVGNZczJkRk1xMkxzMTRrZTdLWTJ3cm56bTlEazQxekUyek04ZmFqd2lIMkxFVkNYVWYwdlZWMzF6VXJ2M1NndUFfV3hObjN3ZzBkcXhHMDliU2lTTnp4ZzRlSzZWNzk3TXR3akl1YjZCQWZXVQ?oc=5",
-        "published_at": "2026-05-18T07:00:00+00:00",
-        "representative_place": "Ukraine video game industry topic",
-        "place_label": "ウクライナ-ゲーム産業",
-        "sort_place_label": "ウクライナ-ゲーム産業",
-        "geocode_query": "Ukraine video game industry",
-        "place_type": "industry_topic",
-        "location_precision": "country_industry_topic",
-        "place_reason": "ウクライナのゲーム産業全体の記事なので、単なるウクライナではなくゲーム産業トピックとしてラベルを分ける（一致語: Ukraine’s Video Game Industry）",
-        "confidence": 0.78,
-        "rule_id": "observed_ukraine_video_game_industry_202605",
-        "matched_text": "Ukraine’s Video Game Industry",
         "match_source": "known_place_title"
       }
     },
@@ -3305,33 +3197,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          21.0122,
-          52.2297
-        ]
-      },
-      "properties": {
-        "title": "The second-best year in CD PROJEKT’s history — and more from the company’s report",
-        "source": "Game World Observer",
-        "link": "https://gameworldobserver.com/2026/03/20/the-second-best-year-in-cd-projekts-history-and-more-from-the-companys-report",
-        "published_at": "2026-03-20T12:32:15+00:00",
-        "representative_place": "CD PROJEKT / Warsaw headquarters area",
-        "place_label": "ポーランド-ワルシャワ",
-        "sort_place_label": "ポーランド-ワルシャワ",
-        "geocode_query": "CD PROJEKT Warsaw Poland",
-        "place_type": "studio_site",
-        "location_precision": "headquarters_area",
-        "place_reason": "CD Projektの記事なので、ポーランド国代表点ではなくワルシャワのCD PROJEKT本社周辺として扱う。番地を確実に固定できるまではheadquarters_areaに止める（一致語: CD Projekt）",
-        "confidence": 0.8,
-        "rule_id": "observed_cd_projekt_polish_giant_202606",
-        "matched_text": "CD Projekt",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           22.9375,
           -30.5595
         ]
@@ -3540,33 +3405,6 @@
         "confidence": 0.72,
         "rule_id": "observed_avalanche_studios_just_cause_stockholm_202604",
         "matched_text": "Avalanche Studios",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.982,
-          50.9473
-        ]
-      },
-      "properties": {
-        "title": "Gamescom: How is Poland's gaming industry faring? - dw.com",
-        "source": "dw.com",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTGJfR2VoUjF0NW1WZXc1UWpoenFHbU5jRzZ3WXlYS3ZCd2JPMVhodVpaWHEtcWY5c05peGxNQ2t3M21OeEtsUHNyeDVtVTBqTjVVYy1TQ0RIWXRhTGsxU29PU1FGRWhtY3JRcllvUFphUE5JcENmSllaTVYyV1I5Y2ZmcUloQdIBhgFBVV95cUxOQ1FhTnNLYy1EZ3VwSXBaSGFwNTJXWmJ1VVA3aDhkeVhoRHlPMUJrSlY3SjVGbGR5ZzFrSDhRV0JsRzlwV1doU0JPaGtkelVZdFFNOTM4QUNiMnZ5a0ZkR1VkTU1Tbk9NR09hT1RIeTUxQjNoMVlxSUsxOWFSREg1WGFMUWd3UQ?oc=5",
-        "published_at": "2025-08-22T07:00:00+00:00",
-        "representative_place": "Arabic Games and Devcom scholarship / Koelnmesse",
-        "place_label": "ドイツ-ノルトライン＝ヴェストファーレン州-ケルン-Koelnmesse",
-        "sort_place_label": "ドイツ-ノルトライン＝ヴェストファーレン州-ケルン-Koelnmesse",
-        "geocode_query": "Koelnmesse Messeplatz 1 Cologne Germany",
-        "place_type": "event_site",
-        "location_precision": "venue",
-        "place_reason": "devcom / gamescom参加先の記事なので、ケルン市代表点ではなくKoelnmesse会場単位に置く（一致語: gamescom）",
-        "confidence": 0.84,
-        "rule_id": "observed_arabic_games_devcom_cologne_202606",
-        "matched_text": "gamescom",
         "match_source": "known_place_title"
       }
     },
@@ -3818,87 +3656,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          21.0122,
-          52.2297
-        ]
-      },
-      "properties": {
-        "title": "中世舞台の4XストラテジーRPG新作『Liegecraft』発表！CD PROJEKT RED、Paradox、11 bit出身者からなる新興スタジオ開発 - Game*Spark",
-        "source": "Game*Spark",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9qajladGxGTl9Ja2dQbGNJanJualRCUHpIR3RCQ1VPQzM3cm1ad1NEUUdIUkdidjl2OE9jd2FZWFZZWGFjRi1rMzdVc29Lci02N2toblFPeGhXa0lnQXVNVF9FY0lMdw?oc=5",
-        "published_at": "2024-10-25T07:00:00+00:00",
-        "representative_place": "CD PROJEKT / Warsaw headquarters area",
-        "place_label": "ポーランド-ワルシャワ",
-        "sort_place_label": "ポーランド-ワルシャワ",
-        "geocode_query": "CD PROJEKT Warsaw Poland",
-        "place_type": "studio_site",
-        "location_precision": "headquarters_area",
-        "place_reason": "CD Projektの記事なので、ポーランド国代表点ではなくワルシャワのCD PROJEKT本社周辺として扱う。番地を確実に固定できるまではheadquarters_areaに止める（一致語: CD Projekt）",
-        "confidence": 0.8,
-        "rule_id": "observed_cd_projekt_polish_giant_202606",
-        "matched_text": "CD Projekt",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.982,
-          50.9473
-        ]
-      },
-      "properties": {
-        "title": "『REANIMAL』は『リトルナイトメア』を越えて、さらなる新しいホラーアドベンチャーを目指す。開発会社Tarsier Studiosに聞く【gamescom 2024】 - ファミ通",
-        "source": "ファミ通",
-        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE45V3RWUTVBRkJBemxrTXk4cXRKb2U0XzZNbnQ2aktvTzhtR1pCaEVwb2FyWWhwMURZNDV5b1ZYb21aM0dxcU9rTGVUVnB4djBuQmhaQk5lOA?oc=5",
-        "published_at": "2024-08-25T07:00:00+00:00",
-        "representative_place": "Arabic Games and Devcom scholarship / Koelnmesse",
-        "place_label": "ドイツ-ノルトライン＝ヴェストファーレン州-ケルン-Koelnmesse",
-        "sort_place_label": "ドイツ-ノルトライン＝ヴェストファーレン州-ケルン-Koelnmesse",
-        "geocode_query": "Koelnmesse Messeplatz 1 Cologne Germany",
-        "place_type": "event_site",
-        "location_precision": "venue",
-        "place_reason": "devcom / gamescom参加先の記事なので、ケルン市代表点ではなくKoelnmesse会場単位に置く（一致語: gamescom）",
-        "confidence": 0.84,
-        "rule_id": "observed_arabic_games_devcom_cologne_202606",
-        "matched_text": "gamescom",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.982,
-          50.9473
-        ]
-      },
-      "properties": {
-        "title": "India Pavilion at Gamescom 2024 to Highlight Local Game Studios - IGN India",
-        "source": "IGN India",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdExtUnlxS0Fmc25HTGlFYXNoV25zUllmc2JHZHVZb3k2c2dEeFJQaXo0SGFmS1ZhQVc2SnRHYVMwUEJSV1FXMXBpUnpMTGRyb1A5TFd6Z2RyUDlyNm9la1VnVmtJNnkxTWlHMlJ3SE56cFlrVkVkWG90LTBKbXNUd2dyb3BZUVJsSmNpeE1VRWt0X1M3Nm0tSFg3NFpOcFJ5TUZv?oc=5",
-        "published_at": "2024-08-21T07:00:00+00:00",
-        "representative_place": "Arabic Games and Devcom scholarship / Koelnmesse",
-        "place_label": "ドイツ-ノルトライン＝ヴェストファーレン州-ケルン-Koelnmesse",
-        "sort_place_label": "ドイツ-ノルトライン＝ヴェストファーレン州-ケルン-Koelnmesse",
-        "geocode_query": "Koelnmesse Messeplatz 1 Cologne Germany",
-        "place_type": "event_site",
-        "location_precision": "venue",
-        "place_reason": "devcom / gamescom参加先の記事なので、ケルン市代表点ではなくKoelnmesse会場単位に置く（一致語: gamescom）",
-        "confidence": 0.84,
-        "rule_id": "observed_arabic_games_devcom_cologne_202606",
-        "matched_text": "gamescom",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           121.774,
           12.8797
         ]
@@ -4061,60 +3818,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.982,
-          50.9473
-        ]
-      },
-      "properties": {
-        "title": "Gamescom Asia Speaker Lineup Highlights Key Figures in Southeast Asia’s Game Industry - IGN Southeast Asia",
-        "source": "IGN Southeast Asia",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPS3Q2LUEwcTR4SzMzY053b1ZtOC1hT1FqM0d2Y0FLVWNhQUdfR1p4UHNIVjE4VElOWnh0cUZucVVuSTNDbnBnMzdNZFFTbUdCekJRMWpzRWJuMktfcG12RXpDUzlwQkF4ZzQyQlFRdlBrQ2xteVVoRVJHSFdFU3RzNWpDc1JYOExPY1Zkb3pjMGdlZ0dXRjMyWlpLb3RxWTlhTjJ2alVaTzJEaUlWZndDVVp1Wm9xLXVYa2w1LW1BQ09vNGhscHQ5SEd3?oc=5",
-        "published_at": "2022-07-28T07:00:00+00:00",
-        "representative_place": "Arabic Games and Devcom scholarship / Koelnmesse",
-        "place_label": "ドイツ-ノルトライン＝ヴェストファーレン州-ケルン-Koelnmesse",
-        "sort_place_label": "ドイツ-ノルトライン＝ヴェストファーレン州-ケルン-Koelnmesse",
-        "geocode_query": "Koelnmesse Messeplatz 1 Cologne Germany",
-        "place_type": "event_site",
-        "location_precision": "venue",
-        "place_reason": "devcom / gamescom参加先の記事なので、ケルン市代表点ではなくKoelnmesse会場単位に置く（一致語: gamescom）",
-        "confidence": 0.84,
-        "rule_id": "observed_arabic_games_devcom_cologne_202606",
-        "matched_text": "gamescom",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          121.0508,
-          14.5503
-        ]
-      },
-      "properties": {
-        "title": "Q&A: Ubisoft Philippines studio art director JP Tan on their work on ‘AC: Valhalla’ - Rappler",
-        "source": "Rappler",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTWhRZkVYVXZ6V2tPeGJRNlp6YWRzWUxVcFB4cURXOUpWaUJJVzhXQ3luWl81djl6TjMxMHFTWDAydV9nb2RkYjUwMUJRbWpOXzh2SzlIRnFUcXJoM3g0M1pZX0p3Q2JZYUhTYXJ6ZlJ3UXlrRTZ2eDJhRHlSMzcxQ0Z0RFRHNVdrM0RYTENxM0k0ZklxeXp5VGJqRm9PMHZ6QkdDWkhka3JQazFISV9VOQ?oc=5",
-        "published_at": "2020-09-14T07:00:00+00:00",
-        "representative_place": "Ubisoft Philippines / BGC",
-        "place_label": "フィリピン-マニラ首都圏-タギッグ-BGC",
-        "sort_place_label": "フィリピン-マニラ首都圏-タギッグ-BGC",
-        "geocode_query": "Bonifacio Global City Taguig Philippines",
-        "place_type": "studio_site",
-        "location_precision": "district",
-        "place_reason": "未解決記事に『Ubisoft Philippines』が出ており、別の未解決タイトルでは『New Office In BGC』と明示されているためBGCに置く（一致語: Ubisoft Philippines）",
-        "confidence": 0.82,
-        "rule_id": "observed_ubisoft_philippines_industry_202502",
-        "matched_text": "Ubisoft Philippines",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           21.0122,
           52.2297
         ]
@@ -4130,10 +3833,10 @@
         "geocode_query": "CD PROJEKT Warsaw Poland",
         "place_type": "studio_site",
         "location_precision": "headquarters_area",
-        "place_reason": "CD Projektの記事なので、ポーランド国代表点ではなくワルシャワのCD PROJEKT本社周辺として扱う。番地を確実に固定できるまではheadquarters_areaに止める（一致語: CD Projekt）",
+        "place_reason": "CD Projektという語だけで出身者・元社員記事まで拾っていたため、CD PROJEKT自体が記事主語の見出しに絞ってワルシャワ本社周辺として扱う（一致語: Poland’s CD Projekt beats out Ubisoft）",
         "confidence": 0.8,
         "rule_id": "observed_cd_projekt_polish_giant_202606",
-        "matched_text": "CD Projekt",
+        "matched_text": "Poland’s CD Projekt beats out Ubisoft",
         "match_source": "known_place_title"
       }
     },
