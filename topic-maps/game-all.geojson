@@ -1,8 +1,8 @@
 {
   "type": "FeatureCollection",
   "properties": {
-    "created_at": "2026-06-28T16:50:52.284138+00:00",
-    "count": 87,
+    "created_at": "2026-06-28T17:23:43.862060+00:00",
+    "count": 85,
     "stats": {
       "feed_id": "game-all",
       "feed_label": "ゲーム",
@@ -28,7 +28,7 @@
         "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja"
       ],
       "rss_url": "https://www.gamedeveloper.com/rss.xml",
-      "fetched": 990,
+      "fetched": 961,
       "fetched_by_url": {
         "https://www.gamedeveloper.com/rss.xml": 50,
         "https://www.gamesindustry.biz/feed": 100,
@@ -40,19 +40,19 @@
         "https://www.nag.co.za/feed/": 10,
         "https://www.kakuchopurei.com/feed/": 10,
         "https://www.afkgaming.com/feed": 0,
-        "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20India&hl=en-IN&gl=IN&ceid=IN:en": 79,
+        "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20India&hl=en-IN&gl=IN&ceid=IN:en": 80,
         "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Philippines&hl=en-PH&gl=PH&ceid=PH:en": 78,
-        "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Eastern%20Europe&hl=en&gl=PL&ceid=PL:en": 74,
+        "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Eastern%20Europe&hl=en&gl=PL&ceid=PL:en": 43,
         "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Africa&hl=en&gl=ZA&ceid=ZA:en": 79,
         "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Southeast%20Asia&hl=en-SG&gl=SG&ceid=SG:en": 77,
         "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA&hl=ja&gl=JP&ceid=JP:ja": 75,
         "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja": 79,
         "https://news.google.com/rss/search?q=%E6%B5%B7%E5%A4%96%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA&hl=ja&gl=JP&ceid=JP:ja": 75,
-        "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja": 77
+        "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja": 78
       },
-      "filtered": 908,
-      "resolved": 87,
-      "unresolved": 821,
+      "filtered": 879,
+      "resolved": 85,
+      "unresolved": 794,
       "rules": 59,
       "known_places": 61,
       "loaded_data_files": [
@@ -1253,33 +1253,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "title": "Ukraine’s Video Game Industry Is a Soft Power Superweapon - uatv.ua",
-        "source": "uatv.ua",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSi1vdVJHd0xobXZFWU5IVGNZczJkRk1xMkxzMTRrZTdLWTJ3cm56bTlEazQxekUyek04ZmFqd2lIMkxFVkNYVWYwdlZWMzF6VXJ2M1NndUFfV3hObjN3ZzBkcXhHMDliU2lTTnp4ZzRlSzZWNzk3TXR3akl1YjZCQWZXVQ?oc=5",
-        "published_at": "2026-05-18T07:00:00+00:00",
-        "representative_place": "Ukraine video game industry",
-        "place_label": "ウクライナ",
-        "sort_place_label": "ウクライナ",
-        "geocode_query": "Ukraine",
-        "place_type": "industry_region",
-        "location_precision": "country",
-        "place_reason": "未解決記事のタイトルに『Ukraine’s Video Game Industry』とあり、ウクライナのゲーム産業を扱う記事として国単位に置く（一致語: Ukraine’s Video Game Industry）",
-        "confidence": 0.78,
-        "rule_id": "observed_ukraine_video_game_industry_202605",
-        "matched_text": "Ukraine’s Video Game Industry",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           33.0226,
           34.7071
         ]
@@ -1712,33 +1685,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -63.5752,
-          44.6488
-        ]
-      },
-      "properties": {
-        "title": "Ubisoft shuts down Halifax mobile gaming studio; affected employees hint at union busting - The Times of India",
-        "source": "The Times of India",
-        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOaWlRNmkxOG9laDFpRFJqSEIzZUpqclJwNm5Ga3NwN016c0F3Z0RYSFMzWXlvWmNqYko0dFdLTVE3cnYwRDVXaEpZWDZmYU5rZ0ZjWDVzaVVtajFTTGFJbkxYTjE2Ukg0NnNGcm9qaXBKYldXSzZBSllWLXUwX1ZyREp6ZXZaWm1FM3QwcHMwdUhhZ3dkZVJyY1BDTWRPVWpwajhpaWlRTTFMQnNSSFVKckdOekhQMl9XbElBTS00VGlNLW1rdjh4X19NRDJ0TGJUNWpwR25TNzdXMEx2UVZpeGVPcGZjTl80WkM0NWplUGNzUHBjeXlWWWE2N2jSAYICQVVfeXFMTU1DdVMxTnJuc3hfT1REZWxmUDRYc2lYa193ZTJaSEgzYlBxSDVEV3ZQclYtX1owQU5yb3o0X1lQSnZTUEs4azNiMmZBT0JIUzNVWlFHTTU5eFRJdEQ4V3lGVUhiVThTaEtULTNUVkZBQ0Q1ZENzOHNLZnlfUDlYNHR3bmlYc043VlQ4ZmNuM2JJRXBGdExiRUJGRktqZnFqYTVVa19OcUttRVhuR2pYaFIzQXFjanljc1pCY0JJUjRSdXRxRHZDeGRjemwzSGhVTFdjcThrRm10bWFMUUVQMGdqRHBWR1cwMWhiOVk1eUI2RGpEV2hTaHdwQVo1WDI1U0pn?oc=5",
-        "published_at": "2026-01-08T08:00:00+00:00",
-        "representative_place": "Halifax mobile gaming studio closure",
-        "place_label": "カナダ-ノバスコシア州-ハリファックス",
-        "sort_place_label": "カナダ-ノバスコシア州-ハリファックス",
-        "geocode_query": "Halifax Nova Scotia Canada",
-        "place_type": "studio_site",
-        "location_precision": "city",
-        "place_reason": "未解決記事のタイトルに『Halifax mobile gaming studio』と明示されているため、閉鎖対象のスタジオ所在地としてハリファックスに置く（一致語: Ubisoft shuts down Halifax mobile gaming studio）",
-        "confidence": 0.86,
-        "rule_id": "observed_ubisoft_halifax_closure_202601",
-        "matched_text": "Ubisoft shuts down Halifax mobile gaming studio",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           78.9629,
           20.5937
         ]
@@ -2144,8 +2090,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.774,
-          12.8797
+          -122.009,
+          37.3349
         ]
       },
       "properties": {
@@ -2153,16 +2099,16 @@
         "source": "Rappler",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRGlTN002MlZhX2hSSng4dEtqbmN6TFJ1MVo5QlVncVl3YmxLTk5ILUN4VlBObHhCM1ZBNExyMGlBQW5HdzZkWWpjSWNva3ZLNmlPX0hKNDZPMlBkbnpod3M3ZUFBNUpvR3ZXamI1WGY1WTBvbVpLa2xIaWZQd1lGai1lSjlUMS1yZTIxQ01rYi1IWlF4XzJ4WFFEUFlIVE5rdWdYdA?oc=5",
         "published_at": "2024-04-20T07:00:00+00:00",
-        "representative_place": "Fallen Tear made by Filipino developers",
-        "place_label": "フィリピン",
-        "sort_place_label": "フィリピン",
-        "geocode_query": "Philippines",
-        "place_type": "game_origin_region",
-        "location_precision": "country",
-        "place_reason": "未解決記事のタイトルに『made by Filipino devs』とあり、開発元の地域属性としてフィリピンに置く（一致語: Fallen Tear: The Ascension）",
-        "confidence": 0.72,
-        "rule_id": "observed_fallen_tear_filipino_devs_202604",
-        "matched_text": "Fallen Tear: The Ascension",
+        "representative_place": "Apple本社",
+        "place_label": "米国-カリフォルニア州-クパチーノ",
+        "sort_place_label": "米国-カリフォルニア州-クパチーノ",
+        "geocode_query": "Apple Park Cupertino California United States",
+        "place_type": "institution_site",
+        "location_precision": "campus",
+        "place_reason": "Apple製品・Apple社に関する記事を、企業主体の代表地点としてApple本社に置く（一致語: Apple）",
+        "confidence": 0.66,
+        "rule_id": "apple_cupertino_headquarters",
+        "matched_text": "Apple",
         "match_source": "known_place_title"
       }
     },
