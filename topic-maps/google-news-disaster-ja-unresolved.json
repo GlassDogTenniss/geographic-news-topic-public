@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "created_at": "2026-06-28T17:34:27.580478+00:00",
+  "created_at": "2026-06-28T22:28:12.926937+00:00",
   "stats": {
     "feed_id": "google-news-disaster-ja",
     "feed_label": "Google News: 災害・地震・大雨",
@@ -12,11 +12,11 @@
     "fetched_by_url": {
       "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja": 70
     },
-    "filtered": 61,
+    "filtered": 62,
     "resolved": 0,
-    "unresolved": 61,
-    "rules": 71,
-    "known_places": 73,
+    "unresolved": 62,
+    "rules": 94,
+    "known_places": 96,
     "loaded_data_files": [
       "data/place_rules.json",
       "data/unresolved_known_places_12.json",
@@ -420,6 +420,14 @@
       "feed_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
+      "title": "【京都大防災研から】大雨の時は土砂災害や氾濫リスクに備えてください - 読売新聞",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1qWVRuT0lMQkxCemJiUmxpLUYzS3B6TUlCaHlDNlJ4SFJnbS1kdDdXeHNTTXN5Zms5MU4yZ1VuVEdkb2Vocjc1ei1MNkZNblhIUVJNY1dONzRPMFQ2WXA1Mw?oc=5",
+      "source": "読売新聞",
+      "published_at": "2022-09-10T07:00:00+00:00",
+      "summary": "【京都大防災研から】大雨の時は土砂災害や氾濫リスクに備えてください    読売新聞",
+      "feed_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
       "title": "大雨ならキキクル活用を！浸水・土砂災害リスクを色で把握できる - 読売新聞",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB6c3ZRNmFjZlRDTDNoc2dpZE41eEo4U1NCWkV6d3Rtb1htUFFGN1VoMzh5NlBwcUM0ZTE1ZDZQZmlQaWZaU0EtbmdUU1NBczR5UUc4cjduRzR2aE1BUzFEVQ?oc=5",
       "source": "読売新聞",
@@ -428,11 +436,11 @@
       "feed_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
-      "title": "温暖化未対策なら70年後北海道も梅雨期に豪雨災害！九州の豪雨頻度1･5倍 - 読売新聞",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0zZ0IzZDJ3SkMzdGRqbUpuZ25xVGR5bnZETTJ6enJpU2FYVnBURUlmM0plMk5PQUN4YlVYdHJaNlhNWjI4aWtoZGQxaE9ZYnJuRV9vdzVFVEpjdUVBbHM5dw?oc=5",
-      "source": "読売新聞",
-      "published_at": "2022-02-18T08:00:00+00:00",
-      "summary": "温暖化未対策なら70年後北海道も梅雨期に豪雨災害！九州の豪雨頻度1･5倍    読売新聞",
+      "title": "国産初､災害対応キャンピングカーが変える未来 大雪や豪雨､台風､地震などの災害現場を想定 3ページ目 | ビジネス - 東洋経済オンライン",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0yVldMcEhYVmI5TDhnQ3FuWkVoV2cwaDcwNEpTOU5RcDRrZVlTRDNaWEtwTGR3Vms0djg2OUlVVVhkSGQ2SS1xR3BNdlEtUTloNlhabHAwckkyR2s?oc=5",
+      "source": "東洋経済オンライン",
+      "published_at": "2022-01-19T08:00:00+00:00",
+      "summary": "国産初､災害対応キャンピングカーが変える未来 大雪や豪雨､台風､地震などの災害現場を想定 3ページ目 | ビジネス    東洋経済オンライン",
       "feed_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja"
     },
     {

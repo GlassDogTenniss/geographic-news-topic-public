@@ -1,8 +1,8 @@
 {
   "type": "FeatureCollection",
   "properties": {
-    "created_at": "2026-06-28T17:34:27.580478+00:00",
-    "count": 106,
+    "created_at": "2026-06-28T22:28:12.926937+00:00",
+    "count": 117,
     "stats": {
       "feed_id": "game-all",
       "feed_label": "ゲーム",
@@ -28,7 +28,7 @@
         "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja"
       ],
       "rss_url": "https://www.gamedeveloper.com/rss.xml",
-      "fetched": 957,
+      "fetched": 989,
       "fetched_by_url": {
         "https://www.gamedeveloper.com/rss.xml": 50,
         "https://www.gamesindustry.biz/feed": 100,
@@ -40,21 +40,21 @@
         "https://www.nag.co.za/feed/": 10,
         "https://www.kakuchopurei.com/feed/": 10,
         "https://www.afkgaming.com/feed": 0,
-        "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20India&hl=en-IN&gl=IN&ceid=IN:en": 79,
+        "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20India&hl=en-IN&gl=IN&ceid=IN:en": 80,
         "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Philippines&hl=en-PH&gl=PH&ceid=PH:en": 78,
         "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Eastern%20Europe&hl=en&gl=PL&ceid=PL:en": 74,
-        "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Africa&hl=en&gl=ZA&ceid=ZA:en": 44,
+        "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Africa&hl=en&gl=ZA&ceid=ZA:en": 79,
         "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Southeast%20Asia&hl=en-SG&gl=SG&ceid=SG:en": 77,
-        "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA&hl=ja&gl=JP&ceid=JP:ja": 75,
+        "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA&hl=ja&gl=JP&ceid=JP:ja": 74,
         "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja": 79,
         "https://news.google.com/rss/search?q=%E6%B5%B7%E5%A4%96%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA&hl=ja&gl=JP&ceid=JP:ja": 75,
         "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja": 77
       },
-      "filtered": 875,
-      "resolved": 106,
-      "unresolved": 769,
-      "rules": 71,
-      "known_places": 73,
+      "filtered": 907,
+      "resolved": 117,
+      "unresolved": 790,
+      "rules": 94,
+      "known_places": 96,
       "loaded_data_files": [
         "data/place_rules.json",
         "data/unresolved_known_places_12.json",
@@ -119,26 +119,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.009,
-          37.3349
+          12.5683,
+          55.6761
         ]
       },
       "properties": {
-        "title": "Direct-to-consumer banks $17 billion and Google rolls out fee changes | Week in Mobile Games podcast",
-        "source": "Latest Updates | PocketGamer.biz",
-        "link": "https://www.pocketgamer.biz/direct-to-consumer-banks-17-billion-and-google-rolls-out-fee-changes-week-in-mobile-games-podcast/",
-        "published_at": "2026-06-28T15:00:00+00:00",
-        "representative_place": "Apple本社",
-        "place_label": "米国-カリフォルニア州-クパチーノ",
-        "sort_place_label": "米国-カリフォルニア州-クパチーノ",
-        "geocode_query": "Apple Park Cupertino California United States",
-        "place_type": "institution_site",
-        "location_precision": "campus",
-        "place_reason": "Apple製品・Apple社に関する記事を、企業主体の代表地点としてApple本社に置く（一致語: Apple）",
-        "confidence": 0.66,
-        "rule_id": "apple_cupertino_headquarters",
-        "matched_text": "Apple",
-        "match_source": "known_place_summary"
+        "title": "『007』シリーズ新作ゲーム、正式タイトル発表！『ヒットマン』開発チームが手掛ける「ジェームズ・ボンド」がSummer Game Festで再び登場 - 玩具人 TOY PEOPLE",
+        "source": "玩具人 TOY PEOPLE",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBWY3F3UjlLdm13NFEyVmF0bGhXSFdkUFUzWGYwX2Y4Sm9LMGVZMnlUbko3bkdtOUZ4RmRxdHNteU9Id2wtMmI4YWpSSzlubVh0?oc=5",
+        "published_at": "2026-06-28T17:15:34+00:00",
+        "representative_place": "IO Interactive / 007 First Light",
+        "place_label": "デンマーク-コペンハーゲン",
+        "sort_place_label": "デンマーク-コペンハーゲン",
+        "geocode_query": "IO Interactive Copenhagen Denmark",
+        "place_type": "studio_site",
+        "location_precision": "city",
+        "place_reason": "game-all未解決記事に『007』新作と『ヒットマン』開発チームが明示されており、007 First Lightの開発主体であるIO Interactiveの所在地としてコペンハーゲンに置く（一致語: 『007』シリーズ新作ゲーム）",
+        "confidence": 0.84,
+        "rule_id": "observed_io_interactive_007_first_light_copenhagen_202606",
+        "matched_text": "『007』シリーズ新作ゲーム",
+        "match_source": "known_place_title"
       }
     },
     {
@@ -188,10 +188,37 @@
         "geocode_query": "China",
         "place_type": "cultural_industry_region",
         "location_precision": "country",
-        "place_reason": "game-all未解決記事のタイトルに『Chinese video games』とあり、中国産ゲームの技術・文化的語りを扱う記事として中国に置く（一致語: Chinese video games gain global appeal）",
-        "confidence": 0.68,
+        "place_reason": "game-all未解決記事のタイトルに『Chinese video games gain global appeal』と明示される場合のみ中国産ゲームの文化的語りとして中国に置く。『Chinese video games』や『China』単体では一致させない（一致語: Chinese video games gain global appeal through technology, cultural storytelling）",
+        "confidence": 0.62,
         "rule_id": "observed_chinese_video_games_cultural_storytelling_202606",
-        "matched_text": "Chinese video games gain global appeal",
+        "matched_text": "Chinese video games gain global appeal through technology, cultural storytelling",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3522,
+          48.8566
+        ]
+      },
+      "properties": {
+        "title": "長らく開発中の新作アクションADV『Star Wars Eclipse』を救うにはレイオフ中止が必要と主張。『Detroit: Become Human』開発元でストライキ実施との海外報道 - Game*Spark",
+        "source": "Game*Spark",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5McENmSUl1TFFWNDBmZllhelNRSm1OZkRfT21NTVFReGhJTzhrOU9XNEJFcDZodzRjSy13QlRmU1BWU1g3YmxsbHZiMFBoeTZILXAtYTZxZmJOenJmTG5mdXQ0SnJxUQ?oc=5",
+        "published_at": "2026-06-27T08:45:03+00:00",
+        "representative_place": "Quantic Dream / Star Wars Eclipse",
+        "place_label": "フランス-パリ",
+        "sort_place_label": "フランス-パリ",
+        "geocode_query": "Quantic Dream Paris France",
+        "place_type": "studio_site",
+        "location_precision": "city",
+        "place_reason": "game-all未解決記事に『Star Wars Eclipse』と『Detroit: Become Human』開発元のストライキが明示されており、Quantic Dreamの所在地としてパリに置く（一致語: Detroit: Become Human）",
+        "confidence": 0.82,
+        "rule_id": "observed_quantic_dream_star_wars_eclipse_paris_202606",
+        "matched_text": "Detroit: Become Human",
         "match_source": "known_place_title"
       }
     },
@@ -227,6 +254,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          12.5683,
+          55.6761
+        ]
+      },
+      "properties": {
+        "title": "Five things to avoid when marketing your indie game | Opinion",
+        "source": "GamesIndustry.biz Latest Articles Feed",
+        "link": "https://www.gamesindustry.biz/five-things-to-avoid-when-marketing-your-indie-game-opinion",
+        "published_at": "2026-06-26T14:07:12+00:00",
+        "representative_place": "IO Interactive / 007 First Light",
+        "place_label": "デンマーク-コペンハーゲン",
+        "sort_place_label": "デンマーク-コペンハーゲン",
+        "geocode_query": "IO Interactive Copenhagen Denmark",
+        "place_type": "studio_site",
+        "location_precision": "city",
+        "place_reason": "game-all未解決記事に『007』新作と『ヒットマン』開発チームが明示されており、007 First Lightの開発主体であるIO Interactiveの所在地としてコペンハーゲンに置く",
+        "confidence": 0.84,
+        "rule_id": "observed_io_interactive_007_first_light_copenhagen_202606",
+        "matched_text": "IO Interactive",
+        "match_source": "rule"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           121.4737,
           31.2304
         ]
@@ -254,8 +308,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -98.5795,
-          39.8283
+          12.5683,
+          55.6761
         ]
       },
       "properties": {
@@ -263,16 +317,16 @@
         "source": "Game World Observer",
         "link": "https://gameworldobserver.com/2026/06/26/007-first-light-was-the-highest-grossing-game-in-may-in-the-us",
         "published_at": "2026-06-26T13:28:30+00:00",
-        "representative_place": "United States monthly game market data",
-        "place_label": "米国",
-        "sort_place_label": "米国",
-        "geocode_query": "United States",
-        "place_type": "market_region",
-        "location_precision": "country",
-        "place_reason": "game-all未解決記事のタイトルに『in May in the US』、summaryに『U.S. gaming market』とあり、米国市場データの記事として米国に置く（一致語: highest-grossing game in May in the US）",
-        "confidence": 0.76,
-        "rule_id": "observed_007_first_light_us_market_202606",
-        "matched_text": "highest-grossing game in May in the US",
+        "representative_place": "IO Interactive / 007 First Light",
+        "place_label": "デンマーク-コペンハーゲン",
+        "sort_place_label": "デンマーク-コペンハーゲン",
+        "geocode_query": "IO Interactive Copenhagen Denmark",
+        "place_type": "studio_site",
+        "location_precision": "city",
+        "place_reason": "game-all未解決記事に『007』新作と『ヒットマン』開発チームが明示されており、007 First Lightの開発主体であるIO Interactiveの所在地としてコペンハーゲンに置く（一致語: 007 First Light）",
+        "confidence": 0.84,
+        "rule_id": "observed_io_interactive_007_first_light_copenhagen_202606",
+        "matched_text": "007 First Light",
         "match_source": "known_place_title"
       }
     },
@@ -308,33 +362,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.009,
-          37.3349
-        ]
-      },
-      "properties": {
-        "title": "Apple raises MacBook and iPad prices as AI-driven memory costs climb",
-        "source": "Latest Updates | PocketGamer.biz",
-        "link": "https://www.pocketgamer.biz/apple-raises-macbook-and-ipad-prices-as-ai-driven-memory-costs-climb/",
-        "published_at": "2026-06-26T10:48:00+00:00",
-        "representative_place": "Apple本社",
-        "place_label": "米国-カリフォルニア州-クパチーノ",
-        "sort_place_label": "米国-カリフォルニア州-クパチーノ",
-        "geocode_query": "Apple Park Cupertino California United States",
-        "place_type": "institution_site",
-        "location_precision": "campus",
-        "place_reason": "Apple製品・Apple社に関する記事を、企業主体の代表地点としてApple本社に置く（一致語: MacBook）",
-        "confidence": 0.66,
-        "rule_id": "apple_cupertino_headquarters",
-        "matched_text": "MacBook",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           12.5674,
           41.8719
         ]
@@ -354,6 +381,33 @@
         "confidence": 0.82,
         "rule_id": "observed_34bigthings_italy_202606",
         "matched_text": "34BigThings spins out",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2015,
+          47.6101
+        ]
+      },
+      "properties": {
+        "title": "Sony cuts 292 jobs at Destiny maker Bungie",
+        "source": "GamesIndustry.biz Latest Articles Feed",
+        "link": "https://www.gamesindustry.biz/sony-cuts-292-jobs-at-destiny-maker-bungie",
+        "published_at": "2026-06-26T07:31:49+00:00",
+        "representative_place": "Bungie / Destiny",
+        "place_label": "米国-ワシントン州-ベルビュー",
+        "sort_place_label": "米国-ワシントン州-ベルビュー",
+        "geocode_query": "Bungie Bellevue Washington United States",
+        "place_type": "studio_site",
+        "location_precision": "city",
+        "place_reason": "game-all未解決記事にDestiny開発元Bungieの人員削減・企画記事があり、Bungieの所在地としてベルビューに置く（一致語: Sony cuts 292 jobs at Destiny maker Bungie）",
+        "confidence": 0.84,
+        "rule_id": "observed_bungie_destiny_layoffs_bellevue_202606",
+        "matched_text": "Sony cuts 292 jobs at Destiny maker Bungie",
         "match_source": "known_place_title"
       }
     },
@@ -416,6 +470,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.0,
+          48.0
+        ]
+      },
+      "properties": {
+        "title": "Google Play expands billing options and lowers fees for developers",
+        "source": "Latest Updates | PocketGamer.biz",
+        "link": "https://www.pocketgamer.biz/google-play-expands-billing-options-and-lowers-fees-for-developers/",
+        "published_at": "2026-06-25T14:37:00+00:00",
+        "representative_place": "Google Play fee changes in US, UK and EEA",
+        "place_label": "米国・英国・欧州経済領域",
+        "sort_place_label": "米国・英国・欧州経済領域",
+        "geocode_query": "United States United Kingdom European Economic Area",
+        "place_type": "regulatory_region",
+        "location_precision": "multi_region",
+        "place_reason": "game-all未解決記事のsummaryに、Google Playの変更が米国・英国・欧州経済領域から始まると明示されているため、規制・料金変更の対象地域として複合地域に置く（一致語: Google Play expands billing options and lowers fees for developers）",
+        "confidence": 0.72,
+        "rule_id": "observed_google_play_expands_billing_us_uk_eea_202606",
+        "matched_text": "Google Play expands billing options and lowers fees for developers",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.436,
           55.3781
         ]
@@ -458,11 +539,11 @@
         "geocode_query": "China",
         "place_type": "industry_region",
         "location_precision": "country",
-        "place_reason": "game-all未解決記事のタイトル・summaryにChinese publishers / Chinaが明示され、中国系モバイルパブリッシャーの海外展開を扱う記事として中国に置く（一致語: China）",
-        "confidence": 0.72,
+        "place_reason": "game-all未解決記事のタイトル・summaryに『Chinese publishers』が明示される場合だけ、中国系モバイルパブリッシャーの海外展開として中国に置く。『China』単体では一致させない",
+        "confidence": 0.66,
         "rule_id": "observed_chinese_publishers_global_mobile_charts_202606",
-        "matched_text": "China",
-        "match_source": "known_place_title"
+        "matched_text": "Chinese mobile publishers",
+        "match_source": "rule"
       }
     },
     {
@@ -470,26 +551,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.009,
-          37.3349
+          4.9041,
+          52.3676
         ]
       },
       "properties": {
-        "title": "Ouaz Games on surviving hypercasual's collapse and the rise of browser games",
+        "title": "Rush Royale surpasses $500m in lifetime revenue",
         "source": "Latest Updates | PocketGamer.biz",
-        "link": "https://www.pocketgamer.biz/ouaz-games-on-surviving-hypercasuals-collapse-and-the-rise-of-browser-games/",
-        "published_at": "2026-06-25T14:33:00+00:00",
-        "representative_place": "Apple本社",
-        "place_label": "米国-カリフォルニア州-クパチーノ",
-        "sort_place_label": "米国-カリフォルニア州-クパチーノ",
-        "geocode_query": "Apple Park Cupertino California United States",
-        "place_type": "institution_site",
-        "location_precision": "campus",
-        "place_reason": "Apple製品・Apple社に関する記事を、企業主体の代表地点としてApple本社に置く（一致語: Apple）",
-        "confidence": 0.66,
-        "rule_id": "apple_cupertino_headquarters",
-        "matched_text": "Apple",
-        "match_source": "known_place_summary"
+        "link": "https://www.pocketgamer.biz/rush-royale-surpasses-500m-in-lifetime-revenue/",
+        "published_at": "2026-06-25T14:31:00+00:00",
+        "representative_place": "MY.GAMES / Rush Royale",
+        "place_label": "オランダ-アムステルダム",
+        "sort_place_label": "オランダ-アムステルダム",
+        "geocode_query": "MY.GAMES Amsterdam Netherlands",
+        "place_type": "publisher_site",
+        "location_precision": "city",
+        "place_reason": "game-all未解決記事のsummaryにMy.GamesのRush Royaleが明示されており、MY.GAMESの所在地としてアムステルダムに置く（一致語: Rush Royale surpasses $500m）",
+        "confidence": 0.76,
+        "rule_id": "observed_mygames_rush_royale_amsterdam_202606",
+        "matched_text": "Rush Royale surpasses $500m",
+        "match_source": "known_place_title"
       }
     },
     {
@@ -632,6 +713,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.2171,
+          47.4829
+        ]
+      },
+      "properties": {
+        "title": "Magic: The Gathering Arena developers have successfully unionized",
+        "source": "gamedeveloper",
+        "link": "https://www.gamedeveloper.com/business/magic-the-gathering-arena-unionize-despite-allegations-of-interference",
+        "published_at": "2026-06-25T10:12:57+00:00",
+        "representative_place": "Wizards of the Coast / Magic: The Gathering Arena",
+        "place_label": "米国-ワシントン州-レントン",
+        "sort_place_label": "米国-ワシントン州-レントン",
+        "geocode_query": "Wizards of the Coast Renton Washington United States",
+        "place_type": "studio_site",
+        "location_precision": "city",
+        "place_reason": "game-all未解決記事にMagic: The Gathering Arena開発者の労組化が明示されており、Wizards of the Coastの所在地としてレントンに置く（一致語: Magic: The Gathering Arena developers have successfully unionized）",
+        "confidence": 0.78,
+        "rule_id": "observed_wotc_magic_arena_union_renton_202606",
+        "matched_text": "Magic: The Gathering Arena developers have successfully unionized",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -51.9253,
           -14.235
         ]
@@ -713,6 +821,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          4.9041,
+          52.3676
+        ]
+      },
+      "properties": {
+        "title": "Data digest: World Cup numbers, DTC hits $17bn, UEFN payouts, May’s top game ads, more",
+        "source": "Mobilegamer.biz",
+        "link": "https://mobilegamer.biz/data-digest-world-cup-numbers-dtc-hits-17bn-uefn-payouts-mays-top-ads-more/",
+        "published_at": "2026-06-24T14:10:36+00:00",
+        "representative_place": "MY.GAMES / Rush Royale",
+        "place_label": "オランダ-アムステルダム",
+        "sort_place_label": "オランダ-アムステルダム",
+        "geocode_query": "MY.GAMES Amsterdam Netherlands",
+        "place_type": "publisher_site",
+        "location_precision": "city",
+        "place_reason": "game-all未解決記事のsummaryにMy.GamesのRush Royaleが明示されており、MY.GAMESの所在地としてアムステルダムに置く",
+        "confidence": 0.76,
+        "rule_id": "observed_mygames_rush_royale_amsterdam_202606",
+        "matched_text": "Rush Royale",
+        "match_source": "rule"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           6.9603,
           50.9375
         ]
@@ -722,16 +857,16 @@
         "source": "Latest Updates | PocketGamer.biz",
         "link": "https://www.pocketgamer.biz/nigeria-to-bring-first-ever-developer-delegation-and-booth-to-gamescom-2026/",
         "published_at": "2026-06-24T12:40:00+00:00",
-        "representative_place": "Nigeria developer delegation to Gamescom Cologne",
+        "representative_place": "Gamescom Congress 2026",
         "place_label": "ドイツ-ノルトライン＝ヴェストファーレン州-ケルン",
         "sort_place_label": "ドイツ-ノルトライン＝ヴェストファーレン州-ケルン",
-        "geocode_query": "Cologne Germany",
+        "geocode_query": "Gamescom Cologne Germany",
         "place_type": "event_site",
         "location_precision": "city",
-        "place_reason": "game-all未解決記事のsummaryに『Gamescom 2026 in Germany』および『Cologne show』とあり、ナイジェリア開発者代表団の出展先としてケルンに置く（一致語: Nigeria to bring first-ever developer delegation and booth to Gamescom 2026）",
-        "confidence": 0.78,
-        "rule_id": "observed_nigeria_gamescom_cologne_202606",
-        "matched_text": "Nigeria to bring first-ever developer delegation and booth to Gamescom 2026",
+        "place_reason": "game-all未解決記事にGamescom Congress / Gamescom 2026が明示されているため、gamescom開催地としてケルンに置く（一致語: Gamescom 2026）",
+        "confidence": 0.88,
+        "rule_id": "observed_gamescom_congress_german_president_cologne_202606",
+        "matched_text": "Gamescom 2026",
         "match_source": "known_place_title"
       }
     },
@@ -759,6 +894,33 @@
         "confidence": 0.76,
         "rule_id": "observed_mag_interactive_stockholm_202606",
         "matched_text": "Mag boss",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4737,
+          31.2304
+        ]
+      },
+      "properties": {
+        "title": "HoYoverse’s new game Honkai: Nexus Anima gets closed beta test in July",
+        "source": "Latest Updates | PocketGamer.biz",
+        "link": "https://www.pocketgamer.biz/hoyoverses-new-game-honkai-nexus-anima-gets-closed-beta-test-in-july/",
+        "published_at": "2026-06-24T10:10:00+00:00",
+        "representative_place": "miHoYo / HoYoverse Honkai: Nexus Anima",
+        "place_label": "中国-上海市",
+        "sort_place_label": "中国-上海市",
+        "geocode_query": "miHoYo Shanghai China",
+        "place_type": "studio_site",
+        "location_precision": "city",
+        "place_reason": "game-all未解決記事にHoYoverseのHonkai新作が明示されており、Honkaiシリーズの開発元miHoYoの所在地として上海に置く。中国一般ではなくスタジオ所在地として扱う（一致語: HoYoverse’s new game Honkai: Nexus Anima）",
+        "confidence": 0.78,
+        "rule_id": "observed_hoyoverse_honkai_nexus_anima_shanghai_202606",
+        "matched_text": "HoYoverse’s new game Honkai: Nexus Anima",
         "match_source": "known_place_title"
       }
     },
@@ -821,6 +983,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.2015,
+          47.6101
+        ]
+      },
+      "properties": {
+        "title": "Bungie devs reportedly pitched Destiny dating game",
+        "source": "GamesIndustry.biz Latest Articles Feed",
+        "link": "https://www.gamesindustry.biz/bungie-devs-reportedly-pitched-destiny-dating-game",
+        "published_at": "2026-06-24T09:11:32+00:00",
+        "representative_place": "Bungie / Destiny",
+        "place_label": "米国-ワシントン州-ベルビュー",
+        "sort_place_label": "米国-ワシントン州-ベルビュー",
+        "geocode_query": "Bungie Bellevue Washington United States",
+        "place_type": "studio_site",
+        "location_precision": "city",
+        "place_reason": "game-all未解決記事にDestiny開発元Bungieの人員削減・企画記事があり、Bungieの所在地としてベルビューに置く（一致語: Bungie devs reportedly pitched Destiny dating game）",
+        "confidence": 0.84,
+        "rule_id": "observed_bungie_destiny_layoffs_bellevue_202606",
+        "matched_text": "Bungie devs reportedly pitched Destiny dating game",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           8.6753,
           9.082
         ]
@@ -840,6 +1029,33 @@
         "confidence": 0.58,
         "rule_id": "observed_galaxy_pilgrim_nigerian_contributors_202606",
         "matched_text": "Nigerian contributions",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3259,
+          51.0629
+        ]
+      },
+      "properties": {
+        "title": "How a 12 year wait made Alien Isolation 2 a better sequel",
+        "source": "gamedeveloper",
+        "link": "https://www.gamedeveloper.com/design/how-a-12-year-wait-made-alien-isolation-2-a-better-sequel",
+        "published_at": "2026-06-23T14:40:48+00:00",
+        "representative_place": "Creative Assembly / Alien Isolation 2",
+        "place_label": "英国-イングランド-ホーシャム",
+        "sort_place_label": "英国-イングランド-ホーシャム",
+        "geocode_query": "Creative Assembly Horsham England",
+        "place_type": "studio_site",
+        "location_precision": "city",
+        "place_reason": "game-all未解決記事にAlien Isolation 2とCreative Assemblyの開発者インタビューがあり、Creative Assemblyの所在地としてホーシャムに置く（一致語: How a 12 year wait made Alien Isolation 2）",
+        "confidence": 0.82,
+        "rule_id": "observed_creative_assembly_alien_isolation_2_horsham_202606",
+        "matched_text": "How a 12 year wait made Alien Isolation 2",
         "match_source": "known_place_title"
       }
     },
@@ -956,25 +1172,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          104.1954,
-          35.8617
+          3.3792,
+          6.5244
         ]
       },
       "properties": {
-        "title": "Neverness to Everness steers towards $50m in two months on mobile",
+        "title": "“The studios that thrive will not be those that resist AI. They will be those that learn how to use it effectively\"",
         "source": "Latest Updates | PocketGamer.biz",
-        "link": "https://www.pocketgamer.biz/neverness-to-everness-steers-towards-50m-in-two-months-on-mobile/",
-        "published_at": "2026-06-23T11:40:00+00:00",
-        "representative_place": "Chinese mobile publishers global charts",
-        "place_label": "中国",
-        "sort_place_label": "中国",
-        "geocode_query": "China",
-        "place_type": "industry_region",
-        "location_precision": "country",
-        "place_reason": "game-all未解決記事のタイトル・summaryにChinese publishers / Chinaが明示され、中国系モバイルパブリッシャーの海外展開を扱う記事として中国に置く",
-        "confidence": 0.72,
-        "rule_id": "observed_chinese_publishers_global_mobile_charts_202606",
-        "matched_text": "China",
+        "link": "https://www.pocketgamer.biz/ai-will-not-replace-creativity-it-will-amplify-it-maliyos-obi-at-lagos-games-week/",
+        "published_at": "2026-06-23T11:45:00+00:00",
+        "representative_place": "Lagos Games Week 2026",
+        "place_label": "ナイジェリア-ラゴス",
+        "sort_place_label": "ナイジェリア-ラゴス",
+        "geocode_query": "Lagos Nigeria",
+        "place_type": "event_site",
+        "location_precision": "city",
+        "place_reason": "game-all未解決記事のsummaryに『Lagos Games Week 2026』が明示されているため、イベント開催地としてラゴスに置く",
+        "confidence": 0.88,
+        "rule_id": "observed_lagos_games_week_2026_lagos",
+        "matched_text": "Finding the Promise Land As An Industry",
         "match_source": "rule"
       }
     },
@@ -983,25 +1199,79 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.009,
-          37.3349
+          10.4515,
+          51.1657
         ]
       },
       "properties": {
-        "title": "What is ‘GoreBox’, the video game temporarily banned by the CICC? - Rappler",
-        "source": "Rappler",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9YWlFyTmFZOVA4OS0tYUZkTld1a3pQUnBwQ19pTEFleExheF9CXzZEWU9QQ0JqS2Fha0lGS3ctMWg2SkoyR1R4TXVhckJtZkV3NXo4bGxiZG9tZldPUTBSdzhvNnFWcWZaMURxcnhXLXRhUklxTUM2czVESk8?oc=5",
-        "published_at": "2026-06-23T10:20:00+00:00",
-        "representative_place": "Apple本社",
-        "place_label": "米国-カリフォルニア州-クパチーノ",
-        "sort_place_label": "米国-カリフォルニア州-クパチーノ",
-        "geocode_query": "Apple Park Cupertino California United States",
-        "place_type": "institution_site",
-        "location_precision": "campus",
-        "place_reason": "Apple製品・Apple社に関する記事を、企業主体の代表地点としてApple本社に置く（一致語: Apple）",
-        "confidence": 0.66,
-        "rule_id": "apple_cupertino_headquarters",
-        "matched_text": "Apple",
+        "title": "Hill Climb Racing 3 expands soft launch to Germany",
+        "source": "Latest Updates | PocketGamer.biz",
+        "link": "https://www.pocketgamer.biz/hill-climb-racing-3-expands-soft-launch-to-germany/",
+        "published_at": "2026-06-23T09:53:00+00:00",
+        "representative_place": "Hill Climb Racing 3 soft launch in Germany",
+        "place_label": "ドイツ",
+        "sort_place_label": "ドイツ",
+        "geocode_query": "Germany",
+        "place_type": "launch_market_region",
+        "location_precision": "country",
+        "place_reason": "game-all未解決記事のタイトルに『soft launch to Germany』と明示されているため、ソフトローンチ対象国としてドイツに置く（一致語: Hill Climb Racing 3 expands soft launch to Germany）",
+        "confidence": 0.82,
+        "rule_id": "observed_hill_climb_racing_3_soft_launch_germany_202606",
+        "matched_text": "Hill Climb Racing 3 expands soft launch to Germany",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4737,
+          31.2304
+        ]
+      },
+      "properties": {
+        "title": "Honkai: Nexus Anima is Hoyoverse’s take on the Pokémon formula",
+        "source": "Mobilegamer.biz",
+        "link": "https://mobilegamer.biz/honkai-nexus-anima-is-hoyoverses-take-on-the-pokemon-formula/",
+        "published_at": "2026-06-23T09:28:54+00:00",
+        "representative_place": "miHoYo / HoYoverse Honkai: Nexus Anima",
+        "place_label": "中国-上海市",
+        "sort_place_label": "中国-上海市",
+        "geocode_query": "miHoYo Shanghai China",
+        "place_type": "studio_site",
+        "location_precision": "city",
+        "place_reason": "game-all未解決記事にHoYoverseのHonkai新作が明示されており、Honkaiシリーズの開発元miHoYoの所在地として上海に置く。中国一般ではなくスタジオ所在地として扱う（一致語: Hoyoverse’s take on the Pokémon formula）",
+        "confidence": 0.78,
+        "rule_id": "observed_hoyoverse_honkai_nexus_anima_shanghai_202606",
+        "matched_text": "Hoyoverse’s take on the Pokémon formula",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.0,
+          54.0
+        ]
+      },
+      "properties": {
+        "title": "CityDays and All3Media team up to launch The Traitors game on WhatsApp",
+        "source": "Latest Updates | PocketGamer.biz",
+        "link": "https://www.pocketgamer.biz/citydays-and-all3media-team-up-to-launch-the-traitors-game-on-whatsapp/",
+        "published_at": "2026-06-23T09:11:00+00:00",
+        "representative_place": "The Traitors: Anywhere launch in UK and Ireland",
+        "place_label": "英国・アイルランド",
+        "sort_place_label": "英国・アイルランド",
+        "geocode_query": "United Kingdom Ireland",
+        "place_type": "launch_market_region",
+        "location_precision": "multi_region",
+        "place_reason": "game-all未解決記事のsummaryに『launch in the UK and Ireland』と明示されているため、ローンチ対象地域として英国・アイルランドに置く（一致語: CityDays and All3Media team up to launch The Traitors game on WhatsApp）",
+        "confidence": 0.8,
+        "rule_id": "observed_citydays_traitors_uk_ireland_202606",
+        "matched_text": "CityDays and All3Media team up to launch The Traitors game on WhatsApp",
         "match_source": "known_place_title"
       }
     },
@@ -1037,26 +1307,53 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          104.1954,
-          35.8617
+          -122.4194,
+          37.7749
         ]
       },
       "properties": {
-        "title": "Three myths that cost Western games companies in the Chinese market",
+        "title": "Ubisoft eliminates 93 roles in San Francisco",
+        "source": "gamedeveloper",
+        "link": "https://www.gamedeveloper.com/business/ubisoft-eliminates-93-roles-in-san-francisco",
+        "published_at": "2026-06-22T17:38:03+00:00",
+        "representative_place": "Ubisoft San Francisco layoffs",
+        "place_label": "米国-カリフォルニア州-サンフランシスコ",
+        "sort_place_label": "米国-カリフォルニア州-サンフランシスコ",
+        "geocode_query": "San Francisco California United States",
+        "place_type": "labor_site",
+        "location_precision": "city",
+        "place_reason": "game-all未解決記事のタイトルに『Ubisoft eliminates 93 roles in San Francisco』、summaryにCalifornia WARN noticeが明示されているためサンフランシスコに置く（一致語: Ubisoft eliminates 93 roles in San Francisco）",
+        "confidence": 0.9,
+        "rule_id": "observed_ubisoft_san_francisco_layoffs_202606",
+        "matched_text": "Ubisoft eliminates 93 roles in San Francisco",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3792,
+          6.5244
+        ]
+      },
+      "properties": {
+        "title": "5 takeaways from Lagos Games Week 2026: Packed halls, stronger panels and embracing AI as a tool",
         "source": "Latest Updates | PocketGamer.biz",
-        "link": "https://www.pocketgamer.biz/three-myths-that-cost-western-games-companies-in-the-chinese-market/",
-        "published_at": "2026-06-22T14:50:00+00:00",
-        "representative_place": "Chinese mobile publishers global charts",
-        "place_label": "中国",
-        "sort_place_label": "中国",
-        "geocode_query": "China",
-        "place_type": "industry_region",
-        "location_precision": "country",
-        "place_reason": "game-all未解決記事のタイトル・summaryにChinese publishers / Chinaが明示され、中国系モバイルパブリッシャーの海外展開を扱う記事として中国に置く",
-        "confidence": 0.72,
-        "rule_id": "observed_chinese_publishers_global_mobile_charts_202606",
-        "matched_text": "China",
-        "match_source": "rule"
+        "link": "https://www.pocketgamer.biz/five-takeaways-from-lagos-games-week-2026-packed-halls-stronger-panels-and-embracing-ai-as-a-tool/",
+        "published_at": "2026-06-22T14:45:00+00:00",
+        "representative_place": "Lagos Games Week 2026",
+        "place_label": "ナイジェリア-ラゴス",
+        "sort_place_label": "ナイジェリア-ラゴス",
+        "geocode_query": "Lagos Nigeria",
+        "place_type": "event_site",
+        "location_precision": "city",
+        "place_reason": "game-all未解決記事のsummaryに『Lagos Games Week 2026』が明示されているため、イベント開催地としてラゴスに置く（一致語: Lagos Games Week 2026）",
+        "confidence": 0.88,
+        "rule_id": "observed_lagos_games_week_2026_lagos",
+        "matched_text": "Lagos Games Week 2026",
+        "match_source": "known_place_title"
       }
     },
     {
@@ -1145,6 +1442,60 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.3522,
+          48.8566
+        ]
+      },
+      "properties": {
+        "title": "Rockstar's legal setback, Final Fantasy tax incentives, and PlayStation swaps 'PC' for 'AI' - Patch Notes #57",
+        "source": "gamedeveloper",
+        "link": "https://www.gamedeveloper.com/business/rockstar-s-legal-setback-final-fantasy-tax-incentives-and-playstation-swaps-pc-for-ai-patch-notes-57",
+        "published_at": "2026-06-19T10:43:12+00:00",
+        "representative_place": "Don't Nod",
+        "place_label": "フランス-パリ",
+        "sort_place_label": "フランス-パリ",
+        "geocode_query": "Don't Nod Paris France",
+        "place_type": "studio_site",
+        "location_precision": "city",
+        "place_reason": "game-all未解決記事にフランスのゲーム開発会社Don't Nodの資金繰り警告が明示されているため、同社所在地としてパリに置く。フランス一般ではなくスタジオ所在地として扱う",
+        "confidence": 0.82,
+        "rule_id": "observed_dont_nod_cash_warning_paris_202606",
+        "matched_text": "Don't Nod",
+        "match_source": "rule"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3832,
+          43.6532
+        ]
+      },
+      "properties": {
+        "title": "'A new industry with a new identity:' How Canadian devs are faring in 2026",
+        "source": "gamedeveloper",
+        "link": "https://www.gamedeveloper.com/business/-a-new-industry-with-a-new-identity-how-canadian-devs-are-faring-in-2026",
+        "published_at": "2026-06-18T17:59:13+00:00",
+        "representative_place": "XP Game Summit Toronto",
+        "place_label": "カナダ-オンタリオ州-トロント",
+        "sort_place_label": "カナダ-オンタリオ州-トロント",
+        "geocode_query": "Toronto Ontario Canada",
+        "place_type": "event_site",
+        "location_precision": "city",
+        "place_reason": "game-all未解決記事のsummaryに『Toronto Canada's XP Game Summit』と明示されているため、カナダ開発者記事の取材・イベント地点としてトロントに置く（一致語: How Canadian devs are faring in 2026）",
+        "confidence": 0.88,
+        "rule_id": "observed_xp_game_summit_toronto_canadian_devs_202606",
+        "matched_text": "How Canadian devs are faring in 2026",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           101.9758,
           4.2105
         ]
@@ -1172,8 +1523,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.2137,
-          46.2276
+          2.3522,
+          48.8566
         ]
       },
       "properties": {
@@ -1181,16 +1532,43 @@
         "source": "GamesIndustry.biz Latest Articles Feed",
         "link": "https://www.gamesindustry.biz/dont-nod-says-it-has-several-levers-to-secure-financial-position-after-auditors-detailed-cash-woes",
         "published_at": "2026-06-18T10:58:01+00:00",
-        "representative_place": "French developer Don't Nod",
-        "place_label": "フランス",
-        "sort_place_label": "フランス",
-        "geocode_query": "France",
-        "place_type": "studio_region",
-        "location_precision": "country",
-        "place_reason": "未解決記事のsummaryに『French developer Don't Nod』と明示されており、フランスの開発会社の資金繰り記事としてフランスに置く（一致語: Don't Nod says it has）",
-        "confidence": 0.76,
-        "rule_id": "observed_dont_nod_french_developer_202606",
-        "matched_text": "Don't Nod says it has",
+        "representative_place": "Don't Nod",
+        "place_label": "フランス-パリ",
+        "sort_place_label": "フランス-パリ",
+        "geocode_query": "Don't Nod Paris France",
+        "place_type": "studio_site",
+        "location_precision": "city",
+        "place_reason": "game-all未解決記事にフランスのゲーム開発会社Don't Nodの資金繰り警告が明示されているため、同社所在地としてパリに置く。フランス一般ではなくスタジオ所在地として扱う（一致語: Don't Nod）",
+        "confidence": 0.82,
+        "rule_id": "observed_dont_nod_cash_warning_paris_202606",
+        "matched_text": "Don't Nod",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0589,
+          42.3601
+        ]
+      },
+      "properties": {
+        "title": "OtherSide Entertainment cuts 17 jobs after Argos cancellation",
+        "source": "GamesIndustry.biz Latest Articles Feed",
+        "link": "https://www.gamesindustry.biz/otherside-entertainment-cuts-17-jobs-after-argos-cancellation",
+        "published_at": "2026-06-18T10:30:59+00:00",
+        "representative_place": "OtherSide Entertainment / Argos cancellation",
+        "place_label": "米国-マサチューセッツ州-ボストン",
+        "sort_place_label": "米国-マサチューセッツ州-ボストン",
+        "geocode_query": "OtherSide Entertainment Boston Massachusetts United States",
+        "place_type": "studio_site",
+        "location_precision": "city",
+        "place_reason": "game-all未解決記事にOtherSide Entertainmentの人員削減が明示されているため、同社所在地としてボストンに置く（一致語: OtherSide Entertainment cuts 17 jobs after Argos cancellation）",
+        "confidence": 0.78,
+        "rule_id": "observed_otherside_argos_cancellation_boston_202606",
+        "matched_text": "OtherSide Entertainment cuts 17 jobs after Argos cancellation",
         "match_source": "known_place_title"
       }
     },
@@ -1226,6 +1604,60 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.3522,
+          48.8566
+        ]
+      },
+      "properties": {
+        "title": "Don't Nod pursuing 'several levers' to secure financial future after Tencent decides against short-term investment",
+        "source": "gamedeveloper",
+        "link": "https://www.gamedeveloper.com/business/don-t-nod-pursuing-several-levers-to-secure-financial-future-after-tencent-decides-against-short-term-investment",
+        "published_at": "2026-06-17T19:12:04+00:00",
+        "representative_place": "Don't Nod",
+        "place_label": "フランス-パリ",
+        "sort_place_label": "フランス-パリ",
+        "geocode_query": "Don't Nod Paris France",
+        "place_type": "studio_site",
+        "location_precision": "city",
+        "place_reason": "game-all未解決記事にフランスのゲーム開発会社Don't Nodの資金繰り警告が明示されているため、同社所在地としてパリに置く。フランス一般ではなくスタジオ所在地として扱う（一致語: Don't Nod）",
+        "confidence": 0.82,
+        "rule_id": "observed_dont_nod_cash_warning_paris_202606",
+        "matched_text": "Don't Nod",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1218,
+          52.2053
+        ]
+      },
+      "properties": {
+        "title": "Report: Xbox was set on splitting with Ninja Theory when unveiling its new project",
+        "source": "gamedeveloper",
+        "link": "https://www.gamedeveloper.com/business/report-xbox-was-set-on-splitting-with-ninja-theory-when-showing-its-new-project",
+        "published_at": "2026-06-17T15:34:55+00:00",
+        "representative_place": "Ninja Theory / Hellblade",
+        "place_label": "英国-イングランド-ケンブリッジ",
+        "sort_place_label": "英国-イングランド-ケンブリッジ",
+        "geocode_query": "Ninja Theory Cambridge England",
+        "place_type": "studio_site",
+        "location_precision": "city",
+        "place_reason": "game-all未解決記事にHellblade開発元Ninja Theoryの閉鎖リスクが明示されているため、同スタジオの所在地としてケンブリッジに置く（一致語: Ninja Theory）",
+        "confidence": 0.86,
+        "rule_id": "observed_ninja_theory_hellblade_closure_cambridge_202606",
+        "matched_text": "Ninja Theory",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.436,
           55.3781
         ]
@@ -1253,25 +1685,268 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          104.1954,
-          35.8617
+          6.9603,
+          50.9375
         ]
       },
       "properties": {
-        "title": "The devs of Chinese hit The Scroll of Taiwu on what Western devs get wrong in China - and why they rejected generative AI",
+        "title": "President of Germany to open Gamescom Congress and attend Gamescom 2026",
         "source": "GamesIndustry.biz Latest Articles Feed",
-        "link": "https://www.gamesindustry.biz/how-dare-we-use-something-like-that-on-someones-dream-why-generative-ai-artwork-is-a-no-go-for-the-scroll-of-taiwu",
-        "published_at": "2026-06-17T11:00:00+00:00",
-        "representative_place": "Chinese mobile publishers global charts",
-        "place_label": "中国",
-        "sort_place_label": "中国",
-        "geocode_query": "China",
-        "place_type": "industry_region",
-        "location_precision": "country",
-        "place_reason": "game-all未解決記事のタイトル・summaryにChinese publishers / Chinaが明示され、中国系モバイルパブリッシャーの海外展開を扱う記事として中国に置く（一致語: China）",
+        "link": "https://www.gamesindustry.biz/president-of-germany-to-open-gamescom-congress-and-attend-gamescom-2026",
+        "published_at": "2026-06-17T12:57:45+00:00",
+        "representative_place": "Gamescom Congress 2026",
+        "place_label": "ドイツ-ノルトライン＝ヴェストファーレン州-ケルン",
+        "sort_place_label": "ドイツ-ノルトライン＝ヴェストファーレン州-ケルン",
+        "geocode_query": "Gamescom Cologne Germany",
+        "place_type": "event_site",
+        "location_precision": "city",
+        "place_reason": "game-all未解決記事にGamescom Congress / Gamescom 2026が明示されているため、gamescom開催地としてケルンに置く（一致語: President of Germany to open Gamescom Congress and attend Gamescom 2026）",
+        "confidence": 0.88,
+        "rule_id": "observed_gamescom_congress_german_president_cologne_202606",
+        "matched_text": "President of Germany to open Gamescom Congress and attend Gamescom 2026",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.52,
+          52.2852
+        ]
+      },
+      "properties": {
+        "title": "Kwalee Labs shut down following launch of Luna Abyss",
+        "source": "GamesIndustry.biz Latest Articles Feed",
+        "link": "https://www.gamesindustry.biz/kwalee-labs-shut-down-following-launch-of-luna-abyss",
+        "published_at": "2026-06-17T12:36:17+00:00",
+        "representative_place": "Kwalee Labs / Luna Abyss",
+        "place_label": "英国-イングランド-レミントン・スパ",
+        "sort_place_label": "英国-イングランド-レミントン・スパ",
+        "geocode_query": "Kwalee Leamington Spa England",
+        "place_type": "studio_site",
+        "location_precision": "city",
+        "place_reason": "game-all未解決記事にKwalee Labsの閉鎖とLuna Abyssが明示されており、Kwaleeの所在地としてレミントン・スパに置く（一致語: Kwalee Labs shut down following launch of Luna Abyss）",
         "confidence": 0.72,
-        "rule_id": "observed_chinese_publishers_global_mobile_charts_202606",
-        "matched_text": "China",
+        "rule_id": "observed_kwalee_labs_luna_abyss_leamington_202606",
+        "matched_text": "Kwalee Labs shut down following launch of Luna Abyss",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4912,
+          34.0195
+        ]
+      },
+      "properties": {
+        "title": "Thatgamecompany's 20-year journey from anti-Columbine school project to a celebration of Van Gogh",
+        "source": "GamesIndustry.biz Latest Articles Feed",
+        "link": "https://www.gamesindustry.biz/thatgamecompanys-20-year-journey-from-anti-columbine-school-project-to-a-celebration-of-van-gogh",
+        "published_at": "2026-06-16T18:02:55+00:00",
+        "representative_place": "thatgamecompany",
+        "place_label": "米国-カリフォルニア州-サンタモニカ",
+        "sort_place_label": "米国-カリフォルニア州-サンタモニカ",
+        "geocode_query": "thatgamecompany Santa Monica California United States",
+        "place_type": "studio_site",
+        "location_precision": "city",
+        "place_reason": "game-all未解決記事のタイトルとsummaryにThatgamecompany / Jenova Chenが明示されているため、同スタジオの所在地としてサンタモニカに置く（一致語: Thatgamecompany's 20-year journey）",
+        "confidence": 0.8,
+        "rule_id": "observed_thatgamecompany_van_gogh_santa_monica_202606",
+        "matched_text": "Thatgamecompany's 20-year journey",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4117,
+          34.0211
+        ]
+      },
+      "properties": {
+        "title": "Treyarch studio head steps down after 22 years",
+        "source": "gamedeveloper",
+        "link": "https://www.gamedeveloper.com/business/treyarch-studio-head-steps-down-after-22-years",
+        "published_at": "2026-06-16T14:05:00+00:00",
+        "representative_place": "Treyarch",
+        "place_label": "米国-カリフォルニア州-ロサンゼルス",
+        "sort_place_label": "米国-カリフォルニア州-ロサンゼルス",
+        "geocode_query": "Treyarch Los Angeles California United States",
+        "place_type": "studio_site",
+        "location_precision": "city",
+        "place_reason": "game-all未解決記事にTreyarchスタジオヘッド退任が明示されているため、同スタジオの所在地としてロサンゼルスに置く（一致語: Treyarch studio head steps down after 22 years）",
+        "confidence": 0.8,
+        "rule_id": "observed_treyarch_studio_head_los_angeles_202606",
+        "matched_text": "Treyarch studio head steps down after 22 years",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.19,
+          45.4642
+        ]
+      },
+      "properties": {
+        "title": "Banned horror title Horses begins recouping development costs after selling 30,000 copies",
+        "source": "gamedeveloper",
+        "link": "https://www.gamedeveloper.com/business/horses-begins-recouping-development-costs-after-selling-30-000-copies",
+        "published_at": "2026-06-16T13:18:12+00:00",
+        "representative_place": "Santa Ragione / Horses",
+        "place_label": "イタリア-ミラノ",
+        "sort_place_label": "イタリア-ミラノ",
+        "geocode_query": "Santa Ragione Milan Italy",
+        "place_type": "studio_site",
+        "location_precision": "city",
+        "place_reason": "game-all未解決記事にSanta RagioneのHorsesが明示されているため、同スタジオの所在地としてミラノに置く（一致語: Banned horror title Horses begins recouping development costs）",
+        "confidence": 0.72,
+        "rule_id": "observed_santa_ragione_horses_milan_202606",
+        "matched_text": "Banned horror title Horses begins recouping development costs",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3522,
+          48.8566
+        ]
+      },
+      "properties": {
+        "title": "Auditors warn Don't Nod will run out of cash by November if it is unable to secure financing",
+        "source": "GamesIndustry.biz Latest Articles Feed",
+        "link": "https://www.gamesindustry.biz/auditors-warn-dont-nod-will-run-out-of-cash-by-november-if-it-is-unable-to-secure-financing",
+        "published_at": "2026-06-16T11:20:29+00:00",
+        "representative_place": "Don't Nod",
+        "place_label": "フランス-パリ",
+        "sort_place_label": "フランス-パリ",
+        "geocode_query": "Don't Nod Paris France",
+        "place_type": "studio_site",
+        "location_precision": "city",
+        "place_reason": "game-all未解決記事にフランスのゲーム開発会社Don't Nodの資金繰り警告が明示されているため、同社所在地としてパリに置く。フランス一般ではなくスタジオ所在地として扱う（一致語: Don't Nod will run out of cash）",
+        "confidence": 0.82,
+        "rule_id": "observed_dont_nod_cash_warning_paris_202606",
+        "matched_text": "Don't Nod will run out of cash",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1218,
+          52.2053
+        ]
+      },
+      "properties": {
+        "title": "新作発表から1週間…『Hellblade』開発元Ninja Theory閉鎖すると報道―他のXBOX関連スタジオも危機に直面か - Game*Spark",
+        "source": "Game*Spark",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBlcVcyNUllSW9MbXZHTzlfWFNaLUxtb3JseEIwSVExZ1RmUzVpd1lwbnJYQ09oN0NxNEIzUnpfaU9NYVVVbXN1UzZ5WUJ2dlhvMERLQzdhaHVORXloTGxKM3hDem14dw?oc=5",
+        "published_at": "2026-06-16T07:00:00+00:00",
+        "representative_place": "Ninja Theory / Hellblade",
+        "place_label": "英国-イングランド-ケンブリッジ",
+        "sort_place_label": "英国-イングランド-ケンブリッジ",
+        "geocode_query": "Ninja Theory Cambridge England",
+        "place_type": "studio_site",
+        "location_precision": "city",
+        "place_reason": "game-all未解決記事にHellblade開発元Ninja Theoryの閉鎖リスクが明示されているため、同スタジオの所在地としてケンブリッジに置く（一致語: Hellblade』開発元Ninja Theory）",
+        "confidence": 0.86,
+        "rule_id": "observed_ninja_theory_hellblade_closure_cambridge_202606",
+        "matched_text": "Hellblade』開発元Ninja Theory",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1218,
+          52.2053
+        ]
+      },
+      "properties": {
+        "title": "Xbox is reportedly considering closing South of Midnight studio, Compulsion Games, with Double Fine and Ninja Theory also allegedly at risk",
+        "source": "GamesIndustry.biz Latest Articles Feed",
+        "link": "https://www.gamesindustry.biz/xbox-is-reportedly-considering-closing-south-of-midnight-studio-compulsion-games-with-double-fine-and-ninja-theory-also-allegedly-at-risk",
+        "published_at": "2026-06-15T21:00:01+00:00",
+        "representative_place": "Ninja Theory / Hellblade",
+        "place_label": "英国-イングランド-ケンブリッジ",
+        "sort_place_label": "英国-イングランド-ケンブリッジ",
+        "geocode_query": "Ninja Theory Cambridge England",
+        "place_type": "studio_site",
+        "location_precision": "city",
+        "place_reason": "game-all未解決記事にHellblade開発元Ninja Theoryの閉鎖リスクが明示されているため、同スタジオの所在地としてケンブリッジに置く（一致語: Ninja Theory）",
+        "confidence": 0.86,
+        "rule_id": "observed_ninja_theory_hellblade_closure_cambridge_202606",
+        "matched_text": "Ninja Theory",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.5697,
+          38.1074
+        ]
+      },
+      "properties": {
+        "title": "Toys for Bob says Spyro: Reignited's 11m sales proved \"there's an audience that woke up to show up for that series\"",
+        "source": "GamesIndustry.biz Latest Articles Feed",
+        "link": "https://www.gamesindustry.biz/toys-for-bob-says-spyro-reigniteds-11m-sales-proved-theres-an-audience-that-woke-up-to-show-up-for-that-series",
+        "published_at": "2026-06-15T20:24:47+00:00",
+        "representative_place": "Toys for Bob / Spyro",
+        "place_label": "米国-カリフォルニア州-ノバト",
+        "sort_place_label": "米国-カリフォルニア州-ノバト",
+        "geocode_query": "Toys for Bob Novato California United States",
+        "place_type": "studio_site",
+        "location_precision": "city",
+        "place_reason": "game-all未解決記事にSpyro開発元Toys for Bobが明示されているため、同スタジオの所在地としてノバトに置く（一致語: Toys for Bob says Spyro: Reignited）",
+        "confidence": 0.82,
+        "rule_id": "observed_toys_for_bob_spyro_novato_202606",
+        "matched_text": "Toys for Bob says Spyro: Reignited",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5673,
+          45.5017
+        ]
+      },
+      "properties": {
+        "title": "Report: Multiple Xbox game studio heads negotiating with Xbox to avoid closure",
+        "source": "gamedeveloper",
+        "link": "https://www.gamedeveloper.com/business/report-compulsion-games-leadership-in-negotiations-with-xbox-potential-studio-closure",
+        "published_at": "2026-06-15T20:16:23+00:00",
+        "representative_place": "Compulsion Games / South of Midnight",
+        "place_label": "カナダ-ケベック州-モントリオール",
+        "sort_place_label": "カナダ-ケベック州-モントリオール",
+        "geocode_query": "Compulsion Games Montreal Canada",
+        "place_type": "studio_site",
+        "location_precision": "city",
+        "place_reason": "game-all未解決記事にSouth of Midnight開発元Compulsion Gamesの閉鎖リスクが明示されているため、同スタジオの所在地としてモントリオールに置く（一致語: Report: Multiple Xbox game studio heads negotiating）",
+        "confidence": 0.84,
+        "rule_id": "observed_compulsion_games_south_of_midnight_montreal_202606",
+        "matched_text": "Report: Multiple Xbox game studio heads negotiating",
         "match_source": "known_place_title"
       }
     },
@@ -1388,25 +2063,52 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.009,
-          37.3349
+          0.1218,
+          52.2053
         ]
       },
       "properties": {
-        "title": "Apple announces Europe's first Developer Centre",
+        "title": "Ninja Theory cancels Project Mara",
         "source": "GamesIndustry.biz Latest Articles Feed",
-        "link": "https://www.gamesindustry.biz/apple-announces-europes-first-developer-centre",
-        "published_at": "2026-06-09T13:37:32+00:00",
-        "representative_place": "Apple本社",
-        "place_label": "米国-カリフォルニア州-クパチーノ",
-        "sort_place_label": "米国-カリフォルニア州-クパチーノ",
-        "geocode_query": "Apple Park Cupertino California United States",
-        "place_type": "institution_site",
-        "location_precision": "campus",
-        "place_reason": "Apple製品・Apple社に関する記事を、企業主体の代表地点としてApple本社に置く（一致語: Apple）",
-        "confidence": 0.66,
-        "rule_id": "apple_cupertino_headquarters",
-        "matched_text": "Apple",
+        "link": "https://www.gamesindustry.biz/ninja-theory-cancels-project-mara",
+        "published_at": "2026-06-09T07:46:09+00:00",
+        "representative_place": "Ninja Theory / Hellblade",
+        "place_label": "英国-イングランド-ケンブリッジ",
+        "sort_place_label": "英国-イングランド-ケンブリッジ",
+        "geocode_query": "Ninja Theory Cambridge England",
+        "place_type": "studio_site",
+        "location_precision": "city",
+        "place_reason": "game-all未解決記事にHellblade開発元Ninja Theoryの閉鎖リスクが明示されているため、同スタジオの所在地としてケンブリッジに置く（一致語: Ninja Theory）",
+        "confidence": 0.86,
+        "rule_id": "observed_ninja_theory_hellblade_closure_cambridge_202606",
+        "matched_text": "Ninja Theory",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.5697,
+          38.1074
+        ]
+      },
+      "properties": {
+        "title": "After a stint on Warzone, Toys for Bob is thrilled to be back on Spyro – \"We were moving away from the types of games that are near and dear to our hearts\"",
+        "source": "GamesIndustry.biz Latest Articles Feed",
+        "link": "https://www.gamesindustry.biz/after-a-stint-on-warzone-toys-for-bob-is-thrilled-to-be-back-on-spyro-we-were-moving-away-from-the-types-of-games-that-are-near-and-dear-to-our-hearts",
+        "published_at": "2026-06-08T15:50:25+00:00",
+        "representative_place": "Toys for Bob / Spyro",
+        "place_label": "米国-カリフォルニア州-ノバト",
+        "sort_place_label": "米国-カリフォルニア州-ノバト",
+        "geocode_query": "Toys for Bob Novato California United States",
+        "place_type": "studio_site",
+        "location_precision": "city",
+        "place_reason": "game-all未解決記事にSpyro開発元Toys for Bobが明示されているため、同スタジオの所在地としてノバトに置く（一致語: Toys for Bob）",
+        "confidence": 0.82,
+        "rule_id": "observed_toys_for_bob_spyro_novato_202606",
+        "matched_text": "Toys for Bob",
         "match_source": "known_place_title"
       }
     },
@@ -1820,6 +2522,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          22.9375,
+          -30.5595
+        ]
+      },
+      "properties": {
+        "title": "South African studio makes waves with futuristic heist game about reclaiming looted artefacts - News24",
+        "source": "News24",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOOEVEeFNJdEJqbHRjWmwxckFoemdrb1lidHdrYmF1cDdpMUhyUno5cnJKVmh6dWl3V1lVSWgzSjhGTWljZkhuMzRfQW5RV2ROZ2VKTlRnQUVidTZiRWtpNkE3ZHNtdHdfVy11bXIxVWxOdTBMLUlVTUYteFplcjcwc0NPUmpiNlJYeTd5dU5SNFMwT1RTSFRWVi0wSGUxbkFUdkNKaUFqNGNaeVVhcXpnWnZQS0dRbDZwQks3SXZSblFtVDVEWHFEeTFWcldoakR3QUxtMng4NEExOTRsS3c?oc=5",
+        "published_at": "2026-04-25T07:00:00+00:00",
+        "representative_place": "South African studio Nyamakop / Relooted",
+        "place_label": "南アフリカ",
+        "sort_place_label": "南アフリカ",
+        "geocode_query": "South Africa",
+        "place_type": "studio_region",
+        "location_precision": "country",
+        "place_reason": "game-allの未解決・解決済み出力で『South African studio makes waves』『top South African studio』『new South African video game』がRelooted系の記事として現れており、Relootedは南アフリカのスタジオNyamakop開発として確認できるため、南アフリカ一般ではなくNyamakop/Relootedとして扱う（一致語: South African studio makes waves）",
+        "confidence": 0.78,
+        "rule_id": "observed_nyamakop_relooted_south_africa_202606",
+        "matched_text": "South African studio makes waves",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           121.774,
           12.8797
         ]
@@ -1847,6 +2576,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          17.6791,
+          1.6508
+        ]
+      },
+      "properties": {
+        "title": "\"Ads remain the most common and viable monetisation model across Africa's gaming markets today\" - Pocket Gamer.biz",
+        "source": "Pocket Gamer.biz",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQmtWZ3pLVlNac1ZqTEJpLUQ0a0c5N2RzYTRqLTFvMGdvbm9NVWh3THdBN3IxVHRLeTdTOXRPUjFhYlZXNndWUGdtVFo4SUYxaF9hMFdocm1QOTdnTDlmYU9IWXZtSEp4c20tUld4TjQ0azhYaEdtRkFBaUs4a2p6UTVLVlhTQ2dXZXhPVHJjOHBwZjByNm13bFFvUzJUSVBHTU5IcTk3R2lfM21lVXRUU0NGVGhaXzQwU1ZDRWRB?oc=5",
+        "published_at": "2026-04-06T07:00:00+00:00",
+        "representative_place": "Africa games market",
+        "place_label": "アフリカ",
+        "sort_place_label": "アフリカ",
+        "geocode_query": "Africa",
+        "place_type": "industry_region",
+        "location_precision": "continent_region",
+        "place_reason": "未解決記事のタイトルにAfrica全体のゲーム市場・産業が明示されており、特定国ではなくアフリカ地域の話題として地域代表点に置く（一致語: Africa's gaming markets）",
+        "confidence": 0.56,
+        "rule_id": "observed_africa_gaming_market_202606",
+        "matched_text": "Africa's gaming markets",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           121.774,
           12.8797
         ]
@@ -1866,6 +2622,33 @@
         "confidence": 0.72,
         "rule_id": "observed_fallen_tear_filipino_devs_202604",
         "matched_text": "Fallen Tear: The Ascension",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9375,
+          -30.5595
+        ]
+      },
+      "properties": {
+        "title": "Game on! Why a fast, reliable fibre internet connection is key to the success of SAʼs gaming landscape - ITWeb",
+        "source": "ITWeb",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQdURaQTF1NG5acHZnLVh5SlR2TlAxWXAyTkJzMUgyYlliZHQ3SmhEQmJ2QXVtekQ4SUlDOEtMdUJ1X2tBN2FxNDgyWUN5dEZaZHlkajNfcHRSdUZVajNfQUFuUlBPMl9xNWhQelRrNTlfd3dZcUZQVE1GM0dzNjF0NVpPcHExUm1rUWtHdDBGV1Bvanc3UUx0ZEZWdEd6TURXVUlteGhJWkdOamlVVUZQVFhTaXU1eGlRV0lkdVB3WjgxbXU4QWo5UERDcFR4Q2xVNXFfOEFRckNrLTRjQUNQX213?oc=5",
+        "published_at": "2026-04-01T07:00:00+00:00",
+        "representative_place": "South African games industry",
+        "place_label": "南アフリカ",
+        "sort_place_label": "南アフリカ",
+        "geocode_query": "South Africa",
+        "place_type": "industry_region",
+        "location_precision": "country",
+        "place_reason": "未解決記事に『SAʼs gaming landscape』または『South Africa’s R7bn gaming industry』と明示される場合のみ、南アフリカのゲーム産業全体の記事として国単位に置く。『South African studio』のように開発会社が主語になり得る語では一致させない（一致語: SAʼs gaming landscape）",
+        "confidence": 0.58,
+        "rule_id": "observed_south_africa_gaming_landscape_202604",
+        "matched_text": "SAʼs gaming landscape",
         "match_source": "known_place_title"
       }
     },
@@ -1933,6 +2716,33 @@
         ]
       },
       "properties": {
+        "title": "What's behind the big reaction to a new South African video game? - CBC",
+        "source": "CBC",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQnJVcUdvbEhLM3Z5ZDJuQ1lZVHBnczJwTHdBa2czSVB4c2lIMjdmd3VkcktnTFhoaG9jNGxGWHl6am1BQ1pjaVBMYXFYMzQxZkpjc0J2Z2M4MXlvNGtZY1VQcUdLa2RSOF8tbzRUWnFRT3Y2bElZS2hNS1lEVTVYc3pzdGlVYjh0SXVCTnF4dGR6b1d5Yl9pcXhyR0JKa0lQLWdZZURzNVRaTjB5?oc=5",
+        "published_at": "2026-03-18T07:00:00+00:00",
+        "representative_place": "South African studio Nyamakop / Relooted",
+        "place_label": "南アフリカ",
+        "sort_place_label": "南アフリカ",
+        "geocode_query": "South Africa",
+        "place_type": "studio_region",
+        "location_precision": "country",
+        "place_reason": "game-allの未解決・解決済み出力で『South African studio makes waves』『top South African studio』『new South African video game』がRelooted系の記事として現れており、Relootedは南アフリカのスタジオNyamakop開発として確認できるため、南アフリカ一般ではなくNyamakop/Relootedとして扱う（一致語: new South African video game）",
+        "confidence": 0.78,
+        "rule_id": "observed_nyamakop_relooted_south_africa_202606",
+        "matched_text": "new South African video game",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9375,
+          -30.5595
+        ]
+      },
+      "properties": {
         "title": "Bad news about new video game from top South African studio - MyBroadband",
         "source": "MyBroadband",
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWWRVTlE1eW9VeDVGckFuMTRnX2hNOUtHWlJQZVg3dlBfNGdhUTVTajFSZmZjeXZHM3A0Z19RaDY5QV9oRXhwT3NrNTYwMEhvZHRHTW1fTlVLY1VsX2VRTVJ6d0lGMUlsa2pIZFdYVHRQdXBRZXk5N1FkRVJhM0lTa0lZMkwtTEROVjN4aU03X184MnhZTjRpRER4NklGajJLZHAtMFRnMGR4bmUyTnc?oc=5",
@@ -1947,6 +2757,33 @@
         "confidence": 0.78,
         "rule_id": "observed_nyamakop_relooted_south_africa_202606",
         "matched_text": "top South African studio",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9375,
+          -30.5595
+        ]
+      },
+      "properties": {
+        "title": "Video game Relooted tasks you with reclaiming African artifacts in museums - CBC",
+        "source": "CBC",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdEJpb19Sd0o1RDFyLTdLNFgwZXc3cE5WLThuU3ZOX3U0VDBLX3JwbXJJZ3VsM1UxRDNhMGRDd3E5cVpRUk95emNYV3hnQzFCWnhoQlI1ZmQxdERYdVpMSy1TOVhYb0hJNXFIenlsU1VFcGJld0p4WmN5aXBGeFlVRTZCZkhSUQ?oc=5",
+        "published_at": "2026-02-10T08:00:00+00:00",
+        "representative_place": "South African studio Nyamakop / Relooted",
+        "place_label": "南アフリカ",
+        "sort_place_label": "南アフリカ",
+        "geocode_query": "South Africa",
+        "place_type": "studio_region",
+        "location_precision": "country",
+        "place_reason": "game-allの未解決・解決済み出力で『South African studio makes waves』『top South African studio』『new South African video game』がRelooted系の記事として現れており、Relootedは南アフリカのスタジオNyamakop開発として確認できるため、南アフリカ一般ではなくNyamakop/Relootedとして扱う（一致語: Relooted）",
+        "confidence": 0.78,
+        "rule_id": "observed_nyamakop_relooted_south_africa_202606",
+        "matched_text": "Relooted",
         "match_source": "known_place_title"
       }
     },
@@ -2009,33 +2846,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -63.5752,
-          44.6488
-        ]
-      },
-      "properties": {
-        "title": "Ubisoft shuts down Halifax mobile gaming studio; affected employees hint at union busting - The Times of India",
-        "source": "The Times of India",
-        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOaWlRNmkxOG9laDFpRFJqSEIzZUpqclJwNm5Ga3NwN016c0F3Z0RYSFMzWXlvWmNqYko0dFdLTVE3cnYwRDVXaEpZWDZmYU5rZ0ZjWDVzaVVtajFTTGFJbkxYTjE2Ukg0NnNGcm9qaXBKYldXSzZBSllWLXUwX1ZyREp6ZXZaWm1FM3QwcHMwdUhhZ3dkZVJyY1BDTWRPVWpwajhpaWlRTTFMQnNSSFVKckdOekhQMl9XbElBTS00VGlNLW1rdjh4X19NRDJ0TGJUNWpwR25TNzdXMEx2UVZpeGVPcGZjTl80WkM0NWplUGNzUHBjeXlWWWE2N2jSAYICQVVfeXFMTU1DdVMxTnJuc3hfT1REZWxmUDRYc2lYa193ZTJaSEgzYlBxSDVEV3ZQclYtX1owQU5yb3o0X1lQSnZTUEs4azNiMmZBT0JIUzNVWlFHTTU5eFRJdEQ4V3lGVUhiVThTaEtULTNUVkZBQ0Q1ZENzOHNLZnlfUDlYNHR3bmlYc043VlQ4ZmNuM2JJRXBGdExiRUJGRktqZnFqYTVVa19OcUttRVhuR2pYaFIzQXFjanljc1pCY0JJUjRSdXRxRHZDeGRjemwzSGhVTFdjcThrRm10bWFMUUVQMGdqRHBWR1cwMWhiOVk1eUI2RGpEV2hTaHdwQVo1WDI1U0pn?oc=5",
-        "published_at": "2026-01-08T08:00:00+00:00",
-        "representative_place": "Halifax mobile gaming studio closure",
-        "place_label": "カナダ-ノバスコシア州-ハリファックス",
-        "sort_place_label": "カナダ-ノバスコシア州-ハリファックス",
-        "geocode_query": "Halifax Nova Scotia Canada",
-        "place_type": "studio_site",
-        "location_precision": "city",
-        "place_reason": "未解決記事のタイトルに『Halifax mobile gaming studio』と明示されているため、閉鎖対象のスタジオ所在地としてハリファックスに置く（一致語: Ubisoft shuts down Halifax mobile gaming studio）",
-        "confidence": 0.86,
-        "rule_id": "observed_ubisoft_halifax_closure_202601",
-        "matched_text": "Ubisoft shuts down Halifax mobile gaming studio",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           77.5946,
           12.9716
         ]
@@ -2090,6 +2900,60 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          22.9375,
+          -30.5595
+        ]
+      },
+      "properties": {
+        "title": "Relooted: African Gamers Steal Back Stolen History - EBONY Magazine",
+        "source": "EBONY Magazine",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBHVWg1R3h1cnN6dDZqSm9QX2t0OTdsVnpvV2R2NmxDbW0xN1lKTFhHRTFJNWJQa011amhtbkJGWFRybmNBNHZKUWFtQmdXQXVhdjZQc3NqOUFDVEs2cDVSWkt5bWRmZw?oc=5",
+        "published_at": "2025-07-09T07:00:00+00:00",
+        "representative_place": "South African studio Nyamakop / Relooted",
+        "place_label": "南アフリカ",
+        "sort_place_label": "南アフリカ",
+        "geocode_query": "South Africa",
+        "place_type": "studio_region",
+        "location_precision": "country",
+        "place_reason": "game-allの未解決・解決済み出力で『South African studio makes waves』『top South African studio』『new South African video game』がRelooted系の記事として現れており、Relootedは南アフリカのスタジオNyamakop開発として確認できるため、南アフリカ一般ではなくNyamakop/Relootedとして扱う（一致語: Relooted）",
+        "confidence": 0.78,
+        "rule_id": "observed_nyamakop_relooted_south_africa_202606",
+        "matched_text": "Relooted",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3259,
+          51.0629
+        ]
+      },
+      "properties": {
+        "title": "セガの英国スタジオCreative Assembly、『Total War(TM)』シリーズ25周年を記念し、年末の新作やコンテンツ発表を告知 - PR TIMES",
+        "source": "PR TIMES",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBhbjRkZkJwRWpxWW5JbFlBckFxZ29VYklFRWZSZk1vVWhXMm1ycXByN3ZMWkZka2FXMWQyTmlrUFJTcFJJYWFUVDJvTHRXNmlPZVMtT2dia19yRzVocmU3QUMyZzJDMVRHbGc?oc=5",
+        "published_at": "2025-06-16T07:00:00+00:00",
+        "representative_place": "Creative Assembly / Alien Isolation 2",
+        "place_label": "英国-イングランド-ホーシャム",
+        "sort_place_label": "英国-イングランド-ホーシャム",
+        "geocode_query": "Creative Assembly Horsham England",
+        "place_type": "studio_site",
+        "location_precision": "city",
+        "place_reason": "game-all未解決記事にAlien Isolation 2とCreative Assemblyの開発者インタビューがあり、Creative Assemblyの所在地としてホーシャムに置く（一致語: Creative Assembly）",
+        "confidence": 0.82,
+        "rule_id": "observed_creative_assembly_alien_isolation_2_horsham_202606",
+        "matched_text": "Creative Assembly",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           108.2772,
           14.0583
         ]
@@ -2109,6 +2973,33 @@
         "confidence": 0.76,
         "rule_id": "observed_vietnam_gameverse_2025",
         "matched_text": "Country’s Video Games Industry",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9375,
+          -30.5595
+        ]
+      },
+      "properties": {
+        "title": "Rescue African artifacts from colonizers' museums in the heist game Relooted - Engadget",
+        "source": "Engadget",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcmJ1Z1hQeHFZZVUyZzdpbENWQlVpUDJFUW95S1ZlWTRjTEhtT2ctdXpjcktqR1pHenVXVVFKV29Ic29wbVh0c0g1NHNtVnpqbTEyYW84Ui12bmNnSmlMaFprNC0yRnItYVg4aUl3ZnlSTFZGZklEY01Eby10UDY4dWNpdXdkbEYyMFJFbmJHaFZMM3N1UGpXc0lDQlBSRkF2d1pmOG9HcjZnOFI3dVUwemMtOF9fVzNLVHNDbW1iUQ?oc=5",
+        "published_at": "2025-06-06T07:00:00+00:00",
+        "representative_place": "South African studio Nyamakop / Relooted",
+        "place_label": "南アフリカ",
+        "sort_place_label": "南アフリカ",
+        "geocode_query": "South Africa",
+        "place_type": "studio_region",
+        "location_precision": "country",
+        "place_reason": "game-allの未解決・解決済み出力で『South African studio makes waves』『top South African studio』『new South African video game』がRelooted系の記事として現れており、Relootedは南アフリカのスタジオNyamakop開発として確認できるため、南アフリカ一般ではなくNyamakop/Relootedとして扱う（一致語: Relooted）",
+        "confidence": 0.78,
+        "rule_id": "observed_nyamakop_relooted_south_africa_202606",
+        "matched_text": "Relooted",
         "match_source": "known_place_title"
       }
     },
@@ -2144,60 +3035,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.009,
-          37.3349
-        ]
-      },
-      "properties": {
-        "title": "Horror game ‘Agni’, mech RPG ‘Kriegsfront’ bring Southeast Asian flavor to familiar genres - Rappler",
-        "source": "Rappler",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWFgxY0dONE5DaG12Y2pWS1FFX0dYOVotWmVpSFhPUlI4UUd6MlRBZ1dBRHFiVDE4UjF6TXVaT0pETmFIQXNMc2tJQ3pJa3l4VFhaUGZqR0RkYUVCbW1RRUpnMThGTmszQ1ZBZjcwODJwaWhXbTdrWGtab1FjZlZobUpneHBoS2p3Zm5WRHo3TnIzT3hwbUJkejVleUtDWHRnNldtbjRXZ2pTSHdWdGpXU0w5V0NYb2czbTd4VExMQkFJYWNRYVZV?oc=5",
-        "published_at": "2025-04-23T07:00:00+00:00",
-        "representative_place": "Apple本社",
-        "place_label": "米国-カリフォルニア州-クパチーノ",
-        "sort_place_label": "米国-カリフォルニア州-クパチーノ",
-        "geocode_query": "Apple Park Cupertino California United States",
-        "place_type": "institution_site",
-        "location_precision": "campus",
-        "place_reason": "Apple製品・Apple社に関する記事を、企業主体の代表地点としてApple本社に置く（一致語: Apple）",
-        "confidence": 0.66,
-        "rule_id": "apple_cupertino_headquarters",
-        "matched_text": "Apple",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          77.5946,
-          12.9716
-        ]
-      },
-      "properties": {
-        "title": "Varun Mayya, founder of Aeos Games, has revealed ‘Unleash the Avatar (Project 11A)’, a groundbreaking India-made game that aims to rival global hits like Sekiro, Ghost of Tsushima, and Horizon Forbidden West. Slated for a 2026 release, the game blends c - LinkedIn",
-        "source": "LinkedIn",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQm5sdnVrQ2ZMVDdBSXpNQ09rQ3ZuQ182VVFKblJOSFo0aXI3MzV5cTFZTmpPT3QzdEFjM2RHZk9qbFRXUU9RNGlpZHU1QXYteDJSbXh5TUlZbnB3U2lISXVSdmFCWkVlTVBDLVVISEstRENYUThRdXFwZWNqc2RrMTdsUkNZeks2RXdScy1TdTdiMVJlNFdsbmNIeW5RV3UxRVQzMVllSWtxVW9jS2tJQmVwRG8wcDVub3d3SlhRUEx4WW0wX2VDRzRidEE1eDltSWc?oc=5",
-        "published_at": "2025-04-14T07:00:00+00:00",
-        "representative_place": "Aeos Games / Unleash the Avatar",
-        "place_label": "インド-カルナータカ州-ベンガルール",
-        "sort_place_label": "インド-カルナータカ州-ベンガルール",
-        "geocode_query": "Bengaluru Karnataka India",
-        "place_type": "studio_site",
-        "location_precision": "city",
-        "place_reason": "game-all出力で『Unleash the Avatar』がインド一般に吸われていたが、記事タイトルはAeos Gamesの作品記事であり、Aeos Gamesはベンガルール拠点の開発会社として確認できるためベンガルールに置く（一致語: Unleash the Avatar）",
-        "confidence": 0.84,
-        "rule_id": "observed_aeos_games_unleash_avatar_bengaluru_202606",
-        "matched_text": "Unleash the Avatar",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           121.0508,
           14.5503
         ]
@@ -2217,33 +3054,6 @@
         "confidence": 0.82,
         "rule_id": "observed_ubisoft_philippines_industry_202502",
         "matched_text": "How Ubisoft Philippines is Leveling Up the Local Gaming Industry",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.009,
-          37.3349
-        ]
-      },
-      "properties": {
-        "title": "Video games in 2024: The ‘Tetris’ beater, ‘Palworld’ hype, PH’s ‘Until Then’ - Rappler",
-        "source": "Rappler",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbHVZTjlmSndOcmdleThiQUtSd1RiZFpUOHNMSVlvcHlFdno2M1Jubk1HdkhRUEFvZExLbk52dXZjSWVjaDNXR053Qnc4RGdYTlBXUmhzNHFWY3c5T19IUHJVYTFGTnFlNlA5LUpXeTgtUU9wY0Vld0M2MTBsMUVaSXRoSDlaQVhyeE1Ob0lPZkpBcDA4a0lrXzVPREQxbHdXN1ZXU0lXam5lWnc?oc=5",
-        "published_at": "2024-12-16T08:00:00+00:00",
-        "representative_place": "Apple本社",
-        "place_label": "米国-カリフォルニア州-クパチーノ",
-        "sort_place_label": "米国-カリフォルニア州-クパチーノ",
-        "geocode_query": "Apple Park Cupertino California United States",
-        "place_type": "institution_site",
-        "location_precision": "campus",
-        "place_reason": "Apple製品・Apple社に関する記事を、企業主体の代表地点としてApple本社に置く（一致語: Apple）",
-        "confidence": 0.66,
-        "rule_id": "apple_cupertino_headquarters",
-        "matched_text": "Apple",
         "match_source": "known_place_title"
       }
     },
@@ -2279,116 +3089,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          104.1954,
-          35.8617
-        ]
-      },
-      "properties": {
-        "title": "China’s gaming industry comes of age - East Asia Forum",
-        "source": "East Asia Forum",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1xUFdEdkZvLVhTQU56Rk1Qb3ZoVnFVdDk5aXVkQWM2OHE2NGlHUV8zMU5oS201NmtFN2QyS3VaNllpN2REUl9LLUp3Rng2TjVDZDhmenJrbFA1MVM3WGhMWWM1UHBSVGdQR2x2SFFPQzQ2d0x6ZHlwN3pxV1hTUQ?oc=5",
-        "published_at": "2024-11-16T08:00:00+00:00",
-        "representative_place": "Chinese mobile publishers global charts",
-        "place_label": "中国",
-        "sort_place_label": "中国",
-        "geocode_query": "China",
-        "place_type": "industry_region",
-        "location_precision": "country",
-        "place_reason": "game-all未解決記事のタイトル・summaryにChinese publishers / Chinaが明示され、中国系モバイルパブリッシャーの海外展開を扱う記事として中国に置く（一致語: China）",
-        "confidence": 0.72,
-        "rule_id": "observed_chinese_publishers_global_mobile_charts_202606",
-        "matched_text": "China",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          104.1954,
-          35.8617
-        ]
-      },
-      "properties": {
-        "title": "[Big read] Chinese games rake in 100 billion RMB from overseas users - ThinkChina",
-        "source": "ThinkChina",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTEd0bGtMVm1PaWFfTkI2eDdmQ3JIbTg4d3k1ZUZsaFZZYzVKTTNjVEp2Q3hRRkVGb01HeDZqbWJJYVY0cVRjMEFhakVBaG1OV1hxSmdPUkJxNXhWdUtzeTBYVFNEekprVm9rdDBGZDlLNHFieUdNSDZFSW14eHZiQ2hYSUxReU1SLXhDTGpuQVgxSWpiaUlz?oc=5",
-        "published_at": "2024-11-06T08:00:00+00:00",
-        "representative_place": "Chinese mobile publishers global charts",
-        "place_label": "中国",
-        "sort_place_label": "中国",
-        "geocode_query": "China",
-        "place_type": "industry_region",
-        "location_precision": "country",
-        "place_reason": "game-all未解決記事のタイトル・summaryにChinese publishers / Chinaが明示され、中国系モバイルパブリッシャーの海外展開を扱う記事として中国に置く（一致語: China）",
-        "confidence": 0.72,
-        "rule_id": "observed_chinese_publishers_global_mobile_charts_202606",
-        "matched_text": "China",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.009,
-          37.3349
-        ]
-      },
-      "properties": {
-        "title": "Rappler Talk Tech: ‘Until Then’ developers on Filipino representation in games - Rappler",
-        "source": "Rappler",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMlg3QXhkbkFDcnR2RzhzaGdVOFcwZVViT2h0dGlWTVcxd2pWNmJLWHJCQUhRTUZrWmwtOTdNWlk0aUQ4MDRieWhmSHRjNk9WY09OWGpKeFpPaHM0c2ZGNDUtTHRKZmo5ZzY1aDQ4MTNTS004YW0wckxvSnNmd1dlS09WU0VxVGpQZTR0aVhGZDBMTW5JVXUxU01RQ3lPbnROM0tXV0g1V3ZRWGtz?oc=5",
-        "published_at": "2024-08-09T07:00:00+00:00",
-        "representative_place": "Apple本社",
-        "place_label": "米国-カリフォルニア州-クパチーノ",
-        "sort_place_label": "米国-カリフォルニア州-クパチーノ",
-        "geocode_query": "Apple Park Cupertino California United States",
-        "place_type": "institution_site",
-        "location_precision": "campus",
-        "place_reason": "Apple製品・Apple社に関する記事を、企業主体の代表地点としてApple本社に置く（一致語: Apple）",
-        "confidence": 0.66,
-        "rule_id": "apple_cupertino_headquarters",
-        "matched_text": "Apple",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.009,
-          37.3349
-        ]
-      },
-      "properties": {
-        "title": "6 exciting games and demos from the Philippine Game Development Expo - Rappler",
-        "source": "Rappler",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQY0xnNDk1X0p2dWFjc2RtYUJMaGtid3dJWTNnUlFkZUhXUnJNOVBsUTR5d3EzQ1pZTjF0alJhS3dieENUWGFzbFo1azNra1pQY0lMNUtMNkxBNWpibG1FOFQ2YS1ZWTRpM2ZwVmxmTDdlemx1OEhULXp3Z240Uk9mV2FidUtxWW9pMjl3bUtjVnEyc1hlMTFqRWZXTXdUSEwxZ2pJ?oc=5",
-        "published_at": "2024-08-04T07:00:00+00:00",
-        "representative_place": "Apple本社",
-        "place_label": "米国-カリフォルニア州-クパチーノ",
-        "sort_place_label": "米国-カリフォルニア州-クパチーノ",
-        "geocode_query": "Apple Park Cupertino California United States",
-        "place_type": "institution_site",
-        "location_precision": "campus",
-        "place_reason": "Apple製品・Apple社に関する記事を、企業主体の代表地点としてApple本社に置く（一致語: Apple）",
-        "confidence": 0.66,
-        "rule_id": "apple_cupertino_headquarters",
-        "matched_text": "Apple",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.009,
-          37.3349
+          121.774,
+          12.8797
         ]
       },
       "properties": {
@@ -2396,16 +3098,16 @@
         "source": "Rappler",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRGlTN002MlZhX2hSSng4dEtqbmN6TFJ1MVo5QlVncVl3YmxLTk5ILUN4VlBObHhCM1ZBNExyMGlBQW5HdzZkWWpjSWNva3ZLNmlPX0hKNDZPMlBkbnpod3M3ZUFBNUpvR3ZXamI1WGY1WTBvbVpLa2xIaWZQd1lGai1lSjlUMS1yZTIxQ01rYi1IWlF4XzJ4WFFEUFlIVE5rdWdYdA?oc=5",
         "published_at": "2024-04-20T07:00:00+00:00",
-        "representative_place": "Apple本社",
-        "place_label": "米国-カリフォルニア州-クパチーノ",
-        "sort_place_label": "米国-カリフォルニア州-クパチーノ",
-        "geocode_query": "Apple Park Cupertino California United States",
-        "place_type": "institution_site",
-        "location_precision": "campus",
-        "place_reason": "Apple製品・Apple社に関する記事を、企業主体の代表地点としてApple本社に置く（一致語: Apple）",
-        "confidence": 0.66,
-        "rule_id": "apple_cupertino_headquarters",
-        "matched_text": "Apple",
+        "representative_place": "Fallen Tear made by Filipino developers",
+        "place_label": "フィリピン",
+        "sort_place_label": "フィリピン",
+        "geocode_query": "Philippines",
+        "place_type": "game_origin_region",
+        "location_precision": "country",
+        "place_reason": "未解決記事のタイトルに『made by Filipino devs』とあり、開発元の地域属性としてフィリピンに置く（一致語: Fallen Tear: The Ascension）",
+        "confidence": 0.72,
+        "rule_id": "observed_fallen_tear_filipino_devs_202604",
+        "matched_text": "Fallen Tear: The Ascension",
         "match_source": "known_place_title"
       }
     },
@@ -2441,60 +3143,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.009,
-          37.3349
-        ]
-      },
-      "properties": {
-        "title": "Game studio co-founded by Filipina wins at 2024 BAFTA Games Awards - Rappler",
-        "source": "Rappler",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWko3RDRyQWh3cnY0U1ZQNllRWFdZTHF2REdMdTl3Y0dWbS1zYnpfV2J4N1JkcHBVN2VSa2RUOHo4UW10akI5OU8tejRzU216SjdkaWhRbFVzZ2VRbDBjaTVPZHpLTVNRNlFZdWdvcGNFdGNOSy1jbXhFSWVkR01IdVk1cWJoT29QSld5bUQzbHcyaHJEYXpOSGNyUVZGZ0dXbXJ4UnJZTFdDSXlDMlFBS2Z3ME1KUTFWTWtpRlZ3?oc=5",
-        "published_at": "2024-04-12T07:00:00+00:00",
-        "representative_place": "Apple本社",
-        "place_label": "米国-カリフォルニア州-クパチーノ",
-        "sort_place_label": "米国-カリフォルニア州-クパチーノ",
-        "geocode_query": "Apple Park Cupertino California United States",
-        "place_type": "institution_site",
-        "location_precision": "campus",
-        "place_reason": "Apple製品・Apple社に関する記事を、企業主体の代表地点としてApple本社に置く（一致語: Apple）",
-        "confidence": 0.66,
-        "rule_id": "apple_cupertino_headquarters",
-        "matched_text": "Apple",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.009,
-          37.3349
-        ]
-      },
-      "properties": {
-        "title": "What will it take to produce Southeast Asia’s first triple-A video game? - Rappler",
-        "source": "Rappler",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZzlwVnhTRmE3QjVZUWduZEZuNzdiaEpzZERncUVLTUNiN2RGZXFXQmhZUnp3X1BycF9NajFyYWlHaWptS2dJak50dGhYcE5rNVNPUjBnSnRWVjg1T0tYQWZmT2ZFMG5ZSC11c25GNTlKenFwQVJuUzRONXItZTJWcnp4bGdRd2l0bVUyS05kS2FlbE82R290Nk1WOTQzX01ZX2NWWTdpVkw3QQ?oc=5",
-        "published_at": "2024-03-20T07:00:00+00:00",
-        "representative_place": "Apple本社",
-        "place_label": "米国-カリフォルニア州-クパチーノ",
-        "sort_place_label": "米国-カリフォルニア州-クパチーノ",
-        "geocode_query": "Apple Park Cupertino California United States",
-        "place_type": "institution_site",
-        "location_precision": "campus",
-        "place_reason": "Apple製品・Apple社に関する記事を、企業主体の代表地点としてApple本社に置く（一致語: Apple）",
-        "confidence": 0.66,
-        "rule_id": "apple_cupertino_headquarters",
-        "matched_text": "Apple",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           101.6869,
           3.139
         ]
@@ -2522,79 +3170,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          104.1954,
-          35.8617
+          17.6791,
+          1.6508
         ]
       },
       "properties": {
-        "title": "Capcom sees game sales in India passing those in China in decade - The Business Times",
-        "source": "The Business Times",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeWltTk02X0FwVFg0c1NWSl9vbXNMVXdGSmhMUWV4R0FEVHRQbHBfM2xCY3JoNzBzMUdlY0ViVW5Sc0JDV2Q3Qi1RTEFLTUo2a0ZkSUZZcVIzS0pRcEpJejNkZW9DakNmU1N0Si0wdTZNcjRDX1BPSEtRTk9Oek1fQUFVak13cVl3MGhhU0J3bm9nQzdEZ0xpclFzeF9kX0JsWXZ1YmVOR3E0QQ?oc=5",
-        "published_at": "2023-09-25T07:00:00+00:00",
-        "representative_place": "Chinese mobile publishers global charts",
-        "place_label": "中国",
-        "sort_place_label": "中国",
-        "geocode_query": "China",
+        "title": "Olivier Madiba pioneers the African video game industry - We are Tech",
+        "source": "We are Tech",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZ045cVJnM2VQOXBySDNoZ2VpMDI2ajNjR1ZfQmZoMUZTNVlDamdRa01tSmlaX3oxWUd3Y2NpSWYyUm03ZGhuQXBuUGNnZ2htTzMtNW5WeHl4ekFKZGZJOHZlS2dQRU15SXYyVFNoLUJZbnFSSmRhRTUwaHBhbkhNSXNDMG9QcENBS1hiTkJYaERxdGJIQ01MRHk2cFM5WFplTVFjUU14MHVXQQ?oc=5",
+        "published_at": "2023-05-10T11:10:24+00:00",
+        "representative_place": "Africa games market",
+        "place_label": "アフリカ",
+        "sort_place_label": "アフリカ",
+        "geocode_query": "Africa",
         "place_type": "industry_region",
-        "location_precision": "country",
-        "place_reason": "game-all未解決記事のタイトル・summaryにChinese publishers / Chinaが明示され、中国系モバイルパブリッシャーの海外展開を扱う記事として中国に置く（一致語: China）",
-        "confidence": 0.72,
-        "rule_id": "observed_chinese_publishers_global_mobile_charts_202606",
-        "matched_text": "China",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.009,
-          37.3349
-        ]
-      },
-      "properties": {
-        "title": "PH startup Gamer Points proposes ad-based earning mechanism while playing video games - Rappler",
-        "source": "Rappler",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVEdnMjRIZkRwX2dNV1NuTXhRR0pJLWdaOXU2VEdYS25QODN4bEVfU0M3aUMxNktEUm8zSjZqLWI5NkZjRmxQTHA0aXN6M1F5S0tmWlNQRTVWTmZvNDlkYUZxUk9tY2VrdVJ6UGExUDQxZ3VhRGtCQnJzd3RXT0RDTU9EeC1odmhxYjc0ZnR4bkhNRDdKLVNnSXBfSEpGdVN6QmFyemRoTmJzcGZVbl9SNGVfVmZndEN6b1hHZUFtemg2bUlC?oc=5",
-        "published_at": "2023-09-08T07:00:00+00:00",
-        "representative_place": "Apple本社",
-        "place_label": "米国-カリフォルニア州-クパチーノ",
-        "sort_place_label": "米国-カリフォルニア州-クパチーノ",
-        "geocode_query": "Apple Park Cupertino California United States",
-        "place_type": "institution_site",
-        "location_precision": "campus",
-        "place_reason": "Apple製品・Apple社に関する記事を、企業主体の代表地点としてApple本社に置く（一致語: Apple）",
-        "confidence": 0.66,
-        "rule_id": "apple_cupertino_headquarters",
-        "matched_text": "Apple",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.009,
-          37.3349
-        ]
-      },
-      "properties": {
-        "title": "ESGS, the PH’s premier annual game convention, makes face-to-face return on October 28 - Rappler",
-        "source": "Rappler",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcVFzODhCRVhPRWdOcWlHOUwwd2VJTjlsamtRVEFobVotYUtod2V5U3p5a3BObXhJNUdlbTVQbWZ6Z2dyRTNWenZBbHZ5SVhOa0tWSWdqT3VzUkM1c1BhelZ2c3VubFo2THNhaElFSTBReTlSb2ttdHNXQTV0bUdhX1pieTNlWUJULW9BZmY4ZDMtVVVNS3JuTWZNa21WVVMzTVJ6YUwxRlBtVS1tdEIxVGxEWDM?oc=5",
-        "published_at": "2022-10-25T07:00:00+00:00",
-        "representative_place": "Apple本社",
-        "place_label": "米国-カリフォルニア州-クパチーノ",
-        "sort_place_label": "米国-カリフォルニア州-クパチーノ",
-        "geocode_query": "Apple Park Cupertino California United States",
-        "place_type": "institution_site",
-        "location_precision": "campus",
-        "place_reason": "Apple製品・Apple社に関する記事を、企業主体の代表地点としてApple本社に置く（一致語: Apple）",
-        "confidence": 0.66,
-        "rule_id": "apple_cupertino_headquarters",
-        "matched_text": "Apple",
+        "location_precision": "continent_region",
+        "place_reason": "未解決記事のタイトルにAfrica全体のゲーム市場・産業が明示されており、特定国ではなくアフリカ地域の話題として地域代表点に置く（一致語: African Video Game Industry）",
+        "confidence": 0.56,
+        "rule_id": "observed_africa_gaming_market_202606",
+        "matched_text": "African Video Game Industry",
         "match_source": "known_place_title"
       }
     },
@@ -2657,141 +3251,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.009,
-          37.3349
-        ]
-      },
-      "properties": {
-        "title": "Fun is the name of the game for new NFT play-to-earn project RedShield Games - Rappler",
-        "source": "Rappler",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNN3o1SmxUdzFfdG4zbVktWm9CbmRRNENBNjlkMEhvYzNuOTJVZ2pYVnJCYjg2eVEwWXRFeDJaTzJqR3F4SERydFI3eHBMbTBMSjZHV0h2bUlvMHZNV3VHZkFNNG1vS0lGWEd1QkRsMkpNY1QxQzBYN2ZiQnRrdmRLWkNPYkNYOTRJOFE?oc=5",
-        "published_at": "2022-05-27T07:00:00+00:00",
-        "representative_place": "Apple本社",
-        "place_label": "米国-カリフォルニア州-クパチーノ",
-        "sort_place_label": "米国-カリフォルニア州-クパチーノ",
-        "geocode_query": "Apple Park Cupertino California United States",
-        "place_type": "institution_site",
-        "location_precision": "campus",
-        "place_reason": "Apple製品・Apple社に関する記事を、企業主体の代表地点としてApple本社に置く（一致語: Apple）",
-        "confidence": 0.66,
-        "rule_id": "apple_cupertino_headquarters",
-        "matched_text": "Apple",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          104.1954,
-          35.8617
-        ]
-      },
-      "properties": {
-        "title": "In China, Singapore and South Korea, gaming’s dark side put under spotlight - South China Morning Post",
-        "source": "South China Morning Post",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeHdqWTNBRm9ycl9NdDRLUF9tNnRZRjEyU2VIRHlaTXRMa2prS1dHdUlzTU1HMmdhaFRYZEZsNGtYY2pUbEpsb2dpcTFPQldqanUteUFUeXc4MlVQUGJYMzZRQ3FsZ0pfbkNZRVRVbVhHY056WC1SaVc1VHVFbTRHMmhtbFVfYS1Udjc0MDFhWUs4SkFVWncweFA2Ykt2MFZOQ3dKRzhEeEY2U0pPekJpVEVmemvSAbQBQVVfeXFMTlA4eS1YQnRaRTk3dmR5OVRFOVpqd3EwOVNZZGFxMThiS3FBSFkyWjVPQWY4MktmZjdqT0RLRnh0YlZXTU9pWndKYWlTcXQxQXJDdVJ1Wm4zLWtHbjE0dFFxQ3FBRUQ3WTlvZ2hVbnByTFVjd3dNWG5zcE5jR29uOXlnYVMyelpxWFE2NVFmS20tNVJBTnlPTVVHUFllQW5ObTBNaE9SSnVTbUZkd1pLc0xVR0VB?oc=5",
-        "published_at": "2021-09-10T07:00:00+00:00",
-        "representative_place": "Chinese mobile publishers global charts",
-        "place_label": "中国",
-        "sort_place_label": "中国",
-        "geocode_query": "China",
-        "place_type": "industry_region",
-        "location_precision": "country",
-        "place_reason": "game-all未解決記事のタイトル・summaryにChinese publishers / Chinaが明示され、中国系モバイルパブリッシャーの海外展開を扱う記事として中国に置く（一致語: China）",
-        "confidence": 0.72,
-        "rule_id": "observed_chinese_publishers_global_mobile_charts_202606",
-        "matched_text": "China",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          104.1954,
-          35.8617
-        ]
-      },
-      "properties": {
-        "title": "ByteDance-Tencent feud a boon to small gaming studios - South China Morning Post",
-        "source": "South China Morning Post",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWDk3dzMzNGxDd09aNG1XRVNHMElWVlVUU0d2dTVaUkxyLWwzVnJ2d205UzlaXzNmWnk1bldWdElQQTBHdFdocFRqNmpWbmd3QjU3c3hnOUpEa1R6Ql9SMkJyVEV0SlJZNEdaSWo1OGlFTkV1S2JpZmthbXRDV0JSa2g3OE5LblZVeFBVdWdLdWphcUtBREN4QlQ1NnRzaEdxNTFOR3dzU0hHSk1yLXRUZ1ZMcWdnWV9BanM00gG7AUFVX3lxTE9MZ1RqMWtiLURZUHlwelI2SDUwQ0FYYkxBMVdSYjBDSGs1SXFxSkIwWUZoY3FhcFAyd1pGVUh2OTVVMGZPNENFVnVJZkdKeTVfdUlyRXJfWmdYbnNrb2VCVUFTUEg5LWJNUlU4ejBvcjQ4NW1ET3NLSXo1andBTVV1Wk9BM1hGZkY2TVVXWU1VVjNUVlJ5RUtveko4T3BaMGZOYno1LVMzcVc5WlVta3ZuS0kyLXFELVhVNk0?oc=5",
-        "published_at": "2021-04-21T07:00:00+00:00",
-        "representative_place": "Chinese mobile publishers global charts",
-        "place_label": "中国",
-        "sort_place_label": "中国",
-        "geocode_query": "China",
-        "place_type": "industry_region",
-        "location_precision": "country",
-        "place_reason": "game-all未解決記事のタイトル・summaryにChinese publishers / Chinaが明示され、中国系モバイルパブリッシャーの海外展開を扱う記事として中国に置く（一致語: China）",
-        "confidence": 0.72,
-        "rule_id": "observed_chinese_publishers_global_mobile_charts_202606",
-        "matched_text": "China",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          104.1954,
-          35.8617
-        ]
-      },
-      "properties": {
-        "title": "'ByteDance acquires game studio Moonton at around US$4b' - chinadailyhk",
-        "source": "chinadailyhk",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1kQXVFUkFpY1QzUDFaMkdwbHk4aGUyT2FsVE1MMDktbndpellQUUNkVnM5azRZdU1nN0ZuYVdWYlhwNmlkOTkwZWpldmhDS0wwOWluQUtpUVpfZw?oc=5",
-        "published_at": "2021-03-22T07:00:00+00:00",
-        "representative_place": "Chinese mobile publishers global charts",
-        "place_label": "中国",
-        "sort_place_label": "中国",
-        "geocode_query": "China",
-        "place_type": "industry_region",
-        "location_precision": "country",
-        "place_reason": "game-all未解決記事のタイトル・summaryにChinese publishers / Chinaが明示され、中国系モバイルパブリッシャーの海外展開を扱う記事として中国に置く（一致語: China）",
-        "confidence": 0.72,
-        "rule_id": "observed_chinese_publishers_global_mobile_charts_202606",
-        "matched_text": "China",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          104.1954,
-          35.8617
-        ]
-      },
-      "properties": {
-        "title": "A Malaysian hijabi and a Singlish-speaking robot: inclusive video games - South China Morning Post",
-        "source": "South China Morning Post",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMHNTbEk3SEtGa0p2cWE1T1ZxMVFJYjBHdG11QjdhNnZ3WGIzY3g0Q0NxajZaUERXek9pcHUwMnQxNHZJLURudXlCRHJoUzliN2ltbzJCTkhFcDA0X0hhelpQa0k2RVI4ZlVyQmM0RTBwMUEyNWtaOG43b3Q5YllHOW9ickUtRTJZcVFUWF9pZjU5Q05URGdhSXVSa3V3Q2NVdElBakN3R2UyaHQzN2huRENHc9IBswFBVV95cUxNYnhiV0RtTHRKOE5ZbGU2NTVUUk5KRG50MFlOY3FHY3ZMMDFNVVl0ZnA3ZWpLYW9KLTVwMGJwRXZJdlZCUmlLS0k4cHBtUnUyV2w0ejhuemdjMk1pVFc3Q3JkNlA3RnRmVDZaTmRzZ01aRVhsbzdtQkxETWxBTDB5V0U0WUFXN3Jhc3BvbHRXY2VjU21XVlRfWmRVb0hmNzRXRFNtS1c2WjdKTFk2WVJVaDBuYw?oc=5",
-        "published_at": "2020-09-24T07:00:00+00:00",
-        "representative_place": "Chinese mobile publishers global charts",
-        "place_label": "中国",
-        "sort_place_label": "中国",
-        "geocode_query": "China",
-        "place_type": "industry_region",
-        "location_precision": "country",
-        "place_reason": "game-all未解決記事のタイトル・summaryにChinese publishers / Chinaが明示され、中国系モバイルパブリッシャーの海外展開を扱う記事として中国に置く（一致語: China）",
-        "confidence": 0.72,
-        "rule_id": "observed_chinese_publishers_global_mobile_charts_202606",
-        "matched_text": "China",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           121.0508,
           14.5503
         ]
@@ -2811,168 +3270,6 @@
         "confidence": 0.82,
         "rule_id": "observed_ubisoft_philippines_industry_202502",
         "matched_text": "Ubisoft Philippines",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          104.1954,
-          35.8617
-        ]
-      },
-      "properties": {
-        "title": "Fantasy game created in Southeast Asia, and inspired by it too – for once - South China Morning Post",
-        "source": "South China Morning Post",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYVB0Zk5LbFlaNFU1RzBIeVJTbmVWMmNnX3dDdXotNk1vNDNYR2tfS0xUbzJUVXh2MWtmZDdKVVlyRlBQRWJTNjNaN0d1WHZ3Qi1hdEk4SjNSYVNxSFVvS3dPUFoxOGhhNXQxeW54bzVWVWUxVUUzRmljbG1ueXVpVEduYnVKZlctcm5mUGRCMktUYVpvb0szZnI5Rk1iSDlfTE0xT25BdkJFOVpYdXhHYUlRUDlDQdIBtgFBVV95cUxOR3pUSnZWSVpWVEh6a3pkWU9hRDNxUjAwblVfUW8zOWhraHAyc2FwaVFMQ0dFM3VVSDRjS0VsOW4tNm9kSmZJOWtJSzdsMHNjN3FEYS04NnBLQXBmSVNoTF8wZFFJZGhXOXlVQWp6LUY3amZRRW5HWHhRTHJ3VHNNU08yUXVEa3AzTllGcGNCR0pYOHd6Nl9kcExZTFNiUWFLUEU1bXFqRVBZN1lKZkFLazlBVWJWdw?oc=5",
-        "published_at": "2020-07-17T07:00:00+00:00",
-        "representative_place": "Chinese mobile publishers global charts",
-        "place_label": "中国",
-        "sort_place_label": "中国",
-        "geocode_query": "China",
-        "place_type": "industry_region",
-        "location_precision": "country",
-        "place_reason": "game-all未解決記事のタイトル・summaryにChinese publishers / Chinaが明示され、中国系モバイルパブリッシャーの海外展開を扱う記事として中国に置く（一致語: China）",
-        "confidence": 0.72,
-        "rule_id": "observed_chinese_publishers_global_mobile_charts_202606",
-        "matched_text": "China",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          104.1954,
-          35.8617
-        ]
-      },
-      "properties": {
-        "title": "【新作情報】事前登録15万突破！中国人Pが語る放置系『無限放置物語』のこだわりとは？ - chinagamenews.net",
-        "source": "chinagamenews.net",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1UT2l3SmFIbUNKRDczbHlYSE5DbjZDbWtxczQ4RDZXenJSZ193aVN2R3V1VnJOd2p6NnNEOFlwM2JBWXJwZUozMTgxdDI0MVhsU3BQbw?oc=5",
-        "published_at": "2020-07-16T07:00:00+00:00",
-        "representative_place": "Chinese mobile publishers global charts",
-        "place_label": "中国",
-        "sort_place_label": "中国",
-        "geocode_query": "China",
-        "place_type": "industry_region",
-        "location_precision": "country",
-        "place_reason": "game-all未解決記事のタイトル・summaryにChinese publishers / Chinaが明示され、中国系モバイルパブリッシャーの海外展開を扱う記事として中国に置く（一致語: China）",
-        "confidence": 0.72,
-        "rule_id": "observed_chinese_publishers_global_mobile_charts_202606",
-        "matched_text": "China",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          104.1954,
-          35.8617
-        ]
-      },
-      "properties": {
-        "title": "Horror video game’s ghosts, demons from Indonesian folklore make it a hit - South China Morning Post",
-        "source": "South China Morning Post",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeFBaWmxPSGJTVGdDazg4Yk5FcEpWLVhSMHZVVm15bUtyLXdhdFJJcS1iYVBGeGwyY3dtYnlYV2FKT2tJQUNuN1lwcjFGS2E0Tk4zaF9nWDhEUmRkV0VnTUdxcHc5RXc0czcwbVgxaW1xdExQR1JkS0lCRzd1dmhPYmRwV0gxajlleHVfdU9kLTh3a3hXTzFjNm9ESTRHX1dtTkpKM0dzNFV2ZkZwZ3pTZXNn0gGyAUFVX3lxTFBZTDF4Q25kcmtOcDBhYlJFbHY3cllCdHdvamtrR2VKcFhwMW9DSGJPeUs4NWFSUnBMcUZzZmU0N1ljYVRQM05TLTBxRDZMUFRzWmVRUmtEcEdzZDYwbjNCaUZnWENHR0RRbnhGbzNMSzAtb3VDaTEtM0JtdEVRdi1MNEtqOTVkaU5YM0NlenBZUjdSdlhleEtPSlpoQlIyazdyRVN5NG03Q2g1NThjbmJueVE?oc=5",
-        "published_at": "2020-06-13T07:00:00+00:00",
-        "representative_place": "Chinese mobile publishers global charts",
-        "place_label": "中国",
-        "sort_place_label": "中国",
-        "geocode_query": "China",
-        "place_type": "industry_region",
-        "location_precision": "country",
-        "place_reason": "game-all未解決記事のタイトル・summaryにChinese publishers / Chinaが明示され、中国系モバイルパブリッシャーの海外展開を扱う記事として中国に置く（一致語: China）",
-        "confidence": 0.72,
-        "rule_id": "observed_chinese_publishers_global_mobile_charts_202606",
-        "matched_text": "China",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          104.1954,
-          35.8617
-        ]
-      },
-      "properties": {
-        "title": "Exclusive | Singapore’s Sea to develop more games, financial services in Southeast Asia expansion - South China Morning Post",
-        "source": "South China Morning Post",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSHBiNE80NXlRaTc5dDhGSWdTeWd4MEV4RDZKTmlPbXBXTV9obDIxYVQ1X0FKNVdyRXZBWVF3T2diMDh1Y3R6R0hIQmw0NjVXcGJzekEyRG5DOHRIZDNXNHFrSi0yUHEyRmNWc0VDbjNRNTF6UFh0cHoyQlpMR2E0MXU3UVQzWUFMSGgxb1dKUkdMeU9pc1ZneVR5WThSVEVlY3FCeU1mVkNEZVBGbzdZT0F3NlpYVlFHZmE2d0Jn0gG-AUFVX3lxTE8xaFpjLXJIN0l2TEFsSWwwcU9mbVNCampwSUM5SXRzVXYxc0hpdHJyaWF0bWJTbkthOUxUazc5NUNKN3oxcVd0U3d0WmVKR0Exb1hxeWFTLVJDQkVOU05fdFFHaGU1RUNlVkJPbElPNXpWMFg4R0QzYk1tdUpTdVZ0OHJLYzRLY2s1OW9XdXByWjBOMUJqWW8zc3RpYkdERHhUMGtlVF9ic3otaGF2SDJfYkF2TUdqdVV0Qi1CcXc?oc=5",
-        "published_at": "2018-06-26T07:00:00+00:00",
-        "representative_place": "Chinese mobile publishers global charts",
-        "place_label": "中国",
-        "sort_place_label": "中国",
-        "geocode_query": "China",
-        "place_type": "industry_region",
-        "location_precision": "country",
-        "place_reason": "game-all未解決記事のタイトル・summaryにChinese publishers / Chinaが明示され、中国系モバイルパブリッシャーの海外展開を扱う記事として中国に置く（一致語: China）",
-        "confidence": 0.72,
-        "rule_id": "observed_chinese_publishers_global_mobile_charts_202606",
-        "matched_text": "China",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.009,
-          37.3349
-        ]
-      },
-      "properties": {
-        "title": "Filipino game developers showcase titles at Tokyo Game Show 2016 - Rappler",
-        "source": "Rappler",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPalh1aDJzNVBQSm96R1JpMWpuRllPVUN1TEljbHFBM3phRl9OaWpRTHUtbDNnY1k1QU9Nd2JBM3J2SFlVLXJVZjNCZTRoQlFxcUdIekZmdkhZMHBjR1o2WjNWQk1vbGxWcEpKZW9zS2tlcVFobkhaaTRYWW5LeHo1UmNZNFhtY3ZyeWsteEs5dGcxZw?oc=5",
-        "published_at": "2016-09-18T07:00:00+00:00",
-        "representative_place": "Apple本社",
-        "place_label": "米国-カリフォルニア州-クパチーノ",
-        "sort_place_label": "米国-カリフォルニア州-クパチーノ",
-        "geocode_query": "Apple Park Cupertino California United States",
-        "place_type": "institution_site",
-        "location_precision": "campus",
-        "place_reason": "Apple製品・Apple社に関する記事を、企業主体の代表地点としてApple本社に置く（一致語: Apple）",
-        "confidence": 0.66,
-        "rule_id": "apple_cupertino_headquarters",
-        "matched_text": "Apple",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          104.1954,
-          35.8617
-        ]
-      },
-      "properties": {
-        "title": "How Poland turned into a video game powerhouse - South China Morning Post",
-        "source": "South China Morning Post",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQM3Nfa3hieXJFLXFhakhFRVRtNUxob2kzLTRuQWI5Qm40ZUpsR05ZREs5bWEzdnp5aU90VVIyQ1hBWkFJQmpRbGk1aHVtWDJ6MU9mSGh5T0ZBeVFSUFZEdjN4Y2FnaXJSNWZMSEVqTWo0SG9zclRINEZ1X0xrY0Q1OUw3dFlUbXJBYnN2LUJ6czV5bnRGM3d1ZFdKUmhzaDFzaEstby1HaVlSSVlRdGfSAa4BQVVfeXFMUEhxdWhTekxWejMyVmQ5Q3V2MVdLMExJc05aZkY5b0lNcFhIN0VBRGJzOG9ERUxOR1paQ0NubGpTaXhtc1BvM1ZlVF9jT1VPeE05YURrM0VMU3ZVU1d3TWdpNkFXTUJVNjJ6YXZwRVh5YmtaaDROMmxFNDEtaFBfRzg4NlMxQ1FLQVFQcXIzbVVjVll4TnhHYkZzR25IVzJXbExvMmw0U25rZk5PS3ln?oc=5",
-        "published_at": "2015-07-24T07:00:00+00:00",
-        "representative_place": "Chinese mobile publishers global charts",
-        "place_label": "中国",
-        "sort_place_label": "中国",
-        "geocode_query": "China",
-        "place_type": "industry_region",
-        "location_precision": "country",
-        "place_reason": "game-all未解決記事のタイトル・summaryにChinese publishers / Chinaが明示され、中国系モバイルパブリッシャーの海外展開を扱う記事として中国に置く（一致語: China）",
-        "confidence": 0.72,
-        "rule_id": "observed_chinese_publishers_global_mobile_charts_202606",
-        "matched_text": "China",
         "match_source": "known_place_title"
       }
     }

@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "created_at": "2026-06-28T17:34:27.580478+00:00",
+  "created_at": "2026-06-28T22:28:12.926937+00:00",
   "stats": {
     "feed_id": "google-news-ai-ja",
     "feed_label": "Google News: AI / 生成AI",
@@ -13,10 +13,10 @@
       "https://news.google.com/rss/search?q=AI%20%E7%94%9F%E6%88%90AI%20OpenAI&hl=ja&gl=JP&ceid=JP:ja": 100
     },
     "filtered": 100,
-    "resolved": 1,
-    "unresolved": 99,
-    "rules": 71,
-    "known_places": 73,
+    "resolved": 0,
+    "unresolved": 100,
+    "rules": 94,
+    "known_places": 96,
     "loaded_data_files": [
       "data/place_rules.json",
       "data/unresolved_known_places_12.json",
@@ -131,6 +131,14 @@
       "feed_url": "https://news.google.com/rss/search?q=AI%20%E7%94%9F%E6%88%90AI%20OpenAI&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
+      "title": "OpenAI「ミュトス級AI」日本に開放 アンソロピックと技術標準競う - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBtTVJWSXZZNHFINkRueFpGNkRmYVZPZWwyUzU4Nm92bW8tcWdSRFVoTFZ1cUNVaF9UWVJMU2NCWWdfNERCR2NQTWp2cFdOdlNnUUpYTS1VVmozbHIxOG83N05BVXNlQ19YM25UMA?oc=5",
+      "source": "日本経済新聞",
+      "published_at": "2026-05-29T07:00:00+00:00",
+      "summary": "OpenAI「ミュトス級AI」日本に開放 アンソロピックと技術標準競う    日本経済新聞",
+      "feed_url": "https://news.google.com/rss/search?q=AI%20%E7%94%9F%E6%88%90AI%20OpenAI&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
       "title": "MUFG、OpenAI とともに AI-Native な企業を目指す - OpenAI",
       "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1pUjBIckFvMzlrWFY4bEYwNXZSdmt2ZmVTRVJHSDFJQy1OVmhNaFFzVVk4Q0VqUUdUaHpvN3NZNnhJU3JaMjF3bW1UT1Q?oc=5",
       "source": "OpenAI",
@@ -200,14 +208,6 @@
       "source": "日本経済新聞",
       "published_at": "2026-05-21T07:00:00+00:00",
       "summary": "OpenAI、ミュトス級AIの日本提供を検討 幹部「中国が最大脅威」    日本経済新聞",
-      "feed_url": "https://news.google.com/rss/search?q=AI%20%E7%94%9F%E6%88%90AI%20OpenAI&hl=ja&gl=JP&ceid=JP:ja"
-    },
-    {
-      "title": "OpenAI、ChatGPTに個人向け金融管理機能を追加。金融口座連携や支出分析に対応 - AIsmiley",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1xZjA1b2cxdkJZTU8yekF5bUJ5ajZyYmJhR25ZYzZ1TUJUZGVZNjhMMjhsTXAzUXRFVFV1QkZzR1ItRVhpNjF6RVFXR1BRSmNzeEQ1eVRramFfUWhBZXIzY1RtT1BwZmVpV0NvbmNWSlQ?oc=5",
-      "source": "AIsmiley",
-      "published_at": "2026-05-21T07:00:00+00:00",
-      "summary": "OpenAI、ChatGPTに個人向け金融管理機能を追加。金融口座連携や支出分析に対応    AIsmiley",
       "feed_url": "https://news.google.com/rss/search?q=AI%20%E7%94%9F%E6%88%90AI%20OpenAI&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
@@ -368,14 +368,6 @@
       "source": "ASCII.jp",
       "published_at": "2026-04-27T07:00:00+00:00",
       "summary": "ChatGPTの画像生成AIが強すぎる AI画像が世界中に氾濫する時代へ (1/5)    ASCII.jp",
-      "feed_url": "https://news.google.com/rss/search?q=AI%20%E7%94%9F%E6%88%90AI%20OpenAI&hl=ja&gl=JP&ceid=JP:ja"
-    },
-    {
-      "title": "あなたの検索結果がAIの画像生成で独自図鑑になっていく新感覚ブラウザ「Flipbook」を元OpenAIチーム開発（生成AIクローズアップ） - テクノエッジ TechnoEdge",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0wRUc2UWpDNTgwWEREUXVKTHVBb0ZFQ2FPTnoyaUo2MEd4Q1lvczRVT000RGdzZTJkbUw5NkVDV2JGb0k2M3RLX0dnRVRfSGtQM2ZEUElMY2ZDSUpTQVNSa2Fnb2NlQWM?oc=5",
-      "source": "テクノエッジ TechnoEdge",
-      "published_at": "2026-04-27T07:00:00+00:00",
-      "summary": "あなたの検索結果がAIの画像生成で独自図鑑になっていく新感覚ブラウザ「Flipbook」を元OpenAIチーム開発（生成AIクローズアップ）    テクノエッジ TechnoEdge",
       "feed_url": "https://news.google.com/rss/search?q=AI%20%E7%94%9F%E6%88%90AI%20OpenAI&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
@@ -627,6 +619,14 @@
       "feed_url": "https://news.google.com/rss/search?q=AI%20%E7%94%9F%E6%88%90AI%20OpenAI&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
+      "title": "OpenAI、高速・低コストに特化した軽量AIモデル「GPT-5.4 mini」および「nano」を公開 - ビジネス+IT",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAzdU82aF9rcXFRbElUX2VtalQ1SFhTaFF0eHpPV0NnNm5TcTFqQzNwajRTX2Z1aVZJT0w5dFZYTHpTSHh2SnJldFU2Uk53QlNIUXM0?oc=5",
+      "source": "ビジネス+IT",
+      "published_at": "2026-03-18T07:00:00+00:00",
+      "summary": "OpenAI、高速・低コストに特化した軽量AIモデル「GPT-5.4 mini」および「nano」を公開    ビジネス+IT",
+      "feed_url": "https://news.google.com/rss/search?q=AI%20%E7%94%9F%E6%88%90AI%20OpenAI&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
       "title": "exaBase 生成AI、日本リージョンで利用可能な「GPT-5.2」の提供を開始 ～最新モデルのGPT-5.4やGemini 3.1 Pro Previewの提供も開始、利用場面に応じたモデルの選択が可能に - 株式会社エクサウィザーズ",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBIVThhM1VjTVVxbkplU09fY1Z5ei1lVGtNWHVBQUViS1BPZ3pyZ0FuSGRrOWN0TXBRaHZlX1N1TnZFSlBNY1ZHNXBJWFNLYms?oc=5",
       "source": "株式会社エクサウィザーズ",
@@ -712,6 +712,14 @@
       "source": "nttpc.co.jp",
       "published_at": "2026-02-25T01:39:17+00:00",
       "summary": "2025年、AIエージェント技術が普及し始めた理由と、OpenAI Agent Builderで実際に作ってみた話    nttpc.co.jp",
+      "feed_url": "https://news.google.com/rss/search?q=AI%20%E7%94%9F%E6%88%90AI%20OpenAI&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "title": "生成AI広告時代に突入か？OpenAIがChatGPTの広告を発表。一方AppleはGemini採用も - 株式会社オトナル",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1lZUdLWDNmTmVPSjMwWk9RUFdsbXRXVGZ4WkN4ZnVIRmxUbmhOOXF0VzYxeVBOeDFEWDI0N2NNTnBwd042cFE?oc=5",
+      "source": "株式会社オトナル",
+      "published_at": "2026-02-14T08:00:00+00:00",
+      "summary": "生成AI広告時代に突入か？OpenAIがChatGPTの広告を発表。一方AppleはGemini採用も    株式会社オトナル",
       "feed_url": "https://news.google.com/rss/search?q=AI%20%E7%94%9F%E6%88%90AI%20OpenAI&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
