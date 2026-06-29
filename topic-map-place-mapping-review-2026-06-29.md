@@ -72,9 +72,71 @@ These were fixed from the same generated output snapshot and should be verified 
   - removed `Don't Nod` / `Dontnod` company-name-only match
   - expected: multi-topic Patch Notes roundups should not map to Don't Nod's Paris 19e location only because the summary mentions the company
 
+## Batch 44 pending verification
+
+- `observed_ninja_theory_hellblade_closure_cambridge_202606`
+  - narrowed Ninja Theory mapping to Ninja Theory-led articles
+  - expected: Xbox multi-studio closure watch should not remain only on Ninja Theory Cambridge
+
+- `observed_xbox_multi_studio_closure_watch_202606`
+  - new multi-studio Xbox restructuring topic
+  - expected: Compulsion / Double Fine / Ninja Theory shared risk article should map to Microsoft Gaming/Xbox restructuring topic
+
+- `observed_nodding_heads_games_pune_202606`
+  - narrowed Nodding Heads to Raji / studio-led articles
+  - expected: India Games Showcase partnership articles should not map to Pune studio only
+
+- `observed_india_games_showcase_partnership_202606`
+  - new India Games Showcase topic
+  - expected: NODWIN + Nodding Heads + Summer Game Fest partnership articles should map to India showcase topic
+
+- `observed_newzoo_ceo_transition_amsterdam_202606` and `observed_newzoo_market_analysis_202606`
+  - split Newzoo CEO transition from Newzoo market analysis
+  - expected: CEO transition, global market report, and PC/console revenue forecast should not all collapse into the same company-personnel cluster
+
+- `observed_pgc_nordics_helsinki_202606` and `observed_nordic_games_industry_state_of_play_202606`
+  - split PGC Nordics event notices from Nordic games industry analysis
+  - expected: Nordic industry article should not map to the Helsinki event area
+
+## Batch 45 pending verification
+
+- `observed_rocksteady_dc_multiplayer_london_202606`
+  - narrowed to Batman Arkham / DC multiplayer context
+
+- `observed_thatgamecompany_van_gogh_santa_monica_202606`
+  - narrowed to 20-year journey / Jenova Chen context
+
+- `observed_treyarch_studio_head_los_angeles_202606`
+  - narrowed to studio-head transition context
+
+- `observed_playerunknown_productions_restructure_amsterdam_202606`
+  - clarified as Brendan Greene / PlayerUnknown Productions restructuring context
+
+- `observed_hipster_whale_atari_acquisition_melbourne_202606`
+  - narrowed to Atari acquisition / Crossy Road creator context
+
+- `observed_nyamakop_relooted_south_africa_202606`
+  - explicitly kept as South Africa studio-area-country mapping; do not invent a city or address without confirmation
+
+## Batch 46 pending verification
+
+- `observed_dont_nod_cash_warning_paris_202606`
+  - removed `Don't Nod` company-name-only match from the cash-warning rule
+  - expected: Patch Notes #57 should no longer map to Don't Nod Paris 19e
+
+- `observed_patch_notes_57_multi_topic_202606`
+  - new multi-region roundup topic
+  - expected: Patch Notes #57 should map to multi-region roundup instead of any one mentioned company office
+
+## Public map UI pending verification
+
+- `geographic-news-topic-public/index.html`
+  - unresolved Kunlun placeholder markers now use a gray SVG icon
+  - expected: only `unresolved_kunlun_placeholder` / `場所不明(崑崙山)` pins are gray; normal resolved pins remain Leaflet default markers
+
 ## Next workflow verification batch
 
-Do not run workflow after a single small correction. Run it after this group has accumulated enough related fixes.
+This group is now large enough to justify one workflow run.
 
 Use:
 
@@ -87,3 +149,5 @@ Then inspect:
 - `docs/topic-maps/game-all.geojson`
 - `output/topic-maps/game-all-clusters.json`
 - `docs/topic-maps/game-all-unresolved.json`
+
+Also open the public map and verify the Kunlun placeholder pin color.

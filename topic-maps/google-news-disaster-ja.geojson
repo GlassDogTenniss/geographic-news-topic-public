@@ -1,7 +1,7 @@
 {
   "type": "FeatureCollection",
   "properties": {
-    "created_at": "2026-06-29T02:48:55.235773+00:00",
+    "created_at": "2026-06-29T03:01:26.709171+00:00",
     "count": 0,
     "stats": {
       "feed_id": "google-news-disaster-ja",
@@ -10,15 +10,15 @@
         "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja"
       ],
       "rss_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja",
-      "fetched": 73,
+      "fetched": 34,
       "fetched_by_url": {
-        "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja": 73
+        "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja": 34
       },
-      "filtered": 64,
+      "filtered": 32,
       "resolved": 0,
-      "unresolved": 64,
-      "rules": 174,
-      "known_places": 176,
+      "unresolved": 32,
+      "rules": 175,
+      "known_places": 177,
       "loaded_data_files": [
         "data/place_rules.json",
         "data/unresolved_known_places_12.json",
