@@ -1,8 +1,8 @@
 {
   "type": "FeatureCollection",
   "properties": {
-    "created_at": "2026-06-29T03:01:26.709171+00:00",
-    "count": 178,
+    "created_at": "2026-06-29T03:02:10.751485+00:00",
+    "count": 183,
     "stats": {
       "feed_id": "game-all",
       "feed_label": "ゲーム",
@@ -28,7 +28,7 @@
         "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja"
       ],
       "rss_url": "https://www.gamedeveloper.com/rss.xml",
-      "fetched": 993,
+      "fetched": 991,
       "fetched_by_url": {
         "https://www.gamedeveloper.com/rss.xml": 50,
         "https://www.gamesindustry.biz/feed": 100,
@@ -41,18 +41,18 @@
         "https://www.kakuchopurei.com/feed/": 10,
         "https://www.afkgaming.com/feed": 0,
         "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20India&hl=en-IN&gl=IN&ceid=IN:en": 80,
-        "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Philippines&hl=en-PH&gl=PH&ceid=PH:en": 77,
-        "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Eastern%20Europe&hl=en&gl=PL&ceid=PL:en": 76,
-        "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Africa&hl=en&gl=ZA&ceid=ZA:en": 78,
+        "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Philippines&hl=en-PH&gl=PH&ceid=PH:en": 78,
+        "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Eastern%20Europe&hl=en&gl=PL&ceid=PL:en": 74,
+        "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Africa&hl=en&gl=ZA&ceid=ZA:en": 79,
         "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Southeast%20Asia&hl=en-SG&gl=SG&ceid=SG:en": 77,
         "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA&hl=ja&gl=JP&ceid=JP:ja": 75,
         "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja": 79,
         "https://news.google.com/rss/search?q=%E6%B5%B7%E5%A4%96%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA&hl=ja&gl=JP&ceid=JP:ja": 76,
-        "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja": 76
+        "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja": 77
       },
-      "filtered": 905,
-      "resolved": 178,
-      "unresolved": 727,
+      "filtered": 908,
+      "resolved": 183,
+      "unresolved": 725,
       "rules": 175,
       "known_places": 177,
       "loaded_data_files": [
@@ -165,6 +165,33 @@
         "confidence": 0.6,
         "rule_id": "observed_chinese_developers_global_gaming_202606",
         "matched_text": "Chinese developers gain ground in global gaming",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1278,
+          51.5074
+        ]
+      },
+      "properties": {
+        "title": "『バットマン：アーカム』開発チームが新作DCマルチプレイヤーゲームを開発か？失敗を恐れず「サービス型ゲーム」に再挑戦 - 玩具人 TOY PEOPLE",
+        "source": "玩具人 TOY PEOPLE",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9hZl9XRjZmbzNiRllqUU9pTmRia3dvVXdkUUxNSk1yU3dBc3dycGxwNnkwUVZrQnhNNkVRcnNTeVdtYXNvYk12U2NDMFNfZ0p2?oc=5",
+        "published_at": "2026-06-28T09:04:42+00:00",
+        "representative_place": "Rocksteady Studios / London studio area",
+        "place_label": "英国-イングランド-ロンドン-Rocksteady Studios周辺",
+        "sort_place_label": "英国-イングランド-ロンドン-Rocksteady Studios周辺",
+        "geocode_query": "Rocksteady Studios London United Kingdom",
+        "place_type": "studio_site",
+        "location_precision": "studio_area",
+        "place_reason": "Rocksteady単独語では別文脈の回顧・言及記事まで吸う可能性があるため、Batman Arkham開発チームまたはDC新作文脈に絞る。公開住所を確実に固定できるまではstudio_areaに止める（一致語: バットマン：アーカム』開発チーム）",
+        "confidence": 0.72,
+        "rule_id": "observed_rocksteady_dc_multiplayer_london_202606",
+        "matched_text": "バットマン：アーカム』開発チーム",
         "match_source": "known_place_title"
       }
     },
@@ -3656,33 +3683,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          18.6435,
-          60.1282
-        ]
-      },
-      "properties": {
-        "title": "『Serpent's Gaze』最大4人協力のソウルライク×ローグライトアクション。スウェーデンのインディースタジオが手がける新作がアーリーアクセス開始 - ファミ通",
-        "source": "ファミ通",
-        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8tV0NoTW9LQmRFY2xIUGNLZ3ZwLU1QaElON3JXRXJYVGtvTEt6NjFpaHpKa3phdGNacXltamlpR1dQdFVLSkh3STR6dGlmWnpfd19hNXNmZw?oc=5",
-        "published_at": "2026-05-25T07:00:00+00:00",
-        "representative_place": "Serpent's Gaze / Swedish indie studio topic",
-        "place_label": "スウェーデン-Serpent's Gaze開発スタジオ",
-        "sort_place_label": "スウェーデン-Serpent's Gaze開発スタジオ",
-        "geocode_query": "Sweden Serpent's Gaze indie studio",
-        "place_type": "game_origin_topic",
-        "location_precision": "country_game_origin_topic",
-        "place_reason": "タイトルでスウェーデンのインディースタジオによる新作と説明されているため、国単位の作品由来トピックとして扱う。スタジオ名・都市は確実に固定しない（一致語: スウェーデンのインディースタジオ）",
-        "confidence": 0.62,
-        "rule_id": "observed_serpents_gaze_swedish_indie_202605",
-        "matched_text": "スウェーデンのインディースタジオ",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -73.9827,
           40.7563
         ]
@@ -4007,6 +4007,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          22.9375,
+          -30.5595
+        ]
+      },
+      "properties": {
+        "title": "South African studio makes waves with futuristic heist game about reclaiming looted artefacts - News24",
+        "source": "News24",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOOEVEeFNJdEJqbHRjWmwxckFoemdrb1lidHdrYmF1cDdpMUhyUno5cnJKVmh6dWl3V1lVSWgzSjhGTWljZkhuMzRfQW5RV2ROZ2VKTlRnQUVidTZiRWtpNkE3ZHNtdHdfVy11bXIxVWxOdTBMLUlVTUYteFplcjcwc0NPUmpiNlJYeTd5dU5SNFMwT1RTSFRWVi0wSGUxbkFUdkNKaUFqNGNaeVVhcXpnWnZQS0dRbDZwQks3SXZSblFtVDVEWHFEeTFWcldoakR3QUxtMng4NEExOTRsS3c?oc=5",
+        "published_at": "2026-04-25T07:00:00+00:00",
+        "representative_place": "Nyamakop / Relooted studio area",
+        "place_label": "南アフリカ-Nyamakop / Relooted周辺",
+        "sort_place_label": "南アフリカ-Nyamakop / Relooted周辺",
+        "geocode_query": "Nyamakop Relooted South Africa",
+        "place_type": "studio_site",
+        "location_precision": "studio_area_country",
+        "place_reason": "Relooted紹介記事は作品紹介だが、地理的主体は南アフリカの開発元Nyamakopとして一貫しているため、会社住所を推定せず国単位のstudio_area_countryに止める。現時点では分離修正しない対象として明示する（一致語: South African studio makes waves）",
+        "confidence": 0.56,
+        "rule_id": "observed_nyamakop_relooted_south_africa_202606",
+        "matched_text": "South African studio makes waves",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           18.0686,
           59.3293
         ]
@@ -4080,6 +4107,33 @@
         "confidence": 0.72,
         "rule_id": "observed_filipino_sepak_takraw_game_202604",
         "matched_text": "Super Smash Bros. meets Sepak Takraw",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.6791,
+          1.6508
+        ]
+      },
+      "properties": {
+        "title": "\"Ads remain the most common and viable monetisation model across Africa's gaming markets today\" - Pocket Gamer.biz",
+        "source": "Pocket Gamer.biz",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQmtWZ3pLVlNac1ZqTEJpLUQ0a0c5N2RzYTRqLTFvMGdvbm9NVWh3THdBN3IxVHRLeTdTOXRPUjFhYlZXNndWUGdtVFo4SUYxaF9hMFdocm1QOTdnTDlmYU9IWXZtSEp4c20tUld4TjQ0azhYaEdtRkFBaUs4a2p6UTVLVlhTQ2dXZXhPVHJjOHBwZjByNm13bFFvUzJUSVBHTU5IcTk3R2lfM21lVXRUU0NGVGhaXzQwU1ZDRWRB?oc=5",
+        "published_at": "2026-04-06T07:00:00+00:00",
+        "representative_place": "Africa games market topic",
+        "place_label": "アフリカ-ゲーム市場・産業",
+        "sort_place_label": "アフリカ-ゲーム市場・産業",
+        "geocode_query": "Africa games market industry",
+        "place_type": "continent_market_topic",
+        "location_precision": "continent_market_topic",
+        "place_reason": "アフリカ全体のゲーム市場・産業記事なので、単なるアフリカではなくゲーム市場・産業トピックとしてラベルを分ける（一致語: Africa's gaming markets）",
+        "confidence": 0.56,
+        "rule_id": "observed_africa_gaming_market_202606",
+        "matched_text": "Africa's gaming markets",
         "match_source": "known_place_title"
       }
     },
@@ -4188,6 +4242,33 @@
         "confidence": 0.86,
         "rule_id": "observed_megacat_pittsburgh_202412",
         "matched_text": "Mega Cat Studios",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9375,
+          -30.5595
+        ]
+      },
+      "properties": {
+        "title": "What's behind the big reaction to a new South African video game? - CBC",
+        "source": "CBC",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQnJVcUdvbEhLM3Z5ZDJuQ1lZVHBnczJwTHdBa2czSVB4c2lIMjdmd3VkcktnTFhoaG9jNGxGWHl6am1BQ1pjaVBMYXFYMzQxZkpjc0J2Z2M4MXlvNGtZY1VQcUdLa2RSOF8tbzRUWnFRT3Y2bElZS2hNS1lEVTVYc3pzdGlVYjh0SXVCTnF4dGR6b1d5Yl9pcXhyR0JKa0lQLWdZZURzNVRaTjB5?oc=5",
+        "published_at": "2026-03-18T07:00:00+00:00",
+        "representative_place": "Nyamakop / Relooted studio area",
+        "place_label": "南アフリカ-Nyamakop / Relooted周辺",
+        "sort_place_label": "南アフリカ-Nyamakop / Relooted周辺",
+        "geocode_query": "Nyamakop Relooted South Africa",
+        "place_type": "studio_site",
+        "location_precision": "studio_area_country",
+        "place_reason": "Relooted紹介記事は作品紹介だが、地理的主体は南アフリカの開発元Nyamakopとして一貫しているため、会社住所を推定せず国単位のstudio_area_countryに止める。現時点では分離修正しない対象として明示する（一致語: new South African video game）",
+        "confidence": 0.56,
+        "rule_id": "observed_nyamakop_relooted_south_africa_202606",
+        "matched_text": "new South African video game",
         "match_source": "known_place_title"
       }
     },
@@ -4552,10 +4633,10 @@
         ]
       },
       "properties": {
-        "title": "Relooted Is a Heist Game About Returning African Artifacts to Their Home Countries - CNET",
-        "source": "CNET",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUnpKcmpZMGRNTkxyeDhlaEFtNE9Ga0h1eERQZ0NTOTgxV1dkZ0hrcmttb2JuYzhiQV9aRDR0Vk5tYkcyYUE4V3ZVWk9QQXJ6WUFfajdLVi1vTWFsamw2aFVSUzJZa1JtOEhnZDFBVWZ2cTJkMWJkdW80dU1XcjQ0RGpEelJUczB3WGlvc0VYNjgtdmRXWnV6dDJ3WDJhVXMwLWVPMjg4VUxrTlFxUFdjOURjMmFCcm8?oc=5",
-        "published_at": "2025-06-26T07:00:00+00:00",
+        "title": "Relooted: African Gamers Steal Back Stolen History - EBONY Magazine",
+        "source": "EBONY Magazine",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBHVWg1R3h1cnN6dDZqSm9QX2t0OTdsVnpvV2R2NmxDbW0xN1lKTFhHRTFJNWJQa011amhtbkJGWFRybmNBNHZKUWFtQmdXQXVhdjZQc3NqOUFDVEs2cDVSWkt5bWRmZw?oc=5",
+        "published_at": "2025-07-09T07:00:00+00:00",
         "representative_place": "Nyamakop / Relooted studio area",
         "place_label": "南アフリカ-Nyamakop / Relooted周辺",
         "sort_place_label": "南アフリカ-Nyamakop / Relooted周辺",
@@ -4620,6 +4701,33 @@
         "confidence": 0.54,
         "rule_id": "observed_vietnam_gameverse_2025",
         "matched_text": "Country’s Video Games Industry",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9375,
+          -30.5595
+        ]
+      },
+      "properties": {
+        "title": "Rescue African artifacts from colonizers' museums in the heist game Relooted - Engadget",
+        "source": "Engadget",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcmJ1Z1hQeHFZZVUyZzdpbENWQlVpUDJFUW95S1ZlWTRjTEhtT2ctdXpjcktqR1pHenVXVVFKV29Ic29wbVh0c0g1NHNtVnpqbTEyYW84Ui12bmNnSmlMaFprNC0yRnItYVg4aUl3ZnlSTFZGZklEY01Eby10UDY4dWNpdXdkbEYyMFJFbmJHaFZMM3N1UGpXc0lDQlBSRkF2d1pmOG9HcjZnOFI3dVUwemMtOF9fVzNLVHNDbW1iUQ?oc=5",
+        "published_at": "2025-06-06T07:00:00+00:00",
+        "representative_place": "Nyamakop / Relooted studio area",
+        "place_label": "南アフリカ-Nyamakop / Relooted周辺",
+        "sort_place_label": "南アフリカ-Nyamakop / Relooted周辺",
+        "geocode_query": "Nyamakop Relooted South Africa",
+        "place_type": "studio_site",
+        "location_precision": "studio_area_country",
+        "place_reason": "Relooted紹介記事は作品紹介だが、地理的主体は南アフリカの開発元Nyamakopとして一貫しているため、会社住所を推定せず国単位のstudio_area_countryに止める。現時点では分離修正しない対象として明示する（一致語: Relooted）",
+        "confidence": 0.56,
+        "rule_id": "observed_nyamakop_relooted_south_africa_202606",
+        "matched_text": "Relooted",
         "match_source": "known_place_title"
       }
     },
@@ -4709,33 +4817,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.7652,
-          35.6697
-        ]
-      },
-      "properties": {
-        "title": "スタッフ総辞職のAnnapurna Interactiveが手掛ける『SILENT HILL: Townfall』は開発継続へ―コナミやインディースタジオと協業続ける - Game*Spark",
-        "source": "Game*Spark",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBhdkdDWUZ4VzBMQmV4QmNLS0lYYmNzV1c2MVpUckdGVWJWRXJud3VsaHQxUFdNUEpyMmRzRGRXRzkyVlpNVzlteEpncF91VE5pSWRrQnpJcnZQN2JHVl9LblVDN3lEUQ?oc=5",
-        "published_at": "2024-10-01T07:00:00+00:00",
-        "representative_place": "KONAMI / コナミクリエイティブセンター銀座",
-        "place_label": "日本-東京都-中央区-銀座-コナミクリエイティブセンター銀座",
-        "sort_place_label": "日本-東京都-中央区-銀座-コナミクリエイティブセンター銀座",
-        "geocode_query": "KONAMI Creative Center Ginza Chuo Tokyo Japan",
-        "place_type": "institution_site",
-        "location_precision": "headquarters_area",
-        "place_reason": "KONAMIに関する企業・ゲーム記事は、東京都中央区代表ではなく銀座のKONAMI本社周辺として扱う。番地固定ではなく本社周辺粒度に止める（一致語: コナミ）",
-        "confidence": 0.76,
-        "rule_id": "observed_konami_ginza_headquarters_refined_202606",
-        "matched_text": "コナミ",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           121.774,
           12.8797
         ]
@@ -4817,6 +4898,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          17.6791,
+          1.6508
+        ]
+      },
+      "properties": {
+        "title": "Olivier Madiba pioneers the African video game industry - We are Tech",
+        "source": "We are Tech",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZ045cVJnM2VQOXBySDNoZ2VpMDI2ajNjR1ZfQmZoMUZTNVlDamdRa01tSmlaX3oxWUd3Y2NpSWYyUm03ZGhuQXBuUGNnZ2htTzMtNW5WeHl4ekFKZGZJOHZlS2dQRU15SXYyVFNoLUJZbnFSSmRhRTUwaHBhbkhNSXNDMG9QcENBS1hiTkJYaERxdGJIQ01MRHk2cFM5WFplTVFjUU14MHVXQQ?oc=5",
+        "published_at": "2023-05-10T11:10:24+00:00",
+        "representative_place": "Africa games market topic",
+        "place_label": "アフリカ-ゲーム市場・産業",
+        "sort_place_label": "アフリカ-ゲーム市場・産業",
+        "geocode_query": "Africa games market industry",
+        "place_type": "continent_market_topic",
+        "location_precision": "continent_market_topic",
+        "place_reason": "アフリカ全体のゲーム市場・産業記事なので、単なるアフリカではなくゲーム市場・産業トピックとしてラベルを分ける（一致語: African Video Game Industry）",
+        "confidence": 0.56,
+        "rule_id": "observed_africa_gaming_market_202606",
+        "matched_text": "African Video Game Industry",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           101.6869,
           3.139
         ]
@@ -4863,6 +4971,33 @@
         "confidence": 0.78,
         "rule_id": "observed_virtuos_kuala_lumpur_studio_202606",
         "matched_text": "Virtuos Bolsters Southeast Asian Presence With Launch of Game Development Studio in Kuala Lumpur",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0508,
+          14.5503
+        ]
+      },
+      "properties": {
+        "title": "Q&A: Ubisoft Philippines studio art director JP Tan on their work on ‘AC: Valhalla’ - Rappler",
+        "source": "Rappler",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTWhRZkVYVXZ6V2tPeGJRNlp6YWRzWUxVcFB4cURXOUpWaUJJVzhXQ3luWl81djl6TjMxMHFTWDAydV9nb2RkYjUwMUJRbWpOXzh2SzlIRnFUcXJoM3g0M1pZX0p3Q2JZYUhTYXJ6ZlJ3UXlrRTZ2eDJhRHlSMzcxQ0Z0RFRHNVdrM0RYTENxM0k0ZklxeXp5VGJqRm9PMHZ6QkdDWkhka3JQazFISV9VOQ?oc=5",
+        "published_at": "2020-09-14T07:00:00+00:00",
+        "representative_place": "Ubisoft Philippines / BGC",
+        "place_label": "フィリピン-マニラ首都圏-タギッグ-BGC",
+        "sort_place_label": "フィリピン-マニラ首都圏-タギッグ-BGC",
+        "geocode_query": "Bonifacio Global City Taguig Philippines",
+        "place_type": "studio_site",
+        "location_precision": "district",
+        "place_reason": "未解決記事に『Ubisoft Philippines』が出ており、別の未解決タイトルでは『New Office In BGC』と明示されているためBGCに置く（一致語: Ubisoft Philippines）",
+        "confidence": 0.82,
+        "rule_id": "observed_ubisoft_philippines_industry_202502",
+        "matched_text": "Ubisoft Philippines",
         "match_source": "known_place_title"
       }
     },

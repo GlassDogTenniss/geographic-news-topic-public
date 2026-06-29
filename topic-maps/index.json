@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "created_at": "2026-06-29T03:01:26.709171+00:00",
+  "created_at": "2026-06-29T03:02:10.751485+00:00",
   "feeds": [
     {
       "id": "game-all",
@@ -55,7 +55,7 @@
           "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja"
         ],
         "rss_url": "https://www.gamedeveloper.com/rss.xml",
-        "fetched": 993,
+        "fetched": 991,
         "fetched_by_url": {
           "https://www.gamedeveloper.com/rss.xml": 50,
           "https://www.gamesindustry.biz/feed": 100,
@@ -68,18 +68,18 @@
           "https://www.kakuchopurei.com/feed/": 10,
           "https://www.afkgaming.com/feed": 0,
           "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20India&hl=en-IN&gl=IN&ceid=IN:en": 80,
-          "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Philippines&hl=en-PH&gl=PH&ceid=PH:en": 77,
-          "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Eastern%20Europe&hl=en&gl=PL&ceid=PL:en": 76,
-          "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Africa&hl=en&gl=ZA&ceid=ZA:en": 78,
+          "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Philippines&hl=en-PH&gl=PH&ceid=PH:en": 78,
+          "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Eastern%20Europe&hl=en&gl=PL&ceid=PL:en": 74,
+          "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Africa&hl=en&gl=ZA&ceid=ZA:en": 79,
           "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Southeast%20Asia&hl=en-SG&gl=SG&ceid=SG:en": 77,
           "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA&hl=ja&gl=JP&ceid=JP:ja": 75,
           "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja": 79,
           "https://news.google.com/rss/search?q=%E6%B5%B7%E5%A4%96%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA&hl=ja&gl=JP&ceid=JP:ja": 76,
-          "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja": 76
+          "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja": 77
         },
-        "filtered": 905,
-        "resolved": 178,
-        "unresolved": 727,
+        "filtered": 908,
+        "resolved": 183,
+        "unresolved": 725,
         "rules": 175,
         "known_places": 177,
         "loaded_data_files": [
@@ -138,93 +138,6 @@
           "クーポン",
           "ポイント還元"
         ]
-      }
-    },
-    {
-      "id": "google-news-ai-ja",
-      "label": "Google News: AI / 生成AI",
-      "rss_urls": [
-        "https://news.google.com/rss/search?q=AI%20%E7%94%9F%E6%88%90AI%20OpenAI&hl=ja&gl=JP&ceid=JP:ja"
-      ],
-      "rss_url": "https://news.google.com/rss/search?q=AI%20%E7%94%9F%E6%88%90AI%20OpenAI&hl=ja&gl=JP&ceid=JP:ja",
-      "geojson": "topic-maps/google-news-ai-ja.geojson",
-      "unresolved": "topic-maps/google-news-ai-ja-unresolved.json",
-      "csv": "../output/topic-maps/google-news-ai-ja.csv",
-      "stats": {
-        "feed_id": "google-news-ai-ja",
-        "feed_label": "Google News: AI / 生成AI",
-        "rss_urls": [
-          "https://news.google.com/rss/search?q=AI%20%E7%94%9F%E6%88%90AI%20OpenAI&hl=ja&gl=JP&ceid=JP:ja"
-        ],
-        "rss_url": "https://news.google.com/rss/search?q=AI%20%E7%94%9F%E6%88%90AI%20OpenAI&hl=ja&gl=JP&ceid=JP:ja",
-        "fetched": 100,
-        "fetched_by_url": {
-          "https://news.google.com/rss/search?q=AI%20%E7%94%9F%E6%88%90AI%20OpenAI&hl=ja&gl=JP&ceid=JP:ja": 100
-        },
-        "filtered": 100,
-        "resolved": 0,
-        "unresolved": 100,
-        "rules": 175,
-        "known_places": 177,
-        "loaded_data_files": [
-          "data/place_rules.json",
-          "data/unresolved_known_places_12.json",
-          "data/unresolved_known_places_13.json",
-          "data/unresolved_known_places_14.json",
-          "data/unresolved_known_places_15.json"
-        ],
-        "topic_keywords": [
-          "AI",
-          "生成AI",
-          "人工知能",
-          "OpenAI",
-          "ChatGPT"
-        ],
-        "exclude_keywords": []
-      }
-    },
-    {
-      "id": "google-news-disaster-ja",
-      "label": "Google News: 災害・地震・大雨",
-      "rss_urls": [
-        "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja"
-      ],
-      "rss_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja",
-      "geojson": "topic-maps/google-news-disaster-ja.geojson",
-      "unresolved": "topic-maps/google-news-disaster-ja-unresolved.json",
-      "csv": "../output/topic-maps/google-news-disaster-ja.csv",
-      "stats": {
-        "feed_id": "google-news-disaster-ja",
-        "feed_label": "Google News: 災害・地震・大雨",
-        "rss_urls": [
-          "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja"
-        ],
-        "rss_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja",
-        "fetched": 34,
-        "fetched_by_url": {
-          "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja": 34
-        },
-        "filtered": 32,
-        "resolved": 0,
-        "unresolved": 32,
-        "rules": 175,
-        "known_places": 177,
-        "loaded_data_files": [
-          "data/place_rules.json",
-          "data/unresolved_known_places_12.json",
-          "data/unresolved_known_places_13.json",
-          "data/unresolved_known_places_14.json",
-          "data/unresolved_known_places_15.json"
-        ],
-        "topic_keywords": [
-          "災害",
-          "地震",
-          "大雨",
-          "台風",
-          "氾濫",
-          "土砂"
-        ],
-        "exclude_keywords": []
       }
     }
   ]
