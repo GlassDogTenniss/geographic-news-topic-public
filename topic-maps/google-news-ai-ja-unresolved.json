@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "created_at": "2026-06-29T04:02:01.386147+00:00",
+  "created_at": "2026-06-29T08:00:05.144985+00:00",
   "stats": {
     "feed_id": "google-news-ai-ja",
     "feed_label": "Google News: AI / 生成AI",
@@ -13,10 +13,10 @@
       "https://news.google.com/rss/search?q=AI%20%E7%94%9F%E6%88%90AI%20OpenAI&hl=ja&gl=JP&ceid=JP:ja": 100
     },
     "filtered": 100,
-    "resolved": 0,
-    "unresolved": 100,
-    "rules": 175,
-    "known_places": 177,
+    "resolved": 10,
+    "unresolved": 90,
+    "rules": 401,
+    "known_places": 403,
     "loaded_data_files": [
       "data/place_rules.json",
       "data/unresolved_known_places_12.json",
@@ -35,27 +35,11 @@
   },
   "unresolved": [
     {
-      "title": "韓国科学技術院(KAIST)は28日、科学技術政策大学院のチェ·ムンジョン教授の研究チームが、生成型人工知能モデルであるオープンAI(OpenAI)のチャットGPT-4oが生成する文章の中に、老人に対.. - 매일경제",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBiRmhYU2UtbmQ4SzRJWXFPaE9zSzhxN1dDaTRBVEVPOXd1Uk5SY05QRDMxSjNzOVdYT1hrYmtabW95NXN5U0g1dnJZTQ?oc=5",
-      "source": "매일경제",
-      "published_at": "2026-06-28T05:01:48+00:00",
-      "summary": "韓国科学技術院(KAIST)は28日、科学技術政策大学院のチェ·ムンジョン教授の研究チームが、生成型人工知能モデルであるオープンAI(OpenAI)のチャットGPT-4oが生成する文章の中に、老人に対..    매일경제",
-      "feed_url": "https://news.google.com/rss/search?q=AI%20%E7%94%9F%E6%88%90AI%20OpenAI&hl=ja&gl=JP&ceid=JP:ja"
-    },
-    {
       "title": "OpenAIの自律型AI「Codex」の利用急増、企業の非エンジニアの利用が189倍に チャットからエージェントへの移行が進む - ビジネス+IT",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBETUdZWGRjazk4aEYwNV9xWHVUWlktemJBeXpHUWN6X1ZZVFRLWW1LVWRNTE45allDRE05dEZac2F2blJDckVyakQyV3c0VXlFV2NZ?oc=5",
       "source": "ビジネス+IT",
       "published_at": "2026-06-27T21:00:00+00:00",
       "summary": "OpenAIの自律型AI「Codex」の利用急増、企業の非エンジニアの利用が189倍に チャットからエージェントへの移行が進む    ビジネス+IT",
-      "feed_url": "https://news.google.com/rss/search?q=AI%20%E7%94%9F%E6%88%90AI%20OpenAI&hl=ja&gl=JP&ceid=JP:ja"
-    },
-    {
-      "title": "任天堂、生成AIによる著作権侵害に公式声明！ OpenAI CEOの「インタラクティブな二次創作」発言が物議 - 玩具人 TOY PEOPLE",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9kMzZFdV9IZC1PSlREWGQ3UW1oYWppVnhJdUNVR2d4aHJVb2hPelpFc244cWtlQnRmWktCOTJ2YVBxQWhnNG1BVHE0VW1qdHpl?oc=5",
-      "source": "玩具人 TOY PEOPLE",
-      "published_at": "2026-06-27T12:48:43+00:00",
-      "summary": "任天堂、生成AIによる著作権侵害に公式声明！ OpenAI CEOの「インタラクティブな二次創作」発言が物議    玩具人 TOY PEOPLE",
       "feed_url": "https://news.google.com/rss/search?q=AI%20%E7%94%9F%E6%88%90AI%20OpenAI&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
@@ -131,14 +115,6 @@
       "feed_url": "https://news.google.com/rss/search?q=AI%20%E7%94%9F%E6%88%90AI%20OpenAI&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
-      "title": "OpenAI「ミュトス級AI」日本に開放 アンソロピックと技術標準競う - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBtTVJWSXZZNHFINkRueFpGNkRmYVZPZWwyUzU4Nm92bW8tcWdSRFVoTFZ1cUNVaF9UWVJMU2NCWWdfNERCR2NQTWp2cFdOdlNnUUpYTS1VVmozbHIxOG83N05BVXNlQ19YM25UMA?oc=5",
-      "source": "日本経済新聞",
-      "published_at": "2026-05-29T07:00:00+00:00",
-      "summary": "OpenAI「ミュトス級AI」日本に開放 アンソロピックと技術標準競う    日本経済新聞",
-      "feed_url": "https://news.google.com/rss/search?q=AI%20%E7%94%9F%E6%88%90AI%20OpenAI&hl=ja&gl=JP&ceid=JP:ja"
-    },
-    {
       "title": "MUFG、OpenAI とともに AI-Native な企業を目指す - OpenAI",
       "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1pUjBIckFvMzlrWFY4bEYwNXZSdmt2ZmVTRVJHSDFJQy1OVmhNaFFzVVk4Q0VqUUdUaHpvN3NZNnhJU3JaMjF3bW1UT1Q?oc=5",
       "source": "OpenAI",
@@ -147,19 +123,19 @@
       "feed_url": "https://news.google.com/rss/search?q=AI%20%E7%94%9F%E6%88%90AI%20OpenAI&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
+      "title": "富士通がOpenAIと連携開始 ChatGPT EnterpriseやCodexで日本のエンタープライズAI変革を加速 - ロボスタ",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5qZkZVWUxGVEtuNnNOS1VHcTZEdzVZLUk3Z2xUZkNqTXZsUFVyTjNaUUJiV2ViREEwQ2hycnhETWo3dENIdWgxVzhKVWhBd3NEZFZOT0JxMmEwNEl3WjBnckVPSTQ?oc=5",
+      "source": "ロボスタ",
+      "published_at": "2026-05-28T07:00:00+00:00",
+      "summary": "富士通がOpenAIと連携開始 ChatGPT EnterpriseやCodexで日本のエンタープライズAI変革を加速    ロボスタ",
+      "feed_url": "https://news.google.com/rss/search?q=AI%20%E7%94%9F%E6%88%90AI%20OpenAI&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
       "title": "OpenAI、AI生成物の「来歴情報」確認体制を強化 C2PA準拠拡大へ - ITmedia",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4wa2RIanFNeGY2ZlhfdFp1WHl1QmphYTdjdG9iakNHb1Fmb01Ccm9pRVBWSUdpZnRHa2VPNnY3T1QwS1ZSVXFpZmtQUmV2LXRiaDN0c00tamlYeThVd2ZHeW5zRGN5MXI0SF9nVUdQdGRMSHZO?oc=5",
       "source": "ITmedia",
       "published_at": "2026-05-27T07:00:00+00:00",
       "summary": "OpenAI、AI生成物の「来歴情報」確認体制を強化 C2PA準拠拡大へ    ITmedia",
-      "feed_url": "https://news.google.com/rss/search?q=AI%20%E7%94%9F%E6%88%90AI%20OpenAI&hl=ja&gl=JP&ceid=JP:ja"
-    },
-    {
-      "title": "OpenAIの新しい画像透かし、AI生成の偽物を見分けやすく--その仕組みとは - ZDNET Japan",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9OTW9JZ3BtN2lUMjlENXd3cWJwTGFkNVFsb1lHb0VldEpDTTVRMUV4dlpHd1lTeDJSUnZoQk5hdVNDa094dlBrZnRNNDBhcndMeWZj?oc=5",
-      "source": "ZDNET Japan",
-      "published_at": "2026-05-26T07:00:00+00:00",
-      "summary": "OpenAIの新しい画像透かし、AI生成の偽物を見分けやすく--その仕組みとは    ZDNET Japan",
       "feed_url": "https://news.google.com/rss/search?q=AI%20%E7%94%9F%E6%88%90AI%20OpenAI&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
@@ -184,14 +160,6 @@
       "source": "Ledge.ai",
       "published_at": "2026-05-25T01:06:27+00:00",
       "summary": "Google、AI生成コンテンツの来歴確認を強化 OpenAIも電子透かし「SynthID」採用へ    Ledge.ai",
-      "feed_url": "https://news.google.com/rss/search?q=AI%20%E7%94%9F%E6%88%90AI%20OpenAI&hl=ja&gl=JP&ceid=JP:ja"
-    },
-    {
-      "title": "“プログラミングはAI、確認は人間” の役割分担でエージェントを構築。SB OAI JapanがOpenAI主催のハッカソンで優勝 - ソフトバンク",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1QSC14QXRrZUlCa0lWc1JnTktkYUJVU29iMVNkazVGUXd5RUszTnJNdkdrWEswdXhjclY2UjlFZFFZOVE2M1NFZnJHV1JidkxSRVpuR3ZfdnQzVERU?oc=5",
-      "source": "ソフトバンク",
-      "published_at": "2026-05-22T07:00:00+00:00",
-      "summary": "“プログラミングはAI、確認は人間” の役割分担でエージェントを構築。SB OAI JapanがOpenAI主催のハッカソンで優勝    ソフトバンク",
       "feed_url": "https://news.google.com/rss/search?q=AI%20%E7%94%9F%E6%88%90AI%20OpenAI&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
@@ -235,6 +203,14 @@
       "feed_url": "https://news.google.com/rss/search?q=AI%20%E7%94%9F%E6%88%90AI%20OpenAI&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
+      "title": "AI規制の主導権は誰が握るのか？中国を含めるOpenAI、引き離すAnthropic、AI覇権の次の戦場は規制 【生成AI事件簿】米中首脳会談の裏側で浮かんだAIガバナンスの現実、2大ベンダーが24時間差で投じた対極のAI規制論(1/5) - JBpress",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5yNVhhVVBuTXU1T1BpWFdicHdzVmRfQldHY2diZDJOT0UwUUZDQkRrREtSdUdwMl9xYkxhdTJKSHREblVEUkdKd1Z3TVJpVTlra2xYQzNB?oc=5",
+      "source": "JBpress",
+      "published_at": "2026-05-17T07:00:00+00:00",
+      "summary": "AI規制の主導権は誰が握るのか？中国を含めるOpenAI、引き離すAnthropic、AI覇権の次の戦場は規制 【生成AI事件簿】米中首脳会談の裏側で浮かんだAIガバナンスの現実、2大ベンダーが24時間差で投じた対極のAI規制論(1/5)    JBpress",
+      "feed_url": "https://news.google.com/rss/search?q=AI%20%E7%94%9F%E6%88%90AI%20OpenAI&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
       "title": "ニュース HIX.AI、OpenAIの最新画像生成モデル「GPT Image 2.0」を提供開始 - 株式会社インプレス",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBiby1NMUh2VTdBVU1fZWoxWjNrWGNrNm8zSlk0TDdpZVoyLVhmb3ltMEM3OTQtSU5pT09zZnUzM25PUjRKTE1zeDlTXzZjWnNlWHZkaTVlaWo1d3N2a1ZUWnR0Zw?oc=5",
       "source": "株式会社インプレス",
@@ -275,22 +251,6 @@
       "feed_url": "https://news.google.com/rss/search?q=AI%20%E7%94%9F%E6%88%90AI%20OpenAI&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
-      "title": "シンプレクス、Codex で人と AI の新しい開発体制を構築 - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9JTjJBWUZzLWQwcVl2RnpaWlJlcnRwX1k0ekFoeXZWQlluVkk3SUFkUUhhUU9OQnNBNUhTOThoZGExV1BNY25hUm9xRWVmWmZu?oc=5",
-      "source": "OpenAI",
-      "published_at": "2026-05-07T07:00:00+00:00",
-      "summary": "シンプレクス、Codex で人と AI の新しい開発体制を構築    OpenAI",
-      "feed_url": "https://news.google.com/rss/search?q=AI%20%E7%94%9F%E6%88%90AI%20OpenAI&hl=ja&gl=JP&ceid=JP:ja"
-    },
-    {
-      "title": "Soraが消えた動画生成AI市場で、PixVerseが日本に本気を出す理由【再掲】 - 36Kr Japan",
-      "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9nbjlveTBQVzVBeHByV3h4YXhlYVpTM3J5aHVCbjVORTQ3am5HNW9RS2RzUGRCUkVDZmVF?oc=5",
-      "source": "36Kr Japan",
-      "published_at": "2026-05-07T07:00:00+00:00",
-      "summary": "Soraが消えた動画生成AI市場で、PixVerseが日本に本気を出す理由【再掲】    36Kr Japan",
-      "feed_url": "https://news.google.com/rss/search?q=AI%20%E7%94%9F%E6%88%90AI%20OpenAI&hl=ja&gl=JP&ceid=JP:ja"
-    },
-    {
       "title": "【OpenAI】韓国発の「落書き風」AI生成をChatGPTに正式採用 画像AI競争が激化 - finance.biggo.jp",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE43RVZSSmxWcVhBMC01QkZSU1dPRHNFNFMwcTRzSEVybjhwSV83eTJqRGc5ZkxZZXFwVEppQnQwTV9CQlA0bDRxVjZ5YmRaRzR2MGlFSWhZNVBXNUE4YzZN?oc=5",
       "source": "finance.biggo.jp",
@@ -299,27 +259,11 @@
       "feed_url": "https://news.google.com/rss/search?q=AI%20%E7%94%9F%E6%88%90AI%20OpenAI&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
-      "title": "ChatGPTの「画像生成」、どう進化？ 開発者に聞く “文字化け解消”の秘訣（1/2 ページ） - ITmedia",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNOGpHOTZUY0ZYeVhfSGR6OHlrNlVJNFB4QXBHQzFHbWItT3p3Vm55U1Q2eU9VOUtXUzM1cEZoVTMxbk1nbVVVb3hUWng2bE00YXcyblp0UXRVMzJFbUdSWklWVFp3M053SVFKVQ?oc=5",
-      "source": "ITmedia",
-      "published_at": "2026-05-01T07:00:00+00:00",
-      "summary": "ChatGPTの「画像生成」、どう進化？ 開発者に聞く “文字化け解消”の秘訣（1/2 ページ）    ITmedia",
-      "feed_url": "https://news.google.com/rss/search?q=AI%20%E7%94%9F%E6%88%90AI%20OpenAI&hl=ja&gl=JP&ceid=JP:ja"
-    },
-    {
       "title": "OpenAIの最新画像生成モデル、「ChatGPT Images 2.0」の実力は？ - WIRED.jp",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9FdVJxWGp4NGRlY0xDVXhuTFZCMHdKTWt6ajNtUm5mVWJRSzdFMm85c0I2ZkYwcDg5VlJQbUVka2Z4c2tXWGhSRTJqVklQRU9yNzBsbE9zNEkzUFFOYVJfUVdMWUg0WUdlcTBHS19wWmVvbnUxSjgycl9WbEtldw?oc=5",
       "source": "WIRED.jp",
       "published_at": "2026-04-29T07:00:00+00:00",
       "summary": "OpenAIの最新画像生成モデル、「ChatGPT Images 2.0」の実力は？    WIRED.jp",
-      "feed_url": "https://news.google.com/rss/search?q=AI%20%E7%94%9F%E6%88%90AI%20OpenAI&hl=ja&gl=JP&ceid=JP:ja"
-    },
-    {
-      "title": "「Third AI 生成AIソリューション」、最新生成モデル「GPT-5.5」に対応 ～高度な推論性能と高いトークン効率で、企業の生成AI実務活用を加速～ - PR TIMES",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE14N2VraVpkVGVtVnA5ZUV3cndhZ0hWZ2N4M1VEQkRrOWFTOEcxZGFyb0RzeTU2LXR0ck5mbXNpS0ktbHF4cVNRLWEtU2Q2RUZma2tfMk5tS2tNWlBiQ3IwRGxyRld1WEVYbUE?oc=5",
-      "source": "PR TIMES",
-      "published_at": "2026-04-28T07:00:00+00:00",
-      "summary": "「Third AI 生成AIソリューション」、最新生成モデル「GPT-5.5」に対応 ～高度な推論性能と高いトークン効率で、企業の生成AI実務活用を加速～    PR TIMES",
       "feed_url": "https://news.google.com/rss/search?q=AI%20%E7%94%9F%E6%88%90AI%20OpenAI&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
@@ -376,14 +320,6 @@
       "source": "ビジネス+IT",
       "published_at": "2026-04-24T07:00:00+00:00",
       "summary": "OpenAIが最新AIモデル「GPT-5.5」発表、エージェンティックAIとして大幅進化    ビジネス+IT",
-      "feed_url": "https://news.google.com/rss/search?q=AI%20%E7%94%9F%E6%88%90AI%20OpenAI&hl=ja&gl=JP&ceid=JP:ja"
-    },
-    {
-      "title": "すごすぎて笑う、なにこれ OpenAI、漫画や広告に強い画像生成AI「ChatGPT Images 2.0」正式発表 - ASCII.jp",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9DMmFnVkVzTXR2am5xUzBJT1d1TkRxdEFkd1BmSUc1VjhMS0dob0lqVWhFQWFmVnVMTGR6eDRna0tmSnl1bHRDR25fRGNpcURBQUdKOA?oc=5",
-      "source": "ASCII.jp",
-      "published_at": "2026-04-22T07:00:00+00:00",
-      "summary": "すごすぎて笑う、なにこれ OpenAI、漫画や広告に強い画像生成AI「ChatGPT Images 2.0」正式発表    ASCII.jp",
       "feed_url": "https://news.google.com/rss/search?q=AI%20%E7%94%9F%E6%88%90AI%20OpenAI&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
@@ -483,14 +419,6 @@
       "feed_url": "https://news.google.com/rss/search?q=AI%20%E7%94%9F%E6%88%90AI%20OpenAI&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
-      "title": "【週休3日からAI給付金まで？】OpenAIがAI時代の産業政策を緊急提言 - ビジネス+IT",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB4dElGR1poQVpYRDNlbGljM1Z3SUVFdXhNSlczTG9vRkpyMTRLcVpIdkRRcVh0ZHVvdmFTWVFwdXhVWVlQZ19HZV9ucUhxOUdUMTdz?oc=5",
-      "source": "ビジネス+IT",
-      "published_at": "2026-04-07T07:00:00+00:00",
-      "summary": "【週休3日からAI給付金まで？】OpenAIがAI時代の産業政策を緊急提言    ビジネス+IT",
-      "feed_url": "https://news.google.com/rss/search?q=AI%20%E7%94%9F%E6%88%90AI%20OpenAI&hl=ja&gl=JP&ceid=JP:ja"
-    },
-    {
       "title": "OpenAI、Anthropic、Googleが連携、中国企業による「AIモデルコピー」に対抗 - ビジネス+IT",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8wVFJtSmFsTHRkOFc4ZVUtR0Mta1BiRHZJWUltZVNRZ1FIclJydmt2Q05iQ21udU1jdjdIUHhTdFVreXlBUjJqeWZLUHF1eWJfWUR3?oc=5",
       "source": "ビジネス+IT",
@@ -528,14 +456,6 @@
       "source": "日本経済新聞",
       "published_at": "2026-03-31T07:00:00+00:00",
       "summary": "OpenAIが新モデルSpud着手、動画Sora撤退 AI「使い放題」幻想に幕    日本経済新聞",
-      "feed_url": "https://news.google.com/rss/search?q=AI%20%E7%94%9F%E6%88%90AI%20OpenAI&hl=ja&gl=JP&ceid=JP:ja"
-    },
-    {
-      "title": "OpenAIがAI動画アプリ「Sora」を終了──AIバブル崩壊の兆しか？ - Forbes JAPAN",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB0YmkwU3piV3ZVYm1qdGE5bldRX3NsVkJzdlUtUUo5X2Zuek5ZSHZPU09hbFZhRFNPYzFPSy1WQTVxN2pQcS1zRTBQRmx1SE5GbGJWMjc0SzQ?oc=5",
-      "source": "Forbes JAPAN",
-      "published_at": "2026-03-28T07:00:00+00:00",
-      "summary": "OpenAIがAI動画アプリ「Sora」を終了──AIバブル崩壊の兆しか？    Forbes JAPAN",
       "feed_url": "https://news.google.com/rss/search?q=AI%20%E7%94%9F%E6%88%90AI%20OpenAI&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
@@ -603,6 +523,14 @@
       "feed_url": "https://news.google.com/rss/search?q=AI%20%E7%94%9F%E6%88%90AI%20OpenAI&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
+      "title": "OpenAIとAnthropic、AI兵器への悪用防止へ化学・生物兵器の専門家を採用 - ビジネス+IT",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9sbWlQMjh5aDFnM21DYWVUUWVFMF91cEgzZ01WMUowUFIwLVVWRXpOWmo4ZGN5cFh0UDZkRFhSMEFtSVdIWUR2dHI3WjVPeHV5bGI0?oc=5",
+      "source": "ビジネス+IT",
+      "published_at": "2026-03-21T07:00:00+00:00",
+      "summary": "OpenAIとAnthropic、AI兵器への悪用防止へ化学・生物兵器の専門家を採用    ビジネス+IT",
+      "feed_url": "https://news.google.com/rss/search?q=AI%20%E7%94%9F%E6%88%90AI%20OpenAI&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
       "title": "「レポート作ってメールで送って」と頼めば、AIが人間の代わりに働く時代が来た～OpenAI、Google、マイクロソフトなど6社が競うAIエージェント革命とは - ダイヤモンド・オンライン",
       "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBnbkFJcWVRN1RJbVppSUpDTnJDaFhBMFVVTXNDNEw4VnhtaTNIajQ5SzVsQVZJVGdhV0lEVWUyVl83RllxY3lWMFRoRVE?oc=5",
       "source": "ダイヤモンド・オンライン",
@@ -619,35 +547,11 @@
       "feed_url": "https://news.google.com/rss/search?q=AI%20%E7%94%9F%E6%88%90AI%20OpenAI&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
-      "title": "OpenAI、高速・低コストに特化した軽量AIモデル「GPT-5.4 mini」および「nano」を公開 - ビジネス+IT",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAzdU82aF9rcXFRbElUX2VtalQ1SFhTaFF0eHpPV0NnNm5TcTFqQzNwajRTX2Z1aVZJT0w5dFZYTHpTSHh2SnJldFU2Uk53QlNIUXM0?oc=5",
-      "source": "ビジネス+IT",
-      "published_at": "2026-03-18T07:00:00+00:00",
-      "summary": "OpenAI、高速・低コストに特化した軽量AIモデル「GPT-5.4 mini」および「nano」を公開    ビジネス+IT",
-      "feed_url": "https://news.google.com/rss/search?q=AI%20%E7%94%9F%E6%88%90AI%20OpenAI&hl=ja&gl=JP&ceid=JP:ja"
-    },
-    {
-      "title": "exaBase 生成AI、日本リージョンで利用可能な「GPT-5.2」の提供を開始 ～最新モデルのGPT-5.4やGemini 3.1 Pro Previewの提供も開始、利用場面に応じたモデルの選択が可能に - 株式会社エクサウィザーズ",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBIVThhM1VjTVVxbkplU09fY1Z5ei1lVGtNWHVBQUViS1BPZ3pyZ0FuSGRrOWN0TXBRaHZlX1N1TnZFSlBNY1ZHNXBJWFNLYms?oc=5",
-      "source": "株式会社エクサウィザーズ",
-      "published_at": "2026-03-16T07:00:00+00:00",
-      "summary": "exaBase 生成AI、日本リージョンで利用可能な「GPT-5.2」の提供を開始 ～最新モデルのGPT-5.4やGemini 3.1 Pro Previewの提供も開始、利用場面に応じたモデルの選択が可能に    株式会社エクサウィザーズ",
-      "feed_url": "https://news.google.com/rss/search?q=AI%20%E7%94%9F%E6%88%90AI%20OpenAI&hl=ja&gl=JP&ceid=JP:ja"
-    },
-    {
       "title": "ナレコムAI Chatbot、OpenAI最新モデル「GPT-5.4」「GPT-5.4 Pro」に対応 - PR TIMES",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9wbzBERG1uSGk5WkJjSmRKWXFlWHRQdnlOeWJLeGtDWUlXdThyX2RkeWFJU2hyZS02a1h2S3RSdGVoMml2Y09hU052dXdSR3hXbmtJQTFaaW9UUHQzV3paTDZKSTRYZWVsQXc?oc=5",
       "source": "PR TIMES",
       "published_at": "2026-03-16T07:00:00+00:00",
       "summary": "ナレコムAI Chatbot、OpenAI最新モデル「GPT-5.4」「GPT-5.4 Pro」に対応    PR TIMES",
-      "feed_url": "https://news.google.com/rss/search?q=AI%20%E7%94%9F%E6%88%90AI%20OpenAI&hl=ja&gl=JP&ceid=JP:ja"
-    },
-    {
-      "title": "OpenAI、AIセキュリティエージェント「Codex Security」を公開 コードを分析し脆弱性を検出、修正パッチまでを自律的に行う - ビジネス+IT",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5TMjlvTm9IQ0VIYVpFLS1LallSbVN4SjUtY2RxTEZPUElTZkgxQjFZUWd2MS10X3JKbTBHUlRNa3NtUERFajh3S2Z1bllUWXJQcHE0?oc=5",
-      "source": "ビジネス+IT",
-      "published_at": "2026-03-14T07:00:00+00:00",
-      "summary": "OpenAI、AIセキュリティエージェント「Codex Security」を公開 コードを分析し脆弱性を検出、修正パッチまでを自律的に行う    ビジネス+IT",
       "feed_url": "https://news.google.com/rss/search?q=AI%20%E7%94%9F%E6%88%90AI%20OpenAI&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
@@ -667,11 +571,11 @@
       "feed_url": "https://news.google.com/rss/search?q=AI%20%E7%94%9F%E6%88%90AI%20OpenAI&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
-      "title": "米OpenAI「GPT-5.4」をリリース、AIがPCを操作、思考途中での指示変更も可能に - ビジネス+IT",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1JaUxYQUVCWnltSmVuVWR2T1c3YWlBRWt0YWVWWnk4LXlGb1pmRDlHZHRkai1mU2pyajFzX1ExOEsyeXJUTHk5RnVINWI0eTJaNTJV?oc=5",
-      "source": "ビジネス+IT",
+      "title": "OpenAIが「GPT-5.4」提供、Excelと連携 アンソロピック上回る性能 - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1DQWRlV2ZZLWhQTi1iTUFWUXRqWFB3U2hSd2laWldzUENpQXpLWVZWZmVKRmNSdnFyOUlPOThIMHBoUUxLc2d3M285eWh3cGlyQ2ZPWVZHZWY5OWt6ZkpHMnFxTWRfSDlYTlF4ZQ?oc=5",
+      "source": "日本経済新聞",
       "published_at": "2026-03-06T08:00:00+00:00",
-      "summary": "米OpenAI「GPT-5.4」をリリース、AIがPCを操作、思考途中での指示変更も可能に    ビジネス+IT",
+      "summary": "OpenAIが「GPT-5.4」提供、Excelと連携 アンソロピック上回る性能    日本経済新聞",
       "feed_url": "https://news.google.com/rss/search?q=AI%20%E7%94%9F%E6%88%90AI%20OpenAI&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
@@ -680,6 +584,14 @@
       "source": "ビジネス+IT",
       "published_at": "2026-03-06T08:00:00+00:00",
       "summary": "日本生命米国法人がOpenAIを提訴、ChatGPTの「非弁行為」で約16億円の損害賠償    ビジネス+IT",
+      "feed_url": "https://news.google.com/rss/search?q=AI%20%E7%94%9F%E6%88%90AI%20OpenAI&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "title": "米OpenAI「GPT-5.4」をリリース、AIがPCを操作、思考途中での指示変更も可能に - ビジネス+IT",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1JaUxYQUVCWnltSmVuVWR2T1c3YWlBRWt0YWVWWnk4LXlGb1pmRDlHZHRkai1mU2pyajFzX1ExOEsyeXJUTHk5RnVINWI0eTJaNTJV?oc=5",
+      "source": "ビジネス+IT",
+      "published_at": "2026-03-06T08:00:00+00:00",
+      "summary": "米OpenAI「GPT-5.4」をリリース、AIがPCを操作、思考途中での指示変更も可能に    ビジネス+IT",
       "feed_url": "https://news.google.com/rss/search?q=AI%20%E7%94%9F%E6%88%90AI%20OpenAI&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
@@ -779,6 +691,14 @@
       "feed_url": "https://news.google.com/rss/search?q=AI%20%E7%94%9F%E6%88%90AI%20OpenAI&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
+      "title": "生成AIサービス「Stella AI」および「Stella AI for Biz」が、OpenAI社の最新画像生成AIモデル「GPT-Image-1.5」に対応 - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1CR2dWWWllUmlJZ0VEbE1TODdyNE1fQzJ5ZUZPM1ZYeS1yM2JCeWhpX2M5QmkxTm1aRXhLTmJ0UTkyaWZFUWVPWGF5WE0tdjhQT3pDbjNZR2JxTGZscjd1TTh1VVVuMlp1YXc?oc=5",
+      "source": "PR TIMES",
+      "published_at": "2025-12-18T08:00:00+00:00",
+      "summary": "生成AIサービス「Stella AI」および「Stella AI for Biz」が、OpenAI社の最新画像生成AIモデル「GPT-Image-1.5」に対応    PR TIMES",
+      "feed_url": "https://news.google.com/rss/search?q=AI%20%E7%94%9F%E6%88%90AI%20OpenAI&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
       "title": "ディズニーとOpenAIの契約は「AI著作権戦争」を再定義した - WIRED.jp",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8ya0JIUU5xWnoxZ0MtVGJiR1dZSTNMZUNhdWtpS1ZlUEU0ODBKOUhuS1lPcVYwSVdIMXlpS2ZqM0VsMGhOMUJTaVoxWjBpbGJtNGVGUUNXVHQ5X21LSE5iLThQTTVvZGRORzFYZVB4aTc4emZQcFlaazM4MHNWb0U?oc=5",
       "source": "WIRED.jp",
@@ -795,14 +715,6 @@
       "feed_url": "https://news.google.com/rss/search?q=AI%20%E7%94%9F%E6%88%90AI%20OpenAI&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
-      "title": "OpenAI、新型AI「GPT-5.2」発表 数学や資料作成能力が向上 - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBjeGY3d3ZRVXEzNlZXTUttSVl1TG5OMEJjRmRNMG9ZNWNDbTlBSEZTRDJrTzBOQjR3aEJaMHRLWGdhODFpRWJGTTJnYWtETHFPUmExazhzRVNIUnE2NnNUZXdSSWFta0ZXRmZrTw?oc=5",
-      "source": "日本経済新聞",
-      "published_at": "2025-12-12T08:00:00+00:00",
-      "summary": "OpenAI、新型AI「GPT-5.2」発表 数学や資料作成能力が向上    日本経済新聞",
-      "feed_url": "https://news.google.com/rss/search?q=AI%20%E7%94%9F%E6%88%90AI%20OpenAI&hl=ja&gl=JP&ceid=JP:ja"
-    },
-    {
       "title": "ソフトバンクG後藤CFO「OpenAI支援に専念」 生成AI投資巡り - 日本経済新聞",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB3RlJaRWpxclZrcjhZR281WTdOSEZuaE05NlExSGU5UTQtTnpDSVFNSTEtUWlVNkhRaWhaR2lXWUYxUUJFbVdESl9neld1d1R6LUxVVkl0NEZuXzJOcWl6UlNRUW5uT0NCWnNxSw?oc=5",
       "source": "日本経済新聞",
@@ -816,6 +728,14 @@
       "source": "m2ri.jp",
       "published_at": "2025-12-02T08:00:00+00:00",
       "summary": "OpenAIの著作権保護方針、日本の大学生は反対派が約4割に ～脱BYOAIへ向け、大学の教育情報基盤のルール更新が急務    m2ri.jp",
+      "feed_url": "https://news.google.com/rss/search?q=AI%20%E7%94%9F%E6%88%90AI%20OpenAI&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "title": "大成建設とOpenAIが連携、生成AI活用プロジェクト始動：AI - ITmedia",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1hRDBZRVhVVzhJWTZXMzVwYXJHWk1sWnpENTdMUVFXZEhsaGhCcGFJZUNNSk56U3FGbWJCS3M4WFdhTXp3b1h0N1pfbEh1SndEZk53Ullua2pwTktnTmtIQ2pYNmdTTlNHTjNZRg?oc=5",
+      "source": "ITmedia",
+      "published_at": "2025-11-18T08:00:00+00:00",
+      "summary": "大成建設とOpenAIが連携、生成AI活用プロジェクト始動：AI    ITmedia",
       "feed_url": "https://news.google.com/rss/search?q=AI%20%E7%94%9F%E6%88%90AI%20OpenAI&hl=ja&gl=JP&ceid=JP:ja"
     },
     {

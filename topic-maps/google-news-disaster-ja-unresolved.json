@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "created_at": "2026-06-29T04:02:01.386147+00:00",
+  "created_at": "2026-06-29T08:00:05.144985+00:00",
   "stats": {
     "feed_id": "google-news-disaster-ja",
     "feed_label": "Google News: 災害・地震・大雨",
@@ -8,15 +8,15 @@
       "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja"
     ],
     "rss_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja",
-    "fetched": 73,
+    "fetched": 74,
     "fetched_by_url": {
-      "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja": 73
+      "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja": 74
     },
-    "filtered": 64,
-    "resolved": 0,
-    "unresolved": 64,
-    "rules": 175,
-    "known_places": 177,
+    "filtered": 66,
+    "resolved": 1,
+    "unresolved": 65,
+    "rules": 401,
+    "known_places": 403,
     "loaded_data_files": [
       "data/place_rules.json",
       "data/unresolved_known_places_12.json",
@@ -49,6 +49,14 @@
       "source": "ｄメニューニュース",
       "published_at": "2026-06-27T09:16:00+00:00",
       "summary": "【台風情報】台風7号　次第に山梨県から遠ざかる　警報級の大雨の可能性は低く　地震で地盤が緩んでいる所があり、土砂災害に注意　甲府地方気象台が発表    ｄメニューニュース",
+      "feed_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "title": "台風7号(メーカラー)が関東に近づく 沿岸部は大雨による土砂災害などのおそれ - ウェザーニュース",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1NSnlhZ0pPSE44aFN0dTNIRzlwQWhIRVFlVWJreC0tSHg3bmhuZEhmVDZLaHdvLUJDc3k4YUFzOU0yQ0NaQ0N2UGNEd3FJSXhLZ1FyZA?oc=5",
+      "source": "ウェザーニュース",
+      "published_at": "2026-06-27T06:44:00+00:00",
+      "summary": "台風7号(メーカラー)が関東に近づく 沿岸部は大雨による土砂災害などのおそれ    ウェザーニュース",
       "feed_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
@@ -364,14 +372,6 @@
       "feed_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
-      "title": "真岡市からの緊急情報（台風、大雨、大地震時）を「Yahoo!防災速報」で配信します|真岡市公式ホームページ - city.moka.lg.jp",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOVl4VlVaTjNFa2ZwLWZoaTB2bWtyTE53WHkyYkRPRnBDSFN0Wm1pbmNOUlp3VlV0cXY3cU1IX0RKaEl2S1pacEVfTzU1SzBqanRhTHNnTkJ6S0poeEJwZE95WDJfcDltLTdhNnVwRWhKbzdrdHkzX2FZWHJJdjhSeU9KQ2VFLWhKdjF5N0RnUjZrWjdk?oc=5",
-      "source": "city.moka.lg.jp",
-      "published_at": "2023-09-15T07:00:00+00:00",
-      "summary": "真岡市からの緊急情報（台風、大雨、大地震時）を「Yahoo!防災速報」で配信します|真岡市公式ホームページ    city.moka.lg.jp",
-      "feed_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja"
-    },
-    {
       "title": "秋台風には5つの降水パターンがある！特徴的な秋台風の雨に備えるポイント - 読売新聞",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9QQ25YNS1SXzhDR2FvT3JKQUtlRmI4QkVjVmpNTnhjRU5XTENuYjlWSjh1WUZ2VHQzREU2djdHRGtlbk5EUjJwbEFVdlBIOUplREo4QmUycV9nT3dYYXRNejBn?oc=5",
       "source": "読売新聞",
@@ -441,6 +441,14 @@
       "source": "読売新聞",
       "published_at": "2022-08-02T07:00:00+00:00",
       "summary": "大雨ならキキクル活用を！浸水・土砂災害リスクを色で把握できる    読売新聞",
+      "feed_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "title": "温暖化未対策なら70年後北海道も梅雨期に豪雨災害！九州の豪雨頻度1･5倍 - 読売新聞",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0zZ0IzZDJ3SkMzdGRqbUpuZ25xVGR5bnZETTJ6enJpU2FYVnBURUlmM0plMk5PQUN4YlVYdHJaNlhNWjI4aWtoZGQxaE9ZYnJuRV9vdzVFVEpjdUVBbHM5dw?oc=5",
+      "source": "読売新聞",
+      "published_at": "2022-02-18T08:00:00+00:00",
+      "summary": "温暖化未対策なら70年後北海道も梅雨期に豪雨災害！九州の豪雨頻度1･5倍    読売新聞",
       "feed_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja"
     },
     {

@@ -235,6 +235,22 @@ Late-output market and company-topic stabilization batch.
 
 Expected: these should not remain with undefined precision values such as `country_labor_market`, `country_startup_market`, `country_cultural_industry`, `headquarters_area`, `studio_area`, `publisher_area`, or `studio_area_country`.
 
+## Batch 52 pending verification
+
+Remaining country/city stabilization batch from the tail of `game-all.geojson`.
+
+- Kept as studio-related but not exact-site:
+  - Creative Assembly / Horsham: `city`
+  - Ubisoft Philippines / BGC Taguig: `district`
+  - Mega Cat Studios / Pittsburgh: `city`
+
+- Kept as country / market / origin topics:
+  - Vietnam GameVerse 2025: `country`
+  - Indonesia game creator market: `country`
+  - Fallen Tear / Filipino developers: `country`
+
+Expected: these should not remain with undefined precision values such as `studio_area`, `event_area_country`, `country_industry_topic`, or `country_game_origin_topic`; they should also not be promoted to guessed street addresses.
+
 ## Public map UI pending verification
 
 - `geographic-news-topic-public/index.html`
