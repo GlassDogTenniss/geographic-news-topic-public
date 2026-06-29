@@ -1,8 +1,8 @@
 {
   "type": "FeatureCollection",
   "properties": {
-    "created_at": "2026-06-29T01:17:44.383311+00:00",
-    "count": 174,
+    "created_at": "2026-06-29T01:43:23.524804+00:00",
+    "count": 187,
     "stats": {
       "feed_id": "game-all",
       "feed_label": "ゲーム",
@@ -28,7 +28,7 @@
         "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja"
       ],
       "rss_url": "https://www.gamedeveloper.com/rss.xml",
-      "fetched": 990,
+      "fetched": 991,
       "fetched_by_url": {
         "https://www.gamedeveloper.com/rss.xml": 50,
         "https://www.gamesindustry.biz/feed": 100,
@@ -45,16 +45,16 @@
         "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Eastern%20Europe&hl=en&gl=PL&ceid=PL:en": 74,
         "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Africa&hl=en&gl=ZA&ceid=ZA:en": 79,
         "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Southeast%20Asia&hl=en-SG&gl=SG&ceid=SG:en": 77,
-        "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA&hl=ja&gl=JP&ceid=JP:ja": 74,
+        "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA&hl=ja&gl=JP&ceid=JP:ja": 75,
         "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja": 79,
         "https://news.google.com/rss/search?q=%E6%B5%B7%E5%A4%96%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA&hl=ja&gl=JP&ceid=JP:ja": 75,
-        "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja": 77
+        "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja": 76
       },
-      "filtered": 906,
-      "resolved": 174,
-      "unresolved": 732,
-      "rules": 159,
-      "known_places": 161,
+      "filtered": 910,
+      "resolved": 187,
+      "unresolved": 723,
+      "rules": 167,
+      "known_places": 169,
       "loaded_data_files": [
         "data/place_rules.json",
         "data/unresolved_known_places_12.json",
@@ -173,33 +173,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.1278,
-          51.5074
-        ]
-      },
-      "properties": {
-        "title": "『バットマン：アーカム』開発チームが新作DCマルチプレイヤーゲームを開発か？失敗を恐れず「サービス型ゲーム」に再挑戦 - 玩具人 TOY PEOPLE",
-        "source": "玩具人 TOY PEOPLE",
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9hZl9XRjZmbzNiRllqUU9pTmRia3dvVXdkUUxNSk1yU3dBc3dycGxwNnkwUVZrQnhNNkVRcnNTeVdtYXNvYk12U2NDMFNfZ0p2?oc=5",
-        "published_at": "2026-06-28T09:04:42+00:00",
-        "representative_place": "Rocksteady Studios / London studio area",
-        "place_label": "英国-イングランド-ロンドン-Rocksteady Studios周辺",
-        "sort_place_label": "英国-イングランド-ロンドン-Rocksteady Studios周辺",
-        "geocode_query": "Rocksteady Studios London United Kingdom",
-        "place_type": "studio_site",
-        "location_precision": "studio_area",
-        "place_reason": "Rocksteady Studiosの記事なので、ロンドン市代表点ではなく同スタジオ周辺として扱う。公開住所を確実に固定できるまではstudio_areaに止める（一致語: バットマン：アーカム』開発チーム）",
-        "confidence": 0.72,
-        "rule_id": "observed_rocksteady_dc_multiplayer_london_202606",
-        "matched_text": "バットマン：アーカム』開発チーム",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           121.774,
           12.8797
         ]
@@ -308,8 +281,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.6503,
-          35.6762
+          139.7292,
+          35.6605
         ]
       },
       "properties": {
@@ -317,14 +290,14 @@
         "source": "Latest Updates | PocketGamer.biz",
         "link": "https://www.pocketgamer.biz/rising-hardware-prices-meaningful-inclusion-and-pokmon-champions-early-success-week-in-views/",
         "published_at": "2026-06-26T15:47:00+00:00",
-        "representative_place": "The Pokémon Company / Tokyo company area",
-        "place_label": "日本-東京都-The Pokémon Company",
-        "sort_place_label": "日本-東京都-The Pokémon Company",
-        "geocode_query": "The Pokémon Company Tokyo Japan",
-        "place_type": "publisher_site",
-        "location_precision": "company_area",
-        "place_reason": "Pokémon Championsのモバイル売上記事なので、作品運営主体としてThe Pokémon Companyの東京周辺に置く。番地までは固定しない（一致語: Pokémon Champions）",
-        "confidence": 0.7,
+        "representative_place": "The Pokémon Company / Roppongi Hills Mori Tower 8F",
+        "place_label": "日本-東京都-港区-六本木-六本木ヒルズ森タワー8F-The Pokémon Company",
+        "sort_place_label": "日本-東京都-港区-六本木-六本木ヒルズ森タワー8F-The Pokémon Company",
+        "geocode_query": "Roppongi Hills Mori Tower 8F 6-10-1 Roppongi Minato Tokyo The Pokémon Company",
+        "place_type": "publisher_company_site",
+        "location_precision": "building_floor",
+        "place_reason": "Pokémon Championsのモバイル売上記事で、主体としてThe Pokémon Companyを使うなら東京周辺では粗いため、六本木ヒルズ森タワー8Fの会社所在地に置く（一致語: Pokémon Champions）",
+        "confidence": 0.84,
         "rule_id": "observed_pokemon_champions_mobile_tokyo_202606",
         "matched_text": "Pokémon Champions",
         "match_source": "known_place_title"
@@ -524,8 +497,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.1215,
-          47.674
+          -122.1297,
+          47.6401
         ]
       },
       "properties": {
@@ -533,14 +506,14 @@
         "source": "GamesIndustry.biz Latest Articles Feed",
         "link": "https://www.gamesindustry.biz/microsoft-significantly-increases-xbox-prices-worldwide-and-withdraws-2tb-model-citing-components-crisis",
         "published_at": "2026-06-25T18:20:07+00:00",
-        "representative_place": "Microsoft Gaming / Xbox Redmond area",
-        "place_label": "米国-ワシントン州-レドモンド-Microsoft Gaming/Xbox",
-        "sort_place_label": "米国-ワシントン州-レドモンド-Microsoft Gaming/Xbox",
-        "geocode_query": "Microsoft Redmond Washington United States Xbox",
-        "place_type": "platform_company_topic",
-        "location_precision": "headquarters_area",
-        "place_reason": "Xbox価格改定・スタジオ再編・幹部人事などMicrosoft Gaming/Xbox主体の記事を、個別市場ではなくRedmond周辺の会社主体として扱う。番地までは固定しない（一致語: Microsoft significantly increases Xbox prices worldwide）",
-        "confidence": 0.74,
+        "representative_place": "Microsoft / One Microsoft Way Redmond campus",
+        "place_label": "米国-ワシントン州-レドモンド-One Microsoft Way-Microsoft Gaming/Xbox",
+        "sort_place_label": "米国-ワシントン州-レドモンド-One Microsoft Way-Microsoft Gaming/Xbox",
+        "geocode_query": "One Microsoft Way Redmond Washington United States Microsoft",
+        "place_type": "platform_company_site",
+        "location_precision": "campus_address",
+        "place_reason": "Xbox価格改定・スタジオ再編・幹部人事などMicrosoft Gaming/Xbox主体の記事なので、Redmond周辺ではなくMicrosoft本社キャンパスのOne Microsoft Wayに置く（一致語: Microsoft significantly increases Xbox prices worldwide）",
+        "confidence": 0.82,
         "rule_id": "observed_xbox_corporate_pricing_and_studio_changes_202606",
         "matched_text": "Microsoft significantly increases Xbox prices worldwide",
         "match_source": "known_place_title"
@@ -551,8 +524,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.1215,
-          47.674
+          -122.1297,
+          47.6401
         ]
       },
       "properties": {
@@ -560,14 +533,14 @@
         "source": "gamedeveloper",
         "link": "https://www.gamedeveloper.com/console/microsoft-raises-price-of-xbox-consoles-once-again-sunsets-2tb-model",
         "published_at": "2026-06-25T17:05:50+00:00",
-        "representative_place": "Microsoft Gaming / Xbox Redmond area",
-        "place_label": "米国-ワシントン州-レドモンド-Microsoft Gaming/Xbox",
-        "sort_place_label": "米国-ワシントン州-レドモンド-Microsoft Gaming/Xbox",
-        "geocode_query": "Microsoft Redmond Washington United States Xbox",
-        "place_type": "platform_company_topic",
-        "location_precision": "headquarters_area",
-        "place_reason": "Xbox価格改定・スタジオ再編・幹部人事などMicrosoft Gaming/Xbox主体の記事を、個別市場ではなくRedmond周辺の会社主体として扱う。番地までは固定しない（一致語: Microsoft raises price of Xbox consoles）",
-        "confidence": 0.74,
+        "representative_place": "Microsoft / One Microsoft Way Redmond campus",
+        "place_label": "米国-ワシントン州-レドモンド-One Microsoft Way-Microsoft Gaming/Xbox",
+        "sort_place_label": "米国-ワシントン州-レドモンド-One Microsoft Way-Microsoft Gaming/Xbox",
+        "geocode_query": "One Microsoft Way Redmond Washington United States Microsoft",
+        "place_type": "platform_company_site",
+        "location_precision": "campus_address",
+        "place_reason": "Xbox価格改定・スタジオ再編・幹部人事などMicrosoft Gaming/Xbox主体の記事なので、Redmond周辺ではなくMicrosoft本社キャンパスのOne Microsoft Wayに置く（一致語: Microsoft raises price of Xbox consoles）",
+        "confidence": 0.82,
         "rule_id": "observed_xbox_corporate_pricing_and_studio_changes_202606",
         "matched_text": "Microsoft raises price of Xbox consoles",
         "match_source": "known_place_title"
@@ -686,8 +659,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.6503,
-          35.6762
+          139.7292,
+          35.6605
         ]
       },
       "properties": {
@@ -695,14 +668,14 @@
         "source": "Latest Updates | PocketGamer.biz",
         "link": "https://www.pocketgamer.biz/pokemon-champions-makes-35m-in-first-week-on-mobile/",
         "published_at": "2026-06-25T14:34:00+00:00",
-        "representative_place": "The Pokémon Company / Tokyo company area",
-        "place_label": "日本-東京都-The Pokémon Company",
-        "sort_place_label": "日本-東京都-The Pokémon Company",
-        "geocode_query": "The Pokémon Company Tokyo Japan",
-        "place_type": "publisher_site",
-        "location_precision": "company_area",
-        "place_reason": "Pokémon Championsのモバイル売上記事なので、作品運営主体としてThe Pokémon Companyの東京周辺に置く。番地までは固定しない（一致語: Pokémon Champions makes $3.5m in first week on mobile）",
-        "confidence": 0.7,
+        "representative_place": "The Pokémon Company / Roppongi Hills Mori Tower 8F",
+        "place_label": "日本-東京都-港区-六本木-六本木ヒルズ森タワー8F-The Pokémon Company",
+        "sort_place_label": "日本-東京都-港区-六本木-六本木ヒルズ森タワー8F-The Pokémon Company",
+        "geocode_query": "Roppongi Hills Mori Tower 8F 6-10-1 Roppongi Minato Tokyo The Pokémon Company",
+        "place_type": "publisher_company_site",
+        "location_precision": "building_floor",
+        "place_reason": "Pokémon Championsのモバイル売上記事で、主体としてThe Pokémon Companyを使うなら東京周辺では粗いため、六本木ヒルズ森タワー8Fの会社所在地に置く（一致語: Pokémon Champions makes $3.5m in first week on mobile）",
+        "confidence": 0.84,
         "rule_id": "observed_pokemon_champions_mobile_tokyo_202606",
         "matched_text": "Pokémon Champions makes $3.5m in first week on mobile",
         "match_source": "known_place_title"
@@ -929,8 +902,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.1215,
-          47.674
+          -122.1297,
+          47.6401
         ]
       },
       "properties": {
@@ -938,14 +911,14 @@
         "source": "gamedeveloper",
         "link": "https://www.gamedeveloper.com/business/analysts-attempt-to-make-sense-of-xbox-s-exclusivity-mindset-shift",
         "published_at": "2026-06-25T09:04:12+00:00",
-        "representative_place": "Microsoft Gaming / Xbox Redmond area",
-        "place_label": "米国-ワシントン州-レドモンド-Microsoft Gaming/Xbox",
-        "sort_place_label": "米国-ワシントン州-レドモンド-Microsoft Gaming/Xbox",
-        "geocode_query": "Microsoft Redmond Washington United States Xbox",
-        "place_type": "platform_company_topic",
-        "location_precision": "headquarters_area",
-        "place_reason": "Xbox価格改定・スタジオ再編・幹部人事などMicrosoft Gaming/Xbox主体の記事を、個別市場ではなくRedmond周辺の会社主体として扱う。番地までは固定しない（一致語: Xbox's latest exclusivity pivot）",
-        "confidence": 0.74,
+        "representative_place": "Microsoft / One Microsoft Way Redmond campus",
+        "place_label": "米国-ワシントン州-レドモンド-One Microsoft Way-Microsoft Gaming/Xbox",
+        "sort_place_label": "米国-ワシントン州-レドモンド-One Microsoft Way-Microsoft Gaming/Xbox",
+        "geocode_query": "One Microsoft Way Redmond Washington United States Microsoft",
+        "place_type": "platform_company_site",
+        "location_precision": "campus_address",
+        "place_reason": "Xbox価格改定・スタジオ再編・幹部人事などMicrosoft Gaming/Xbox主体の記事なので、Redmond周辺ではなくMicrosoft本社キャンパスのOne Microsoft Wayに置く（一致語: Xbox's latest exclusivity pivot）",
+        "confidence": 0.82,
         "rule_id": "observed_xbox_corporate_pricing_and_studio_changes_202606",
         "matched_text": "Xbox's latest exclusivity pivot",
         "match_source": "known_place_title"
@@ -956,8 +929,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3522,
-          48.8566
+          2.4186,
+          48.8422
         ]
       },
       "properties": {
@@ -965,14 +938,14 @@
         "source": "玩具人 TOY PEOPLE",
         "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1rQnRoTzJ1Y2xobTNWOERTRFBxb21TUHJEQ0VHelpYUExybHhxRDg3WjMtZndJQngxMlFwYjZkT1JzYnA1N2U5YWpORFJhOFFf?oc=5",
         "published_at": "2026-06-25T03:53:22+00:00",
-        "representative_place": "Ubisoft / Paris headquarters area",
-        "place_label": "フランス-パリ-Ubisoft",
-        "sort_place_label": "フランス-パリ-Ubisoft",
-        "geocode_query": "Ubisoft Paris France headquarters",
-        "place_type": "publisher_company_topic",
-        "location_precision": "headquarters_area",
-        "place_reason": "Ubisoftの組織再編・スタジオ閉鎖記事なので、閉鎖対象個別拠点ではなくUbisoft本体の会社主体としてパリ周辺に置く。番地までは固定しない（一致語: ユービーアイソフトが大規模組織再編）",
-        "confidence": 0.72,
+        "representative_place": "Ubisoft / 2 Avenue Pasteur Saint-Mandé",
+        "place_label": "フランス-ヴァル＝ド＝マルヌ県-サン＝マンデ-2 Avenue Pasteur-Ubisoft",
+        "sort_place_label": "フランス-ヴァル＝ド＝マルヌ県-サン＝マンデ-2 Avenue Pasteur-Ubisoft",
+        "geocode_query": "2 Avenue Pasteur Saint-Mande France Ubisoft headquarters",
+        "place_type": "publisher_company_site",
+        "location_precision": "street_address",
+        "place_reason": "Ubisoftの組織再編・スタジオ閉鎖記事なので、パリ代表点でもSaint-Mandé市止まりでもなく、本社所在地として扱える2 Avenue Pasteurに置く（一致語: ユービーアイソフトが大規模組織再編）",
+        "confidence": 0.82,
         "rule_id": "observed_ubisoft_restructuring_studio_closures_paris_202606",
         "matched_text": "ユービーアイソフトが大規模組織再編",
         "match_source": "known_place_title"
@@ -1496,6 +1469,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.436,
+          55.3781
+        ]
+      },
+      "properties": {
+        "title": "BAFTA reveals 15 finalists for student awards",
+        "source": "Latest Updates | PocketGamer.biz",
+        "link": "https://www.pocketgamer.biz/bafta-reveals-15-finalists-for-student-awards/",
+        "published_at": "2026-06-23T11:16:00+00:00",
+        "representative_place": "BAFTA Student Awards / UK awards topic",
+        "place_label": "英国-BAFTA Student Awards",
+        "sort_place_label": "英国-BAFTA Student Awards",
+        "geocode_query": "BAFTA Student Awards United Kingdom games finalists",
+        "place_type": "awards_topic",
+        "location_precision": "country_awards_topic",
+        "place_reason": "BAFTA Student Awardsの記事なので、候補者の各大学ではなく英国のBAFTA賞・学生賞トピックとして扱う（一致語: BAFTA reveals 15 finalists for student awards）",
+        "confidence": 0.7,
+        "rule_id": "observed_bafta_student_awards_uk_202606",
+        "matched_text": "BAFTA reveals 15 finalists for student awards",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.2015,
           47.6101
         ]
@@ -1766,8 +1766,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.4194,
-          37.7749
+          -122.3972,
+          37.789
         ]
       },
       "properties": {
@@ -1775,14 +1775,14 @@
         "source": "Mobilegamer.biz",
         "link": "https://mobilegamer.biz/google-unity-meta-and-moloco-partner-to-invest-1bn-in-appsflyer/",
         "published_at": "2026-06-22T18:01:44+00:00",
-        "representative_place": "AppsFlyer / San Francisco company area",
-        "place_label": "米国-カリフォルニア州-サンフランシスコ-AppsFlyer",
-        "sort_place_label": "米国-カリフォルニア州-サンフランシスコ-AppsFlyer",
-        "geocode_query": "AppsFlyer San Francisco California United States",
+        "representative_place": "AppsFlyer / 100 First Street San Francisco",
+        "place_label": "米国-カリフォルニア州-サンフランシスコ-100 First Street-AppsFlyer",
+        "sort_place_label": "米国-カリフォルニア州-サンフランシスコ-100 First Street-AppsFlyer",
+        "geocode_query": "100 First Street San Francisco California AppsFlyer",
         "place_type": "company_site",
-        "location_precision": "company_area",
-        "place_reason": "AppsFlyerへの投資記事なので、投資企業群ではなく対象会社AppsFlyerの会社主体として扱う。番地までは固定しない（一致語: Google, Unity, Meta and Moloco partner to invest $1bn in AppsFlyer）",
-        "confidence": 0.68,
+        "location_precision": "street_address_candidate",
+        "place_reason": "AppsFlyerへの投資記事なので会社主体として扱う。San Francisco止まりより100 First Streetに寄せるが、公式現住所としての継続確認は弱いためcandidate精度に止める（一致語: Google, Unity, Meta and Moloco partner to invest $1bn in AppsFlyer）",
+        "confidence": 0.64,
         "rule_id": "observed_appsflyer_investment_san_francisco_202606",
         "matched_text": "Google, Unity, Meta and Moloco partner to invest $1bn in AppsFlyer",
         "match_source": "known_place_title"
@@ -1820,8 +1820,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.4194,
-          37.7749
+          -122.3972,
+          37.789
         ]
       },
       "properties": {
@@ -1829,14 +1829,14 @@
         "source": "Latest Updates | PocketGamer.biz",
         "link": "https://www.pocketgamer.biz/appsflyer-secures-over-1bn-investment-from-moloco-google-meta-and-unity/",
         "published_at": "2026-06-22T17:23:00+00:00",
-        "representative_place": "AppsFlyer / San Francisco company area",
-        "place_label": "米国-カリフォルニア州-サンフランシスコ-AppsFlyer",
-        "sort_place_label": "米国-カリフォルニア州-サンフランシスコ-AppsFlyer",
-        "geocode_query": "AppsFlyer San Francisco California United States",
+        "representative_place": "AppsFlyer / 100 First Street San Francisco",
+        "place_label": "米国-カリフォルニア州-サンフランシスコ-100 First Street-AppsFlyer",
+        "sort_place_label": "米国-カリフォルニア州-サンフランシスコ-100 First Street-AppsFlyer",
+        "geocode_query": "100 First Street San Francisco California AppsFlyer",
         "place_type": "company_site",
-        "location_precision": "company_area",
-        "place_reason": "AppsFlyerへの投資記事なので、投資企業群ではなく対象会社AppsFlyerの会社主体として扱う。番地までは固定しない（一致語: AppsFlyer secures over $1bn investment）",
-        "confidence": 0.68,
+        "location_precision": "street_address_candidate",
+        "place_reason": "AppsFlyerへの投資記事なので会社主体として扱う。San Francisco止まりより100 First Streetに寄せるが、公式現住所としての継続確認は弱いためcandidate精度に止める（一致語: AppsFlyer secures over $1bn investment）",
+        "confidence": 0.64,
         "rule_id": "observed_appsflyer_investment_san_francisco_202606",
         "matched_text": "AppsFlyer secures over $1bn investment",
         "match_source": "known_place_title"
@@ -2468,8 +2468,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.1215,
-          47.674
+          -122.1297,
+          47.6401
         ]
       },
       "properties": {
@@ -2477,14 +2477,14 @@
         "source": "Game World Observer",
         "link": "https://gameworldobserver.com/2026/06/16/report-xbox-intends-to-close-several-studios-at-once",
         "published_at": "2026-06-16T06:07:36+00:00",
-        "representative_place": "Microsoft Gaming / Xbox Redmond area",
-        "place_label": "米国-ワシントン州-レドモンド-Microsoft Gaming/Xbox",
-        "sort_place_label": "米国-ワシントン州-レドモンド-Microsoft Gaming/Xbox",
-        "geocode_query": "Microsoft Redmond Washington United States Xbox",
-        "place_type": "platform_company_topic",
-        "location_precision": "headquarters_area",
-        "place_reason": "Xbox価格改定・スタジオ再編・幹部人事などMicrosoft Gaming/Xbox主体の記事を、個別市場ではなくRedmond周辺の会社主体として扱う。番地までは固定しない（一致語: Xbox intends to close several studios）",
-        "confidence": 0.74,
+        "representative_place": "Microsoft / One Microsoft Way Redmond campus",
+        "place_label": "米国-ワシントン州-レドモンド-One Microsoft Way-Microsoft Gaming/Xbox",
+        "sort_place_label": "米国-ワシントン州-レドモンド-One Microsoft Way-Microsoft Gaming/Xbox",
+        "geocode_query": "One Microsoft Way Redmond Washington United States Microsoft",
+        "place_type": "platform_company_site",
+        "location_precision": "campus_address",
+        "place_reason": "Xbox価格改定・スタジオ再編・幹部人事などMicrosoft Gaming/Xbox主体の記事なので、Redmond周辺ではなくMicrosoft本社キャンパスのOne Microsoft Wayに置く（一致語: Xbox intends to close several studios）",
+        "confidence": 0.82,
         "rule_id": "observed_xbox_corporate_pricing_and_studio_changes_202606",
         "matched_text": "Xbox intends to close several studios",
         "match_source": "known_place_title"
@@ -2603,8 +2603,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.2364,
-          37.4852
+          -122.255,
+          37.523
         ]
       },
       "properties": {
@@ -2612,14 +2612,14 @@
         "source": "gamedeveloper",
         "link": "https://www.gamedeveloper.com/marketing/ea-announces-advertising-platform-to-launch-ads-directly-into-gameplay-",
         "published_at": "2026-06-15T19:05:16+00:00",
-        "representative_place": "Electronic Arts / Redwood City company area",
-        "place_label": "米国-カリフォルニア州-レッドウッドシティ-Electronic Arts",
-        "sort_place_label": "米国-カリフォルニア州-レッドウッドシティ-Electronic Arts",
-        "geocode_query": "Electronic Arts Redwood City California United States",
-        "place_type": "publisher_company_topic",
-        "location_precision": "headquarters_area",
-        "place_reason": "EAのAI活用・広告プラットフォーム記事なので、サービス提供地域ではなくElectronic Artsの会社主体として扱う。番地までは固定しない（一致語: EA announces advertising platform）",
-        "confidence": 0.74,
+        "representative_place": "Electronic Arts / Redwood Shores headquarters area",
+        "place_label": "米国-カリフォルニア州-レッドウッドシティ-レッドウッドショアーズ-Electronic Arts",
+        "sort_place_label": "米国-カリフォルニア州-レッドウッドシティ-レッドウッドショアーズ-Electronic Arts",
+        "geocode_query": "Electronic Arts Redwood Shores Redwood City California United States",
+        "place_type": "publisher_company_site",
+        "location_precision": "district",
+        "place_reason": "EAの会社主体記事なのでRedwood City全体ではなく、Electronic Artsが拠点を置くRedwood Shores地区に寄せる。今回確認できた範囲では番地まで固定せずdistrictに止める（一致語: EA announces advertising platform）",
+        "confidence": 0.78,
         "rule_id": "observed_ea_ai_and_advertising_platform_202606",
         "matched_text": "EA announces advertising platform",
         "match_source": "known_place_title"
@@ -2630,8 +2630,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.8265,
-          33.6846
+          -117.7665,
+          33.661
         ]
       },
       "properties": {
@@ -2639,14 +2639,14 @@
         "source": "GamesIndustry.biz Latest Articles Feed",
         "link": "https://www.gamesindustry.biz/blizzard-sues-private-world-of-warcraft-server-for-large-scale-egregious-and-ongoing-infringement-of-blizzards-intellectual-property",
         "published_at": "2026-06-15T17:38:02+00:00",
-        "representative_place": "Blizzard Entertainment / Irvine company area",
-        "place_label": "米国-カリフォルニア州-アーバイン-Blizzard Entertainment",
-        "sort_place_label": "米国-カリフォルニア州-アーバイン-Blizzard Entertainment",
-        "geocode_query": "Blizzard Entertainment Irvine California United States",
+        "representative_place": "Blizzard Entertainment / 1 Blizzard Way Irvine campus",
+        "place_label": "米国-カリフォルニア州-アーバイン-1 Blizzard Way-Blizzard Entertainment",
+        "sort_place_label": "米国-カリフォルニア州-アーバイン-1 Blizzard Way-Blizzard Entertainment",
+        "geocode_query": "1 Blizzard Way Irvine California United States Blizzard Entertainment",
         "place_type": "studio_legal_site",
-        "location_precision": "company_area",
-        "place_reason": "BlizzardによるWorld of Warcraft私設サーバー訴訟記事なので、法域ではなく権利者側の会社主体としてIrvine周辺に置く。番地までは固定しない（一致語: Blizzard sues private World of Warcraft server）",
-        "confidence": 0.76,
+        "location_precision": "street_address",
+        "place_reason": "BlizzardによるWorld of Warcraft私設サーバー訴訟記事なので、Irvine周辺ではなくBlizzard Entertainment本社キャンパスの1 Blizzard Wayに置く（一致語: Blizzard sues private World of Warcraft server）",
+        "confidence": 0.82,
         "rule_id": "observed_blizzard_project_ascension_lawsuit_irvine_202606",
         "matched_text": "Blizzard sues private World of Warcraft server",
         "match_source": "known_place_title"
@@ -2657,8 +2657,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.1215,
-          47.674
+          -122.1297,
+          47.6401
         ]
       },
       "properties": {
@@ -2666,14 +2666,14 @@
         "source": "GamesIndustry.biz Latest Articles Feed",
         "link": "https://www.gamesindustry.biz/xbox-game-studios-boss-craig-duncan-and-chief-of-staff-louise-oconnor-step-down",
         "published_at": "2026-06-15T14:56:34+00:00",
-        "representative_place": "Microsoft Gaming / Xbox Redmond area",
-        "place_label": "米国-ワシントン州-レドモンド-Microsoft Gaming/Xbox",
-        "sort_place_label": "米国-ワシントン州-レドモンド-Microsoft Gaming/Xbox",
-        "geocode_query": "Microsoft Redmond Washington United States Xbox",
-        "place_type": "platform_company_topic",
-        "location_precision": "headquarters_area",
-        "place_reason": "Xbox価格改定・スタジオ再編・幹部人事などMicrosoft Gaming/Xbox主体の記事を、個別市場ではなくRedmond周辺の会社主体として扱う。番地までは固定しない（一致語: Xbox Game Studios boss Craig Duncan）",
-        "confidence": 0.74,
+        "representative_place": "Microsoft / One Microsoft Way Redmond campus",
+        "place_label": "米国-ワシントン州-レドモンド-One Microsoft Way-Microsoft Gaming/Xbox",
+        "sort_place_label": "米国-ワシントン州-レドモンド-One Microsoft Way-Microsoft Gaming/Xbox",
+        "geocode_query": "One Microsoft Way Redmond Washington United States Microsoft",
+        "place_type": "platform_company_site",
+        "location_precision": "campus_address",
+        "place_reason": "Xbox価格改定・スタジオ再編・幹部人事などMicrosoft Gaming/Xbox主体の記事なので、Redmond周辺ではなくMicrosoft本社キャンパスのOne Microsoft Wayに置く（一致語: Xbox Game Studios boss Craig Duncan）",
+        "confidence": 0.82,
         "rule_id": "observed_xbox_corporate_pricing_and_studio_changes_202606",
         "matched_text": "Xbox Game Studios boss Craig Duncan",
         "match_source": "known_place_title"
@@ -2684,8 +2684,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.6503,
-          35.6762
+          139.7282,
+          35.6156
         ]
       },
       "properties": {
@@ -2693,14 +2693,14 @@
         "source": "GamesIndustry.biz Latest Articles Feed",
         "link": "https://www.gamesindustry.biz/what-went-wrong-with-segas-776m-acquisition-of-angry-birds-giant-rovio",
         "published_at": "2026-06-15T12:38:52+00:00",
-        "representative_place": "Sega Sammy / Tokyo headquarters area",
-        "place_label": "日本-東京都-SEGA/Sega Sammy",
-        "sort_place_label": "日本-東京都-SEGA/Sega Sammy",
-        "geocode_query": "Sega Sammy Tokyo Japan headquarters",
-        "place_type": "publisher_company_topic",
-        "location_precision": "headquarters_area",
-        "place_reason": "Sega SammyによるRovio買収の検証記事なので、買収主体であるSega Sammy側の会社トピックとして東京周辺に置く。番地までは固定しない（一致語: What went wrong with Sega's $776m acquisition of Angry Birds giant Rovio）",
-        "confidence": 0.66,
+        "representative_place": "SEGA SAMMY Holdings / Sumitomo Fudosan Osaki Garden Tower",
+        "place_label": "日本-東京都-品川区-西品川-住友不動産大崎ガーデンタワー-SEGA SAMMY",
+        "sort_place_label": "日本-東京都-品川区-西品川-住友不動産大崎ガーデンタワー-SEGA SAMMY",
+        "geocode_query": "SEGA SAMMY Holdings Sumitomo Fudosan Osaki Garden Tower Nishi-Shinagawa Shinagawa Tokyo Japan",
+        "place_type": "holding_company_site",
+        "location_precision": "building",
+        "place_reason": "Sega SammyによるRovio買収の検証記事なので、買収主体であるSEGA SAMMY Holdingsの本社ビルに置く。東京代表点ではなく品川区西品川の住友不動産大崎ガーデンタワー単位で扱う（一致語: What went wrong with Sega's $776m acquisition of Angry Birds giant Rovio）",
+        "confidence": 0.84,
         "rule_id": "observed_sega_roviο_acquisition_retrospective_tokyo_202606",
         "matched_text": "What went wrong with Sega's $776m acquisition of Angry Birds giant Rovio",
         "match_source": "known_place_title"
@@ -2738,8 +2738,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.2364,
-          37.4852
+          -122.255,
+          37.523
         ]
       },
       "properties": {
@@ -2747,14 +2747,14 @@
         "source": "GamesIndustry.biz Latest Articles Feed",
         "link": "https://www.gamesindustry.biz/ea-rolls-out-advertising-arm-to-let-companies-market-directly-into-gameplay",
         "published_at": "2026-06-15T11:18:51+00:00",
-        "representative_place": "Electronic Arts / Redwood City company area",
-        "place_label": "米国-カリフォルニア州-レッドウッドシティ-Electronic Arts",
-        "sort_place_label": "米国-カリフォルニア州-レッドウッドシティ-Electronic Arts",
-        "geocode_query": "Electronic Arts Redwood City California United States",
-        "place_type": "publisher_company_topic",
-        "location_precision": "headquarters_area",
-        "place_reason": "EAのAI活用・広告プラットフォーム記事なので、サービス提供地域ではなくElectronic Artsの会社主体として扱う。番地までは固定しない（一致語: EA rolls out Advertising platform）",
-        "confidence": 0.74,
+        "representative_place": "Electronic Arts / Redwood Shores headquarters area",
+        "place_label": "米国-カリフォルニア州-レッドウッドシティ-レッドウッドショアーズ-Electronic Arts",
+        "sort_place_label": "米国-カリフォルニア州-レッドウッドシティ-レッドウッドショアーズ-Electronic Arts",
+        "geocode_query": "Electronic Arts Redwood Shores Redwood City California United States",
+        "place_type": "publisher_company_site",
+        "location_precision": "district",
+        "place_reason": "EAの会社主体記事なのでRedwood City全体ではなく、Electronic Artsが拠点を置くRedwood Shores地区に寄せる。今回確認できた範囲では番地まで固定せずdistrictに止める（一致語: EA rolls out Advertising platform）",
+        "confidence": 0.78,
         "rule_id": "observed_ea_ai_and_advertising_platform_202606",
         "matched_text": "EA rolls out Advertising platform",
         "match_source": "known_place_title"
@@ -2819,8 +2819,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.1215,
-          47.674
+          -122.1297,
+          47.6401
         ]
       },
       "properties": {
@@ -2828,14 +2828,14 @@
         "source": "GamesIndustry.biz Latest Articles Feed",
         "link": "https://www.gamesindustry.biz/asha-sharma-faces-tough-decisions-with-limited-room-for-manoeuvre-opinion",
         "published_at": "2026-06-12T15:53:54+00:00",
-        "representative_place": "Microsoft Gaming / Xbox Redmond area",
-        "place_label": "米国-ワシントン州-レドモンド-Microsoft Gaming/Xbox",
-        "sort_place_label": "米国-ワシントン州-レドモンド-Microsoft Gaming/Xbox",
-        "geocode_query": "Microsoft Redmond Washington United States Xbox",
-        "place_type": "platform_company_topic",
-        "location_precision": "headquarters_area",
-        "place_reason": "Xbox価格改定・スタジオ再編・幹部人事などMicrosoft Gaming/Xbox主体の記事を、個別市場ではなくRedmond周辺の会社主体として扱う。番地までは固定しない",
-        "confidence": 0.74,
+        "representative_place": "Microsoft / One Microsoft Way Redmond campus",
+        "place_label": "米国-ワシントン州-レドモンド-One Microsoft Way-Microsoft Gaming/Xbox",
+        "sort_place_label": "米国-ワシントン州-レドモンド-One Microsoft Way-Microsoft Gaming/Xbox",
+        "geocode_query": "One Microsoft Way Redmond Washington United States Microsoft",
+        "place_type": "platform_company_site",
+        "location_precision": "campus_address",
+        "place_reason": "Xbox価格改定・スタジオ再編・幹部人事などMicrosoft Gaming/Xbox主体の記事なので、Redmond周辺ではなくMicrosoft本社キャンパスのOne Microsoft Wayに置く",
+        "confidence": 0.82,
         "rule_id": "observed_xbox_corporate_pricing_and_studio_changes_202606",
         "matched_text": "Asha Sharma's first 100 days as Xbox CEO",
         "match_source": "rule"
@@ -2865,6 +2865,33 @@
         "confidence": 0.92,
         "rule_id": "observed_gibiz_summer_party_brighton_pier_202607",
         "matched_text": "The GamesIndustry.biz Summer Party returns Wednesday July 15",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1278,
+          51.5074
+        ]
+      },
+      "properties": {
+        "title": "『バットマン：アーカム』開発チームが新作DCマルチプレイヤーゲームを開発か？失敗を恐れず「サービス型ゲーム」に再挑戦 - 玩具人 TOY PEOPLE",
+        "source": "玩具人 TOY PEOPLE",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9hZl9XRjZmbzNiRllqUU9pTmRia3dvVXdkUUxNSk1yU3dBc3dycGxwNnkwUVZrQnhNNkVRcnNTeVdtYXNvYk12U2NDMFNfZ0p2?oc=5",
+        "published_at": "2026-06-12T10:29:50+00:00",
+        "representative_place": "Rocksteady Studios / London studio area",
+        "place_label": "英国-イングランド-ロンドン-Rocksteady Studios周辺",
+        "sort_place_label": "英国-イングランド-ロンドン-Rocksteady Studios周辺",
+        "geocode_query": "Rocksteady Studios London United Kingdom",
+        "place_type": "studio_site",
+        "location_precision": "studio_area",
+        "place_reason": "Rocksteady Studiosの記事なので、ロンドン市代表点ではなく同スタジオ周辺として扱う。公開住所を確実に固定できるまではstudio_areaに止める（一致語: バットマン：アーカム』開発チーム）",
+        "confidence": 0.72,
+        "rule_id": "observed_rocksteady_dc_multiplayer_london_202606",
+        "matched_text": "バットマン：アーカム』開発チーム",
         "match_source": "known_place_title"
       }
     },
@@ -3055,6 +3082,33 @@
         "rule_id": "observed_nintendo_joycon_fine_france_202606",
         "matched_text": "Nintendo was fined 35 million euros",
         "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9827,
+          40.7563
+        ]
+      },
+      "properties": {
+        "title": "\"Product visibility needs a more cohesive and structural approach\" – How VaultN aims to unify the digital distribution ecosystem",
+        "source": "GamesIndustry.biz Latest Articles Feed",
+        "link": "https://www.gamesindustry.biz/product-visibility-needs-a-more-cohesive-and-structural-approach-how-vaultn-aims-to-unify-the-digital-distribution-ecosystem",
+        "published_at": "2026-06-09T12:00:00+00:00",
+        "representative_place": "Take-Two Interactive / 1133 Avenue of the Americas",
+        "place_label": "米国-ニューヨーク州-ニューヨーク-1133 Avenue of the Americas-Take-Two Interactive",
+        "sort_place_label": "米国-ニューヨーク州-ニューヨーク-1133 Avenue of the Americas-Take-Two Interactive",
+        "geocode_query": "1133 Avenue of the Americas New York Take-Two Interactive",
+        "place_type": "publisher_company_site",
+        "location_precision": "street_address",
+        "place_reason": "Take-Two Interactiveの年次報告に関する記事なので、ニューヨーク周辺ではなくTake-Two本社の1133 Avenue of the Americasに置く",
+        "confidence": 0.84,
+        "rule_id": "observed_take_two_annual_report_new_york_202605",
+        "matched_text": "Take-Two Interactive",
+        "match_source": "rule"
       }
     },
     {
@@ -3413,6 +3467,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.2015,
+          47.6101
+        ]
+      },
+      "properties": {
+        "title": "Gabe Newell on the accusations of Steam’s monopoly: “Customers have enormous choice where they purchase their products”",
+        "source": "Game World Observer",
+        "link": "https://gameworldobserver.com/2026/06/02/gabe-newell-on-the-accusations-of-steams-monopoly-customers-have-enormous-choice-where-they-purchase-their-products",
+        "published_at": "2026-06-02T14:34:59+00:00",
+        "representative_place": "Valve / Steam monopoly legal topic",
+        "place_label": "米国-ワシントン州-ベルビュー-Valve/Steam訴訟",
+        "sort_place_label": "米国-ワシントン州-ベルビュー-Valve/Steam訴訟",
+        "geocode_query": "Valve Bellevue Washington Steam monopoly legal case",
+        "place_type": "platform_legal_topic",
+        "location_precision": "headquarters_area",
+        "place_reason": "Steam独占疑惑に関するGabe Newell証言の記事なので、訴訟相手ではなくValve/Steam主体の法的トピックとしてベルビュー周辺に置く。番地までは固定しない（一致語: Gabe Newell on the accusations of Steam’s monopoly）",
+        "confidence": 0.74,
+        "rule_id": "observed_valve_steam_monopoly_wolfire_testimony_202606",
+        "matched_text": "Gabe Newell on the accusations of Steam’s monopoly",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           144.9631,
           -37.8136
         ]
@@ -3494,6 +3575,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          127.0473,
+          37.5172
+        ]
+      },
+      "properties": {
+        "title": "Report: KRAFTON will indeed pay the creators of Subnautica 2 $250 million",
+        "source": "Game World Observer",
+        "link": "https://gameworldobserver.com/2026/05/28/report-krafton-will-indeed-pay-the-creators-of-subnautica-2-250-million",
+        "published_at": "2026-05-28T14:11:10+00:00",
+        "representative_place": "KRAFTON / Gangnam District Seoul headquarters area",
+        "place_label": "韓国-ソウル特別市-江南区-KRAFTON",
+        "sort_place_label": "韓国-ソウル特別市-江南区-KRAFTON",
+        "geocode_query": "KRAFTON Gangnam District Seoul South Korea headquarters",
+        "place_type": "publisher_company_site",
+        "location_precision": "district",
+        "place_reason": "KRAFTON主体の記事なので、韓国全体ではなく本社所在地として知られるソウル特別市江南区に寄せる。番地は今回の確認では固定しない（一致語: KRAFTON will indeed pay the creators of Subnautica 2）",
+        "confidence": 0.76,
+        "rule_id": "observed_krafton_subnautica_bonus_south_korea_202605",
+        "matched_text": "KRAFTON will indeed pay the creators of Subnautica 2",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           17.6791,
           1.6508
         ]
@@ -3548,6 +3656,141 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -118.2437,
+          34.0522
+        ]
+      },
+      "properties": {
+        "title": "The developers of Star Citizen have already raised over a billion dollars",
+        "source": "Game World Observer",
+        "link": "https://gameworldobserver.com/2026/05/25/the-developers-of-star-citizen-have-already-raised-over-a-billion-dollars",
+        "published_at": "2026-05-25T11:52:49+00:00",
+        "representative_place": "Cloud Imperium Games / Star Citizen developer topic",
+        "place_label": "米国-カリフォルニア州-ロサンゼルス-Cloud Imperium Games/Star Citizen",
+        "sort_place_label": "米国-カリフォルニア州-ロサンゼルス-Cloud Imperium Games/Star Citizen",
+        "geocode_query": "Cloud Imperium Games Los Angeles California Star Citizen",
+        "place_type": "game_funding_topic",
+        "location_precision": "company_city",
+        "place_reason": "Star Citizen開発者のクラウドファンディング到達額記事なので、米国全体では粗い。Cloud Imperium Games主体としてLos Angeles会社都市に寄せるが、複数スタジオ体制のため番地・単一スタジオには固定しない（一致語: The developers of Star Citizen have already raised over a billion dollars）",
+        "confidence": 0.66,
+        "rule_id": "observed_star_citizen_crowdfunding_company_topic_202605",
+        "matched_text": "The developers of Star Citizen have already raised over a billion dollars",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6435,
+          60.1282
+        ]
+      },
+      "properties": {
+        "title": "『Serpent's Gaze』最大4人協力のソウルライク×ローグライトアクション。スウェーデンのインディースタジオが手がける新作がアーリーアクセス開始 - ファミ通",
+        "source": "ファミ通",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8tV0NoTW9LQmRFY2xIUGNLZ3ZwLU1QaElON3JXRXJYVGtvTEt6NjFpaHpKa3phdGNacXltamlpR1dQdFVLSkh3STR6dGlmWnpfd19hNXNmZw?oc=5",
+        "published_at": "2026-05-25T07:00:00+00:00",
+        "representative_place": "Serpent's Gaze / Swedish indie studio topic",
+        "place_label": "スウェーデン-Serpent's Gaze開発スタジオ",
+        "sort_place_label": "スウェーデン-Serpent's Gaze開発スタジオ",
+        "geocode_query": "Sweden Serpent's Gaze indie studio",
+        "place_type": "game_origin_topic",
+        "location_precision": "country_game_origin_topic",
+        "place_reason": "タイトルでスウェーデンのインディースタジオによる新作と説明されているため、国単位の作品由来トピックとして扱う。スタジオ名・都市は確実に固定しない（一致語: スウェーデンのインディースタジオ）",
+        "confidence": 0.62,
+        "rule_id": "observed_serpents_gaze_swedish_indie_202605",
+        "matched_text": "スウェーデンのインディースタジオ",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9827,
+          40.7563
+        ]
+      },
+      "properties": {
+        "title": "Losses decreased 15 times, GTA VI was not postponed — and more from Take-Two’s annual report",
+        "source": "Game World Observer",
+        "link": "https://gameworldobserver.com/2026/05/22/losses-decreased-15-times-gta-vi-was-not-postponed-and-more-from-take-twos-annual-report",
+        "published_at": "2026-05-22T13:06:36+00:00",
+        "representative_place": "Take-Two Interactive / 1133 Avenue of the Americas",
+        "place_label": "米国-ニューヨーク州-ニューヨーク-1133 Avenue of the Americas-Take-Two Interactive",
+        "sort_place_label": "米国-ニューヨーク州-ニューヨーク-1133 Avenue of the Americas-Take-Two Interactive",
+        "geocode_query": "1133 Avenue of the Americas New York Take-Two Interactive",
+        "place_type": "publisher_company_site",
+        "location_precision": "street_address",
+        "place_reason": "Take-Two Interactiveの年次報告に関する記事なので、ニューヨーク周辺ではなくTake-Two本社の1133 Avenue of the Americasに置く（一致語: Losses decreased 15 times）",
+        "confidence": 0.84,
+        "rule_id": "observed_take_two_annual_report_new_york_202605",
+        "matched_text": "Losses decreased 15 times",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6435,
+          60.1282
+        ]
+      },
+      "properties": {
+        "title": "Fellowship Entertainment will separate from Embracer Group in 2027, taking with it “The Lord of the Rings” and many other major IPs",
+        "source": "Game World Observer",
+        "link": "https://gameworldobserver.com/2026/05/20/fellowship-entertainment-will-separate-from-embracer-group-in-2027-taking-with-it-the-lord-of-the-rings-and-many-other-major-ips",
+        "published_at": "2026-05-20T13:57:32+00:00",
+        "representative_place": "Embracer Group / Sweden restructuring topic",
+        "place_label": "スウェーデン-Embracer Group再編",
+        "sort_place_label": "スウェーデン-Embracer Group再編",
+        "geocode_query": "Embracer Group Sweden Fellowship Entertainment separation",
+        "place_type": "holding_company_topic",
+        "location_precision": "country_company_topic",
+        "place_reason": "Embracer Groupの再編とFellowship Entertainment分離の記事なので、特定スタジオではなくスウェーデン企業グループの再編トピックとして扱う。都市・番地までは固定しない（一致語: Fellowship Entertainment will separate from Embracer Group）",
+        "confidence": 0.66,
+        "rule_id": "observed_embracer_fellowship_separation_sweden_202605",
+        "matched_text": "Fellowship Entertainment will separate from Embracer Group",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2171,
+          47.4829
+        ]
+      },
+      "properties": {
+        "title": "Hasbro CEO Explains Why Brand Avoids Live-Service Game Model - Insider Gaming",
+        "source": "Insider Gaming",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPV3RiclVyakNXX2k3MExPRkxtTWktYzFhRWJzZF9pdGRBSUxGZllzUUFKQ3BhbWdoRXZBQXgzUU9GNHU4ZWxoVUQzYjhfWlZIbU5pOHhENndURlhXR0lfc0tMM2NYOGZZR2s2OVIzbjU2SjdSNzl6VEJuUmZZcVlKY2VhTVFXVGlvQTlVd3ZwQ3VsZw?oc=5",
+        "published_at": "2026-05-20T07:00:00+00:00",
+        "representative_place": "Hasbro gaming and digital operations / Renton area",
+        "place_label": "米国-ワシントン州-レントン-Hasbroゲーム/デジタル部門",
+        "sort_place_label": "米国-ワシントン州-レントン-Hasbroゲーム/デジタル部門",
+        "geocode_query": "Hasbro gaming digital operations Renton Washington",
+        "place_type": "company_strategy_site",
+        "location_precision": "division_city",
+        "place_reason": "Hasbroのゲーム戦略記事なので米国全体ではなく、ゲーム・デジタル部門の拠点として扱う。現在の本社移転期と事業部門の分離があるため番地ではなくRenton市単位に止める（一致語: Hasbro CEO Explains Why Brand Avoids Live-Service Game Model）",
+        "confidence": 0.66,
+        "rule_id": "observed_hasbro_live_service_strategy_us_202605",
+        "matched_text": "Hasbro CEO Explains Why Brand Avoids Live-Service Game Model",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           101.9758,
           4.2105
         ]
@@ -3568,6 +3811,33 @@
         "rule_id": "observed_sea_sgf_timezone_202605",
         "matched_text": "Summer Game Fest Showcase — In Southeast Asian Timezone",
         "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9827,
+          40.7563
+        ]
+      },
+      "properties": {
+        "title": "Strauss Zelnick: Changing the visual style of the first Borderlands cost $50 million",
+        "source": "Game World Observer",
+        "link": "https://gameworldobserver.com/2026/05/18/strauss-zelnick-changing-the-visual-style-of-the-first-borderlands-cost-50-million",
+        "published_at": "2026-05-18T12:02:15+00:00",
+        "representative_place": "Take-Two Interactive / 1133 Avenue of the Americas",
+        "place_label": "米国-ニューヨーク州-ニューヨーク-1133 Avenue of the Americas-Take-Two Interactive",
+        "sort_place_label": "米国-ニューヨーク州-ニューヨーク-1133 Avenue of the Americas-Take-Two Interactive",
+        "geocode_query": "1133 Avenue of the Americas New York Take-Two Interactive",
+        "place_type": "publisher_company_site",
+        "location_precision": "street_address",
+        "place_reason": "Take-Two Interactiveの年次報告に関する記事なので、ニューヨーク周辺ではなくTake-Two本社の1133 Avenue of the Americasに置く",
+        "confidence": 0.84,
+        "rule_id": "observed_take_two_annual_report_new_york_202605",
+        "matched_text": "Take-Two Interactive",
+        "match_source": "rule"
       }
     },
     {
@@ -3926,8 +4196,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.774,
-          12.8797
+          18.6435,
+          60.1282
         ]
       },
       "properties": {
@@ -3935,16 +4205,16 @@
         "source": "Inquirer Technology",
         "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOQkd4UVNfM0ZPaEh4enlTeUFEaHpueGRnRlJfbV80a3A1VGx1aWNoa2IxSE1WTWItbWhqWDJrNGRuWThTZndSSWhJUmN5VW9veGhfTXdjTWRiZmRtdUYxMUVSZWVkNUV1VEpDLUhEbGVPMDNMVTJfd3loTG1hTWNKZElNckVkUFhYdmVndVpyaTJhT1UtRkdlODhjb3N2SG5VMjRJZ3VFei1tVU1UTnpkeURETHBtVlZ5bFpxR09rRFd6WE5HOFQwbWltS2c3ckctOW5rMEFMeU9sMkxsWFRNa2JveFk2QU1nWFZR0gHwAUFVX3lxTFBHZVdieGZtM0FZWUozeU9oUzJ0cjZ3ZHVTZmpKM2pBcUcwZ0V5dWV0SkRXbXN4VE5uQ09YMVlSU0trcjQtdGFRSzlSLTVxa0d5MUE0TzZoSzlkUUlsLVRjQVhhMlZ2ZDZNUHlZWjBNUXdSSzdZa2MwYnd3SVNvT01YSHh2QXJmZFAxdjJhMXYtbUotemRjRmlhTWhtUG5lS0taUmdnVXpneHV1ZHkzUlRoT1pHSnZfaWdWSDVGSEJZX1lNUkl1QkROVnJSUmo3SWp2YldLT194VnNZVms4ZEVvcV9YMG9obUZyNWdPNnk5Vg?oc=5",
         "published_at": "2026-04-02T07:00:00+00:00",
-        "representative_place": "Fallen Tear / Filipino developers",
-        "place_label": "フィリピン-Fallen Tear開発者記事",
-        "sort_place_label": "フィリピン-Fallen Tear開発者記事",
-        "geocode_query": "Philippines Fallen Tear Filipino developers",
+        "representative_place": "Serpent's Gaze / Swedish indie studio topic",
+        "place_label": "スウェーデン-Serpent's Gaze開発スタジオ",
+        "sort_place_label": "スウェーデン-Serpent's Gaze開発スタジオ",
+        "geocode_query": "Sweden Serpent's Gaze indie studio",
         "place_type": "game_origin_topic",
         "location_precision": "country_game_origin_topic",
-        "place_reason": "Fallen Tearがフィリピン系開発者によって作られたことを扱う記事なので、単なるフィリピンではなく作品別開発者トピックとしてラベルを分ける（一致語: Fallen Tear: The Ascension）",
-        "confidence": 0.72,
-        "rule_id": "observed_fallen_tear_filipino_devs_202604",
-        "matched_text": "Fallen Tear: The Ascension",
+        "place_reason": "タイトルでスウェーデンのインディースタジオによる新作と説明されているため、国単位の作品由来トピックとして扱う。スタジオ名・都市は確実に固定しない（一致語: early access）",
+        "confidence": 0.62,
+        "rule_id": "observed_serpents_gaze_swedish_indie_202605",
+        "matched_text": "early access",
         "match_source": "known_place_title"
       }
     },
@@ -4115,6 +4385,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          18.6435,
+          60.1282
+        ]
+      },
+      "properties": {
+        "title": "Embracer Group’s quarterly revenue fell by 26%, but the holding company remains satisfied",
+        "source": "Game World Observer",
+        "link": "https://gameworldobserver.com/2026/02/12/embracer-groups-quarterly-revenue-fell-by-26-but-the-holding-company-remains-satisfied",
+        "published_at": "2026-02-12T08:18:42+00:00",
+        "representative_place": "Embracer Group / Sweden restructuring topic",
+        "place_label": "スウェーデン-Embracer Group再編",
+        "sort_place_label": "スウェーデン-Embracer Group再編",
+        "geocode_query": "Embracer Group Sweden Fellowship Entertainment separation",
+        "place_type": "holding_company_topic",
+        "location_precision": "country_company_topic",
+        "place_reason": "Embracer Groupの再編とFellowship Entertainment分離の記事なので、特定スタジオではなくスウェーデン企業グループの再編トピックとして扱う。都市・番地までは固定しない（一致語: Embracer Group）",
+        "confidence": 0.66,
+        "rule_id": "observed_embracer_fellowship_separation_sweden_202605",
+        "matched_text": "Embracer Group",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           22.9375,
           -30.5595
         ]
@@ -4162,6 +4459,33 @@
         "rule_id": "observed_africa_gaming_market_202606",
         "matched_text": "African Video Game Industry",
         "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9827,
+          40.7563
+        ]
+      },
+      "properties": {
+        "title": "Revenue exceeded forecasts — and more from the Take-Two report",
+        "source": "Game World Observer",
+        "link": "https://gameworldobserver.com/2026/02/04/revenue-exceeded-forecasts-and-more-from-the-take-two-report",
+        "published_at": "2026-02-04T14:13:34+00:00",
+        "representative_place": "Take-Two Interactive / 1133 Avenue of the Americas",
+        "place_label": "米国-ニューヨーク州-ニューヨーク-1133 Avenue of the Americas-Take-Two Interactive",
+        "sort_place_label": "米国-ニューヨーク州-ニューヨーク-1133 Avenue of the Americas-Take-Two Interactive",
+        "geocode_query": "1133 Avenue of the Americas New York Take-Two Interactive",
+        "place_type": "publisher_company_site",
+        "location_precision": "street_address",
+        "place_reason": "Take-Two Interactiveの年次報告に関する記事なので、ニューヨーク周辺ではなくTake-Two本社の1133 Avenue of the Americasに置く",
+        "confidence": 0.84,
+        "rule_id": "observed_take_two_annual_report_new_york_202605",
+        "matched_text": "Take-Two Interactive",
+        "match_source": "rule"
       }
     },
     {
@@ -4223,8 +4547,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3522,
-          48.8566
+          2.4186,
+          48.8422
         ]
       },
       "properties": {
@@ -4232,14 +4556,14 @@
         "source": "Game*Spark",
         "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5vUkxfSUctMG9yNmJ2SlN5Y3ExOUpkenprWFhEbXBTOFQtMlZIeXFYZ3ZDYTVyTUNuVTdjWHZTV2ptamxwVDYxRlphczZ4WHZjcm1BamZJUDBNZVZURlNpa1UtRG8xQQ?oc=5",
         "published_at": "2026-01-22T08:00:00+00:00",
-        "representative_place": "Ubisoft / Paris headquarters area",
-        "place_label": "フランス-パリ-Ubisoft",
-        "sort_place_label": "フランス-パリ-Ubisoft",
-        "geocode_query": "Ubisoft Paris France headquarters",
-        "place_type": "publisher_company_topic",
-        "location_precision": "headquarters_area",
-        "place_reason": "Ubisoftの組織再編・スタジオ閉鎖記事なので、閉鎖対象個別拠点ではなくUbisoft本体の会社主体としてパリ周辺に置く。番地までは固定しない（一致語: 時間の砂）",
-        "confidence": 0.72,
+        "representative_place": "Ubisoft / 2 Avenue Pasteur Saint-Mandé",
+        "place_label": "フランス-ヴァル＝ド＝マルヌ県-サン＝マンデ-2 Avenue Pasteur-Ubisoft",
+        "sort_place_label": "フランス-ヴァル＝ド＝マルヌ県-サン＝マンデ-2 Avenue Pasteur-Ubisoft",
+        "geocode_query": "2 Avenue Pasteur Saint-Mande France Ubisoft headquarters",
+        "place_type": "publisher_company_site",
+        "location_precision": "street_address",
+        "place_reason": "Ubisoftの組織再編・スタジオ閉鎖記事なので、パリ代表点でもSaint-Mandé市止まりでもなく、本社所在地として扱える2 Avenue Pasteurに置く（一致語: 時間の砂）",
+        "confidence": 0.82,
         "rule_id": "observed_ubisoft_restructuring_studio_closures_paris_202606",
         "matched_text": "時間の砂",
         "match_source": "known_place_title"
@@ -4809,6 +5133,33 @@
         "confidence": 0.8,
         "rule_id": "observed_cd_projekt_polish_giant_202606",
         "matched_text": "Poland’s CD Projekt beats out Ubisoft",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0686,
+          59.3293
+        ]
+      },
+      "properties": {
+        "title": "オープンワールドゲーム開発でおなじみのAvalanche Studiosが「3分社化」。開発は3スタジオに分かれ、新作も発表 - AUTOMATON",
+        "source": "AUTOMATON",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE12UDB3V3hOdFlYb1dBenZQV2lLVGNiVjNUb2daUENnM2UwNWhhRkNObjhQVWxQX0FlZGhfMlZiazB0ZC1zMGlkcWVYemRyMVAyN3d1LVJYbEY4RTBySHZic1NkdFZCYk05THFLUg?oc=5",
+        "published_at": "2020-03-27T07:00:00+00:00",
+        "representative_place": "Avalanche Studios / Stockholm studio area",
+        "place_label": "スウェーデン-ストックホルム-Avalanche Studios",
+        "sort_place_label": "スウェーデン-ストックホルム-Avalanche Studios",
+        "geocode_query": "Avalanche Studios Stockholm Sweden",
+        "place_type": "studio_site",
+        "location_precision": "studio_area",
+        "place_reason": "一覧の国別表示で国名が落ちないよう、スウェーデンを先頭にしたラベルでAvalanche Studios記事を扱う。番地を確実に固定できるまではstudio_areaに止める（一致語: Avalanche Studios）",
+        "confidence": 0.72,
+        "rule_id": "observed_avalanche_studios_just_cause_stockholm_202604",
+        "matched_text": "Avalanche Studios",
         "match_source": "known_place_title"
       }
     }
