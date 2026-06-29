@@ -149,6 +149,56 @@ Precision normalization batch. This exists because `scripts/build_rss_topic_maps
 
 Expected: precise site entries should no longer lose ranking priority merely because their previous precision label was not in `PRECISION_SCORES`; broad topic entries should remain broad and should not beat specific company/site entries accidentally.
 
+## Batch 48 pending verification
+
+Second precision normalization batch for remaining undefined labels in the latest generated `game-all` output.
+
+- Studio / publisher / company area labels normalized mostly to `city`:
+  - IO Interactive / Copenhagen
+  - Rocksteady / London
+  - Quantic Dream / Paris
+  - MY.GAMES / Amsterdam
+  - Tamatem Games / Amman
+  - 34BigThings / Turin
+  - Wizards of the Coast / Renton
+  - Avalanche Studios / Stockholm
+  - Ninja Theory / Cambridge
+  - Newzoo CEO transition / Amsterdam
+  - Newzoo market analysis / Amsterdam
+
+- Event area labels normalized to `event_site`:
+  - PGC Summit Bangkok
+  - WN Istanbul
+  - WN Growth Summit
+  - PGC Nordics Helsinki
+
+- Broad country / region topic labels normalized to score-table values:
+  - Chinese developers global gaming: `country`
+  - Filipino Horror Game Jam: `country`
+  - Chinese cultural storytelling: `country`
+  - US monthly game charts: `country`
+  - GoreBox Philippines policy topic: `country`
+  - Nyamakop / Relooted South Africa: `country`
+  - Africa games market: `continent_region`
+
+Expected: latest `game-all.geojson` should no longer contain these entries with undefined precision strings such as `studio_area`, `publisher_area`, `headquarters_area`, `event_area`, `country_*_topic`, or `continent_market_topic`.
+
+## Batch 49 pending verification
+
+Verified-location batch. This returns the maintenance process to source-backed place research rather than only precision normalization.
+
+- Raised to exact-site because official address was found:
+  - IO Interactive / Gammel Mønt 4, DK-1117 Copenhagen
+  - 34BigThings / Via Gian Domenico Cassini 39, 10129 Torino
+
+- Kept at city level because only city or non-address location was confirmed during this pass:
+  - Rocksteady / London
+  - Quantic Dream / Paris
+  - Tamatem Games / Amman
+  - Wizards of the Coast / Renton
+
+Expected: exact-address entries should appear with `location_precision=exact_site`; city-retained entries should remain stable and should not be promoted to building/street precision without stronger official address evidence.
+
 ## Public map UI pending verification
 
 - `geographic-news-topic-public/index.html`
