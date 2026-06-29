@@ -52,9 +52,29 @@ Hasbro corporate HQ and games/digital operations differ. Renton remains the bett
 - AppsFlyer: 100 First Street as `street_address_candidate`
 - Star Citizen / Cloud Imperium Games: Los Angeles company-city topic
 
-## Next step
+## Batched overmatch fixes pending verification
 
-Run `Build RSS topic maps` before adding the next dictionary batch.
+These were fixed from the same generated output snapshot and should be verified together after the next workflow run:
+
+- `observed_playstack_imc_sale_london_202606`
+  - removed `Playstack` company-name-only match
+  - expected: Triple-i Initiative roundup/event article should no longer map to Playstack's London address
+
+- `observed_virtuos_kuala_lumpur_studio_202606`
+  - removed `Virtuos` company-name-only match
+  - expected: broad Virtuos/Southeast Asia company articles should not be forced onto the Kuala Lumpur studio rule
+
+- `observed_avalanche_studios_just_cause_stockholm_202604`
+  - removed `Avalanche Studios` company-name-only match
+  - expected: articles about a co-founder's separate new studio should not map to Avalanche Studios Stockholm
+
+- `observed_dont_nod_french_developer_202606`
+  - removed `Don't Nod` / `Dontnod` company-name-only match
+  - expected: multi-topic Patch Notes roundups should not map to Don't Nod's Paris 19e location only because the summary mentions the company
+
+## Next workflow verification batch
+
+Do not run workflow after a single small correction. Run it after this group has accumulated enough related fixes.
 
 Use:
 

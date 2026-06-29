@@ -12,7 +12,7 @@ The current work is no longer just reducing unresolved count. The priority order
 2. Preserve country-prefixed labels in the UI.
 3. Avoid broad country labels that absorb unrelated articles.
 4. Resolve remaining unresolved articles only when the geographic subject is clear.
-5. After each batch, run `Build RSS topic maps` for `game-all` and inspect clusters before continuing.
+5. Batch several corrections together before asking for another `Build RSS topic maps` run.
 
 ## Operating rule
 
@@ -134,6 +134,20 @@ For cluster quality, inspect:
 - clusters where a generic keyword such as `gamescom`, `Kuala Lumpur`, `Turin`, `miHoYo`, `CD Projekt`, or company name alone pulls unrelated articles
 - site clusters with unexpectedly high counts
 - country labels that absorb many unrelated articles
+
+## Workflow batching rule
+
+Do not ask for a workflow run after every small correction.
+
+Prefer this cycle:
+
+1. Inspect the latest generated outputs once.
+2. Identify several related issues from the same output snapshot.
+3. Apply a batch of corrections to dictionaries or mapping logic.
+4. Keep a short note of what must be verified later.
+5. Ask for a workflow run only after the batch is large enough to justify it, or after touching ranking / merge logic that could change many results.
+
+A single-entry fix should not trigger a workflow by itself unless it affects ranking, merge behavior, or a high-risk broad keyword.
 
 ## Workflow procedure
 
