@@ -1,8 +1,8 @@
 {
   "type": "FeatureCollection",
   "properties": {
-    "created_at": "2026-06-29T02:00:08.231440+00:00",
-    "count": 185,
+    "created_at": "2026-06-29T02:02:53.561664+00:00",
+    "count": 186,
     "stats": {
       "feed_id": "game-all",
       "feed_label": "ゲーム",
@@ -51,8 +51,8 @@
         "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja": 77
       },
       "filtered": 909,
-      "resolved": 185,
-      "unresolved": 724,
+      "resolved": 186,
+      "unresolved": 723,
       "rules": 170,
       "known_places": 172,
       "loaded_data_files": [
@@ -4547,6 +4547,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          101.6869,
+          3.139
+        ]
+      },
+      "properties": {
+        "title": "How Virtuos is powering the next era of game development in Southeast Asia - esports.gg",
+        "source": "esports.gg",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSU5MR2ZENFRRVGpDVlBrZFNHVmotREo1algtVFlQbXRNM2pyUVFxN0lwdGM1WklMOHVLV3VLVDJsak4zSXBTSHVQVlpTYTZkTC0wT1libmladXlVbFMtTl9JWGQ4LXJCelpNcXVVT2pYQVZsdEI4NlUzMmdaS1lERk1qX1p0dw?oc=5",
+        "published_at": "2025-12-05T08:00:00+00:00",
+        "representative_place": "Virtuos Kuala Lumpur studio",
+        "place_label": "マレーシア-クアラルンプール-Virtuosスタジオ",
+        "sort_place_label": "マレーシア-クアラルンプール-Virtuosスタジオ",
+        "geocode_query": "Virtuos Kuala Lumpur Malaysia studio",
+        "place_type": "studio_site",
+        "location_precision": "city_studio",
+        "place_reason": "Virtuosのクアラルンプール新スタジオ記事なので、UNDERTALE公演やKuala Lumpur汎用ラベルではなく、VirtuosのKLスタジオ開設として扱う。番地は未確認なので都市単位に止める（一致語: Virtuos）",
+        "confidence": 0.78,
+        "rule_id": "observed_virtuos_kuala_lumpur_studio_202606",
+        "matched_text": "Virtuos",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           77.5946,
           12.9716
         ]
@@ -4934,15 +4961,15 @@
         "source": "Pokde.Net",
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9UcHhBdW1aTzZGeENrUWtNNUtTZC16UXIwSjY5RlZyQ0pMWERSajVGVjJVYW91Zm9xdjV3QTJuV1VtS3M0aTZaM2QwT0R1LTFPVG9LcnJJYjUzWWFORWtxcnkzT2pWSlE?oc=5",
         "published_at": "2023-11-12T08:00:00+00:00",
-        "representative_place": "Kuala Lumpur game industry location",
+        "representative_place": "Kuala Lumpur concert stop",
         "place_label": "マレーシア-クアラルンプール",
         "sort_place_label": "マレーシア-クアラルンプール",
         "geocode_query": "Kuala Lumpur Malaysia",
-        "place_type": "city_game_topic",
+        "place_type": "event_site",
         "location_precision": "city",
-        "place_reason": "古いUNDERTALE公演用のKuala Lumpur単独マッチがVirtuosやIndie Jamなど無関係の記事をKuala Lumpur concert stopとして吸っていたため、地名単独で残る場合は公演名ではなく汎用のゲーム産業都市トピックとして扱う（一致語: Kuala Lumpur）",
-        "confidence": 0.56,
-        "rule_id": "observed_kuala_lumpur_game_topic_broad_fix_202606",
+        "place_reason": "未解決記事のタイトルにMalaysia、summaryに『live in Kuala Lumpur』とあり、コンサートツアーの対象地としてクアラルンプールに置く（一致語: Kuala Lumpur）",
+        "confidence": 0.86,
+        "rule_id": "observed_undertale_symphony_kuala_lumpur_202606",
         "matched_text": "Kuala Lumpur",
         "match_source": "known_place_title"
       }
@@ -4988,15 +5015,15 @@
         "source": "Pocket Gamer.biz",
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBWbHRjTy13TV80XzQtY2lHNENHQXB2cjlWQkE2NTRqZmpMU1BiLXNWdGZtZHJOdXh3SEVvN2FaZXJvRFNOVGI2czM5X1VORXJUMUhfUW8xZlBERjN1Rjk4ZENhT25pR3Q4N282ZVdic2V6dw?oc=5",
         "published_at": "2022-08-19T07:00:00+00:00",
-        "representative_place": "Kuala Lumpur game industry location",
+        "representative_place": "Kuala Lumpur concert stop",
         "place_label": "マレーシア-クアラルンプール",
         "sort_place_label": "マレーシア-クアラルンプール",
         "geocode_query": "Kuala Lumpur Malaysia",
-        "place_type": "city_game_topic",
+        "place_type": "event_site",
         "location_precision": "city",
-        "place_reason": "古いUNDERTALE公演用のKuala Lumpur単独マッチがVirtuosやIndie Jamなど無関係の記事をKuala Lumpur concert stopとして吸っていたため、地名単独で残る場合は公演名ではなく汎用のゲーム産業都市トピックとして扱う（一致語: Kuala Lumpur）",
-        "confidence": 0.56,
-        "rule_id": "observed_kuala_lumpur_game_topic_broad_fix_202606",
+        "place_reason": "未解決記事のタイトルにMalaysia、summaryに『live in Kuala Lumpur』とあり、コンサートツアーの対象地としてクアラルンプールに置く（一致語: Kuala Lumpur）",
+        "confidence": 0.86,
+        "rule_id": "observed_undertale_symphony_kuala_lumpur_202606",
         "matched_text": "Kuala Lumpur",
         "match_source": "known_place_title"
       }
@@ -5015,15 +5042,15 @@
         "source": "Virtuos",
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTFFRM01OX29wTFZEaC1yMEl6ZjlOQUNBYUJHYm13eWpCSjhUeVlhQjlSMmRyeVR6VGl3aFhOQTZjeGQ1ZHVlRzlobzhMaUxpWW9iOGExbjZSNVFFbXAzX0FaUFpVdVItQWJ2OXpiWnlSV09WeGlDVklJZk5jZlUza2x5VnNSQ2xHUkczUXExQ1N3TkhYeWs1cDRfYjUzSDk2RFpjcFJ2TmlibW8zTVFSdHdPZHRPdW9YWEdlZFNSczdJcHdMWkk1d3NKNA?oc=5",
         "published_at": "2022-08-12T07:00:00+00:00",
-        "representative_place": "Kuala Lumpur game industry location",
+        "representative_place": "Kuala Lumpur concert stop",
         "place_label": "マレーシア-クアラルンプール",
         "sort_place_label": "マレーシア-クアラルンプール",
         "geocode_query": "Kuala Lumpur Malaysia",
-        "place_type": "city_game_topic",
+        "place_type": "event_site",
         "location_precision": "city",
-        "place_reason": "古いUNDERTALE公演用のKuala Lumpur単独マッチがVirtuosやIndie Jamなど無関係の記事をKuala Lumpur concert stopとして吸っていたため、地名単独で残る場合は公演名ではなく汎用のゲーム産業都市トピックとして扱う（一致語: Kuala Lumpur）",
-        "confidence": 0.56,
-        "rule_id": "observed_kuala_lumpur_game_topic_broad_fix_202606",
+        "place_reason": "未解決記事のタイトルにMalaysia、summaryに『live in Kuala Lumpur』とあり、コンサートツアーの対象地としてクアラルンプールに置く（一致語: Kuala Lumpur）",
+        "confidence": 0.86,
+        "rule_id": "observed_undertale_symphony_kuala_lumpur_202606",
         "matched_text": "Kuala Lumpur",
         "match_source": "known_place_title"
       }
