@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "created_at": "2026-06-29T08:00:05.144985+00:00",
+  "created_at": "2026-06-29T09:22:11.674867+00:00",
   "stats": {
     "feed_id": "google-news-ai-ja",
     "feed_label": "Google News: AI / 生成AI",
@@ -13,10 +13,10 @@
       "https://news.google.com/rss/search?q=AI%20%E7%94%9F%E6%88%90AI%20OpenAI&hl=ja&gl=JP&ceid=JP:ja": 100
     },
     "filtered": 100,
-    "resolved": 10,
-    "unresolved": 90,
-    "rules": 401,
-    "known_places": 403,
+    "resolved": 14,
+    "unresolved": 86,
+    "rules": 470,
+    "known_places": 472,
     "loaded_data_files": [
       "data/place_rules.json",
       "data/unresolved_known_places_12.json",
@@ -195,14 +195,6 @@
       "feed_url": "https://news.google.com/rss/search?q=AI%20%E7%94%9F%E6%88%90AI%20OpenAI&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
-      "title": "元OpenAI研究者のAIヘッジファンド「AGI逆張り投資」でNVIDIAを巨額ショート - ビジネス+IT",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9JbDZDbzhPbmJXN0Fad0RXWHlMQVA2U2Zlb2owM05CaW8tV3poSW5Ra2pyS2xJY0xfcGcxcTlMNXlrc2RGeWdoN2JRQklGTm8?oc=5",
-      "source": "ビジネス+IT",
-      "published_at": "2026-05-19T07:00:00+00:00",
-      "summary": "元OpenAI研究者のAIヘッジファンド「AGI逆張り投資」でNVIDIAを巨額ショート    ビジネス+IT",
-      "feed_url": "https://news.google.com/rss/search?q=AI%20%E7%94%9F%E6%88%90AI%20OpenAI&hl=ja&gl=JP&ceid=JP:ja"
-    },
-    {
       "title": "AI規制の主導権は誰が握るのか？中国を含めるOpenAI、引き離すAnthropic、AI覇権の次の戦場は規制 【生成AI事件簿】米中首脳会談の裏側で浮かんだAIガバナンスの現実、2大ベンダーが24時間差で投じた対極のAI規制論(1/5) - JBpress",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5yNVhhVVBuTXU1T1BpWFdicHdzVmRfQldHY2diZDJOT0UwUUZDQkRrREtSdUdwMl9xYkxhdTJKSHREblVEUkdKd1Z3TVJpVTlra2xYQzNB?oc=5",
       "source": "JBpress",
@@ -280,22 +272,6 @@
       "source": "ビジネス+IT",
       "published_at": "2026-04-28T07:00:00+00:00",
       "summary": "OpenAI「GPT-5.5は古いプロンプト使っちゃダメ、細かすぎる指示も禁止」 GPT5.5の性能を解き放つ「7つの指示」とは？    ビジネス+IT",
-      "feed_url": "https://news.google.com/rss/search?q=AI%20%E7%94%9F%E6%88%90AI%20OpenAI&hl=ja&gl=JP&ceid=JP:ja"
-    },
-    {
-      "title": "OpenAIとMicrosoft、独占契約を終了、他社でも提供可能に AmazonやGoogleなど、他社のクラウド基盤でも提供可能に - ビジネス+IT",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9lZTZjaFp0TzFUQndRbl9DU2JJOEJ6WDJJYVNOVlFPTkt3VmpvSEFaUDRUd0pfOUdNUms2NU1XcnhKSEdjX0xtMlFKdmRfc2t4ZW5F?oc=5",
-      "source": "ビジネス+IT",
-      "published_at": "2026-04-28T07:00:00+00:00",
-      "summary": "OpenAIとMicrosoft、独占契約を終了、他社でも提供可能に AmazonやGoogleなど、他社のクラウド基盤でも提供可能に    ビジネス+IT",
-      "feed_url": "https://news.google.com/rss/search?q=AI%20%E7%94%9F%E6%88%90AI%20OpenAI&hl=ja&gl=JP&ceid=JP:ja"
-    },
-    {
-      "title": "【AIエージェント戦争①】Microsoft、Google、OpenAIが同時に動いた理由 - 株式会社エクサウィザーズ",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8yNEs4LVN0cWdfUXlXVGxPVU50NU1tTHBOLUQtT1ZUNGpiQ3R6bmcwZWczWmJTYWFHVGhocDlwWXUyY0UyVzZDaVlseGlHV0JWMllfRlh1VGVkMEVFYjRxbnlhbHc?oc=5",
-      "source": "株式会社エクサウィザーズ",
-      "published_at": "2026-04-27T07:00:00+00:00",
-      "summary": "【AIエージェント戦争①】Microsoft、Google、OpenAIが同時に動いた理由    株式会社エクサウィザーズ",
       "feed_url": "https://news.google.com/rss/search?q=AI%20%E7%94%9F%E6%88%90AI%20OpenAI&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
@@ -400,14 +376,6 @@
       "source": "Real Sound｜リアルサウンド",
       "published_at": "2026-04-11T07:00:00+00:00",
       "summary": "AI動画生成を“みんなのもの”に　OpenAIの撤退後、Googleが「無料」で仕掛ける意図を考える    Real Sound｜リアルサウンド",
-      "feed_url": "https://news.google.com/rss/search?q=AI%20%E7%94%9F%E6%88%90AI%20OpenAI&hl=ja&gl=JP&ceid=JP:ja"
-    },
-    {
-      "title": "システムインテグレーターとして豊富な実績を持つ ミツイワ、安心・安全に活用できる生成 AI サービス MAKOTO を Azure OpenAI Service で構築 - Microsoft",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4tVjg4TWhpODcxTjZRUjhKV0ttb1BycGpMUDdEckw0SHlXSG1OQW9FSk9MSmw5dnF1RUNwVnNKVEZhcDAyQUQzdXl6Y2l4QTVoanZBS19yUERycGNOTWlGWHJFY3ZzV2lxZElr?oc=5",
-      "source": "Microsoft",
-      "published_at": "2026-04-10T12:30:38+00:00",
-      "summary": "システムインテグレーターとして豊富な実績を持つ ミツイワ、安心・安全に活用できる生成 AI サービス MAKOTO を Azure OpenAI Service で構築    Microsoft",
       "feed_url": "https://news.google.com/rss/search?q=AI%20%E7%94%9F%E6%88%90AI%20OpenAI&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
