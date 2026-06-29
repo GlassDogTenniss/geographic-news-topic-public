@@ -1,8 +1,8 @@
 {
   "type": "FeatureCollection",
   "properties": {
-    "created_at": "2026-06-29T03:02:10.751485+00:00",
-    "count": 183,
+    "created_at": "2026-06-29T03:11:17.662662+00:00",
+    "count": 180,
     "stats": {
       "feed_id": "game-all",
       "feed_label": "ゲーム",
@@ -50,9 +50,9 @@
         "https://news.google.com/rss/search?q=%E6%B5%B7%E5%A4%96%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA&hl=ja&gl=JP&ceid=JP:ja": 76,
         "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja": 77
       },
-      "filtered": 908,
-      "resolved": 183,
-      "unresolved": 725,
+      "filtered": 907,
+      "resolved": 180,
+      "unresolved": 727,
       "rules": 175,
       "known_places": 177,
       "loaded_data_files": [
@@ -309,7 +309,7 @@
         "type": "Point",
         "coordinates": [
           139.7292,
-          35.6605
+          35.6606
         ]
       },
       "properties": {
@@ -320,10 +320,10 @@
         "representative_place": "The Pokémon Company / Roppongi Hills Mori Tower 8F",
         "place_label": "日本-東京都-港区-六本木-六本木ヒルズ森タワー8F-The Pokémon Company",
         "sort_place_label": "日本-東京都-港区-六本木-六本木ヒルズ森タワー8F-The Pokémon Company",
-        "geocode_query": "Roppongi Hills Mori Tower 8F 6-10-1 Roppongi Minato Tokyo The Pokémon Company",
-        "place_type": "publisher_company_site",
-        "location_precision": "building_floor",
-        "place_reason": "Pokémon Championsのモバイル売上記事で、主体としてThe Pokémon Companyを使うなら東京周辺では粗いため、六本木ヒルズ森タワー8Fの会社所在地に置く（一致語: Pokémon Champions）",
+        "geocode_query": "Roppongi Hills Mori Tower Tokyo The Pokemon Company",
+        "place_type": "company_site",
+        "location_precision": "building",
+        "place_reason": "The Pokémon Company主体の記事を六本木ヒルズ森タワーに置く。building_floorはスコア表に未定義なので、ranking上はbuildingに正規化する（一致語: Pokémon Champions）",
         "confidence": 0.84,
         "rule_id": "observed_pokemon_champions_mobile_tokyo_202606",
         "matched_text": "Pokémon Champions",
@@ -536,10 +536,10 @@
         "representative_place": "Microsoft / One Microsoft Way Redmond campus",
         "place_label": "米国-ワシントン州-レドモンド-One Microsoft Way-Microsoft Gaming/Xbox",
         "sort_place_label": "米国-ワシントン州-レドモンド-One Microsoft Way-Microsoft Gaming/Xbox",
-        "geocode_query": "One Microsoft Way Redmond Washington United States Microsoft",
+        "geocode_query": "One Microsoft Way Redmond Washington United States Microsoft Gaming Xbox",
         "place_type": "platform_company_site",
-        "location_precision": "campus_address",
-        "place_reason": "Xbox価格改定・スタジオ再編・幹部人事などMicrosoft Gaming/Xbox主体の記事なので、Redmond周辺ではなくMicrosoft本社キャンパスのOne Microsoft Wayに置く（一致語: Microsoft significantly increases Xbox prices worldwide）",
+        "location_precision": "exact_site",
+        "place_reason": "Xbox価格・独占方針・スタジオ再編・幹部交代などMicrosoft Gaming/Xboxの企業主体記事をRedmond campusに置く。rankingで未定義precisionにならないよう、campus_address相当をexact_siteに正規化する（一致語: Microsoft significantly increases Xbox prices worldwide）",
         "confidence": 0.82,
         "rule_id": "observed_xbox_corporate_pricing_and_studio_changes_202606",
         "matched_text": "Microsoft significantly increases Xbox prices worldwide",
@@ -563,10 +563,10 @@
         "representative_place": "Microsoft / One Microsoft Way Redmond campus",
         "place_label": "米国-ワシントン州-レドモンド-One Microsoft Way-Microsoft Gaming/Xbox",
         "sort_place_label": "米国-ワシントン州-レドモンド-One Microsoft Way-Microsoft Gaming/Xbox",
-        "geocode_query": "One Microsoft Way Redmond Washington United States Microsoft",
+        "geocode_query": "One Microsoft Way Redmond Washington United States Microsoft Gaming Xbox",
         "place_type": "platform_company_site",
-        "location_precision": "campus_address",
-        "place_reason": "Xbox価格改定・スタジオ再編・幹部人事などMicrosoft Gaming/Xbox主体の記事なので、Redmond周辺ではなくMicrosoft本社キャンパスのOne Microsoft Wayに置く（一致語: Microsoft raises price of Xbox consoles）",
+        "location_precision": "exact_site",
+        "place_reason": "Xbox価格・独占方針・スタジオ再編・幹部交代などMicrosoft Gaming/Xboxの企業主体記事をRedmond campusに置く。rankingで未定義precisionにならないよう、campus_address相当をexact_siteに正規化する（一致語: Microsoft raises price of Xbox consoles）",
         "confidence": 0.82,
         "rule_id": "observed_xbox_corporate_pricing_and_studio_changes_202606",
         "matched_text": "Microsoft raises price of Xbox consoles",
@@ -687,7 +687,7 @@
         "type": "Point",
         "coordinates": [
           139.7292,
-          35.6605
+          35.6606
         ]
       },
       "properties": {
@@ -698,13 +698,13 @@
         "representative_place": "The Pokémon Company / Roppongi Hills Mori Tower 8F",
         "place_label": "日本-東京都-港区-六本木-六本木ヒルズ森タワー8F-The Pokémon Company",
         "sort_place_label": "日本-東京都-港区-六本木-六本木ヒルズ森タワー8F-The Pokémon Company",
-        "geocode_query": "Roppongi Hills Mori Tower 8F 6-10-1 Roppongi Minato Tokyo The Pokémon Company",
-        "place_type": "publisher_company_site",
-        "location_precision": "building_floor",
-        "place_reason": "Pokémon Championsのモバイル売上記事で、主体としてThe Pokémon Companyを使うなら東京周辺では粗いため、六本木ヒルズ森タワー8Fの会社所在地に置く（一致語: Pokémon Champions makes $3.5m in first week on mobile）",
+        "geocode_query": "Roppongi Hills Mori Tower Tokyo The Pokemon Company",
+        "place_type": "company_site",
+        "location_precision": "building",
+        "place_reason": "The Pokémon Company主体の記事を六本木ヒルズ森タワーに置く。building_floorはスコア表に未定義なので、ranking上はbuildingに正規化する（一致語: Pokémon Champions）",
         "confidence": 0.84,
         "rule_id": "observed_pokemon_champions_mobile_tokyo_202606",
-        "matched_text": "Pokémon Champions makes $3.5m in first week on mobile",
+        "matched_text": "Pokémon Champions",
         "match_source": "known_place_title"
       }
     },
@@ -941,40 +941,13 @@
         "representative_place": "Microsoft / One Microsoft Way Redmond campus",
         "place_label": "米国-ワシントン州-レドモンド-One Microsoft Way-Microsoft Gaming/Xbox",
         "sort_place_label": "米国-ワシントン州-レドモンド-One Microsoft Way-Microsoft Gaming/Xbox",
-        "geocode_query": "One Microsoft Way Redmond Washington United States Microsoft",
+        "geocode_query": "One Microsoft Way Redmond Washington United States Microsoft Gaming Xbox",
         "place_type": "platform_company_site",
-        "location_precision": "campus_address",
-        "place_reason": "Xbox価格改定・スタジオ再編・幹部人事などMicrosoft Gaming/Xbox主体の記事なので、Redmond周辺ではなくMicrosoft本社キャンパスのOne Microsoft Wayに置く（一致語: Xbox's latest exclusivity pivot）",
+        "location_precision": "exact_site",
+        "place_reason": "Xbox価格・独占方針・スタジオ再編・幹部交代などMicrosoft Gaming/Xboxの企業主体記事をRedmond campusに置く。rankingで未定義precisionにならないよう、campus_address相当をexact_siteに正規化する（一致語: Xbox's latest exclusivity pivot）",
         "confidence": 0.82,
         "rule_id": "observed_xbox_corporate_pricing_and_studio_changes_202606",
         "matched_text": "Xbox's latest exclusivity pivot",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.4186,
-          48.8422
-        ]
-      },
-      "properties": {
-        "title": "ユービーアイソフトが大規模組織再編を発表、『時間の砂』リメイク含む6作品が開発中止に。2つのスタジオ閉鎖、ライブサービス型ゲームに注力へ - 玩具人 TOY PEOPLE",
-        "source": "玩具人 TOY PEOPLE",
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1rQnRoTzJ1Y2xobTNWOERTRFBxb21TUHJEQ0VHelpYUExybHhxRDg3WjMtZndJQngxMlFwYjZkT1JzYnA1N2U5YWpORFJhOFFf?oc=5",
-        "published_at": "2026-06-25T03:53:22+00:00",
-        "representative_place": "Ubisoft / 2 Avenue Pasteur Saint-Mandé",
-        "place_label": "フランス-ヴァル＝ド＝マルヌ県-サン＝マンデ-2 Avenue Pasteur-Ubisoft",
-        "sort_place_label": "フランス-ヴァル＝ド＝マルヌ県-サン＝マンデ-2 Avenue Pasteur-Ubisoft",
-        "geocode_query": "2 Avenue Pasteur Saint-Mande France Ubisoft headquarters",
-        "place_type": "publisher_company_site",
-        "location_precision": "street_address",
-        "place_reason": "Ubisoftの組織再編・スタジオ閉鎖記事なので、パリ代表点でもSaint-Mandé市止まりでもなく、本社所在地として扱える2 Avenue Pasteurに置く（一致語: ユービーアイソフトが大規模組織再編）",
-        "confidence": 0.82,
-        "rule_id": "observed_ubisoft_restructuring_studio_closures_paris_202606",
-        "matched_text": "ユービーアイソフトが大規模組織再編",
         "match_source": "known_place_title"
       }
     },
@@ -1320,9 +1293,9 @@
         "place_label": "欧州-北欧ゲーム産業概況",
         "sort_place_label": "欧州-北欧ゲーム産業概況",
         "geocode_query": "Nordic games industry Europe",
-        "place_type": "regional_industry_topic",
-        "location_precision": "region_industry_topic",
-        "place_reason": "北欧ゲーム産業の課題と機会を扱う分析記事なので、PGC Nordicsのヘルシンキ会場ではなく北欧地域の産業トピックとして扱う（一致語: State of Play: The challenges and opportunities facing the Nordic games industry）",
+        "place_type": "industry_region",
+        "location_precision": "region",
+        "place_reason": "北欧ゲーム産業分析記事なのでPGC Nordicsのヘルシンキ会場ではなく北欧地域の産業トピックとして扱う。region_industry_topicはスコア表に未定義なのでregionに正規化する（一致語: State of Play: The challenges and opportunities facing the Nordic games industry）",
         "confidence": 0.62,
         "rule_id": "observed_nordic_games_industry_state_of_play_202606",
         "matched_text": "State of Play: The challenges and opportunities facing the Nordic games industry",
@@ -1564,8 +1537,8 @@
         "sort_place_label": "米国-ワシントン州-ベルビュー-10400 NE 4th St-Valve",
         "geocode_query": "Valve 10400 NE 4th St Bellevue Washington United States",
         "place_type": "company_site",
-        "location_precision": "street_address",
-        "place_reason": "Steam Machine価格・ハードウェア記事なのでValve主体として扱う。Bellevue周辺では粗いため、Valveの公開本社住所として扱える10400 NE 4th Stに寄せる（一致語: Steam Machine price reveal）",
+        "location_precision": "exact_site",
+        "place_reason": "Steam Machine価格・ハードウェア記事はValveのBellevue住所単位で扱う。rankingで未定義precisionにならないよう、street_address相当をexact_siteに正規化する（一致語: Steam Machine price reveal）",
         "confidence": 0.8,
         "rule_id": "observed_valve_steam_machine_pricing_bellevue_202606",
         "matched_text": "Steam Machine price reveal",
@@ -1591,8 +1564,8 @@
         "sort_place_label": "米国-ワシントン州-ベルビュー-10400 NE 4th St-Valve",
         "geocode_query": "Valve 10400 NE 4th St Bellevue Washington United States",
         "place_type": "company_site",
-        "location_precision": "street_address",
-        "place_reason": "Steam Machine価格・ハードウェア記事なのでValve主体として扱う。Bellevue周辺では粗いため、Valveの公開本社住所として扱える10400 NE 4th Stに寄せる（一致語: Valve is making it easier to build your own Steam Machine）",
+        "location_precision": "exact_site",
+        "place_reason": "Steam Machine価格・ハードウェア記事はValveのBellevue住所単位で扱う。rankingで未定義precisionにならないよう、street_address相当をexact_siteに正規化する（一致語: Valve is making it easier to build your own Steam Machine）",
         "confidence": 0.8,
         "rule_id": "observed_valve_steam_machine_pricing_bellevue_202606",
         "matched_text": "Valve is making it easier to build your own Steam Machine",
@@ -1807,8 +1780,8 @@
         "sort_place_label": "米国-ワシントン州-ベルビュー-10400 NE 4th St-Valve",
         "geocode_query": "Valve 10400 NE 4th St Bellevue Washington United States",
         "place_type": "company_site",
-        "location_precision": "street_address",
-        "place_reason": "Steam Machine価格・ハードウェア記事なのでValve主体として扱う。Bellevue周辺では粗いため、Valveの公開本社住所として扱える10400 NE 4th Stに寄せる（一致語: Steam Machine pricing starts）",
+        "location_precision": "exact_site",
+        "place_reason": "Steam Machine価格・ハードウェア記事はValveのBellevue住所単位で扱う。rankingで未定義precisionにならないよう、street_address相当をexact_siteに正規化する（一致語: Steam Machine pricing starts）",
         "confidence": 0.8,
         "rule_id": "observed_valve_steam_machine_pricing_bellevue_202606",
         "matched_text": "Steam Machine pricing starts",
@@ -1915,8 +1888,8 @@
         "sort_place_label": "米国-ワシントン州-ベルビュー-10400 NE 4th St-Valve",
         "geocode_query": "Valve 10400 NE 4th St Bellevue Washington United States",
         "place_type": "company_site",
-        "location_precision": "street_address",
-        "place_reason": "Steam Machine価格・ハードウェア記事なのでValve主体として扱う。Bellevue周辺では粗いため、Valveの公開本社住所として扱える10400 NE 4th Stに寄せる（一致語: Valve's Steam Machine price）",
+        "location_precision": "exact_site",
+        "place_reason": "Steam Machine価格・ハードウェア記事はValveのBellevue住所単位で扱う。rankingで未定義precisionにならないよう、street_address相当をexact_siteに正規化する（一致語: Valve's Steam Machine price）",
         "confidence": 0.8,
         "rule_id": "observed_valve_steam_machine_pricing_bellevue_202606",
         "matched_text": "Valve's Steam Machine price",
@@ -2050,8 +2023,8 @@
         "sort_place_label": "複数地域-Patch Notes #57",
         "geocode_query": "multi-region game industry roundup",
         "place_type": "multi_topic_roundup",
-        "location_precision": "multi_region_topic",
-        "place_reason": "Rockstar訴訟、Final Fantasy税制、PlayStationのAI表現など複数地域・複数主体を扱うPatch Notesまとめ記事なので、本文中のDon't Nod言及だけでParis 19eに置かない（一致語: Rockstar's legal setback, Final Fantasy tax incentives, and PlayStation swaps 'PC' for 'AI' - Patch Notes #57）",
+        "location_precision": "multi_region",
+        "place_reason": "複数地域・複数主体を扱うPatch Notesまとめ記事なので、本文中の特定会社言及だけで一社の所在地に置かない。multi_region_topicはスコア表に未定義なのでmulti_regionに正規化する（一致語: Rockstar's legal setback, Final Fantasy tax incentives, and PlayStation swaps 'PC' for 'AI' - Patch Notes #57）",
         "confidence": 0.62,
         "rule_id": "observed_patch_notes_57_multi_topic_202606",
         "matched_text": "Rockstar's legal setback, Final Fantasy tax incentives, and PlayStation swaps 'PC' for 'AI' - Patch Notes #57",
@@ -2534,10 +2507,10 @@
         "representative_place": "Microsoft / One Microsoft Way Redmond campus",
         "place_label": "米国-ワシントン州-レドモンド-One Microsoft Way-Microsoft Gaming/Xbox",
         "sort_place_label": "米国-ワシントン州-レドモンド-One Microsoft Way-Microsoft Gaming/Xbox",
-        "geocode_query": "One Microsoft Way Redmond Washington United States Microsoft",
+        "geocode_query": "One Microsoft Way Redmond Washington United States Microsoft Gaming Xbox",
         "place_type": "platform_company_site",
-        "location_precision": "campus_address",
-        "place_reason": "Xbox価格改定・スタジオ再編・幹部人事などMicrosoft Gaming/Xbox主体の記事なので、Redmond周辺ではなくMicrosoft本社キャンパスのOne Microsoft Wayに置く（一致語: Xbox intends to close several studios）",
+        "location_precision": "exact_site",
+        "place_reason": "Xbox価格・独占方針・スタジオ再編・幹部交代などMicrosoft Gaming/Xboxの企業主体記事をRedmond campusに置く。rankingで未定義precisionにならないよう、campus_address相当をexact_siteに正規化する（一致語: Xbox intends to close several studios）",
         "confidence": 0.82,
         "rule_id": "observed_xbox_corporate_pricing_and_studio_changes_202606",
         "matched_text": "Xbox intends to close several studios",
@@ -2590,8 +2563,8 @@
         "sort_place_label": "米国-ワシントン州-レドモンド-One Microsoft Way-Microsoft Gaming/Xbox再編観測",
         "geocode_query": "One Microsoft Way Redmond Washington United States Microsoft Gaming Xbox",
         "place_type": "platform_company_restructuring_topic",
-        "location_precision": "campus_address",
-        "place_reason": "Compulsion Games、Double Fine、Ninja Theoryをまとめて扱うXbox側の複数スタジオ閉鎖観測記事なので、Ninja Theory単独地点ではなくMicrosoft Gaming/Xbox側の再編トピックとして扱う（一致語: Xbox is reportedly considering closing South of Midnight studio, Compulsion Games, with Double Fine and Ninja Theory also allegedly at risk）",
+        "location_precision": "exact_site",
+        "place_reason": "Compulsion Games、Double Fine、Ninja Theoryをまとめて扱うXbox側の複数スタジオ閉鎖観測記事なので、Microsoft Gaming/Xbox側の再編トピックとして扱う。campus_address相当をexact_siteに正規化する（一致語: Xbox is reportedly considering closing South of Midnight studio, Compulsion Games, with Double Fine and Ninja Theory also allegedly at risk）",
         "confidence": 0.78,
         "rule_id": "observed_xbox_multi_studio_closure_watch_202606",
         "matched_text": "Xbox is reportedly considering closing South of Midnight studio, Compulsion Games, with Double Fine and Ninja Theory also allegedly at risk",
@@ -2684,33 +2657,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.7665,
-          33.661
-        ]
-      },
-      "properties": {
-        "title": "Blizzard sues private World of Warcraft server for \"large-scale, egregious, and ongoing infringement of Blizzard's intellectual property\"",
-        "source": "GamesIndustry.biz Latest Articles Feed",
-        "link": "https://www.gamesindustry.biz/blizzard-sues-private-world-of-warcraft-server-for-large-scale-egregious-and-ongoing-infringement-of-blizzards-intellectual-property",
-        "published_at": "2026-06-15T17:38:02+00:00",
-        "representative_place": "Blizzard Entertainment / 1 Blizzard Way Irvine campus",
-        "place_label": "米国-カリフォルニア州-アーバイン-1 Blizzard Way-Blizzard Entertainment",
-        "sort_place_label": "米国-カリフォルニア州-アーバイン-1 Blizzard Way-Blizzard Entertainment",
-        "geocode_query": "1 Blizzard Way Irvine California United States Blizzard Entertainment",
-        "place_type": "studio_legal_site",
-        "location_precision": "street_address",
-        "place_reason": "BlizzardによるWorld of Warcraft私設サーバー訴訟記事なので、Irvine周辺ではなくBlizzard Entertainment本社キャンパスの1 Blizzard Wayに置く（一致語: Blizzard sues private World of Warcraft server）",
-        "confidence": 0.82,
-        "rule_id": "observed_blizzard_project_ascension_lawsuit_irvine_202606",
-        "matched_text": "Blizzard sues private World of Warcraft server",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -122.1297,
           47.6401
         ]
@@ -2723,10 +2669,10 @@
         "representative_place": "Microsoft / One Microsoft Way Redmond campus",
         "place_label": "米国-ワシントン州-レドモンド-One Microsoft Way-Microsoft Gaming/Xbox",
         "sort_place_label": "米国-ワシントン州-レドモンド-One Microsoft Way-Microsoft Gaming/Xbox",
-        "geocode_query": "One Microsoft Way Redmond Washington United States Microsoft",
+        "geocode_query": "One Microsoft Way Redmond Washington United States Microsoft Gaming Xbox",
         "place_type": "platform_company_site",
-        "location_precision": "campus_address",
-        "place_reason": "Xbox価格改定・スタジオ再編・幹部人事などMicrosoft Gaming/Xbox主体の記事なので、Redmond周辺ではなくMicrosoft本社キャンパスのOne Microsoft Wayに置く（一致語: Xbox Game Studios boss Craig Duncan）",
+        "location_precision": "exact_site",
+        "place_reason": "Xbox価格・独占方針・スタジオ再編・幹部交代などMicrosoft Gaming/Xboxの企業主体記事をRedmond campusに置く。rankingで未定義precisionにならないよう、campus_address相当をexact_siteに正規化する（一致語: Xbox Game Studios boss Craig Duncan）",
         "confidence": 0.82,
         "rule_id": "observed_xbox_corporate_pricing_and_studio_changes_202606",
         "matched_text": "Xbox Game Studios boss Craig Duncan",
@@ -2885,10 +2831,10 @@
         "representative_place": "Microsoft / One Microsoft Way Redmond campus",
         "place_label": "米国-ワシントン州-レドモンド-One Microsoft Way-Microsoft Gaming/Xbox",
         "sort_place_label": "米国-ワシントン州-レドモンド-One Microsoft Way-Microsoft Gaming/Xbox",
-        "geocode_query": "One Microsoft Way Redmond Washington United States Microsoft",
+        "geocode_query": "One Microsoft Way Redmond Washington United States Microsoft Gaming Xbox",
         "place_type": "platform_company_site",
-        "location_precision": "campus_address",
-        "place_reason": "Xbox価格改定・スタジオ再編・幹部人事などMicrosoft Gaming/Xbox主体の記事なので、Redmond周辺ではなくMicrosoft本社キャンパスのOne Microsoft Wayに置く",
+        "location_precision": "exact_site",
+        "place_reason": "Xbox価格・独占方針・スタジオ再編・幹部交代などMicrosoft Gaming/Xboxの企業主体記事をRedmond campusに置く。rankingで未定義precisionにならないよう、campus_address相当をexact_siteに正規化する",
         "confidence": 0.82,
         "rule_id": "observed_xbox_corporate_pricing_and_studio_changes_202606",
         "matched_text": "Asha Sharma's first 100 days as Xbox CEO",
@@ -2941,8 +2887,8 @@
         "sort_place_label": "英国-イングランド-ロンドン-ソーホー-56A Poland St",
         "geocode_query": "56A Poland St London W1F 7NN United Kingdom",
         "place_type": "publisher_site",
-        "location_precision": "street_address",
-        "place_reason": "Playstackは56A Poland St, London W1F 7NNの住所まで確認できるため、同社の買収・出版社主体記事は住所単位に置く。ただしPlaystack単独語ではTriple-i Initiativeなど参加スタジオ列挙記事まで吸うため、会社名単独マッチは使わない（一致語: Playstack CEO: new owner will keep it separate）",
+        "location_precision": "exact_site",
+        "place_reason": "Playstackの買収・出版社主体記事は住所単位で扱う。rankingで未定義precisionにならないよう、street_address相当をexact_siteに正規化する。Playstack単独語は使わない（一致語: Playstack CEO: new owner will keep it separate）",
         "confidence": 0.9,
         "rule_id": "observed_playstack_imc_sale_london_202606",
         "matched_text": "Playstack CEO: new owner will keep it separate",
@@ -3341,16 +3287,16 @@
         "source": "Newspatrolling.com",
         "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZFo1cjVnZzRhVHNieUUwMzZtNFRQdVlMaGFqRnZ1enZJSlZhd1FzUERuZDdkdVhfNkFOdGx3bDVUN0xOYVd0ZW9JOFpkSXRDVHNqWlpwLTF3VEhiU3NHVmw4d3pWQmJJOTFydkJoa3BTTXd4elFWRExvUHFGWlBkbVFmbGIwTGJVZHJoajYwNlkxOER6ekxpbGl2ZFRWeTlRd05RUFZtSjhqLVBxNFM1Z2hkRVRtc1lVM2xOTDlwR1BuN1VQX3VhcU5NamVpbzA?oc=5",
         "published_at": "2026-06-04T07:00:00+00:00",
-        "representative_place": "India Games Showcase / Summer Game Fest partnership",
+        "representative_place": "India Games Showcase",
         "place_label": "インド-India Games Showcase",
         "sort_place_label": "インド-India Games Showcase",
-        "geocode_query": "India Games Showcase Summer Game Fest India",
+        "geocode_query": "India Games Showcase",
         "place_type": "showcase_topic",
         "location_precision": "country_showcase_topic",
-        "place_reason": "NODWIN GamingとNodding Heads Gamesの共同発表記事だが、主題はIndia Games Showcaseの企画であり、Nodding HeadsのPuneスタジオ地点に寄せない（一致語: NODWIN Gaming and Nodding Heads Games Partner with Summer Game Fest）",
-        "confidence": 0.72,
-        "rule_id": "observed_india_games_showcase_partnership_202606",
-        "matched_text": "NODWIN Gaming and Nodding Heads Games Partner with Summer Game Fest",
+        "place_reason": "India Games Showcaseの記事なので、単なるインドではなくショーケース企画としてラベルを分ける。NODWINやNodding Headsなど個別会社記事とは分離する（一致語: India Games Showcase）",
+        "confidence": 0.66,
+        "rule_id": "observed_india_games_showcase_202606",
+        "matched_text": "India Games Showcase",
         "match_source": "known_place_title"
       }
     },
@@ -3395,16 +3341,16 @@
         "source": "IT Voice Media",
         "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWGl3WjU4N1BfV2hlQ0dybkIzU2ZBSjdabXhXTEVNMklHOUY5aWRXelBqNUpnbWJhSDlFeGxILUNNY0VaQjE0bTZIRmdGZ3lfbGZINUVtWkRSZkZtVlkwSFNYUlVrTkVzdEEwNTVlWjRla00ySGVRVkowTHJKaGNseGJmYjdzZEJMbDNRLWNibTBxQ29vSTNGQlZ3OHdtWmhlM20yMUNrS1dzSkZvcUJxT3g1aGRBNVFsNGlULWRVOEpvYlFSLXFNYg?oc=5",
         "published_at": "2026-06-04T06:11:54+00:00",
-        "representative_place": "India Games Showcase / Summer Game Fest partnership",
+        "representative_place": "India Games Showcase",
         "place_label": "インド-India Games Showcase",
         "sort_place_label": "インド-India Games Showcase",
-        "geocode_query": "India Games Showcase Summer Game Fest India",
+        "geocode_query": "India Games Showcase",
         "place_type": "showcase_topic",
         "location_precision": "country_showcase_topic",
-        "place_reason": "NODWIN GamingとNodding Heads Gamesの共同発表記事だが、主題はIndia Games Showcaseの企画であり、Nodding HeadsのPuneスタジオ地点に寄せない（一致語: NODWIN Gaming and Nodding Heads Games Partner with Summer Game Fest）",
-        "confidence": 0.72,
-        "rule_id": "observed_india_games_showcase_partnership_202606",
-        "matched_text": "NODWIN Gaming and Nodding Heads Games Partner with Summer Game Fest",
+        "place_reason": "India Games Showcaseの記事なので、単なるインドではなくショーケース企画としてラベルを分ける。NODWINやNodding Headsなど個別会社記事とは分離する（一致語: India Games Showcase）",
+        "confidence": 0.66,
+        "rule_id": "observed_india_games_showcase_202606",
+        "matched_text": "India Games Showcase",
         "match_source": "known_place_title"
       }
     },
@@ -3535,8 +3481,8 @@
         "sort_place_label": "英国-イングランド-ロンドン-ソーホー-56A Poland St",
         "geocode_query": "56A Poland St London W1F 7NN United Kingdom",
         "place_type": "publisher_site",
-        "location_precision": "street_address",
-        "place_reason": "Playstackは56A Poland St, London W1F 7NNの住所まで確認できるため、同社の買収・出版社主体記事は住所単位に置く。ただしPlaystack単独語ではTriple-i Initiativeなど参加スタジオ列挙記事まで吸うため、会社名単独マッチは使わない（一致語: A controlling stake in the publisher Balatro will be purchased）",
+        "location_precision": "exact_site",
+        "place_reason": "Playstackの買収・出版社主体記事は住所単位で扱う。rankingで未定義precisionにならないよう、street_address相当をexact_siteに正規化する。Playstack単独語は使わない（一致語: A controlling stake in the publisher Balatro will be purchased）",
         "confidence": 0.9,
         "rule_id": "observed_playstack_imc_sale_london_202606",
         "matched_text": "A controlling stake in the publisher Balatro will be purchased",
@@ -3683,8 +3629,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.9827,
-          40.7563
+          -73.9829,
+          40.7564
         ]
       },
       "properties": {
@@ -3695,11 +3641,11 @@
         "representative_place": "Take-Two Interactive / 1133 Avenue of the Americas",
         "place_label": "米国-ニューヨーク州-ニューヨーク-1133 Avenue of the Americas-Take-Two Interactive",
         "sort_place_label": "米国-ニューヨーク州-ニューヨーク-1133 Avenue of the Americas-Take-Two Interactive",
-        "geocode_query": "1133 Avenue of the Americas New York Take-Two Interactive",
+        "geocode_query": "1133 Avenue of the Americas New York NY Take-Two Interactive",
         "place_type": "publisher_company_site",
-        "location_precision": "street_address",
-        "place_reason": "Take-Two年次報告・決算記事に限定して本社住所に置く。会社名単独のマッチはVaultNなど別主題の記事を吸うため削除する（一致語: Losses decreased 15 times）",
-        "confidence": 0.84,
+        "location_precision": "exact_site",
+        "place_reason": "Take-Two年次報告・業績記事に絞る。rankingで未定義precisionにならないよう、street_address相当をexact_siteに正規化する（一致語: Losses decreased 15 times）",
+        "confidence": 0.82,
         "rule_id": "observed_take_two_annual_report_new_york_202605",
         "matched_text": "Losses decreased 15 times",
         "match_source": "known_place_title"
@@ -4412,8 +4358,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.9827,
-          40.7563
+          -73.9829,
+          40.7564
         ]
       },
       "properties": {
@@ -4424,11 +4370,11 @@
         "representative_place": "Take-Two Interactive / 1133 Avenue of the Americas",
         "place_label": "米国-ニューヨーク州-ニューヨーク-1133 Avenue of the Americas-Take-Two Interactive",
         "sort_place_label": "米国-ニューヨーク州-ニューヨーク-1133 Avenue of the Americas-Take-Two Interactive",
-        "geocode_query": "1133 Avenue of the Americas New York Take-Two Interactive",
+        "geocode_query": "1133 Avenue of the Americas New York NY Take-Two Interactive",
         "place_type": "publisher_company_site",
-        "location_precision": "street_address",
-        "place_reason": "Take-Two年次報告・決算記事に限定して本社住所に置く。会社名単独のマッチはVaultNなど別主題の記事を吸うため削除する（一致語: Revenue exceeded forecasts）",
-        "confidence": 0.84,
+        "location_precision": "exact_site",
+        "place_reason": "Take-Two年次報告・業績記事に絞る。rankingで未定義precisionにならないよう、street_address相当をexact_siteに正規化する（一致語: Revenue exceeded forecasts）",
+        "confidence": 0.82,
         "rule_id": "observed_take_two_annual_report_new_york_202605",
         "matched_text": "Revenue exceeded forecasts",
         "match_source": "known_place_title"
@@ -4485,33 +4431,6 @@
         "confidence": 0.74,
         "rule_id": "observed_hooded_horse_bar_publishing_dallas_202606",
         "matched_text": "Hooded Horse",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.4186,
-          48.8422
-        ]
-      },
-      "properties": {
-        "title": "『プリンス オブ ペルシャ 時間の砂』ついに開発中止発表。ユービーアイは6タイトル開発中止、7タイトル発売延期、2つのスタジオ閉鎖へ - Game*Spark",
-        "source": "Game*Spark",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5vUkxfSUctMG9yNmJ2SlN5Y3ExOUpkenprWFhEbXBTOFQtMlZIeXFYZ3ZDYTVyTUNuVTdjWHZTV2ptamxwVDYxRlphczZ4WHZjcm1BamZJUDBNZVZURlNpa1UtRG8xQQ?oc=5",
-        "published_at": "2026-01-22T08:00:00+00:00",
-        "representative_place": "Ubisoft / 2 Avenue Pasteur Saint-Mandé",
-        "place_label": "フランス-ヴァル＝ド＝マルヌ県-サン＝マンデ-2 Avenue Pasteur-Ubisoft",
-        "sort_place_label": "フランス-ヴァル＝ド＝マルヌ県-サン＝マンデ-2 Avenue Pasteur-Ubisoft",
-        "geocode_query": "2 Avenue Pasteur Saint-Mande France Ubisoft headquarters",
-        "place_type": "publisher_company_site",
-        "location_precision": "street_address",
-        "place_reason": "Ubisoftの組織再編・スタジオ閉鎖記事なので、パリ代表点でもSaint-Mandé市止まりでもなく、本社所在地として扱える2 Avenue Pasteurに置く（一致語: 時間の砂）",
-        "confidence": 0.82,
-        "rule_id": "observed_ubisoft_restructuring_studio_closures_paris_202606",
-        "matched_text": "時間の砂",
         "match_source": "known_place_title"
       }
     },

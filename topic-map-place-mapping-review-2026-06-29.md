@@ -128,6 +128,27 @@ These were fixed from the same generated output snapshot and should be verified 
   - new multi-region roundup topic
   - expected: Patch Notes #57 should map to multi-region roundup instead of any one mentioned company office
 
+## Batch 47 pending verification
+
+Precision normalization batch. This exists because `scripts/build_rss_topic_maps.py` scores only a limited set of `location_precision` values, so entries such as `street_address`, `campus_address`, `company_area`, `country_showcase_topic`, `region_industry_topic`, and `multi_region_topic` otherwise fall back to the default score.
+
+- High-precision company/site entries normalized to `exact_site` or `building`:
+  - Playstack / 56A Poland St
+  - Valve / 10400 NE 4th St
+  - Microsoft Gaming/Xbox / One Microsoft Way
+  - Xbox multi-studio closure watch / One Microsoft Way
+  - Blizzard / 1 Blizzard Way
+  - Take-Two / 1133 Avenue of the Americas
+  - Ubisoft / 2 Avenue Pasteur
+  - The Pokémon Company / Roppongi Hills Mori Tower
+
+- Broad or analytical topics normalized to score-table values:
+  - India Games Showcase: `country`
+  - Nordic games industry: `region`
+  - Patch Notes #57: `multi_region`
+
+Expected: precise site entries should no longer lose ranking priority merely because their previous precision label was not in `PRECISION_SCORES`; broad topic entries should remain broad and should not beat specific company/site entries accidentally.
+
 ## Public map UI pending verification
 
 - `geographic-news-topic-public/index.html`
