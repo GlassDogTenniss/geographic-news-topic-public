@@ -1,8 +1,8 @@
 {
   "type": "FeatureCollection",
   "properties": {
-    "created_at": "2026-06-29T02:02:53.561664+00:00",
-    "count": 186,
+    "created_at": "2026-06-29T02:09:16.370545+00:00",
+    "count": 181,
     "stats": {
       "feed_id": "game-all",
       "feed_label": "ゲーム",
@@ -28,7 +28,7 @@
         "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja"
       ],
       "rss_url": "https://www.gamedeveloper.com/rss.xml",
-      "fetched": 991,
+      "fetched": 989,
       "fetched_by_url": {
         "https://www.gamedeveloper.com/rss.xml": 50,
         "https://www.gamesindustry.biz/feed": 100,
@@ -43,16 +43,16 @@
         "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20India&hl=en-IN&gl=IN&ceid=IN:en": 80,
         "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Philippines&hl=en-PH&gl=PH&ceid=PH:en": 78,
         "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Eastern%20Europe&hl=en&gl=PL&ceid=PL:en": 74,
-        "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Africa&hl=en&gl=ZA&ceid=ZA:en": 79,
+        "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Africa&hl=en&gl=ZA&ceid=ZA:en": 78,
         "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Southeast%20Asia&hl=en-SG&gl=SG&ceid=SG:en": 77,
         "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA&hl=ja&gl=JP&ceid=JP:ja": 75,
         "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja": 79,
-        "https://news.google.com/rss/search?q=%E6%B5%B7%E5%A4%96%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA&hl=ja&gl=JP&ceid=JP:ja": 76,
-        "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja": 77
+        "https://news.google.com/rss/search?q=%E6%B5%B7%E5%A4%96%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA&hl=ja&gl=JP&ceid=JP:ja": 75,
+        "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja": 76
       },
-      "filtered": 909,
-      "resolved": 186,
-      "unresolved": 723,
+      "filtered": 901,
+      "resolved": 181,
+      "unresolved": 720,
       "rules": 170,
       "known_places": 172,
       "loaded_data_files": [
@@ -119,33 +119,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.578,
-          55.6785
-        ]
-      },
-      "properties": {
-        "title": "『007』シリーズ新作ゲーム、正式タイトル発表！『ヒットマン』開発チームが手掛ける「ジェームズ・ボンド」がSummer Game Festで再び登場 - 玩具人 TOY PEOPLE",
-        "source": "玩具人 TOY PEOPLE",
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBWY3F3UjlLdm13NFEyVmF0bGhXSFdkUFUzWGYwX2Y4Sm9LMGVZMnlUbko3bkdtOUZ4RmRxdHNteU9Id2wtMmI4YWpSSzlubVh0?oc=5",
-        "published_at": "2026-06-28T23:31:42+00:00",
-        "representative_place": "IO Interactive / Copenhagen headquarters area",
-        "place_label": "デンマーク-コペンハーゲン-IO Interactive",
-        "sort_place_label": "デンマーク-コペンハーゲン-IO Interactive",
-        "geocode_query": "IO Interactive Copenhagen Denmark",
-        "place_type": "studio_site",
-        "location_precision": "headquarters_area",
-        "place_reason": "一覧の国別表示で国名が落ちないよう、デンマークを先頭にしたラベルで007 First Light / James Bondゲーム系の記事を扱う（一致語: 『007』シリーズ新作ゲーム）",
-        "confidence": 0.78,
-        "rule_id": "observed_io_interactive_007_first_light_copenhagen_202606",
-        "matched_text": "『007』シリーズ新作ゲーム",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           104.1954,
           35.8617
         ]
@@ -165,6 +138,33 @@
         "confidence": 0.6,
         "rule_id": "observed_chinese_developers_global_gaming_202606",
         "matched_text": "Chinese developers gain ground in global gaming",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.578,
+          55.6785
+        ]
+      },
+      "properties": {
+        "title": "『007』シリーズ新作ゲーム、正式タイトル発表！『ヒットマン』開発チームが手掛ける「ジェームズ・ボンド」がSummer Game Festで再び登場 - 玩具人 TOY PEOPLE",
+        "source": "玩具人 TOY PEOPLE",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBWY3F3UjlLdm13NFEyVmF0bGhXSFdkUFUzWGYwX2Y4Sm9LMGVZMnlUbko3bkdtOUZ4RmRxdHNteU9Id2wtMmI4YWpSSzlubVh0?oc=5",
+        "published_at": "2026-06-28T17:15:34+00:00",
+        "representative_place": "IO Interactive / Copenhagen headquarters area",
+        "place_label": "デンマーク-コペンハーゲン-IO Interactive",
+        "sort_place_label": "デンマーク-コペンハーゲン-IO Interactive",
+        "geocode_query": "IO Interactive Copenhagen Denmark",
+        "place_type": "studio_site",
+        "location_precision": "headquarters_area",
+        "place_reason": "一覧の国別表示で国名が落ちないよう、デンマークを先頭にしたラベルで007 First Light / James Bondゲーム系の記事を扱う（一致語: 『007』シリーズ新作ゲーム）",
+        "confidence": 0.78,
+        "rule_id": "observed_io_interactive_007_first_light_copenhagen_202606",
+        "matched_text": "『007』シリーズ新作ゲーム",
         "match_source": "known_place_title"
       }
     },
@@ -948,33 +948,6 @@
         "confidence": 0.82,
         "rule_id": "observed_ubisoft_restructuring_studio_closures_paris_202606",
         "matched_text": "ユービーアイソフトが大規模組織再編",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          121.774,
-          12.8797
-        ]
-      },
-      "properties": {
-        "title": "Tacloban shooting: Philippines bans gaming app Gorebox played by teenage suspect - BBC",
-        "source": "BBC",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5IRHRadmE0Rlc5d2d5eHZMOFdCR0VTS2N0WGhFSzI3Q0YzOGtzNGhKQkxTZkdJa1BZdlJhNWJ1UXhsZnc4bjNpSWtiS3Y3R0hBN1Z6dWpTR2Y2UQ?oc=5",
-        "published_at": "2026-06-24T22:14:12+00:00",
-        "representative_place": "Philippines CICC / GoreBox temporary ban topic",
-        "place_label": "フィリピン-GoreBox一時禁止措置",
-        "sort_place_label": "フィリピン-GoreBox一時禁止措置",
-        "geocode_query": "Philippines CICC GoreBox temporary ban",
-        "place_type": "regulatory_policy_topic",
-        "location_precision": "country_regulatory_policy",
-        "place_reason": "CICCによるGoreBox一時禁止を扱うフィリピン発の記事なので、個別住所ではなくフィリピンの規制トピックとして扱う（一致語: GoreBox）",
-        "confidence": 0.7,
-        "rule_id": "observed_gorebox_cicc_philippines_ban_202606",
-        "matched_text": "GoreBox",
         "match_source": "known_place_title"
       }
     },
@@ -3683,6 +3656,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          18.6435,
+          60.1282
+        ]
+      },
+      "properties": {
+        "title": "『Serpent's Gaze』最大4人協力のソウルライク×ローグライトアクション。スウェーデンのインディースタジオが手がける新作がアーリーアクセス開始 - ファミ通",
+        "source": "ファミ通",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8tV0NoTW9LQmRFY2xIUGNLZ3ZwLU1QaElON3JXRXJYVGtvTEt6NjFpaHpKa3phdGNacXltamlpR1dQdFVLSkh3STR6dGlmWnpfd19hNXNmZw?oc=5",
+        "published_at": "2026-05-25T07:00:00+00:00",
+        "representative_place": "Serpent's Gaze / Swedish indie studio topic",
+        "place_label": "スウェーデン-Serpent's Gaze開発スタジオ",
+        "sort_place_label": "スウェーデン-Serpent's Gaze開発スタジオ",
+        "geocode_query": "Sweden Serpent's Gaze indie studio",
+        "place_type": "game_origin_topic",
+        "location_precision": "country_game_origin_topic",
+        "place_reason": "タイトルでスウェーデンのインディースタジオによる新作と説明されているため、国単位の作品由来トピックとして扱う。スタジオ名・都市は確実に固定しない（一致語: スウェーデンのインディースタジオ）",
+        "confidence": 0.62,
+        "rule_id": "observed_serpents_gaze_swedish_indie_202605",
+        "matched_text": "スウェーデンのインディースタジオ",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -73.9827,
           40.7563
         ]
@@ -4007,33 +4007,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          22.9375,
-          -30.5595
-        ]
-      },
-      "properties": {
-        "title": "South African studio makes waves with futuristic heist game about reclaiming looted artefacts - News24",
-        "source": "News24",
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOOEVEeFNJdEJqbHRjWmwxckFoemdrb1lidHdrYmF1cDdpMUhyUno5cnJKVmh6dWl3V1lVSWgzSjhGTWljZkhuMzRfQW5RV2ROZ2VKTlRnQUVidTZiRWtpNkE3ZHNtdHdfVy11bXIxVWxOdTBMLUlVTUYteFplcjcwc0NPUmpiNlJYeTd5dU5SNFMwT1RTSFRWVi0wSGUxbkFUdkNKaUFqNGNaeVVhcXpnWnZQS0dRbDZwQks3SXZSblFtVDVEWHFEeTFWcldoakR3QUxtMng4NEExOTRsS3c?oc=5",
-        "published_at": "2026-04-25T07:00:00+00:00",
-        "representative_place": "Nyamakop / Relooted studio area",
-        "place_label": "南アフリカ-Nyamakop / Relooted周辺",
-        "sort_place_label": "南アフリカ-Nyamakop / Relooted周辺",
-        "geocode_query": "Nyamakop Relooted South Africa",
-        "place_type": "studio_site",
-        "location_precision": "studio_area_country",
-        "place_reason": "Relooted / Nyamakopの記事なので南アフリカ一般のstudio_regionではなくスタジオ主体として扱う。ただし都市・住所を確実に固定できないため、座標は後続確認対象として国代表点に残す（一致語: South African studio makes waves）",
-        "confidence": 0.56,
-        "rule_id": "observed_nyamakop_relooted_south_africa_202606",
-        "matched_text": "South African studio makes waves",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           18.0686,
           59.3293
         ]
@@ -4107,33 +4080,6 @@
         "confidence": 0.72,
         "rule_id": "observed_filipino_sepak_takraw_game_202604",
         "matched_text": "Super Smash Bros. meets Sepak Takraw",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          17.6791,
-          1.6508
-        ]
-      },
-      "properties": {
-        "title": "\"Ads remain the most common and viable monetisation model across Africa's gaming markets today\" - Pocket Gamer.biz",
-        "source": "Pocket Gamer.biz",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQmtWZ3pLVlNac1ZqTEJpLUQ0a0c5N2RzYTRqLTFvMGdvbm9NVWh3THdBN3IxVHRLeTdTOXRPUjFhYlZXNndWUGdtVFo4SUYxaF9hMFdocm1QOTdnTDlmYU9IWXZtSEp4c20tUld4TjQ0azhYaEdtRkFBaUs4a2p6UTVLVlhTQ2dXZXhPVHJjOHBwZjByNm13bFFvUzJUSVBHTU5IcTk3R2lfM21lVXRUU0NGVGhaXzQwU1ZDRWRB?oc=5",
-        "published_at": "2026-04-06T07:00:00+00:00",
-        "representative_place": "Africa games market topic",
-        "place_label": "アフリカ-ゲーム市場・産業",
-        "sort_place_label": "アフリカ-ゲーム市場・産業",
-        "geocode_query": "Africa games market industry",
-        "place_type": "continent_market_topic",
-        "location_precision": "continent_market_topic",
-        "place_reason": "アフリカ全体のゲーム市場・産業記事なので、単なるアフリカではなくゲーム市場・産業トピックとしてラベルを分ける（一致語: Africa's gaming markets）",
-        "confidence": 0.56,
-        "rule_id": "observed_africa_gaming_market_202606",
-        "matched_text": "Africa's gaming markets",
         "match_source": "known_place_title"
       }
     },
@@ -4242,33 +4188,6 @@
         "confidence": 0.86,
         "rule_id": "observed_megacat_pittsburgh_202412",
         "matched_text": "Mega Cat Studios",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.9375,
-          -30.5595
-        ]
-      },
-      "properties": {
-        "title": "What's behind the big reaction to a new South African video game? - CBC",
-        "source": "CBC",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQnJVcUdvbEhLM3Z5ZDJuQ1lZVHBnczJwTHdBa2czSVB4c2lIMjdmd3VkcktnTFhoaG9jNGxGWHl6am1BQ1pjaVBMYXFYMzQxZkpjc0J2Z2M4MXlvNGtZY1VQcUdLa2RSOF8tbzRUWnFRT3Y2bElZS2hNS1lEVTVYc3pzdGlVYjh0SXVCTnF4dGR6b1d5Yl9pcXhyR0JKa0lQLWdZZURzNVRaTjB5?oc=5",
-        "published_at": "2026-03-18T07:00:00+00:00",
-        "representative_place": "Nyamakop / Relooted studio area",
-        "place_label": "南アフリカ-Nyamakop / Relooted周辺",
-        "sort_place_label": "南アフリカ-Nyamakop / Relooted周辺",
-        "geocode_query": "Nyamakop Relooted South Africa",
-        "place_type": "studio_site",
-        "location_precision": "studio_area_country",
-        "place_reason": "Relooted / Nyamakopの記事なので南アフリカ一般のstudio_regionではなくスタジオ主体として扱う。ただし都市・住所を確実に固定できないため、座標は後続確認対象として国代表点に残す（一致語: new South African video game）",
-        "confidence": 0.56,
-        "rule_id": "observed_nyamakop_relooted_south_africa_202606",
-        "matched_text": "new South African video game",
         "match_source": "known_place_title"
       }
     },
@@ -4561,8 +4480,8 @@
         "sort_place_label": "マレーシア-クアラルンプール-Virtuosスタジオ",
         "geocode_query": "Virtuos Kuala Lumpur Malaysia studio",
         "place_type": "studio_site",
-        "location_precision": "city_studio",
-        "place_reason": "Virtuosのクアラルンプール新スタジオ記事なので、UNDERTALE公演やKuala Lumpur汎用ラベルではなく、VirtuosのKLスタジオ開設として扱う。番地は未確認なので都市単位に止める（一致語: Virtuos）",
+        "location_precision": "city",
+        "place_reason": "Virtuosのクアラルンプール新スタジオ記事なので、UNDERTALE公演やKuala Lumpur汎用ラベルではなく、VirtuosのKLスタジオ開設として扱う。番地は未確認なので都市単位に止める。rankingで未定義precisionにならないようcityを使う（一致語: Virtuos）",
         "confidence": 0.78,
         "rule_id": "observed_virtuos_kuala_lumpur_studio_202606",
         "matched_text": "Virtuos",
@@ -4660,10 +4579,10 @@
         ]
       },
       "properties": {
-        "title": "Relooted: African Gamers Steal Back Stolen History - EBONY Magazine",
-        "source": "EBONY Magazine",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBHVWg1R3h1cnN6dDZqSm9QX2t0OTdsVnpvV2R2NmxDbW0xN1lKTFhHRTFJNWJQa011amhtbkJGWFRybmNBNHZKUWFtQmdXQXVhdjZQc3NqOUFDVEs2cDVSWkt5bWRmZw?oc=5",
-        "published_at": "2025-07-09T07:00:00+00:00",
+        "title": "Relooted Is a Heist Game About Returning African Artifacts to Their Home Countries - CNET",
+        "source": "CNET",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUnpKcmpZMGRNTkxyeDhlaEFtNE9Ga0h1eERQZ0NTOTgxV1dkZ0hrcmttb2JuYzhiQV9aRDR0Vk5tYkcyYUE4V3ZVWk9QQXJ6WUFfajdLVi1vTWFsamw2aFVSUzJZa1JtOEhnZDFBVWZ2cTJkMWJkdW80dU1XcjQ0RGpEelJUczB3WGlvc0VYNjgtdmRXWnV6dDJ3WDJhVXMwLWVPMjg4VUxrTlFxUFdjOURjMmFCcm8?oc=5",
+        "published_at": "2025-06-26T07:00:00+00:00",
         "representative_place": "Nyamakop / Relooted studio area",
         "place_label": "南アフリカ-Nyamakop / Relooted周辺",
         "sort_place_label": "南アフリカ-Nyamakop / Relooted周辺",
@@ -4728,33 +4647,6 @@
         "confidence": 0.54,
         "rule_id": "observed_vietnam_gameverse_2025",
         "matched_text": "Country’s Video Games Industry",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.9375,
-          -30.5595
-        ]
-      },
-      "properties": {
-        "title": "Rescue African artifacts from colonizers' museums in the heist game Relooted - Engadget",
-        "source": "Engadget",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcmJ1Z1hQeHFZZVUyZzdpbENWQlVpUDJFUW95S1ZlWTRjTEhtT2ctdXpjcktqR1pHenVXVVFKV29Ic29wbVh0c0g1NHNtVnpqbTEyYW84Ui12bmNnSmlMaFprNC0yRnItYVg4aUl3ZnlSTFZGZklEY01Eby10UDY4dWNpdXdkbEYyMFJFbmJHaFZMM3N1UGpXc0lDQlBSRkF2d1pmOG9HcjZnOFI3dVUwemMtOF9fVzNLVHNDbW1iUQ?oc=5",
-        "published_at": "2025-06-06T07:00:00+00:00",
-        "representative_place": "Nyamakop / Relooted studio area",
-        "place_label": "南アフリカ-Nyamakop / Relooted周辺",
-        "sort_place_label": "南アフリカ-Nyamakop / Relooted周辺",
-        "geocode_query": "Nyamakop Relooted South Africa",
-        "place_type": "studio_site",
-        "location_precision": "studio_area_country",
-        "place_reason": "Relooted / Nyamakopの記事なので南アフリカ一般のstudio_regionではなくスタジオ主体として扱う。ただし都市・住所を確実に固定できないため、座標は後続確認対象として国代表点に残す（一致語: Relooted）",
-        "confidence": 0.56,
-        "rule_id": "observed_nyamakop_relooted_south_africa_202606",
-        "matched_text": "Relooted",
         "match_source": "known_place_title"
       }
     },
@@ -4961,43 +4853,16 @@
         "source": "Pokde.Net",
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9UcHhBdW1aTzZGeENrUWtNNUtTZC16UXIwSjY5RlZyQ0pMWERSajVGVjJVYW91Zm9xdjV3QTJuV1VtS3M0aTZaM2QwT0R1LTFPVG9LcnJJYjUzWWFORWtxcnkzT2pWSlE?oc=5",
         "published_at": "2023-11-12T08:00:00+00:00",
-        "representative_place": "Kuala Lumpur concert stop",
-        "place_label": "マレーシア-クアラルンプール",
-        "sort_place_label": "マレーシア-クアラルンプール",
-        "geocode_query": "Kuala Lumpur Malaysia",
+        "representative_place": "Indie Jam 2023 Kuala Lumpur",
+        "place_label": "マレーシア-クアラルンプール-Indie Jam 2023",
+        "sort_place_label": "マレーシア-クアラルンプール-Indie Jam 2023",
+        "geocode_query": "Indie Jam 2023 Kuala Lumpur Malaysia",
         "place_type": "event_site",
         "location_precision": "city",
-        "place_reason": "未解決記事のタイトルにMalaysia、summaryに『live in Kuala Lumpur』とあり、コンサートツアーの対象地としてクアラルンプールに置く（一致語: Kuala Lumpur）",
-        "confidence": 0.86,
-        "rule_id": "observed_undertale_symphony_kuala_lumpur_202606",
-        "matched_text": "Kuala Lumpur",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          17.6791,
-          1.6508
-        ]
-      },
-      "properties": {
-        "title": "Olivier Madiba pioneers the African video game industry - We are Tech",
-        "source": "We are Tech",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZ045cVJnM2VQOXBySDNoZ2VpMDI2ajNjR1ZfQmZoMUZTNVlDamdRa01tSmlaX3oxWUd3Y2NpSWYyUm03ZGhuQXBuUGNnZ2htTzMtNW5WeHl4ekFKZGZJOHZlS2dQRU15SXYyVFNoLUJZbnFSSmRhRTUwaHBhbkhNSXNDMG9QcENBS1hiTkJYaERxdGJIQ01MRHk2cFM5WFplTVFjUU14MHVXQQ?oc=5",
-        "published_at": "2023-05-10T11:10:24+00:00",
-        "representative_place": "Africa games market topic",
-        "place_label": "アフリカ-ゲーム市場・産業",
-        "sort_place_label": "アフリカ-ゲーム市場・産業",
-        "geocode_query": "Africa games market industry",
-        "place_type": "continent_market_topic",
-        "location_precision": "continent_market_topic",
-        "place_reason": "アフリカ全体のゲーム市場・産業記事なので、単なるアフリカではなくゲーム市場・産業トピックとしてラベルを分ける（一致語: African Video Game Industry）",
-        "confidence": 0.56,
-        "rule_id": "observed_africa_gaming_market_202606",
-        "matched_text": "African Video Game Industry",
+        "place_reason": "Indie Jam 2023のクアラルンプール開催記事なので、UNDERTALE公演ではなくインディーゲームイベントとしてクアラルンプールに置く。会場番地は未確認なので都市単位に止める。rankingで未定義precisionにならないようcityを使う（一致語: Indie Jam 2023 To Showcase Southeast Asian Gaming Excellence in Kuala Lumpur）",
+        "confidence": 0.72,
+        "rule_id": "observed_indie_jam_kuala_lumpur_2023",
+        "matched_text": "Indie Jam 2023 To Showcase Southeast Asian Gaming Excellence in Kuala Lumpur",
         "match_source": "known_place_title"
       }
     },
@@ -5015,16 +4880,16 @@
         "source": "Pocket Gamer.biz",
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBWbHRjTy13TV80XzQtY2lHNENHQXB2cjlWQkE2NTRqZmpMU1BiLXNWdGZtZHJOdXh3SEVvN2FaZXJvRFNOVGI2czM5X1VORXJUMUhfUW8xZlBERjN1Rjk4ZENhT25pR3Q4N282ZVdic2V6dw?oc=5",
         "published_at": "2022-08-19T07:00:00+00:00",
-        "representative_place": "Kuala Lumpur concert stop",
-        "place_label": "マレーシア-クアラルンプール",
-        "sort_place_label": "マレーシア-クアラルンプール",
-        "geocode_query": "Kuala Lumpur Malaysia",
-        "place_type": "event_site",
+        "representative_place": "Virtuos Kuala Lumpur studio",
+        "place_label": "マレーシア-クアラルンプール-Virtuosスタジオ",
+        "sort_place_label": "マレーシア-クアラルンプール-Virtuosスタジオ",
+        "geocode_query": "Virtuos Kuala Lumpur Malaysia studio",
+        "place_type": "studio_site",
         "location_precision": "city",
-        "place_reason": "未解決記事のタイトルにMalaysia、summaryに『live in Kuala Lumpur』とあり、コンサートツアーの対象地としてクアラルンプールに置く（一致語: Kuala Lumpur）",
-        "confidence": 0.86,
-        "rule_id": "observed_undertale_symphony_kuala_lumpur_202606",
-        "matched_text": "Kuala Lumpur",
+        "place_reason": "Virtuosのクアラルンプール新スタジオ記事なので、UNDERTALE公演やKuala Lumpur汎用ラベルではなく、VirtuosのKLスタジオ開設として扱う。番地は未確認なので都市単位に止める。rankingで未定義precisionにならないようcityを使う（一致語: Virtuos launches new studio in Kuala Lumpur）",
+        "confidence": 0.78,
+        "rule_id": "observed_virtuos_kuala_lumpur_studio_202606",
+        "matched_text": "Virtuos launches new studio in Kuala Lumpur",
         "match_source": "known_place_title"
       }
     },
@@ -5042,16 +4907,16 @@
         "source": "Virtuos",
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTFFRM01OX29wTFZEaC1yMEl6ZjlOQUNBYUJHYm13eWpCSjhUeVlhQjlSMmRyeVR6VGl3aFhOQTZjeGQ1ZHVlRzlobzhMaUxpWW9iOGExbjZSNVFFbXAzX0FaUFpVdVItQWJ2OXpiWnlSV09WeGlDVklJZk5jZlUza2x5VnNSQ2xHUkczUXExQ1N3TkhYeWs1cDRfYjUzSDk2RFpjcFJ2TmlibW8zTVFSdHdPZHRPdW9YWEdlZFNSczdJcHdMWkk1d3NKNA?oc=5",
         "published_at": "2022-08-12T07:00:00+00:00",
-        "representative_place": "Kuala Lumpur concert stop",
-        "place_label": "マレーシア-クアラルンプール",
-        "sort_place_label": "マレーシア-クアラルンプール",
-        "geocode_query": "Kuala Lumpur Malaysia",
-        "place_type": "event_site",
+        "representative_place": "Virtuos Kuala Lumpur studio",
+        "place_label": "マレーシア-クアラルンプール-Virtuosスタジオ",
+        "sort_place_label": "マレーシア-クアラルンプール-Virtuosスタジオ",
+        "geocode_query": "Virtuos Kuala Lumpur Malaysia studio",
+        "place_type": "studio_site",
         "location_precision": "city",
-        "place_reason": "未解決記事のタイトルにMalaysia、summaryに『live in Kuala Lumpur』とあり、コンサートツアーの対象地としてクアラルンプールに置く（一致語: Kuala Lumpur）",
-        "confidence": 0.86,
-        "rule_id": "observed_undertale_symphony_kuala_lumpur_202606",
-        "matched_text": "Kuala Lumpur",
+        "place_reason": "Virtuosのクアラルンプール新スタジオ記事なので、UNDERTALE公演やKuala Lumpur汎用ラベルではなく、VirtuosのKLスタジオ開設として扱う。番地は未確認なので都市単位に止める。rankingで未定義precisionにならないようcityを使う（一致語: Virtuos Bolsters Southeast Asian Presence With Launch of Game Development Studio in Kuala Lumpur）",
+        "confidence": 0.78,
+        "rule_id": "observed_virtuos_kuala_lumpur_studio_202606",
+        "matched_text": "Virtuos Bolsters Southeast Asian Presence With Launch of Game Development Studio in Kuala Lumpur",
         "match_source": "known_place_title"
       }
     },
