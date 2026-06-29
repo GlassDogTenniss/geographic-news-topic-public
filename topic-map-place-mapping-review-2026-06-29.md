@@ -199,6 +199,42 @@ Verified-location batch. This returns the maintenance process to source-backed p
 
 Expected: exact-address entries should appear with `location_precision=exact_site`; city-retained entries should remain stable and should not be promoted to building/street precision without stronger official address evidence.
 
+## Batch 50 pending verification
+
+Market, awards, showcase, and stable-city batch. This avoids forcing articles onto company offices when the article is actually about an award, launch market, policy/topic region, or digital showcase.
+
+- Kept as broad topic / market target:
+  - BAFTA Student Awards: `country`
+  - Hill Climb Racing 3 Germany soft launch: `country`
+  - The Traitors: Anywhere UK/Ireland launch: `multi_region`
+  - TIGA board appointment: `country`
+  - Afro Game Showcase: `continent_region`
+
+- Kept as studio-related but not exact-site:
+  - Santa Ragione / Milan: `city`
+  - Toys for Bob / Novato: `city`
+  - HoYoverse / miHoYo / Xuhui Shanghai: `district`
+
+Expected: these articles should remain tied to their target market / award / showcase / stable city or district, and should not be promoted to a guessed address or an unrelated company office.
+
+## Batch 51 pending verification
+
+Late-output market and company-topic stabilization batch.
+
+- Kept as broad market / cultural / labor / startup topics:
+  - India game developer salary market: `country`
+  - India gaming startup market: `country`
+  - Indian mythology / game storytelling topic: `country`
+
+- Kept as company or legal topics without guessing street address:
+  - Valve / Steam monopoly legal topic: `city`
+  - Hipster Whale / Melbourne: `city`
+  - Hooded Horse / Dallas: `city`
+  - Embracer Group restructuring topic: `country`
+  - Nyamakop / South Africa: `country`
+
+Expected: these should not remain with undefined precision values such as `country_labor_market`, `country_startup_market`, `country_cultural_industry`, `headquarters_area`, `studio_area`, `publisher_area`, or `studio_area_country`.
+
 ## Public map UI pending verification
 
 - `geographic-news-topic-public/index.html`
