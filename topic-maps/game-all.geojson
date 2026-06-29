@@ -1,8 +1,8 @@
 {
   "type": "FeatureCollection",
   "properties": {
-    "created_at": "2026-06-29T01:43:23.524804+00:00",
-    "count": 187,
+    "created_at": "2026-06-29T01:46:38.796801+00:00",
+    "count": 185,
     "stats": {
       "feed_id": "game-all",
       "feed_label": "ゲーム",
@@ -47,12 +47,12 @@
         "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Southeast%20Asia&hl=en-SG&gl=SG&ceid=SG:en": 77,
         "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA&hl=ja&gl=JP&ceid=JP:ja": 75,
         "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja": 79,
-        "https://news.google.com/rss/search?q=%E6%B5%B7%E5%A4%96%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA&hl=ja&gl=JP&ceid=JP:ja": 75,
-        "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja": 76
+        "https://news.google.com/rss/search?q=%E6%B5%B7%E5%A4%96%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA&hl=ja&gl=JP&ceid=JP:ja": 76,
+        "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja": 77
       },
-      "filtered": 910,
-      "resolved": 187,
-      "unresolved": 723,
+      "filtered": 909,
+      "resolved": 185,
+      "unresolved": 724,
       "rules": 167,
       "known_places": 169,
       "loaded_data_files": [
@@ -119,6 +119,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          12.578,
+          55.6785
+        ]
+      },
+      "properties": {
+        "title": "『007』シリーズ新作ゲーム、正式タイトル発表！『ヒットマン』開発チームが手掛ける「ジェームズ・ボンド」がSummer Game Festで再び登場 - 玩具人 TOY PEOPLE",
+        "source": "玩具人 TOY PEOPLE",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBWY3F3UjlLdm13NFEyVmF0bGhXSFdkUFUzWGYwX2Y4Sm9LMGVZMnlUbko3bkdtOUZ4RmRxdHNteU9Id2wtMmI4YWpSSzlubVh0?oc=5",
+        "published_at": "2026-06-28T23:31:42+00:00",
+        "representative_place": "IO Interactive / Copenhagen headquarters area",
+        "place_label": "デンマーク-コペンハーゲン-IO Interactive",
+        "sort_place_label": "デンマーク-コペンハーゲン-IO Interactive",
+        "geocode_query": "IO Interactive Copenhagen Denmark",
+        "place_type": "studio_site",
+        "location_precision": "headquarters_area",
+        "place_reason": "一覧の国別表示で国名が落ちないよう、デンマークを先頭にしたラベルで007 First Light / James Bondゲーム系の記事を扱う（一致語: 『007』シリーズ新作ゲーム）",
+        "confidence": 0.78,
+        "rule_id": "observed_io_interactive_007_first_light_copenhagen_202606",
+        "matched_text": "『007』シリーズ新作ゲーム",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           104.1954,
           35.8617
         ]
@@ -138,33 +165,6 @@
         "confidence": 0.6,
         "rule_id": "observed_chinese_developers_global_gaming_202606",
         "matched_text": "Chinese developers gain ground in global gaming",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.578,
-          55.6785
-        ]
-      },
-      "properties": {
-        "title": "『007』シリーズ新作ゲーム、正式タイトル発表！『ヒットマン』開発チームが手掛ける「ジェームズ・ボンド」がSummer Game Festで再び登場 - 玩具人 TOY PEOPLE",
-        "source": "玩具人 TOY PEOPLE",
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBWY3F3UjlLdm13NFEyVmF0bGhXSFdkUFUzWGYwX2Y4Sm9LMGVZMnlUbko3bkdtOUZ4RmRxdHNteU9Id2wtMmI4YWpSSzlubVh0?oc=5",
-        "published_at": "2026-06-28T17:15:34+00:00",
-        "representative_place": "IO Interactive / Copenhagen headquarters area",
-        "place_label": "デンマーク-コペンハーゲン-IO Interactive",
-        "sort_place_label": "デンマーク-コペンハーゲン-IO Interactive",
-        "geocode_query": "IO Interactive Copenhagen Denmark",
-        "place_type": "studio_site",
-        "location_precision": "headquarters_area",
-        "place_reason": "一覧の国別表示で国名が落ちないよう、デンマークを先頭にしたラベルで007 First Light / James Bondゲーム系の記事を扱う（一致語: 『007』シリーズ新作ゲーム）",
-        "confidence": 0.78,
-        "rule_id": "observed_io_interactive_007_first_light_copenhagen_202606",
-        "matched_text": "『007』シリーズ新作ゲーム",
         "match_source": "known_place_title"
       }
     },
@@ -956,6 +956,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          121.774,
+          12.8797
+        ]
+      },
+      "properties": {
+        "title": "Tacloban shooting: Philippines bans gaming app Gorebox played by teenage suspect - BBC",
+        "source": "BBC",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5IRHRadmE0Rlc5d2d5eHZMOFdCR0VTS2N0WGhFSzI3Q0YzOGtzNGhKQkxTZkdJa1BZdlJhNWJ1UXhsZnc4bjNpSWtiS3Y3R0hBN1Z6dWpTR2Y2UQ?oc=5",
+        "published_at": "2026-06-24T22:14:12+00:00",
+        "representative_place": "Philippines CICC / GoreBox temporary ban topic",
+        "place_label": "フィリピン-GoreBox一時禁止措置",
+        "sort_place_label": "フィリピン-GoreBox一時禁止措置",
+        "geocode_query": "Philippines CICC GoreBox temporary ban",
+        "place_type": "regulatory_policy_topic",
+        "location_precision": "country_regulatory_policy",
+        "place_reason": "CICCによるGoreBox一時禁止を扱うフィリピン発の記事なので、個別住所ではなくフィリピンの規制トピックとして扱う（一致語: GoreBox）",
+        "confidence": 0.7,
+        "rule_id": "observed_gorebox_cicc_philippines_ban_202606",
+        "matched_text": "GoreBox",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -51.9253,
           -14.235
         ]
@@ -1505,14 +1532,14 @@
         "source": "GamesIndustry.biz Latest Articles Feed",
         "link": "https://www.gamesindustry.biz/this-is-going-to-be-a-niche-device-analysts-react-to-the-1000-steam-machine-price-reveal",
         "published_at": "2026-06-23T11:01:40+00:00",
-        "representative_place": "Valve / Bellevue headquarters area",
-        "place_label": "米国-ワシントン州-ベルビュー-Valve",
-        "sort_place_label": "米国-ワシントン州-ベルビュー-Valve",
-        "geocode_query": "Valve Bellevue Washington United States",
+        "representative_place": "Valve / 10400 NE 4th St Bellevue",
+        "place_label": "米国-ワシントン州-ベルビュー-10400 NE 4th St-Valve",
+        "sort_place_label": "米国-ワシントン州-ベルビュー-10400 NE 4th St-Valve",
+        "geocode_query": "Valve 10400 NE 4th St Bellevue Washington United States",
         "place_type": "company_site",
-        "location_precision": "headquarters_area",
-        "place_reason": "Steam Machine価格・ハードウェア記事なので、製品市場ではなくValveの会社主体としてベルビュー周辺に置く。番地までは固定しない（一致語: Steam Machine price reveal）",
-        "confidence": 0.76,
+        "location_precision": "street_address",
+        "place_reason": "Steam Machine価格・ハードウェア記事なのでValve主体として扱う。Bellevue周辺では粗いため、Valveの公開本社住所として扱える10400 NE 4th Stに寄せる（一致語: Steam Machine price reveal）",
+        "confidence": 0.8,
         "rule_id": "observed_valve_steam_machine_pricing_bellevue_202606",
         "matched_text": "Steam Machine price reveal",
         "match_source": "known_place_title"
@@ -1532,14 +1559,14 @@
         "source": "gamedeveloper",
         "link": "https://www.gamedeveloper.com/business/valve-is-making-it-easier-to-build-your-own-steam-machine",
         "published_at": "2026-06-23T10:29:07+00:00",
-        "representative_place": "Valve / Bellevue headquarters area",
-        "place_label": "米国-ワシントン州-ベルビュー-Valve",
-        "sort_place_label": "米国-ワシントン州-ベルビュー-Valve",
-        "geocode_query": "Valve Bellevue Washington United States",
+        "representative_place": "Valve / 10400 NE 4th St Bellevue",
+        "place_label": "米国-ワシントン州-ベルビュー-10400 NE 4th St-Valve",
+        "sort_place_label": "米国-ワシントン州-ベルビュー-10400 NE 4th St-Valve",
+        "geocode_query": "Valve 10400 NE 4th St Bellevue Washington United States",
         "place_type": "company_site",
-        "location_precision": "headquarters_area",
-        "place_reason": "Steam Machine価格・ハードウェア記事なので、製品市場ではなくValveの会社主体としてベルビュー周辺に置く。番地までは固定しない（一致語: Valve is making it easier to build your own Steam Machine）",
-        "confidence": 0.76,
+        "location_precision": "street_address",
+        "place_reason": "Steam Machine価格・ハードウェア記事なのでValve主体として扱う。Bellevue周辺では粗いため、Valveの公開本社住所として扱える10400 NE 4th Stに寄せる（一致語: Valve is making it easier to build your own Steam Machine）",
+        "confidence": 0.8,
         "rule_id": "observed_valve_steam_machine_pricing_bellevue_202606",
         "matched_text": "Valve is making it easier to build your own Steam Machine",
         "match_source": "known_place_title"
@@ -1748,14 +1775,14 @@
         "source": "gamedeveloper",
         "link": "https://www.gamedeveloper.com/pc/steam-machine-pricing-starts-at-1-049-for-512gb-model",
         "published_at": "2026-06-22T20:07:34+00:00",
-        "representative_place": "Valve / Bellevue headquarters area",
-        "place_label": "米国-ワシントン州-ベルビュー-Valve",
-        "sort_place_label": "米国-ワシントン州-ベルビュー-Valve",
-        "geocode_query": "Valve Bellevue Washington United States",
+        "representative_place": "Valve / 10400 NE 4th St Bellevue",
+        "place_label": "米国-ワシントン州-ベルビュー-10400 NE 4th St-Valve",
+        "sort_place_label": "米国-ワシントン州-ベルビュー-10400 NE 4th St-Valve",
+        "geocode_query": "Valve 10400 NE 4th St Bellevue Washington United States",
         "place_type": "company_site",
-        "location_precision": "headquarters_area",
-        "place_reason": "Steam Machine価格・ハードウェア記事なので、製品市場ではなくValveの会社主体としてベルビュー周辺に置く。番地までは固定しない（一致語: Steam Machine pricing starts）",
-        "confidence": 0.76,
+        "location_precision": "street_address",
+        "place_reason": "Steam Machine価格・ハードウェア記事なのでValve主体として扱う。Bellevue周辺では粗いため、Valveの公開本社住所として扱える10400 NE 4th Stに寄せる（一致語: Steam Machine pricing starts）",
+        "confidence": 0.8,
         "rule_id": "observed_valve_steam_machine_pricing_bellevue_202606",
         "matched_text": "Steam Machine pricing starts",
         "match_source": "known_place_title"
@@ -1856,14 +1883,14 @@
         "source": "GamesIndustry.biz Latest Articles Feed",
         "link": "https://www.gamesindustry.biz/valves-steam-machine-price-starts-at-1049-879-original-pricing-no-longer-viable-due-to-hardware-supply-issues",
         "published_at": "2026-06-22T17:00:00+00:00",
-        "representative_place": "Valve / Bellevue headquarters area",
-        "place_label": "米国-ワシントン州-ベルビュー-Valve",
-        "sort_place_label": "米国-ワシントン州-ベルビュー-Valve",
-        "geocode_query": "Valve Bellevue Washington United States",
+        "representative_place": "Valve / 10400 NE 4th St Bellevue",
+        "place_label": "米国-ワシントン州-ベルビュー-10400 NE 4th St-Valve",
+        "sort_place_label": "米国-ワシントン州-ベルビュー-10400 NE 4th St-Valve",
+        "geocode_query": "Valve 10400 NE 4th St Bellevue Washington United States",
         "place_type": "company_site",
-        "location_precision": "headquarters_area",
-        "place_reason": "Steam Machine価格・ハードウェア記事なので、製品市場ではなくValveの会社主体としてベルビュー周辺に置く。番地までは固定しない（一致語: Valve's Steam Machine price）",
-        "confidence": 0.76,
+        "location_precision": "street_address",
+        "place_reason": "Steam Machine価格・ハードウェア記事なのでValve主体として扱う。Bellevue周辺では粗いため、Valveの公開本社住所として扱える10400 NE 4th Stに寄せる（一致語: Valve's Steam Machine price）",
+        "confidence": 0.8,
         "rule_id": "observed_valve_steam_machine_pricing_bellevue_202606",
         "matched_text": "Valve's Steam Machine price",
         "match_source": "known_place_title"
@@ -3089,33 +3116,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.9827,
-          40.7563
-        ]
-      },
-      "properties": {
-        "title": "\"Product visibility needs a more cohesive and structural approach\" – How VaultN aims to unify the digital distribution ecosystem",
-        "source": "GamesIndustry.biz Latest Articles Feed",
-        "link": "https://www.gamesindustry.biz/product-visibility-needs-a-more-cohesive-and-structural-approach-how-vaultn-aims-to-unify-the-digital-distribution-ecosystem",
-        "published_at": "2026-06-09T12:00:00+00:00",
-        "representative_place": "Take-Two Interactive / 1133 Avenue of the Americas",
-        "place_label": "米国-ニューヨーク州-ニューヨーク-1133 Avenue of the Americas-Take-Two Interactive",
-        "sort_place_label": "米国-ニューヨーク州-ニューヨーク-1133 Avenue of the Americas-Take-Two Interactive",
-        "geocode_query": "1133 Avenue of the Americas New York Take-Two Interactive",
-        "place_type": "publisher_company_site",
-        "location_precision": "street_address",
-        "place_reason": "Take-Two Interactiveの年次報告に関する記事なので、ニューヨーク周辺ではなくTake-Two本社の1133 Avenue of the Americasに置く",
-        "confidence": 0.84,
-        "rule_id": "observed_take_two_annual_report_new_york_202605",
-        "matched_text": "Take-Two Interactive",
-        "match_source": "rule"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           35.2433,
           38.9637
         ]
@@ -3683,33 +3683,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          18.6435,
-          60.1282
-        ]
-      },
-      "properties": {
-        "title": "『Serpent's Gaze』最大4人協力のソウルライク×ローグライトアクション。スウェーデンのインディースタジオが手がける新作がアーリーアクセス開始 - ファミ通",
-        "source": "ファミ通",
-        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8tV0NoTW9LQmRFY2xIUGNLZ3ZwLU1QaElON3JXRXJYVGtvTEt6NjFpaHpKa3phdGNacXltamlpR1dQdFVLSkh3STR6dGlmWnpfd19hNXNmZw?oc=5",
-        "published_at": "2026-05-25T07:00:00+00:00",
-        "representative_place": "Serpent's Gaze / Swedish indie studio topic",
-        "place_label": "スウェーデン-Serpent's Gaze開発スタジオ",
-        "sort_place_label": "スウェーデン-Serpent's Gaze開発スタジオ",
-        "geocode_query": "Sweden Serpent's Gaze indie studio",
-        "place_type": "game_origin_topic",
-        "location_precision": "country_game_origin_topic",
-        "place_reason": "タイトルでスウェーデンのインディースタジオによる新作と説明されているため、国単位の作品由来トピックとして扱う。スタジオ名・都市は確実に固定しない（一致語: スウェーデンのインディースタジオ）",
-        "confidence": 0.62,
-        "rule_id": "observed_serpents_gaze_swedish_indie_202605",
-        "matched_text": "スウェーデンのインディースタジオ",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -73.9827,
           40.7563
         ]
@@ -3725,7 +3698,7 @@
         "geocode_query": "1133 Avenue of the Americas New York Take-Two Interactive",
         "place_type": "publisher_company_site",
         "location_precision": "street_address",
-        "place_reason": "Take-Two Interactiveの年次報告に関する記事なので、ニューヨーク周辺ではなくTake-Two本社の1133 Avenue of the Americasに置く（一致語: Losses decreased 15 times）",
+        "place_reason": "Take-Two年次報告・決算記事に限定して本社住所に置く。会社名単独のマッチはVaultNなど別主題の記事を吸うため削除する（一致語: Losses decreased 15 times）",
         "confidence": 0.84,
         "rule_id": "observed_take_two_annual_report_new_york_202605",
         "matched_text": "Losses decreased 15 times",
@@ -3811,33 +3784,6 @@
         "rule_id": "observed_sea_sgf_timezone_202605",
         "matched_text": "Summer Game Fest Showcase — In Southeast Asian Timezone",
         "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.9827,
-          40.7563
-        ]
-      },
-      "properties": {
-        "title": "Strauss Zelnick: Changing the visual style of the first Borderlands cost $50 million",
-        "source": "Game World Observer",
-        "link": "https://gameworldobserver.com/2026/05/18/strauss-zelnick-changing-the-visual-style-of-the-first-borderlands-cost-50-million",
-        "published_at": "2026-05-18T12:02:15+00:00",
-        "representative_place": "Take-Two Interactive / 1133 Avenue of the Americas",
-        "place_label": "米国-ニューヨーク州-ニューヨーク-1133 Avenue of the Americas-Take-Two Interactive",
-        "sort_place_label": "米国-ニューヨーク州-ニューヨーク-1133 Avenue of the Americas-Take-Two Interactive",
-        "geocode_query": "1133 Avenue of the Americas New York Take-Two Interactive",
-        "place_type": "publisher_company_site",
-        "location_precision": "street_address",
-        "place_reason": "Take-Two Interactiveの年次報告に関する記事なので、ニューヨーク周辺ではなくTake-Two本社の1133 Avenue of the Americasに置く",
-        "confidence": 0.84,
-        "rule_id": "observed_take_two_annual_report_new_york_202605",
-        "matched_text": "Take-Two Interactive",
-        "match_source": "rule"
       }
     },
     {
@@ -4481,11 +4427,11 @@
         "geocode_query": "1133 Avenue of the Americas New York Take-Two Interactive",
         "place_type": "publisher_company_site",
         "location_precision": "street_address",
-        "place_reason": "Take-Two Interactiveの年次報告に関する記事なので、ニューヨーク周辺ではなくTake-Two本社の1133 Avenue of the Americasに置く",
+        "place_reason": "Take-Two年次報告・決算記事に限定して本社住所に置く。会社名単独のマッチはVaultNなど別主題の記事を吸うため削除する（一致語: Revenue exceeded forecasts）",
         "confidence": 0.84,
         "rule_id": "observed_take_two_annual_report_new_york_202605",
-        "matched_text": "Take-Two Interactive",
-        "match_source": "rule"
+        "matched_text": "Revenue exceeded forecasts",
+        "match_source": "known_place_title"
       }
     },
     {
