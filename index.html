@@ -74,6 +74,7 @@
     L.tileLayer('https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png', { maxZoom: 17, opacity: 0.23, attribution: 'Terrain overlay: &copy; OpenTopoMap (CC-BY-SA)' }).addTo(map);
     delete L.Icon.Default.prototype._getIconUrl;
     L.Icon.Default.mergeOptions({ iconRetinaUrl: 'https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/images/marker-icon-2x.png', iconUrl: 'https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/images/marker-icon.png', shadowUrl: 'https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/images/marker-shadow.png' });
+    const kunlunGrayIcon = L.icon({ iconUrl: 'data:image/svg+xml;charset=UTF-8,' + encodeURIComponent('<svg xmlns="http://www.w3.org/2000/svg" width="25" height="41" viewBox="0 0 25 41"><path fill="#777" stroke="#4f4f4f" stroke-width="1" d="M12.5.5C5.9.5.5 5.9.5 12.5c0 9.2 12 28 12 28s12-18.8 12-28C24.5 5.9 19.1.5 12.5.5z"/><circle cx="12.5" cy="12.5" r="5" fill="#bdbdbd" stroke="#6b6b6b" stroke-width="1"/></svg>'), shadowUrl: 'https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/images/marker-shadow.png', iconSize: [25, 41], iconAnchor: [12, 41], popupAnchor: [1, -34], shadowSize: [41, 41] });
 
     const statusEl = document.getElementById('status');
     const feedSelectEl = document.getElementById('feedSelect');
@@ -137,7 +138,8 @@
       features.forEach(feature => {
         const c = feature.geometry && feature.geometry.coordinates;
         if (!c || c.length < 2) return;
-        const marker = L.marker([c[1], c[0]]).addTo(map);
+        const markerOptions = isKunlunPlaceholder(feature) ? { icon: kunlunGrayIcon } : undefined;
+        const marker = L.marker([c[1], c[0]], markerOptions).addTo(map);
         marker.bindPopup(popup(feature.properties || {}));
         markers.push(marker);
         addList(feature, marker);
