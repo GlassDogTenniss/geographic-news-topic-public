@@ -1,8 +1,8 @@
 {
   "type": "FeatureCollection",
   "properties": {
-    "created_at": "2026-06-29T09:22:11.674867+00:00",
-    "count": 14,
+    "created_at": "2026-06-30T14:09:44.008030+00:00",
+    "count": 17,
     "stats": {
       "feed_id": "google-news-ai-ja",
       "feed_label": "Google News: AI / 生成AI",
@@ -15,8 +15,8 @@
         "https://news.google.com/rss/search?q=AI%20%E7%94%9F%E6%88%90AI%20OpenAI&hl=ja&gl=JP&ceid=JP:ja": 100
       },
       "filtered": 100,
-      "resolved": 14,
-      "unresolved": 86,
+      "resolved": 17,
+      "unresolved": 83,
       "rules": 470,
       "known_places": 472,
       "loaded_data_files": [
@@ -42,26 +42,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.0,
-          20.0
+          -122.1215,
+          47.674
         ]
       },
       "properties": {
-        "title": "任天堂、生成AIによる著作権侵害に公式声明！ OpenAI CEOの「インタラクティブな二次創作」発言が物議 - 玩具人 TOY PEOPLE",
-        "source": "玩具人 TOY PEOPLE",
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9kMzZFdV9IZC1PSlREWGQ3UW1oYWppVnhJdUNVR2d4aHJVb2hPelpFc244cWtlQnRmWktCOTJ2YVBxQWhnNG1BVHE0VW1qdHpl?oc=5",
-        "published_at": "2026-06-27T12:48:43+00:00",
-        "representative_place": "Country portrayal in games fallback topic",
-        "place_label": "複数地域-ゲームにおける国・文化表象記事",
-        "sort_place_label": "複数地域-ゲームにおける国・文化表象記事",
-        "geocode_query": "country portrayal in video games culture representation",
-        "place_type": "game_culture_region",
-        "location_precision": "multi_region",
-        "place_reason": "ゲーム内の国・人々・文化表象を扱う記事で単一国が確定しないものを、低優先の複数地域文化トピックとして扱う（一致語: people）",
-        "confidence": 0.32,
-        "rule_id": "observed_country_portrayal_in_games_fallback_202308",
-        "matched_text": "people",
-        "match_source": "known_place_title"
+        "title": "Azure OpenAI を採用し、生成 AI 活用の全社展開を推進――内製化に舵を切り、業務部門とIT部門が一体となってミドルアップダウンで進める大塚製薬工場のデジタル戦略とは - Microsoft",
+        "source": "Microsoft",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOM0FxdGh0Z21wbGkwczNtb1JRR2EwX3haYzM3ODVIMnh5aTZscVo1aFROdkFuZm43QzdyU2ZNckZxT2dCUVduaE5xMVM0V01TeVJwX1hwQkYwcFlpRmd0cXVJbDJiMTB5RzU2M2wwbjBGY1o2ZkVUcTJZZTAxR2xJX2NnYkVYRVNHN3c2WXFra1BadWtuemk5azRRRUM0RGR3MzJMcm1kei11c1pLMFJCWTdpXzI?oc=5",
+        "published_at": "2026-06-30T06:09:48+00:00",
+        "representative_place": "Microsoft / Xbox Series X event topic",
+        "place_label": "米国-Redmond-Microsoft / Xbox Series X event",
+        "sort_place_label": "米国-Redmond-Microsoft / Xbox Series X event",
+        "geocode_query": "Microsoft Xbox Redmond Washington",
+        "place_type": "company_event_city",
+        "location_precision": "city",
+        "place_reason": "MicrosoftのXbox Series X発表記事なので、Xbox/Microsoft本拠地のRedmondに置く",
+        "confidence": 0.72,
+        "rule_id": "observed_xbox_series_x_event_redmond_202007",
+        "matched_text": "Microsoft",
+        "match_source": "rule"
       }
     },
     {
@@ -105,6 +105,33 @@
         "source": "ソフトバンク",
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1QSC14QXRrZUlCa0lWc1JnTktkYUJVU29iMVNkazVGUXd5RUszTnJNdkdrWEswdXhjclY2UjlFZFFZOVE2M1NFZnJHV1JidkxSRVpuR3ZfdnQzVERU?oc=5",
         "published_at": "2026-05-22T07:00:00+00:00",
+        "representative_place": "Asia game-origin culture fallback topic",
+        "place_label": "アジア-ゲーム作品起源・地域文化記事",
+        "sort_place_label": "アジア-ゲーム作品起源・地域文化記事",
+        "geocode_query": "Asia game origin culture regional games",
+        "place_type": "game_culture_region",
+        "location_precision": "region",
+        "place_reason": "アジア各地のゲーム作品起源・地域文化を扱う記事で単一国や会社に固定できないものを、地域文化トピックとして低優先で扱う（一致語: Japan）",
+        "confidence": 0.36,
+        "rule_id": "observed_asia_game_origin_culture_fallback_202505",
+        "matched_text": "Japan",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.0,
+          25.0
+        ]
+      },
+      "properties": {
+        "title": "OpenAIが認めたAIの暴走、ChatGPTが「ゴブリン」に執着した理由 - Forbes JAPAN",
+        "source": "Forbes JAPAN",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE45eWZQbTd3MmpVQlhtNHR5M3lWN01OYW5mcjRTLV9YREhCc3MwOHI1b0M5YmtRY1hWTTh3SHMwUlFJUFdpcVpZSUxDV09tNHZJS2c3alUtNVE?oc=5",
+        "published_at": "2026-05-20T07:00:00+00:00",
         "representative_place": "Asia game-origin culture fallback topic",
         "place_label": "アジア-ゲーム作品起源・地域文化記事",
         "sort_place_label": "アジア-ゲーム作品起源・地域文化記事",
@@ -412,6 +439,60 @@
         "confidence": 0.4,
         "rule_id": "observed_european_game_review_fallback_202504",
         "matched_text": "Review",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.0,
+          25.0
+        ]
+      },
+      "properties": {
+        "title": "ChatGPTの革命はもう終わり。元OpenAI研究員が明かす「生成AIの次」 - Business Insider Japan",
+        "source": "Business Insider Japan",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1maEg0dTMybVhMX3BXZ2hlMDh4MmRXVHh3bDVfenhNUTJqRlNyUFFyQXA4SFdsLXFTYUVJSExiVEdJS3ItNkR0R1JWOG1teDlEOHc4NDdtTFRicjU1dzd2djctdHNuMDRBcmJlQzcyTEptSWxtVUt3cXV5Yw?oc=5",
+        "published_at": "2026-01-16T08:00:00+00:00",
+        "representative_place": "Asia game-origin culture fallback topic",
+        "place_label": "アジア-ゲーム作品起源・地域文化記事",
+        "sort_place_label": "アジア-ゲーム作品起源・地域文化記事",
+        "geocode_query": "Asia game origin culture regional games",
+        "place_type": "game_culture_region",
+        "location_precision": "region",
+        "place_reason": "アジア各地のゲーム作品起源・地域文化を扱う記事で単一国や会社に固定できないものを、地域文化トピックとして低優先で扱う（一致語: Japan）",
+        "confidence": 0.36,
+        "rule_id": "observed_asia_game_origin_culture_fallback_202505",
+        "matched_text": "Japan",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.0,
+          25.0
+        ]
+      },
+      "properties": {
+        "title": "「GPUが溶けている」 OpenAIの動画生成AI責任者が警告、新たな制限を導入 - Forbes JAPAN",
+        "source": "Forbes JAPAN",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1YTEJ6MHBGV1dvejhOLXNSRlBibzJUSnZHcS1LcG9lTmRqaDNKNzBzamxoVHhDWlRic1oyZEZDRVVfSno5M2ctUm1iWVFhQXhzOVEtbGl3U04?oc=5",
+        "published_at": "2025-12-01T08:00:00+00:00",
+        "representative_place": "Asia game-origin culture fallback topic",
+        "place_label": "アジア-ゲーム作品起源・地域文化記事",
+        "sort_place_label": "アジア-ゲーム作品起源・地域文化記事",
+        "geocode_query": "Asia game origin culture regional games",
+        "place_type": "game_culture_region",
+        "location_precision": "region",
+        "place_reason": "アジア各地のゲーム作品起源・地域文化を扱う記事で単一国や会社に固定できないものを、地域文化トピックとして低優先で扱う（一致語: Japan）",
+        "confidence": 0.36,
+        "rule_id": "observed_asia_game_origin_culture_fallback_202505",
+        "matched_text": "Japan",
         "match_source": "known_place_title"
       }
     }
