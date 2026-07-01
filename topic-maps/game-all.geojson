@@ -1,8 +1,8 @@
 {
   "type": "FeatureCollection",
   "properties": {
-    "created_at": "2026-07-01T14:22:42.770282+00:00",
-    "count": 57,
+    "created_at": "2026-07-01T15:43:01.854655+00:00",
+    "count": 76,
     "stats": {
       "feed_id": "game-all",
       "feed_label": "ゲーム",
@@ -28,7 +28,7 @@
         "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja"
       ],
       "rss_url": "https://www.gamedeveloper.com/rss.xml",
-      "fetched": 990,
+      "fetched": 988,
       "fetched_by_url": {
         "https://www.gamedeveloper.com/rss.xml": 50,
         "https://www.gamesindustry.biz/feed": 100,
@@ -42,19 +42,19 @@
         "https://www.afkgaming.com/feed": 0,
         "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20India&hl=en-IN&gl=IN&ceid=IN:en": 78,
         "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Philippines&hl=en-PH&gl=PH&ceid=PH:en": 78,
-        "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Eastern%20Europe&hl=en&gl=PL&ceid=PL:en": 76,
+        "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Eastern%20Europe&hl=en&gl=PL&ceid=PL:en": 75,
         "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Africa&hl=en&gl=ZA&ceid=ZA:en": 79,
-        "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Southeast%20Asia&hl=en-SG&gl=SG&ceid=SG:en": 77,
+        "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Southeast%20Asia&hl=en-SG&gl=SG&ceid=SG:en": 76,
         "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA&hl=ja&gl=JP&ceid=JP:ja": 74,
         "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja": 78,
         "https://news.google.com/rss/search?q=%E6%B5%B7%E5%A4%96%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA&hl=ja&gl=JP&ceid=JP:ja": 73,
         "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja": 77
       },
-      "filtered": 901,
-      "resolved": 57,
-      "unresolved": 844,
-      "rules": 45,
-      "known_places": 42,
+      "filtered": 895,
+      "resolved": 76,
+      "unresolved": 819,
+      "rules": 58,
+      "known_places": 55,
       "loaded_data_files": [
         "data/place_rules.json",
         "data/unresolved_known_places.json",
@@ -125,6 +125,60 @@
     }
   },
   "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5637,
+          31.21
+        ]
+      },
+      "properties": {
+        "title": "MyGamez on why co-publishing could be your way into China",
+        "source": "Latest Updates | PocketGamer.biz",
+        "link": "https://www.pocketgamer.biz/mygamez-on-why-co-publishing-could-be-your-way-into-china/",
+        "published_at": "2026-07-01T14:30:00+00:00",
+        "representative_place": "Pocket Gamer Connects Summit Shanghai / Shanghai New International Expo Centre",
+        "place_label": "中国-上海市-浦東新区-上海新国際博覧中心",
+        "sort_place_label": "中国-上海市-浦東新区-上海新国際博覧中心",
+        "geocode_query": "Shanghai New International Expo Centre Pudong Shanghai China",
+        "place_type": "event_site",
+        "location_precision": "venue",
+        "place_reason": "PGC Shanghaiは上海市代表点ではなく、ChinaJoy連動イベントとして使われる上海新国際博覧中心の会場単位で置く",
+        "confidence": 0.74,
+        "rule_id": "observed_pgc_shanghai_speaker_202607",
+        "matched_text": "Pocket Gamer Connects Summit Shanghai",
+        "match_source": "rule"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2834,
+          37.5606
+        ]
+      },
+      "properties": {
+        "title": "Sony to discontinue physical discs for new games launching on PS consoles from January 2028",
+        "source": "GamesIndustry.biz Latest Articles Feed",
+        "link": "https://www.gamesindustry.biz/sony-to-discontinue-physical-discs-for-new-games-launching-on-ps-consoles-from-january-2028",
+        "published_at": "2026-07-01T13:48:56+00:00",
+        "representative_place": "Sony Interactive Entertainment / 2207 Bridgepointe Pkwy",
+        "place_label": "USA-California-San Mateo-2207 Bridgepointe Pkwy-Sony Interactive Entertainment",
+        "sort_place_label": "USA-California-San Mateo-2207 Bridgepointe Pkwy-Sony Interactive Entertainment",
+        "geocode_query": "2207 Bridgepointe Pkwy San Mateo CA 94404 Sony Interactive Entertainment",
+        "place_type": "platform_company_site",
+        "location_precision": "exact_site",
+        "place_reason": "PlayStation business article anchored to the official Sony Interactive Entertainment global headquarters address（一致語: Sony to discontinue physical discs）",
+        "confidence": 0.86,
+        "rule_id": "observed_sie_bridgepointe_202607",
+        "matched_text": "Sony to discontinue physical discs",
+        "match_source": "known_place_title"
+      }
+    },
     {
       "type": "Feature",
       "geometry": {
@@ -265,8 +319,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.9384,
-          60.1699
+          18.0691,
+          59.3122
         ]
       },
       "properties": {
@@ -274,17 +328,17 @@
         "source": "Latest Updates | PocketGamer.biz",
         "link": "https://www.pocketgamer.biz/inside-the-battle-of-polytopia-studio-midjiwan/",
         "published_at": "2026-06-30T14:45:00+00:00",
-        "representative_place": "Pocket Gamer Connects Nordics Helsinki / event area",
-        "place_label": "フィンランド-ヘルシンキ-Pocket Gamer Connects Nordics",
-        "sort_place_label": "フィンランド-ヘルシンキ-Pocket Gamer Connects Nordics",
-        "geocode_query": "Pocket Gamer Connects Nordics Helsinki Finland venue",
-        "place_type": "event_site",
-        "location_precision": "event_site",
-        "place_reason": "PGC Nordicsの開催・割引・トラック告知などイベント自体の記事に絞る。event_areaはスコア表に未定義なのでevent_siteに正規化する",
-        "confidence": 0.72,
-        "rule_id": "observed_pgc_nordics_helsinki_202606",
-        "matched_text": "PGC Nordics",
-        "match_source": "rule"
+        "representative_place": "Midjiwan AB / Magnus Ladulasgatan 65",
+        "place_label": "Sweden-Stockholm-Magnus Ladulasgatan 65-Midjiwan AB",
+        "sort_place_label": "Sweden-Stockholm-Magnus Ladulasgatan 65-Midjiwan AB",
+        "geocode_query": "Magnus Ladulasgatan 65 118 27 Stockholm Midjiwan AB",
+        "place_type": "studio_site",
+        "location_precision": "exact_site",
+        "place_reason": "Midjiwan article anchored to the official Midjiwan AB address at Magnus Ladulasgatan 65（一致語: Battle of Polytopia studio Midjiwan）",
+        "confidence": 0.88,
+        "rule_id": "observed_midjiwan_magnus_ladulasgatan_202607",
+        "matched_text": "Battle of Polytopia studio Midjiwan",
+        "match_source": "known_place_title"
       }
     },
     {
@@ -427,33 +481,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          113.9305,
-          22.5255
-        ]
-      },
-      "properties": {
-        "title": "What the West can learn from China's WeChat mini-games",
-        "source": "Latest Updates | PocketGamer.biz",
-        "link": "https://www.pocketgamer.biz/socialpeta-on-chinas-mini-game-boom-testing-monetisation-and-global-expansion/",
-        "published_at": "2026-06-29T14:48:00+00:00",
-        "representative_place": "Tencent Binhai Mansion / WeChat mini-games",
-        "place_label": "中国-広東省-深圳市-南山区-騰訊濱海大廈",
-        "sort_place_label": "中国-広東省-深圳市-南山区-騰訊濱海大廈",
-        "geocode_query": "Tencent Binhai Mansion Nanshan Shenzhen Guangdong China",
-        "place_type": "platform_company_site",
-        "location_precision": "building",
-        "place_reason": "WeChat mini-gamesの記事なのでWeChat/Tencentの深圳本社地点に置く（一致語: China's WeChat mini-games）",
-        "confidence": 0.82,
-        "rule_id": "observed_wechat_minigames_tencent_shenzhen_202607",
-        "matched_text": "China's WeChat mini-games",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -122.0841,
           37.422
         ]
@@ -528,6 +555,33 @@
         "rule_id": "observed_pgc_shanghai_speaker_202607",
         "matched_text": "Pocket Gamer Connects Summit Shanghai",
         "match_source": "rule"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0186,
+          52.2695
+        ]
+      },
+      "properties": {
+        "title": "CD Projekt rebrands to CD Projekt Red",
+        "source": "GamesIndustry.biz Latest Articles Feed",
+        "link": "https://www.gamesindustry.biz/cd-projekt-rebrands-to-cd-projekt-red",
+        "published_at": "2026-06-29T09:40:55+00:00",
+        "representative_place": "CD PROJEKT S.A. / ul. Jagiellońska 74 building E",
+        "place_label": "ポーランド-ワルシャワ-ul. Jagiellońska 74 building E-CD PROJEKT",
+        "sort_place_label": "ポーランド-ワルシャワ-ul. Jagiellońska 74 building E-CD PROJEKT",
+        "geocode_query": "ul. Jagiellońska 74 building E 03-301 Warszawa CD PROJEKT",
+        "place_type": "company_site",
+        "location_precision": "building",
+        "place_reason": "CD Projekt主体の記事なので、CD PROJEKT公式Contactに記載の ul. Jagiellońska 74, building E に置く（一致語: CD Projekt）",
+        "confidence": 0.84,
+        "rule_id": "observed_cd_projekt_warsaw_specific_202607",
+        "matched_text": "CD Projekt",
+        "match_source": "known_place_title"
       }
     },
     {
@@ -886,6 +940,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          139.7467,
+          35.6996
+        ]
+      },
+      "properties": {
+        "title": "FromSoftware parent CEO keeps position following activist investors' disappointment in firm's handling of Elden Ring",
+        "source": "GamesIndustry.biz Latest Articles Feed",
+        "link": "https://www.gamesindustry.biz/fromsoftware-parent-ceo-keeps-position-following-activist-investors-disappointment-in-firms-handling-of-elden-ring",
+        "published_at": "2026-06-25T09:15:48+00:00",
+        "representative_place": "KADOKAWA / 2-13-3 Fujimi",
+        "place_label": "日本-東京都-千代田区-富士見2-13-3-KADOKAWA",
+        "sort_place_label": "日本-東京都-千代田区-富士見2-13-3-KADOKAWA",
+        "geocode_query": "東京都千代田区富士見2丁目13番3号 KADOKAWA",
+        "place_type": "parent_company_site",
+        "location_precision": "exact_site",
+        "place_reason": "FromSoftware parent CEO article anchored to KADOKAWA's Fujimi address. Kadokawa Corporation, Takeshi Natsuno, and Elden Ring standalone terms are not used as triggers.（一致語: FromSoftware parent CEO keeps position）",
+        "confidence": 0.8,
+        "rule_id": "observed_kadokawa_fromsoftware_tokyo_elden_ring_202606",
+        "matched_text": "FromSoftware parent CEO keeps position",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.1297,
           47.6401
         ]
@@ -940,35 +1021,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          113.9305,
-          22.5255
-        ]
-      },
-      "properties": {
-        "title": "Report: Tencent May Sell Its Stake in Several Japanese Studios",
-        "source": "Game World Observer",
-        "link": "https://gameworldobserver.com/2026/06/23/report-tencent-may-sell-its-stake-in-several-japanese-studios",
-        "published_at": "2026-06-23T13:48:35+00:00",
-        "representative_place": "Tencent Binhai Mansion / Japanese studio investments",
-        "place_label": "中国-広東省-深圳市-南山区-騰訊濱海大廈-Tencent",
-        "sort_place_label": "中国-広東省-深圳市-南山区-騰訊濱海大廈-Tencent",
-        "geocode_query": "Tencent Binhai Mansion Nanshan Shenzhen Guangdong China",
-        "place_type": "investor_company_site",
-        "location_precision": "building",
-        "place_reason": "Tencentの日本スタジオ投資記事を日本国代表点ではなく投資主体Tencentの深圳本社に置く（一致語: Tencent May Sell Its Stake in Several Japanese Studios）",
-        "confidence": 0.78,
-        "rule_id": "observed_tencent_japanese_studios_shenzhen_202607",
-        "matched_text": "Tencent May Sell Its Stake in Several Japanese Studios",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          113.9305,
-          22.5255
+          139.7497,
+          35.6094
         ]
       },
       "properties": {
@@ -976,15 +1030,15 @@
         "source": "GamesIndustry.biz Latest Articles Feed",
         "link": "https://www.gamesindustry.biz/report-tencent-plans-to-exit-investments-in-japanese-studios-like-story-of-seasons-developer-marvelous",
         "published_at": "2026-06-23T11:52:58+00:00",
-        "representative_place": "Tencent Binhai Mansion / Japanese studio investments",
-        "place_label": "中国-広東省-深圳市-南山区-騰訊濱海大廈-Tencent",
-        "sort_place_label": "中国-広東省-深圳市-南山区-騰訊濱海大廈-Tencent",
-        "geocode_query": "Tencent Binhai Mansion Nanshan Shenzhen Guangdong China",
-        "place_type": "investor_company_site",
+        "representative_place": "Marvelous Inc. / Shinagawa Seaside East Tower",
+        "place_label": "日本-東京都-品川区-東品川-品川シーサイドイーストタワー-Marvelous",
+        "sort_place_label": "日本-東京都-品川区-東品川-品川シーサイドイーストタワー-Marvelous",
+        "geocode_query": "東京都品川区東品川4丁目12番8号 品川シーサイドイーストタワー 株式会社マーベラス",
+        "place_type": "company_site",
         "location_precision": "building",
-        "place_reason": "Tencentの日本スタジオ投資記事を日本国代表点ではなく投資主体Tencentの深圳本社に置く（一致語: Japanese studios like Story of Seasons developer Marvelous）",
-        "confidence": 0.78,
-        "rule_id": "observed_tencent_japanese_studios_shenzhen_202607",
+        "place_reason": "Tencent投資撤退記事のうち、タイトルでStory of Seasons developer Marvelousが主語化されているものを、マーベラス公式サイトの会社概要に記載された品川シーサイドイーストタワーへ置く（一致語: Japanese studios like Story of Seasons developer Marvelous）",
+        "confidence": 0.84,
+        "rule_id": "observed_marvelous_story_of_seasons_shinagawa_202607",
         "matched_text": "Japanese studios like Story of Seasons developer Marvelous",
         "match_source": "known_place_title"
       }
@@ -1094,6 +1148,33 @@
         "confidence": 0.8,
         "rule_id": "observed_valve_steam_machine_pricing_bellevue_202606",
         "matched_text": "Valve's Steam Machine price",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0186,
+          52.2695
+        ]
+      },
+      "properties": {
+        "title": "CD Projekt joint-CEO says it's \"fair\" that the studio \"lost the faith\" of some of its audience after Cyberpunk 2077 launch",
+        "source": "GamesIndustry.biz Latest Articles Feed",
+        "link": "https://www.gamesindustry.biz/cd-projekt-joint-ceo-says-its-fair-that-the-studio-lost-the-faith-of-some-of-its-audience-after-cyberpunk-2077-launch",
+        "published_at": "2026-06-22T09:24:20+00:00",
+        "representative_place": "CD PROJEKT S.A. / ul. Jagiellońska 74 building E",
+        "place_label": "ポーランド-ワルシャワ-ul. Jagiellońska 74 building E-CD PROJEKT",
+        "sort_place_label": "ポーランド-ワルシャワ-ul. Jagiellońska 74 building E-CD PROJEKT",
+        "geocode_query": "ul. Jagiellońska 74 building E 03-301 Warszawa CD PROJEKT",
+        "place_type": "company_site",
+        "location_precision": "building",
+        "place_reason": "CD Projekt主体の記事なので、CD PROJEKT公式Contactに記載の ul. Jagiellońska 74, building E に置く（一致語: CD Projekt joint-CEO）",
+        "confidence": 0.84,
+        "rule_id": "observed_cd_projekt_warsaw_specific_202607",
+        "matched_text": "CD Projekt joint-CEO",
         "match_source": "known_place_title"
       }
     },
@@ -1229,33 +1310,6 @@
         "confidence": 0.82,
         "rule_id": "observed_xbox_corporate_pricing_and_studio_changes_202606",
         "matched_text": "Xbox intends to close several studios",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.1297,
-          47.6401
-        ]
-      },
-      "properties": {
-        "title": "Xbox is reportedly considering closing South of Midnight studio, Compulsion Games, with Double Fine and Ninja Theory also allegedly at risk",
-        "source": "GamesIndustry.biz Latest Articles Feed",
-        "link": "https://www.gamesindustry.biz/xbox-is-reportedly-considering-closing-south-of-midnight-studio-compulsion-games-with-double-fine-and-ninja-theory-also-allegedly-at-risk",
-        "published_at": "2026-06-15T21:00:01+00:00",
-        "representative_place": "Microsoft Gaming / multi-studio closure watch",
-        "place_label": "米国-ワシントン州-レドモンド-One Microsoft Way-Microsoft Gaming/Xbox再編観測",
-        "sort_place_label": "米国-ワシントン州-レドモンド-One Microsoft Way-Microsoft Gaming/Xbox再編観測",
-        "geocode_query": "One Microsoft Way Redmond Washington United States Microsoft Gaming Xbox",
-        "place_type": "platform_company_restructuring_topic",
-        "location_precision": "exact_site",
-        "place_reason": "Compulsion Games、Double Fine、Ninja Theoryをまとめて扱うXbox側の複数スタジオ閉鎖観測記事なので、Microsoft Gaming/Xbox側の再編トピックとして扱う。campus_address相当をexact_siteに正規化する（一致語: Xbox is reportedly considering closing South of Midnight studio, Compulsion Games, with Double Fine and Ninja Theory also allegedly at risk）",
-        "confidence": 0.78,
-        "rule_id": "observed_xbox_multi_studio_closure_watch_202606",
-        "matched_text": "Xbox is reportedly considering closing South of Midnight studio, Compulsion Games, with Double Fine and Ninja Theory also allegedly at risk",
         "match_source": "known_place_title"
       }
     },
@@ -1426,6 +1480,60 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -118.34,
+          34.1028
+        ]
+      },
+      "properties": {
+        "title": "All The Summer Game Fest Showcases You Can Catch Today - Engadget",
+        "source": "Engadget",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMWxuZFRtSTdwNk52bXAxLUlFMHBZc2ltQi0zTUFRSFljZVpGbTBIdTNIS2FVUlpLcnIyN29CcGZfdGhzdXVjYm1PWktFeVRxMWVweTl3TmtCWTg2dUV1cm5sQl9Sd1FWZ3h3Q1c5SWpTY2lZTkQ4OENlVzMyMlprbWswS01kR09OZTNUTTZvRTJkaUE?oc=5",
+        "published_at": "2026-06-06T07:00:00+00:00",
+        "representative_place": "Summer Game Fest 2026 / Dolby Theatre",
+        "place_label": "米国-カリフォルニア州-ロサンゼルス-Dolby Theatre-Summer Game Fest 2026",
+        "sort_place_label": "米国-カリフォルニア州-ロサンゼルス-Dolby Theatre-Summer Game Fest 2026",
+        "geocode_query": "Dolby Theatre 6801 Hollywood Blvd Los Angeles CA Summer Game Fest 2026",
+        "place_type": "event_site",
+        "location_precision": "event_site",
+        "place_reason": "Summer Game Fest 2026 showcase article anchored to the confirmed Dolby Theatre event venue. Inglewood city and generic showcase terms are not used.（一致語: All The Summer Game Fest Showcases You Can Catch Today）",
+        "confidence": 0.82,
+        "rule_id": "observed_summer_game_fest_2026_showcases_inglewood",
+        "matched_text": "All The Summer Game Fest Showcases You Can Catch Today",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.34,
+          34.1028
+        ]
+      },
+      "properties": {
+        "title": "Summer Game Fest 2026で発表されるタイトルの予告をひとまとめ。「スター・ウォーズ」新作ターン制ストラテジーや『Forza』元開発者のオープンワールドレースなど登場 - Game*Spark",
+        "source": "Game*Spark",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBPX1RnakwzSWg1aEtEMTNCS0x3YmpHUnRVSXFDQzBKMEF1Vy00UXZKbWU0MTQ0ZW45d2JTRnVkTVRQVzRIYkR0Mm9GQ1M1QVJ2VVVVcFFRYzZaakRPY0tHeGMtWFNrZw?oc=5",
+        "published_at": "2026-06-05T07:00:00+00:00",
+        "representative_place": "Summer Game Fest 2026 / Dolby Theatre",
+        "place_label": "米国-カリフォルニア州-ロサンゼルス-Dolby Theatre-Summer Game Fest 2026",
+        "sort_place_label": "米国-カリフォルニア州-ロサンゼルス-Dolby Theatre-Summer Game Fest 2026",
+        "geocode_query": "Dolby Theatre 6801 Hollywood Blvd Los Angeles CA Summer Game Fest 2026",
+        "place_type": "event_site",
+        "location_precision": "event_site",
+        "place_reason": "Summer Game Fest 2026 showcase article anchored to the confirmed Dolby Theatre event venue. Inglewood city and generic showcase terms are not used.（一致語: Summer Game Fest 2026）",
+        "confidence": 0.82,
+        "rule_id": "observed_summer_game_fest_2026_showcases_inglewood",
+        "matched_text": "Summer Game Fest 2026",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           28.9784,
           41.0082
         ]
@@ -1561,6 +1669,60 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          139.7279,
+          35.6179
+        ]
+      },
+      "properties": {
+        "title": "ゲームクリエイターが生み出す作品を、世界へ。ドリコム発インディーゲームスタジオ『DRECOM CREATORS STUDIO』始動！ - PR TIMES",
+        "source": "PR TIMES",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE16Vlg5R2lGRGRqUjliQnB6QTMtZHZZeHdTSm9KbWpRTGNtWUhmc1BXMVhld3NLZG1mUkg1SWJoQ191X21UZjdRQ2lVN3VRVFYxSENvRGpFYTFJRnRoUmhpMC1ienpkQktLRkE?oc=5",
+        "published_at": "2026-05-14T07:00:00+00:00",
+        "representative_place": "Drecom / ThinkPark Tower 19F",
+        "place_label": "Japan-Tokyo-Shinagawa-Osaki-ThinkPark Tower 19F-Drecom",
+        "sort_place_label": "Japan-Tokyo-Shinagawa-Osaki-ThinkPark Tower 19F-Drecom",
+        "geocode_query": "2-1-1 Osaki Shinagawa Tokyo ThinkPark Tower 19F Drecom",
+        "place_type": "company_site",
+        "location_precision": "building",
+        "place_reason": "Drecom-related article anchored to the official headquarters at ThinkPark Tower 19F（一致語: DRECOM CREATORS STUDIO）",
+        "confidence": 0.88,
+        "rule_id": "observed_drecom_thinkpark_202607",
+        "matched_text": "DRECOM CREATORS STUDIO",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7279,
+          35.6179
+        ]
+      },
+      "properties": {
+        "title": "ドリコムのインディーゲームスタジオ「DRECOM CREATORS STUDIO」設立。個人・小規模開発ゲームを包括サポート、世界に広げる - AUTOMATON",
+        "source": "AUTOMATON",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xV1BSTWxUdlJrREJvRDhjOHdpZzZqLVY4LXJfTTd1QkRnNVZQbElfQWo0TllFUjJ4dGRGbkMwSk43TENqbHRCaWhYVE1MRVJVQ0Z4WENUb0RaWDJuWk5jRHc1M2JyUk5oQUZJcw?oc=5",
+        "published_at": "2026-05-14T07:00:00+00:00",
+        "representative_place": "Drecom / ThinkPark Tower 19F",
+        "place_label": "Japan-Tokyo-Shinagawa-Osaki-ThinkPark Tower 19F-Drecom",
+        "sort_place_label": "Japan-Tokyo-Shinagawa-Osaki-ThinkPark Tower 19F-Drecom",
+        "geocode_query": "2-1-1 Osaki Shinagawa Tokyo ThinkPark Tower 19F Drecom",
+        "place_type": "company_site",
+        "location_precision": "building",
+        "place_reason": "Drecom-related article anchored to the official headquarters at ThinkPark Tower 19F（一致語: DRECOM CREATORS STUDIO）",
+        "confidence": 0.88,
+        "rule_id": "observed_drecom_thinkpark_202607",
+        "matched_text": "DRECOM CREATORS STUDIO",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           28.9784,
           41.0082
         ]
@@ -1615,6 +1777,168 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          21.0186,
+          52.2695
+        ]
+      },
+      "properties": {
+        "title": "The second-best year in CD PROJEKT’s history — and more from the company’s report",
+        "source": "Game World Observer",
+        "link": "https://gameworldobserver.com/2026/03/20/the-second-best-year-in-cd-projekts-history-and-more-from-the-companys-report",
+        "published_at": "2026-03-20T12:32:15+00:00",
+        "representative_place": "CD PROJEKT S.A. / ul. Jagiellońska 74 building E",
+        "place_label": "ポーランド-ワルシャワ-ul. Jagiellońska 74 building E-CD PROJEKT",
+        "sort_place_label": "ポーランド-ワルシャワ-ul. Jagiellońska 74 building E-CD PROJEKT",
+        "geocode_query": "ul. Jagiellońska 74 building E 03-301 Warszawa CD PROJEKT",
+        "place_type": "company_site",
+        "location_precision": "building",
+        "place_reason": "CD Projekt主体の記事なので、CD PROJEKT公式Contactに記載の ul. Jagiellońska 74, building E に置く（一致語: CD Projekt）",
+        "confidence": 0.84,
+        "rule_id": "observed_cd_projekt_warsaw_specific_202607",
+        "matched_text": "CD Projekt",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.9637,
+          37.3699
+        ]
+      },
+      "properties": {
+        "title": "NVIDIA introduced DLSS 5 with photorealistic AI graphics — the technology did not appeal to everyone",
+        "source": "Game World Observer",
+        "link": "https://gameworldobserver.com/2026/03/17/nvidia-introduced-dlss-5-with-photorealistic-ai-graphics-the-technology-did-not-appeal-to-everyone",
+        "published_at": "2026-03-17T14:04:09+00:00",
+        "representative_place": "NVIDIA / 2788 San Tomas Expressway",
+        "place_label": "USA-California-Santa Clara-2788 San Tomas Expressway-NVIDIA",
+        "sort_place_label": "USA-California-Santa Clara-2788 San Tomas Expressway-NVIDIA",
+        "geocode_query": "2788 San Tomas Expressway Santa Clara CA NVIDIA",
+        "place_type": "technology_company_site",
+        "location_precision": "exact_site",
+        "place_reason": "NVIDIA DLSS 5 article anchored to the Santa Clara headquarters address. The standalone company name is not used as a trigger.（一致語: DLSS 5）",
+        "confidence": 0.8,
+        "rule_id": "observed_nvidia_santa_clara_dlss5_202603",
+        "matched_text": "DLSS 5",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.9637,
+          37.3699
+        ]
+      },
+      "properties": {
+        "title": "NVIDIA introduces DLSS 5 for better game graphics - YugaTech",
+        "source": "YugaTech",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdXgyRnlsdlRSQ09tS0RiX3FrUXUxOVBxdWJjOHMzSUlScXVONEMzLWRfZVRTZ1hwNVpUQ2tXd1pDY3BpSUtmWkpSREhYZDRFM0lUN2tKMTF2eDMxMGNrZUtuUGN1TTVLWlZTaTlKSl9pZ1ZuRXEwOFZIc0tiWGdRTEdZVGNDdXlRNnA5cS1JekpucWU0NWMwSDhR?oc=5",
+        "published_at": "2026-03-17T07:00:00+00:00",
+        "representative_place": "NVIDIA / 2788 San Tomas Expressway",
+        "place_label": "USA-California-Santa Clara-2788 San Tomas Expressway-NVIDIA",
+        "sort_place_label": "USA-California-Santa Clara-2788 San Tomas Expressway-NVIDIA",
+        "geocode_query": "2788 San Tomas Expressway Santa Clara CA NVIDIA",
+        "place_type": "technology_company_site",
+        "location_precision": "exact_site",
+        "place_reason": "NVIDIA DLSS 5 article anchored to the Santa Clara headquarters address. The standalone company name is not used as a trigger.（一致語: NVIDIA introduces DLSS 5）",
+        "confidence": 0.8,
+        "rule_id": "observed_nvidia_santa_clara_dlss5_202603",
+        "matched_text": "NVIDIA introduces DLSS 5",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.417,
+          48.8422
+        ]
+      },
+      "properties": {
+        "title": "Ubisoft Report: Rise in PC Sales and the Success of Assassin’s Creed",
+        "source": "Game World Observer",
+        "link": "https://gameworldobserver.com/2026/02/13/ubisoft-report-rise-in-pc-sales-and-the-success-of-assassins-creed",
+        "published_at": "2026-02-13T06:45:45+00:00",
+        "representative_place": "Ubisoft / Saint-Mandé headquarters",
+        "place_label": "フランス-Saint-Mandé-Floresco-Ubisoft",
+        "sort_place_label": "フランス-Saint-Mandé-Floresco-Ubisoft",
+        "geocode_query": "Floresco Saint-Mandé Ubisoft headquarters France",
+        "place_type": "company_site",
+        "location_precision": "building",
+        "place_reason": "Ubisoft四半期レポート記事を、Saint-MandéのUbisoft本社建物文脈に置く。Ubisoft単独語やAssassin’s Creed単独語は使わない（一致語: Ubisoft Report: Rise in PC Sales）",
+        "confidence": 0.78,
+        "rule_id": "observed_ubisoft_saint_mande_report_202602",
+        "matched_text": "Ubisoft Report: Rise in PC Sales",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.417,
+          48.8422
+        ]
+      },
+      "properties": {
+        "title": "Embracer Group’s quarterly revenue fell by 26%, but the holding company remains satisfied",
+        "source": "Game World Observer",
+        "link": "https://gameworldobserver.com/2026/02/12/embracer-groups-quarterly-revenue-fell-by-26-but-the-holding-company-remains-satisfied",
+        "published_at": "2026-02-12T08:18:42+00:00",
+        "representative_place": "Ubisoft / Saint-Mandé headquarters",
+        "place_label": "フランス-Saint-Mandé-Floresco-Ubisoft",
+        "sort_place_label": "フランス-Saint-Mandé-Floresco-Ubisoft",
+        "geocode_query": "Floresco Saint-Mandé Ubisoft headquarters France",
+        "place_type": "company_site",
+        "location_precision": "building",
+        "place_reason": "Ubisoft四半期レポート記事を、Saint-MandéのUbisoft本社建物文脈に置く。Ubisoft単独語やAssassin’s Creed単独語は使わない",
+        "confidence": 0.78,
+        "rule_id": "observed_ubisoft_saint_mande_report_202602",
+        "matched_text": "third quarter",
+        "match_source": "rule"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.9214,
+          60.1587
+        ]
+      },
+      "properties": {
+        "title": "Supercell’s CEO on the results of 2025: “It was almost a record year”",
+        "source": "Game World Observer",
+        "link": "https://gameworldobserver.com/2026/02/10/supercells-ceo-on-the-results-of-2025-it-was-almost-a-record-year",
+        "published_at": "2026-02-10T14:44:56+00:00",
+        "representative_place": "Supercell / Jätkäsaarenlaituri 1",
+        "place_label": "フィンランド-ヘルシンキ-Jätkäsaarenlaituri 1-Supercell",
+        "sort_place_label": "フィンランド-ヘルシンキ-Jätkäsaarenlaituri 1-Supercell",
+        "geocode_query": "Jätkäsaarenlaituri 1 Helsinki Supercell",
+        "place_type": "company_site",
+        "location_precision": "building",
+        "place_reason": "Supercell CEOによる2025年業績記事だけを、Supercell本社ビル Jätkäsaarenlaituri 1 に置く。後続ファイルでHelsinki cityへ戻らないよう、121.jsonのpoint-level修正と同じ内容に揃える（一致語: Supercell’s CEO on the results of 2025）",
+        "confidence": 0.82,
+        "rule_id": "observed_supercell_helsinki_results_202602",
+        "matched_text": "Supercell’s CEO on the results of 2025",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -73.9829,
           40.7564
         ]
@@ -1642,6 +1966,168 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          135.7562,
+          34.9697
+        ]
+      },
+      "properties": {
+        "title": "Nintendo Report: Revenue Doubled, Switch 2 Sales Surpass 17 Million Units",
+        "source": "Game World Observer",
+        "link": "https://gameworldobserver.com/2026/02/03/nintendo-report-revenue-doubled-switch-2-sales-surpass-17-million-units",
+        "published_at": "2026-02-03T08:33:29+00:00",
+        "representative_place": "Nintendo Co., Ltd. / 11-1 Hokotate-cho",
+        "place_label": "日本-京都市-南区-上鳥羽鉾立町11-1-任天堂",
+        "sort_place_label": "日本-京都市-南区-上鳥羽鉾立町11-1-任天堂",
+        "geocode_query": "11-1 Hokotate-cho Kamitoba Minami-ku Kyoto Nintendo headquarters",
+        "place_type": "company_site",
+        "location_precision": "exact_site",
+        "place_reason": "Nintendo financial report article anchored to the Kyoto headquarters address. Nintendo, Nintendo Report, and generic financial-period terms are not used as standalone triggers.（一致語: Nintendo Report: Revenue Doubled）",
+        "confidence": 0.82,
+        "rule_id": "observed_nintendo_kyoto_financial_report_202602",
+        "matched_text": "Nintendo Report: Revenue Doubled",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.035,
+          35.647
+        ]
+      },
+      "properties": {
+        "title": "Tokyo Game Show 2025 Exhibitors List Released - VGChartz",
+        "source": "VGChartz",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObjhfbC02NTBBTk5WdlB0akpDTTFGem9jc3B6SzBwOHRoNlRhWGtwXzZMbkhncEx0VUNHUWstYkc3T2pMWXd2U2JheWhIbElTOUxQdnJfNEF4Q1RrLVhLQ24wd0hkUFF4a05nWmlhc3laVFp1RDRGYUk2akQ1RzA1SjRMZXJGS1dXVDVPb0RUdw?oc=5",
+        "published_at": "2025-07-08T07:00:00+00:00",
+        "representative_place": "Tokyo Game Show 2025 / Makuhari Messe",
+        "place_label": "日本-千葉県-千葉市-幕張メッセ-Tokyo Game Show 2025",
+        "sort_place_label": "日本-千葉県-千葉市-幕張メッセ-Tokyo Game Show 2025",
+        "geocode_query": "Makuhari Messe Chiba Tokyo Game Show 2025",
+        "place_type": "event_site",
+        "location_precision": "venue",
+        "place_reason": "東京ゲームショウ2025の出展・スポンサー記事を、都市代表点ではなく幕張メッセ会場に置く（一致語: Tokyo Game Show 2025 Exhibitors List）",
+        "confidence": 0.86,
+        "rule_id": "observed_tokyo_game_show_2025_makuhari_messe",
+        "matched_text": "Tokyo Game Show 2025 Exhibitors List",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.3392,
+          33.9535
+        ]
+      },
+      "properties": {
+        "title": "Summer Game Fest 2025 schedule, announcements, new games and everything else to expect - Engadget",
+        "source": "Engadget",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNN2owa1VpQ21oNTlZdGRjc1hsR01odTZ3NVMwdUVLLXloRW5xT3gzWi04c1N3MTZiNUcyZjRUejN4REo1OEh2VmlOcnJqYXJFQTNLQzZuQUpMS3FHZG5YU1huaDRWN3phdWtpRGk2cEEycFpPRktBVGtRckwxRDctdWpmUjg1QWVJSWdtVEMxWjRzdWs3My05bTR1bHVYeVpUQjRzLVVLR3NCSU5RQXpDc0l2a2pWenpHNTh2R09WUDJGdXpOU2Q2QmhsRQ?oc=5",
+        "published_at": "2025-06-05T07:00:00+00:00",
+        "representative_place": "Summer Game Fest 2025 / YouTube Theater",
+        "place_label": "米国-カリフォルニア州-イングルウッド-YouTube Theater-Summer Game Fest 2025",
+        "sort_place_label": "米国-カリフォルニア州-イングルウッド-YouTube Theater-Summer Game Fest 2025",
+        "geocode_query": "YouTube Theater Inglewood California Summer Game Fest 2025",
+        "place_type": "event_site",
+        "location_precision": "venue",
+        "place_reason": "Summer Game Fest 2025自体のスケジュール・開催記事だけをYouTube Theater会場に置く。年なしのSummer Game Fest単独語やnew games / announcementsの汎用語は他記事を吸うため使わない（一致語: Summer Game Fest 2025 schedule）",
+        "confidence": 0.82,
+        "rule_id": "observed_summer_game_fest_2025_inglewood",
+        "matched_text": "Summer Game Fest 2025 schedule",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.3392,
+          33.9535
+        ]
+      },
+      "properties": {
+        "title": "Summer Game Fest 2025 guide and schedule - Epic Games",
+        "source": "Epic Games",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTTluR2V5YlJCdkhMeVZMVGh1RmVVamMyMUVBTW1VZWlUNjJ4QW9SeVF2RDN6NVNJSWh1aEFZclliQlh0LUZpdE91WF9ldi1yemNBd1BBS3RwV0J1RGUwMWRuNjZFeU9YSVBPUlJwa2Vaa1NJZ3dmZGRFdnkxcTFzeGJfR1Z4aEdfZU9iR2ZSdWdIMjlwM3c?oc=5",
+        "published_at": "2025-06-02T07:00:00+00:00",
+        "representative_place": "Summer Game Fest 2025 / YouTube Theater",
+        "place_label": "米国-カリフォルニア州-イングルウッド-YouTube Theater-Summer Game Fest 2025",
+        "sort_place_label": "米国-カリフォルニア州-イングルウッド-YouTube Theater-Summer Game Fest 2025",
+        "geocode_query": "YouTube Theater Inglewood California Summer Game Fest 2025",
+        "place_type": "event_site",
+        "location_precision": "venue",
+        "place_reason": "Summer Game Fest 2025自体のスケジュール・開催記事だけをYouTube Theater会場に置く。年なしのSummer Game Fest単独語やnew games / announcementsの汎用語は他記事を吸うため使わない（一致語: Summer Game Fest 2025）",
+        "confidence": 0.82,
+        "rule_id": "observed_summer_game_fest_2025_inglewood",
+        "matched_text": "Summer Game Fest 2025",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.035,
+          35.647
+        ]
+      },
+      "properties": {
+        "title": "「東京ゲームショウ2025」 「SELECTED INDIE 80」のスポンサーが決定 - 電波タイムズ",
+        "source": "電波タイムズ",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Hb3o3MVZjVWNiMkJRNzRvcGRjSEM5bjk0MEQ4LWt6bFpZZ0lxeVFjWGEyelJxaFZDS1gzU3N3TGVidmx3YUNSZ0JZYVRzWXRGTkw3S19laVhKblZmUlpvMHl6V0k?oc=5",
+        "published_at": "2025-05-07T07:00:00+00:00",
+        "representative_place": "Tokyo Game Show 2025 / Makuhari Messe",
+        "place_label": "日本-千葉県-千葉市-幕張メッセ-Tokyo Game Show 2025",
+        "sort_place_label": "日本-千葉県-千葉市-幕張メッセ-Tokyo Game Show 2025",
+        "geocode_query": "Makuhari Messe Chiba Tokyo Game Show 2025",
+        "place_type": "event_site",
+        "location_precision": "venue",
+        "place_reason": "東京ゲームショウ2025の出展・スポンサー記事を、都市代表点ではなく幕張メッセ会場に置く（一致語: SELECTED INDIE 80）",
+        "confidence": 0.86,
+        "rule_id": "observed_tokyo_game_show_2025_makuhari_messe",
+        "matched_text": "SELECTED INDIE 80",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0186,
+          52.2695
+        ]
+      },
+      "properties": {
+        "title": "中世舞台の4XストラテジーRPG新作『Liegecraft』発表！CD PROJEKT RED、Paradox、11 bit出身者からなる新興スタジオ開発 - Game*Spark",
+        "source": "Game*Spark",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9qajladGxGTl9Ja2dQbGNJanJualRCUHpIR3RCQ1VPQzM3cm1ad1NEUUdIUkdidjl2OE9jd2FZWFZZWGFjRi1rMzdVc29Lci02N2toblFPeGhXa0lnQXVNVF9FY0lMdw?oc=5",
+        "published_at": "2024-10-25T07:00:00+00:00",
+        "representative_place": "CD PROJEKT S.A. / ul. Jagiellońska 74 building E",
+        "place_label": "ポーランド-ワルシャワ-ul. Jagiellońska 74 building E-CD PROJEKT",
+        "sort_place_label": "ポーランド-ワルシャワ-ul. Jagiellońska 74 building E-CD PROJEKT",
+        "geocode_query": "ul. Jagiellońska 74 building E 03-301 Warszawa CD PROJEKT",
+        "place_type": "company_site",
+        "location_precision": "building",
+        "place_reason": "CD Projekt主体の記事なので、CD PROJEKT公式Contactに記載の ul. Jagiellońska 74, building E に置く（一致語: CD Projekt）",
+        "confidence": 0.84,
+        "rule_id": "observed_cd_projekt_warsaw_specific_202607",
+        "matched_text": "CD Projekt",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           139.6132,
           35.4655
         ]
@@ -1661,6 +2147,33 @@
         "confidence": 0.86,
         "rule_id": "observed_topanga_varrel_yokohama_202606",
         "matched_text": "TOPANGA",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0186,
+          52.2695
+        ]
+      },
+      "properties": {
+        "title": "Poland’s CD Projekt beats out Ubisoft to become Europe’s most valuable gaming company - Emerging Europe",
+        "source": "Emerging Europe",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRzNBUFc2bFVVQl95U2JxTEpRMktJY3EwbnpvUGRGa1hqUk1CVUk5TFZTS2xVSV90a3B5NEVWZWxERWFLS0Q2UW5oSGxvSWxxRUE3WU5MNkcyWkRZbHNHSFU4eXh3SFoyUkwyMkJ0OGxGeE1pQ05WaGNyNFhCUFVIZWItZDB1dzZlZC1xaWM4THlfZ3QwUUd4V25RTkEzOThpVU91UUFCVVJnd0ExVkhTRmpB?oc=5",
+        "published_at": "2020-05-21T07:00:00+00:00",
+        "representative_place": "CD PROJEKT S.A. / ul. Jagiellońska 74 building E",
+        "place_label": "ポーランド-ワルシャワ-ul. Jagiellońska 74 building E-CD PROJEKT",
+        "sort_place_label": "ポーランド-ワルシャワ-ul. Jagiellońska 74 building E-CD PROJEKT",
+        "geocode_query": "ul. Jagiellońska 74 building E 03-301 Warszawa CD PROJEKT",
+        "place_type": "company_site",
+        "location_precision": "building",
+        "place_reason": "CD Projekt主体の記事なので、CD PROJEKT公式Contactに記載の ul. Jagiellońska 74, building E に置く（一致語: CD Projekt）",
+        "confidence": 0.84,
+        "rule_id": "observed_cd_projekt_warsaw_specific_202607",
+        "matched_text": "CD Projekt",
         "match_source": "known_place_title"
       }
     }
