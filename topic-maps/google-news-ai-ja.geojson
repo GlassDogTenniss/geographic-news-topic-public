@@ -1,8 +1,8 @@
 {
   "type": "FeatureCollection",
   "properties": {
-    "created_at": "2026-07-01T03:19:55.363820+00:00",
-    "count": 17,
+    "created_at": "2026-07-01T13:41:38.443572+00:00",
+    "count": 14,
     "stats": {
       "feed_id": "google-news-ai-ja",
       "feed_label": "Google News: AI / 生成AI",
@@ -15,10 +15,10 @@
         "https://news.google.com/rss/search?q=AI%20%E7%94%9F%E6%88%90AI%20OpenAI&hl=ja&gl=JP&ceid=JP:ja": 100
       },
       "filtered": 100,
-      "resolved": 17,
-      "unresolved": 83,
-      "rules": 498,
-      "known_places": 500,
+      "resolved": 14,
+      "unresolved": 86,
+      "rules": 496,
+      "known_places": 498,
       "loaded_data_files": [
         "data/place_rules.json",
         "data/unresolved_known_places.json",
@@ -242,33 +242,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          138.2529,
-          36.2048
-        ]
-      },
-      "properties": {
-        "title": "ChatGPTの「画像生成」、どう進化？ 開発者に聞く “文字化け解消”の秘訣（1/2 ページ） - ITmedia",
-        "source": "ITmedia",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNOGpHOTZUY0ZYeVhfSGR6OHlrNlVJNFB4QXBHQzFHbWItT3p3Vm55U1Q2eU9VOUtXUzM1cEZoVTMxbk1nbVVVb3hUWng2bE00YXcyblp0UXRVMzJFbUdSWklWVFp3M053SVFKVQ?oc=5",
-        "published_at": "2026-05-01T07:00:00+00:00",
-        "representative_place": "Japan indie game announcement fallback topic",
-        "place_label": "日本-インディーゲーム新作発表",
-        "sort_place_label": "日本-インディーゲーム新作発表",
-        "geocode_query": "Japan indie game developer announcement",
-        "place_type": "indie_studio_topic",
-        "location_precision": "country",
-        "place_reason": "日本語RSSに出るインディーゲーム開発者・新作発表記事で個別都市が確認できないものを、日本のインディーゲーム発表トピックとして扱う（一致語: 開発者）",
-        "confidence": 0.46,
-        "rule_id": "observed_japan_indie_game_announcement_fallback_202511",
-        "matched_text": "開発者",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           0.0,
           20.0
         ]
@@ -450,60 +423,6 @@
         "confidence": 0.4,
         "rule_id": "observed_european_game_review_fallback_202504",
         "matched_text": "Review",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          20.0
-        ]
-      },
-      "properties": {
-        "title": "OpenAI、「GPT-5.3-Codex」を正式発表、コーディングAIモデルで自己進化 - ビジネス+IT",
-        "source": "ビジネス+IT",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnN2pReWtoSGNIaWhpSXFHNks1Y21BRU9PbTNpb05OWEdaMXpTYlRUMS1laGF0ZlJwVnI3dXA3SmEtUy01Z193Z0dBTGZjazZacktn?oc=5",
-        "published_at": "2026-02-06T08:00:00+00:00",
-        "representative_place": "Japan-origin overseas launch fallback topic",
-        "place_label": "複数地域-日本発ゲーム海外展開発表",
-        "sort_place_label": "複数地域-日本発ゲーム海外展開発表",
-        "geocode_query": "Japan-origin game overseas launch MMORPG announcement",
-        "place_type": "launch_market_region",
-        "location_precision": "multi_region",
-        "place_reason": "日本発ゲームの海外向け正式発表記事を、国内会社住所ではなく複数地域の海外展開トピックとして低優先で扱う（一致語: 正式発表）",
-        "confidence": 0.44,
-        "rule_id": "observed_japan_overseas_launch_fallback_202505",
-        "matched_text": "正式発表",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          95.0,
-          25.0
-        ]
-      },
-      "properties": {
-        "title": "「GPUが溶けている」 OpenAIの動画生成AI責任者が警告、新たな制限を導入 - Forbes JAPAN",
-        "source": "Forbes JAPAN",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1YTEJ6MHBGV1dvejhOLXNSRlBibzJUSnZHcS1LcG9lTmRqaDNKNzBzamxoVHhDWlRic1oyZEZDRVVfSno5M2ctUm1iWVFhQXhzOVEtbGl3U04?oc=5",
-        "published_at": "2025-12-01T08:00:00+00:00",
-        "representative_place": "Asia game-origin culture fallback topic",
-        "place_label": "アジア-ゲーム作品起源・地域文化記事",
-        "sort_place_label": "アジア-ゲーム作品起源・地域文化記事",
-        "geocode_query": "Asia game origin culture regional games",
-        "place_type": "game_culture_region",
-        "location_precision": "region",
-        "place_reason": "アジア各地のゲーム作品起源・地域文化を扱う記事で単一国や会社に固定できないものを、地域文化トピックとして低優先で扱う（一致語: Japan）",
-        "confidence": 0.36,
-        "rule_id": "observed_asia_game_origin_culture_fallback_202505",
-        "matched_text": "Japan",
         "match_source": "known_place_title"
       }
     }
