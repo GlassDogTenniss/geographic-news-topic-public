@@ -1,8 +1,8 @@
 {
   "type": "FeatureCollection",
   "properties": {
-    "created_at": "2026-07-01T13:51:48.163513+00:00",
-    "count": 5,
+    "created_at": "2026-07-01T14:22:42.770282+00:00",
+    "count": 0,
     "stats": {
       "feed_id": "google-news-ai-ja",
       "feed_label": "Google News: AI / 生成AI",
@@ -15,10 +15,10 @@
         "https://news.google.com/rss/search?q=AI%20%E7%94%9F%E6%88%90AI%20OpenAI&hl=ja&gl=JP&ceid=JP:ja": 100
       },
       "filtered": 100,
-      "resolved": 5,
-      "unresolved": 95,
-      "rules": 216,
-      "known_places": 216,
+      "resolved": 0,
+      "unresolved": 100,
+      "rules": 45,
+      "known_places": 42,
       "loaded_data_files": [
         "data/place_rules.json",
         "data/unresolved_known_places.json",
@@ -47,141 +47,5 @@
       "exclude_keywords": []
     }
   },
-  "features": [
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.1215,
-          47.674
-        ]
-      },
-      "properties": {
-        "title": "Azure OpenAI を採用し、生成 AI 活用の全社展開を推進――内製化に舵を切り、業務部門とIT部門が一体となってミドルアップダウンで進める大塚製薬工場のデジタル戦略とは - Microsoft",
-        "source": "Microsoft",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOM0FxdGh0Z21wbGkwczNtb1JRR2EwX3haYzM3ODVIMnh5aTZscVo1aFROdkFuZm43QzdyU2ZNckZxT2dCUVduaE5xMVM0V01TeVJwX1hwQkYwcFlpRmd0cXVJbDJiMTB5RzU2M2wwbjBGY1o2ZkVUcTJZZTAxR2xJX2NnYkVYRVNHN3c2WXFra1BadWtuemk5azRRRUM0RGR3MzJMcm1kei11c1pLMFJCWTdpXzI?oc=5",
-        "published_at": "2026-06-30T06:09:48+00:00",
-        "representative_place": "Microsoft / Xbox Series X event topic",
-        "place_label": "米国-Redmond-Microsoft / Xbox Series X event",
-        "sort_place_label": "米国-Redmond-Microsoft / Xbox Series X event",
-        "geocode_query": "Microsoft Xbox Redmond Washington",
-        "place_type": "company_event_city",
-        "location_precision": "city",
-        "place_reason": "MicrosoftのXbox Series X発表記事なので、Xbox/Microsoft本拠地のRedmondに置く",
-        "confidence": 0.72,
-        "rule_id": "observed_xbox_series_x_event_redmond_202007",
-        "matched_text": "Microsoft",
-        "match_source": "rule"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.9552,
-          37.3541
-        ]
-      },
-      "properties": {
-        "title": "元OpenAI研究者のAIヘッジファンド「AGI逆張り投資」でNVIDIAを巨額ショート - ビジネス+IT",
-        "source": "ビジネス+IT",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9JbDZDbzhPbmJXN0Fad0RXWHlMQVA2U2Zlb2owM05CaW8tV3poSW5Ra2pyS2xJY0xfcGcxcTlMNXlrc2RGeWdoN2JRQklGTm8?oc=5",
-        "published_at": "2026-05-19T07:00:00+00:00",
-        "representative_place": "NVIDIA / Santa Clara DLSS topic",
-        "place_label": "米国-Santa Clara-NVIDIA / DLSS",
-        "sort_place_label": "米国-Santa Clara-NVIDIA / DLSS",
-        "geocode_query": "NVIDIA Santa Clara California headquarters",
-        "place_type": "technology_company_city",
-        "location_precision": "city",
-        "place_reason": "NVIDIAのゲーム向けDLSS記事なので、同社本拠地のSanta Claraに置く（一致語: NVIDIA）",
-        "confidence": 0.68,
-        "rule_id": "observed_nvidia_santa_clara_dlss5_202603",
-        "matched_text": "NVIDIA",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.1215,
-          47.674
-        ]
-      },
-      "properties": {
-        "title": "OpenAIとMicrosoft、独占契約を終了、他社でも提供可能に AmazonやGoogleなど、他社のクラウド基盤でも提供可能に - ビジネス+IT",
-        "source": "ビジネス+IT",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9lZTZjaFp0TzFUQndRbl9DU2JJOEJ6WDJJYVNOVlFPTkt3VmpvSEFaUDRUd0pfOUdNUms2NU1XcnhKSEdjX0xtMlFKdmRfc2t4ZW5F?oc=5",
-        "published_at": "2026-04-28T07:00:00+00:00",
-        "representative_place": "Microsoft / Xbox Series X event topic",
-        "place_label": "米国-Redmond-Microsoft / Xbox Series X event",
-        "sort_place_label": "米国-Redmond-Microsoft / Xbox Series X event",
-        "geocode_query": "Microsoft Xbox Redmond Washington",
-        "place_type": "company_event_city",
-        "location_precision": "city",
-        "place_reason": "MicrosoftのXbox Series X発表記事なので、Xbox/Microsoft本拠地のRedmondに置く",
-        "confidence": 0.72,
-        "rule_id": "observed_xbox_series_x_event_redmond_202007",
-        "matched_text": "Microsoft",
-        "match_source": "rule"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.1215,
-          47.674
-        ]
-      },
-      "properties": {
-        "title": "【AIエージェント戦争①】Microsoft、Google、OpenAIが同時に動いた理由 - 株式会社エクサウィザーズ",
-        "source": "株式会社エクサウィザーズ",
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8yNEs4LVN0cWdfUXlXVGxPVU50NU1tTHBOLUQtT1ZUNGpiQ3R6bmcwZWczWmJTYWFHVGhocDlwWXUyY0UyVzZDaVlseGlHV0JWMllfRlh1VGVkMEVFYjRxbnlhbHc?oc=5",
-        "published_at": "2026-04-27T07:00:00+00:00",
-        "representative_place": "Microsoft / Xbox Series X event topic",
-        "place_label": "米国-Redmond-Microsoft / Xbox Series X event",
-        "sort_place_label": "米国-Redmond-Microsoft / Xbox Series X event",
-        "geocode_query": "Microsoft Xbox Redmond Washington",
-        "place_type": "company_event_city",
-        "location_precision": "city",
-        "place_reason": "MicrosoftのXbox Series X発表記事なので、Xbox/Microsoft本拠地のRedmondに置く",
-        "confidence": 0.72,
-        "rule_id": "observed_xbox_series_x_event_redmond_202007",
-        "matched_text": "Microsoft",
-        "match_source": "rule"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.1215,
-          47.674
-        ]
-      },
-      "properties": {
-        "title": "システムインテグレーターとして豊富な実績を持つ ミツイワ、安心・安全に活用できる生成 AI サービス MAKOTO を Azure OpenAI Service で構築 - Microsoft",
-        "source": "Microsoft",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4tVjg4TWhpODcxTjZRUjhKV0ttb1BycGpMUDdEckw0SHlXSG1OQW9FSk9MSmw5dnF1RUNwVnNKVEZhcDAyQUQzdXl6Y2l4QTVoanZBS19yUERycGNOTWlGWHJFY3ZzV2lxZElr?oc=5",
-        "published_at": "2026-04-10T12:30:38+00:00",
-        "representative_place": "Microsoft / Xbox Series X event topic",
-        "place_label": "米国-Redmond-Microsoft / Xbox Series X event",
-        "sort_place_label": "米国-Redmond-Microsoft / Xbox Series X event",
-        "geocode_query": "Microsoft Xbox Redmond Washington",
-        "place_type": "company_event_city",
-        "location_precision": "city",
-        "place_reason": "MicrosoftのXbox Series X発表記事なので、Xbox/Microsoft本拠地のRedmondに置く",
-        "confidence": 0.72,
-        "rule_id": "observed_xbox_series_x_event_redmond_202007",
-        "matched_text": "Microsoft",
-        "match_source": "rule"
-      }
-    }
-  ]
+  "features": []
 }

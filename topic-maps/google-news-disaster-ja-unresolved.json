@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "created_at": "2026-07-01T13:51:48.163513+00:00",
+  "created_at": "2026-07-01T14:22:42.770282+00:00",
   "stats": {
     "feed_id": "google-news-disaster-ja",
     "feed_label": "Google News: 災害・地震・大雨",
@@ -8,15 +8,15 @@
       "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja"
     ],
     "rss_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja",
-    "fetched": 75,
+    "fetched": 76,
     "fetched_by_url": {
-      "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja": 75
+      "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja": 76
     },
-    "filtered": 68,
+    "filtered": 69,
     "resolved": 0,
-    "unresolved": 68,
-    "rules": 216,
-    "known_places": 216,
+    "unresolved": 69,
+    "rules": 45,
+    "known_places": 42,
     "loaded_data_files": [
       "data/place_rules.json",
       "data/unresolved_known_places.json",
@@ -52,14 +52,6 @@
       "source": "文化放送",
       "published_at": "2026-06-28T08:42:11+00:00",
       "summary": "「災害大国・日本」W台風と前線による大雨、さらに震度6強・6弱の地震も相次ぐ…    文化放送",
-      "feed_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja"
-    },
-    {
-      "title": "【台風情報】台風7号 27日夜にかけて伊豆諸島へ最接近…関東や東海地方は激しい大雨や高波に厳重警戒、山梨県の地震被災地は土砂災害に警戒【雨と風のシミュレーション】 - TBS NEWS DIG",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE42T3otS21QeC1LSUFOd05YWWhhSVdMTlZWdnYtQUgxTG0xV3g2Sk1sdTg3aElLM21lSC1XWW1yR3hFa2hBbXRhYVRUaUQ2TEFILVBNSXZhSDVkb2k5T1N4Vy1MT3pZVjQ?oc=5",
-      "source": "TBS NEWS DIG",
-      "published_at": "2026-06-27T10:25:00+00:00",
-      "summary": "【台風情報】台風7号 27日夜にかけて伊豆諸島へ最接近…関東や東海地方は激しい大雨や高波に厳重警戒、山梨県の地震被災地は土砂災害に警戒【雨と風のシミュレーション】    TBS NEWS DIG",
       "feed_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
@@ -303,6 +295,14 @@
       "feed_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
+      "title": "能登半島豪雨から１年 地震×雨…複合災害への備えどうする？ - 読売新聞",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1GNmF1RnVScnhYT0xzeW5nWGRMd0hUMmFfNGNNbVF6eHY2RW82MEE0VTBvY0pYX0pNQUhQQnoxYmxOLS1FbS1HSlZpU1lzRmlHZndNNGJwNGx4dkZhQW9xWTlOZF9WNUE?oc=5",
+      "source": "読売新聞",
+      "published_at": "2025-10-01T07:00:00+00:00",
+      "summary": "能登半島豪雨から１年 地震×雨…複合災害への備えどうする？    読売新聞",
+      "feed_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
       "title": "台風や豪雨などの水害から収蔵品を守れ！知恵しぼる美術館、博物館 - 読売新聞",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9GVmZ4andNclBsd3pNRV9lbUNjSm1kY3RJRUFRMF9CZDRBOVFRNFQ3MzY4a2t0clpraGJXTzVXQ1BvQnMweF9VRmpLMTlIMGw3R2Q2ZWlQUHYyTVpsSVJERnlkUHhDUXM?oc=5",
       "source": "読売新聞",
@@ -455,6 +455,14 @@
       "feed_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
+      "title": "【JAFに聞きました！】豪雨や地震…ドライブ中にもしもの災害、その時どうする!? 猛暑対策も - kufura.jp",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9JaDdLZzU2dkdGQjZiV2N6YXZmSlpaeXRwV2ZyNEp4QVpPbE9xYlVDNGZnRGJiZ09NT1ZNRFp2TDFfWUJrYXZjVmZiaHlSa28?oc=5",
+      "source": "kufura.jp",
+      "published_at": "2023-06-24T07:00:00+00:00",
+      "summary": "【JAFに聞きました！】豪雨や地震…ドライブ中にもしもの災害、その時どうする!? 猛暑対策も    kufura.jp",
+      "feed_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
       "title": "梅雨の中で、特にどの時期に大雨災害が起こりやすい？ - 読売新聞",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4yaUhNUnZuVFRQUTFvN2hkbzhHSzhzYlo3QjNwSEtLTGoxYXgyNzhfaVhCRm5BcFFldzlnTUNVUEdqcmlGai12ZERZaHFHY0swTjlPNWd1alAzd2gzbHk5SGh3?oc=5",
       "source": "読売新聞",
@@ -535,19 +543,19 @@
       "feed_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
+      "title": "台風や地震のことは気象庁の「気象科学館」で学ぼう！ - 読売新聞",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1SRmFUa0JjLXlVMjlxY25CVVk5ZTNVVXNHaTgwWFRqUVVFbHI4eHV4TERGU2dVQmNnOGE1ZVUyRUtUM3dOWFhKSWpaQUhVMGpzVUgwcUVJOV9NOTBxU0UzRnZzcUxHUTRzUlE?oc=5",
+      "source": "読売新聞",
+      "published_at": "2020-10-10T07:00:00+00:00",
+      "summary": "台風や地震のことは気象庁の「気象科学館」で学ぼう！    読売新聞",
+      "feed_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
       "title": "自衛隊のノウハウを初公開！ 地震・台風・大雨…災害時に役立つテクニック - ダ・ヴィンチWeb",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9Hb2pOanJscHdWaGluM2hIX25ENm83MGNzWlNwQnpKV0pzbWFkZG94YlZ6YkRwcDhfUk1uc3htd2xrQU5ob3ZVNlZWejYzUQ?oc=5",
       "source": "ダ・ヴィンチWeb",
       "published_at": "2020-09-01T07:00:00+00:00",
       "summary": "自衛隊のノウハウを初公開！ 地震・台風・大雨…災害時に役立つテクニック    ダ・ヴィンチWeb",
-      "feed_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja"
-    },
-    {
-      "title": "水害・土砂災害から家族を守る！ - 読売新聞",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE03ZDgweGlQZmVCVzhmV2c4X2lpNWI3QlVENUJGeVM4aldXRGM3SWN1S3FoZF8xRkkyemFibUozUWNLQXY2YmN1QlVWaEtpMGJ5U2FlWk5ZRGVINWpXcEw4?oc=5",
-      "source": "読売新聞",
-      "published_at": "2020-08-17T07:00:00+00:00",
-      "summary": "水害・土砂災害から家族を守る！    読売新聞",
       "feed_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
