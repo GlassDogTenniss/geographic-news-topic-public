@@ -1,8 +1,8 @@
 {
   "type": "FeatureCollection",
   "properties": {
-    "created_at": "2026-06-30T14:09:44.008030+00:00",
-    "count": 897,
+    "created_at": "2026-07-01T03:02:34.598786+00:00",
+    "count": 888,
     "stats": {
       "feed_id": "game-all",
       "feed_label": "ゲーム",
@@ -45,18 +45,29 @@
         "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Eastern%20Europe&hl=en&gl=PL&ceid=PL:en": 74,
         "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Africa&hl=en&gl=ZA&ceid=ZA:en": 79,
         "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Southeast%20Asia&hl=en-SG&gl=SG&ceid=SG:en": 77,
-        "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA&hl=ja&gl=JP&ceid=JP:ja": 73,
+        "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA&hl=ja&gl=JP&ceid=JP:ja": 74,
         "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja": 78,
         "https://news.google.com/rss/search?q=%E6%B5%B7%E5%A4%96%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA&hl=ja&gl=JP&ceid=JP:ja": 75,
         "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja": 78
       },
-      "filtered": 908,
-      "resolved": 897,
-      "unresolved": 11,
-      "rules": 470,
-      "known_places": 472,
+      "filtered": 905,
+      "resolved": 888,
+      "unresolved": 17,
+      "rules": 498,
+      "known_places": 500,
       "loaded_data_files": [
         "data/place_rules.json",
+        "data/unresolved_known_places.json",
+        "data/unresolved_known_places_2.json",
+        "data/unresolved_known_places_3.json",
+        "data/unresolved_known_places_4.json",
+        "data/unresolved_known_places_5.json",
+        "data/unresolved_known_places_6.json",
+        "data/unresolved_known_places_7.json",
+        "data/unresolved_known_places_8.json",
+        "data/unresolved_known_places_9.json",
+        "data/unresolved_known_places_10.json",
+        "data/unresolved_known_places_11.json",
         "data/unresolved_known_places_12.json",
         "data/unresolved_known_places_13.json",
         "data/unresolved_known_places_14.json",
@@ -119,15 +130,177 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          139.7292,
+          35.6606
+        ]
+      },
+      "properties": {
+        "title": "Data digest: Pokémon Champions, the top US earners, funding news, Sensor Tower’s big ad report, more",
+        "source": "Mobilegamer.biz",
+        "link": "https://mobilegamer.biz/data-digest-pokemon-champions-the-top-us-earners-funding-news-sensor-towers-big-ad-report-more/",
+        "published_at": "2026-07-01T01:21:54+00:00",
+        "representative_place": "The Pokémon Company / Roppongi Hills Mori Tower 8F",
+        "place_label": "日本-東京都-港区-六本木-六本木ヒルズ森タワー8F-The Pokémon Company",
+        "sort_place_label": "日本-東京都-港区-六本木-六本木ヒルズ森タワー8F-The Pokémon Company",
+        "geocode_query": "Roppongi Hills Mori Tower Tokyo The Pokemon Company",
+        "place_type": "company_site",
+        "location_precision": "building",
+        "place_reason": "The Pokémon Company主体の記事を六本木ヒルズ森タワーに置く。building_floorはスコア表に未定義なので、ranking上はbuildingに正規化する（一致語: Pokémon Champions）",
+        "confidence": 0.84,
+        "rule_id": "observed_pokemon_champions_mobile_tokyo_202606",
+        "matched_text": "Pokémon Champions",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.2529,
+          36.2048
+        ]
+      },
+      "properties": {
+        "title": "『ヒットマン』の制作スタジオ、新作RPG『Project Fantasy』の外部パートナー契約終了を告知。開発は継続する意向 - 電ファミニコゲーマー",
+        "source": "電ファミニコゲーマー",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE42bVJJUUxXRzVaQmY4bXZ4d2FhQnNhdEF3MTFUSFVOWThKZWdkWExCdmlZaFI0SGdGRWkwcDBBaTVGVnlLTnRSdUxBa1d2OUZyMzAxcGJTOTY?oc=5",
+        "published_at": "2026-06-30T22:59:00+00:00",
+        "representative_place": "Japan indie game announcement fallback topic",
+        "place_label": "日本-インディーゲーム新作発表",
+        "sort_place_label": "日本-インディーゲーム新作発表",
+        "geocode_query": "Japan indie game developer announcement",
+        "place_type": "indie_studio_topic",
+        "location_precision": "country",
+        "place_reason": "日本語RSSに出るインディーゲーム開発者・新作発表記事で個別都市が確認できないものを、日本のインディーゲーム発表トピックとして扱う（一致語: スタジオ）",
+        "confidence": 0.46,
+        "rule_id": "observed_japan_indie_game_announcement_fallback_202511",
+        "matched_text": "スタジオ",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.2023,
+          43.615
+        ]
+      },
+      "properties": {
+        "title": "Memory manufacturers sued in class action suit alleging price and supply fixing",
+        "source": "gamedeveloper",
+        "link": "https://www.gamedeveloper.com/business/memory-manufacturers-sued-in-class-action-suit-alleging-price-and-supply-fixing",
+        "published_at": "2026-06-30T18:15:34+00:00",
+        "representative_place": "Micron Technology / Boise memory market topic",
+        "place_label": "米国-Boise-Micron Technology",
+        "sort_place_label": "米国-Boise-Micron Technology",
+        "geocode_query": "Micron Technology Boise Idaho",
+        "place_type": "company_headquarters_city",
+        "location_precision": "city",
+        "place_reason": "Micron CEOとメモリ市場を扱う記事なので、企業所在地のBoiseに置く",
+        "confidence": 0.72,
+        "rule_id": "observed_micron_boise_memory_market_202606",
+        "matched_text": "Micron",
+        "match_source": "rule"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5801,
+          55.6816
+        ]
+      },
+      "properties": {
+        "title": "『007』シリーズ新作ゲーム、正式タイトル発表！『ヒットマン』開発チームが手掛ける「ジェームズ・ボンド」がSummer Game Festで再び登場 - 玩具人 TOY PEOPLE",
+        "source": "玩具人 TOY PEOPLE",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBWY3F3UjlLdm13NFEyVmF0bGhXSFdkUFUzWGYwX2Y4Sm9LMGVZMnlUbko3bkdtOUZ4RmRxdHNteU9Id2wtMmI4YWpSSzlubVh0?oc=5",
+        "published_at": "2026-06-30T16:18:15+00:00",
+        "representative_place": "IO Interactive / Gammel Mønt 4 Copenhagen",
+        "place_label": "デンマーク-コペンハーゲン-Gammel Mønt 4-IO Interactive",
+        "sort_place_label": "デンマーク-コペンハーゲン-Gammel Mønt 4-IO Interactive",
+        "geocode_query": "Gammel Mønt 4 DK-1117 Copenhagen Denmark IO Interactive",
+        "place_type": "studio_site",
+        "location_precision": "exact_site",
+        "place_reason": "IO Interactive公式CareersのCopenhagen拠点住所がGammel Mønt 4, DK-1117 Copenhagen, Denmarkで確認できるため、007 First Light / James Bondゲーム系の記事を同住所に置く（一致語: 『007』シリーズ新作ゲーム）",
+        "confidence": 0.88,
+        "rule_id": "observed_io_interactive_007_first_light_copenhagen_202606",
+        "matched_text": "『007』シリーズ新作ゲーム",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.96,
+          50.9378
+        ]
+      },
+      "properties": {
+        "title": "Voting opens for the Mobile Games Awards 2026 in association with Samsung Gaming Hub",
+        "source": "Latest Updates | PocketGamer.biz",
+        "link": "https://www.pocketgamer.biz/vote-now-the-mobile-games-awards-2026-in-association-with-samsung-gaming-hub/",
+        "published_at": "2026-06-30T14:54:00+00:00",
+        "representative_place": "Pocket Gamer Mobile Games Awards 2026 / Gürzenich Köln",
+        "place_label": "ドイツ-ノルトライン＝ヴェストファーレン州-ケルン-Gürzenich Köln",
+        "sort_place_label": "ドイツ-ノルトライン＝ヴェストファーレン州-ケルン-Gürzenich Köln",
+        "geocode_query": "Gürzenich Köln Martinstraße 29-37 Köln Germany",
+        "place_type": "awards_event_venue",
+        "location_precision": "venue",
+        "place_reason": "Mobile Games Awards 2026の記事を、広域fallbackではなくGürzenich Köln会場に置く（一致語: Mobile Games Awards 2026）",
+        "confidence": 0.9,
+        "rule_id": "observed_mobile_games_awards_2026_gurzenich_koln",
+        "matched_text": "Mobile Games Awards 2026",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.9384,
+          60.1699
+        ]
+      },
+      "properties": {
+        "title": "Inside The Battle of Polytopia studio Midjiwan",
+        "source": "Latest Updates | PocketGamer.biz",
+        "link": "https://www.pocketgamer.biz/inside-the-battle-of-polytopia-studio-midjiwan/",
+        "published_at": "2026-06-30T14:45:00+00:00",
+        "representative_place": "Pocket Gamer Connects Nordics Helsinki / event area",
+        "place_label": "フィンランド-ヘルシンキ-Pocket Gamer Connects Nordics",
+        "sort_place_label": "フィンランド-ヘルシンキ-Pocket Gamer Connects Nordics",
+        "geocode_query": "Pocket Gamer Connects Nordics Helsinki Finland venue",
+        "place_type": "event_site",
+        "location_precision": "event_site",
+        "place_reason": "PGC Nordicsの開催・割引・トラック告知などイベント自体の記事に絞る。event_areaはスコア表に未定義なのでevent_siteに正規化する",
+        "confidence": 0.72,
+        "rule_id": "observed_pgc_nordics_helsinki_202606",
+        "matched_text": "PGC Nordics",
+        "match_source": "rule"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           100.0,
           30.0
         ]
       },
       "properties": {
-        "title": "Griffin Gaming Partners acquired a stake in tinyBuild",
-        "source": "Game World Observer",
-        "link": "https://gameworldobserver.com/2026/06/30/griffin-gaming-partners-acquired-a-stake-in-tinybuild",
-        "published_at": "2026-06-30T13:39:35+00:00",
+        "title": "Lorgar MPA14XL and MPA15XL Gaming Mousepad Review: Now That’s Smooth",
+        "source": "NAG",
+        "link": "https://www.nag.co.za/2026/06/30/lorgar-mpa14xl-and-mpa15xl-gaming-mousepad-review-now-thats-smooth/",
+        "published_at": "2026-06-30T14:21:29+00:00",
         "representative_place": "Asia / Asian diaspora gaming policy-culture fallback topic",
         "place_label": "アジア・ディアスポラ-ゲーム政策/文化記事",
         "sort_place_label": "アジア・ディアスポラ-ゲーム政策/文化記事",
@@ -138,6 +311,60 @@
         "confidence": 0.34,
         "rule_id": "observed_asia_gaming_policy_culture_fallback_202109",
         "matched_text": "gaming",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7652,
+          35.6697
+        ]
+      },
+      "properties": {
+        "title": "Konami’s eFootball is racing ahead of EA FC Mobile",
+        "source": "Mobilegamer.biz",
+        "link": "https://mobilegamer.biz/konamis-efootball-is-racing-ahead-of-ea-fc-mobile/",
+        "published_at": "2026-06-30T14:18:56+00:00",
+        "representative_place": "KONAMI本社周辺",
+        "place_label": "日本-東京都-中央区",
+        "sort_place_label": "日本-東京都-中央区",
+        "geocode_query": "Konami Group headquarters Ginza Chuo Tokyo Japan",
+        "place_type": "institution_site",
+        "location_precision": "building",
+        "place_reason": "KONAMIに関する企業・ゲーム記事を、企業主体の代表地点としてKONAMI本社周辺に置く（一致語: KONAMI）",
+        "confidence": 0.64,
+        "rule_id": "konami_tokyo_headquarters",
+        "matched_text": "KONAMI",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2015,
+          47.6101
+        ]
+      },
+      "properties": {
+        "title": "Griffin Gaming Partners acquired a stake in tinyBuild",
+        "source": "Game World Observer",
+        "link": "https://gameworldobserver.com/2026/06/30/griffin-gaming-partners-acquired-a-stake-in-tinybuild",
+        "published_at": "2026-06-30T13:39:35+00:00",
+        "representative_place": "tinyBuild Bellevue headquarters",
+        "place_label": "米国-ワシントン州-ベルビュー-tinyBuild",
+        "sort_place_label": "米国-ワシントン州-ベルビュー-tinyBuild",
+        "geocode_query": "tinyBuild Bellevue Washington United States",
+        "place_type": "publisher_headquarters_city",
+        "location_precision": "city",
+        "place_reason": "tinyBuild主体の記事を同社本拠地のBellevueに置く（一致語: tinyBuild）",
+        "confidence": 0.82,
+        "rule_id": "observed_tinybuild_bellevue_202606",
+        "matched_text": "tinyBuild",
         "match_source": "known_place_title"
       }
     },
@@ -173,35 +400,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.0,
-          30.0
-        ]
-      },
-      "properties": {
-        "title": "Voting opens for the Mobile Games Awards 2026 in association with Samsung Gaming Hub",
-        "source": "Latest Updates | PocketGamer.biz",
-        "link": "https://www.pocketgamer.biz/vote-now-the-mobile-games-awards-2026-in-association-with-samsung-gaming-hub/",
-        "published_at": "2026-06-30T13:10:00+00:00",
-        "representative_place": "Asia / Asian diaspora gaming policy-culture fallback topic",
-        "place_label": "アジア・ディアスポラ-ゲーム政策/文化記事",
-        "sort_place_label": "アジア・ディアスポラ-ゲーム政策/文化記事",
-        "geocode_query": "Asia Asian diaspora gaming policy culture developers",
-        "place_type": "policy_discourse_region",
-        "location_precision": "multi_region",
-        "place_reason": "アジア各国やアジア系ディアスポラのゲーム政策・文化記事を、低優先の複数地域トピックとして扱う（一致語: gaming）",
-        "confidence": 0.34,
-        "rule_id": "observed_asia_gaming_policy_culture_fallback_202109",
-        "matched_text": "gaming",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          20.0
+          33.4299,
+          35.1264
         ]
       },
       "properties": {
@@ -209,16 +409,16 @@
         "source": "Latest Updates | PocketGamer.biz",
         "link": "https://www.pocketgamer.biz/cape-verde-goalkeeper-vozinha-signs-deal-with-ufl-mobile-game-after-world-cup-heroics/",
         "published_at": "2026-06-30T13:04:00+00:00",
-        "representative_place": "Global mobile game launch fallback topic",
-        "place_label": "複数地域-モバイルゲーム配信・事前登録記事",
-        "sort_place_label": "複数地域-モバイルゲーム配信・事前登録記事",
-        "geocode_query": "global mobile game launch preregistration release date",
-        "place_type": "launch_market_region",
-        "location_precision": "multi_region",
-        "place_reason": "単一会社住所に置けないモバイルゲーム配信・事前登録・リリース日記事を、複数地域のローンチ市場トピックとして低優先で扱う（一致語: mobile game）",
-        "confidence": 0.34,
-        "rule_id": "observed_global_mobile_launch_article_fallback_202505",
-        "matched_text": "mobile game",
+        "representative_place": "Strikerz Inc / UFL",
+        "place_label": "キプロス-Strikerz Inc / UFL",
+        "sort_place_label": "キプロス-Strikerz Inc / UFL",
+        "geocode_query": "Strikerz Inc Cyprus",
+        "place_type": "studio_company_topic",
+        "location_precision": "country",
+        "place_reason": "UFL主体の記事を開発元Strikerz Incのキプロス文脈に置く（一致語: UFL mobile game）",
+        "confidence": 0.66,
+        "rule_id": "observed_ufl_strikerz_cyprus_202606",
+        "matched_text": "UFL mobile game",
         "match_source": "known_place_title"
       }
     },
@@ -281,8 +481,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.0,
-          30.0
+          -122.2015,
+          47.6101
         ]
       },
       "properties": {
@@ -290,16 +490,16 @@
         "source": "Latest Updates | PocketGamer.biz",
         "link": "https://www.pocketgamer.biz/griffin-gaming-partners-acquires-324-stake-in-tinybuild/",
         "published_at": "2026-06-30T12:48:00+00:00",
-        "representative_place": "Asia / Asian diaspora gaming policy-culture fallback topic",
-        "place_label": "アジア・ディアスポラ-ゲーム政策/文化記事",
-        "sort_place_label": "アジア・ディアスポラ-ゲーム政策/文化記事",
-        "geocode_query": "Asia Asian diaspora gaming policy culture developers",
-        "place_type": "policy_discourse_region",
-        "location_precision": "multi_region",
-        "place_reason": "アジア各国やアジア系ディアスポラのゲーム政策・文化記事を、低優先の複数地域トピックとして扱う（一致語: gaming）",
-        "confidence": 0.34,
-        "rule_id": "observed_asia_gaming_policy_culture_fallback_202109",
-        "matched_text": "gaming",
+        "representative_place": "tinyBuild Bellevue headquarters",
+        "place_label": "米国-ワシントン州-ベルビュー-tinyBuild",
+        "sort_place_label": "米国-ワシントン州-ベルビュー-tinyBuild",
+        "geocode_query": "tinyBuild Bellevue Washington United States",
+        "place_type": "publisher_headquarters_city",
+        "location_precision": "city",
+        "place_reason": "tinyBuild主体の記事を同社本拠地のBellevueに置く（一致語: tinyBuild）",
+        "confidence": 0.82,
+        "rule_id": "observed_tinybuild_bellevue_202606",
+        "matched_text": "tinyBuild",
         "match_source": "known_place_title"
       }
     },
@@ -308,8 +508,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.0,
-          20.0
+          -2.5,
+          54.5
         ]
       },
       "properties": {
@@ -317,16 +517,16 @@
         "source": "gamedeveloper",
         "link": "https://www.gamedeveloper.com/production/grand-theft-auto-developers-seek-union-recognition-at-rockstar",
         "published_at": "2026-06-30T12:21:14+00:00",
-        "representative_place": "Terminal regional studio article fallback topic",
-        "place_label": "複数地域-ゲームスタジオ旧記事まとめ",
-        "sort_place_label": "複数地域-ゲームスタジオ旧記事まとめ",
-        "geocode_query": "regional game studio developer legacy article",
-        "place_type": "studio_region",
+        "representative_place": "Rockstar UK studios network",
+        "place_label": "英国-Rockstar UK複数拠点",
+        "sort_place_label": "英国-Rockstar UK複数拠点",
+        "geocode_query": "Rockstar Games UK studios Edinburgh Dundee Lincoln Leeds London",
+        "place_type": "studio_network",
         "location_precision": "multi_region",
-        "place_reason": "末尾側に残るゲームスタジオ・開発者旧記事で所在地が確定しないものを、最低優先の複数地域スタジオトピックとして扱う（一致語: developer）",
-        "confidence": 0.24,
-        "rule_id": "observed_terminal_regional_studio_article_fallback",
-        "matched_text": "developer",
+        "place_reason": "Rockstarの英国複数スタジオにまたがる記事として、単一住所ではなく英国拠点ネットワークに置く（一致語: Grand Theft Auto developers）",
+        "confidence": 0.7,
+        "rule_id": "observed_rockstar_uk_multi_site_202606",
+        "matched_text": "Grand Theft Auto developers",
         "match_source": "known_place_title"
       }
     },
@@ -362,33 +562,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.9384,
-          60.1699
-        ]
-      },
-      "properties": {
-        "title": "Inside The Battle of Polytopia studio Midjiwan",
-        "source": "Latest Updates | PocketGamer.biz",
-        "link": "https://www.pocketgamer.biz/inside-the-battle-of-polytopia-studio-midjiwan/",
-        "published_at": "2026-06-30T12:00:00+00:00",
-        "representative_place": "Pocket Gamer Connects Nordics Helsinki / event area",
-        "place_label": "フィンランド-ヘルシンキ-Pocket Gamer Connects Nordics",
-        "sort_place_label": "フィンランド-ヘルシンキ-Pocket Gamer Connects Nordics",
-        "geocode_query": "Pocket Gamer Connects Nordics Helsinki Finland venue",
-        "place_type": "event_site",
-        "location_precision": "event_site",
-        "place_reason": "PGC Nordicsの開催・割引・トラック告知などイベント自体の記事に絞る。event_areaはスコア表に未定義なのでevent_siteに正規化する",
-        "confidence": 0.72,
-        "rule_id": "observed_pgc_nordics_helsinki_202606",
-        "matched_text": "PGC Nordics",
-        "match_source": "rule"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           138.2529,
           36.2048
         ]
@@ -416,8 +589,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          78.9629,
-          20.5937
+          -0.7526,
+          51.2869
         ]
       },
       "properties": {
@@ -425,16 +598,16 @@
         "source": "gamedeveloper",
         "link": "https://www.gamedeveloper.com/business/ndreams-co-founder-launches-indie-game-and-music-studio-atmospheric",
         "published_at": "2026-06-30T10:42:00+00:00",
-        "representative_place": "Tara Gaming / India new studio topic",
-        "place_label": "インド-Tara Gaming新スタジオ共同創業",
-        "sort_place_label": "インド-Tara Gaming新スタジオ共同創業",
-        "geocode_query": "India Tara Gaming studio co-founder Amitabh Bachchan Amish Tripathi",
-        "place_type": "studio_company_topic",
-        "location_precision": "country",
-        "place_reason": "Tara Gaming studioへの共同創業参加記事なので、都市や番地を固定せずインドの新スタジオ/会社トピックとして扱う（一致語: co-founder）",
-        "confidence": 0.64,
-        "rule_id": "observed_tara_gaming_india_cofounder_202505",
-        "matched_text": "co-founder",
+        "representative_place": "nDreams founder context",
+        "place_label": "英国-イングランド-ハンプシャー州-ファーンバラ",
+        "sort_place_label": "英国-イングランド-ハンプシャー州-ファーンバラ",
+        "geocode_query": "Farnborough Hampshire United Kingdom",
+        "place_type": "studio_founder_city",
+        "location_precision": "city",
+        "place_reason": "nDreams創業者文脈の記事としてFarnboroughに置く（一致語: Atmospheric）",
+        "confidence": 0.62,
+        "rule_id": "observed_atmospheric_farnborough_202606",
+        "matched_text": "Atmospheric",
         "match_source": "known_place_title"
       }
     },
@@ -443,8 +616,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.0,
-          20.0
+          121.774,
+          12.8797
+        ]
+      },
+      "properties": {
+        "title": "Interview: RGG Studio talks Virtua Vighter Crossroads potential collabs, Philippines ties, and more - GosuGamers",
+        "source": "GosuGamers",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQS1RiWFRGcmFLSVBWQ1MzN2JpRUYwdUc2ZDJsTXZNVkpyRDQxT3Q0M3czRVBiWDl0M0I2Qm5zRmo5YXFEbWRfTUdueDBBRVEySzdRRmI3dDkxZUVWRGc3ck1TNklMLU9ubTczT0FLRDhqY3pUZGRsYUwxY2JPNzZuOGNwV2pmVVF2bzZ3dDFoT3IwOXdvM3BDTTVqdjY1UVlwRko3M2R0X3l1czRvMGd2c0tpRENtUXRFdThlQUQ2UnFVY29NYTBUTHBqXy1zWU0wMmFGRWRfZ3NMQVBLcGt4dU5B?oc=5",
+        "published_at": "2026-06-30T10:08:27+00:00",
+        "representative_place": "Philippines game studio interview fallback topic",
+        "place_label": "フィリピン-ゲームスタジオ/開発者インタビュー",
+        "sort_place_label": "フィリピン-ゲームスタジオ/開発者インタビュー",
+        "geocode_query": "Philippines Filipino game studio interview",
+        "place_type": "studio_media_region",
+        "location_precision": "country",
+        "place_reason": "フィリピンのゲームスタジオ/開発者インタビュー記事で番地が確定しないものを、低優先の国レベルメディア記事として扱う（一致語: Philippines）",
+        "confidence": 0.44,
+        "rule_id": "observed_philippines_game_studio_interview_fallback_202504",
+        "matched_text": "Philippines",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1242,
+          51.5091
         ]
       },
       "properties": {
@@ -452,43 +652,16 @@
         "source": "Latest Updates | PocketGamer.biz",
         "link": "https://www.pocketgamer.biz/zyngas-csr-2-celebrates-10th-anniversary-with-530m-cars-collected/",
         "published_at": "2026-06-30T09:50:00+00:00",
-        "representative_place": "Legacy miscellaneous games industry fallback topic",
-        "place_label": "複数地域-ゲーム産業雑多旧記事",
-        "sort_place_label": "複数地域-ゲーム産業雑多旧記事",
-        "geocode_query": "legacy miscellaneous games industry market article",
-        "place_type": "industry_region",
-        "location_precision": "multi_region",
-        "place_reason": "古いゲーム産業記事のうち個別住所や国に固定できないものを、最低優先の複数地域トピックとして扱う",
-        "confidence": 0.22,
-        "rule_id": "observed_legacy_misc_games_industry_fallback",
-        "matched_text": "legacy",
-        "match_source": "rule"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.0,
-          30.0
-        ]
-      },
-      "properties": {
-        "title": "Griffin Gaming Partners invests in TinyBuild",
-        "source": "GamesIndustry.biz Latest Articles Feed",
-        "link": "https://www.gamesindustry.biz/griffin-gaming-partners-invests-in-tinybuild",
-        "published_at": "2026-06-30T09:42:27+00:00",
-        "representative_place": "Asia / Asian diaspora gaming policy-culture fallback topic",
-        "place_label": "アジア・ディアスポラ-ゲーム政策/文化記事",
-        "sort_place_label": "アジア・ディアスポラ-ゲーム政策/文化記事",
-        "geocode_query": "Asia Asian diaspora gaming policy culture developers",
-        "place_type": "policy_discourse_region",
-        "location_precision": "multi_region",
-        "place_reason": "アジア各国やアジア系ディアスポラのゲーム政策・文化記事を、低優先の複数地域トピックとして扱う（一致語: gaming）",
-        "confidence": 0.34,
-        "rule_id": "observed_asia_gaming_policy_culture_fallback_202109",
-        "matched_text": "gaming",
+        "representative_place": "NaturalMotion London Studio / 6 Agar Street",
+        "place_label": "英国-イングランド-ロンドン-Covent Garden-6 Agar Street-NaturalMotion",
+        "sort_place_label": "英国-イングランド-ロンドン-Covent Garden-6 Agar Street-NaturalMotion",
+        "geocode_query": "6 Agar Street London NaturalMotion",
+        "place_type": "studio_site",
+        "location_precision": "exact_site",
+        "place_reason": "CSR 2 / CSR Racing 2の記事で、NaturalMotion London StudioがCSR Racing系チームを含むため、legacy miscellaneous fallbackではなくNaturalMotion London Studioに置く（一致語: Zynga’s CSR 2 celebrates 10th anniversary with 530m cars collected）",
+        "confidence": 0.88,
+        "rule_id": "observed_csr2_naturalmotion_london_202606",
+        "matched_text": "Zynga’s CSR 2 celebrates 10th anniversary with 530m cars collected",
         "match_source": "known_place_title"
       }
     },
@@ -497,8 +670,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.0,
-          20.0
+          -122.2015,
+          47.6101
+        ]
+      },
+      "properties": {
+        "title": "Griffin Gaming Partners invests in TinyBuild",
+        "source": "GamesIndustry.biz Latest Articles Feed",
+        "link": "https://www.gamesindustry.biz/griffin-gaming-partners-invests-in-tinybuild",
+        "published_at": "2026-06-30T09:42:27+00:00",
+        "representative_place": "tinyBuild Bellevue headquarters",
+        "place_label": "米国-ワシントン州-ベルビュー-tinyBuild",
+        "sort_place_label": "米国-ワシントン州-ベルビュー-tinyBuild",
+        "geocode_query": "tinyBuild Bellevue Washington United States",
+        "place_type": "publisher_headquarters_city",
+        "location_precision": "city",
+        "place_reason": "tinyBuild主体の記事を同社本拠地のBellevueに置く（一致語: tinyBuild）",
+        "confidence": 0.82,
+        "rule_id": "observed_tinybuild_bellevue_202606",
+        "matched_text": "tinyBuild",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0216,
+          51.5053
         ]
       },
       "properties": {
@@ -506,16 +706,16 @@
         "source": "Mobilegamer.biz",
         "link": "https://mobilegamer.biz/uk-competition-authority-proposals-could-force-apple-and-google-to-remove-steering-restrictions/",
         "published_at": "2026-06-30T09:24:47+00:00",
-        "representative_place": "Legacy games business article fallback topic",
-        "place_label": "複数地域-ゲーム事業旧記事",
-        "sort_place_label": "複数地域-ゲーム事業旧記事",
-        "geocode_query": "legacy games business venture market",
-        "place_type": "company_operations_region",
-        "location_precision": "multi_region",
-        "place_reason": "古いゲーム事業・会社戦略記事で所在地を固定できないものを、複数地域の最低優先会社運営トピックとして扱う",
-        "confidence": 0.28,
-        "rule_id": "observed_legacy_games_business_article_fallback_2012",
-        "matched_text": "market",
+        "representative_place": "Competition and Markets Authority / The Cabot",
+        "place_label": "英国-ロンドン-カナリー・ワーフ-The Cabot-CMA",
+        "sort_place_label": "英国-ロンドン-カナリー・ワーフ-The Cabot-CMA",
+        "geocode_query": "Competition and Markets Authority The Cabot 25 Cabot Square London E14 4QZ",
+        "place_type": "regulatory_agency_site",
+        "location_precision": "building",
+        "place_reason": "アプリストア支払い規制に関する英国CMAの記事として、規制主体のLondon所在地に置く",
+        "confidence": 0.82,
+        "rule_id": "observed_uk_cma_app_store_policy_london_202606",
+        "matched_text": "Competition and Markets Authority",
         "match_source": "rule"
       }
     },
@@ -524,8 +724,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          78.9629,
-          20.5937
+          -0.7526,
+          51.2869
         ]
       },
       "properties": {
@@ -533,16 +733,16 @@
         "source": "GamesIndustry.biz Latest Articles Feed",
         "link": "https://www.gamesindustry.biz/ndreams-founder-launches-new-studio-atmospheric-to-create-original-ip-across-games-and-music",
         "published_at": "2026-06-30T08:00:00+00:00",
-        "representative_place": "India new game studio fallback topic",
-        "place_label": "インド-新設ゲームスタジオ記事",
-        "sort_place_label": "インド-新設ゲームスタジオ記事",
-        "geocode_query": "India new gaming studio co-founder",
-        "place_type": "studio_company_topic",
-        "location_precision": "country",
-        "place_reason": "インドの新設ゲームスタジオや共同創業者記事で都市・番地が確定しないものを、低優先の国レベルスタジオトピックとして扱う（一致語: new studio）",
-        "confidence": 0.44,
-        "rule_id": "observed_india_game_studio_new_company_fallback_202505",
-        "matched_text": "new studio",
+        "representative_place": "nDreams founder context",
+        "place_label": "英国-イングランド-ハンプシャー州-ファーンバラ",
+        "sort_place_label": "英国-イングランド-ハンプシャー州-ファーンバラ",
+        "geocode_query": "Farnborough Hampshire United Kingdom",
+        "place_type": "studio_founder_city",
+        "location_precision": "city",
+        "place_reason": "nDreams創業者文脈の記事としてFarnboroughに置く（一致語: Atmospheric）",
+        "confidence": 0.62,
+        "rule_id": "observed_atmospheric_farnborough_202606",
+        "matched_text": "Atmospheric",
         "match_source": "known_place_title"
       }
     },
@@ -632,8 +832,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.0,
-          20.0
+          139.6951,
+          35.6544
         ]
       },
       "properties": {
@@ -641,17 +841,17 @@
         "source": "Latest Updates | PocketGamer.biz",
         "link": "https://www.pocketgamer.biz/umamusume-pretty-derby-races-to-100m-on-mobile-in-one-year-overseas/",
         "published_at": "2026-06-29T14:30:00+00:00",
-        "representative_place": "Granblue Fantasy Relink / SGF preview topic",
-        "place_label": "複数地域-SGF 2026プレビュー記事",
-        "sort_place_label": "複数地域-SGF 2026プレビュー記事",
-        "geocode_query": "SGF 2026 Granblue Fantasy Relink preview",
-        "place_type": "event_media_topic",
-        "location_precision": "multi_region",
-        "place_reason": "SGF 2026のハンズオンプレビュー記事なので、Cygames本社や会場番地ではなくイベント取材トピックとして扱う",
-        "confidence": 0.55,
-        "rule_id": "observed_granblue_relink_sgf_preview_202606",
-        "matched_text": "Cygames",
-        "match_source": "rule"
+        "representative_place": "Cygames / 住友不動産渋谷ガーデンタワー15階",
+        "place_label": "日本-東京都-渋谷区-南平台町-住友不動産渋谷ガーデンタワー-Cygames",
+        "sort_place_label": "日本-東京都-渋谷区-南平台町-住友不動産渋谷ガーデンタワー-Cygames",
+        "geocode_query": "東京都渋谷区南平台町16番17号 住友不動産渋谷ガーデンタワー15階 Cygames",
+        "place_type": "studio_company_site",
+        "location_precision": "building",
+        "place_reason": "Umamusume主体の記事を、別イベントfallbackではなく開発・運営元Cygamesの本社所在地に置く（一致語: Umamusume: Pretty Derby）",
+        "confidence": 0.88,
+        "rule_id": "observed_umamusume_cygames_shibuya_202606",
+        "matched_text": "Umamusume: Pretty Derby",
+        "match_source": "known_place_title"
       }
     },
     {
@@ -713,8 +913,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.0,
-          20.0
+          -0.5704,
+          51.2362
         ]
       },
       "properties": {
@@ -722,17 +922,17 @@
         "source": "gamedeveloper",
         "link": "https://www.gamedeveloper.com/business/supermassive-games-ceo-steps-down-following-launch-of-directive-8020",
         "published_at": "2026-06-29T13:29:30+00:00",
-        "representative_place": "Terminal regional studio article fallback topic",
-        "place_label": "複数地域-ゲームスタジオ旧記事まとめ",
-        "sort_place_label": "複数地域-ゲームスタジオ旧記事まとめ",
-        "geocode_query": "regional game studio developer legacy article",
-        "place_type": "studio_region",
-        "location_precision": "multi_region",
-        "place_reason": "末尾側に残るゲームスタジオ・開発者旧記事で所在地が確定しないものを、最低優先の複数地域スタジオトピックとして扱う",
-        "confidence": 0.24,
-        "rule_id": "observed_terminal_regional_studio_article_fallback",
-        "matched_text": "developer",
-        "match_source": "rule"
+        "representative_place": "Supermassive Games / Guildford",
+        "place_label": "英国-イングランド-サリー州-ギルフォード-Supermassive Games",
+        "sort_place_label": "英国-イングランド-サリー州-ギルフォード-Supermassive Games",
+        "geocode_query": "Supermassive Games Guildford Surrey UK",
+        "place_type": "studio_headquarters_city",
+        "location_precision": "city",
+        "place_reason": "Supermassive Games主体の記事を同社拠点のGuildfordに置く（一致語: Supermassive Games）",
+        "confidence": 0.7,
+        "rule_id": "observed_supermassive_games_guildford_202606",
+        "matched_text": "Supermassive Games",
+        "match_source": "known_place_title"
       }
     },
     {
@@ -740,8 +940,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          78.9629,
-          20.5937
+          18.4241,
+          -33.9249
         ]
       },
       "properties": {
@@ -749,16 +949,16 @@
         "source": "NAG",
         "link": "https://www.nag.co.za/2026/06/29/agc-2026-cape-town-gets-ready-for-four-days-of-esports/",
         "published_at": "2026-06-29T12:01:53+00:00",
-        "representative_place": "India gaming and esports history fallback topic",
-        "place_label": "インド-ゲーム/Esports史記事",
-        "sort_place_label": "インド-ゲーム/Esports史記事",
-        "geocode_query": "India gaming esports history culture",
-        "place_type": "game_culture_region",
-        "location_precision": "country",
-        "place_reason": "インドのゲーム/eスポーツ史・文化記事を、個別企業ではなく低優先の国レベル文化トピックとして扱う（一致語: esports）",
-        "confidence": 0.44,
-        "rule_id": "observed_india_gaming_esports_history_fallback_202108",
-        "matched_text": "esports",
+        "representative_place": "AGC 2026 / Cape Town",
+        "place_label": "南アフリカ-西ケープ州-ケープタウン-AGC 2026",
+        "sort_place_label": "南アフリカ-西ケープ州-ケープタウン-AGC 2026",
+        "geocode_query": "Cape Town South Africa AGC 2026 esports",
+        "place_type": "esports_event_city",
+        "location_precision": "city",
+        "place_reason": "AGC 2026のesportsイベント記事をCape Townに置く。会場名は未確認のためcity粒度に止める（一致語: Cape Town Gets Ready For Four Days Of Esports）",
+        "confidence": 0.62,
+        "rule_id": "observed_agc_2026_cape_town_esports",
+        "matched_text": "Cape Town Gets Ready For Four Days Of Esports",
         "match_source": "known_place_title"
       }
     },
@@ -875,8 +1075,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.0,
-          30.0
+          127.8,
+          36.5
         ]
       },
       "properties": {
@@ -884,16 +1084,16 @@
         "source": "gamedeveloper",
         "link": "https://www.gamedeveloper.com/business/nintendo-is-increasing-the-price-of-switch-2-in-south-korea",
         "published_at": "2026-06-29T11:11:52+00:00",
-        "representative_place": "Asia / Asian diaspora gaming policy-culture fallback topic",
-        "place_label": "アジア・ディアスポラ-ゲーム政策/文化記事",
-        "sort_place_label": "アジア・ディアスポラ-ゲーム政策/文化記事",
-        "geocode_query": "Asia Asian diaspora gaming policy culture developers",
-        "place_type": "policy_discourse_region",
-        "location_precision": "multi_region",
-        "place_reason": "アジア各国やアジア系ディアスポラのゲーム政策・文化記事を、低優先の複数地域トピックとして扱う（一致語: South Korea）",
-        "confidence": 0.34,
-        "rule_id": "observed_asia_gaming_policy_culture_fallback_202109",
-        "matched_text": "South Korea",
+        "representative_place": "South Korea / Nintendo Switch 2 price increase",
+        "place_label": "韓国-Nintendo Switch 2価格改定",
+        "sort_place_label": "韓国-Nintendo Switch 2価格改定",
+        "geocode_query": "South Korea Nintendo Switch 2 price increase",
+        "place_type": "platform_price_market_country",
+        "location_precision": "country",
+        "place_reason": "韓国でのSwitch 2価格改定記事を、広域fallbackではなく韓国市場トピックに置く（一致語: Switch 2 in South Korea）",
+        "confidence": 0.7,
+        "rule_id": "observed_nintendo_switch2_south_korea_price_202606",
+        "matched_text": "Switch 2 in South Korea",
         "match_source": "known_place_title"
       }
     },
@@ -902,8 +1102,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          78.9629,
-          20.5937
+          77.5946,
+          12.9716
         ]
       },
       "properties": {
@@ -911,17 +1111,17 @@
         "source": "Latest Updates | PocketGamer.biz",
         "link": "https://www.pocketgamer.biz/spill-games-raises-31m-seed-round-to-scale-mobile-games-portfolio/",
         "published_at": "2026-06-29T11:10:00+00:00",
-        "representative_place": "India new game studio fallback topic",
-        "place_label": "インド-新設ゲームスタジオ記事",
-        "sort_place_label": "インド-新設ゲームスタジオ記事",
-        "geocode_query": "India new gaming studio co-founder",
-        "place_type": "studio_company_topic",
-        "location_precision": "country",
-        "place_reason": "インドの新設ゲームスタジオや共同創業者記事で都市・番地が確定しないものを、低優先の国レベルスタジオトピックとして扱う",
-        "confidence": 0.44,
-        "rule_id": "observed_india_game_studio_new_company_fallback_202505",
-        "matched_text": "India",
-        "match_source": "rule"
+        "representative_place": "Spill Games / Bengaluru",
+        "place_label": "インド-カルナータカ州-ベンガルール-Spill Games",
+        "sort_place_label": "インド-カルナータカ州-ベンガルール-Spill Games",
+        "geocode_query": "Spill Games Bengaluru India",
+        "place_type": "startup_company_city",
+        "location_precision": "city",
+        "place_reason": "Spill Gamesの資金調達記事をBengaluruに置く（一致語: Spill Games raises $3.1m）",
+        "confidence": 0.72,
+        "rule_id": "observed_spill_games_bengaluru_seed_202606",
+        "matched_text": "Spill Games raises $3.1m",
+        "match_source": "known_place_title"
       }
     },
     {
@@ -929,8 +1129,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.8265,
-          33.6846
+          -118.3965,
+          34.0211
         ]
       },
       "properties": {
@@ -938,17 +1138,17 @@
         "source": "Mobilegamer.biz",
         "link": "https://mobilegamer.biz/jobs-digest-moves-at-scopely-metacore-ea-roblox-apple-zynga-outfit7-fateless-more/",
         "published_at": "2026-06-29T09:41:08+00:00",
-        "representative_place": "Blizzard Entertainment / Project Ascension topic",
-        "place_label": "米国-Irvine-Blizzard Entertainment / World of Warcraft関連記事",
-        "sort_place_label": "米国-Irvine-Blizzard Entertainment / World of Warcraft関連記事",
-        "geocode_query": "Blizzard Entertainment Irvine California World of Warcraft Project Ascension",
-        "place_type": "company_game_project_city",
+        "representative_place": "Scopely / Culver City",
+        "place_label": "米国-カリフォルニア州-カルバーシティ-Scopely",
+        "sort_place_label": "米国-カリフォルニア州-カルバーシティ-Scopely",
+        "geocode_query": "Scopely Culver City California United States",
+        "place_type": "mobile_game_company_city",
         "location_precision": "city",
-        "place_reason": "BlizzardとWorld of Warcraft関連プロジェクトを扱う記事なので、Blizzard Entertainment所在地のIrvineに置く",
-        "confidence": 0.72,
-        "rule_id": "observed_blizzard_irvine_wow_project_ascension_202606",
-        "matched_text": "Blizzard",
-        "match_source": "rule"
+        "place_reason": "Monopoly Go主体の記事を日本IPスマホゲームfallbackではなくScopely所在地のCulver Cityに置く（一致語: Scopely）",
+        "confidence": 0.74,
+        "rule_id": "observed_monopoly_go_scopely_culver_city_202606",
+        "matched_text": "Scopely",
+        "match_source": "known_place_title"
       }
     },
     {
@@ -983,8 +1183,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          138.2529,
-          36.2048
+          -122.2015,
+          47.6101
         ]
       },
       "properties": {
@@ -992,43 +1192,16 @@
         "source": "NAG",
         "link": "https://www.nag.co.za/2026/06/29/steam-summer-sale-overwhelmingly-positive-games/",
         "published_at": "2026-06-29T07:15:27+00:00",
-        "representative_place": "SIE / Japanese indie games discourse topic",
-        "place_label": "日本-SIE吉田修平インディーゲーム論",
-        "sort_place_label": "日本-SIE吉田修平インディーゲーム論",
-        "geocode_query": "Japan SIE Shuhei Yoshida indie games discourse",
-        "place_type": "industry_discourse_region",
-        "location_precision": "country",
-        "place_reason": "SIE吉田修平氏によるインディーゲームの意義に関する記事なので、SIE拠点住所ではなく日本の業界言説トピックとして扱う",
-        "confidence": 0.66,
-        "rule_id": "observed_sie_yoshida_indie_games_japan_202108",
-        "matched_text": "SIE",
-        "match_source": "rule"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.2437,
-          34.0522
-        ]
-      },
-      "properties": {
-        "title": "Cape Town’s Pressure Cooker Studios Scores Big with Riot Games",
-        "source": "Games Industry Africa",
-        "link": "https://gamesindustryafrica.com/2026/06/29/cape-towns-pressure-cooker-studios-scores-big-with-riot-games/?utm_source=rss&utm_medium=rss&utm_campaign=cape-towns-pressure-cooker-studios-scores-big-with-riot-games",
-        "published_at": "2026-06-29T05:38:14+00:00",
-        "representative_place": "Riot Games / Los Angeles workplace topic",
-        "place_label": "米国-Los Angeles-Riot Games",
-        "sort_place_label": "米国-Los Angeles-Riot Games",
-        "geocode_query": "Riot Games Los Angeles headquarters",
-        "place_type": "company_headquarters_city",
+        "representative_place": "Valve Corporation / Bellevue",
+        "place_label": "米国-ワシントン州-ベルビュー-Valve / Steam",
+        "sort_place_label": "米国-ワシントン州-ベルビュー-Valve / Steam",
+        "geocode_query": "Valve Corporation Bellevue Washington United States",
+        "place_type": "platform_sale_company_city",
         "location_precision": "city",
-        "place_reason": "Riot Gamesの社内運営を扱う記事なので、同社本拠地のLos Angelesに置く（一致語: Riot Games）",
-        "confidence": 0.7,
-        "rule_id": "observed_riot_games_los_angeles_workplace_201910",
-        "matched_text": "Riot Games",
+        "place_reason": "Steam Summer Saleの記事を、別会社トピックではなくSteam運営元ValveのBellevueに置く（一致語: Overwhelmingly Positive Games Worth Buying）",
+        "confidence": 0.72,
+        "rule_id": "observed_steam_summer_sale_valve_bellevue_202606",
+        "matched_text": "Overwhelmingly Positive Games Worth Buying",
         "match_source": "known_place_title"
       }
     },
@@ -1037,25 +1210,52 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.5801,
-          55.6816
+          138.2529,
+          36.2048
         ]
       },
       "properties": {
-        "title": "『007』シリーズ新作ゲーム、正式タイトル発表！『ヒットマン』開発チームが手掛ける「ジェームズ・ボンド」がSummer Game Festで再び登場 - 玩具人 TOY PEOPLE",
-        "source": "玩具人 TOY PEOPLE",
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBWY3F3UjlLdm13NFEyVmF0bGhXSFdkUFUzWGYwX2Y4Sm9LMGVZMnlUbko3bkdtOUZ4RmRxdHNteU9Id2wtMmI4YWpSSzlubVh0?oc=5",
-        "published_at": "2026-06-29T02:34:23+00:00",
-        "representative_place": "IO Interactive / Gammel Mønt 4 Copenhagen",
-        "place_label": "デンマーク-コペンハーゲン-Gammel Mønt 4-IO Interactive",
-        "sort_place_label": "デンマーク-コペンハーゲン-Gammel Mønt 4-IO Interactive",
-        "geocode_query": "Gammel Mønt 4 DK-1117 Copenhagen Denmark IO Interactive",
-        "place_type": "studio_site",
-        "location_precision": "exact_site",
-        "place_reason": "IO Interactive公式CareersのCopenhagen拠点住所がGammel Mønt 4, DK-1117 Copenhagen, Denmarkで確認できるため、007 First Light / James Bondゲーム系の記事を同住所に置く（一致語: 『007』シリーズ新作ゲーム）",
-        "confidence": 0.88,
-        "rule_id": "observed_io_interactive_007_first_light_copenhagen_202606",
-        "matched_text": "『007』シリーズ新作ゲーム",
+        "title": "【デイヴ・ザ・ダイバー】配信日と事前登録情報｜最新情報 - AppMedia",
+        "source": "AppMedia",
+        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1EX2dfWEtiUXFFN3dLUlVtWXJKMGoxYlVQU1owb3B5YTRRazhKeDk0QkYxb2tWWXhmc19aRjVKNzRkZlJrS0dQckpHWkc?oc=5",
+        "published_at": "2026-06-29T06:37:08+00:00",
+        "representative_place": "SAO Memory Defrag / Japan preregistration topic",
+        "place_label": "日本-ソードアート・オンライン メモリー・デフラグ事前登録",
+        "sort_place_label": "日本-ソードアート・オンライン メモリー・デフラグ事前登録",
+        "geocode_query": "Japan Sword Art Online Memory Defrag preregistration mobile game",
+        "place_type": "launch_market_region",
+        "location_precision": "country",
+        "place_reason": "日本向けスマホゲームの配信決定・事前登録記事なので、運営会社番地ではなく日本の配信市場トピックとして扱う（一致語: 事前登録）",
+        "confidence": 0.68,
+        "rule_id": "observed_sao_memory_defrag_prereg_japan_201801",
+        "matched_text": "事前登録",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4241,
+          -33.9249
+        ]
+      },
+      "properties": {
+        "title": "Cape Town’s Pressure Cooker Studios Scores Big with Riot Games",
+        "source": "Games Industry Africa",
+        "link": "https://gamesindustryafrica.com/2026/06/29/cape-towns-pressure-cooker-studios-scores-big-with-riot-games/?utm_source=rss&utm_medium=rss&utm_campaign=cape-towns-pressure-cooker-studios-scores-big-with-riot-games",
+        "published_at": "2026-06-29T05:38:14+00:00",
+        "representative_place": "Pressure Cooker Studios / Cape Town",
+        "place_label": "南アフリカ-西ケープ州-ケープタウン-Pressure Cooker Studios",
+        "sort_place_label": "南アフリカ-西ケープ州-ケープタウン-Pressure Cooker Studios",
+        "geocode_query": "Cape Town South Africa Pressure Cooker Studios",
+        "place_type": "studio_company_city",
+        "location_precision": "city",
+        "place_reason": "見出しがCape Townのスタジオを主語にしているため、提携先側ではなくCape Townに置く（一致語: Cape Town’s Pressure Cooker）",
+        "confidence": 0.72,
+        "rule_id": "observed_pressure_cooker_studios_cape_town_202606",
+        "matched_text": "Cape Town’s Pressure Cooker",
         "match_source": "known_place_title"
       }
     },
@@ -1150,9 +1350,9 @@
         ]
       },
       "properties": {
-        "title": "Chinese video games gain global appeal through technology, cultural storytelling - malaysiasun.com",
-        "source": "malaysiasun.com",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQlRvN1BVNjRTa3czTm1qZnBOWTNoSlVjenN3YkpOU29kYkRUZ25zQmtNWTRUd0NBMVVJUmh1ODdTSVNkXzVJa1Bzc25BbC1aWHhBWGNENjZhUDJxQ0l6RHFLX2dIbFJIM2F2M3hYLWNQaHVhNEVOQnBRV0hzaGo4Mlg1aTRwd3NwMzRrNEU4cUhWb2t4UFpEc0I4LVotUTc1bmhsQzF1U1ZrTW1kUVFEdWJqdjhvb1hLWGhMX2JiUQ?oc=5",
+        "title": "Chinese video games gain global appeal through technology, cultural storytelling - irishsun.com",
+        "source": "irishsun.com",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbWJMS0dtZHFFeXNpQjJ5WFNMZFhIZEZmYUJkQXNUQm0tbGtJMHBpWmJkSXpsTFB0SERZRVJMSk1yOVVfWjdWc19fMjV1Z3JGMVZLSkZZb3JOaURTQWVRQ0R0R2E0elljRkRFRXVSX296cHJCd0s3cl9NR1hrTkM0bmRSbjdPSklTSGVfVlYtZGtVbThWN05jemJyZVI5WVdiNHVEYlAtbFUtQ25zTEphdEVuM3pZTnJZTXVv?oc=5",
         "published_at": "2026-06-27T16:15:00+00:00",
         "representative_place": "Chinese video games / cultural storytelling topic",
         "place_label": "中国-ゲーム文化的ストーリーテリング",
@@ -1307,8 +1507,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -98.5795,
-          39.8283
+          -118.4004,
+          34.0736
         ]
       },
       "properties": {
@@ -1316,17 +1516,17 @@
         "source": "gamedeveloper",
         "link": "https://www.gamedeveloper.com/business/inside-skybound-s-video-game-strategy-ft-david-da-alpert-and-jon-goldman",
         "published_at": "2026-06-26T14:15:00+00:00",
-        "representative_place": "Skybound Entertainment / US company strategy topic",
-        "place_label": "米国-Skybound Entertainmentゲーム戦略",
-        "sort_place_label": "米国-Skybound Entertainmentゲーム戦略",
-        "geocode_query": "United States Skybound Entertainment video game strategy",
-        "place_type": "company_strategy_region",
-        "location_precision": "country",
-        "place_reason": "Skybound Entertainmentのゲーム戦略インタビュー記事なので、番地や支社を推測せず米国の会社戦略トピックとして扱う（一致語: Inside Skybound's video game strategy）",
-        "confidence": 0.58,
-        "rule_id": "observed_skybound_video_game_strategy_us_202606",
-        "matched_text": "Inside Skybound's video game strategy",
-        "match_source": "known_place_title"
+        "representative_place": "Skybound Entertainment / Beverly Hills",
+        "place_label": "米国-カリフォルニア州-ビバリーヒルズ-Skybound Entertainment",
+        "sort_place_label": "米国-カリフォルニア州-ビバリーヒルズ-Skybound Entertainment",
+        "geocode_query": "Skybound Entertainment Beverly Hills California United States",
+        "place_type": "entertainment_company_city",
+        "location_precision": "city",
+        "place_reason": "Skybound主体の記事をBeverly Hillsに置く。番地未確認のためcity粒度に止める",
+        "confidence": 0.68,
+        "rule_id": "observed_skybound_games_beverly_hills_202606",
+        "matched_text": "Skybound Entertainment",
+        "match_source": "rule"
       }
     },
     {
@@ -1469,8 +1669,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -98.5795,
-          39.8283
+          -122.009,
+          37.3349
         ]
       },
       "properties": {
@@ -1478,16 +1678,16 @@
         "source": "Latest Updates | PocketGamer.biz",
         "link": "https://www.pocketgamer.biz/apple-raises-macbook-and-ipad-prices-as-ai-driven-memory-costs-climb/",
         "published_at": "2026-06-26T10:48:00+00:00",
-        "representative_place": "Apple / AI memory cost hardware pricing topic",
-        "place_label": "米国-Appleハードウェア価格・AIメモリ需要",
-        "sort_place_label": "米国-Appleハードウェア価格・AIメモリ需要",
-        "geocode_query": "United States Apple hardware pricing AI memory demand",
-        "place_type": "hardware_market_region",
-        "location_precision": "country",
-        "place_reason": "Apple製品価格とAI由来メモリ需要の記事なので、Apple本社番地ではなく米国のハードウェア市場トピックとして扱う（一致語: Apple raises MacBook and iPad prices）",
-        "confidence": 0.56,
-        "rule_id": "observed_apple_ai_memory_price_rise_us_202606",
-        "matched_text": "Apple raises MacBook and iPad prices",
+        "representative_place": "Apple Park",
+        "place_label": "米国-カリフォルニア州-クパチーノ-Apple Park",
+        "sort_place_label": "米国-カリフォルニア州-クパチーノ-Apple Park",
+        "geocode_query": "Apple Park 1 Apple Park Way Cupertino California United States",
+        "place_type": "technology_company_site",
+        "location_precision": "exact_site",
+        "place_reason": "Apple製品価格改定の記事として、広域ハードウェア市場ではなくApple Parkに置く（一致語: MacBook and iPad prices）",
+        "confidence": 0.7,
+        "rule_id": "observed_apple_hardware_price_cupertino_202606",
+        "matched_text": "MacBook and iPad prices",
         "match_source": "known_place_title"
       }
     },
@@ -1712,6 +1912,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          138.2529,
+          36.2048
+        ]
+      },
+      "properties": {
+        "title": "【ラストファーリー：サバイバル】配信日と事前登録情報｜最新情報 - AppMedia",
+        "source": "AppMedia",
+        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9LNXJ6amllbk1RanV3c1hPejU3Q1BDblFiX1pCMnJJblI3UFZmZGlLQ013VWNjOFRzMWljMm1iZU5HVXN2YkYxLVhmbUg?oc=5",
+        "published_at": "2026-06-26T04:00:43+00:00",
+        "representative_place": "SAO Memory Defrag / Japan preregistration topic",
+        "place_label": "日本-ソードアート・オンライン メモリー・デフラグ事前登録",
+        "sort_place_label": "日本-ソードアート・オンライン メモリー・デフラグ事前登録",
+        "geocode_query": "Japan Sword Art Online Memory Defrag preregistration mobile game",
+        "place_type": "launch_market_region",
+        "location_precision": "country",
+        "place_reason": "日本向けスマホゲームの配信決定・事前登録記事なので、運営会社番地ではなく日本の配信市場トピックとして扱う（一致語: 事前登録）",
+        "confidence": 0.68,
+        "rule_id": "observed_sao_memory_defrag_prereg_japan_201801",
+        "matched_text": "事前登録",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.0,
           20.0
         ]
@@ -1739,8 +1966,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.0,
-          20.0
+          138.2529,
+          36.2048
         ]
       },
       "properties": {
@@ -1748,17 +1975,17 @@
         "source": "gamedeveloper",
         "link": "https://www.gamedeveloper.com/business/meccha-chameleon-sells-7m-copies-in-first-two-weeks",
         "published_at": "2026-06-25T19:00:00+00:00",
-        "representative_place": "Terminal regional studio article fallback topic",
-        "place_label": "複数地域-ゲームスタジオ旧記事まとめ",
-        "sort_place_label": "複数地域-ゲームスタジオ旧記事まとめ",
-        "geocode_query": "regional game studio developer legacy article",
-        "place_type": "studio_region",
-        "location_precision": "multi_region",
-        "place_reason": "末尾側に残るゲームスタジオ・開発者旧記事で所在地が確定しないものを、最低優先の複数地域スタジオトピックとして扱う",
-        "confidence": 0.24,
-        "rule_id": "observed_terminal_regional_studio_article_fallback",
-        "matched_text": "developer",
-        "match_source": "rule"
+        "representative_place": "Meccha Chameleon development context",
+        "place_label": "日本-Meccha Chameleon開発元",
+        "sort_place_label": "日本-Meccha Chameleon開発元",
+        "geocode_query": "Japan Meccha Chameleon lemorion_1224",
+        "place_type": "indie_game_studio_country",
+        "location_precision": "country",
+        "place_reason": "Meccha Chameleonの売上記事を汎用fallbackではなく日本の開発元トピックに置く。都市は未確認（一致語: Meccha Chameleon）",
+        "confidence": 0.62,
+        "rule_id": "observed_meccha_chameleon_japan_202606",
+        "matched_text": "Meccha Chameleon",
+        "match_source": "known_place_title"
       }
     },
     {
@@ -1982,8 +2209,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          138.2529,
-          36.2048
+          -118.3965,
+          34.0211
         ]
       },
       "properties": {
@@ -1991,17 +2218,17 @@
         "source": "Latest Updates | PocketGamer.biz",
         "link": "https://www.pocketgamer.biz/25m-messages-and-65m-groups-monopoly-go-chat-exceeding-even-our-high-expectations/",
         "published_at": "2026-06-25T14:32:00+00:00",
-        "representative_place": "Danmachi mobile / Japan preregistration topic",
-        "place_label": "日本-ダンまち新作スマホゲーム事前登録",
-        "sort_place_label": "日本-ダンまち新作スマホゲーム事前登録",
-        "geocode_query": "Japan Danmachi mobile game preregistration launch",
-        "place_type": "launch_market_region",
-        "location_precision": "country",
-        "place_reason": "日本向けキャラクターIPスマホゲームの配信決定・事前登録記事なので、会社番地ではなく日本の配信市場トピックとして扱う",
-        "confidence": 0.68,
-        "rule_id": "observed_danmachi_mobile_prereg_japan_201703",
-        "matched_text": "JOURNEY",
-        "match_source": "rule"
+        "representative_place": "Scopely / Culver City",
+        "place_label": "米国-カリフォルニア州-カルバーシティ-Scopely",
+        "sort_place_label": "米国-カリフォルニア州-カルバーシティ-Scopely",
+        "geocode_query": "Scopely Culver City California United States",
+        "place_type": "mobile_game_company_city",
+        "location_precision": "city",
+        "place_reason": "Monopoly Go主体の記事を日本IPスマホゲームfallbackではなくScopely所在地のCulver Cityに置く（一致語: Monopoly Go Chat）",
+        "confidence": 0.74,
+        "rule_id": "observed_monopoly_go_scopely_culver_city_202606",
+        "matched_text": "Monopoly Go Chat",
+        "match_source": "known_place_title"
       }
     },
     {
@@ -2225,8 +2452,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.0,
-          20.0
+          -87.6298,
+          41.8781
         ]
       },
       "properties": {
@@ -2234,44 +2461,17 @@
         "source": "GamesIndustry.biz Latest Articles Feed",
         "link": "https://www.gamesindustry.biz/circana-nintendo-switch-2-helped-us-physical-game-spending-increase-year-on-year-for-first-time-since-2009",
         "published_at": "2026-06-25T12:13:39+00:00",
-        "representative_place": "Overseas indie studios / Nintendo Switch platform opinion topic",
-        "place_label": "複数地域-海外インディースタジオ/Switch論評",
-        "sort_place_label": "複数地域-海外インディースタジオ/Switch論評",
-        "geocode_query": "overseas indie studios Nintendo Switch platform opinion",
-        "place_type": "platform_discourse_region",
-        "location_precision": "multi_region",
-        "place_reason": "海外インディースタジオ複数社によるNintendo Switchへの意見記事なので、単一スタジオ住所ではなく複数地域のプラットフォーム言説トピックとして扱う（一致語: Nintendo Switch）",
-        "confidence": 0.58,
-        "rule_id": "observed_overseas_indie_switch_opinion_201701",
-        "matched_text": "Nintendo Switch",
+        "representative_place": "Circana / Chicago",
+        "place_label": "米国-イリノイ州-シカゴ-Circana",
+        "sort_place_label": "米国-イリノイ州-シカゴ-Circana",
+        "geocode_query": "Circana headquarters Chicago Illinois United States",
+        "place_type": "market_research_company_city",
+        "location_precision": "city",
+        "place_reason": "US Monthly Charts記事をXbox/Microsoftイベントではなく米国市場調査データ文脈としてCircana所在地に置く（一致語: Circana）",
+        "confidence": 0.66,
+        "rule_id": "observed_circana_us_monthly_charts_chicago_202606",
+        "matched_text": "Circana",
         "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.0,
-          30.0
-        ]
-      },
-      "properties": {
-        "title": "Forget RGB: Three Pieces of Hardware That Let Wood Do the Talking",
-        "source": "NAG",
-        "link": "https://www.nag.co.za/2026/06/25/forget-rgb-three-pieces-of-hardware-that-let-wood-do-the-talking/",
-        "published_at": "2026-06-25T11:05:32+00:00",
-        "representative_place": "Asia / Asian diaspora gaming policy-culture fallback topic",
-        "place_label": "アジア・ディアスポラ-ゲーム政策/文化記事",
-        "sort_place_label": "アジア・ディアスポラ-ゲーム政策/文化記事",
-        "geocode_query": "Asia Asian diaspora gaming policy culture developers",
-        "place_type": "policy_discourse_region",
-        "location_precision": "multi_region",
-        "place_reason": "アジア各国やアジア系ディアスポラのゲーム政策・文化記事を、低優先の複数地域トピックとして扱う",
-        "confidence": 0.34,
-        "rule_id": "observed_asia_gaming_policy_culture_fallback_202109",
-        "matched_text": "gaming",
-        "match_source": "rule"
       }
     },
     {
@@ -2433,33 +2633,6 @@
         "confidence": 0.82,
         "rule_id": "observed_xbox_corporate_pricing_and_studio_changes_202606",
         "matched_text": "Xbox's latest exclusivity pivot",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          138.2529,
-          36.2048
-        ]
-      },
-      "properties": {
-        "title": "ユービーアイソフトが大規模組織再編を発表、『時間の砂』リメイク含む6作品が開発中止に。2つのスタジオ閉鎖、ライブサービス型ゲームに注力へ - 玩具人 TOY PEOPLE",
-        "source": "玩具人 TOY PEOPLE",
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1rQnRoTzJ1Y2xobTNWOERTRFBxb21TUHJEQ0VHelpYUExybHhxRDg3WjMtZndJQngxMlFwYjZkT1JzYnA1N2U5YWpORFJhOFFf?oc=5",
-        "published_at": "2026-06-25T03:53:22+00:00",
-        "representative_place": "Japan indie game announcement fallback topic",
-        "place_label": "日本-インディーゲーム新作発表",
-        "sort_place_label": "日本-インディーゲーム新作発表",
-        "geocode_query": "Japan indie game developer announcement",
-        "place_type": "indie_studio_topic",
-        "location_precision": "country",
-        "place_reason": "日本語RSSに出るインディーゲーム開発者・新作発表記事で個別都市が確認できないものを、日本のインディーゲーム発表トピックとして扱う（一致語: スタジオ）",
-        "confidence": 0.46,
-        "rule_id": "observed_japan_indie_game_announcement_fallback_202511",
-        "matched_text": "スタジオ",
         "match_source": "known_place_title"
       }
     },
@@ -2792,35 +2965,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.9041,
-          52.3676
-        ]
-      },
-      "properties": {
-        "title": "Data digest: World Cup numbers, DTC hits $17bn, UEFN payouts, May’s top game ads, more",
-        "source": "Mobilegamer.biz",
-        "link": "https://mobilegamer.biz/data-digest-world-cup-numbers-dtc-hits-17bn-uefn-payouts-mays-top-ads-more/",
-        "published_at": "2026-06-24T14:10:36+00:00",
-        "representative_place": "MY.GAMES Amsterdam office area",
-        "place_label": "オランダ-アムステルダム-MY.GAMES",
-        "sort_place_label": "オランダ-アムステルダム-MY.GAMES",
-        "geocode_query": "MY.GAMES Amsterdam Netherlands",
-        "place_type": "publisher_site",
-        "location_precision": "city",
-        "place_reason": "MY.GAMES / Rush Royale記事をAmsterdam拠点に置く。office_areaはスコア表に未定義なので、住所未固定のオフィス周辺はcityに正規化する",
-        "confidence": 0.7,
-        "rule_id": "observed_mygames_rush_royale_amsterdam_202606",
-        "matched_text": "Rush Royale",
-        "match_source": "rule"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          20.0
+          -118.3965,
+          34.0211
         ]
       },
       "properties": {
@@ -2828,17 +2974,17 @@
         "source": "Latest Updates | PocketGamer.biz",
         "link": "https://www.pocketgamer.biz/june-2026s-movers-and-shakers/",
         "published_at": "2026-06-24T14:05:00+00:00",
-        "representative_place": "Global mobile game launch fallback topic",
-        "place_label": "複数地域-モバイルゲーム配信・事前登録記事",
-        "sort_place_label": "複数地域-モバイルゲーム配信・事前登録記事",
-        "geocode_query": "global mobile game launch preregistration release date",
-        "place_type": "launch_market_region",
-        "location_precision": "multi_region",
-        "place_reason": "単一会社住所に置けないモバイルゲーム配信・事前登録・リリース日記事を、複数地域のローンチ市場トピックとして低優先で扱う",
-        "confidence": 0.34,
-        "rule_id": "observed_global_mobile_launch_article_fallback_202505",
-        "matched_text": "mobile game",
-        "match_source": "rule"
+        "representative_place": "Scopely / Culver City",
+        "place_label": "米国-カリフォルニア州-カルバーシティ-Scopely",
+        "sort_place_label": "米国-カリフォルニア州-カルバーシティ-Scopely",
+        "geocode_query": "Scopely Culver City California United States",
+        "place_type": "mobile_game_company_city",
+        "location_precision": "city",
+        "place_reason": "Monopoly Go主体の記事を日本IPスマホゲームfallbackではなくScopely所在地のCulver Cityに置く（一致語: Scopely）",
+        "confidence": 0.74,
+        "rule_id": "observed_monopoly_go_scopely_culver_city_202606",
+        "matched_text": "Scopely",
+        "match_source": "known_place_title"
       }
     },
     {
@@ -2927,33 +3073,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          114.0579,
-          22.5431
-        ]
-      },
-      "properties": {
-        "title": "Tencent explores exits from Japanese game studio investments amid portfolio review",
-        "source": "Latest Updates | PocketGamer.biz",
-        "link": "https://www.pocketgamer.biz/tencent-explores-exits-from-japanese-game-studio-investments-amid-portfolio-review/",
-        "published_at": "2026-06-24T11:12:00+00:00",
-        "representative_place": "Tencent / Shenzhen Block Blast investment topic",
-        "place_label": "中国-Shenzhen-Tencent / Block Blast投資記事",
-        "sort_place_label": "中国-Shenzhen-Tencent / Block Blast投資記事",
-        "geocode_query": "Tencent Shenzhen China Block Blast Hungry Studio",
-        "place_type": "company_investment_city",
-        "location_precision": "city",
-        "place_reason": "TencentによるBlock Blast関連スタジオへの出資検討記事なので、投資側企業TencentのShenzhenに置く。対象スタジオ所在地は未確定のため投資側に寄せる（一致語: Tencent）",
-        "confidence": 0.56,
-        "rule_id": "observed_tencent_shenzhen_block_blast_stake_202603",
-        "matched_text": "Tencent",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           0.0,
           20.0
         ]
@@ -2973,60 +3092,6 @@
         "confidence": 0.28,
         "rule_id": "observed_legacy_games_business_article_fallback_2012",
         "matched_text": "market",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          18.0686,
-          59.3293
-        ]
-      },
-      "properties": {
-        "title": "AI could help quadruple new game development, says Mag boss",
-        "source": "Mobilegamer.biz",
-        "link": "https://mobilegamer.biz/ai-could-help-quadruple-new-game-development-says-mag-boss/",
-        "published_at": "2026-06-24T10:29:50+00:00",
-        "representative_place": "MAG Interactive",
-        "place_label": "スウェーデン-ストックホルム",
-        "sort_place_label": "スウェーデン-ストックホルム",
-        "geocode_query": "MAG Interactive Stockholm Sweden",
-        "place_type": "studio_site",
-        "location_precision": "city",
-        "place_reason": "未解決記事にDaniel Hasselberg発言としてMAG Interactiveの開発体制が扱われており、MAG Interactiveはストックホルム拠点のスウェーデンのモバイルゲーム開発会社として確認できるためストックホルムに置く（一致語: Mag boss）",
-        "confidence": 0.76,
-        "rule_id": "observed_mag_interactive_stockholm_202606",
-        "matched_text": "Mag boss",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          121.4368,
-          31.1846
-        ]
-      },
-      "properties": {
-        "title": "HoYoverse’s new game Honkai: Nexus Anima gets closed beta test in July",
-        "source": "Latest Updates | PocketGamer.biz",
-        "link": "https://www.pocketgamer.biz/hoyoverses-new-game-honkai-nexus-anima-gets-closed-beta-test-in-july/",
-        "published_at": "2026-06-24T10:10:00+00:00",
-        "representative_place": "miHoYo / HoYoverse Shanghai studio area",
-        "place_label": "中国-上海市-徐匯区-miHoYo/HoYoverse周辺",
-        "sort_place_label": "中国-上海市-徐匯区-miHoYo/HoYoverse周辺",
-        "geocode_query": "miHoYo HoYoverse Xuhui Shanghai China",
-        "place_type": "studio_site",
-        "location_precision": "district",
-        "place_reason": "Honkai: Nexus Anima系の記事はHoYoverse / miHoYo主体として上海徐匯区に置く。番地まで固定せずdistrictに止め、北京イベントなどは吸わないよう作品名文脈に絞る（一致語: Honkai: Nexus Anima）",
-        "confidence": 0.76,
-        "rule_id": "observed_hoyoverse_honkai_nexus_anima_shanghai_202606",
-        "matched_text": "Honkai: Nexus Anima",
         "match_source": "known_place_title"
       }
     },
@@ -3143,8 +3208,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.6753,
-          9.082
+          -0.7526,
+          51.2869
         ]
       },
       "properties": {
@@ -3152,17 +3217,17 @@
         "source": "Games Industry Africa",
         "link": "https://gamesindustryafrica.com/2026/06/24/galaxy-pilgrim-inside-the-nigerian-contributions-to-yellow-emperor-games-three-year-passion-project/?utm_source=rss&utm_medium=rss&utm_campaign=galaxy-pilgrim-inside-the-nigerian-contributions-to-yellow-emperor-games-three-year-passion-project",
         "published_at": "2026-06-24T06:12:48+00:00",
-        "representative_place": "Galaxy Pilgrim / Nigerian developer contributions",
-        "place_label": "ナイジェリア-Galaxy Pilgrim開発者貢献",
-        "sort_place_label": "ナイジェリア-Galaxy Pilgrim開発者貢献",
-        "geocode_query": "Nigeria Galaxy Pilgrim Nigerian developers",
-        "place_type": "contributor_topic",
-        "location_precision": "country_contributor_topic",
-        "place_reason": "Galaxy Pilgrimに関するナイジェリア開発者の貢献記事なので、単なるナイジェリアではなく作品別の開発者貢献トピックとしてラベルを分ける（一致語: Nigerian contributions）",
-        "confidence": 0.58,
-        "rule_id": "observed_galaxy_pilgrim_nigerian_contributors_202606",
-        "matched_text": "Nigerian contributions",
-        "match_source": "known_place_title"
+        "representative_place": "nDreams founder context",
+        "place_label": "英国-イングランド-ハンプシャー州-ファーンバラ",
+        "sort_place_label": "英国-イングランド-ハンプシャー州-ファーンバラ",
+        "geocode_query": "Farnborough Hampshire United Kingdom",
+        "place_type": "studio_founder_city",
+        "location_precision": "city",
+        "place_reason": "nDreams創業者文脈の記事としてFarnboroughに置く",
+        "confidence": 0.62,
+        "rule_id": "observed_atmospheric_farnborough_202606",
+        "matched_text": "Atmospheric",
+        "match_source": "rule"
       }
     },
     {
@@ -3270,33 +3335,6 @@
         "confidence": 0.56,
         "rule_id": "observed_tencent_shenzhen_block_blast_stake_202603",
         "matched_text": "Tencent",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          104.1954,
-          35.8617
-        ]
-      },
-      "properties": {
-        "title": "Kingshot maker Century hires a flurry of footballers for World Cup ad spots",
-        "source": "Mobilegamer.biz",
-        "link": "https://mobilegamer.biz/century-hires-a-flurry-of-footballers-for-kingshot-ad-spots-during-world-cup/",
-        "published_at": "2026-06-23T13:22:28+00:00",
-        "representative_place": "Century Games / China Kingshot campaign topic",
-        "place_label": "中国-Century Games / Kingshot広告記事",
-        "sort_place_label": "中国-Century Games / Kingshot広告記事",
-        "geocode_query": "Century Games China Kingshot mobile game",
-        "place_type": "mobile_game_company_country",
-        "location_precision": "country",
-        "place_reason": "Kingshot maker Centuryの広告記事なので、会社名が示すCentury Games系の中国ゲーム企業トピックとして国レベルに置く。詳細都市は未確定のため固定しない（一致語: Kingshot maker Century）",
-        "confidence": 0.42,
-        "rule_id": "observed_century_games_china_kingshot_world_cup_ads_202606",
-        "matched_text": "Kingshot maker Century",
         "match_source": "known_place_title"
       }
     },
@@ -3602,8 +3640,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          78.9629,
-          20.5937
+          13.8458,
+          58.3912
         ]
       },
       "properties": {
@@ -3611,17 +3649,17 @@
         "source": "GamesIndustry.biz Latest Articles Feed",
         "link": "https://www.gamesindustry.biz/you-just-look-at-the-number-and-go-what-happened-the-developers-of-rv-there-yet-on-their-surprise-multi-million-selling-success",
         "published_at": "2026-06-22T14:43:55+00:00",
-        "representative_place": "Tara Gaming / India new studio topic",
-        "place_label": "インド-Tara Gaming新スタジオ共同創業",
-        "sort_place_label": "インド-Tara Gaming新スタジオ共同創業",
-        "geocode_query": "India Tara Gaming studio co-founder Amitabh Bachchan Amish Tripathi",
-        "place_type": "studio_company_topic",
-        "location_precision": "country",
-        "place_reason": "Tara Gaming studioへの共同創業参加記事なので、都市や番地を固定せずインドの新スタジオ/会社トピックとして扱う",
-        "confidence": 0.64,
-        "rule_id": "observed_tara_gaming_india_cofounder_202505",
-        "matched_text": "co-founder",
-        "match_source": "rule"
+        "representative_place": "Skovde game studio",
+        "place_label": "スウェーデン-シェブデ",
+        "sort_place_label": "スウェーデン-シェブデ",
+        "geocode_query": "Skovde Sweden",
+        "place_type": "studio_city",
+        "location_precision": "city",
+        "place_reason": "対象作品の開発元文脈としてSkovdeに置く（一致語: RV There Yet）",
+        "confidence": 0.78,
+        "rule_id": "observed_skovde_studio_202606",
+        "matched_text": "RV There Yet",
+        "match_source": "known_place_title"
       }
     },
     {
@@ -3899,8 +3937,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -98.5795,
-          39.8283
+          -122.3255,
+          37.5629
         ]
       },
       "properties": {
@@ -3908,16 +3946,16 @@
         "source": "GamesIndustry.biz Latest Articles Feed",
         "link": "https://www.gamesindustry.biz/roblox-details-how-much-creators-will-pay-for-brand-integrations",
         "published_at": "2026-06-19T10:17:34+00:00",
-        "representative_place": "Roblox / brand integrations monetisation topic",
-        "place_label": "米国-Robloxブランド統合収益化",
-        "sort_place_label": "米国-Robloxブランド統合収益化",
-        "geocode_query": "United States Roblox brand integrations monetisation",
-        "place_type": "platform_policy_region",
-        "location_precision": "country",
-        "place_reason": "Robloxのブランド統合課金・クリエイター収益化に関する記事なので、企業本社番地ではなく米国プラットフォーム運営トピックとして扱う（一致語: Roblox details how much creators will pay for brand integrations）",
-        "confidence": 0.62,
-        "rule_id": "observed_roblox_brand_integrations_us_202606",
-        "matched_text": "Roblox details how much creators will pay for brand integrations",
+        "representative_place": "Roblox Corporation / San Mateo",
+        "place_label": "米国-カリフォルニア州-サンマテオ-Roblox Corporation",
+        "sort_place_label": "米国-カリフォルニア州-サンマテオ-Roblox Corporation",
+        "geocode_query": "Roblox Corporation San Mateo California United States",
+        "place_type": "platform_company_city",
+        "location_precision": "city",
+        "place_reason": "Roblox主体の記事をSan Mateoに置く。番地は使わずcity粒度に止める（一致語: Roblox）",
+        "confidence": 0.7,
+        "rule_id": "observed_roblox_company_san_mateo_202606",
+        "matched_text": "Roblox",
         "match_source": "known_place_title"
       }
     },
@@ -3953,8 +3991,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.6503,
-          35.6762
+          139.7302,
+          35.6148
         ]
       },
       "properties": {
@@ -3962,15 +4000,15 @@
         "source": "Kakuchopurei",
         "link": "https://www.kakuchopurei.com/2026/06/persona-4-revival-what-you-need-to-know-about-the-upcoming-remake/",
         "published_at": "2026-06-19T08:53:53+00:00",
-        "representative_place": "Atlus / Persona 4 Revival remake topic",
-        "place_label": "日本-東京都-Atlus / Persona 4 Revival",
-        "sort_place_label": "日本-東京都-Atlus / Persona 4 Revival",
-        "geocode_query": "Atlus Tokyo Japan Persona 4 Revival",
-        "place_type": "studio_company_topic",
-        "location_precision": "city",
-        "place_reason": "Persona 4 RevivalのAtlus関連リメイク記事なので、番地を推測せずAtlus主体の東京city粒度に置く（一致語: Persona 4 Revival）",
-        "confidence": 0.68,
-        "rule_id": "observed_persona_4_revival_atlus_tokyo_202606",
+        "representative_place": "株式会社アトラス / 住友不動産大崎ガーデンタワー12階",
+        "place_label": "日本-東京都-品川区-西品川-住友不動産大崎ガーデンタワー-株式会社アトラス",
+        "sort_place_label": "日本-東京都-品川区-西品川-住友不動産大崎ガーデンタワー-株式会社アトラス",
+        "geocode_query": "東京都品川区西品川1丁目1番1号 住友不動産大崎ガーデンタワー 12階 株式会社アトラス",
+        "place_type": "studio_company_site",
+        "location_precision": "building",
+        "place_reason": "Persona 4 Revival / Atlus主体の記事なので、東京都city粒度ではなくアトラス本店所在地に置く（一致語: Persona 4 Revival）",
+        "confidence": 0.9,
+        "rule_id": "observed_atlus_persona4_revival_osaki_202606",
         "matched_text": "Persona 4 Revival",
         "match_source": "known_place_title"
       }
@@ -4223,8 +4261,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.0,
-          20.0
+          139.6951,
+          35.6544
         ]
       },
       "properties": {
@@ -4232,16 +4270,70 @@
         "source": "Kakuchopurei",
         "link": "https://www.kakuchopurei.com/2026/06/granblue-fantasy-relink-endless-ragnarok-hands-on-preview-sgf-2026/",
         "published_at": "2026-06-18T07:00:59+00:00",
-        "representative_place": "Granblue Fantasy Relink / SGF preview topic",
-        "place_label": "複数地域-SGF 2026プレビュー記事",
-        "sort_place_label": "複数地域-SGF 2026プレビュー記事",
-        "geocode_query": "SGF 2026 Granblue Fantasy Relink preview",
-        "place_type": "event_media_topic",
-        "location_precision": "multi_region",
-        "place_reason": "SGF 2026のハンズオンプレビュー記事なので、Cygames本社や会場番地ではなくイベント取材トピックとして扱う（一致語: Granblue Fantasy Relink: Endless Ragnarok）",
-        "confidence": 0.55,
-        "rule_id": "observed_granblue_relink_sgf_preview_202606",
-        "matched_text": "Granblue Fantasy Relink: Endless Ragnarok",
+        "representative_place": "Cygames / 住友不動産渋谷ガーデンタワー15階",
+        "place_label": "日本-東京都-渋谷区-南平台町-住友不動産渋谷ガーデンタワー-Cygames",
+        "sort_place_label": "日本-東京都-渋谷区-南平台町-住友不動産渋谷ガーデンタワー-Cygames",
+        "geocode_query": "東京都渋谷区南平台町16番17号 住友不動産渋谷ガーデンタワー15階 Cygames",
+        "place_type": "studio_company_site",
+        "location_precision": "building",
+        "place_reason": "Umamusume主体の記事を、別イベントfallbackではなく開発・運営元Cygamesの本社所在地に置く（一致語: Cygames）",
+        "confidence": 0.88,
+        "rule_id": "observed_umamusume_cygames_shibuya_202606",
+        "matched_text": "Cygames",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.2529,
+          36.2048
+        ]
+      },
+      "properties": {
+        "title": "『カードキャプターさくら』新作スマホゲームの事前登録スタート。さまざまな衣装のさくらの姿を見られるほか、収集要素やお部屋のデコレーション要素も - ファミ通",
+        "source": "ファミ通",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFByTmtQUjByQnk5VzlhLTh3YmF2U3hRRUtpalhya1VzaUJhdm8yMVBIZElfM09mWWMwU1pHMDZ0bjV0d0lmejZjTngwZEFJLVllbkZlX2ZVdw?oc=5",
+        "published_at": "2026-06-18T07:00:00+00:00",
+        "representative_place": "SAO Memory Defrag / Japan preregistration topic",
+        "place_label": "日本-ソードアート・オンライン メモリー・デフラグ事前登録",
+        "sort_place_label": "日本-ソードアート・オンライン メモリー・デフラグ事前登録",
+        "geocode_query": "Japan Sword Art Online Memory Defrag preregistration mobile game",
+        "place_type": "launch_market_region",
+        "location_precision": "country",
+        "place_reason": "日本向けスマホゲームの配信決定・事前登録記事なので、運営会社番地ではなく日本の配信市場トピックとして扱う（一致語: 事前登録）",
+        "confidence": 0.68,
+        "rule_id": "observed_sao_memory_defrag_prereg_japan_201801",
+        "matched_text": "事前登録",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.2529,
+          36.2048
+        ]
+      },
+      "properties": {
+        "title": "【無料化】『PUBG』クリエイターによるオープンワールドサバイバル『Prologue: Go Wayback!』最終アップデート配信 - Game*Spark",
+        "source": "Game*Spark",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zRm5sMXQyLUcwVkxTeGdxUk9sQUdmYTZZYV9IZG9JOVRZeEhUSE90Z2NUTzZFZ0pfem1QZ0ZlcVNaZGhvVm9sZ0d2MmdhT2ZYZzB6MWRTb1pfdkt3TTNfSEdocXFldw?oc=5",
+        "published_at": "2026-06-18T07:00:00+00:00",
+        "representative_place": "Ensemble Girls / Japan mobile launch topic",
+        "place_label": "日本-あんさんぶるガールズ！！配信",
+        "sort_place_label": "日本-あんさんぶるガールズ！！配信",
+        "geocode_query": "Japan Ensemble Girls mobile game launch",
+        "place_type": "launch_market_region",
+        "location_precision": "country",
+        "place_reason": "日本向けスマホゲーム配信記事なので、運営会社住所ではなく日本の配信市場トピックとして扱う（一致語: 配信）",
+        "confidence": 0.64,
+        "rule_id": "observed_ensemble_girls_launch_japan_201610",
+        "matched_text": "配信",
         "match_source": "known_place_title"
       }
     },
@@ -4567,87 +4659,6 @@
         "rule_id": "observed_terminal_regional_studio_article_fallback",
         "matched_text": "developer",
         "match_source": "rule"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          20.0
-        ]
-      },
-      "properties": {
-        "title": "Analyzing Mouse: P.I. For Hire's audacious worldbuilding - Narrative Notebook #4",
-        "source": "gamedeveloper",
-        "link": "https://www.gamedeveloper.com/design/analyzing-mouse-p-i-for-hire-s-audacious-worldbuilding-narrative-notebook",
-        "published_at": "2026-06-16T14:08:07+00:00",
-        "representative_place": "Terminal regional studio article fallback topic",
-        "place_label": "複数地域-ゲームスタジオ旧記事まとめ",
-        "sort_place_label": "複数地域-ゲームスタジオ旧記事まとめ",
-        "geocode_query": "regional game studio developer legacy article",
-        "place_type": "studio_region",
-        "location_precision": "multi_region",
-        "place_reason": "末尾側に残るゲームスタジオ・開発者旧記事で所在地が確定しないものを、最低優先の複数地域スタジオトピックとして扱う",
-        "confidence": 0.24,
-        "rule_id": "observed_terminal_regional_studio_article_fallback",
-        "matched_text": "developer",
-        "match_source": "rule"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.418,
-          33.9755
-        ]
-      },
-      "properties": {
-        "title": "Treyarch studio head steps down after 22 years",
-        "source": "gamedeveloper",
-        "link": "https://www.gamedeveloper.com/business/treyarch-studio-head-steps-down-after-22-years",
-        "published_at": "2026-06-16T14:05:00+00:00",
-        "representative_place": "Treyarch / Playa Vista",
-        "place_label": "米国-カリフォルニア州-ロサンゼルス-プラヤ・ビスタ",
-        "sort_place_label": "米国-カリフォルニア州-ロサンゼルス-プラヤ・ビスタ",
-        "geocode_query": "Playa Vista Los Angeles California United States",
-        "place_type": "studio_site",
-        "location_precision": "district",
-        "place_reason": "Treyarch単独語ではCall of Duty等の広い言及記事まで吸う可能性があるため、スタジオヘッド退任記事に絞る。現時点では公開確認できる安全な粒度を地区単位に止める（一致語: Treyarch studio head steps down after 22 years）",
-        "confidence": 0.76,
-        "rule_id": "observed_treyarch_studio_head_los_angeles_202606",
-        "matched_text": "Treyarch studio head steps down after 22 years",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.19,
-          45.4642
-        ]
-      },
-      "properties": {
-        "title": "Banned horror title Horses begins recouping development costs after selling 30,000 copies",
-        "source": "gamedeveloper",
-        "link": "https://www.gamedeveloper.com/business/horses-begins-recouping-development-costs-after-selling-30-000-copies",
-        "published_at": "2026-06-16T13:18:12+00:00",
-        "representative_place": "Santa Ragione / Milan studio area",
-        "place_label": "イタリア-ミラノ-Santa Ragione周辺",
-        "sort_place_label": "イタリア-ミラノ-Santa Ragione周辺",
-        "geocode_query": "Santa Ragione Milan Italy",
-        "place_type": "studio_site",
-        "location_precision": "city",
-        "place_reason": "Santa Ragioneの記事なのでミラノのスタジオ主体として扱う。番地を確実に固定できないため、studio_areaではなくcityに止める（一致語: Banned horror title Horses begins recouping development costs）",
-        "confidence": 0.68,
-        "rule_id": "observed_santa_ragione_horses_milan_202606",
-        "matched_text": "Banned horror title Horses begins recouping development costs",
-        "match_source": "known_place_title"
       }
     },
     {
@@ -5870,8 +5881,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.0,
-          20.0
+          138.2529,
+          36.2048
+        ]
+      },
+      "properties": {
+        "title": "韓国スマイルゲート、米スタジオと新作「クロスファイア」…軍事顧問が徹底監修「リアルを極めた」シングルプレイ - Yahoo!ニュース",
+        "source": "Yahoo!ニュース",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE41S1VqWGFiV3FMYk9vZjQ1RlBidjVCNUpmTUF3OEg5WG81UEJoMEp0LTRrRzZ3UndEM2hrY0luTDZoZFkyOXlxeDFQZWhJUmV6Q0FDbnNZNllHT2U3SFFuQU1YOWVkNl83Rzhza2ItMGczUXhGUklWMDdINUx1dnM?oc=5",
+        "published_at": "2026-06-09T07:00:00+00:00",
+        "representative_place": "Japan indie game announcement fallback topic",
+        "place_label": "日本-インディーゲーム新作発表",
+        "sort_place_label": "日本-インディーゲーム新作発表",
+        "geocode_query": "Japan indie game developer announcement",
+        "place_type": "indie_studio_topic",
+        "location_precision": "country",
+        "place_reason": "日本語RSSに出るインディーゲーム開発者・新作発表記事で個別都市が確認できないものを、日本のインディーゲーム発表トピックとして扱う（一致語: スタジオ）",
+        "confidence": 0.46,
+        "rule_id": "observed_japan_indie_game_announcement_fallback_202511",
+        "matched_text": "スタジオ",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3255,
+          37.5629
         ]
       },
       "properties": {
@@ -5879,17 +5917,17 @@
         "source": "GamesIndustry.biz Latest Articles Feed",
         "link": "https://www.gamesindustry.biz/roblox-partners-with-superawesome-to-bring-brand-safe-advertising-to-under-13s",
         "published_at": "2026-06-08T21:53:33+00:00",
-        "representative_place": "Legacy games business article fallback topic",
-        "place_label": "複数地域-ゲーム事業旧記事",
-        "sort_place_label": "複数地域-ゲーム事業旧記事",
-        "geocode_query": "legacy games business venture market",
-        "place_type": "company_operations_region",
-        "location_precision": "multi_region",
-        "place_reason": "古いゲーム事業・会社戦略記事で所在地を固定できないものを、複数地域の最低優先会社運営トピックとして扱う",
-        "confidence": 0.28,
-        "rule_id": "observed_legacy_games_business_article_fallback_2012",
-        "matched_text": "market",
-        "match_source": "rule"
+        "representative_place": "Roblox Corporation / San Mateo",
+        "place_label": "米国-カリフォルニア州-サンマテオ-Roblox Corporation",
+        "sort_place_label": "米国-カリフォルニア州-サンマテオ-Roblox Corporation",
+        "geocode_query": "Roblox Corporation San Mateo California United States",
+        "place_type": "platform_company_city",
+        "location_precision": "city",
+        "place_reason": "Roblox主体の記事をSan Mateoに置く。番地は使わずcity粒度に止める（一致語: Roblox）",
+        "confidence": 0.7,
+        "rule_id": "observed_roblox_company_san_mateo_202606",
+        "matched_text": "Roblox",
+        "match_source": "known_place_title"
       }
     },
     {
@@ -6572,6 +6610,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          4.3007,
+          52.0705
+        ]
+      },
+      "properties": {
+        "title": "新作サ終で揺れる『デトロイト』開発元に仏・労組が抗議声明。「経営陣の失策」とし痛烈批判、95名の雇用危機など深刻な実態を告発 - Game*Spark",
+        "source": "Game*Spark",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1vWmJnM2NMMXc3Zk5VLVViSkJTQzRLZ3BEWWhCbXBsLW5UYXVpRnM5SDFOLWJFQWlobGdBUUV4QWZRYkdUbUNibUprTmJ6ZVZEOW5MZU1kcDZKV3BNcU13cnA2ZWZ6QQ?oc=5",
+        "published_at": "2026-05-22T07:00:00+00:00",
+        "representative_place": "Paladin Studios / The Hague Good Job topic",
+        "place_label": "オランダ-The Hague-Paladin Studios / Good Job!",
+        "sort_place_label": "オランダ-The Hague-Paladin Studios / Good Job!",
+        "geocode_query": "Paladin Studios The Hague Netherlands Good Job",
+        "place_type": "studio_headquarters_city",
+        "location_precision": "city",
+        "place_reason": "Good Job!開発元Paladin Studiosの記事なので、同社所在地のThe Hagueに置く",
+        "confidence": 0.7,
+        "rule_id": "observed_paladin_studios_the_hague_good_job_202405",
+        "matched_text": "開発元",
+        "match_source": "rule"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.0,
           20.0
         ]
@@ -7112,60 +7177,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          138.2529,
-          36.2048
-        ]
-      },
-      "properties": {
-        "title": "「名越スタジオ」公式サイトがアクセス不可に。3月から不穏な動きが続くも公式声明は未だ発表されず - インサイド",
-        "source": "インサイド",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8zak12Zk5qelNya1BGNF9xa1lTZ0VNeGZlbHVycEVOTEY3TlNKNnFEQkxNSmhjaHpGMWlnUVBzYzdQMER2cEJnYzNwWFhlQzhUc0ZEdFI1RjFxQ19ZR1RVV29BN1JYRnZuUlE?oc=5",
-        "published_at": "2026-05-13T07:00:00+00:00",
-        "representative_place": "Japan indie game announcement fallback topic",
-        "place_label": "日本-インディーゲーム新作発表",
-        "sort_place_label": "日本-インディーゲーム新作発表",
-        "geocode_query": "Japan indie game developer announcement",
-        "place_type": "indie_studio_topic",
-        "location_precision": "country",
-        "place_reason": "日本語RSSに出るインディーゲーム開発者・新作発表記事で個別都市が確認できないものを、日本のインディーゲーム発表トピックとして扱う（一致語: スタジオ）",
-        "confidence": 0.46,
-        "rule_id": "observed_japan_indie_game_announcement_fallback_202511",
-        "matched_text": "スタジオ",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          138.2529,
-          36.2048
-        ]
-      },
-      "properties": {
-        "title": "インディーゲーム開発者の知見集結イベント「Indie Developers Conference 2026」11月28日に開催へ。成功事例も増える業界の、悩みやトラブル解消ノウハウを分かち合う - AUTOMATON",
-        "source": "AUTOMATON",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE05bWVDVDhVbGZub3Y0Q1RKV1ZSS0Q2Vl9kVjBTdFpaUFF4OWNhbGNOU3ZUUEd4bzZtYlUzeXI3WTlEeGwzdm5RZUxwd0puNTVBbG84aXJTVnRqMXBJRi0tYkJVYk1Dek9JR2R2ag?oc=5",
-        "published_at": "2026-05-13T07:00:00+00:00",
-        "representative_place": "Japan indie game announcement fallback topic",
-        "place_label": "日本-インディーゲーム新作発表",
-        "sort_place_label": "日本-インディーゲーム新作発表",
-        "geocode_query": "Japan indie game developer announcement",
-        "place_type": "indie_studio_topic",
-        "location_precision": "country",
-        "place_reason": "日本語RSSに出るインディーゲーム開発者・新作発表記事で個別都市が確認できないものを、日本のインディーゲーム発表トピックとして扱う（一致語: インディーゲーム開発者）",
-        "confidence": 0.46,
-        "rule_id": "observed_japan_indie_game_announcement_fallback_202511",
-        "matched_text": "インディーゲーム開発者",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           113.9213,
           -0.7893
         ]
@@ -7625,8 +7636,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -98.5795,
-          39.8283
+          -122.3255,
+          37.5629
         ]
       },
       "properties": {
@@ -7634,17 +7645,17 @@
         "source": "Game World Observer",
         "link": "https://gameworldobserver.com/2026/04/22/the-australian-authorities-have-demanded-that-valve-explain-how-it-combats-extremism-on-steam",
         "published_at": "2026-04-22T13:35:19+00:00",
-        "representative_place": "Epic / Valve AI disclosure policy dispute",
-        "place_label": "米国-Epic・Valve AI表示ポリシー論争",
-        "sort_place_label": "米国-Epic・Valve AI表示ポリシー論争",
-        "geocode_query": "United States Epic Valve Steam AI labels policy dispute",
-        "place_type": "platform_policy_region",
-        "location_precision": "country",
-        "place_reason": "EpicとValveのAI表示ポリシーをめぐる論争記事なので、一方の本社番地に寄せず米国のプラットフォーム政策トピックとして扱う（一致語: Valve）",
-        "confidence": 0.62,
-        "rule_id": "observed_epic_steam_ai_label_dispute_us_202606",
-        "matched_text": "Valve",
-        "match_source": "known_place_title"
+        "representative_place": "Roblox Corporation / San Mateo",
+        "place_label": "米国-カリフォルニア州-サンマテオ-Roblox Corporation",
+        "sort_place_label": "米国-カリフォルニア州-サンマテオ-Roblox Corporation",
+        "geocode_query": "Roblox Corporation San Mateo California United States",
+        "place_type": "platform_company_city",
+        "location_precision": "city",
+        "place_reason": "Roblox主体の記事をSan Mateoに置く。番地は使わずcity粒度に止める",
+        "confidence": 0.7,
+        "rule_id": "observed_roblox_company_san_mateo_202606",
+        "matched_text": "Roblox",
+        "match_source": "rule"
       }
     },
     {
@@ -7814,33 +7825,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          138.2529,
-          36.2048
-        ]
-      },
-      "properties": {
-        "title": "日本におけるインディーゲームの現在地とは。インディーゲーム開発者でもある一條貴彰氏が語る，投資や資金調達の課題とその打開策 - 4Gamer.net",
-        "source": "4Gamer.net",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5HT0xxOV9HZ3huZ0FyUUhNeDVjcVMzekR5ZlFNdUR4a0dTS0Z6MWhCa3NYcV9RUmIyVjRzdlhCQlVKWGVncHBVb3o1Q18wNnZQM29aSnRxamtsejVDSUNYVWdYRQ?oc=5",
-        "published_at": "2026-04-17T07:00:00+00:00",
-        "representative_place": "Japan indie game announcement fallback topic",
-        "place_label": "日本-インディーゲーム新作発表",
-        "sort_place_label": "日本-インディーゲーム新作発表",
-        "geocode_query": "Japan indie game developer announcement",
-        "place_type": "indie_studio_topic",
-        "location_precision": "country",
-        "place_reason": "日本語RSSに出るインディーゲーム開発者・新作発表記事で個別都市が確認できないものを、日本のインディーゲーム発表トピックとして扱う（一致語: インディーゲーム開発者）",
-        "confidence": 0.46,
-        "rule_id": "observed_japan_indie_game_announcement_fallback_202511",
-        "matched_text": "インディーゲーム開発者",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -118.2437,
           34.0522
         ]
@@ -7968,6 +7952,33 @@
         "confidence": 0.7,
         "rule_id": "observed_rockstar_new_york_gta_online_revenue_202604",
         "matched_text": "Rockstar Games",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.2529,
+          36.2048
+        ]
+      },
+      "properties": {
+        "title": "日本におけるインディーゲームの現在地とは。インディーゲーム開発者でもある一條貴彰氏が語る，投資や資金調達の課題とその打開策 - 4Gamer.net",
+        "source": "4Gamer.net",
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5HT0xxOV9HZ3huZ0FyUUhNeDVjcVMzekR5ZlFNdUR4a0dTS0Z6MWhCa3NYcV9RUmIyVjRzdlhCQlVKWGVncHBVb3o1Q18wNnZQM29aSnRxamtsejVDSUNYVWdYRQ?oc=5",
+        "published_at": "2026-04-14T07:00:00+00:00",
+        "representative_place": "Japan indie game announcement fallback topic",
+        "place_label": "日本-インディーゲーム新作発表",
+        "sort_place_label": "日本-インディーゲーム新作発表",
+        "geocode_query": "Japan indie game developer announcement",
+        "place_type": "indie_studio_topic",
+        "location_precision": "country",
+        "place_reason": "日本語RSSに出るインディーゲーム開発者・新作発表記事で個別都市が確認できないものを、日本のインディーゲーム発表トピックとして扱う（一致語: インディーゲーム開発者）",
+        "confidence": 0.46,
+        "rule_id": "observed_japan_indie_game_announcement_fallback_202511",
+        "matched_text": "インディーゲーム開発者",
         "match_source": "known_place_title"
       }
     },
@@ -8489,33 +8500,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.0,
-          30.0
-        ]
-      },
-      "properties": {
-        "title": "Another PlayStation price hike means the gaming console will cost 30% more than it did last year - The Star",
-        "source": "The Star",
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNcWpoUGgtcjg0WXR2bXc5M1NJMnFJNFJ1cjRyRG0wV2hjeXVhSExSY29ETXJtTG96QUROeC1qNGQ1VXZiai0wb1hmbzhZRTFpTHRTNW55NEhlNV9CU0cwRUo5dE1FT1pRRU00cWNyNWdOeEN6allpWHpRWWNDcmFJdEJrOWRnNEdocWVtb1dkR2I1NVRrSk5KdERkU1hsUDNOU1EwWXZwUmZWeDBvZ1VwU3ZuVENxeWlsSnhYMGNRSUZNNDNrR21CVHE0TmR1elhvcngxVjNFSHlNVTZRRk00UVNB?oc=5",
-        "published_at": "2026-03-30T07:00:00+00:00",
-        "representative_place": "Asia / Asian diaspora gaming policy-culture fallback topic",
-        "place_label": "アジア・ディアスポラ-ゲーム政策/文化記事",
-        "sort_place_label": "アジア・ディアスポラ-ゲーム政策/文化記事",
-        "geocode_query": "Asia Asian diaspora gaming policy culture developers",
-        "place_type": "policy_discourse_region",
-        "location_precision": "multi_region",
-        "place_reason": "アジア各国やアジア系ディアスポラのゲーム政策・文化記事を、低優先の複数地域トピックとして扱う（一致語: gaming）",
-        "confidence": 0.34,
-        "rule_id": "observed_asia_gaming_policy_culture_fallback_202109",
-        "matched_text": "gaming",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           22.9375,
           -30.5595
         ]
@@ -8570,33 +8554,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          138.2529,
-          36.2048
-        ]
-      },
-      "properties": {
-        "title": "『無職転生』新作スマホゲーム『クロエコ』事前登録開始。フルボイスの原作エピソードや3Dバトルが楽しめる異世界RPG - 電撃オンライン",
-        "source": "電撃オンライン",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfSDYwWlE5bzYyeGhNVDlfNV8xeEV1LVhDWkpPaUtVZXM1dHhrX3R3QmZybmVRTjhQYU91MVhWZENOOFZCQkJCbl9yX3JMbi1uMnJrUm5KOVkzQQ?oc=5",
-        "published_at": "2026-03-29T07:00:00+00:00",
-        "representative_place": "SAO Memory Defrag / Japan preregistration topic",
-        "place_label": "日本-ソードアート・オンライン メモリー・デフラグ事前登録",
-        "sort_place_label": "日本-ソードアート・オンライン メモリー・デフラグ事前登録",
-        "geocode_query": "Japan Sword Art Online Memory Defrag preregistration mobile game",
-        "place_type": "launch_market_region",
-        "location_precision": "country",
-        "place_reason": "日本向けスマホゲームの配信決定・事前登録記事なので、運営会社番地ではなく日本の配信市場トピックとして扱う（一致語: 事前登録）",
-        "confidence": 0.68,
-        "rule_id": "observed_sao_memory_defrag_prereg_japan_201801",
-        "matched_text": "事前登録",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           15.2551,
           54.526
         ]
@@ -8616,6 +8573,33 @@
         "confidence": 0.4,
         "rule_id": "observed_european_gamescom_studio_interview_fallback_202408",
         "matched_text": "Studios",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.2529,
+          36.2048
+        ]
+      },
+      "properties": {
+        "title": "『無職転生』新作スマホゲーム『クロエコ』事前登録開始。フルボイスの原作エピソードや3Dバトルが楽しめる異世界RPG - 電撃オンライン",
+        "source": "電撃オンライン",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfSDYwWlE5bzYyeGhNVDlfNV8xeEV1LVhDWkpPaUtVZXM1dHhrX3R3QmZybmVRTjhQYU91MVhWZENOOFZCQkJCbl9yX3JMbi1uMnJrUm5KOVkzQQ?oc=5",
+        "published_at": "2026-03-28T07:00:00+00:00",
+        "representative_place": "SAO Memory Defrag / Japan preregistration topic",
+        "place_label": "日本-ソードアート・オンライン メモリー・デフラグ事前登録",
+        "sort_place_label": "日本-ソードアート・オンライン メモリー・デフラグ事前登録",
+        "geocode_query": "Japan Sword Art Online Memory Defrag preregistration mobile game",
+        "place_type": "launch_market_region",
+        "location_precision": "country",
+        "place_reason": "日本向けスマホゲームの配信決定・事前登録記事なので、運営会社番地ではなく日本の配信市場トピックとして扱う（一致語: 事前登録）",
+        "confidence": 0.68,
+        "rule_id": "observed_sao_memory_defrag_prereg_japan_201801",
+        "matched_text": "事前登録",
         "match_source": "known_place_title"
       }
     },
@@ -8791,33 +8775,6 @@
         ]
       },
       "properties": {
-        "title": "『ハイキュー!!』新作スマホゲーム『ハイキュー!! ALL Challengers』発表。描き起こしの2Dアニメモーション＆イラスト、録り下ろしボイスあり - ファミ通",
-        "source": "ファミ通",
-        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE53ZG0tTF8ycDN0c2NVd3ZIRVRDdS1FUnF0bWJkOVhUM01pUXhudlEzSzRCbjB4bnpsSzVzNS1McldOSmd1STZ2cEgzMTdqZ0QzdUo4T2x3MA?oc=5",
-        "published_at": "2026-03-23T07:00:00+00:00",
-        "representative_place": "Shin Hokuto Musou mobile / Japan preregistration topic",
-        "place_label": "日本-真・北斗無双スマホゲーム事前登録",
-        "sort_place_label": "日本-真・北斗無双スマホゲーム事前登録",
-        "geocode_query": "Japan Shin Hokuto Musou mobile game preregistration Koei Tecmo",
-        "place_type": "launch_market_region",
-        "location_precision": "country",
-        "place_reason": "日本向けスマホゲームの事前登録開始記事なので、コーエーテクモの番地ではなく日本の配信/事前登録トピックとして扱う（一致語: 新作スマホゲーム）",
-        "confidence": 0.7,
-        "rule_id": "observed_shin_hokuto_musou_mobile_prereg_japan_202107",
-        "matched_text": "新作スマホゲーム",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          138.2529,
-          36.2048
-        ]
-      },
-      "properties": {
         "title": "TOHO Games、「ハイキュー!!」の新作スマホゲーム『ハイキュー!! ALL Challengers』の事前登録を開始 開発・運営はG2 Studiosが担当 - gamebiz【ゲームビズ】",
         "source": "gamebiz【ゲームビズ】",
         "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5ubERaVEl5WHgybVFwSmlVZnFldi1mRUlWR0lYSWxjQkpNVVBIQUpqVDBwdTBYelA0ZHRubEtDSjVBVU1B?oc=5",
@@ -8859,33 +8816,6 @@
         "confidence": 0.74,
         "rule_id": "observed_cd_projekt_warsaw_witcher_201507",
         "matched_text": "CD Projekt",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          18.6435,
-          60.1282
-        ]
-      },
-      "properties": {
-        "title": "Savvy Games to Buy Moonton in $6 Billion Mobile Gaming Deal - Analytics Insight",
-        "source": "Analytics Insight",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdTE2bS1oeHBYZk1SMnl5RDNuZGg0YUlrUUUzTmo0RGtSN3BoX1ozS1NseEQ1TVhfSjYydFZNdFZCdmVDajNDOU1LRVhoSnFyV3ZmUk12SjNxUDEwZzE4TjVhaEVqb1ZJWFZNUjNPMU9YMGp6cjhkTUdjY25uUngzekljdGEya3JJOVN0TzB2MzVSQ0R1M0hQcHQzamLSAaoBQVVfeXFMTzFIQ3loYWJ3Rm1YcGQxbUw0U1JqNDdidEpOakdQMU5TTV9zZ05KTVZDQkpmNzFhRHdid1NnY1N2ZTlqcHdveWlaQm1mRjBGS2oxQ1ltaEpHMFhfQ0RRWDhOa3dNVHA1UFFvTm1oUzFLcU9yblpyM2hXOFpsZHR1c252aG1ydjRVSE0wMWp4dWh6UGttZVUxR1ZrUzhBR0NDbkN2NGFFRS1GM1E?oc=5",
-        "published_at": "2026-03-20T07:00:00+00:00",
-        "representative_place": "Queen Digital Entertainment / Sweden mobile studio closure topic",
-        "place_label": "スウェーデン-Queen Digital Entertainment閉鎖",
-        "sort_place_label": "スウェーデン-Queen Digital Entertainment閉鎖",
-        "geocode_query": "Sweden Queen Digital Entertainment mobile studio closure",
-        "place_type": "studio_closure_region",
-        "location_precision": "country",
-        "place_reason": "Queen Digital Entertainmentの閉鎖記事で、Breakit経由のスウェーデン文脈があるが番地・都市は固定せず、スウェーデンのモバイルスタジオ閉鎖トピックとして扱う（一致語: mobile gaming）",
-        "confidence": 0.54,
-        "rule_id": "observed_queen_digital_entertainment_closure_sweden_202606",
-        "matched_text": "mobile gaming",
         "match_source": "known_place_title"
       }
     },
@@ -9110,6 +9040,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          138.2529,
+          36.2048
+        ]
+      },
+      "properties": {
+        "title": "【ファミ通・電撃ゲームアワード2025受賞まとめ】GOTYは『サイレントヒルf』、ゲームオブザイヤー含む3冠を獲得。2冠が4作品並ぶ大接戦に - ファミ通",
+        "source": "ファミ通",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5DMExSUXpSUVY4dXRRbmhPb0FBRTVSQWlRWmM0REJTV2RHNXJfZ0ZlOE1FSnZVdWF4MXFqUWpkVklid1ZDTDl2allYOUFKbkVRei11TXhyRQ?oc=5",
+        "published_at": "2026-03-14T07:00:00+00:00",
+        "representative_place": "Japan 2014 mobile preregistration fallback topic",
+        "place_label": "日本-2014年スマホゲーム事前登録記事",
+        "sort_place_label": "日本-2014年スマホゲーム事前登録記事",
+        "geocode_query": "Japan 2014 mobile game preregistration announcement",
+        "place_type": "launch_market_region",
+        "location_precision": "country",
+        "place_reason": "2014年前後の日本語スマホゲーム配信決定・事前登録記事を、会社住所ではなく低優先の日本配信市場トピックとして扱う（一致語: ファミ通）",
+        "confidence": 0.4,
+        "rule_id": "observed_japan_mobile_preregistration_2014_fallback",
+        "matched_text": "ファミ通",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           4.9041,
           52.3676
         ]
@@ -9129,6 +9086,33 @@
         "confidence": 0.66,
         "rule_id": "observed_newzoo_market_analysis_202606",
         "matched_text": "In two years, PC games will surpass console games in revenue",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2171,
+          47.4829
+        ]
+      },
+      "properties": {
+        "title": "Hasbro CEO Is Bullish on Exodus, Says Someone Will Figure Out How to Use AI to Make Games Better - Wccftech",
+        "source": "Wccftech",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5xVllKaVk3QVZHUlVBMHlGWVhOZEZpemEwSF9TMmJpbVpnVkxoa3VadzZodjIxX3d3a2I0aWVxR1hJTG5sRjRaWGRaZm1zRFdBeXMtN0toX3pVcERUdGpuYlV2MFRSMXlwX3ZzVHl2Rk03a2ozenF30gF8QVVfeXFMTmcyRWZwUlJXZjhoSFlmU09pbmlqUWhyN1FDbkxVRjZRaW02djZVVHB5RUloNkVYTUpaMzg1WkJHWDBZVjBEZnFNQ3Q4cjJmS3BQZDVtVlRMOEo1MEw4QTFraDJ1ZkZ2OW1aRUlLd2Y1ZTQ4Wm9UaFh6aEp4UA?oc=5",
+        "published_at": "2026-03-13T07:00:00+00:00",
+        "representative_place": "Hasbro gaming and digital operations / Renton area",
+        "place_label": "米国-ワシントン州-レントン-Hasbroゲーム/デジタル部門",
+        "sort_place_label": "米国-ワシントン州-レントン-Hasbroゲーム/デジタル部門",
+        "geocode_query": "Hasbro gaming digital operations Renton Washington",
+        "place_type": "company_strategy_site",
+        "location_precision": "division_city",
+        "place_reason": "Hasbroのゲーム戦略記事なので米国全体ではなく、ゲーム・デジタル部門の拠点として扱う。現在の本社移転期と事業部門の分離があるため番地ではなくRenton市単位に止める（一致語: Hasbro CEO）",
+        "confidence": 0.66,
+        "rule_id": "observed_hasbro_live_service_strategy_us_202605",
+        "matched_text": "Hasbro CEO",
         "match_source": "known_place_title"
       }
     },
@@ -10600,6 +10584,33 @@
         ]
       },
       "properties": {
+        "title": "たった半年後、開発スタジオ従業員は「残り2名」…大々的に発表したのになぜ？韓国発、大型ミリタリーステルスアクションに暗雲 - Game*Spark",
+        "source": "Game*Spark",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Qa2FUM2kxMTE4aVZlYnhsbnFtV2JIVEFzN0ZFLVhaamJhdXFQZEs2c01JWDhsQ080UFFJUjBBdzhHaURYMkFSb0lLS0c1RXZpaFJwMFJTdWFpenJCM3REZVV5UXlVZw?oc=5",
+        "published_at": "2026-01-05T08:00:00+00:00",
+        "representative_place": "Japan indie game announcement fallback topic",
+        "place_label": "日本-インディーゲーム新作発表",
+        "sort_place_label": "日本-インディーゲーム新作発表",
+        "geocode_query": "Japan indie game developer announcement",
+        "place_type": "indie_studio_topic",
+        "location_precision": "country",
+        "place_reason": "日本語RSSに出るインディーゲーム開発者・新作発表記事で個別都市が確認できないものを、日本のインディーゲーム発表トピックとして扱う（一致語: スタジオ）",
+        "confidence": 0.46,
+        "rule_id": "observed_japan_indie_game_announcement_fallback_202511",
+        "matched_text": "スタジオ",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.2529,
+          36.2048
+        ]
+      },
+      "properties": {
         "title": "Steamで2025年好評殺到した国産ヒットゲーム開発者、みんな“予想外の成功”だった。『Chill with You：Lo-Fi Story』『Öoo』『DRAPLINE』開発者が振り返る、意外な高評価の裏側 - AUTOMATON",
         "source": "AUTOMATON",
         "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9hVEIxQU9pbm9XTmV2X2RMU1MtS1lEMDVMZEZCdl9zVGw0UjN0bnhQRURORmxQcS1vUC1yeW93SFE1OHJuNjgzc1BwNTFyWnNIMTZCZkNQX1BoandQcnZ6djJ0YndKSnpfQTJaMGtaVQ?oc=5",
@@ -11135,6 +11146,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          4.3007,
+          52.0705
+        ]
+      },
+      "properties": {
+        "title": "任天堂がバンダイナムコのシンガポール法人を買収へ。『スプラ』一部開発実績あるスタジオ、『メトロイドプライム4』旧開発元の噂も - Game*Spark",
+        "source": "Game*Spark",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1fMzFtU0hweWpPTGxKbFdSdERYR05IRUgydTRyVXJjYURJSlJyT0sxMVVQejJiX3c2S1RFYV9sZ01DZ3pNV0hhR0VBQ190TmxxQVhvVGZEWWRsMUNrRVQ5MVVSNU15QQ?oc=5",
+        "published_at": "2025-11-27T08:00:00+00:00",
+        "representative_place": "Paladin Studios / The Hague Good Job topic",
+        "place_label": "オランダ-The Hague-Paladin Studios / Good Job!",
+        "sort_place_label": "オランダ-The Hague-Paladin Studios / Good Job!",
+        "geocode_query": "Paladin Studios The Hague Netherlands Good Job",
+        "place_type": "studio_headquarters_city",
+        "location_precision": "city",
+        "place_reason": "Good Job!開発元Paladin Studiosの記事なので、同社所在地のThe Hagueに置く",
+        "confidence": 0.7,
+        "rule_id": "observed_paladin_studios_the_hague_good_job_202405",
+        "matched_text": "開発元",
+        "match_source": "rule"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           138.2529,
           36.2048
         ]
@@ -11343,33 +11381,6 @@
         "confidence": 0.58,
         "rule_id": "observed_south_africa_thabo_tsolo_local_stories_202511",
         "matched_text": "South Africa’s Next Game Changer",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          138.2529,
-          36.2048
-        ]
-      },
-      "properties": {
-        "title": "「来年初めにはコンソール版も日本語対応予定」スーパーヒーロー職場ADV『Dispatch』【開発者インタビュー】 - Game*Spark",
-        "source": "Game*Spark",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1yVUd6eUNzTEs3S3lqTWttckNSakhaZDJpNVlwM1NkRzNBaTBaXzZ4V3dmeHBDQUJNRW1PQ2p6alFrT3B0aWhLUEZzVmwyOEcycERaQWxXNng1ZjA5ekZxbTNCRV9xdw?oc=5",
-        "published_at": "2025-11-08T08:00:00+00:00",
-        "representative_place": "Japan indie game announcement fallback topic",
-        "place_label": "日本-インディーゲーム新作発表",
-        "sort_place_label": "日本-インディーゲーム新作発表",
-        "geocode_query": "Japan indie game developer announcement",
-        "place_type": "indie_studio_topic",
-        "location_precision": "country",
-        "place_reason": "日本語RSSに出るインディーゲーム開発者・新作発表記事で個別都市が確認できないものを、日本のインディーゲーム発表トピックとして扱う（一致語: 開発者）",
-        "confidence": 0.46,
-        "rule_id": "observed_japan_indie_game_announcement_fallback_202511",
-        "matched_text": "開発者",
         "match_source": "known_place_title"
       }
     },
@@ -11864,33 +11875,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.2551,
-          54.526
-        ]
-      },
-      "properties": {
-        "title": "Video Game Leaders From 4J Studios and Nintendo Praise Scottish Sector at DICE Europe - Business Wire",
-        "source": "Business Wire",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdFNudTkzZElVek1CQ1V5S0FBM0xhOGF4Qy1VU0docW1Vdm1pVFpDenRReERIU0pXMVc3eEpabGNRSUU3NmQtZDBsb1BjeC1XMlZ4Q3lyel8ydlpONFdsWkRZaTY0REh2YnUwN05nNW5DSGhiYzdpbmNyN3F2V0VRWGJ2aFN6VXFIN3VuNHg2SjdvNndGZGZTWDdFWW4zaWdQR0tEOVhQMnpBSU94aGI1QTJfZGNJaFBvcHI3ZUkzdHRUN2I3RURlR3RtRE5BajhNSmh0VVpKV0wxdw?oc=5",
-        "published_at": "2025-09-19T07:00:00+00:00",
-        "representative_place": "European gamescom studio interview fallback topic",
-        "place_label": "欧州-gamescomスタジオ取材記事",
-        "sort_place_label": "欧州-gamescomスタジオ取材記事",
-        "geocode_query": "Europe gamescom studio interview game developer",
-        "place_type": "event_media_topic",
-        "location_precision": "region",
-        "place_reason": "gamescom取材の欧州スタジオ記事で番地を固定できないものを、欧州のイベント取材トピックとして低優先で扱う（一致語: Studios）",
-        "confidence": 0.4,
-        "rule_id": "observed_european_gamescom_studio_interview_fallback_202408",
-        "matched_text": "Studios",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           138.2529,
           36.2048
         ]
@@ -12215,13 +12199,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          138.2529,
+          36.2048
+        ]
+      },
+      "properties": {
+        "title": "【アークナイツ：エンドフィールド】配信日・事前登録・最新情報まとめ - 電撃オンライン",
+        "source": "電撃オンライン",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FVTdCTHZXVFFmOWJRMnZELVJ6eVVhSnZodm1CQXFLRlkzZXhGUmhMdnNseGtFdGlPMU9saC1zblhlcE10ZEd4a0h5b1k4cElnaUwtTGRyVEhUdw?oc=5",
+        "published_at": "2025-08-24T07:00:00+00:00",
+        "representative_place": "SAO Memory Defrag / Japan preregistration topic",
+        "place_label": "日本-ソードアート・オンライン メモリー・デフラグ事前登録",
+        "sort_place_label": "日本-ソードアート・オンライン メモリー・デフラグ事前登録",
+        "geocode_query": "Japan Sword Art Online Memory Defrag preregistration mobile game",
+        "place_type": "launch_market_region",
+        "location_precision": "country",
+        "place_reason": "日本向けスマホゲームの配信決定・事前登録記事なので、運営会社番地ではなく日本の配信市場トピックとして扱う（一致語: 事前登録）",
+        "confidence": 0.68,
+        "rule_id": "observed_sao_memory_defrag_prereg_japan_201801",
+        "matched_text": "事前登録",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           100.0,
           30.0
         ]
       },
       "properties": {
-        "title": "Gamescom: How is Poland's gaming industry faring? - dw.com",
-        "source": "dw.com",
+        "title": "Gamescom: How is Poland's gaming industry faring? - DW.com",
+        "source": "DW.com",
         "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTGJfR2VoUjF0NW1WZXc1UWpoenFHbU5jRzZ3WXlYS3ZCd2JPMVhodVpaWHEtcWY5c05peGxNQ2t3M21OeEtsUHNyeDVtVTBqTjVVYy1TQ0RIWXRhTGsxU29PU1FGRWhtY3JRcllvUFphUE5JcENmSllaTVYyV1I5Y2ZmcUloQdIBhgFBVV95cUxOQ1FhTnNLYy1EZ3VwSXBaSGFwNTJXWmJ1VVA3aDhkeVhoRHlPMUJrSlY3SjVGbGR5ZzFrSDhRV0JsRzlwV1doU0JPaGtkelVZdFFNOTM4QUNiMnZ5a0ZkR1VkTU1Tbk9NR09hT1RIeTUxQjNoMVlxSUsxOWFSREg1WGFMUWd3UQ?oc=5",
         "published_at": "2025-08-22T07:00:00+00:00",
         "representative_place": "Asia / Asian diaspora gaming policy-culture fallback topic",
@@ -12539,6 +12550,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          138.2529,
+          36.2048
+        ]
+      },
+      "properties": {
+        "title": "「ビジュアル面では、スタジオジブリの映画からインスピレーションを得た」中世シティビルダー『City Tales - Medieval Era』【開発者インタビュー】 - Game*Spark",
+        "source": "Game*Spark",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5mUUNxWGlpQS1fOUtuWTlIckw0NjNvM3VRaUd3YTdJUkltd0pUQmg2ZDI1T2lGTkYzc1NGSjE4Tm53Sno2NEJaYmZWaWVLT0R3czd1TldOTVNYUXJvNWFwZExWWXZUQQ?oc=5",
+        "published_at": "2025-07-25T07:00:00+00:00",
+        "representative_place": "Japan indie game announcement fallback topic",
+        "place_label": "日本-インディーゲーム新作発表",
+        "sort_place_label": "日本-インディーゲーム新作発表",
+        "geocode_query": "Japan indie game developer announcement",
+        "place_type": "indie_studio_topic",
+        "location_precision": "country",
+        "place_reason": "日本語RSSに出るインディーゲーム開発者・新作発表記事で個別都市が確認できないものを、日本のインディーゲーム発表トピックとして扱う（一致語: スタジオ）",
+        "confidence": 0.46,
+        "rule_id": "observed_japan_indie_game_announcement_fallback_202511",
+        "matched_text": "スタジオ",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.0,
           20.0
         ]
@@ -12706,33 +12744,6 @@
         ]
       },
       "properties": {
-        "title": "【學園文豪ストレイドッグス（學スト）】配信日・事前登録特典・最新情報まとめ - 電撃オンライン",
-        "source": "電撃オンライン",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0xY0QtX3luM0p5S2sxcTl3aXdmdkF6eUg0VXF0OVBFbDd5cWlEeFZzR2kyS0drc2lOR2gtcDJQbUxYWG9TSDRid05fZzFzWmJVYnpoY1RKNTdQdw?oc=5",
-        "published_at": "2025-07-16T07:00:00+00:00",
-        "representative_place": "SAO Memory Defrag / Japan preregistration topic",
-        "place_label": "日本-ソードアート・オンライン メモリー・デフラグ事前登録",
-        "sort_place_label": "日本-ソードアート・オンライン メモリー・デフラグ事前登録",
-        "geocode_query": "Japan Sword Art Online Memory Defrag preregistration mobile game",
-        "place_type": "launch_market_region",
-        "location_precision": "country",
-        "place_reason": "日本向けスマホゲームの配信決定・事前登録記事なので、運営会社番地ではなく日本の配信市場トピックとして扱う（一致語: 事前登録）",
-        "confidence": 0.68,
-        "rule_id": "observed_sao_memory_defrag_prereg_japan_201801",
-        "matched_text": "事前登録",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          138.2529,
-          36.2048
-        ]
-      },
-      "properties": {
         "title": "【七つの大罪：Origin】配信日・事前登録特典・最新情報まとめ - 電撃オンライン",
         "source": "電撃オンライン",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQbTNTV1k1azlaVkJFR3VkSExyQ09PMFVicUp4MGJtQ2MzRnlaWmlVaHhBWXdVeTFrcENQRGJiTjhjMlJacmhuRk5YOXhsVl9YeGZBNllkbmQ4dw?oc=5",
@@ -12801,6 +12812,33 @@
         "confidence": 0.46,
         "rule_id": "observed_japan_indie_game_announcement_fallback_202511",
         "matched_text": "スタジオ",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2551,
+          54.526
+        ]
+      },
+      "properties": {
+        "title": "How African game studios can compete globally - Pocket Gamer.biz",
+        "source": "Pocket Gamer.biz",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NUDY5VDExYjlHdGplM0pmSkRyMFVHb2pDSnh2bEQ5MWIwNjJHaUN1emstNXdGUG10Q1g1QXdidGJUS1lraGl5V1dQTkM2WTI0MF90Z05aR0pNOXR0cjEybTRmRkF3QkQ5SHF4S3A2aG5MdzZOMTYtU2Z4ZnY2UVk?oc=5",
+        "published_at": "2025-07-10T07:00:00+00:00",
+        "representative_place": "European gamescom studio interview fallback topic",
+        "place_label": "欧州-gamescomスタジオ取材記事",
+        "sort_place_label": "欧州-gamescomスタジオ取材記事",
+        "geocode_query": "Europe gamescom studio interview game developer",
+        "place_type": "event_media_topic",
+        "location_precision": "region",
+        "place_reason": "gamescom取材の欧州スタジオ記事で番地を固定できないものを、欧州のイベント取材トピックとして低優先で扱う（一致語: Studios）",
+        "confidence": 0.4,
+        "rule_id": "observed_european_gamescom_studio_interview_fallback_202408",
+        "matched_text": "Studios",
         "match_source": "known_place_title"
       }
     },
@@ -12949,60 +12987,6 @@
         ]
       },
       "properties": {
-        "title": "【シルバー・アンド・ブラッド】配信日と事前登録情報｜最新情報｜シルブラ - AppMedia",
-        "source": "AppMedia",
-        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1kM1dFZUUybzg1bkRmc2pPYmp5UTdrUUVWUmdlMmo3cFhmRFpmNE05MC15NGRRdFV1RzhVOTJ3UC1xVm1KeVRsbWZjaWQ?oc=5",
-        "published_at": "2025-07-02T07:00:00+00:00",
-        "representative_place": "SAO Memory Defrag / Japan preregistration topic",
-        "place_label": "日本-ソードアート・オンライン メモリー・デフラグ事前登録",
-        "sort_place_label": "日本-ソードアート・オンライン メモリー・デフラグ事前登録",
-        "geocode_query": "Japan Sword Art Online Memory Defrag preregistration mobile game",
-        "place_type": "launch_market_region",
-        "location_precision": "country",
-        "place_reason": "日本向けスマホゲームの配信決定・事前登録記事なので、運営会社番地ではなく日本の配信市場トピックとして扱う（一致語: 事前登録）",
-        "confidence": 0.68,
-        "rule_id": "observed_sao_memory_defrag_prereg_japan_201801",
-        "matched_text": "事前登録",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          138.2529,
-          36.2048
-        ]
-      },
-      "properties": {
-        "title": "KRAFTON、『Subnautica』シリーズ開発スタジオ経営陣の突然の変更発表―新任CEOは『Callisto Protocol』開発スタジオ代表に - Game*Spark",
-        "source": "Game*Spark",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBXT1cwUlpSU0dxV0hubFp1M1hRcHJydmp4WlFrMkVqU3ZtN3JIbk1Bd1paVnQ1Y3JGOUNheGpwcWRqNDJJRnNnT2lfLXhVT1BfYVZBaDBpUmxmeERTckZQVGh4YU5Wdw?oc=5",
-        "published_at": "2025-07-02T07:00:00+00:00",
-        "representative_place": "Japan indie game announcement fallback topic",
-        "place_label": "日本-インディーゲーム新作発表",
-        "sort_place_label": "日本-インディーゲーム新作発表",
-        "geocode_query": "Japan indie game developer announcement",
-        "place_type": "indie_studio_topic",
-        "location_precision": "country",
-        "place_reason": "日本語RSSに出るインディーゲーム開発者・新作発表記事で個別都市が確認できないものを、日本のインディーゲーム発表トピックとして扱う（一致語: スタジオ）",
-        "confidence": 0.46,
-        "rule_id": "observed_japan_indie_game_announcement_fallback_202511",
-        "matched_text": "スタジオ",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          138.2529,
-          36.2048
-        ]
-      },
-      "properties": {
         "title": "新作『マブラヴ ガールズガーデン』本日7/1より事前登録開始。ティザーPVや、タシロハヤト氏ほか豪華制作陣の情報も解禁【マブガル】 - 電撃オンライン",
         "source": "電撃オンライン",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8zTm1rN1ltOXpzWHktbHlPc0czSjZoS1F4dThPbXhiWWl6djF1cXhBanJJZG13UVZQM0VTOXJjYV8wZVBlY1d0UW5lRlE0NXktYlpkTGFpRnhTUQ?oc=5",
@@ -13079,40 +13063,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.0,
-          20.0
-        ]
-      },
-      "properties": {
-        "title": "Turkish video game industry wants $750 mln in revenue in 2025 - Hürriyet Daily News",
-        "source": "Hürriyet Daily News",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMDZTMzBoVWItemR1YUZTY1M2c2tDQ0VQZ1BqR1VuSVBVVWphUlNLUG9qS1otRm9jOXdtTjYwMUdvUGt6YVVhX29TYnVCQ3M2TVBLZnlBSTY0aTc3MHBKTnB2MWtRVWY1cHZHMHFGU2lYUXI1VGtaNHczSlRUZ0hmZklFQnlxWFljajkyTVpMQ3Jnd1BNallib3luWGNKRUdDVW5r?oc=5",
-        "published_at": "2025-06-28T07:00:00+00:00",
-        "representative_place": "Terminal unresolved legacy fallback topic",
-        "place_label": "複数地域-未解決旧記事まとめ",
-        "sort_place_label": "複数地域-未解決旧記事まとめ",
-        "geocode_query": "legacy video games industry unresolved article fallback",
-        "place_type": "industry_region",
-        "location_precision": "multi_region",
-        "place_reason": "現在スナップショット末尾側の古いRSS記事に対する最終的な低優先fallback。具体的な会社・都市・国規則がある場合はそちらを優先する（一致語: game industry）",
-        "confidence": 0.18,
-        "rule_id": "observed_terminal_unresolved_legacy_fallback",
-        "matched_text": "game industry",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           78.9629,
           20.5937
         ]
       },
       "properties": {
-        "title": "How Olivier Madiba set up Cameroon's first gaming studio - dw.com",
-        "source": "dw.com",
+        "title": "How Olivier Madiba set up Cameroon's first gaming studio - DW.com",
+        "source": "DW.com",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUjdORzlBZ1hLMXZyNUlmSzJrb0dYRV9EV0paT0RDWXgwQUxKN3gtV1dXLXZCWHJ1c1ItTHFEdUNCbWdzcmhZa1czNXdJQ2pqV2NlbTktVEZSMDZVTE9TejM1Z01CNWRqejFYUHB3Y3pnRXdINkpPOEdGdjAwT3ZyTS1tdUNjRElCSTBsa3VaOFV2WW9wZUln?oc=5",
         "published_at": "2025-06-26T07:00:00+00:00",
         "representative_place": "India new game studio fallback topic",
@@ -13570,8 +13527,8 @@
         ]
       },
       "properties": {
-        "title": "Summer Game Fest 2025 guide and schedule - Epic Games Store",
-        "source": "Epic Games Store",
+        "title": "Summer Game Fest 2025 guide and schedule - Epic Games",
+        "source": "Epic Games",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTTluR2V5YlJCdkhMeVZMVGh1RmVVamMyMUVBTW1VZWlUNjJ4QW9SeVF2RDN6NVNJSWh1aEFZclliQlh0LUZpdE91WF9ldi1yemNBd1BBS3RwV0J1RGUwMWRuNjZFeU9YSVBPUlJwa2Vaa1NJZ3dmZGRFdnkxcTFzeGJfR1Z4aEdfZU9iR2ZSdWdIMjlwM3c?oc=5",
         "published_at": "2025-06-02T07:00:00+00:00",
         "representative_place": "Summer Game Fest 2025 / Inglewood event topic",
@@ -13693,33 +13650,6 @@
         "rule_id": "observed_japan_character_mobile_rpg_fallback_202505",
         "matched_text": "RPG",
         "match_source": "rule"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          138.2529,
-          36.2048
-        ]
-      },
-      "properties": {
-        "title": "『ペルソナ５: The Phantom X』のリリース日を発表する公式放送『P5X通信』最新回を5月15日放送！ - ペルソナチャンネル",
-        "source": "ペルソナチャンネル",
-        "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE5GaDE1UmdUWDVwS3ZNbmY3c2lYdzV5Tl9wb0pzdFJ3RjVYcUIyb0pEbllhQXBJV2U0QUh3SHFHdlk?oc=5",
-        "published_at": "2025-05-12T07:00:00+00:00",
-        "representative_place": "Knives Out / Japan release-date and preregistration topic",
-        "place_label": "日本-荒野行動配信日/事前登録情報",
-        "sort_place_label": "日本-荒野行動配信日/事前登録情報",
-        "geocode_query": "Japan Knives Out release date preregistration mobile game",
-        "place_type": "launch_market_region",
-        "location_precision": "country",
-        "place_reason": "日本向けの配信日/事前登録情報記事なので、開発会社住所ではなく日本の配信市場トピックとして扱う（一致語: リリース日）",
-        "confidence": 0.6,
-        "rule_id": "observed_knives_out_prereg_japan_201803",
-        "matched_text": "リリース日",
-        "match_source": "known_place_title"
       }
     },
     {
@@ -14105,33 +14035,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.0,
-          30.0
-        ]
-      },
-      "properties": {
-        "title": "Payment challenges hamper Africa's growing gaming industry – Xsolla - Connecting Africa",
-        "source": "Connecting Africa",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPb1Y3cmN1a0VXSzVTYm5ocXFMOGFTWFM3cU8zSDhSUHVaYXJIVjBPX3JjUFVqSG9BZHNFRFNPQUlvQzRvWlljUms5UFpodEwtNmJ6Zzg1T1MxckpRVFlOYU1SVFR4MnowNkRXRmZQLWxpNW5fUnN0TXhvS2N5WVRKX09NT2VlMldEeE0tRkFaRGhTNHVsUHJuQnFKeFlNWUJQNDZPT0VLS0syQQ?oc=5",
-        "published_at": "2025-03-25T07:00:00+00:00",
-        "representative_place": "Asia / Asian diaspora gaming policy-culture fallback topic",
-        "place_label": "アジア・ディアスポラ-ゲーム政策/文化記事",
-        "sort_place_label": "アジア・ディアスポラ-ゲーム政策/文化記事",
-        "geocode_query": "Asia Asian diaspora gaming policy culture developers",
-        "place_type": "policy_discourse_region",
-        "location_precision": "multi_region",
-        "place_reason": "アジア各国やアジア系ディアスポラのゲーム政策・文化記事を、低優先の複数地域トピックとして扱う（一致語: gaming）",
-        "confidence": 0.34,
-        "rule_id": "observed_asia_gaming_policy_culture_fallback_202109",
-        "matched_text": "gaming",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           78.9629,
           20.5937
         ]
@@ -14195,6 +14098,33 @@
         "source": "Business Insider Africa",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOenpMMkxVa2hWNDU4bXl6dVdCams3eUN0MVpLaWZ3RWFGRl9rbzByZVZ0SE5sWVpIV2RQWi1DZXZOMm1OT2F1NGRrNC10eXJzWnl0c2ZNZU1JS3BTcTdDTi1ocEJ0ZEJGTkZtNGdEUXEtaG16VGZBR0sxQWVQSXdQd1FrbldIbzFTTldZa1ZjM2RMQ1RJVjBQQzlkTGxUbUhYWHVySVRpOC01QQ?oc=5",
         "published_at": "2025-03-18T07:00:00+00:00",
+        "representative_place": "Asia / Asian diaspora gaming policy-culture fallback topic",
+        "place_label": "アジア・ディアスポラ-ゲーム政策/文化記事",
+        "sort_place_label": "アジア・ディアスポラ-ゲーム政策/文化記事",
+        "geocode_query": "Asia Asian diaspora gaming policy culture developers",
+        "place_type": "policy_discourse_region",
+        "location_precision": "multi_region",
+        "place_reason": "アジア各国やアジア系ディアスポラのゲーム政策・文化記事を、低優先の複数地域トピックとして扱う（一致語: gaming）",
+        "confidence": 0.34,
+        "rule_id": "observed_asia_gaming_policy_culture_fallback_202109",
+        "matched_text": "gaming",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.0,
+          30.0
+        ]
+      },
+      "properties": {
+        "title": "Sporty Group Expands Sporty Games with the Opening of a Major UK Hub, Strengthening Its Commitment to Sports Gaming - European Gaming",
+        "source": "European Gaming",
+        "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNWUpuMVJsaWloZkRQS1pyNEdBSG1CZkFTcTB4bTdXdmxmTVMxWHJYd2pnN3R0WnpCQk9aakh3UGtZUHJRQVZlVWwybW5aMHBNRzhmRkJ4WlM0aVZtaXRTOWFQdllCWTE2T19vQmN4TmV1WHJXTHVFWlk4UFFYaGlpXzl6NS1wVTFZY0pPdUNJY2VULTFvX3M2OWRDSTAyZmx1bUV2UUppQldmaVk2WG9JREkzRzZVWG9fZ0ZnNUo0OWhaaW1BLXp3UDZDVGwwTnhfR1REbmpjaS14MGk1cnJSbGd2ZlFxTTh5ZHNFVUtvRDhpelhoQm5XcmVjQVMtUnp6aHJHTGRjTnNaZw?oc=5",
+        "published_at": "2025-03-14T07:00:00+00:00",
         "representative_place": "Asia / Asian diaspora gaming policy-culture fallback topic",
         "place_label": "アジア・ディアスポラ-ゲーム政策/文化記事",
         "sort_place_label": "アジア・ディアスポラ-ゲーム政策/文化記事",
@@ -15104,6 +15034,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          100.0,
+          30.0
+        ]
+      },
+      "properties": {
+        "title": "Türkiye’s gaming ecosystem emerges as new powerhouse in global industry - Anadolu Ajansı",
+        "source": "Anadolu Ajansı",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbWhQbklsbGQ3MThoOUdBMUJnSUtZS2thWXhGcjgtaGJ4VnZwbUJ1enNpbXFZMVJuZ2V3cFFFajl5MlFVT3JzSmRCeDFfNjNyUUkwckNLMUcxcHI3TkdxQ2ZVLXpoRWpDMG1HS1R3Mkdoc3ZWak9iOGNLcnRIeGdoWDhKUjB1OXpzdndpc3Z6ZG5TUXYtR1lQZ2hibllrWWJTS2E4NW1rVmpzMTF5ZUE2VUtPRzhoTmxuMFA0WmsteWY?oc=5",
+        "published_at": "2025-01-02T08:00:00+00:00",
+        "representative_place": "Asia / Asian diaspora gaming policy-culture fallback topic",
+        "place_label": "アジア・ディアスポラ-ゲーム政策/文化記事",
+        "sort_place_label": "アジア・ディアスポラ-ゲーム政策/文化記事",
+        "geocode_query": "Asia Asian diaspora gaming policy culture developers",
+        "place_type": "policy_discourse_region",
+        "location_precision": "multi_region",
+        "place_reason": "アジア各国やアジア系ディアスポラのゲーム政策・文化記事を、低優先の複数地域トピックとして扱う（一致語: gaming）",
+        "confidence": 0.34,
+        "rule_id": "observed_asia_gaming_policy_culture_fallback_202109",
+        "matched_text": "gaming",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           105.0,
           10.0
         ]
@@ -15428,33 +15385,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          138.2529,
-          36.2048
-        ]
-      },
-      "properties": {
-        "title": "【ひげまろんGames】新作インディー脱出ゲーム「亡くなったおばあちゃんからの謎解きと思い出のカケラ」無料配信開始！ - newscast.jp",
-        "source": "newscast.jp",
-        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1iSy1lTVRna2dGN3QyQWM4ZDN6enU5cGRHUmZZQkhueVhGUXN0WTYyYllKY0NtTTNkWjZmUFlaNlA0RWtzcnp3?oc=5",
-        "published_at": "2024-12-10T08:00:00+00:00",
-        "representative_place": "Ensemble Girls / Japan mobile launch topic",
-        "place_label": "日本-あんさんぶるガールズ！！配信",
-        "sort_place_label": "日本-あんさんぶるガールズ！！配信",
-        "geocode_query": "Japan Ensemble Girls mobile game launch",
-        "place_type": "launch_market_region",
-        "location_precision": "country",
-        "place_reason": "日本向けスマホゲーム配信記事なので、運営会社住所ではなく日本の配信市場トピックとして扱う（一致語: 配信）",
-        "confidence": 0.64,
-        "rule_id": "observed_ensemble_girls_launch_japan_201610",
-        "matched_text": "配信",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           78.9629,
           20.5937
         ]
@@ -15541,8 +15471,8 @@
         ]
       },
       "properties": {
-        "title": "Where are the video games from Africa? - dw.com",
-        "source": "dw.com",
+        "title": "Where are the video games from Africa? - DW.com",
+        "source": "DW.com",
         "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE84ZXdrYnpYYnc0ZjVlalNzX1JpbkZ2SHVNWS1ZOG5FSGQ4RDdJTkRCcVJKejhFeVdVVml5OGdxVk13UXB6REJqWWRoQWhSemI5N2FDazRyYWpNZ3lvZHNrbGRMNW1PSjZHUmx3OWh4MUI1VnpwMGVQcEZ30gF6QVVfeXFMUGFFNGdBOWt0c216Q3RGcDJoc0FBUHplSmlPY3RTNGZXeWJZYmhRa3JNaDR6dEFZVERNa1lqeFg4aTNncm1WaEl2ZEJ3YmswQzdJcnM5ejgzQ3FpY2RlOW5WQnBjNHlZSjdUb0xCN3ZQS3J6MUxzVi1nY3c?oc=5",
         "published_at": "2024-12-02T08:00:00+00:00",
         "representative_place": "Terminal unresolved legacy fallback topic",
@@ -15914,33 +15844,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.0,
-          20.0
-        ]
-      },
-      "properties": {
-        "title": "Netflix Closes Its All-Star AAA Video Game Studio, Which Made Zero Games - Forbes",
-        "source": "Forbes",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaW9zY21FX1RLdmpVaHRVR05xdEpxbnVUSkNMYXVSQ095a01aWlh6WUtwXzRZU05ORlAtWDRIa1kzWngwTG1DcjdEdmhJM19BeEl4ZWY1aS1Yc1U4NkdVMVl2SnlvMHdTcU5mRE1vMkVGd1JiZi13aHRpZTVWbHNVRjlnQk1LamE5TldUZl9hU0JQN1BSX2E1Q2lHQVNEVGk2RnJiZG9yb2hleThQM1R1RHhheHI2LWVNU0JzcmxRTQ?oc=5",
-        "published_at": "2024-10-23T07:00:00+00:00",
-        "representative_place": "Terminal regional studio article fallback topic",
-        "place_label": "複数地域-ゲームスタジオ旧記事まとめ",
-        "sort_place_label": "複数地域-ゲームスタジオ旧記事まとめ",
-        "geocode_query": "regional game studio developer legacy article",
-        "place_type": "studio_region",
-        "location_precision": "multi_region",
-        "place_reason": "末尾側に残るゲームスタジオ・開発者旧記事で所在地が確定しないものを、最低優先の複数地域スタジオトピックとして扱う（一致語: game studio）",
-        "confidence": 0.24,
-        "rule_id": "observed_terminal_regional_studio_article_fallback",
-        "matched_text": "game studio",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           138.2529,
           36.2048
         ]
@@ -16068,33 +15971,6 @@
         "confidence": 0.46,
         "rule_id": "observed_japan_indie_game_announcement_fallback_202511",
         "matched_text": "スタジオ",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.2551,
-          54.526
-        ]
-      },
-      "properties": {
-        "title": "Homegrown Game Studios Are Building A Bridge To Authentic Cultural Representation - homegrown.co.in",
-        "source": "homegrown.co.in",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOR1p2bzhXdS1hbVQzbnIxd29ERmR5LWJnRmNUcVA4YkRHN3RfMmVfOVJoYmx2SDhkOGU0S3RteUtwUkZjamx4cE40ek9LeGlqazFvVHBFUVo3TXNYZTh6cGlsLWp6NGtKdURMTFd4XzU3aXl4OXNFT1pXVFlXMTVsbHRjVzZxSUNNVHRjTHh5eVJvTGROQ3F0dy1tVUpEREFPOVhMZ1FRSzhsNWhLRG9Mck5jSG04Ri1mU05tSG5aZjVyUdIBzwFBVV95cUxQYy1qN2taNW5GNDE5WS16R3Z1WmV0aDZ4N1hjTjNRZDRSRE9GUmQwVXB5LVRCMEFzeHBBY3g5ZVNWeWlabXlSdWY2V1Q4MHBNSHpyNERxX2cxaXI3dVFCN2FxLTZRNTExeUd5LVN0M3VkdGlUZ1VQLUpybmFuSHo0M3J6RG9VQUVYNW54dXU1a082UEdfYVBnbV92V2JUNF9EdVEzckhFS0xUNXpKeEppeWNabjNsNm8xOWtOenktT0tYZ05IaXR0eDdDWWx4TXM?oc=5",
-        "published_at": "2024-09-19T07:00:00+00:00",
-        "representative_place": "European gamescom studio interview fallback topic",
-        "place_label": "欧州-gamescomスタジオ取材記事",
-        "sort_place_label": "欧州-gamescomスタジオ取材記事",
-        "geocode_query": "Europe gamescom studio interview game developer",
-        "place_type": "event_media_topic",
-        "location_precision": "region",
-        "place_reason": "gamescom取材の欧州スタジオ記事で番地を固定できないものを、欧州のイベント取材トピックとして低優先で扱う（一致語: Studios）",
-        "confidence": 0.4,
-        "rule_id": "observed_european_gamescom_studio_interview_fallback_202408",
-        "matched_text": "Studios",
         "match_source": "known_place_title"
       }
     },
@@ -16257,33 +16133,6 @@
         "confidence": 0.68,
         "rule_id": "observed_tarsier_reanimal_gamescom_2024_sweden_202408",
         "matched_text": "Tarsier Studios",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          78.9629,
-          20.5937
-        ]
-      },
-      "properties": {
-        "title": "\"When you know Africa and its history it's easy to make a game that will speak to the whole continent\" - Pocket Gamer.biz",
-        "source": "Pocket Gamer.biz",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWVdab0p3UHlaR1FaQUZrM201bDRoUGVBZkRva2Z5eDdxaFp5YmZMcjVfNFY2YXdIdVo0SHUtQjVQNTVwelVMX0h3eDRtMlpocnV3QXNwUG9IVVllcXQ5VHh5dkFpVlJ2U3NkWW1rQTB2bGctX2VqZmNwaDlXWGVnNDQ4dDNTMXpYYzRHVE8yS2Ezb3o0MENVNUtZUlpicURBSUlkclU5UGtNRDBjVDJOd3dOallrZXNwdDhMZTV4bVROYU91a2pr?oc=5",
-        "published_at": "2024-08-23T07:00:00+00:00",
-        "representative_place": "India gaming and esports history fallback topic",
-        "place_label": "インド-ゲーム/Esports史記事",
-        "sort_place_label": "インド-ゲーム/Esports史記事",
-        "geocode_query": "India gaming esports history culture",
-        "place_type": "game_culture_region",
-        "location_precision": "country",
-        "place_reason": "インドのゲーム/eスポーツ史・文化記事を、個別企業ではなく低優先の国レベル文化トピックとして扱う（一致語: history）",
-        "confidence": 0.44,
-        "rule_id": "observed_india_gaming_esports_history_fallback_202108",
-        "matched_text": "history",
         "match_source": "known_place_title"
       }
     },
@@ -17107,9 +16956,9 @@
         ]
       },
       "properties": {
-        "title": "スクエニ・吉田直樹氏が「クリエイティブスタジオ3」で開発中の新作タイトル2本を“もうすぐ発表できるかも”と海外メディアのインタビューで明かす―SNSでは『FF9』リメイクを望む声も - インサイド",
-        "source": "インサイド",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5RUXpBb1FOa1pEczVzWWh5OVdDSDUzNlNkbFZFS1ZrQ0VKSWFFV25GdTdwcVB3U2QzbDhNYzdyWTJzUVNzQlhlSG81OS1mMVpzM1RMRE5CMmUyTXZtcHhqTm1hdWlUVXpfOWc?oc=5",
+        "title": "スクエニ・吉田直樹氏が「クリエイティブスタジオ3」で開発中の新作タイトル2本を“もうすぐ発表できるかも”と海外メディアのインタビューで明かす―SNSでは『FF9』リメイクを望む声も - GameBusiness.jp",
+        "source": "GameBusiness.jp",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE12V3NNOUNfb25lbHpiTVNCc2Y2bGJsMXFoZzV0el90MjJpNk9Sb0pDb29WOU5tcnBBLXRfUXA5UnRwenpWdzVlaXlxVExmM2hrSWs4NXRhc1dtNVIteHRzS0ZuN0d1Qkp5?oc=5",
         "published_at": "2024-06-07T07:00:00+00:00",
         "representative_place": "Japan indie game announcement fallback topic",
         "place_label": "日本-インディーゲーム新作発表",
@@ -17175,33 +17024,6 @@
         "confidence": 0.46,
         "rule_id": "observed_japan_indie_game_announcement_fallback_202511",
         "matched_text": "スタジオ",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.3392,
-          33.9535
-        ]
-      },
-      "properties": {
-        "title": "国際的な新作ゲーム発表イベント「Summer Game Fest 2024」の同時通訳つき生放送が6月8日朝6時から配信決定 - 電ファミニコゲーマー",
-        "source": "電ファミニコゲーマー",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5sdy1RQ1ZVNXg4cVpfaHBmcGFrS3dhUjFxM3lZT1pSRk1fNG5fUDI5UTUyN3lTdVpkUHZkUjI0Z2hnZ0MzZkE4dGF6LWFfRlZodzl4OTR2VjE?oc=5",
-        "published_at": "2024-06-06T07:00:00+00:00",
-        "representative_place": "Summer Game Fest 2025 / Inglewood event topic",
-        "place_label": "米国-Inglewood-Summer Game Fest 2025",
-        "sort_place_label": "米国-Inglewood-Summer Game Fest 2025",
-        "geocode_query": "YouTube Theater Inglewood California Summer Game Fest 2025",
-        "place_type": "event_venue_city",
-        "location_precision": "city",
-        "place_reason": "Summer Game Fest 2025のスケジュール記事なので、主催イベント会場のあるInglewoodに置く（一致語: Summer Game Fest）",
-        "confidence": 0.7,
-        "rule_id": "observed_summer_game_fest_2025_inglewood",
-        "matched_text": "Summer Game Fest",
         "match_source": "known_place_title"
       }
     },
@@ -17507,6 +17329,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          113.9213,
+          -0.7893
+        ]
+      },
+      "properties": {
+        "title": "LightFury Games bags $8.5-million seed funding from Blume Ventures, Mixi, others - Moneycontrol.com",
+        "source": "Moneycontrol.com",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNTBYN052cXdvQ3ZrZU1UNXpad1pRRlRwbUZ3M3ptaGRJd1ZGTjRlOXZYZmt4eDhqX2ZrdzZ0Z0RRSF8xQ3FPSEhjcjVZaVVnZ3A4a202cURVSVdQdEhBZTR3aWdUSWpSYjJPVkh5ZkpGUFNGQVQxQktZUS1tcWZENU9DS3RHa2NDeUF2TExVeTl6NW9BaUJwNncwWXVoN0NmQ0FmMGxQaVZHbGgzSHpSVWxuYXhjdzBSMU5aTnc1MElPY0MzMDlIbDdkWmE4NFNZbFHSAdcBQVVfeXFMTkJ5bWYwZTlhMFhVZlM0Q2VGTnhYYmgtNl90UUkwdk1EMG5GWG1UUFlwVUxXdU9FMTlXR1pEdlMzb2VXVWdLUTVPNFd4VW9Gbl91QWViS1ExU29BWWR3SGc1VUtNcjljeGFfQjI4dUxzOHpJV1ppdWV4T1NVSlg5VktIamtDbmEzNXJUeTdua3RVS0l1X2ZOUUg3YkhSQmZvYjNXaE5RY2NyS1gtdjJDQXBxSjZRTEczYXg4cThfVG9QazQyYmxJaGlOX1JaekRjRE1RVDlsYTQ?oc=5",
+        "published_at": "2024-04-17T07:00:00+00:00",
+        "representative_place": "Indonesia game studio support fallback topic",
+        "place_label": "インドネシア-ゲームスタジオ支援記事",
+        "sort_place_label": "インドネシア-ゲームスタジオ支援記事",
+        "geocode_query": "Indonesia game studio support funding",
+        "place_type": "studio_funding_region",
+        "location_precision": "country",
+        "place_reason": "インドネシアのゲームスタジオ支援・資金提供記事を、個別住所ではなく低優先の国レベル支援トピックとして扱う（一致語: fund）",
+        "confidence": 0.44,
+        "rule_id": "observed_indonesia_game_studio_support_fallback_202109",
+        "matched_text": "fund",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           73.8567,
           18.5204
         ]
@@ -17561,8 +17410,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.6503,
-          35.6762
+          139.6132,
+          35.4655
         ]
       },
       "properties": {
@@ -17570,15 +17419,15 @@
         "source": "Saiga NAK",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9DOTNURjBKQmdBRGI5OU9QMzRIdGU1MTNkMU1uLVBUal9wckp6QnFZZ0hPT3c1cE5mUHZMMFpXdkRrSENPTUYxWENxX0FvdnZXbW9weUJhZVYyQdIBX0FVX3lxTFBMZzRtaXFzN0tDTWpZTG9QYjVTNzl0QU9MVXFHMUtiOFFpaW9BTndjMHJsNG9Oc3VUTzB1eGFyR1puMk5VRWhKaXVNMm9wcFU5WDJCWkxmXzZGY0ljYWc4?oc=5",
         "published_at": "2024-04-08T07:00:00+00:00",
-        "representative_place": "TOPANGA / VARREL Tokyo esports topic",
-        "place_label": "日本-東京-TOPANGA / VARREL",
-        "sort_place_label": "日本-東京-TOPANGA / VARREL",
-        "geocode_query": "TOPANGA VARREL Tokyo esports",
-        "place_type": "esports_company_city",
-        "location_precision": "city",
-        "place_reason": "TOPANGAとVARRELの経営統合を扱う日本のeスポーツ記事なので、東京のeスポーツ会社トピックとして置く（一致語: TOPANGA）",
-        "confidence": 0.56,
-        "rule_id": "observed_topanga_varrel_tokyo_integration_202404",
+        "representative_place": "TOPANGA / ウィザードビル402",
+        "place_label": "日本-神奈川県-横浜市-西区-浅間町-TOPANGA",
+        "sort_place_label": "日本-神奈川県-横浜市-西区-浅間町-TOPANGA",
+        "geocode_query": "神奈川県横浜市西区浅間町1丁目4番3号 ウィザードビル402 TOPANGA",
+        "place_type": "esports_company_site",
+        "location_precision": "exact_site",
+        "place_reason": "TOPANGA/VARREL主体の記事をTOPANGA所在地に置く（一致語: TOPANGA）",
+        "confidence": 0.86,
+        "rule_id": "observed_topanga_varrel_yokohama_202606",
         "matched_text": "TOPANGA",
         "match_source": "known_place_title"
       }
@@ -18263,33 +18112,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.0,
-          20.0
-        ]
-      },
-      "properties": {
-        "title": "The African games industry in numbers - GamesIndustry.biz",
-        "source": "GamesIndustry.biz",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE03SHpTRDNrMEFaLWc1TE9leUJZN3U3Z3JodnFGTEI3MGJkemJPYlhpOWhRZE5jRzgyYVNwMFI5MlVWWFdZVkJuMGFudXhjWVdWUmpCOURRZlY3T3hsQjB1R3dwZUhMN0stVER1VjRhX0Q3U1JOR1E?oc=5",
-        "published_at": "2023-12-05T08:00:00+00:00",
-        "representative_place": "Legacy miscellaneous games industry fallback topic",
-        "place_label": "複数地域-ゲーム産業雑多旧記事",
-        "sort_place_label": "複数地域-ゲーム産業雑多旧記事",
-        "geocode_query": "legacy miscellaneous games industry market article",
-        "place_type": "industry_region",
-        "location_precision": "multi_region",
-        "place_reason": "古いゲーム産業記事のうち個別住所や国に固定できないものを、最低優先の複数地域トピックとして扱う（一致語: games industry）",
-        "confidence": 0.22,
-        "rule_id": "observed_legacy_misc_games_industry_fallback",
-        "matched_text": "games industry",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           138.2529,
           36.2048
         ]
@@ -18614,40 +18436,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.0,
-          20.0
-        ]
-      },
-      "properties": {
-        "title": "Generative AI will account for half of game development - Consultancy.eu",
-        "source": "Consultancy.eu",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdWs1dDdyN294WF9JTnh5aXE3X29qTjNncjJfbEJoNG9ITEZPQ05WbFZoRGVQZVVMRWk0OWZfR0ljbVdqVTFDdzRNdEtVSGM3ZkM4VWVwcEJzajBXOHBYM0dBczJhUnJpS3Judm9hbXl6Nkl5a2dhSTZWbUdTaWlTTW1meHFCSS1BcUg1d3hsbWd4dS15MnY00gGcAUFVX3lxTFAxaGMwSjRIdFloMGNSNURkMlhYVU5xTHZtc0dvMEVIN01qZ0V4ZGNoYlpjVEdNb2xOd1N5ZHhjN2ExRnUyWlVodTBlRDdlblVJYnhzOGU3cEVURmFYN3Y3Mk0yb0VCRnI1MU5reXZ6OWF5bFp1bndyNWUwWWZMUTVBd0w5RTVGX1RHczJBazdvZXhrQ3kyV0FySnZtNQ?oc=5",
-        "published_at": "2023-10-04T07:00:00+00:00",
-        "representative_place": "Old regional game development fallback topic",
-        "place_label": "複数地域-ゲーム開発旧記事補助",
-        "sort_place_label": "複数地域-ゲーム開発旧記事補助",
-        "geocode_query": "old regional game development article",
-        "place_type": "industry_region",
-        "location_precision": "multi_region",
-        "place_reason": "古い地域ゲーム開発記事で単一地点に固定しないものを、低優先の複数地域トピックとして扱う（一致語: game development）",
-        "confidence": 0.28,
-        "rule_id": "observed_old_regional_game_development_fallback",
-        "matched_text": "game development",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           121.774,
           12.8797
         ]
       },
       "properties": {
-        "title": "These award-winning Filipino indie games are fruits of passion, process - Philstar.com",
-        "source": "Philstar.com",
+        "title": "These award-winning Filipino indie games are fruits of passion, process - Philippine Star",
+        "source": "Philippine Star",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZW5oNEhxN1RyX0UwOGZNa0FCX1Y2UzJZd2tiZ01ZMjk0UVliTlF4NzZoclZodHlaWXlxNzMySW1wdnRjSkxDN2x3bkNJY1FIMjdmWUJobkItR2Q3WE5GQmxIdk1RWEFlYnhBek12TTVvcVp4Nk5sVzFDYWtEUjNRb0dXdTlxeXJPYzYwcjcyU0RYNGstdjZGc01fNnJOTnJRWnNnMlVkQ0tLdGN0d2ZMeFdWdlpiNlM5eVHSAcABQVVfeXFMTXJJbU1rOFVyX01LUFVyTHBKc2tiX3RKUDg4YVlSS29MUlJvUk81SzdzNzZBMllTVFhuQTJIRUNmQndlZ01yekxxVkFGOUpZY1ZsQlpNM2ozWFhPRzU5Z2NHOXBIYVpNVU5maFhkQzFGcUxrVEZQbHp6bDBsNnlHaUJVNDZtLVk3VE01RUtfajBuczk5YXZnWFdTM25QaEtEY2VBRU1rTTFnd055NldEeW15Y09WT0ozZ3owbVlWY2dL?oc=5",
         "published_at": "2023-09-28T07:00:00+00:00",
         "representative_place": "Philippines game studio interview fallback topic",
@@ -18984,33 +18779,6 @@
         "confidence": 0.34,
         "rule_id": "observed_asia_gaming_policy_culture_fallback_202109",
         "matched_text": "gaming",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.2551,
-          54.526
-        ]
-      },
-      "properties": {
-        "title": "Gem Capital will invest $50M in Eastern European game studios - GamesBeat",
-        "source": "GamesBeat",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVDdvTXRRN0xqN1I3ZXhmY0ROd2tLUXlmS2paOTA0blVSZ1hvaVgyRWVIdUlaLU1DRk1URnlIZ0FrSjBKNmpCRFF0ZVIyYktUUlZic0NIUnZQdXoyRlowNVp5cEhOQ3NGR1U0bm9zQjlZU05Dbm9jT09VcEVYVk44dDVpNVM0S2kycnk0?oc=5",
-        "published_at": "2023-08-03T07:00:00+00:00",
-        "representative_place": "European gamescom studio interview fallback topic",
-        "place_label": "欧州-gamescomスタジオ取材記事",
-        "sort_place_label": "欧州-gamescomスタジオ取材記事",
-        "geocode_query": "Europe gamescom studio interview game developer",
-        "place_type": "event_media_topic",
-        "location_precision": "region",
-        "place_reason": "gamescom取材の欧州スタジオ記事で番地を固定できないものを、欧州のイベント取材トピックとして低優先で扱う（一致語: Studios）",
-        "confidence": 0.4,
-        "rule_id": "observed_european_gamescom_studio_interview_fallback_202408",
-        "matched_text": "Studios",
         "match_source": "known_place_title"
       }
     },
@@ -19416,6 +19184,33 @@
         "confidence": 0.46,
         "rule_id": "observed_japan_indie_game_announcement_fallback_202511",
         "matched_text": "スタジオ",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.9629,
+          20.5937
+        ]
+      },
+      "properties": {
+        "title": "Indian game studios aspire to build AAA games - Techcircle",
+        "source": "Techcircle",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUS0tYmVOX0Zwcl9uUDRLaTk4U2FGd2g0MTJJOUJKQWtUb1RmYWRtOGFJaGwtRmtLYlBqMjZmTzI4Ml9nejBDN1QwR2NrX28zejc3V1pJWTE2LWlTZjU1VnBJVFlCRFFxLVd2YlVmcWExU0tvOV96dTZSZTNQbXJHdjZER3hUZ0Y5VzE1dm05dEtRY0E?oc=5",
+        "published_at": "2023-03-13T07:00:00+00:00",
+        "representative_place": "India new game studio fallback topic",
+        "place_label": "インド-新設ゲームスタジオ記事",
+        "sort_place_label": "インド-新設ゲームスタジオ記事",
+        "geocode_query": "India new gaming studio co-founder",
+        "place_type": "studio_company_topic",
+        "location_precision": "country",
+        "place_reason": "インドの新設ゲームスタジオや共同創業者記事で都市・番地が確定しないものを、低優先の国レベルスタジオトピックとして扱う（一致語: India）",
+        "confidence": 0.44,
+        "rule_id": "observed_india_game_studio_new_company_fallback_202505",
+        "matched_text": "India",
         "match_source": "known_place_title"
       }
     },
@@ -19910,25 +19705,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          78.9629,
-          20.5937
+          100.0,
+          30.0
         ]
       },
       "properties": {
-        "title": "Sony launches PlayStation Studios Mobile, acquires a game company - The Times of India",
-        "source": "The Times of India",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQd2o4aG9ScXlsOUs5eHdtT3RWZXNfb1pOUUJJaXdLNjFkVTllX2EtZkJaR3VURUMzalI1TzBKTmlSM3pnVlZCXzRCZXVFR3pQM2w1anNOb29jNkdZRmZOWVNUaTlMUWFWc2JaQUE5SDg5Mi1JX1lBTHo5Zkx2M01SenRWT2J0LVpBbWFUQkRKZ2xTZFBTVGhBREU0aVlocC1DVjlXTnlZZTJXS2tDbE1JVG1ZTWVOWTRjY2R2NXpiZngwNUdKR1dYQldwOWRCazVxb3hpcNIB2gFBVV95cUxObGlnOUhoWUxyMlBXeVBaZUZFSUwxb2ZueHRyRE5mTlBHSkRQZHE4czZfdGJjQXk2M2k0WlBzT183ZnBuaGw1TW1tQkxJRmFhSUFzQVJZcjVidFBZNEtqbjJoa3FaMnJfVERYdVQyOGxEbVNwZHFnREVpQTBISTE3cTAzaHNRMnMtNUt2MWlRY01jeXNlTUtaRVBtNEVESUY1b043a042NWZxUExGSVdWTFQwOWZXN25vYU9wRVF5Ti1FMFhMeFVuNHZvQUNSMGMxQWhLWE9GWDc1QQ?oc=5",
-        "published_at": "2022-08-29T07:00:00+00:00",
-        "representative_place": "India new game studio fallback topic",
-        "place_label": "インド-新設ゲームスタジオ記事",
-        "sort_place_label": "インド-新設ゲームスタジオ記事",
-        "geocode_query": "India new gaming studio co-founder",
-        "place_type": "studio_company_topic",
-        "location_precision": "country",
-        "place_reason": "インドの新設ゲームスタジオや共同創業者記事で都市・番地が確定しないものを、低優先の国レベルスタジオトピックとして扱う（一致語: India）",
-        "confidence": 0.44,
-        "rule_id": "observed_india_game_studio_new_company_fallback_202505",
-        "matched_text": "India",
+        "title": "How A Kenyan Startup (Plus Donald Trump) Is Lifting Africa’s Gaming Industry - WeeTracker",
+        "source": "WeeTracker",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5rMXNvS19NZlJ4M0t6cVlUVXVhRTQzRjAzUlVneVRlQk9ZVVRzYkdjWmdpZDBha0tKQlhWWU53dTY1UWtRR2E4TWtkYzUzeUJ0Q2twRk1sa2FBVllWRTYzQUJZSzRpcjVyMjJSdjgyM1NuN19NU1E?oc=5",
+        "published_at": "2022-09-08T07:00:00+00:00",
+        "representative_place": "Asia / Asian diaspora gaming policy-culture fallback topic",
+        "place_label": "アジア・ディアスポラ-ゲーム政策/文化記事",
+        "sort_place_label": "アジア・ディアスポラ-ゲーム政策/文化記事",
+        "geocode_query": "Asia Asian diaspora gaming policy culture developers",
+        "place_type": "policy_discourse_region",
+        "location_precision": "multi_region",
+        "place_reason": "アジア各国やアジア系ディアスポラのゲーム政策・文化記事を、低優先の複数地域トピックとして扱う（一致語: gaming）",
+        "confidence": 0.34,
+        "rule_id": "observed_asia_gaming_policy_culture_fallback_202109",
+        "matched_text": "gaming",
         "match_source": "known_place_title"
       }
     },
@@ -20023,8 +19818,8 @@
         ]
       },
       "properties": {
-        "title": "A customized app store for Africa's game developers - dw.com",
-        "source": "dw.com",
+        "title": "A customized app store for Africa's game developers - DW.com",
+        "source": "DW.com",
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5TZF80akZrM19oM0tTdElRQnB4eHRsZDN3dF9INGZMdVZEb0tvRHNHbDBfM0tYZ3JpblZWM0dBQkxsWUl4c0JGMGhPVUpyZWZlZjg0Qk9ublFFc3hjVDBFYlZyS1VMOE5vMnkzVHBBWUNraXc?oc=5",
         "published_at": "2022-07-29T07:00:00+00:00",
         "representative_place": "Old Philippines game-culture supplement topic",
@@ -20099,6 +19894,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          17.6791,
+          1.6508
+        ]
+      },
+      "properties": {
+        "title": "African video game makers are breaking into the global industry with their own stories - qz.com",
+        "source": "qz.com",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPS2NjZ2l2ckkzcVo5ZUNqb0hmWlM2UEJtaTZuT3RRMnhJZF9xMEZNSWhhSnFjWmpWekNTTVpPTXdHNWJvZDZzbnV2cHgtU2tjYy0xYUFRQlNHM055U0tOSDV3RFBCUERaSzJOcm1JTVRzV0JaeUkxVk5FNVdqYWkxX1Z6YWs0Wlpib0RMc1lTdjRpSWE0cXpoNFJuTlFHY3FPaERrQ0tnalRfQjVXeUpUdzVKQkd1QQ?oc=5",
+        "published_at": "2022-07-20T07:00:00+00:00",
+        "representative_place": "Africa mobile and developer industry legacy fallback topic",
+        "place_label": "アフリカ-モバイル/開発者ゲーム産業旧記事",
+        "sort_place_label": "アフリカ-モバイル/開発者ゲーム産業旧記事",
+        "geocode_query": "Africa mobile gaming developers industry legacy",
+        "place_type": "industry_region",
+        "location_precision": "continent_region",
+        "place_reason": "アフリカのモバイルゲーム市場や開発者記事を、低優先の大陸レベル産業トピックとして扱う（一致語: Africa）",
+        "confidence": 0.4,
+        "rule_id": "observed_africa_mobile_industry_legacy_fallback_201812",
+        "matched_text": "Africa",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           138.2529,
           36.2048
         ]
@@ -20145,6 +19967,33 @@
         "confidence": 0.36,
         "rule_id": "observed_bbc_arab_hero_game_representation_202207",
         "matched_text": "The rise of the video game Arab hero",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.0,
+          25.0
+        ]
+      },
+      "properties": {
+        "title": "絵本がテーマのアクションADV『The Plucky Squire』が発表！「ポケモン剣盾」のアートディレクターが独立して作ったインディーゲーム - IGN Japan",
+        "source": "IGN Japan",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9EY0M1M2g0RWJ6SWJ1SVlEakxRaVM5ck12ZEtsTkIzME5Va20yYWtYblhpZXA1SkhoX2t0X2VXMXRBd1V5S1ZSMDRZckpkT1M2R0EwVHVwNEQtYV9ycG9Hckxqa01BVG5XeUdiR0ljSkpfeDRMM1E?oc=5",
+        "published_at": "2022-06-10T07:00:00+00:00",
+        "representative_place": "Asia game-origin culture fallback topic",
+        "place_label": "アジア-ゲーム作品起源・地域文化記事",
+        "sort_place_label": "アジア-ゲーム作品起源・地域文化記事",
+        "geocode_query": "Asia game origin culture regional games",
+        "place_type": "game_culture_region",
+        "location_precision": "region",
+        "place_reason": "アジア各地のゲーム作品起源・地域文化を扱う記事で単一国や会社に固定できないものを、地域文化トピックとして低優先で扱う（一致語: Japan）",
+        "confidence": 0.36,
+        "rule_id": "observed_asia_game_origin_culture_fallback_202505",
+        "matched_text": "Japan",
         "match_source": "known_place_title"
       }
     },
@@ -20774,8 +20623,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          113.9213,
-          -0.7893
+          -118.3965,
+          34.0211
         ]
       },
       "properties": {
@@ -20783,16 +20632,16 @@
         "source": "Scopely",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTWRnR2gxUlJ6VzZNRzNoQUw2MC10UHc4b2hLdTBwY3NFRnVSQkhkSjhNSXByY09vTGpCMDhJV3BJaFdGTnV1NnpQUGc4YW54UmRLOEZZaGVacS1yc1QwOFZTa0xXNGJkaWwwclVYUXBURWw2X1FoZWlXcHpfZDhOZWt4MWFlY2hFbG4tdWYzVG5GRjJiNDNIZHRCSzdrQVhXV3R3QWFRRm9zU0E?oc=5",
         "published_at": "2021-08-06T07:00:00+00:00",
-        "representative_place": "Indonesia game studio support fallback topic",
-        "place_label": "インドネシア-ゲームスタジオ支援記事",
-        "sort_place_label": "インドネシア-ゲームスタジオ支援記事",
-        "geocode_query": "Indonesia game studio support funding",
-        "place_type": "studio_funding_region",
-        "location_precision": "country",
-        "place_reason": "インドネシアのゲームスタジオ支援・資金提供記事を、個別住所ではなく低優先の国レベル支援トピックとして扱う（一致語: fund）",
-        "confidence": 0.44,
-        "rule_id": "observed_indonesia_game_studio_support_fallback_202109",
-        "matched_text": "fund",
+        "representative_place": "Scopely / Culver City",
+        "place_label": "米国-カリフォルニア州-カルバーシティ-Scopely",
+        "sort_place_label": "米国-カリフォルニア州-カルバーシティ-Scopely",
+        "geocode_query": "Scopely Culver City California United States",
+        "place_type": "mobile_game_company_city",
+        "location_precision": "city",
+        "place_reason": "Monopoly Go主体の記事を日本IPスマホゲームfallbackではなくScopely所在地のCulver Cityに置く（一致語: Scopely）",
+        "confidence": 0.74,
+        "rule_id": "observed_monopoly_go_scopely_culver_city_202606",
+        "matched_text": "Scopely",
         "match_source": "known_place_title"
       }
     },
@@ -21935,33 +21784,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          18.0686,
-          59.3293
-        ]
-      },
-      "properties": {
-        "title": "オープンワールドゲーム開発でおなじみのAvalanche Studiosが「3分社化」。開発は3スタジオに分かれ、新作も発表 - AUTOMATON",
-        "source": "AUTOMATON",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE12UDB3V3hOdFlYb1dBenZQV2lLVGNiVjNUb2daUENnM2UwNWhhRkNObjhQVWxQX0FlZGhfMlZiazB0ZC1zMGlkcWVYemRyMVAyN3d1LVJYbEY4RTBySHZic1NkdFZCYk05THFLUg?oc=5",
-        "published_at": "2020-03-27T07:00:00+00:00",
-        "representative_place": "Avalanche Studios / Stockholm studio area",
-        "place_label": "スウェーデン-ストックホルム-Avalanche Studios",
-        "sort_place_label": "スウェーデン-ストックホルム-Avalanche Studios",
-        "geocode_query": "Avalanche Studios Stockholm Sweden",
-        "place_type": "studio_site",
-        "location_precision": "city",
-        "place_reason": "Avalanche Studios主体の記事だけを扱う。studio_areaはスコア表に未定義なので、番地未固定のスタジオ周辺はcityに正規化する（一致語: Avalanche Studiosが「3分社化」）",
-        "confidence": 0.72,
-        "rule_id": "observed_avalanche_studios_just_cause_stockholm_202604",
-        "matched_text": "Avalanche Studiosが「3分社化」",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           100.0,
           30.0
         ]
@@ -22156,6 +21978,60 @@
         ]
       },
       "properties": {
+        "title": "2Kが『バイオショック』新作を開発する新スタジオの設立を発表 - GameBusiness.jp",
+        "source": "GameBusiness.jp",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1FMWV5V3pqMXBMd0FiczBsRVhyQm1MV3RpVmx3MjQzLThDSW1laE5WQlVoUDd3VDZfRGRmaENERk9Rc1VVRmw2YUFlbG1DaFJsaDJiZVViSkZGSTdSM2NsMGlvWVlrSG5K?oc=5",
+        "published_at": "2019-12-10T08:00:00+00:00",
+        "representative_place": "Japan indie game announcement fallback topic",
+        "place_label": "日本-インディーゲーム新作発表",
+        "sort_place_label": "日本-インディーゲーム新作発表",
+        "geocode_query": "Japan indie game developer announcement",
+        "place_type": "indie_studio_topic",
+        "location_precision": "country",
+        "place_reason": "日本語RSSに出るインディーゲーム開発者・新作発表記事で個別都市が確認できないものを、日本のインディーゲーム発表トピックとして扱う（一致語: スタジオ）",
+        "confidence": 0.46,
+        "rule_id": "observed_japan_indie_game_announcement_fallback_202511",
+        "matched_text": "スタジオ",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.2529,
+          36.2048
+        ]
+      },
+      "properties": {
+        "title": "【ガールズシンフォニー：Ec ～新世界少女組曲～】配信日・リリース日はいつ？事前登録情報｜ガルシン - AppMedia",
+        "source": "AppMedia",
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1TeHRnZ3dXWHQwVWRYc1gxNnJTQW9WX3NFNXJ3YkN2Uk02aDYxdmczaTZFN1AxSXZsUVhfbjB4a2U4R0R4R2RiRWtCaw?oc=5",
+        "published_at": "2019-12-05T08:00:00+00:00",
+        "representative_place": "SAO Memory Defrag / Japan preregistration topic",
+        "place_label": "日本-ソードアート・オンライン メモリー・デフラグ事前登録",
+        "sort_place_label": "日本-ソードアート・オンライン メモリー・デフラグ事前登録",
+        "geocode_query": "Japan Sword Art Online Memory Defrag preregistration mobile game",
+        "place_type": "launch_market_region",
+        "location_precision": "country",
+        "place_reason": "日本向けスマホゲームの配信決定・事前登録記事なので、運営会社番地ではなく日本の配信市場トピックとして扱う（一致語: 事前登録）",
+        "confidence": 0.68,
+        "rule_id": "observed_sao_memory_defrag_prereg_japan_201801",
+        "matched_text": "事前登録",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.2529,
+          36.2048
+        ]
+      },
+      "properties": {
         "title": "【revisions next stage】配信日・リリース日はいつ？事前登録情報｜リヴィネク - AppMedia",
         "source": "AppMedia",
         "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5qM2FHVjhSWUk2Y1owN2NoZmRvMC1QaXpHcUN3eFJmSDBndEViZmZRNzJGVERNbDdIM2FTMzBSNHVjdENtSEZhNDAwaw?oc=5",
@@ -22251,60 +22127,6 @@
         "confidence": 0.42,
         "rule_id": "observed_eastern_europe_game_studio_fallback_202504",
         "matched_text": "Eastern Europe",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          20.0
-        ]
-      },
-      "properties": {
-        "title": "These 3 Pinoy-made video games are making sensations online - GMA Network",
-        "source": "GMA Network",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQWJVaVNKYVM5V3p1MlkydzY5YXVHVTE0ZlVXSGUzMlJ5YUprWEtGaVVGbXRPR2lITUE4MVU2aE82TXlHd2hycTBjY3h6cmotRWlqa0Fnb0FhQl84UDdYbGVqYzBsLUt4cFc5eVJZcExaUlllTUxWbm83c1JNNkp6RXRfQmI3M0RkRUltZTV0UDNYZ2RmXzFQR0k4OTBaOF9yem40NXdrUTYyZGp3ano1UFVqOERVR2lQZ0lDTGVrNU8wd9IBxwFBVV95cUxPV2xKQzZXV1U3b0J5YTMxdEt3c2IwVHpfdnNHVHdSaExVOTJMSG9lX09LdjNwaFE1V3hpSXhUdkg0cHc1empqUERLbjllcVYxSHlKWVFUd3JJZmxSUGJlUENnVUlHc2ZuX3NTNjdMcTM2TEtDQm5WVjhoZWMweThfOWg4c0xiU3FsUXFhYzdieXpRN3dyNll2a3VZNGpGdjNPSjAxbXcxUTdfTXNBWHRVZW54dlhtdURDUjdoa2NWejZ4SkZGVkMw?oc=5",
-        "published_at": "2019-09-10T07:00:00+00:00",
-        "representative_place": "Terminal unresolved legacy fallback topic",
-        "place_label": "複数地域-未解決旧記事まとめ",
-        "sort_place_label": "複数地域-未解決旧記事まとめ",
-        "geocode_query": "legacy video games industry unresolved article fallback",
-        "place_type": "industry_region",
-        "location_precision": "multi_region",
-        "place_reason": "現在スナップショット末尾側の古いRSS記事に対する最終的な低優先fallback。具体的な会社・都市・国規則がある場合はそちらを優先する（一致語: video games）",
-        "confidence": 0.18,
-        "rule_id": "observed_terminal_unresolved_legacy_fallback",
-        "matched_text": "video games",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          138.2529,
-          36.2048
-        ]
-      },
-      "properties": {
-        "title": "ドラゴンクエストウォーク：スマホゲーム9月12日配信 事前登録スタート - Mantan Web",
-        "source": "Mantan Web",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1IemNlUWlkaTZmbEYwaF9pQk1aS0ZxaHludXMyQWRyZ2JVNkdlZW5Mb0RNVE02Y2FNcFBjNVZOSThVXzUyMTY5c0hmWUZJdG42c0doeHo1aWhiV1BvQWJQYklDXzFzU1hXVHFN?oc=5",
-        "published_at": "2019-09-05T07:00:00+00:00",
-        "representative_place": "SAO Memory Defrag / Japan preregistration topic",
-        "place_label": "日本-ソードアート・オンライン メモリー・デフラグ事前登録",
-        "sort_place_label": "日本-ソードアート・オンライン メモリー・デフラグ事前登録",
-        "geocode_query": "Japan Sword Art Online Memory Defrag preregistration mobile game",
-        "place_type": "launch_market_region",
-        "location_precision": "country",
-        "place_reason": "日本向けスマホゲームの配信決定・事前登録記事なので、運営会社番地ではなく日本の配信市場トピックとして扱う（一致語: 事前登録）",
-        "confidence": 0.68,
-        "rule_id": "observed_sao_memory_defrag_prereg_japan_201801",
-        "matched_text": "事前登録",
         "match_source": "known_place_title"
       }
     },
@@ -22988,33 +22810,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.3007,
-          52.0705
-        ]
-      },
-      "properties": {
-        "title": "『Dead by Daylight』開発元が、新作『Deathgarden』を発表。1人のハンターと5人の逃走者が対峙する非対称シューター - AUTOMATON",
-        "source": "AUTOMATON",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE45RlIxaWdVZkNObXpnN2Q2XzFiVmNFN0VBMVJWU21FTnNkTHVyMzhTTDlWUEdYN29wbF9Ga1R6RHA5RndacTQwbTVaWUhNX3VieUVyMkdyVlVKbmhRNG1CemZYWjc1ZC01U0hZ?oc=5",
-        "published_at": "2018-03-30T07:00:00+00:00",
-        "representative_place": "Paladin Studios / The Hague Good Job topic",
-        "place_label": "オランダ-The Hague-Paladin Studios / Good Job!",
-        "sort_place_label": "オランダ-The Hague-Paladin Studios / Good Job!",
-        "geocode_query": "Paladin Studios The Hague Netherlands Good Job",
-        "place_type": "studio_headquarters_city",
-        "location_precision": "city",
-        "place_reason": "Good Job!開発元Paladin Studiosの記事なので、同社所在地のThe Hagueに置く",
-        "confidence": 0.7,
-        "rule_id": "observed_paladin_studios_the_hague_good_job_202405",
-        "matched_text": "開発元",
-        "match_source": "rule"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           138.2529,
           36.2048
         ]
@@ -23236,8 +23031,8 @@
         ]
       },
       "properties": {
-        "title": "Esports seen to usher in jobs, businesses into Philippines - Philstar.com",
-        "source": "Philstar.com",
+        "title": "Esports seen to usher in jobs, businesses into Philippines - Philippine Star",
+        "source": "Philippine Star",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOWloQUpiU3ZSS3hYcHFjaXg3ZnE0cEdmUzhNTEd6dnBrSXhvNXpRNnFIbW9QYVQxZDBsMWQ0X2VFZURfaHVQdDNhUFIzRmhBeTMtcDdqU3o0R2VOZWlTOU1IRFhyNm9rT1pkQkViWGhHak1LY1QyTWh6V296QTNLd096Z2REaFFoTXFORzR3dVItOGdaSnJmR0dNNnhQekxsaGfSAagBQVVfeXFMUEhnSkVsbDJ4YWd6NnBwMDdNSHhqc01PbnlPZ05OUVdLVkY0YXNPVnZQR3lDLXdHQlg3ZzRvdFZ3UEpUS0N6a290dk50c2NXc21vLUFiM0JjNG1pSUQ4Tm1SajY3ZTlpNThPQUo4cVJ5eS00YUkzaThHWEwwcHdxVklXTFZrbnBPUFJvcURjeDloSEdjbC0zdnVOUzdGVjZOZnlCa1B6SWpO?oc=5",
         "published_at": "2017-06-30T07:00:00+00:00",
         "representative_place": "Philippines game studio interview fallback topic",
@@ -23493,6 +23288,33 @@
         "confidence": 0.6,
         "rule_id": "observed_southeast_asia_games_engagement_policy_202310",
         "matched_text": "Southeast Asia",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8198,
+          1.3521
+        ]
+      },
+      "properties": {
+        "title": "Is Singapore’s gaming scene levelling up? GameStart Asia’s Elicia Lee shares her views - Yahoo News Singapore",
+        "source": "Yahoo News Singapore",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWWhpTm16ZGpQeHkwOWFXektQV3ZhTXRsaU1wa3Y5aGgwVzlfaXRrbFUwQV9YclZkOUdrWlpyYjJ1dExBQ0JnRUZkQnJnNTNURGtvZ3FleW10VXVJRmRqZjdTX2FZMTBOTnNVa2FUMzhzckJkSDM3U1JRTkN3QURrMjBycFZQSE5fN2Q4MjFOWFZWeV9jYWt2WXNjWjk2UnVS?oc=5",
+        "published_at": "2016-10-12T07:00:00+00:00",
+        "representative_place": "Singapore gaming scene / GameStart Asia topic",
+        "place_label": "シンガポール-GameStart Asiaとゲームシーン",
+        "sort_place_label": "シンガポール-GameStart Asiaとゲームシーン",
+        "geocode_query": "Singapore gaming scene GameStart Asia Elicia Lee",
+        "place_type": "ecosystem_region",
+        "location_precision": "country",
+        "place_reason": "シンガポールのゲームシーンとGameStart Asiaを扱う記事なので、イベント会場番地ではなく国レベルのエコシステムトピックとして扱う（一致語: Singapore’s gaming scene）",
+        "confidence": 0.68,
+        "rule_id": "observed_singapore_gamestart_asia_scene_201610",
+        "matched_text": "Singapore’s gaming scene",
         "match_source": "known_place_title"
       }
     },
@@ -23852,33 +23674,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          21.0122,
-          52.2297
-        ]
-      },
-      "properties": {
-        "title": "Polish video game 'The Witcher' enchants world - Phys.org",
-        "source": "Phys.org",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1rdURTeTYtX0ZqSW1MZFJmdFdIUlh0cW51bFRDX3hOZ3lfci00Wldyc3ZZUGNjcjNmbHNkX2d6ZjI5T2ZlaWdrR1h0anc1WG1BSW1oQjdQMkFvVlh3T1RQQ3RjNnZkWldIZWt6ekg5MkQ3VDd5R1BN?oc=5",
-        "published_at": "2015-07-19T07:00:00+00:00",
-        "representative_place": "CD Projekt / Warsaw Witcher topic",
-        "place_label": "ポーランド-Warsaw-CD Projekt / The Witcher",
-        "sort_place_label": "ポーランド-Warsaw-CD Projekt / The Witcher",
-        "geocode_query": "CD Projekt Warsaw Poland The Witcher",
-        "place_type": "studio_headquarters_city",
-        "location_precision": "city",
-        "place_reason": "The Witcherを扱うポーランドゲーム記事なので、CD Projekt / CD Projekt Red所在地のWarsawに置く（一致語: Polish video game 'The Witcher' enchants world）",
-        "confidence": 0.74,
-        "rule_id": "observed_cd_projekt_warsaw_witcher_201507",
-        "matched_text": "Polish video game 'The Witcher' enchants world",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           138.2529,
           36.2048
         ]
@@ -23898,33 +23693,6 @@
         "confidence": 0.68,
         "rule_id": "observed_sao_memory_defrag_prereg_japan_201801",
         "matched_text": "事前登録",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          138.2529,
-          36.2048
-        ]
-      },
-      "properties": {
-        "title": "STUDIO4°Cと稲船敬二が米国で新作アニメ企画発表 Kickstarterで制作資金募集開始 - アニメ！アニメ！",
-        "source": "アニメ！アニメ！",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAyTWJZTmlMb0JvM0FOd3F0LXkyMzVHWnk4RlI5WVF0SnZmUUZqNENkWElpT1Z1dlNjZWVVemp4anJIN2RodW1xYThtOWFtYTF0UWNCOUZxT2hwb1U3WnlGMA?oc=5",
-        "published_at": "2015-07-05T07:00:00+00:00",
-        "representative_place": "Japan major game co-development fallback topic",
-        "place_label": "日本-大作ゲーム共同開発体制記事",
-        "sort_place_label": "日本-大作ゲーム共同開発体制記事",
-        "geocode_query": "Japan major game co-development studios",
-        "place_type": "studio_collaboration_region",
-        "location_precision": "country",
-        "place_reason": "日本の大作ゲーム共同開発体制記事で個別会社住所を固定しないものを、低優先の国レベル協業トピックとして扱う（一致語: 新作）",
-        "confidence": 0.42,
-        "rule_id": "observed_japanese_major_game_co_development_fallback_202109",
-        "matched_text": "新作",
         "match_source": "known_place_title"
       }
     },
@@ -24068,6 +23836,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          121.774,
+          12.8797
+        ]
+      },
+      "properties": {
+        "title": "7 big foreign gaming firms eye PH - Inquirer.net",
+        "source": "Inquirer.net",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9EUHZKSFBzVmZsLUFoYWFqb294OXdwdjM0dE9SWnNKOHBvZ0NjOHZlMDItQXFXald2dGVVLXBORE9wazJfSDh3QU5ZYW5mZk0tWDNSdkdESllvTzNySWp0aGRDU1ZwOHoydFZGLUIwa25ialJYSW1hSWR30gF_QVVfeXFMT1E2MzQ1RkxpeU5nVlo2Tkhwa0x0ZFRnWVAtNXpqZlVHdnZGTTFjWE9MWk93aDViWXlwZ2RnZ29RYmhBY0gtLWFUTnZySWdWWEg5LVZfMm9GX2lmczAzMVliZ0pPclRENHlnNnVfdUs0dzRWZGxKT1BWcm9zaE0tRQ?oc=5",
+        "published_at": "2014-10-04T07:00:00+00:00",
+        "representative_place": "Philippines video game blame discourse",
+        "place_label": "フィリピン-ゲーム責任論・社会議論",
+        "sort_place_label": "フィリピン-ゲーム責任論・社会議論",
+        "geocode_query": "Philippines video games social discourse",
+        "place_type": "policy_discourse_region",
+        "location_precision": "country",
+        "place_reason": "フィリピン媒体の記事で、個別事件や会社所在地ではなくゲーム責任論をめぐる社会議論として扱う（一致語: Inquirer.net）",
+        "confidence": 0.62,
+        "rule_id": "observed_philippines_video_game_blame_discourse_202606",
+        "matched_text": "Inquirer.net",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           138.2529,
           36.2048
         ]
@@ -24168,33 +23963,6 @@
         "confidence": 0.34,
         "rule_id": "observed_old_philippines_game_culture_supplement",
         "matched_text": "game developers",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          78.9629,
-          20.5937
-        ]
-      },
-      "properties": {
-        "title": "Online gaming company Games2win acquires casual games studio Backyard Game FactorRy - Techcircle",
-        "source": "Techcircle",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWG1Yemh1WjBVS3J2RmFqUUl6OWh5T3lMZDJrVHdnc2FfWVdqZWNvd1BQSVo2YllyZGR0M2dDbEdyYWFBVjhMQmpqbkh6d3Z1RjBFSmYtNGhobjFYZ3ZQVmJ2Y2RXeDl6YTJ6a1VFVkt6SGtPQWpLVUVXaG5pNUYxTDU4YXc1c1J4eTg2RTVDYkZ2Z1RlTnlPMFVnYlZ5TlJhQkstSFpkUHlzUE1LSTdmY0hldnhlNHFSMk9EaWZR?oc=5",
-        "published_at": "2013-06-06T07:00:00+00:00",
-        "representative_place": "India / Games2win casual-studio acquisition topic",
-        "place_label": "インド-Games2winカジュアルゲームスタジオ買収",
-        "sort_place_label": "インド-Games2winカジュアルゲームスタジオ買収",
-        "geocode_query": "India Games2win acquires Backyard Game FactorRy casual games studio",
-        "place_type": "acquisition_region",
-        "location_precision": "country",
-        "place_reason": "Games2winによるカジュアルゲームスタジオ買収記事なので、番地を推測せずインドのゲーム会社買収トピックとして扱う（一致語: acquires casual games studio）",
-        "confidence": 0.66,
-        "rule_id": "observed_games2win_backyard_game_factory_acquisition_india_201306",
-        "matched_text": "acquires casual games studio",
         "match_source": "known_place_title"
       }
     },

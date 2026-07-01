@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "created_at": "2026-06-30T14:09:44.008030+00:00",
+  "created_at": "2026-07-01T03:02:34.598786+00:00",
   "stats": {
     "feed_id": "game-all",
     "feed_label": "ゲーム",
@@ -43,18 +43,29 @@
       "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Eastern%20Europe&hl=en&gl=PL&ceid=PL:en": 74,
       "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Africa&hl=en&gl=ZA&ceid=ZA:en": 79,
       "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Southeast%20Asia&hl=en-SG&gl=SG&ceid=SG:en": 77,
-      "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA&hl=ja&gl=JP&ceid=JP:ja": 73,
+      "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA&hl=ja&gl=JP&ceid=JP:ja": 74,
       "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja": 78,
       "https://news.google.com/rss/search?q=%E6%B5%B7%E5%A4%96%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA&hl=ja&gl=JP&ceid=JP:ja": 75,
       "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja": 78
     },
-    "filtered": 908,
-    "resolved": 897,
-    "unresolved": 11,
-    "rules": 470,
-    "known_places": 472,
+    "filtered": 905,
+    "resolved": 888,
+    "unresolved": 17,
+    "rules": 498,
+    "known_places": 500,
     "loaded_data_files": [
       "data/place_rules.json",
+      "data/unresolved_known_places.json",
+      "data/unresolved_known_places_2.json",
+      "data/unresolved_known_places_3.json",
+      "data/unresolved_known_places_4.json",
+      "data/unresolved_known_places_5.json",
+      "data/unresolved_known_places_6.json",
+      "data/unresolved_known_places_7.json",
+      "data/unresolved_known_places_8.json",
+      "data/unresolved_known_places_9.json",
+      "data/unresolved_known_places_10.json",
+      "data/unresolved_known_places_11.json",
       "data/unresolved_known_places_12.json",
       "data/unresolved_known_places_13.json",
       "data/unresolved_known_places_14.json",
@@ -112,11 +123,27 @@
   },
   "unresolved": [
     {
-      "title": "PlayStation once again pulls purchased Studio Canal content from user libraries because of \"licensing arrangements\"",
+      "title": "Stillfront seeks new CEO as Alexis Bonte steps aside",
+      "link": "https://mobilegamer.biz/stillfront-seeks-new-ceo-after-alexis-bonte-steps-aside/",
+      "source": "Mobilegamer.biz",
+      "published_at": "2026-06-30T16:25:36+00:00",
+      "summary": "Bonte will stay on as CEO until a successor is found.",
+      "feed_url": "https://mobilegamer.biz/feed/"
+    },
+    {
+      "title": "Candy Crush gives football fans a free ride in designated \"Candy Cabs\"",
+      "link": "https://www.pocketgamer.biz/candy-crush-gives-football-fans-a-free-ride-in-designated-candy-cabs/",
+      "source": "Latest Updates | PocketGamer.biz",
+      "published_at": "2026-06-30T14:30:00+00:00",
+      "summary": "Candy Crush is going IRL this Soccer Season with interactive taxi rides in New York City today.\n\nTaking place during the World Cup, a fleet of \"Candy Cabs\" will give fans a free ride if they beat a Candy Crush level before arriving at their destination. ... [ MORE ]",
+      "feed_url": "https://www.pocketgamer.biz/rss/"
+    },
+    {
+      "title": "PlayStation once again pulls purchased StudioCanal content from user libraries because of \"licensing arrangements\"",
       "link": "https://www.gamesindustry.biz/playstation-once-again-pulls-purchased-studio-canal-content-from-user-libraries-because-of-licensing-arrangements",
       "source": "GamesIndustry.biz Latest Articles Feed",
       "published_at": "2026-06-29T17:27:27+00:00",
-      "summary": "Sony PlayStation has written to players informing them that previously purchased Studio Canal movies will be pulled from libraries from September 1.    Read more",
+      "summary": "Sony PlayStation has written to players informing them that previously purchased StudioCanal movies will be pulled from libraries from September 1.    Read more",
       "feed_url": "https://www.gamesindustry.biz/feed"
     },
     {
@@ -176,6 +203,14 @@
       "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Philippines&hl=en-PH&gl=PH&ceid=PH:en"
     },
     {
+      "title": "When and how to watch The Game Awards 2025 - Polygon.com",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5sUkVDMV96dXp6QWl6RDR6b19aSWhJaHIyT1M4S1F6NmVpbHZWTWVuZVJSN1hHVUJ5RW9OX0tuSjNQOUxtN3hERFVZTzU5WGRwci1NZENaeHhfQzdmdmY4WklYSzV4RGJwV0V0X0taVlpESUljMXpnTktnaHQ?oc=5",
+      "source": "Polygon.com",
+      "published_at": "2025-12-10T08:00:00+00:00",
+      "summary": "When and how to watch The Game Awards 2025    Polygon.com",
+      "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Eastern%20Europe&hl=en&gl=PL&ceid=PL:en"
+    },
+    {
       "title": "Study: In 2025, Americans will spend an average of $325 on games, while Europeans will spend 2.6 times less - Game World Observer",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZTVkODhpYXhiVU5FTDVwVUNzUGNKUzV5X29VNG1ZYV93cEx4MnU1Qjd0a0txRk4yUTJZR2xVOVhxTEhveXZiZS1HSm9XSTNpQmVNMnVPX1l1ZmJkY082a0E3d2dfaFBwRE9pZW13YlpfWmFKVGVMQ2JpUy1wRmpfNzdjNEtMbnItWGhNZUcwNy1kZjYySjVZVm53WXc3VTFXNEl6TWJKMS1ieW5HanRvRFUwUXREVldFNEJCdFN0Z3J3YVVzaXJPMkRfa0ludDFLS1k1VFFzMTZ5TFFZ?oc=5",
       "source": "Game World Observer",
@@ -184,12 +219,36 @@
       "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Eastern%20Europe&hl=en&gl=PL&ceid=PL:en"
     },
     {
+      "title": "North American Gamers Spend Almost Three Times More On Games Than Europeans, According To New Report - TheGamer",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBRZlZUN1FyWmw4X1lRdnBBSTVZZGdUZ3VCNUZrSzhCOVdZLW8tc29CeWJPd2pfSmc1UjFiWlY4Q0Q4aG5ZdkZSd2daa3BsY1RnZDJZVjFtQVdRR1dtRURHRHdyaWZlT1Z2aVJUZmg3SVI2NENyYkJueWlCOHVtdw?oc=5",
+      "source": "TheGamer",
+      "published_at": "2025-08-12T07:00:00+00:00",
+      "summary": "North American Gamers Spend Almost Three Times More On Games Than Europeans, According To New Report    TheGamer",
+      "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Eastern%20Europe&hl=en&gl=PL&ceid=PL:en"
+    },
+    {
+      "title": "Netflix’s video game strategy comes into focus - Fast Company",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNWZrXzl0QnppTzNTeVBtQ2p1WDY3VTFJei1SaEFlc3BSSjFSQW5sakRYM1NLaDJkMF9EM2ZFXzBYczF3MzFvU2JRQmRjMmZpbDhlcG94cjRvYzNYMlBDZTliV1JPdzh5RmpLWG82VDB1cXBTTFFGTFBXaVdaUkpwNlBiSzR3dE5S?oc=5",
+      "source": "Fast Company",
+      "published_at": "2024-08-06T07:00:00+00:00",
+      "summary": "Netflix’s video game strategy comes into focus    Fast Company",
+      "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20India&hl=en-IN&gl=IN&ceid=IN:en"
+    },
+    {
       "title": "eSport game changer - The Media Online",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBXd0d4OUVSaE5GYmZ0WWMzbjU0VG5jOVZpSTZqRGZuXzlLb1ZkdU1Db3JDUjR4VHJIMC1UTGNOY0hqb2JSVnhBR2xTVFNJTklzeTNJN1lSYW9LbTU4X0lvVGQ2N0RTeHY5?oc=5",
       "source": "The Media Online",
       "published_at": "2024-05-09T07:00:00+00:00",
       "summary": "eSport game changer    The Media Online",
       "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Africa&hl=en&gl=ZA&ceid=ZA:en"
+    },
+    {
+      "title": "Inside GameFi: What It Is, How It Works, Why It’s Popular - Built In",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1BcG01b0VlYWJvSkFLZWZyTEItX1Y0MVFmVEJkMExLeUlTeXU5U2RHTGtENGZxdkJ6ZXhXNzFCYzRqa2ZSTWdxdGhEbVoydw?oc=5",
+      "source": "Built In",
+      "published_at": "2022-05-01T07:00:00+00:00",
+      "summary": "Inside GameFi: What It Is, How It Works, Why It’s Popular    Built In",
+      "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Philippines&hl=en-PH&gl=PH&ceid=PH:en"
     },
     {
       "title": "White Nights organizers reveal more details about WN Hub online platform - Game World Observer",
