@@ -1,7 +1,7 @@
 {
   "type": "FeatureCollection",
   "properties": {
-    "created_at": "2026-06-30T14:09:44.008030+00:00",
+    "created_at": "2026-07-01T03:19:55.363820+00:00",
     "count": 17,
     "stats": {
       "feed_id": "google-news-ai-ja",
@@ -17,10 +17,21 @@
       "filtered": 100,
       "resolved": 17,
       "unresolved": 83,
-      "rules": 470,
-      "known_places": 472,
+      "rules": 498,
+      "known_places": 500,
       "loaded_data_files": [
         "data/place_rules.json",
+        "data/unresolved_known_places.json",
+        "data/unresolved_known_places_2.json",
+        "data/unresolved_known_places_3.json",
+        "data/unresolved_known_places_4.json",
+        "data/unresolved_known_places_5.json",
+        "data/unresolved_known_places_6.json",
+        "data/unresolved_known_places_7.json",
+        "data/unresolved_known_places_8.json",
+        "data/unresolved_known_places_9.json",
+        "data/unresolved_known_places_10.json",
+        "data/unresolved_known_places_11.json",
         "data/unresolved_known_places_12.json",
         "data/unresolved_known_places_13.json",
         "data/unresolved_known_places_14.json",
@@ -447,25 +458,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          95.0,
-          25.0
+          0.0,
+          20.0
         ]
       },
       "properties": {
-        "title": "ChatGPTの革命はもう終わり。元OpenAI研究員が明かす「生成AIの次」 - Business Insider Japan",
-        "source": "Business Insider Japan",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1maEg0dTMybVhMX3BXZ2hlMDh4MmRXVHh3bDVfenhNUTJqRlNyUFFyQXA4SFdsLXFTYUVJSExiVEdJS3ItNkR0R1JWOG1teDlEOHc4NDdtTFRicjU1dzd2djctdHNuMDRBcmJlQzcyTEptSWxtVUt3cXV5Yw?oc=5",
-        "published_at": "2026-01-16T08:00:00+00:00",
-        "representative_place": "Asia game-origin culture fallback topic",
-        "place_label": "アジア-ゲーム作品起源・地域文化記事",
-        "sort_place_label": "アジア-ゲーム作品起源・地域文化記事",
-        "geocode_query": "Asia game origin culture regional games",
-        "place_type": "game_culture_region",
-        "location_precision": "region",
-        "place_reason": "アジア各地のゲーム作品起源・地域文化を扱う記事で単一国や会社に固定できないものを、地域文化トピックとして低優先で扱う（一致語: Japan）",
-        "confidence": 0.36,
-        "rule_id": "observed_asia_game_origin_culture_fallback_202505",
-        "matched_text": "Japan",
+        "title": "OpenAI、「GPT-5.3-Codex」を正式発表、コーディングAIモデルで自己進化 - ビジネス+IT",
+        "source": "ビジネス+IT",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnN2pReWtoSGNIaWhpSXFHNks1Y21BRU9PbTNpb05OWEdaMXpTYlRUMS1laGF0ZlJwVnI3dXA3SmEtUy01Z193Z0dBTGZjazZacktn?oc=5",
+        "published_at": "2026-02-06T08:00:00+00:00",
+        "representative_place": "Japan-origin overseas launch fallback topic",
+        "place_label": "複数地域-日本発ゲーム海外展開発表",
+        "sort_place_label": "複数地域-日本発ゲーム海外展開発表",
+        "geocode_query": "Japan-origin game overseas launch MMORPG announcement",
+        "place_type": "launch_market_region",
+        "location_precision": "multi_region",
+        "place_reason": "日本発ゲームの海外向け正式発表記事を、国内会社住所ではなく複数地域の海外展開トピックとして低優先で扱う（一致語: 正式発表）",
+        "confidence": 0.44,
+        "rule_id": "observed_japan_overseas_launch_fallback_202505",
+        "matched_text": "正式発表",
         "match_source": "known_place_title"
       }
     },
