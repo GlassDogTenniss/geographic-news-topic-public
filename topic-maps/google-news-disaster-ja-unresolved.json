@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "created_at": "2026-07-01T13:41:38.443572+00:00",
+  "created_at": "2026-07-01T13:51:48.163513+00:00",
   "stats": {
     "feed_id": "google-news-disaster-ja",
     "feed_label": "Google News: 災害・地震・大雨",
@@ -13,10 +13,10 @@
       "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja": 75
     },
     "filtered": 68,
-    "resolved": 1,
-    "unresolved": 67,
-    "rules": 496,
-    "known_places": 498,
+    "resolved": 0,
+    "unresolved": 68,
+    "rules": 216,
+    "known_places": 216,
     "loaded_data_files": [
       "data/place_rules.json",
       "data/unresolved_known_places.json",
@@ -404,6 +404,14 @@
       "source": "PR TIMES",
       "published_at": "2023-12-15T08:00:00+00:00",
       "summary": "2023年に発生した主な自然災害をまとめたインフォグラフィックを公開 加入している火災保険の補償内容を確認し自然災害への対策を    PR TIMES",
+      "feed_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "title": "真岡市からの緊急情報（台風、大雨、大地震時）を「Yahoo!防災速報」で配信します|真岡市公式ホームページ - city.moka.lg.jp",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOVl4VlVaTjNFa2ZwLWZoaTB2bWtyTE53WHkyYkRPRnBDSFN0Wm1pbmNOUlp3VlV0cXY3cU1IX0RKaEl2S1pacEVfTzU1SzBqanRhTHNnTkJ6S0poeEJwZE95WDJfcDltLTdhNnVwRWhKbzdrdHkzX2FZWHJJdjhSeU9KQ2VFLWhKdjF5N0RnUjZrWjdk?oc=5",
+      "source": "city.moka.lg.jp",
+      "published_at": "2023-09-15T07:00:00+00:00",
+      "summary": "真岡市からの緊急情報（台風、大雨、大地震時）を「Yahoo!防災速報」で配信します|真岡市公式ホームページ    city.moka.lg.jp",
       "feed_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja"
     },
     {

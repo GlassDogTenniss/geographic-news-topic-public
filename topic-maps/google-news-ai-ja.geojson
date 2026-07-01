@@ -1,8 +1,8 @@
 {
   "type": "FeatureCollection",
   "properties": {
-    "created_at": "2026-07-01T13:41:38.443572+00:00",
-    "count": 14,
+    "created_at": "2026-07-01T13:51:48.163513+00:00",
+    "count": 5,
     "stats": {
       "feed_id": "google-news-ai-ja",
       "feed_label": "Google News: AI / 生成AI",
@@ -15,10 +15,10 @@
         "https://news.google.com/rss/search?q=AI%20%E7%94%9F%E6%88%90AI%20OpenAI&hl=ja&gl=JP&ceid=JP:ja": 100
       },
       "filtered": 100,
-      "resolved": 14,
-      "unresolved": 86,
-      "rules": 496,
-      "known_places": 498,
+      "resolved": 5,
+      "unresolved": 95,
+      "rules": 216,
+      "known_places": 216,
       "loaded_data_files": [
         "data/place_rules.json",
         "data/unresolved_known_places.json",
@@ -80,87 +80,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          95.0,
-          25.0
-        ]
-      },
-      "properties": {
-        "title": "OpenAIの新しい画像透かし、AI生成の偽物を見分けやすく--その仕組みとは - ZDNET Japan",
-        "source": "ZDNET Japan",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9OTW9JZ3BtN2lUMjlENXd3cWJwTGFkNVFsb1lHb0VldEpDTTVRMUV4dlpHd1lTeDJSUnZoQk5hdVNDa094dlBrZnRNNDBhcndMeWZj?oc=5",
-        "published_at": "2026-05-26T07:00:00+00:00",
-        "representative_place": "Asia game-origin culture fallback topic",
-        "place_label": "アジア-ゲーム作品起源・地域文化記事",
-        "sort_place_label": "アジア-ゲーム作品起源・地域文化記事",
-        "geocode_query": "Asia game origin culture regional games",
-        "place_type": "game_culture_region",
-        "location_precision": "region",
-        "place_reason": "アジア各地のゲーム作品起源・地域文化を扱う記事で単一国や会社に固定できないものを、地域文化トピックとして低優先で扱う（一致語: Japan）",
-        "confidence": 0.36,
-        "rule_id": "observed_asia_game_origin_culture_fallback_202505",
-        "matched_text": "Japan",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          95.0,
-          25.0
-        ]
-      },
-      "properties": {
-        "title": "“プログラミングはAI、確認は人間” の役割分担でエージェントを構築。SB OAI JapanがOpenAI主催のハッカソンで優勝 - ソフトバンク",
-        "source": "ソフトバンク",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1QSC14QXRrZUlCa0lWc1JnTktkYUJVU29iMVNkazVGUXd5RUszTnJNdkdrWEswdXhjclY2UjlFZFFZOVE2M1NFZnJHV1JidkxSRVpuR3ZfdnQzVERU?oc=5",
-        "published_at": "2026-05-22T07:00:00+00:00",
-        "representative_place": "Asia game-origin culture fallback topic",
-        "place_label": "アジア-ゲーム作品起源・地域文化記事",
-        "sort_place_label": "アジア-ゲーム作品起源・地域文化記事",
-        "geocode_query": "Asia game origin culture regional games",
-        "place_type": "game_culture_region",
-        "location_precision": "region",
-        "place_reason": "アジア各地のゲーム作品起源・地域文化を扱う記事で単一国や会社に固定できないものを、地域文化トピックとして低優先で扱う（一致語: Japan）",
-        "confidence": 0.36,
-        "rule_id": "observed_asia_game_origin_culture_fallback_202505",
-        "matched_text": "Japan",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          95.0,
-          25.0
-        ]
-      },
-      "properties": {
-        "title": "OpenAIが認めたAIの暴走、ChatGPTが「ゴブリン」に執着した理由 - Forbes JAPAN",
-        "source": "Forbes JAPAN",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE45eWZQbTd3MmpVQlhtNHR5M3lWN01OYW5mcjRTLV9YREhCc3MwOHI1b0M5YmtRY1hWTTh3SHMwUlFJUFdpcVpZSUxDV09tNHZJS2c3alUtNVE?oc=5",
-        "published_at": "2026-05-20T07:00:00+00:00",
-        "representative_place": "Asia game-origin culture fallback topic",
-        "place_label": "アジア-ゲーム作品起源・地域文化記事",
-        "sort_place_label": "アジア-ゲーム作品起源・地域文化記事",
-        "geocode_query": "Asia game origin culture regional games",
-        "place_type": "game_culture_region",
-        "location_precision": "region",
-        "place_reason": "アジア各地のゲーム作品起源・地域文化を扱う記事で単一国や会社に固定できないものを、地域文化トピックとして低優先で扱う（一致語: Japan）",
-        "confidence": 0.36,
-        "rule_id": "observed_asia_game_origin_culture_fallback_202505",
-        "matched_text": "Japan",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -121.9552,
           37.3541
         ]
@@ -180,87 +99,6 @@
         "confidence": 0.68,
         "rule_id": "observed_nvidia_santa_clara_dlss5_202603",
         "matched_text": "NVIDIA",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          138.2529,
-          36.2048
-        ]
-      },
-      "properties": {
-        "title": "シンプレクス、Codex で人と AI の新しい開発体制を構築 - OpenAI",
-        "source": "OpenAI",
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9JTjJBWUZzLWQwcVl2RnpaWlJlcnRwX1k0ekFoeXZWQlluVkk3SUFkUUhhUU9OQnNBNUhTOThoZGExV1BNY25hUm9xRWVmWmZu?oc=5",
-        "published_at": "2026-05-07T07:00:00+00:00",
-        "representative_place": "Japan game company restructuring fallback topic",
-        "place_label": "日本-ゲーム会社開発体制・再編記事",
-        "sort_place_label": "日本-ゲーム会社開発体制・再編記事",
-        "geocode_query": "Japan game company development restructuring studio closure",
-        "place_type": "company_restructuring_region",
-        "location_precision": "country",
-        "place_reason": "日本語RSSのゲーム会社・開発体制・再編記事で個別住所が確定しないものを、日本の会社再編トピックとして扱う（一致語: 開発体制）",
-        "confidence": 0.44,
-        "rule_id": "observed_japan_game_company_restructuring_fallback_202511",
-        "matched_text": "開発体制",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          95.0,
-          25.0
-        ]
-      },
-      "properties": {
-        "title": "Soraが消えた動画生成AI市場で、PixVerseが日本に本気を出す理由【再掲】 - 36Kr Japan",
-        "source": "36Kr Japan",
-        "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9nbjlveTBQVzVBeHByV3h4YXhlYVpTM3J5aHVCbjVORTQ3am5HNW9RS2RzUGRCUkVDZmVF?oc=5",
-        "published_at": "2026-05-07T07:00:00+00:00",
-        "representative_place": "Asia game-origin culture fallback topic",
-        "place_label": "アジア-ゲーム作品起源・地域文化記事",
-        "sort_place_label": "アジア-ゲーム作品起源・地域文化記事",
-        "geocode_query": "Asia game origin culture regional games",
-        "place_type": "game_culture_region",
-        "location_precision": "region",
-        "place_reason": "アジア各地のゲーム作品起源・地域文化を扱う記事で単一国や会社に固定できないものを、地域文化トピックとして低優先で扱う（一致語: Japan）",
-        "confidence": 0.36,
-        "rule_id": "observed_asia_game_origin_culture_fallback_202505",
-        "matched_text": "Japan",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          20.0
-        ]
-      },
-      "properties": {
-        "title": "「Third AI 生成AIソリューション」、最新生成モデル「GPT-5.5」に対応 ～高度な推論性能と高いトークン効率で、企業の生成AI実務活用を加速～ - PR TIMES",
-        "source": "PR TIMES",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE14N2VraVpkVGVtVnA5ZUV3cndhZ0hWZ2N4M1VEQkRrOWFTOEcxZGFyb0RzeTU2LXR0ck5mbXNpS0ktbHF4cVNRLWEtU2Q2RUZma2tfMk5tS2tNWlBiQ3IwRGxyRld1WEVYbUE?oc=5",
-        "published_at": "2026-04-28T07:00:00+00:00",
-        "representative_place": "Japan-origin overseas launch fallback topic",
-        "place_label": "複数地域-日本発ゲーム海外展開発表",
-        "sort_place_label": "複数地域-日本発ゲーム海外展開発表",
-        "geocode_query": "Japan-origin game overseas launch MMORPG announcement",
-        "place_type": "launch_market_region",
-        "location_precision": "multi_region",
-        "place_reason": "日本発ゲームの海外向け正式発表記事を、国内会社住所ではなく複数地域の海外展開トピックとして低優先で扱う（一致語: 新生）",
-        "confidence": 0.44,
-        "rule_id": "observed_japan_overseas_launch_fallback_202505",
-        "matched_text": "新生",
         "match_source": "known_place_title"
       }
     },
@@ -323,33 +161,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.0,
-          20.0
-        ]
-      },
-      "properties": {
-        "title": "すごすぎて笑う、なにこれ OpenAI、漫画や広告に強い画像生成AI「ChatGPT Images 2.0」正式発表 - ASCII.jp",
-        "source": "ASCII.jp",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9DMmFnVkVzTXR2am5xUzBJT1d1TkRxdEFkd1BmSUc1VjhMS0dob0lqVWhFQWFmVnVMTGR6eDRna0tmSnl1bHRDR25fRGNpcURBQUdKOA?oc=5",
-        "published_at": "2026-04-22T07:00:00+00:00",
-        "representative_place": "Japan-origin overseas launch fallback topic",
-        "place_label": "複数地域-日本発ゲーム海外展開発表",
-        "sort_place_label": "複数地域-日本発ゲーム海外展開発表",
-        "geocode_query": "Japan-origin game overseas launch MMORPG announcement",
-        "place_type": "launch_market_region",
-        "location_precision": "multi_region",
-        "place_reason": "日本発ゲームの海外向け正式発表記事を、国内会社住所ではなく複数地域の海外展開トピックとして低優先で扱う（一致語: 正式発表）",
-        "confidence": 0.44,
-        "rule_id": "observed_japan_overseas_launch_fallback_202505",
-        "matched_text": "正式発表",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -122.1215,
           47.674
         ]
@@ -370,60 +181,6 @@
         "rule_id": "observed_xbox_series_x_event_redmond_202007",
         "matched_text": "Microsoft",
         "match_source": "rule"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          95.0,
-          25.0
-        ]
-      },
-      "properties": {
-        "title": "OpenAIがAI動画アプリ「Sora」を終了──AIバブル崩壊の兆しか？ - Forbes JAPAN",
-        "source": "Forbes JAPAN",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB0YmkwU3piV3ZVYm1qdGE5bldRX3NsVkJzdlUtUUo5X2Zuek5ZSHZPU09hbFZhRFNPYzFPSy1WQTVxN2pQcS1zRTBQRmx1SE5GbGJWMjc0SzQ?oc=5",
-        "published_at": "2026-03-28T07:00:00+00:00",
-        "representative_place": "Asia game-origin culture fallback topic",
-        "place_label": "アジア-ゲーム作品起源・地域文化記事",
-        "sort_place_label": "アジア-ゲーム作品起源・地域文化記事",
-        "geocode_query": "Asia game origin culture regional games",
-        "place_type": "game_culture_region",
-        "location_precision": "region",
-        "place_reason": "アジア各地のゲーム作品起源・地域文化を扱う記事で単一国や会社に固定できないものを、地域文化トピックとして低優先で扱う（一致語: Japan）",
-        "confidence": 0.36,
-        "rule_id": "observed_asia_game_origin_culture_fallback_202505",
-        "matched_text": "Japan",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.2551,
-          54.526
-        ]
-      },
-      "properties": {
-        "title": "exaBase 生成AI、日本リージョンで利用可能な「GPT-5.2」の提供を開始 ～最新モデルのGPT-5.4やGemini 3.1 Pro Previewの提供も開始、利用場面に応じたモデルの選択が可能に - 株式会社エクサウィザーズ",
-        "source": "株式会社エクサウィザーズ",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBIVThhM1VjTVVxbkplU09fY1Z5ei1lVGtNWHVBQUViS1BPZ3pyZ0FuSGRrOWN0TXBRaHZlX1N1TnZFSlBNY1ZHNXBJWFNLYms?oc=5",
-        "published_at": "2026-03-16T07:00:00+00:00",
-        "representative_place": "European game review fallback topic",
-        "place_label": "欧州-ゲームレビュー記事",
-        "sort_place_label": "欧州-ゲームレビュー記事",
-        "geocode_query": "Europe game review RPG dark fantasy",
-        "place_type": "game_review_region",
-        "location_precision": "region",
-        "place_reason": "欧州作品のレビュー記事で会社住所を固定できないものを、低優先の欧州ゲームレビュー地域トピックとして扱う（一致語: Review）",
-        "confidence": 0.4,
-        "rule_id": "observed_european_game_review_fallback_202504",
-        "matched_text": "Review",
-        "match_source": "known_place_title"
       }
     }
   ]

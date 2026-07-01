@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "created_at": "2026-07-01T13:41:38.443572+00:00",
+  "created_at": "2026-07-01T13:51:48.163513+00:00",
   "feeds": [
     {
       "id": "game-all",
@@ -55,7 +55,7 @@
           "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja"
         ],
         "rss_url": "https://www.gamedeveloper.com/rss.xml",
-        "fetched": 990,
+        "fetched": 991,
         "fetched_by_url": {
           "https://www.gamedeveloper.com/rss.xml": 50,
           "https://www.gamesindustry.biz/feed": 100,
@@ -69,7 +69,7 @@
           "https://www.afkgaming.com/feed": 0,
           "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20India&hl=en-IN&gl=IN&ceid=IN:en": 79,
           "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Philippines&hl=en-PH&gl=PH&ceid=PH:en": 77,
-          "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Eastern%20Europe&hl=en&gl=PL&ceid=PL:en": 75,
+          "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Eastern%20Europe&hl=en&gl=PL&ceid=PL:en": 76,
           "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Africa&hl=en&gl=ZA&ceid=ZA:en": 79,
           "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Southeast%20Asia&hl=en-SG&gl=SG&ceid=SG:en": 78,
           "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA&hl=ja&gl=JP&ceid=JP:ja": 74,
@@ -78,10 +78,10 @@
           "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja": 77
         },
         "filtered": 901,
-        "resolved": 844,
-        "unresolved": 57,
-        "rules": 496,
-        "known_places": 498,
+        "resolved": 308,
+        "unresolved": 593,
+        "rules": 216,
+        "known_places": 216,
         "loaded_data_files": [
           "data/place_rules.json",
           "data/unresolved_known_places.json",
@@ -173,10 +173,10 @@
           "https://news.google.com/rss/search?q=AI%20%E7%94%9F%E6%88%90AI%20OpenAI&hl=ja&gl=JP&ceid=JP:ja": 100
         },
         "filtered": 100,
-        "resolved": 14,
-        "unresolved": 86,
-        "rules": 496,
-        "known_places": 498,
+        "resolved": 5,
+        "unresolved": 95,
+        "rules": 216,
+        "known_places": 216,
         "loaded_data_files": [
           "data/place_rules.json",
           "data/unresolved_known_places.json",
@@ -227,10 +227,10 @@
           "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja": 75
         },
         "filtered": 68,
-        "resolved": 1,
-        "unresolved": 67,
-        "rules": 496,
-        "known_places": 498,
+        "resolved": 0,
+        "unresolved": 68,
+        "rules": 216,
+        "known_places": 216,
         "loaded_data_files": [
           "data/place_rules.json",
           "data/unresolved_known_places.json",

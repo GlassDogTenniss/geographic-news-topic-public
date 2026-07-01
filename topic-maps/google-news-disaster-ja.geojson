@@ -1,8 +1,8 @@
 {
   "type": "FeatureCollection",
   "properties": {
-    "created_at": "2026-07-01T13:41:38.443572+00:00",
-    "count": 1,
+    "created_at": "2026-07-01T13:51:48.163513+00:00",
+    "count": 0,
     "stats": {
       "feed_id": "google-news-disaster-ja",
       "feed_label": "Google News: 災害・地震・大雨",
@@ -15,10 +15,10 @@
         "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja": 75
       },
       "filtered": 68,
-      "resolved": 1,
-      "unresolved": 67,
-      "rules": 496,
-      "known_places": 498,
+      "resolved": 0,
+      "unresolved": 68,
+      "rules": 216,
+      "known_places": 216,
       "loaded_data_files": [
         "data/place_rules.json",
         "data/unresolved_known_places.json",
@@ -48,33 +48,5 @@
       "exclude_keywords": []
     }
   },
-  "features": [
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          138.2529,
-          36.2048
-        ]
-      },
-      "properties": {
-        "title": "真岡市からの緊急情報（台風、大雨、大地震時）を「Yahoo!防災速報」で配信します|真岡市公式ホームページ - city.moka.lg.jp",
-        "source": "city.moka.lg.jp",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOVl4VlVaTjNFa2ZwLWZoaTB2bWtyTE53WHkyYkRPRnBDSFN0Wm1pbmNOUlp3VlV0cXY3cU1IX0RKaEl2S1pacEVfTzU1SzBqanRhTHNnTkJ6S0poeEJwZE95WDJfcDltLTdhNnVwRWhKbzdrdHkzX2FZWHJJdjhSeU9KQ2VFLWhKdjF5N0RnUjZrWjdk?oc=5",
-        "published_at": "2023-09-15T07:00:00+00:00",
-        "representative_place": "Ensemble Girls / Japan mobile launch topic",
-        "place_label": "日本-あんさんぶるガールズ！！配信",
-        "sort_place_label": "日本-あんさんぶるガールズ！！配信",
-        "geocode_query": "Japan Ensemble Girls mobile game launch",
-        "place_type": "launch_market_region",
-        "location_precision": "country",
-        "place_reason": "日本向けスマホゲーム配信記事なので、運営会社住所ではなく日本の配信市場トピックとして扱う（一致語: 配信）",
-        "confidence": 0.64,
-        "rule_id": "observed_ensemble_girls_launch_japan_201610",
-        "matched_text": "配信",
-        "match_source": "known_place_title"
-      }
-    }
-  ]
+  "features": []
 }
