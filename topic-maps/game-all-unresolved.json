@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "created_at": "2026-07-01T15:43:01.854655+00:00",
+  "created_at": "2026-07-01T16:57:32.930149+00:00",
   "stats": {
     "feed_id": "game-all",
     "feed_label": "ゲーム",
@@ -26,7 +26,7 @@
       "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja"
     ],
     "rss_url": "https://www.gamedeveloper.com/rss.xml",
-    "fetched": 988,
+    "fetched": 989,
     "fetched_by_url": {
       "https://www.gamedeveloper.com/rss.xml": 50,
       "https://www.gamesindustry.biz/feed": 100,
@@ -38,9 +38,9 @@
       "https://www.nag.co.za/feed/": 10,
       "https://www.kakuchopurei.com/feed/": 10,
       "https://www.afkgaming.com/feed": 0,
-      "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20India&hl=en-IN&gl=IN&ceid=IN:en": 78,
+      "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20India&hl=en-IN&gl=IN&ceid=IN:en": 79,
       "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Philippines&hl=en-PH&gl=PH&ceid=PH:en": 78,
-      "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Eastern%20Europe&hl=en&gl=PL&ceid=PL:en": 75,
+      "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Eastern%20Europe&hl=en&gl=PL&ceid=PL:en": 76,
       "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Africa&hl=en&gl=ZA&ceid=ZA:en": 79,
       "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Southeast%20Asia&hl=en-SG&gl=SG&ceid=SG:en": 76,
       "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA&hl=ja&gl=JP&ceid=JP:ja": 74,
@@ -48,11 +48,11 @@
       "https://news.google.com/rss/search?q=%E6%B5%B7%E5%A4%96%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA&hl=ja&gl=JP&ceid=JP:ja": 73,
       "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja": 77
     },
-    "filtered": 895,
-    "resolved": 76,
-    "unresolved": 819,
-    "rules": 58,
-    "known_places": 55,
+    "filtered": 896,
+    "resolved": 72,
+    "unresolved": 824,
+    "rules": 61,
+    "known_places": 57,
     "loaded_data_files": [
       "data/place_rules.json",
       "data/unresolved_known_places.json",
@@ -69,7 +69,157 @@
       "data/unresolved_known_places_12.json",
       "data/unresolved_known_places_13.json",
       "data/unresolved_known_places_14.json",
-      "data/unresolved_known_places_15.json"
+      "data/unresolved_known_places_15.json",
+      "data/unresolved_known_places_16.json",
+      "data/unresolved_known_places_17.json",
+      "data/unresolved_known_places_18.json",
+      "data/unresolved_known_places_19.json",
+      "data/unresolved_known_places_20.json",
+      "data/unresolved_known_places_21.json",
+      "data/unresolved_known_places_22.json",
+      "data/unresolved_known_places_23.json",
+      "data/unresolved_known_places_24.json",
+      "data/unresolved_known_places_25.json",
+      "data/unresolved_known_places_26.json",
+      "data/unresolved_known_places_27.json",
+      "data/unresolved_known_places_28.json",
+      "data/unresolved_known_places_29.json",
+      "data/unresolved_known_places_30.json",
+      "data/unresolved_known_places_31.json",
+      "data/unresolved_known_places_32.json",
+      "data/unresolved_known_places_33.json",
+      "data/unresolved_known_places_34.json",
+      "data/unresolved_known_places_35.json",
+      "data/unresolved_known_places_36.json",
+      "data/unresolved_known_places_37.json",
+      "data/unresolved_known_places_38.json",
+      "data/unresolved_known_places_39.json",
+      "data/unresolved_known_places_40.json",
+      "data/unresolved_known_places_41.json",
+      "data/unresolved_known_places_42.json",
+      "data/unresolved_known_places_43.json",
+      "data/unresolved_known_places_44.json",
+      "data/unresolved_known_places_45.json",
+      "data/unresolved_known_places_46.json",
+      "data/unresolved_known_places_47.json",
+      "data/unresolved_known_places_48.json",
+      "data/unresolved_known_places_49.json",
+      "data/unresolved_known_places_50.json",
+      "data/unresolved_known_places_51.json",
+      "data/unresolved_known_places_52.json",
+      "data/unresolved_known_places_53.json",
+      "data/unresolved_known_places_54.json",
+      "data/unresolved_known_places_55.json",
+      "data/unresolved_known_places_56.json",
+      "data/unresolved_known_places_57.json",
+      "data/unresolved_known_places_58.json",
+      "data/unresolved_known_places_59.json",
+      "data/unresolved_known_places_60.json",
+      "data/unresolved_known_places_61.json",
+      "data/unresolved_known_places_62.json",
+      "data/unresolved_known_places_63.json",
+      "data/unresolved_known_places_64.json",
+      "data/unresolved_known_places_65.json",
+      "data/unresolved_known_places_66.json",
+      "data/unresolved_known_places_67.json",
+      "data/unresolved_known_places_68.json",
+      "data/unresolved_known_places_69.json",
+      "data/unresolved_known_places_70.json",
+      "data/unresolved_known_places_71.json",
+      "data/unresolved_known_places_72.json",
+      "data/unresolved_known_places_73.json",
+      "data/unresolved_known_places_74.json",
+      "data/unresolved_known_places_75.json",
+      "data/unresolved_known_places_76.json",
+      "data/unresolved_known_places_77.json",
+      "data/unresolved_known_places_78.json",
+      "data/unresolved_known_places_79.json",
+      "data/unresolved_known_places_80.json",
+      "data/unresolved_known_places_81.json",
+      "data/unresolved_known_places_82.json",
+      "data/unresolved_known_places_83.json",
+      "data/unresolved_known_places_84.json",
+      "data/unresolved_known_places_85.json",
+      "data/unresolved_known_places_86.json",
+      "data/unresolved_known_places_87.json",
+      "data/unresolved_known_places_88.json",
+      "data/unresolved_known_places_89.json",
+      "data/unresolved_known_places_90.json",
+      "data/unresolved_known_places_91.json",
+      "data/unresolved_known_places_92.json",
+      "data/unresolved_known_places_93.json",
+      "data/unresolved_known_places_94.json",
+      "data/unresolved_known_places_95.json",
+      "data/unresolved_known_places_96.json",
+      "data/unresolved_known_places_97.json",
+      "data/unresolved_known_places_98.json",
+      "data/unresolved_known_places_99.json",
+      "data/unresolved_known_places_100.json",
+      "data/unresolved_known_places_101.json",
+      "data/unresolved_known_places_102.json",
+      "data/unresolved_known_places_103.json",
+      "data/unresolved_known_places_104.json",
+      "data/unresolved_known_places_105.json",
+      "data/unresolved_known_places_106.json",
+      "data/unresolved_known_places_107.json",
+      "data/unresolved_known_places_108.json",
+      "data/unresolved_known_places_109.json",
+      "data/unresolved_known_places_110.json",
+      "data/unresolved_known_places_111.json",
+      "data/unresolved_known_places_112.json",
+      "data/unresolved_known_places_113.json",
+      "data/unresolved_known_places_114.json",
+      "data/unresolved_known_places_115.json",
+      "data/unresolved_known_places_116.json",
+      "data/unresolved_known_places_117.json",
+      "data/unresolved_known_places_118.json",
+      "data/unresolved_known_places_120.json",
+      "data/unresolved_known_places_121.json",
+      "data/unresolved_known_places_122.json",
+      "data/unresolved_known_places_123.json",
+      "data/unresolved_known_places_124.json",
+      "data/unresolved_known_places_125.json",
+      "data/unresolved_known_places_126.json",
+      "data/unresolved_known_places_127.json",
+      "data/unresolved_known_places_128.json",
+      "data/unresolved_known_places_129.json",
+      "data/unresolved_known_places_130.json",
+      "data/unresolved_known_places_131.json",
+      "data/unresolved_known_places_132.json",
+      "data/unresolved_known_places_133.json",
+      "data/unresolved_known_places_134.json",
+      "data/unresolved_known_places_135.json",
+      "data/unresolved_known_places_136.json",
+      "data/unresolved_known_places_137.json",
+      "data/unresolved_known_places_138.json",
+      "data/unresolved_known_places_139.json",
+      "data/unresolved_known_places_140.json",
+      "data/unresolved_known_places_141.json",
+      "data/unresolved_known_places_142.json",
+      "data/unresolved_known_places_143.json",
+      "data/unresolved_known_places_144.json",
+      "data/unresolved_known_places_145.json",
+      "data/unresolved_known_places_146.json",
+      "data/unresolved_known_places_147.json",
+      "data/unresolved_known_places_148.json",
+      "data/unresolved_known_places_149.json",
+      "data/unresolved_known_places_200.json",
+      "data/unresolved_known_places_250.json",
+      "data/unresolved_known_places_251.json",
+      "data/unresolved_known_places_252.json",
+      "data/unresolved_known_places_253.json",
+      "data/unresolved_known_places_254.json",
+      "data/unresolved_known_places_255.json",
+      "data/unresolved_known_places_256.json",
+      "data/unresolved_known_places_257.json",
+      "data/unresolved_known_places_258.json",
+      "data/unresolved_known_places_259.json",
+      "data/unresolved_known_places_260.json",
+      "data/unresolved_known_places_261.json",
+      "data/unresolved_known_places_262.json",
+      "data/unresolved_known_places_263.json",
+      "data/unresolved_known_places_264.json",
+      "data/unresolved_known_places_265.json"
     ],
     "topic_keywords": [
       "game",
@@ -123,6 +273,22 @@
   },
   "unresolved": [
     {
+      "title": "Subnautica 2 studio Unknown Worlds' CEO resigns as Krafton agrees to pay $250m bonus",
+      "link": "https://www.gamesindustry.biz/subnautica-2-studio-unknown-worlds-ceo-resigns-as-krafton-agrees-to-pay-250m-bonus",
+      "source": "GamesIndustry.biz Latest Articles Feed",
+      "published_at": "2026-07-01T16:38:14+00:00",
+      "summary": "Krafton has settled its lawsuit with the former leadership team of Subnautica 2 developer, Unknown Worlds, and agreed to pay the $250 million disputed bonus.    Read more",
+      "feed_url": "https://www.gamesindustry.biz/feed"
+    },
+    {
+      "title": "July's Collabs Corner: Monopoly Go meets The Simpsons, Brawl Stars partners with Adidas, and more",
+      "link": "https://www.pocketgamer.biz/july-collaborations-roundup/",
+      "source": "Latest Updates | PocketGamer.biz",
+      "published_at": "2026-07-01T16:00:00+00:00",
+      "summary": "Among the updates, announcements and marketing drives for mobile games, this bustling industry sees a never-ending flow of crossovers and collaborations.\n\nSome partnerships see characters from one game IP enter another. Others see brands or logos show up in unexpected places. And, there are some that take place outside of the game entirely, especially when a celebrity’s involved. ... [ MORE ]",
+      "feed_url": "https://www.pocketgamer.biz/rss/"
+    },
+    {
       "title": "Krafton and Unknown Worlds founders settle Subnautica 2 legal dispute",
       "link": "https://www.gamedeveloper.com/business/krafton-agrees-to-pay-bonuses-to-subnautica-2-studio-as-ceo-resigns",
       "source": "gamedeveloper",
@@ -153,22 +319,6 @@
       "published_at": "2026-07-01T14:00:00+00:00",
       "summary": "We're gearing up for our annual Helsinki home-from-homecoming this October - but things are just a little different this year. Returning bigger and better than ever, we've broadened our horizons to bring you… Pocket Gamer Connects Nordics!\n\nFrom our usual base in Helsinki, Finland, we look forward to welcoming even more attendees from Denmark, Norway, Sweden, Iceland and - of course - beyond in 2026. ... [ MORE ]",
       "feed_url": "https://www.pocketgamer.biz/rss/"
-    },
-    {
-      "title": "Sony will stop producing PlayStation discs starting in 2028",
-      "link": "https://gameworldobserver.com/2026/07/01/sony-will-stop-producing-playstation-discs-starting-in-2028",
-      "source": "Game World Observer",
-      "published_at": "2026-07-01T13:48:50+00:00",
-      "summary": "The end of the era of physical game editions is drawing closer. Sony announced that starting from January 2028, it will no longer release discs for new titles on PlayStation consoles.",
-      "feed_url": "https://gameworldobserver.com/feed"
-    },
-    {
-      "title": "PlayStation ending production of physical software in January 2028",
-      "link": "https://www.gamedeveloper.com/business/playstation-ending-production-of-physical-software-in-january-2028",
-      "source": "gamedeveloper",
-      "published_at": "2026-07-01T12:20:33+00:00",
-      "summary": "The company claims the move comes as 'the general preference for digital media significantly outpaces physical discs.'",
-      "feed_url": "https://www.gamedeveloper.com/rss.xml"
     },
     {
       "title": "Pikmin Bloom skyrockets to record revenue as Taiwanese spending surges 902%",
@@ -249,6 +399,14 @@
       "published_at": "2026-07-01T05:18:56+00:00",
       "summary": "Anime monster ranching slated for next year.",
       "feed_url": "https://www.kakuchopurei.com/feed/"
+    },
+    {
+      "title": "Data digest: Pokémon Champions, the top US earners, funding news, Sensor Tower’s big ad report, more",
+      "link": "https://mobilegamer.biz/data-digest-pokemon-champions-the-top-us-earners-funding-news-sensor-towers-big-ad-report-more/",
+      "source": "Mobilegamer.biz",
+      "published_at": "2026-07-01T01:21:54+00:00",
+      "summary": "There's also Tiles Survive stats and a report on webgames in this week's round-up.",
+      "feed_url": "https://mobilegamer.biz/feed/"
     },
     {
       "title": "Memory manufacturers sued in class action suit alleging price and supply fixing",
@@ -547,11 +705,11 @@
       "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Philippines&hl=en-PH&gl=PH&ceid=PH:en"
     },
     {
-      "title": "Chinese video games gain global appeal through technology, cultural storytelling - irishsun.com",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbWJMS0dtZHFFeXNpQjJ5WFNMZFhIZEZmYUJkQXNUQm0tbGtJMHBpWmJkSXpsTFB0SERZRVJMSk1yOVVfWjdWc19fMjV1Z3JGMVZLSkZZb3JOaURTQWVRQ0R0R2E0elljRkRFRXVSX296cHJCd0s3cl9NR1hrTkM0bmRSbjdPSklTSGVfVlYtZGtVbThWN05jemJyZVI5WVdiNHVEYlAtbFUtQ25zTEphdEVuM3pZTnJZTXVv?oc=5",
-      "source": "irishsun.com",
-      "published_at": "2026-06-27T16:15:00+00:00",
-      "summary": "Chinese video games gain global appeal through technology, cultural storytelling    irishsun.com",
+      "title": "Chinese video games gain global appeal through technology, cultural storytelling - Big News Network.com",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNLXNDQzV5Z2RmQ2Y5REFOMVo1dUp4V2dqWUFGWUM2anNTQlpTYTNUYkxBeENKU3hGTW01aXhQMXlENmtQMTRPWmsyVWtoajdCX3R4TmJOU2FXNkljRkNBVC1vMnE3LWdrU0huQjZidV9fbGxwOVQxN2xsQzJtTEJDcHFLOEkybXVrdEIyLXlSUzRtaEgyMnYyWjVvdVFuNjFJUjlXcXlUbUh1VXY2ZnI0VFNDS0lubGdIeUM0NFBNU0JVNms?oc=5",
+      "source": "Big News Network.com",
+      "published_at": "2026-06-27T19:45:00+00:00",
+      "summary": "Chinese video games gain global appeal through technology, cultural storytelling    Big News Network.com",
       "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Eastern%20Europe&hl=en&gl=PL&ceid=PL:en"
     },
     {
@@ -577,6 +735,14 @@
       "published_at": "2026-06-26T17:37:13+00:00",
       "summary": "PlayStation 5 unit sales in the United States dropped 58% year on year in May, according to Circana, reaching their lowest May total since 2000. Xbox unit sales, meanwhile, reached their lowest ever recorded figures for May, dropping 12% year on year.    Read more",
       "feed_url": "https://www.gamesindustry.biz/feed"
+    },
+    {
+      "title": "Rising hardware prices, meaningful inclusion and Pokémon Champions’ early success | Week in Views",
+      "link": "https://www.pocketgamer.biz/rising-hardware-prices-meaningful-inclusion-and-pokmon-champions-early-success-week-in-views/",
+      "source": "Latest Updates | PocketGamer.biz",
+      "published_at": "2026-06-26T15:47:00+00:00",
+      "summary": "The games industry moves quickly and while stories may come and go there are some that we just can't let go of…\n\nSo, to give those particularly thorny topics a further going over we've created a weekly digest where the members of the PocketGamer.biz team share their thoughts and go that little bit deeper on some of the more interesting things that have happened in mobile gaming in the past week. ... [ MORE ]",
+      "feed_url": "https://www.pocketgamer.biz/rss/"
     },
     {
       "title": "Inside Skybound's video game strategy ft. David 'DA' Alpert and Jon Goldman",
@@ -704,14 +870,6 @@
       "source": "Latest Updates | PocketGamer.biz",
       "published_at": "2026-06-25T14:30:00+00:00",
       "summary": "Web games are reportedly countering discoverability challenges in the modern games landscape, with 53% of developers now seeing the format as a method to reach new users.\n\nAccording to The 2026 State of Web Gaming report, commissioned by web games platform Poki 53% of companies also plan to port their mobile games to browser in the next 12 months, compared to 41% of PC and console games. ... [ MORE ]",
-      "feed_url": "https://www.pocketgamer.biz/rss/"
-    },
-    {
-      "title": "Tamatem launches first internally developed game with King of Delivery 2",
-      "link": "https://www.pocketgamer.biz/tamatem-launches-first-internally-developed-game-with-king-of-delivery-2/",
-      "source": "Latest Updates | PocketGamer.biz",
-      "published_at": "2026-06-25T14:29:00+00:00",
-      "summary": "Jordan-based publisher Tamatem has launched its first internally developed game King of Delivery 2 as an open-world sequel with in-game brand partnerships. \n\nThe company described the launch as a major milestone that comes after more than a decade since the release of the original King of Delivery title.  ... [ MORE ]",
       "feed_url": "https://www.pocketgamer.biz/rss/"
     },
     {
@@ -1123,6 +1281,14 @@
       "feed_url": "https://www.gamesindustry.biz/feed"
     },
     {
+      "title": "【無料化】『PUBG』クリエイターによるオープンワールドサバイバル『Prologue: Go Wayback!』最終アップデート配信 - Game*Spark",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zRm5sMXQyLUcwVkxTeGdxUk9sQUdmYTZZYV9IZG9JOVRZeEhUSE90Z2NUTzZFZ0pfem1QZ0ZlcVNaZGhvVm9sZ0d2MmdhT2ZYZzB6MWRTb1pfdkt3TTNfSEdocXFldw?oc=5",
+      "source": "Game*Spark",
+      "published_at": "2026-06-18T07:00:00+00:00",
+      "summary": "【無料化】『PUBG』クリエイターによるオープンワールドサバイバル『Prologue: Go Wayback!』最終アップデート配信    Game*Spark",
+      "feed_url": "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
       "title": "Everything you need to know from State of Unreal 2026: Unreal Engine 6, Unreal Engine 5.8, and $1bn paid to UEFN devs",
       "link": "https://www.gamesindustry.biz/everything-you-need-to-know-from-state-of-unreal-2026-unreal-engine-6-unreal-engine-58-and-1bn-paid-to-fortnite-devs",
       "source": "GamesIndustry.biz Latest Articles Feed",
@@ -1144,14 +1310,6 @@
       "source": "gamedeveloper",
       "published_at": "2026-06-17T18:44:50+00:00",
       "summary": "Major changes to Unreal Engine include a change of programming model, tools for cross-game interoperability, and genAI pipeline features.",
-      "feed_url": "https://www.gamedeveloper.com/rss.xml"
-    },
-    {
-      "title": "Report: Xbox was set on splitting with Ninja Theory when unveiling its new project",
-      "link": "https://www.gamedeveloper.com/business/report-xbox-was-set-on-splitting-with-ninja-theory-when-showing-its-new-project",
-      "source": "gamedeveloper",
-      "published_at": "2026-06-17T15:34:55+00:00",
-      "summary": "Microsoft reportedly had already planned to sunset or split with Ninja Theory while presenting Senua during the latest showcase.",
       "feed_url": "https://www.gamedeveloper.com/rss.xml"
     },
     {
@@ -1209,6 +1367,14 @@
       "published_at": "2026-06-16T07:00:00+00:00",
       "summary": "新作発表から1週間…『Hellblade』開発元Ninja Theory閉鎖すると報道―他のXBOX関連スタジオも危機に直面か    Game*Spark",
       "feed_url": "https://news.google.com/rss/search?q=%E6%B5%B7%E5%A4%96%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "title": "Report: Xbox intends to close several studios at once",
+      "link": "https://gameworldobserver.com/2026/06/16/report-xbox-intends-to-close-several-studios-at-once",
+      "source": "Game World Observer",
+      "published_at": "2026-06-16T06:07:36+00:00",
+      "summary": "Microsoft’s gaming division may undergo significant “downsizing.” As reported by Bloomberg journalist Jason Schreier, XBOX is preparing to part ways with at least three teams.",
+      "feed_url": "https://gameworldobserver.com/feed"
     },
     {
       "title": "Narratify Launches Afro Game Showcase to Spotlight African Games on the Global Stage",
@@ -1363,6 +1529,14 @@
       "feed_url": "https://www.gamesindustry.biz/feed"
     },
     {
+      "title": "Ubisoft closing studios in Winnipeg and Belgrade and cutting publishing roles worldwide, 380 jobs at risk",
+      "link": "https://www.gamesindustry.biz/ubisoft-closing-studios-in-winnipeg-and-belgrade-and-cutting-publishing-roles-worldwide-380-jobs-at-risk",
+      "source": "GamesIndustry.biz Latest Articles Feed",
+      "published_at": "2026-06-10T17:00:00+00:00",
+      "summary": "Ubisoft has carried out another round of cuts as part of its  seemingly endless restructuring process , sources have told   GamesIndustry.biz  . It is closing its studios in Winnipeg and Belgrade and proposing further changes in Barcelona and to its global publishing team. 380 roles are understood to be at risk.    Read more",
+      "feed_url": "https://www.gamesindustry.biz/feed"
+    },
+    {
       "title": "ESA is concerned that the American bill against deepfakes could harm video games",
       "link": "https://gameworldobserver.com/2026/06/10/esa-is-concerned-that-the-american-bill-against-deepfakes-could-harm-video-games",
       "source": "Game World Observer",
@@ -1427,36 +1601,12 @@
       "feed_url": "https://gameworldobserver.com/feed"
     },
     {
-      "title": "Apple announces Europe's first Developer Centre",
-      "link": "https://www.gamesindustry.biz/apple-announces-europes-first-developer-centre",
-      "source": "GamesIndustry.biz Latest Articles Feed",
-      "published_at": "2026-06-09T13:37:32+00:00",
-      "summary": "Apple plans to open  its first European Developer Centre  later this year.    Read more",
-      "feed_url": "https://www.gamesindustry.biz/feed"
-    },
-    {
-      "title": "Date Everything wins two accolades at The Gayming Awards 2026",
-      "link": "https://www.gamesindustry.biz/date-everything-wins-two-accolades-at-the-gayming-awards-2026",
-      "source": "GamesIndustry.biz Latest Articles Feed",
-      "published_at": "2026-06-09T13:00:00+00:00",
-      "summary": "Sassy Chap Games' Date Everything won Best LGBTQ+ Indie Game and the Gayming Fan Favourite Award at this year's Gayming Awards.    Read more",
-      "feed_url": "https://www.gamesindustry.biz/feed"
-    },
-    {
       "title": "韓国スマイルゲート、米スタジオと新作「クロスファイア」…軍事顧問が徹底監修「リアルを極めた」シングルプレイ - Yahoo!ニュース",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE41S1VqWGFiV3FMYk9vZjQ1RlBidjVCNUpmTUF3OEg5WG81UEJoMEp0LTRrRzZ3UndEM2hrY0luTDZoZFkyOXlxeDFQZWhJUmV6Q0FDbnNZNllHT2U3SFFuQU1YOWVkNl83Rzhza2ItMGczUXhGUklWMDdINUx1dnM?oc=5",
       "source": "Yahoo!ニュース",
       "published_at": "2026-06-09T07:00:00+00:00",
       "summary": "韓国スマイルゲート、米スタジオと新作「クロスファイア」…軍事顧問が徹底監修「リアルを極めた」シングルプレイ    Yahoo!ニュース",
       "feed_url": "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA&hl=ja&gl=JP&ceid=JP:ja"
-    },
-    {
-      "title": "Southeast Asian Games Showcase: Here’s all 36 games shown in today’s presentation - Video Games Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNTMtX3Bkb1FlRlBoODg2b3g4QWVBZWNxYXdFTlV1YjRvVVgyMXBBZlJzM0I5cGJ3ajl3SzVqZGdJQ0w5MWZmdGdjdGREcEQ4b045SVVVZE5hRjFHeXczZkRmNEdKb1lCX1lPbGFSMVJSamVYUGJraUlRcjBSd2RoenVyVWRaT3NIZjdlaVRyalNmLS14U0NfbUhEV3RQSk4xejdrd05iZUFzckxRZzJKTldHdzh0NzZvY1FETw?oc=5",
-      "source": "Video Games Chronicle",
-      "published_at": "2026-06-06T07:00:00+00:00",
-      "summary": "Southeast Asian Games Showcase: Here’s all 36 games shown in today’s presentation    Video Games Chronicle",
-      "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Southeast%20Asia&hl=en-SG&gl=SG&ceid=SG:en"
     },
     {
       "title": "New market: on the gaming industry global map, Africa is making its move - Telquel.ma",
@@ -1699,6 +1849,14 @@
       "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Eastern%20Europe&hl=en&gl=PL&ceid=PL:en"
     },
     {
+      "title": "The program for the WN Growth Summit has been published — the event will discuss what can drive sales growth in the modern gaming industry",
+      "link": "https://gameworldobserver.com/2026/05/15/the-program-for-the-wn-growth-summit-has-been-published-the-event-will-discuss-what-can-drive-sales-growth-in-the-modern-gaming-industry",
+      "source": "Game World Observer",
+      "published_at": "2026-05-15T13:51:02+00:00",
+      "summary": "The summit is happening very soon — in two weeks, on May 28th. From 9 AM to 5 PM, industry experts will share their experiences, cases, and advice with each other in a roundtable format.",
+      "feed_url": "https://gameworldobserver.com/feed"
+    },
+    {
       "title": "The bill against the shutdown of online games was supported in the California Assembly",
       "link": "https://gameworldobserver.com/2026/05/15/the-bill-against-the-shutdown-of-online-games-was-supported-in-the-california-assembly",
       "source": "Game World Observer",
@@ -1779,6 +1937,14 @@
       "feed_url": "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
+      "title": "The WN Growth Summit will take place on May 28 in Limassol. Its key theme is how the gaming business can achieve growth",
+      "link": "https://gameworldobserver.com/2026/05/05/the-wn-growth-summit-will-take-place-on-may-28-in-limassol-its-key-theme-is-how-the-gaming-business-can-achieve-growth",
+      "source": "Game World Observer",
+      "published_at": "2026-05-05T17:13:37+00:00",
+      "summary": "The WN Growth Summit is an annual series of events where game development owners and top executives discuss industry challenges, share experiences, and seek new growth opportunities.",
+      "feed_url": "https://gameworldobserver.com/feed"
+    },
+    {
       "title": "Supercell to become the owner of Metacore, the developer of Merge Mansion",
       "link": "https://gameworldobserver.com/2026/05/05/supercell-to-become-the-owner-of-metacore-the-developer-of-merge-mansion",
       "source": "Game World Observer",
@@ -1817,6 +1983,14 @@
       "published_at": "2026-04-30T07:00:00+00:00",
       "summary": "How South Asian representation in gaming is growing    NPR",
       "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20India&hl=en-IN&gl=IN&ceid=IN:en"
+    },
+    {
+      "title": "任天堂がうらやましい…海外メディアが報じた｢日本のゲーム会社が世界で売れるヒット作を連発できる理由 - PRESIDENT Online（プレジデントオンライン）",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE41VzhmMnQtbl8tZFZyeW1jT1ZZM1VnRktXSnFlUEZ6Ym5obFpMZWZZcVByQjk5Y2NJTlF2TGJUR2lEVS1LdDhJNGtoM2FkalRNODUzS0xmbEU?oc=5",
+      "source": "PRESIDENT Online（プレジデントオンライン）",
+      "published_at": "2026-04-30T07:00:00+00:00",
+      "summary": "任天堂がうらやましい…海外メディアが報じた｢日本のゲーム会社が世界で売れるヒット作を連発できる理由    PRESIDENT Online（プレジデントオンライン）",
+      "feed_url": "https://news.google.com/rss/search?q=%E6%B5%B7%E5%A4%96%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
       "title": "Report: Spiders studio may shut down after 18 eears of operation",
@@ -2227,6 +2401,14 @@
       "feed_url": "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
+      "title": "Savvy Games to Buy Moonton in $6 Billion Mobile Gaming Deal - Analytics Insight",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdTE2bS1oeHBYZk1SMnl5RDNuZGg0YUlrUUUzTmo0RGtSN3BoX1ozS1NseEQ1TVhfSjYydFZNdFZCdmVDajNDOU1LRVhoSnFyV3ZmUk12SjNxUDEwZzE4TjVhaEVqb1ZJWFZNUjNPMU9YMGp6cjhkTUdjY25uUngzekljdGEya3JJOVN0TzB2MzVSQ0R1M0hQcHQzamLSAaoBQVVfeXFMTzFIQ3loYWJ3Rm1YcGQxbUw0U1JqNDdidEpOakdQMU5TTV9zZ05KTVZDQkpmNzFhRHdid1NnY1N2ZTlqcHdveWlaQm1mRjBGS2oxQ1ltaEpHMFhfQ0RRWDhOa3dNVHA1UFFvTm1oUzFLcU9yblpyM2hXOFpsZHR1c252aG1ydjRVSE0wMWp4dWh6UGttZVUxR1ZrUzhBR0NDbkN2NGFFRS1GM1E?oc=5",
+      "source": "Analytics Insight",
+      "published_at": "2026-03-20T07:00:00+00:00",
+      "summary": "Savvy Games to Buy Moonton in $6 Billion Mobile Gaming Deal    Analytics Insight",
+      "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Southeast%20Asia&hl=en-SG&gl=SG&ceid=SG:en"
+    },
+    {
       "title": "Shares of the developers of Crimson Desert plummeted by 30% due to insufficiently high game ratings",
       "link": "https://gameworldobserver.com/2026/03/19/shares-of-the-developers-of-crimson-desert-plummeted-by-30-due-to-insufficiently-high-game-ratings",
       "source": "Game World Observer",
@@ -2449,6 +2631,14 @@
       "published_at": "2026-02-13T08:00:00+00:00",
       "summary": "DMM GAMES新作『フルールデイズ』リリース！    GameWith",
       "feed_url": "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "title": "Embracer Group’s quarterly revenue fell by 26%, but the holding company remains satisfied",
+      "link": "https://gameworldobserver.com/2026/02/12/embracer-groups-quarterly-revenue-fell-by-26-but-the-holding-company-remains-satisfied",
+      "source": "Game World Observer",
+      "published_at": "2026-02-12T08:18:42+00:00",
+      "summary": "On December 31, 2025, Embracer Group concluded the third quarter of its current fiscal year. In a recent report, the Swedish holding company detailed how this period unfolded.",
+      "feed_url": "https://gameworldobserver.com/feed"
     },
     {
       "title": "Mewgenics recouped its development costs three hours after release",
@@ -2875,14 +3065,6 @@
       "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Eastern%20Europe&hl=en&gl=PL&ceid=PL:en"
     },
     {
-      "title": "スマホ向け新作RPG『英雄伝説 ガガーブトリロジー』事前登録受付中／先行プレイレビュー到着 - 日本ファルコム 公式サイト",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBJaTRrQXV4WGQxdEZyV1JqaHc1aWw4OWs3RVFfeTJaVWxfSzVhWWNBNGJNdWpoUzFJZU1VNWFnQnBOWnJ0WHNmTEFRWTBzUmlJSXc?oc=5",
-      "source": "日本ファルコム 公式サイト",
-      "published_at": "2025-11-27T08:00:00+00:00",
-      "summary": "スマホ向け新作RPG『英雄伝説 ガガーブトリロジー』事前登録受付中／先行プレイレビュー到着    日本ファルコム 公式サイト",
-      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja"
-    },
-    {
       "title": "任天堂がバンダイナムコのシンガポール開発拠点を子会社化へ スプラ3協力スタジオ取得でシンガポール二拠点体制・開発力を強化 - ゲーム情報！ゲームのはなし",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE00N1RNdEFhQkRTUGxpUXhWaTYyVTZFNGhmc0VqaEE3VGdNdGd3aWMxNjZSRndTaWdHUmF5bzJpbzNYRFJoSXZxUTFJWndzd3BneXBOcUViaTVSWlAtWlF1enkxTHdsYUhIYUdDbndQakdZbnh4WkZLOHdB?oc=5",
       "source": "ゲーム情報！ゲームのはなし",
@@ -3025,6 +3207,14 @@
       "published_at": "2025-10-29T07:00:00+00:00",
       "summary": "Amazon、ゲーム部門で人員の大幅削減を実施と海外メディアが報道。MMO『New World』は新規コンテンツ更新を終了    電ファミニコゲーマー",
       "feed_url": "https://news.google.com/rss/search?q=%E6%B5%B7%E5%A4%96%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "title": "【ガールズバンドクライ First Riff】配信日・事前登録特典・最新情報まとめ - 電撃オンライン",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8wdmFpU1NRdDJzUUt1OWpFRVUxVUt2bzM3ZW45TDdveS1IcU9RWXV6cU40X3lsbVFzMnFiM09RWGZ5b0YyUVdJLVg5aVR2N2hMcFFxOF9xa1B5UQ?oc=5",
+      "source": "電撃オンライン",
+      "published_at": "2025-10-21T07:00:00+00:00",
+      "summary": "【ガールズバンドクライ First Riff】配信日・事前登録特典・最新情報まとめ    電撃オンライン",
+      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
       "title": "The state of Southeast Asia's games industry in 2025 - Pocket Gamer.biz",
@@ -3435,14 +3625,6 @@
       "feed_url": "https://news.google.com/rss/search?q=%E6%B5%B7%E5%A4%96%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
-      "title": "KRAFTON、『Subnautica』シリーズ開発スタジオ経営陣の突然の変更発表―新任CEOは『Callisto Protocol』開発スタジオ代表に - Game*Spark",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBXT1cwUlpSU0dxV0hubFp1M1hRcHJydmp4WlFrMkVqU3ZtN3JIbk1Bd1paVnQ1Y3JGOUNheGpwcWRqNDJJRnNnT2lfLXhVT1BfYVZBaDBpUmxmeERTckZQVGh4YU5Wdw?oc=5",
-      "source": "Game*Spark",
-      "published_at": "2025-07-02T07:00:00+00:00",
-      "summary": "KRAFTON、『Subnautica』シリーズ開発スタジオ経営陣の突然の変更発表―新任CEOは『Callisto Protocol』開発スタジオ代表に    Game*Spark",
-      "feed_url": "https://news.google.com/rss/search?q=%E6%B5%B7%E5%A4%96%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA&hl=ja&gl=JP&ceid=JP:ja"
-    },
-    {
       "title": "新作『マブラヴ ガールズガーデン』本日7/1より事前登録開始。ティザーPVや、タシロハヤト氏ほか豪華制作陣の情報も解禁【マブガル】 - 電撃オンライン",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8zTm1rN1ltOXpzWHktbHlPc0czSjZoS1F4dThPbXhiWWl6djF1cXhBanJJZG13UVZQM0VTOXJjYV8wZVBlY1d0UW5lRlE0NXktYlpkTGFpRnhTUQ?oc=5",
       "source": "電撃オンライン",
@@ -3467,11 +3649,11 @@
       "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Philippines&hl=en-PH&gl=PH&ceid=PH:en"
     },
     {
-      "title": "How Olivier Madiba set up Cameroon's first gaming studio - dw.com",
+      "title": "How Olivier Madiba set up Cameroon's first gaming studio - DW.com",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUjdORzlBZ1hLMXZyNUlmSzJrb0dYRV9EV0paT0RDWXgwQUxKN3gtV1dXLXZCWHJ1c1ItTHFEdUNCbWdzcmhZa1czNXdJQ2pqV2NlbTktVEZSMDZVTE9TejM1Z01CNWRqejFYUHB3Y3pnRXdINkpPOEdGdjAwT3ZyTS1tdUNjRElCSTBsa3VaOFV2WW9wZUln?oc=5",
-      "source": "dw.com",
+      "source": "DW.com",
       "published_at": "2025-06-26T07:00:00+00:00",
-      "summary": "How Olivier Madiba set up Cameroon's first gaming studio    dw.com",
+      "summary": "How Olivier Madiba set up Cameroon's first gaming studio    DW.com",
       "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Africa&hl=en&gl=ZA&ceid=ZA:en"
     },
     {
@@ -3539,14 +3721,6 @@
       "feed_url": "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
-      "title": "LGW returns with eye on $184b global gaming market - Business News Nigeria",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOc1JCQV9TNXhlcDBwUHpvbGVKU0drWjNyTnJuTzNIbmRlYVdvcndwMDA0Qms0RHRDNGR4d3E0bFlfWXFMWnhiVG9WNDFsN28yeTgyYW0ybWJSZ0lmTGJrRDduLUVHc2tndkMzRmZZS1hrZmdvX2JmdkdXYjVIcGk2NDlUZW51Q251eHRHekNWeGI2dTFLaWc?oc=5",
-      "source": "Business News Nigeria",
-      "published_at": "2025-06-17T07:00:00+00:00",
-      "summary": "LGW returns with eye on $184b global gaming market    Business News Nigeria",
-      "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Africa&hl=en&gl=ZA&ceid=ZA:en"
-    },
-    {
       "title": "Interview: Vaibhav Chavan, Director of Mukti - Insider Gaming",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Ya1pnWXB1aXlic0VWMWM2MEhNbXRlNHFxVW1yYUF6dVB3MjV1Q19mNHR6blpGMFhXT2dUdFJCR2J1UmM0aExmTHN1RWowTVR1X3EyMWU2ODRIbmhya1owVG9MQ3poNHNZbUE?oc=5",
       "source": "Insider Gaming",
@@ -3576,7 +3750,7 @@
       "source": "Game*Spark",
       "published_at": "2025-06-10T07:00:00+00:00",
       "summary": "「幻のドットゲーム」企画が20年越しに復活！？『メタスラ』開発者等豪華メンバー集うKOHACHI STUDIO6月12日の新作発表を告知    Game*Spark",
-      "feed_url": "https://news.google.com/rss/search?q=%E6%B5%B7%E5%A4%96%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA&hl=ja&gl=JP&ceid=JP:ja"
+      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
       "title": "龍が如くスタジオの新作『STRANGER THAN HEAVEN』正式発表。舞台は1943年の日本、レトロで煌びやかな本格ゲームプレイお披露目 - AUTOMATON",
@@ -3683,6 +3857,14 @@
       "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Eastern%20Europe&hl=en&gl=PL&ceid=PL:en"
     },
     {
+      "title": "What is Varun Mayya's ‘Unleash the Avatar’ Game? - Analytics India Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQjVuaWxpOHRnZjJKSjR5SXlkeVpsbVFwcUNUblZHX04zV3JvTTdqZDhxVktPR21ubEh2S2J5d1RmWnZNWS0xb0NySk0tcGlvX050SzVDMG85SXBQbDVwbk91cUNUaE5zYk11blhlWGVtVW10elhlMnUtbzFiNE96TXZSYnhEemUzeWlQeFZjT2VWQXZ3aHJiNlFyUjFDMzRTNmRQNUJnODVqUGdSeHJFN0wyNFZRWDVM?oc=5",
+      "source": "Analytics India Magazine",
+      "published_at": "2025-04-14T07:00:00+00:00",
+      "summary": "What is Varun Mayya's ‘Unleash the Avatar’ Game?    Analytics India Magazine",
+      "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20India&hl=en-IN&gl=IN&ceid=IN:en"
+    },
+    {
       "title": "あるゲーム開発者、4年かけて作ったゲームが“売上大失敗した”として原因を自己分析。成功を確信していたのに「同接わずか35人」、なぜ - AUTOMATON",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPM0NQbEpOQ3lHN0psZmZMRVVWZDRGdWhxNmU5YWF2ck93aGoycHoyc0tYUW83LUdxS0dTWGxYLTE5LWNCWXNSY1FFd19JQjRxcUhpOUtGNEstYXBRTGhiODlGdW5DZVZSU3A2dzNMZjQ2TDFMcG9ZaTdRRUVMRllDUW5HZXhCVUpoMUpNVjRpVQ?oc=5",
       "source": "AUTOMATON",
@@ -3763,20 +3945,20 @@
       "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Africa&hl=en&gl=ZA&ceid=ZA:en"
     },
     {
+      "title": "Sporty Group Expands Sporty Games with the Opening of a Major UK Hub, Strengthening Its Commitment to Sports Gaming - European Gaming",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNWUpuMVJsaWloZkRQS1pyNEdBSG1CZkFTcTB4bTdXdmxmTVMxWHJYd2pnN3R0WnpCQk9aakh3UGtZUHJRQVZlVWwybW5aMHBNRzhmRkJ4WlM0aVZtaXRTOWFQdllCWTE2T19vQmN4TmV1WHJXTHVFWlk4UFFYaGlpXzl6NS1wVTFZY0pPdUNJY2VULTFvX3M2OWRDSTAyZmx1bUV2UUppQldmaVk2WG9JREkzRzZVWG9fZ0ZnNUo0OWhaaW1BLXp3UDZDVGwwTnhfR1REbmpjaS14MGk1cnJSbGd2ZlFxTTh5ZHNFVUtvRDhpelhoQm5XcmVjQVMtUnp6aHJHTGRjTnNaZw?oc=5",
+      "source": "European Gaming",
+      "published_at": "2025-03-14T07:00:00+00:00",
+      "summary": "Sporty Group Expands Sporty Games with the Opening of a Major UK Hub, Strengthening Its Commitment to Sports Gaming    European Gaming",
+      "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Eastern%20Europe&hl=en&gl=PL&ceid=PL:en"
+    },
+    {
       "title": "ちいかわ初のスマホゲーム『ちいかわぽけっと』3月27日に配信 事前登録は150万人超 - KAI-YOU",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBHTlE5Y0xkTUp5cHd1bUdCT21xUF8tb0dNQWdZR1VuRGk2dVZMVjR1X3U4TVlJNVZQU2N3ZnBJMHpBTDdMVi1kWQ?oc=5",
       "source": "KAI-YOU",
       "published_at": "2025-03-14T07:00:00+00:00",
       "summary": "ちいかわ初のスマホゲーム『ちいかわぽけっと』3月27日に配信 事前登録は150万人超    KAI-YOU",
       "feed_url": "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja"
-    },
-    {
-      "title": "Business opportunities for Romanian companies developing video games at Dev.Play - Business Review",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVVY2aDk1WHVuNUh4VWZWUV9VandIRUR6X2t4VXFKeGkycGl1VkJTdmEzNzlMVGlJbm12MFNGUHUyRGhyT1JORjducWFYOFg2djhkMUg2eERuQmprLWJwanNQRzJVUWNiajJjYzFWMUhndldPM0xfWGdZVHVveTNQRDRMU2ZqRUhOa2pndWlUVjFxYWxhcmROZV9FX2pCUUNDeTYzZ1ZnRmh3bGp4T3FVbHFWN1oyZDNCZXVUM214bVQwTzdwamhxSlJsVE5ObHZvZHJlVmhTN21PeW90WU04?oc=5",
-      "source": "Business Review",
-      "published_at": "2025-03-10T07:00:00+00:00",
-      "summary": "Business opportunities for Romanian companies developing video games at Dev.Play    Business Review",
-      "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Eastern%20Europe&hl=en&gl=PL&ceid=PL:en"
     },
     {
       "title": "GTA 6 maker Rockstar Games acquires gaming studio that has a Netflix connection - The Times of India",
@@ -3881,6 +4063,14 @@
       "published_at": "2025-02-18T08:00:00+00:00",
       "summary": "デビュー作の開発中に経営状況悪化...Avalanche Studios共同創設者の新スタジオ従業員削減へ    Game*Spark",
       "feed_url": "https://news.google.com/rss/search?q=%E6%B5%B7%E5%A4%96%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "title": "How Will Elon Musk's xAI Change the Gaming Industry? - Analytics India Magazine",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUVBZcVZfRlVHVS0zb2g5SGMzeDRyUW13LU0wLTFjbDA5Y29uWGFLeTRQOXVFQ3gtUnlZSURQVE55eEExNHJ1Q0pTUk9ocmpoU0JxdTlYX1VhMGQ1SUFsUVAyMEtQckQweFBrRHMxUFFyeEdrODJLT1NHTzdTVFFMeldYNUZkM2swaGRwdHdR?oc=5",
+      "source": "Analytics India Magazine",
+      "published_at": "2025-02-17T08:00:00+00:00",
+      "summary": "How Will Elon Musk's xAI Change the Gaming Industry?    Analytics India Magazine",
+      "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20India&hl=en-IN&gl=IN&ceid=IN:en"
     },
     {
       "title": "Video games are a $1.8bn market in Africa - The Africa Report",
@@ -4139,11 +4329,11 @@
       "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Philippines&hl=en-PH&gl=PH&ceid=PH:en"
     },
     {
-      "title": "Where are the video games from Africa? - dw.com",
+      "title": "Where are the video games from Africa? - DW.com",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE84ZXdrYnpYYnc0ZjVlalNzX1JpbkZ2SHVNWS1ZOG5FSGQ4RDdJTkRCcVJKejhFeVdVVml5OGdxVk13UXB6REJqWWRoQWhSemI5N2FDazRyYWpNZ3lvZHNrbGRMNW1PSjZHUmx3OWh4MUI1VnpwMGVQcEZ30gF6QVVfeXFMUGFFNGdBOWt0c216Q3RGcDJoc0FBUHplSmlPY3RTNGZXeWJZYmhRa3JNaDR6dEFZVERNa1lqeFg4aTNncm1WaEl2ZEJ3YmswQzdJcnM5ejgzQ3FpY2RlOW5WQnBjNHlZSjdUb0xCN3ZQS3J6MUxzVi1nY3c?oc=5",
-      "source": "dw.com",
+      "source": "DW.com",
       "published_at": "2024-12-02T08:00:00+00:00",
-      "summary": "Where are the video games from Africa?    dw.com",
+      "summary": "Where are the video games from Africa?    DW.com",
       "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Africa&hl=en&gl=ZA&ceid=ZA:en"
     },
     {
@@ -4235,6 +4425,14 @@
       "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Southeast%20Asia&hl=en-SG&gl=SG&ceid=SG:en"
     },
     {
+      "title": "中世舞台の4XストラテジーRPG新作『Liegecraft』発表！CD PROJEKT RED、Paradox、11 bit出身者からなる新興スタジオ開発 - Game*Spark",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9qajladGxGTl9Ja2dQbGNJanJualRCUHpIR3RCQ1VPQzM3cm1ad1NEUUdIUkdidjl2OE9jd2FZWFZZWGFjRi1rMzdVc29Lci02N2toblFPeGhXa0lnQXVNVF9FY0lMdw?oc=5",
+      "source": "Game*Spark",
+      "published_at": "2024-10-25T07:00:00+00:00",
+      "summary": "中世舞台の4XストラテジーRPG新作『Liegecraft』発表！CD PROJEKT RED、Paradox、11 bit出身者からなる新興スタジオ開発    Game*Spark",
+      "feed_url": "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
       "title": "Kayfo: Web gaming \"has been a game changer\" - Pocket Gamer.biz",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRURTNk5CalFSeXVuVlozWUJMWTJGeWlCRG54UElqM2h4SGlqYlhONTlqYzc3VDZ6WUhmdUtlS1poRnZJZFFaOHRyV1dWbnBhOTFqVDFJYi1jNlh4VlE4RDc0Mzh2bnlVWlM0b2JmNjBLanlZRTQ4SERub3BJbUxBUw?oc=5",
       "source": "Pocket Gamer.biz",
@@ -4249,14 +4447,6 @@
       "published_at": "2024-10-24T07:00:00+00:00",
       "summary": "発売後すぐに消えた『The Day Before』開発元、“復活”を掲げて新作をクラファンするも失敗。でもめげずにまた新作発表    AUTOMATON",
       "feed_url": "https://news.google.com/rss/search?q=%E6%B5%B7%E5%A4%96%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA&hl=ja&gl=JP&ceid=JP:ja"
-    },
-    {
-      "title": "Netflix Closes Its All-Star AAA Video Game Studio, Which Made Zero Games - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaW9zY21FX1RLdmpVaHRVR05xdEpxbnVUSkNMYXVSQ095a01aWlh6WUtwXzRZU05ORlAtWDRIa1kzWngwTG1DcjdEdmhJM19BeEl4ZWY1aS1Yc1U4NkdVMVl2SnlvMHdTcU5mRE1vMkVGd1JiZi13aHRpZTVWbHNVRjlnQk1LamE5TldUZl9hU0JQN1BSX2E1Q2lHQVNEVGk2RnJiZG9yb2hleThQM1R1RHhheHI2LWVNU0JzcmxRTQ?oc=5",
-      "source": "Forbes",
-      "published_at": "2024-10-23T07:00:00+00:00",
-      "summary": "Netflix Closes Its All-Star AAA Video Game Studio, Which Made Zero Games    Forbes",
-      "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Philippines&hl=en-PH&gl=PH&ceid=PH:en"
     },
     {
       "title": "ベテラン開発者が率いるゲームスタジオGPTRACK50の新作は、「ゲームデザイン主導」のアクションRPG。絵ではなくシステムから作る、ベテランたちの「長年やりたかった」開発手法 - AUTOMATON",
@@ -4443,14 +4633,6 @@
       "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Africa&hl=en&gl=ZA&ceid=ZA:en"
     },
     {
-      "title": "Africa records high number of gamers with some turning professionals - africanews.com",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOTZlNGUtYUVPSksyVEJoT3BDclNNOFIydnd4cXc5WnhGc2ZJa003NVNJVEotd3VMUTRDODlPczgwNHUwOVhxTWdnUUhSUnVaNmM2MkYtWW9vblA2RlRWNkpaOGJFQU9nRUl2aVZMRUw5UWZnQ0xDZkxtb3FXSDdRUG1HQm54VXhDa2NFOTJ5TU1obU1jZkxWS3dIYU9uMU12VklURm0zWFZtdjQ?oc=5",
-      "source": "africanews.com",
-      "published_at": "2024-08-13T07:00:00+00:00",
-      "summary": "Africa records high number of gamers with some turning professionals    africanews.com",
-      "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Africa&hl=en&gl=ZA&ceid=ZA:en"
-    },
-    {
       "title": "PopOK Gaming shortlisted for Best Game Studio 2024 at SiGMA East Europe Awards - Focus Gaming News",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeUdaYkZZblhETDBZZE0yS282bmZNYUk3N2ZGRHZ1QWkwMHgzMEFNUklRck02VkV5NllTS2c0S1Y4UUZKN3VvemxSUWZnVXVXT0N1Qk9JS3RTQVlGMXZUdUgzQnVCMzktZmZsUmxTcC16aG1UaHczU2t0WC1HbUNMUkhleVQ2bDRyRkJkLUNISS1sdGd5N2pPQVk4YjBqMnc?oc=5",
       "source": "Focus Gaming News",
@@ -4531,6 +4713,14 @@
       "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Eastern%20Europe&hl=en&gl=PL&ceid=PL:en"
     },
     {
+      "title": "Top game development studios in Africa and their vision for the future - Mobidictum",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBxLWM0ck1fYjhzQWZSTndTMU1wd2lkMEN1d2pXalp5WEtTSFRZU184UlEtSm5wR3JMdnpuOXhoQlZLZlNtXzJVeENWRGNHQ0VsYmZFOE05OVVfaU1yYWduUVhiS2xQYWNVcXBJ?oc=5",
+      "source": "Mobidictum",
+      "published_at": "2024-07-15T07:00:00+00:00",
+      "summary": "Top game development studios in Africa and their vision for the future    Mobidictum",
+      "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Africa&hl=en&gl=ZA&ceid=ZA:en"
+    },
+    {
       "title": "Gaming studios to PM Modi: Need clear distinction between video games and RMG - Moneycontrol.com",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSlhOcEtWalJDU1RJWm1VVlFrSnBlUkRxQnZVNW1QMXdaTEFGWkdPV3pSdGdobEFxT2YxcEEyZ1poTVlNTmdJWHZiMElIWVdTRmNPUG9FbXBjQ08wMHJRR1lkbV9JakVxMnBrbEV4UGZ0QlBVZGRDWmR5Y3BwMHVCLUsyQmEyMEgtSGtHdnpLZk9wZzQxdDRiR3lvNkFpX0NkV3JEX3ZUN3Vja2dXczczczUyNVhpR0I4cVo4QkFfcUx4NFlDZ2xRZ2wwSnhtczJNd241StIB2gFBVV95cUxOMEdLU0lmTVVzeU81bVItVjg5Q204Ykw3VDB1akhPSjYtTUloRXdkUVhTS2ZQUzRWTkxxMkZ0dWtVaGFiSTJwbWVPaU5rSGs3WUZxTzJqOXZ4NGMtVnhCLThPS1dOZmRBTHNSc1RiWjItVnNrcWszWmtqMGxSX2d1M0lwXy1YZW1SRFl3cHk3UF9zVThDS1phaXFJYkIyVDdXY2ljR0NEMnVuRmREc0hfVHkxMDVieXhtdmtRMFo1M3RPNW4xVkV1VUZVbVVMWGRWeWVnVllFd2F1QQ?oc=5",
       "source": "Moneycontrol.com",
@@ -4595,11 +4785,11 @@
       "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Africa&hl=en&gl=ZA&ceid=ZA:en"
     },
     {
-      "title": "スクエニ・吉田直樹氏が「クリエイティブスタジオ3」で開発中の新作タイトル2本を“もうすぐ発表できるかも”と海外メディアのインタビューで明かす―SNSでは『FF9』リメイクを望む声も - GameBusiness.jp",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE12V3NNOUNfb25lbHpiTVNCc2Y2bGJsMXFoZzV0el90MjJpNk9Sb0pDb29WOU5tcnBBLXRfUXA5UnRwenpWdzVlaXlxVExmM2hrSWs4NXRhc1dtNVIteHRzS0ZuN0d1Qkp5?oc=5",
-      "source": "GameBusiness.jp",
+      "title": "スクエニ・吉田直樹氏が「クリエイティブスタジオ3」で開発中の新作タイトル2本を“もうすぐ発表できるかも”と海外メディアのインタビューで明かす―SNSでは『FF9』リメイクを望む声も - インサイド",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5RUXpBb1FOa1pEczVzWWh5OVdDSDUzNlNkbFZFS1ZrQ0VKSWFFV25GdTdwcVB3U2QzbDhNYzdyWTJzUVNzQlhlSG81OS1mMVpzM1RMRE5CMmUyTXZtcHhqTm1hdWlUVXpfOWc?oc=5",
+      "source": "インサイド",
       "published_at": "2024-06-07T07:00:00+00:00",
-      "summary": "スクエニ・吉田直樹氏が「クリエイティブスタジオ3」で開発中の新作タイトル2本を“もうすぐ発表できるかも”と海外メディアのインタビューで明かす―SNSでは『FF9』リメイクを望む声も    GameBusiness.jp",
+      "summary": "スクエニ・吉田直樹氏が「クリエイティブスタジオ3」で開発中の新作タイトル2本を“もうすぐ発表できるかも”と海外メディアのインタビューで明かす―SNSでは『FF9』リメイクを望む声も    インサイド",
       "feed_url": "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
@@ -4771,6 +4961,14 @@
       "feed_url": "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
+      "title": "Filipina-owned Clover-Fi Games is the Philippines' Sole Rep in Google’s Indie Games Accelerator Program - esquiremag.ph",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOM0VvZk5wV3R3YW1WNFg5RW5QSlBMVGVtRUlUVWpsanN2Y2FSd3ZSenhVY0c1TUlOdGFYWlBuazhxd2RyaGduNjZoWV9MZzU5dFlKbkE2RmNzYnZDNWpEWEJsa0l5TkpSMEZPN0t3bWg5MFc3X3pwcDN0T1JYYkhPRWdzMlpPeFlUb0E1THNpczJ0VmRjS2JPbXpISk5EdU9tRzB4UFhkYTFWVl9EdFJnSjd3UThJWWFjaWJFXzV4TkEyaFZZNXFybnZlQ0hkdXBrZjJCR2RvR0FueXg0Wk9WX3ZyTFVXSHFTamFLZHpR?oc=5",
+      "source": "esquiremag.ph",
+      "published_at": "2024-03-18T07:00:00+00:00",
+      "summary": "Filipina-owned Clover-Fi Games is the Philippines' Sole Rep in Google’s Indie Games Accelerator Program    esquiremag.ph",
+      "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Philippines&hl=en-PH&gl=PH&ceid=PH:en"
+    },
+    {
       "title": "The South African games industry in numbers - GamesIndustry.biz",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9hNlkySDBVQjdxMll5MTYwbnhFVnAzMjgwem43bjhSQklVQmZ4d3RXb09kMGk3ek5td2lHQUZTTzVhcmFEaFZqZkdvVzZ3VHBrWDFocEFSMFpfcGMzTV9zS2VxSi1QeEdVZ21fdTFUTnhEeW14Zk9MYVZkak5GZw?oc=5",
       "source": "GamesIndustry.biz",
@@ -4867,6 +5065,14 @@
       "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20India&hl=en-IN&gl=IN&ceid=IN:en"
     },
     {
+      "title": "Africa Games Industry Report 95% of Users Play on Mobile - games.gg",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JWWQ0SVJpY1hOQnJ6NkhTOC1saXM0YmJwTTJMUDNIN3dWLW52ZWh0S3p5QmlzWjlwS3pSSm9lRzZlLXE0clVfRjJ0bTdWTEIteTFDSS1qRUtBbFdxdnRyc2tpc3ZXaGZ4MHdXNVRqTDQ4TVJuLWI1c3lEUXhnSTQ?oc=5",
+      "source": "games.gg",
+      "published_at": "2024-01-19T08:00:00+00:00",
+      "summary": "Africa Games Industry Report 95% of Users Play on Mobile    games.gg",
+      "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Africa&hl=en&gl=ZA&ceid=ZA:en"
+    },
+    {
       "title": "国内ゲーム会社スタジオフレア、新作ゲームのイメージお披露目。『ブレイブルー』の森利道Pが新スタジオで手がける - AUTOMATON",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1VSmVwQ1AtWEFfWUdLaUZ6UWg1aTlGaWRFX3VSdjlEZlZGRHJadkM5WnA1TWY1UmJ0Ny1kVkVkc2lBY19MQkJYTFdUTlRHRXlpZmRoNVpMTU9aZUZmY0ljQTVjRV9aemtSQ3YxLQ?oc=5",
       "source": "AUTOMATON",
@@ -4915,6 +5121,14 @@
       "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Eastern%20Europe&hl=en&gl=PL&ceid=PL:en"
     },
     {
+      "title": "ByteDance restructures Nuverse in retreat from game development and publishing - Niko Partners",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOVVRWFRKQUpfQnNCVWZUZ1FHYjhxbU9nQTdDaVZmekwxS204MTg0NGMyS29mTlk2MUtNVUFfd0pGQkNYSnNzSURCT0RITEI0NmRQanpmNXVfV2RtaXJ2QTduRTllVEpfV2dGc0pOd2dkMkh1bTNLVnpKWDJLSHZZQ2xrZEN2aHZkOEFsQW1fTk1Yd21IQWR0dHh2VGlncjh6b3lJMEpsTQ?oc=5",
+      "source": "Niko Partners",
+      "published_at": "2023-12-04T08:00:00+00:00",
+      "summary": "ByteDance restructures Nuverse in retreat from game development and publishing    Niko Partners",
+      "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Southeast%20Asia&hl=en-SG&gl=SG&ceid=SG:en"
+    },
+    {
       "title": "Pixel Mafia is Cultivating a Brand-New Generation of Filipino Game Developers - Lifestyle.INQ",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbkI4MTdjLXBoN0ppUHlfb00tWjFoeXVfWVRyZ1A1WjQ5d3ZVY3hVaWxlLVlrSFRna3QweFlaUWlkNzVhUFhfeUdZLXlDLXdubGp0dHFTXzllR0pPUXJ0MzN2ZjUyNE5hdEpKT0pjeHp3V1N3NlFUb1ZXMlJaQTE0VHcySFRRT1N1cTJlRm5MalhYYTJJYk5TNGZDT1lYU01RWnlOZFRfSGNQWjRXaUVtUm9qeVBPM3PSAbwBQVVfeXFMTzJick5uYjJsVzdEMVFlS05uSzMxWHFLVmhkYk10MThoLUdDTkNVRmxKTnRaWE9GVVR2ZjNFeWhBXzh4Z0QzMDE0aXAwa1Y2bng2TWxKU0VyRUIwQm1HRmtZaUNLbC1vUG4wWGc4WFBNdWRIWU5QR0hvRXd2SmxwalFQNnRYd3dENXJKVjZEVzBHenBNZ1JyVWZqNFZRYkF2ME9NdXBMdVlIeXdVeWdSMnI4UlNIa2R3bUxUeVE?oc=5",
       "source": "Lifestyle.INQ",
@@ -4937,14 +5151,6 @@
       "published_at": "2023-11-14T08:00:00+00:00",
       "summary": "『デイヴ・ザ・ダイバー』が「インディーゲーム」枠なのはおかしいとのツッコミが全世界で勃発。なおスタジオ自体はそう名乗っていない    AUTOMATON",
       "feed_url": "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja"
-    },
-    {
-      "title": "Indie Jam 2023 To Showcase Southeast Asian Gaming Excellence in Kuala Lumpur - Pokde.Net",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9UcHhBdW1aTzZGeENrUWtNNUtTZC16UXIwSjY5RlZyQ0pMWERSajVGVjJVYW91Zm9xdjV3QTJuV1VtS3M0aTZaM2QwT0R1LTFPVG9LcnJJYjUzWWFORWtxcnkzT2pWSlE?oc=5",
-      "source": "Pokde.Net",
-      "published_at": "2023-11-12T08:00:00+00:00",
-      "summary": "Indie Jam 2023 To Showcase Southeast Asian Gaming Excellence in Kuala Lumpur    Pokde.Net",
-      "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Southeast%20Asia&hl=en-SG&gl=SG&ceid=SG:en"
     },
     {
       "title": "Malaysia needs to take gaming to the next level - Free Malaysia Today",
@@ -5355,14 +5561,6 @@
       "feed_url": "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
-      "title": "【速報】gumiの開発スタジオStudio FgG、新作『アスタータタリクス』を発表！ 今泉潤氏がプロデュースするオリジナルSPRG！ - gamebiz【ゲームビズ】",
-      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBlSnVJdnJtYTlWa1RjNWJfajE4aXh3TlpyU1JHQ3hMdENYYmdpU2RwSXVZYjNFZlNWVWJsWmFiOUp4Vldl?oc=5",
-      "source": "gamebiz【ゲームビズ】",
-      "published_at": "2022-11-05T08:18:42+00:00",
-      "summary": "【速報】gumiの開発スタジオStudio FgG、新作『アスタータタリクス』を発表！ 今泉潤氏がプロデュースするオリジナルSPRG！    gamebiz【ゲームビズ】",
-      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA&hl=ja&gl=JP&ceid=JP:ja"
-    },
-    {
       "title": "Are Homegrown Indie Games & Developers Finally Getting Their Due? - homegrown.co.in",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOEctcWVaSl9URlJHY3BHX19GVG12c3ZSRXBCOWtCWDc0N0JUalU0bzBLWjQwRjVLSEg4akRpNzhvYjZfczFIMnhrdjFlZjQtOU1LUkRRV3V2c3V5R0RSMVVjbHd6TU96SkY0QmNHV05wYUhuQ3I5MUthdXdIdDBWWmtCX3h4VjdUdFo4WDJGUGNuMGN3TnR0SzF2MzBpNjU0YWpMY0I5M07SAbYBQVVfeXFMT3pKOWtramxTd2lmOV9zUkRZTDdfY2N2Yk5Id3M4cjNVQ015LVFKellvdlFMU0p1SnFYalVYUlZRQmhTRUNBZ1FCSTQyZ295eTVoMXJIclZUWGM3bUowdUNwX1lvUnRtS0JqSV8wMFFsSlVZcGtpYjc4V0RhLWlvWjZwUXRjQUhGajJnclZaUmxBMzFTMEdwcjFtS1pGLWhPNkxyVGNFa1cxTld1RDNZT2lMdmcwaFE?oc=5",
       "source": "homegrown.co.in",
@@ -5385,14 +5583,6 @@
       "published_at": "2022-09-08T07:00:00+00:00",
       "summary": "How A Kenyan Startup (Plus Donald Trump) Is Lifting Africa’s Gaming Industry    WeeTracker",
       "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Africa&hl=en&gl=ZA&ceid=ZA:en"
-    },
-    {
-      "title": "Sony launches PlayStation Studios Mobile, acquires a game company - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQd2o4aG9ScXlsOUs5eHdtT3RWZXNfb1pOUUJJaXdLNjFkVTllX2EtZkJaR3VURUMzalI1TzBKTmlSM3pnVlZCXzRCZXVFR3pQM2w1anNOb29jNkdZRmZOWVNUaTlMUWFWc2JaQUE5SDg5Mi1JX1lBTHo5Zkx2M01SenRWT2J0LVpBbWFUQkRKZ2xTZFBTVGhBREU0aVlocC1DVjlXTnlZZTJXS2tDbE1JVG1ZTWVOWTRjY2R2NXpiZngwNUdKR1dYQldwOWRCazVxb3hpcNIB2gFBVV95cUxObGlnOUhoWUxyMlBXeVBaZUZFSUwxb2ZueHRyRE5mTlBHSkRQZHE4czZfdGJjQXk2M2k0WlBzT183ZnBuaGw1TW1tQkxJRmFhSUFzQVJZcjVidFBZNEtqbjJoa3FaMnJfVERYdVQyOGxEbVNwZHFnREVpQTBISTE3cTAzaHNRMnMtNUt2MWlRY01jeXNlTUtaRVBtNEVESUY1b043a042NWZxUExGSVdWTFQwOWZXN25vYU9wRVF5Ti1FMFhMeFVuNHZvQUNSMGMxQWhLWE9GWDc1QQ?oc=5",
-      "source": "The Times of India",
-      "published_at": "2022-08-29T07:00:00+00:00",
-      "summary": "Sony launches PlayStation Studios Mobile, acquires a game company    The Times of India",
-      "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20India&hl=en-IN&gl=IN&ceid=IN:en"
     },
     {
       "title": "Virtuos launches new studio in Kuala Lumpur to bolster Southeast Asian presence - Pocket Gamer.biz",
@@ -5419,11 +5609,11 @@
       "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Eastern%20Europe&hl=en&gl=PL&ceid=PL:en"
     },
     {
-      "title": "A customized app store for Africa's game developers - dw.com",
+      "title": "A customized app store for Africa's game developers - DW.com",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5TZF80akZrM19oM0tTdElRQnB4eHRsZDN3dF9INGZMdVZEb0tvRHNHbDBfM0tYZ3JpblZWM0dBQkxsWUl4c0JGMGhPVUpyZWZlZjg0Qk9ublFFc3hjVDBFYlZyS1VMOE5vMnkzVHBBWUNraXc?oc=5",
-      "source": "dw.com",
+      "source": "DW.com",
       "published_at": "2022-07-29T07:00:00+00:00",
-      "summary": "A customized app store for Africa's game developers    dw.com",
+      "summary": "A customized app store for Africa's game developers    DW.com",
       "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Africa&hl=en&gl=ZA&ceid=ZA:en"
     },
     {
@@ -5619,14 +5809,6 @@
       "feed_url": "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
-      "title": "South African game developers won’t publish in their own country — here’s why - MyBroadband",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYzJhMnB4VGVNRVBmTG8xMGNTZFk5dmhwQ3MwX04yM2VvcjZ1NThfYlN2ZXpHR01KbkQwVWtDckJnOWdmWklhMW1wYkdRa2dLQy1ONzg5QTB1MjNpVjc2ODdjSjByamt4N2JQdG42UHIxekt4T0lwSERycUFzN0dURkFlTVdvV01BM0M0ZzRPZm5nTmQyTHN0Und4aXdUQWZJZWJ4UHNxZWxXV1NzTFRfekRtWkVOY3M5NWk4YUJQMzU?oc=5",
-      "source": "MyBroadband",
-      "published_at": "2021-11-06T07:00:00+00:00",
-      "summary": "South African game developers won’t publish in their own country — here’s why    MyBroadband",
-      "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Africa&hl=en&gl=ZA&ceid=ZA:en"
-    },
-    {
       "title": "Netflix buys first video game studio, rolls out mobile games - The Star",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZnlCVXB1VE5VNzUteXppaDgyMUZyTl8yc1ZQY1FPbmsyQlE4dXFRUjFKcmxhR0E2U1JMVEpwQVV1Z0UySkFCby1BSVVVazkzZ0w1Ni1pcWYzaVRtVlBlbHJqcnhnMTAzTXN0ckpYeXBQLVFkQ2c5WVR4eGZpZnFXc0xDMFcwZVBEMlZTeFFKNWNhdmF6TEt2ZUhaN1J0b2ZDODRQUTVETGVNbU1ZWi1NV01R?oc=5",
       "source": "The Star",
@@ -5729,6 +5911,14 @@
       "published_at": "2021-06-02T07:00:00+00:00",
       "summary": "Chikon Club and Jorge Wieneke on creating the Filipino cooking game Soup Pot and its 'Budots'-inspired soundtrack    bandwagon.asia",
       "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Philippines&hl=en-PH&gl=PH&ceid=PH:en"
+    },
+    {
+      "title": "The Long Journey of 'Usoni,' an African Postapocalyptic Game - WIRED",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONTVKajVnX3dLMFZOczZ1azVsSUlWdDc0bzFQM2E4Rk1jNUUtekV1dTFkWHo3S0N5VUxFTWV0MGdZT3ZhaFRmV3VPQ2xGSW8zdWU4UUY1dmZYc3ZOUXBNUmZYQkVxRjgycURxNHNoRkRYWlhyeE9VZk1ReGdUZktyaw?oc=5",
+      "source": "WIRED",
+      "published_at": "2021-05-20T07:00:00+00:00",
+      "summary": "The Long Journey of 'Usoni,' an African Postapocalyptic Game    WIRED",
+      "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Africa&hl=en&gl=ZA&ceid=ZA:en"
     },
     {
       "title": "People in the Philippines are earning cryptocurrency during the pandemic by playing a video game - CNBC",
@@ -5963,14 +6153,6 @@
       "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Southeast%20Asia&hl=en-SG&gl=SG&ceid=SG:en"
     },
     {
-      "title": "インディーゲームイベント「BitSummit Gaiden」詳細発表！78タイトルが参加し、期間限定ながら一部は無料プレイも可能に - IGN Japan",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9hNzlxc05mMVN2dGFseS0zbno3SVBaVWtBQmZfMmdHOGhzV1BRUmg3Q3hvVEFISjl6S2pITkhiam5OVDZ1a1FqUGpIa2EwQWRoOEtjZmJSYVpJZmpNQm5qdDh0SHZxbnI1Y3YtcjhVYnJ0RXc?oc=5",
-      "source": "IGN Japan",
-      "published_at": "2020-05-28T07:00:00+00:00",
-      "summary": "インディーゲームイベント「BitSummit Gaiden」詳細発表！78タイトルが参加し、期間限定ながら一部は無料プレイも可能に    IGN Japan",
-      "feed_url": "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja"
-    },
-    {
       "title": "Summer Game Festを見るならTwitch - Twitch Blog",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNb1RVRXdVYVN3V1JDcnVtTlR0Rms4VmtNT0M0aVVaT0FCdl9tM1NNbGZuUnMyUGpEaG1WTlQ0SEY2UjVTTmR3RXYteFFjZ1RlM2xReDE0UTBoSDlIbHR4TnBFczJPU3lLNWdEbmJXblNHcHkyRlNvMzJ1dEI2WW5MVlI3Zw?oc=5",
       "source": "Twitch Blog",
@@ -6019,14 +6201,6 @@
       "feed_url": "https://news.google.com/rss/search?q=%E6%B5%B7%E5%A4%96%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
-      "title": "事前登録：大人気『東京喰種』がスマホゲーム化！今なら『カネキ』がもらえる - 週刊アスキー",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE45bDhVUkY3R1ZlcU81SDJzRHNuMGtaNndpSGRPcElFZVBGcm42UUVxRFlGdXhqWlBvbG9pcG50alVUem9OMnR1OFJRVEpzWEdtdjB6NWhSNTAwSFkzZ1E?oc=5",
-      "source": "週刊アスキー",
-      "published_at": "2020-03-19T04:29:08+00:00",
-      "summary": "事前登録：大人気『東京喰種』がスマホゲーム化！今なら『カネキ』がもらえる    週刊アスキー",
-      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja"
-    },
-    {
       "title": "【あんさんぶるスターズ！！ Music】配信日・リリース日はいつ？事前登録情報｜あんスタMusic - AppMedia",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE51dDliRE83eEIyZkR6cHNuWWNNbHdhV2pCLV9PNzIxMVV1bWZuc3huNVBqYTV3VUpJXzB3SHFTdlJuSnU1bFFpbEpJMA?oc=5",
       "source": "AppMedia",
@@ -6059,12 +6233,28 @@
       "feed_url": "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
+      "title": "2019 in video games: Wargaming’s Justin Farren on emerging technologies, representing women in games, and stuff that never lets go - Game World Observer",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBaUU14QklPNzdEMUk2S3BBVktwdXZyWUhRdnktMUtCTWhOVndKNFp4SF95U0poRlV6VkdheG1OazlONXFqM0ZHMkVxZ1MtdVd5ZVktdGJnSWdNRS1nY0hxaVUtbkQ0R0F4MG1OcnJmcw?oc=5",
+      "source": "Game World Observer",
+      "published_at": "2019-12-30T08:00:00+00:00",
+      "summary": "2019 in video games: Wargaming’s Justin Farren on emerging technologies, representing women in games, and stuff that never lets go    Game World Observer",
+      "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Eastern%20Europe&hl=en&gl=PL&ceid=PL:en"
+    },
+    {
       "title": "2Kが『バイオショック』新作を開発する新スタジオの設立を発表 - GameBusiness.jp",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1FMWV5V3pqMXBMd0FiczBsRVhyQm1MV3RpVmx3MjQzLThDSW1laE5WQlVoUDd3VDZfRGRmaENERk9Rc1VVRmw2YUFlbG1DaFJsaDJiZVViSkZGSTdSM2NsMGlvWVlrSG5K?oc=5",
       "source": "GameBusiness.jp",
       "published_at": "2019-12-10T08:00:00+00:00",
       "summary": "2Kが『バイオショック』新作を開発する新スタジオの設立を発表    GameBusiness.jp",
       "feed_url": "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "title": "【ガールズシンフォニー：Ec ～新世界少女組曲～】配信日・リリース日はいつ？事前登録情報｜ガルシン - AppMedia",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1TeHRnZ3dXWHQwVWRYc1gxNnJTQW9WX3NFNXJ3YkN2Uk02aDYxdmczaTZFN1AxSXZsUVhfbjB4a2U4R0R4R2RiRWtCaw?oc=5",
+      "source": "AppMedia",
+      "published_at": "2019-12-05T08:00:00+00:00",
+      "summary": "【ガールズシンフォニー：Ec ～新世界少女組曲～】配信日・リリース日はいつ？事前登録情報｜ガルシン    AppMedia",
+      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
       "title": "【revisions next stage】配信日・リリース日はいつ？事前登録情報｜リヴィネク - AppMedia",

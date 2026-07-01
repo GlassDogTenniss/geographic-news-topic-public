@@ -1,8 +1,8 @@
 {
   "type": "FeatureCollection",
   "properties": {
-    "created_at": "2026-07-01T15:43:01.854655+00:00",
-    "count": 76,
+    "created_at": "2026-07-01T16:57:32.930149+00:00",
+    "count": 72,
     "stats": {
       "feed_id": "game-all",
       "feed_label": "ゲーム",
@@ -28,7 +28,7 @@
         "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja"
       ],
       "rss_url": "https://www.gamedeveloper.com/rss.xml",
-      "fetched": 988,
+      "fetched": 989,
       "fetched_by_url": {
         "https://www.gamedeveloper.com/rss.xml": 50,
         "https://www.gamesindustry.biz/feed": 100,
@@ -40,9 +40,9 @@
         "https://www.nag.co.za/feed/": 10,
         "https://www.kakuchopurei.com/feed/": 10,
         "https://www.afkgaming.com/feed": 0,
-        "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20India&hl=en-IN&gl=IN&ceid=IN:en": 78,
+        "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20India&hl=en-IN&gl=IN&ceid=IN:en": 79,
         "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Philippines&hl=en-PH&gl=PH&ceid=PH:en": 78,
-        "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Eastern%20Europe&hl=en&gl=PL&ceid=PL:en": 75,
+        "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Eastern%20Europe&hl=en&gl=PL&ceid=PL:en": 76,
         "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Africa&hl=en&gl=ZA&ceid=ZA:en": 79,
         "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Southeast%20Asia&hl=en-SG&gl=SG&ceid=SG:en": 76,
         "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA&hl=ja&gl=JP&ceid=JP:ja": 74,
@@ -50,11 +50,11 @@
         "https://news.google.com/rss/search?q=%E6%B5%B7%E5%A4%96%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA&hl=ja&gl=JP&ceid=JP:ja": 73,
         "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja": 77
       },
-      "filtered": 895,
-      "resolved": 76,
-      "unresolved": 819,
-      "rules": 58,
-      "known_places": 55,
+      "filtered": 896,
+      "resolved": 72,
+      "unresolved": 824,
+      "rules": 61,
+      "known_places": 57,
       "loaded_data_files": [
         "data/place_rules.json",
         "data/unresolved_known_places.json",
@@ -71,7 +71,157 @@
         "data/unresolved_known_places_12.json",
         "data/unresolved_known_places_13.json",
         "data/unresolved_known_places_14.json",
-        "data/unresolved_known_places_15.json"
+        "data/unresolved_known_places_15.json",
+        "data/unresolved_known_places_16.json",
+        "data/unresolved_known_places_17.json",
+        "data/unresolved_known_places_18.json",
+        "data/unresolved_known_places_19.json",
+        "data/unresolved_known_places_20.json",
+        "data/unresolved_known_places_21.json",
+        "data/unresolved_known_places_22.json",
+        "data/unresolved_known_places_23.json",
+        "data/unresolved_known_places_24.json",
+        "data/unresolved_known_places_25.json",
+        "data/unresolved_known_places_26.json",
+        "data/unresolved_known_places_27.json",
+        "data/unresolved_known_places_28.json",
+        "data/unresolved_known_places_29.json",
+        "data/unresolved_known_places_30.json",
+        "data/unresolved_known_places_31.json",
+        "data/unresolved_known_places_32.json",
+        "data/unresolved_known_places_33.json",
+        "data/unresolved_known_places_34.json",
+        "data/unresolved_known_places_35.json",
+        "data/unresolved_known_places_36.json",
+        "data/unresolved_known_places_37.json",
+        "data/unresolved_known_places_38.json",
+        "data/unresolved_known_places_39.json",
+        "data/unresolved_known_places_40.json",
+        "data/unresolved_known_places_41.json",
+        "data/unresolved_known_places_42.json",
+        "data/unresolved_known_places_43.json",
+        "data/unresolved_known_places_44.json",
+        "data/unresolved_known_places_45.json",
+        "data/unresolved_known_places_46.json",
+        "data/unresolved_known_places_47.json",
+        "data/unresolved_known_places_48.json",
+        "data/unresolved_known_places_49.json",
+        "data/unresolved_known_places_50.json",
+        "data/unresolved_known_places_51.json",
+        "data/unresolved_known_places_52.json",
+        "data/unresolved_known_places_53.json",
+        "data/unresolved_known_places_54.json",
+        "data/unresolved_known_places_55.json",
+        "data/unresolved_known_places_56.json",
+        "data/unresolved_known_places_57.json",
+        "data/unresolved_known_places_58.json",
+        "data/unresolved_known_places_59.json",
+        "data/unresolved_known_places_60.json",
+        "data/unresolved_known_places_61.json",
+        "data/unresolved_known_places_62.json",
+        "data/unresolved_known_places_63.json",
+        "data/unresolved_known_places_64.json",
+        "data/unresolved_known_places_65.json",
+        "data/unresolved_known_places_66.json",
+        "data/unresolved_known_places_67.json",
+        "data/unresolved_known_places_68.json",
+        "data/unresolved_known_places_69.json",
+        "data/unresolved_known_places_70.json",
+        "data/unresolved_known_places_71.json",
+        "data/unresolved_known_places_72.json",
+        "data/unresolved_known_places_73.json",
+        "data/unresolved_known_places_74.json",
+        "data/unresolved_known_places_75.json",
+        "data/unresolved_known_places_76.json",
+        "data/unresolved_known_places_77.json",
+        "data/unresolved_known_places_78.json",
+        "data/unresolved_known_places_79.json",
+        "data/unresolved_known_places_80.json",
+        "data/unresolved_known_places_81.json",
+        "data/unresolved_known_places_82.json",
+        "data/unresolved_known_places_83.json",
+        "data/unresolved_known_places_84.json",
+        "data/unresolved_known_places_85.json",
+        "data/unresolved_known_places_86.json",
+        "data/unresolved_known_places_87.json",
+        "data/unresolved_known_places_88.json",
+        "data/unresolved_known_places_89.json",
+        "data/unresolved_known_places_90.json",
+        "data/unresolved_known_places_91.json",
+        "data/unresolved_known_places_92.json",
+        "data/unresolved_known_places_93.json",
+        "data/unresolved_known_places_94.json",
+        "data/unresolved_known_places_95.json",
+        "data/unresolved_known_places_96.json",
+        "data/unresolved_known_places_97.json",
+        "data/unresolved_known_places_98.json",
+        "data/unresolved_known_places_99.json",
+        "data/unresolved_known_places_100.json",
+        "data/unresolved_known_places_101.json",
+        "data/unresolved_known_places_102.json",
+        "data/unresolved_known_places_103.json",
+        "data/unresolved_known_places_104.json",
+        "data/unresolved_known_places_105.json",
+        "data/unresolved_known_places_106.json",
+        "data/unresolved_known_places_107.json",
+        "data/unresolved_known_places_108.json",
+        "data/unresolved_known_places_109.json",
+        "data/unresolved_known_places_110.json",
+        "data/unresolved_known_places_111.json",
+        "data/unresolved_known_places_112.json",
+        "data/unresolved_known_places_113.json",
+        "data/unresolved_known_places_114.json",
+        "data/unresolved_known_places_115.json",
+        "data/unresolved_known_places_116.json",
+        "data/unresolved_known_places_117.json",
+        "data/unresolved_known_places_118.json",
+        "data/unresolved_known_places_120.json",
+        "data/unresolved_known_places_121.json",
+        "data/unresolved_known_places_122.json",
+        "data/unresolved_known_places_123.json",
+        "data/unresolved_known_places_124.json",
+        "data/unresolved_known_places_125.json",
+        "data/unresolved_known_places_126.json",
+        "data/unresolved_known_places_127.json",
+        "data/unresolved_known_places_128.json",
+        "data/unresolved_known_places_129.json",
+        "data/unresolved_known_places_130.json",
+        "data/unresolved_known_places_131.json",
+        "data/unresolved_known_places_132.json",
+        "data/unresolved_known_places_133.json",
+        "data/unresolved_known_places_134.json",
+        "data/unresolved_known_places_135.json",
+        "data/unresolved_known_places_136.json",
+        "data/unresolved_known_places_137.json",
+        "data/unresolved_known_places_138.json",
+        "data/unresolved_known_places_139.json",
+        "data/unresolved_known_places_140.json",
+        "data/unresolved_known_places_141.json",
+        "data/unresolved_known_places_142.json",
+        "data/unresolved_known_places_143.json",
+        "data/unresolved_known_places_144.json",
+        "data/unresolved_known_places_145.json",
+        "data/unresolved_known_places_146.json",
+        "data/unresolved_known_places_147.json",
+        "data/unresolved_known_places_148.json",
+        "data/unresolved_known_places_149.json",
+        "data/unresolved_known_places_200.json",
+        "data/unresolved_known_places_250.json",
+        "data/unresolved_known_places_251.json",
+        "data/unresolved_known_places_252.json",
+        "data/unresolved_known_places_253.json",
+        "data/unresolved_known_places_254.json",
+        "data/unresolved_known_places_255.json",
+        "data/unresolved_known_places_256.json",
+        "data/unresolved_known_places_257.json",
+        "data/unresolved_known_places_258.json",
+        "data/unresolved_known_places_259.json",
+        "data/unresolved_known_places_260.json",
+        "data/unresolved_known_places_261.json",
+        "data/unresolved_known_places_262.json",
+        "data/unresolved_known_places_263.json",
+        "data/unresolved_known_places_264.json",
+        "data/unresolved_known_places_265.json"
       ],
       "topic_keywords": [
         "game",
@@ -130,6 +280,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.417,
+          48.8422
+        ]
+      },
+      "properties": {
+        "title": "Ubisoft appoints former 2K and Amazon exec Christoph Hartmann to lead Creative House 2, overseeing Splinter Cell, The Division and Ghost Recon",
+        "source": "GamesIndustry.biz Latest Articles Feed",
+        "link": "https://www.gamesindustry.biz/ubisoft-appoints-former-2k-and-amazon-exec-christoph-hartmann-to-lead-creative-house-2-overseeing-splinter-cell-the-division-and-ghost-recon",
+        "published_at": "2026-07-01T16:04:01+00:00",
+        "representative_place": "Ubisoft / Saint-Mandé headquarters",
+        "place_label": "フランス-Saint-Mandé-Floresco-Ubisoft",
+        "sort_place_label": "フランス-Saint-Mandé-Floresco-Ubisoft",
+        "geocode_query": "Floresco Saint-Mandé Ubisoft headquarters France",
+        "place_type": "company_site",
+        "location_precision": "building",
+        "place_reason": "Ubisoft Creative House 2 executive appointment article anchored to the Saint-Mandé headquarters. The standalone Ubisoft term is not used as a trigger.（一致語: Ubisoft appoints former 2K and Amazon exec Christoph Hartmann）",
+        "confidence": 0.8,
+        "rule_id": "observed_ubisoft_creative_house2_hartmann_202607",
+        "matched_text": "Ubisoft appoints former 2K and Amazon exec Christoph Hartmann",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           121.5637,
           31.21
         ]
@@ -150,6 +327,33 @@
         "rule_id": "observed_pgc_shanghai_speaker_202607",
         "matched_text": "Pocket Gamer Connects Summit Shanghai",
         "match_source": "rule"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2834,
+          37.5606
+        ]
+      },
+      "properties": {
+        "title": "PS3 and PS Vita digital stores are closing starting August 2026",
+        "source": "gamedeveloper",
+        "link": "https://www.gamedeveloper.com/business/ps3-and-ps-vita-digital-stores-are-closing-starting-august-2026",
+        "published_at": "2026-07-01T14:28:10+00:00",
+        "representative_place": "Sony Interactive Entertainment / 2207 Bridgepointe Pkwy",
+        "place_label": "USA-California-San Mateo-2207 Bridgepointe Pkwy-Sony Interactive Entertainment",
+        "sort_place_label": "USA-California-San Mateo-2207 Bridgepointe Pkwy-Sony Interactive Entertainment",
+        "geocode_query": "2207 Bridgepointe Pkwy San Mateo CA 94404 Sony Interactive Entertainment",
+        "place_type": "platform_company_site",
+        "location_precision": "exact_site",
+        "place_reason": "PlayStation platform store and physical software policy articles anchored to the Sony Interactive Entertainment global headquarters address. PlayStation, Sony, PS3, and PS Vita standalone terms are not used as triggers.（一致語: PS3 and PS Vita digital stores are closing starting August 2026）",
+        "confidence": 0.82,
+        "rule_id": "observed_sie_store_closure_san_mateo_202607",
+        "matched_text": "PS3 and PS Vita digital stores are closing starting August 2026",
+        "match_source": "known_place_title"
       }
     },
     {
@@ -184,6 +388,60 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.2834,
+          37.5606
+        ]
+      },
+      "properties": {
+        "title": "Sony will stop producing PlayStation discs starting in 2028",
+        "source": "Game World Observer",
+        "link": "https://gameworldobserver.com/2026/07/01/sony-will-stop-producing-playstation-discs-starting-in-2028",
+        "published_at": "2026-07-01T13:48:50+00:00",
+        "representative_place": "Sony Interactive Entertainment / 2207 Bridgepointe Pkwy",
+        "place_label": "USA-California-San Mateo-2207 Bridgepointe Pkwy-Sony Interactive Entertainment",
+        "sort_place_label": "USA-California-San Mateo-2207 Bridgepointe Pkwy-Sony Interactive Entertainment",
+        "geocode_query": "2207 Bridgepointe Pkwy San Mateo CA 94404 Sony Interactive Entertainment",
+        "place_type": "platform_company_site",
+        "location_precision": "exact_site",
+        "place_reason": "PlayStation platform store and physical software policy articles anchored to the Sony Interactive Entertainment global headquarters address. PlayStation, Sony, PS3, and PS Vita standalone terms are not used as triggers.（一致語: Sony will stop producing PlayStation discs starting in 2028）",
+        "confidence": 0.82,
+        "rule_id": "observed_sie_store_closure_san_mateo_202607",
+        "matched_text": "Sony will stop producing PlayStation discs starting in 2028",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2834,
+          37.5606
+        ]
+      },
+      "properties": {
+        "title": "PlayStation ending production of physical software in January 2028",
+        "source": "gamedeveloper",
+        "link": "https://www.gamedeveloper.com/business/playstation-ending-production-of-physical-software-in-january-2028",
+        "published_at": "2026-07-01T12:20:33+00:00",
+        "representative_place": "Sony Interactive Entertainment / 2207 Bridgepointe Pkwy",
+        "place_label": "USA-California-San Mateo-2207 Bridgepointe Pkwy-Sony Interactive Entertainment",
+        "sort_place_label": "USA-California-San Mateo-2207 Bridgepointe Pkwy-Sony Interactive Entertainment",
+        "geocode_query": "2207 Bridgepointe Pkwy San Mateo CA 94404 Sony Interactive Entertainment",
+        "place_type": "platform_company_site",
+        "location_precision": "exact_site",
+        "place_reason": "PlayStation platform store and physical software policy articles anchored to the Sony Interactive Entertainment global headquarters address. PlayStation, Sony, PS3, and PS Vita standalone terms are not used as triggers.（一致語: PlayStation ending production of physical software in January 2028）",
+        "confidence": 0.82,
+        "rule_id": "observed_sie_store_closure_san_mateo_202607",
+        "matched_text": "PlayStation ending production of physical software in January 2028",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           12.5801,
           55.6816
         ]
@@ -196,40 +454,13 @@
         "representative_place": "IO Interactive / Gammel Mønt 4 Copenhagen",
         "place_label": "デンマーク-コペンハーゲン-Gammel Mønt 4-IO Interactive",
         "sort_place_label": "デンマーク-コペンハーゲン-Gammel Mønt 4-IO Interactive",
-        "geocode_query": "Gammel Mønt 4 Copenhagen Denmark IO Interactive",
+        "geocode_query": "Gammel Mønt 4 Copenhagen IO Interactive",
         "place_type": "studio_site",
         "location_precision": "exact_site",
-        "place_reason": "Project Fantasyおよび同スタジオの記事をIO Interactiveのコペンハーゲン拠点に置く（一致語: Project Fantasy）",
+        "place_reason": "Project Fantasy partner-deal articles anchored to the IO Interactive Copenhagen site. The standalone Project Fantasy title is not used as a trigger.（一致語: Xbox ends deal to fund and publish IO Interactive's Project Fantasy）",
         "confidence": 0.86,
         "rule_id": "observed_project_fantasy_io_interactive_copenhagen_202607",
-        "matched_text": "Project Fantasy",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.7292,
-          35.6606
-        ]
-      },
-      "properties": {
-        "title": "Data digest: Pokémon Champions, the top US earners, funding news, Sensor Tower’s big ad report, more",
-        "source": "Mobilegamer.biz",
-        "link": "https://mobilegamer.biz/data-digest-pokemon-champions-the-top-us-earners-funding-news-sensor-towers-big-ad-report-more/",
-        "published_at": "2026-07-01T01:21:54+00:00",
-        "representative_place": "The Pokémon Company / Roppongi Hills Mori Tower 8F",
-        "place_label": "日本-東京都-港区-六本木-六本木ヒルズ森タワー8F-The Pokémon Company",
-        "sort_place_label": "日本-東京都-港区-六本木-六本木ヒルズ森タワー8F-The Pokémon Company",
-        "geocode_query": "Roppongi Hills Mori Tower Tokyo The Pokemon Company",
-        "place_type": "company_site",
-        "location_precision": "building",
-        "place_reason": "The Pokémon Company主体の記事を六本木ヒルズ森タワーに置く。building_floorはスコア表に未定義なので、ranking上はbuildingに正規化する（一致語: Pokémon Champions）",
-        "confidence": 0.84,
-        "rule_id": "observed_pokemon_champions_mobile_tokyo_202606",
-        "matched_text": "Pokémon Champions",
+        "matched_text": "Xbox ends deal to fund and publish IO Interactive's Project Fantasy",
         "match_source": "known_place_title"
       }
     },
@@ -250,13 +481,13 @@
         "representative_place": "IO Interactive / Gammel Mønt 4 Copenhagen",
         "place_label": "デンマーク-コペンハーゲン-Gammel Mønt 4-IO Interactive",
         "sort_place_label": "デンマーク-コペンハーゲン-Gammel Mønt 4-IO Interactive",
-        "geocode_query": "Gammel Mønt 4 Copenhagen Denmark IO Interactive",
+        "geocode_query": "Gammel Mønt 4 Copenhagen IO Interactive",
         "place_type": "studio_site",
         "location_precision": "exact_site",
-        "place_reason": "Project Fantasyおよび同スタジオの記事をIO Interactiveのコペンハーゲン拠点に置く（一致語: Project Fantasy）",
+        "place_reason": "Project Fantasy partner-deal articles anchored to the IO Interactive Copenhagen site. The standalone Project Fantasy title is not used as a trigger.（一致語: 『Project Fantasy』の外部パートナー契約終了）",
         "confidence": 0.86,
         "rule_id": "observed_project_fantasy_io_interactive_copenhagen_202607",
-        "matched_text": "Project Fantasy",
+        "matched_text": "『Project Fantasy』の外部パートナー契約終了",
         "match_source": "known_place_title"
       }
     },
@@ -277,13 +508,13 @@
         "representative_place": "IO Interactive / Gammel Mønt 4 Copenhagen",
         "place_label": "デンマーク-コペンハーゲン-Gammel Mønt 4-IO Interactive",
         "sort_place_label": "デンマーク-コペンハーゲン-Gammel Mønt 4-IO Interactive",
-        "geocode_query": "Gammel Mønt 4 DK-1117 Copenhagen Denmark IO Interactive",
+        "geocode_query": "Gammel Mønt 4 Copenhagen IO Interactive",
         "place_type": "studio_site",
         "location_precision": "exact_site",
-        "place_reason": "IO Interactive公式CareersのCopenhagen拠点住所がGammel Mønt 4, DK-1117 Copenhagen, Denmarkで確認できるため、007 First Light / James Bondゲーム系の記事を同住所に置く（一致語: 『007』シリーズ新作ゲーム）",
+        "place_reason": "007 First Light articles anchored to the IO Interactive Copenhagen site. The standalone 007 First Light title is not used as a trigger.（一致語: 『007』シリーズ新作ゲーム、正式タイトル発表）",
         "confidence": 0.88,
         "rule_id": "observed_io_interactive_007_first_light_copenhagen_202606",
-        "matched_text": "『007』シリーズ新作ゲーム",
+        "matched_text": "『007』シリーズ新作ゲーム、正式タイトル発表",
         "match_source": "known_place_title"
       }
     },
@@ -346,8 +577,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.7652,
-          35.6697
+          139.7681,
+          35.6721
         ]
       },
       "properties": {
@@ -355,16 +586,16 @@
         "source": "Mobilegamer.biz",
         "link": "https://mobilegamer.biz/konamis-efootball-is-racing-ahead-of-ea-fc-mobile/",
         "published_at": "2026-06-30T14:18:56+00:00",
-        "representative_place": "KONAMI本社周辺",
-        "place_label": "日本-東京都-中央区",
-        "sort_place_label": "日本-東京都-中央区",
-        "geocode_query": "Konami Group headquarters Ginza Chuo Tokyo Japan",
-        "place_type": "institution_site",
-        "location_precision": "building",
-        "place_reason": "KONAMIに関する企業・ゲーム記事を、企業主体の代表地点としてKONAMI本社周辺に置く（一致語: KONAMI）",
-        "confidence": 0.64,
+        "representative_place": "Konami Digital Entertainment / 1-11-1 Ginza",
+        "place_label": "日本-東京都-中央区-銀座1-11-1-KONAMI",
+        "sort_place_label": "日本-東京都-中央区-銀座1-11-1-KONAMI",
+        "geocode_query": "東京都中央区銀座1丁目11番1号 Konami Digital Entertainment",
+        "place_type": "company_site",
+        "location_precision": "exact_site",
+        "place_reason": "Konami eFootball article anchored to the Ginza company address. The standalone KONAMI term is not used as a trigger.（一致語: Konami’s eFootball is racing ahead）",
+        "confidence": 0.82,
         "rule_id": "konami_tokyo_headquarters",
-        "matched_text": "KONAMI",
+        "matched_text": "Konami’s eFootball is racing ahead",
         "match_source": "known_place_title"
       }
     },
@@ -466,14 +697,14 @@
         "representative_place": "Competition and Markets Authority / The Cabot",
         "place_label": "英国-ロンドン-カナリー・ワーフ-The Cabot-CMA",
         "sort_place_label": "英国-ロンドン-カナリー・ワーフ-The Cabot-CMA",
-        "geocode_query": "Competition and Markets Authority The Cabot 25 Cabot Square London E14 4QZ",
+        "geocode_query": "The Cabot Canary Wharf London Competition and Markets Authority",
         "place_type": "regulatory_agency_site",
         "location_precision": "building",
-        "place_reason": "アプリストア支払い規制に関する英国CMAの記事として、規制主体のLondon所在地に置く",
+        "place_reason": "UK CMA app-store policy article anchored to The Cabot. The standalone Competition and Markets Authority term is not used as a trigger.（一致語: UK regulators could force Apple and Google to remove steering restrictions）",
         "confidence": 0.82,
         "rule_id": "observed_uk_cma_app_store_policy_london_202606",
-        "matched_text": "Competition and Markets Authority",
-        "match_source": "rule"
+        "matched_text": "UK regulators could force Apple and Google to remove steering restrictions",
+        "match_source": "known_place_title"
       }
     },
     {
@@ -520,13 +751,13 @@
         "representative_place": "Cygames / 住友不動産渋谷ガーデンタワー15階",
         "place_label": "日本-東京都-渋谷区-南平台町-住友不動産渋谷ガーデンタワー-Cygames",
         "sort_place_label": "日本-東京都-渋谷区-南平台町-住友不動産渋谷ガーデンタワー-Cygames",
-        "geocode_query": "東京都渋谷区南平台町16番17号 住友不動産渋谷ガーデンタワー15階 Cygames",
+        "geocode_query": "東京都渋谷区南平台町16-17 住友不動産渋谷ガーデンタワー15階 Cygames",
         "place_type": "studio_company_site",
         "location_precision": "building",
-        "place_reason": "Umamusume主体の記事を、別イベントfallbackではなく開発・運営元Cygamesの本社所在地に置く（一致語: Umamusume: Pretty Derby）",
+        "place_reason": "Cygames game articles anchored to the Shibuya Garden Tower office. The standalone Cygames term is not used as a trigger.（一致語: Umamusume: Pretty Derby races to $100m）",
         "confidence": 0.88,
         "rule_id": "observed_umamusume_cygames_shibuya_202606",
-        "matched_text": "Umamusume: Pretty Derby",
+        "matched_text": "Umamusume: Pretty Derby races to $100m",
         "match_source": "known_place_title"
       }
     },
@@ -577,37 +808,10 @@
         "geocode_query": "ul. Jagiellońska 74 building E 03-301 Warszawa CD PROJEKT",
         "place_type": "company_site",
         "location_precision": "building",
-        "place_reason": "CD Projekt主体の記事なので、CD PROJEKT公式Contactに記載の ul. Jagiellońska 74, building E に置く（一致語: CD Projekt）",
+        "place_reason": "CD PROJEKT corporate report, rebrand, executive, and valuation articles anchored to the official company address. The standalone CD Projekt term is not used as a trigger.（一致語: CD Projekt rebrands to CD Projekt Red）",
         "confidence": 0.84,
         "rule_id": "observed_cd_projekt_warsaw_specific_202607",
-        "matched_text": "CD Projekt",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.7292,
-          35.6606
-        ]
-      },
-      "properties": {
-        "title": "Rising hardware prices, meaningful inclusion and Pokémon Champions’ early success | Week in Views",
-        "source": "Latest Updates | PocketGamer.biz",
-        "link": "https://www.pocketgamer.biz/rising-hardware-prices-meaningful-inclusion-and-pokmon-champions-early-success-week-in-views/",
-        "published_at": "2026-06-26T15:47:00+00:00",
-        "representative_place": "The Pokémon Company / Roppongi Hills Mori Tower 8F",
-        "place_label": "日本-東京都-港区-六本木-六本木ヒルズ森タワー8F-The Pokémon Company",
-        "sort_place_label": "日本-東京都-港区-六本木-六本木ヒルズ森タワー8F-The Pokémon Company",
-        "geocode_query": "Roppongi Hills Mori Tower Tokyo The Pokemon Company",
-        "place_type": "company_site",
-        "location_precision": "building",
-        "place_reason": "The Pokémon Company主体の記事を六本木ヒルズ森タワーに置く。building_floorはスコア表に未定義なので、ranking上はbuildingに正規化する（一致語: Pokémon Champions）",
-        "confidence": 0.84,
-        "rule_id": "observed_pokemon_champions_mobile_tokyo_202606",
-        "matched_text": "Pokémon Champions",
+        "matched_text": "CD Projekt rebrands to CD Projekt Red",
         "match_source": "known_place_title"
       }
     },
@@ -682,13 +886,13 @@
         "representative_place": "IO Interactive / Gammel Mønt 4 Copenhagen",
         "place_label": "デンマーク-コペンハーゲン-Gammel Mønt 4-IO Interactive",
         "sort_place_label": "デンマーク-コペンハーゲン-Gammel Mønt 4-IO Interactive",
-        "geocode_query": "Gammel Mønt 4 DK-1117 Copenhagen Denmark IO Interactive",
+        "geocode_query": "Gammel Mønt 4 Copenhagen IO Interactive",
         "place_type": "studio_site",
         "location_precision": "exact_site",
-        "place_reason": "IO Interactive公式CareersのCopenhagen拠点住所がGammel Mønt 4, DK-1117 Copenhagen, Denmarkで確認できるため、007 First Light / James Bondゲーム系の記事を同住所に置く（一致語: 007 First Light）",
+        "place_reason": "007 First Light articles anchored to the IO Interactive Copenhagen site. The standalone 007 First Light title is not used as a trigger.（一致語: 007 First Light was the highest-grossing game in May in the US）",
         "confidence": 0.88,
         "rule_id": "observed_io_interactive_007_first_light_copenhagen_202606",
-        "matched_text": "007 First Light",
+        "matched_text": "007 First Light was the highest-grossing game in May in the US",
         "match_source": "known_place_title"
       }
     },
@@ -736,10 +940,10 @@
         "representative_place": "34BigThings / Via Gian Domenico Cassini 39 Turin",
         "place_label": "イタリア-ピエモンテ州-トリノ-Via Gian Domenico Cassini 39-34BigThings",
         "sort_place_label": "イタリア-ピエモンテ州-トリノ-Via Gian Domenico Cassini 39-34BigThings",
-        "geocode_query": "Via Gian Domenico Cassini 39 10129 Torino Italy 34BigThings",
+        "geocode_query": "Via Gian Domenico Cassini 39 10129 Torino 34BigThings",
         "place_type": "studio_site",
         "location_precision": "exact_site",
-        "place_reason": "34BigThings公式サイトの住所欄およびフッターでVia Gian Domenico Cassini 39, 10129 Torino, Italyが確認できるため、34BigThings主体の記事を同住所に置く（一致語: 34BigThings spins out）",
+        "place_reason": "34BigThings articles anchored to the Turin studio address. Generic Turin or Ubisoft closure terms are not used as triggers.（一致語: 34BigThings spins out）",
         "confidence": 0.88,
         "rule_id": "observed_34bigthings_italy_202606",
         "matched_text": "34BigThings spins out",
@@ -790,10 +994,10 @@
         "representative_place": "Microsoft / One Microsoft Way Redmond campus",
         "place_label": "米国-ワシントン州-レドモンド-One Microsoft Way-Microsoft Gaming/Xbox",
         "sort_place_label": "米国-ワシントン州-レドモンド-One Microsoft Way-Microsoft Gaming/Xbox",
-        "geocode_query": "One Microsoft Way Redmond Washington United States Microsoft Gaming Xbox",
+        "geocode_query": "One Microsoft Way Redmond WA Microsoft Xbox headquarters",
         "place_type": "platform_company_site",
         "location_precision": "exact_site",
-        "place_reason": "Xbox価格・独占方針・スタジオ再編・幹部交代などMicrosoft Gaming/Xboxの企業主体記事をRedmond campusに置く。rankingで未定義precisionにならないよう、campus_address相当をexact_siteに正規化する（一致語: Microsoft significantly increases Xbox prices worldwide）",
+        "place_reason": "Xbox corporate pricing, exclusivity, and executive-change articles anchored to Microsoft Redmond. Multi-studio closure watch terms are not used as triggers.（一致語: Microsoft significantly increases Xbox prices worldwide）",
         "confidence": 0.82,
         "rule_id": "observed_xbox_corporate_pricing_and_studio_changes_202606",
         "matched_text": "Microsoft significantly increases Xbox prices worldwide",
@@ -817,10 +1021,10 @@
         "representative_place": "Microsoft / One Microsoft Way Redmond campus",
         "place_label": "米国-ワシントン州-レドモンド-One Microsoft Way-Microsoft Gaming/Xbox",
         "sort_place_label": "米国-ワシントン州-レドモンド-One Microsoft Way-Microsoft Gaming/Xbox",
-        "geocode_query": "One Microsoft Way Redmond Washington United States Microsoft Gaming Xbox",
+        "geocode_query": "One Microsoft Way Redmond WA Microsoft Xbox headquarters",
         "place_type": "platform_company_site",
         "location_precision": "exact_site",
-        "place_reason": "Xbox価格・独占方針・スタジオ再編・幹部交代などMicrosoft Gaming/Xboxの企業主体記事をRedmond campusに置く。rankingで未定義precisionにならないよう、campus_address相当をexact_siteに正規化する（一致語: Microsoft raises price of Xbox consoles）",
+        "place_reason": "Xbox corporate pricing, exclusivity, and executive-change articles anchored to Microsoft Redmond. Multi-studio closure watch terms are not used as triggers.（一致語: Microsoft raises price of Xbox consoles）",
         "confidence": 0.82,
         "rule_id": "observed_xbox_corporate_pricing_and_studio_changes_202606",
         "matched_text": "Microsoft raises price of Xbox consoles",
@@ -832,8 +1036,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          28.9784,
-          41.0082
+          28.9869,
+          41.0609
         ]
       },
       "properties": {
@@ -841,14 +1045,14 @@
         "source": "Game World Observer",
         "link": "https://gameworldobserver.com/2026/06/25/wn-istanbul26-took-place-in-turkey-we-share-the-results",
         "published_at": "2026-06-25T14:41:38+00:00",
-        "representative_place": "WN Istanbul 2026 / event area",
-        "place_label": "トルコ-イスタンブール-WN Istanbul会場周辺",
-        "sort_place_label": "トルコ-イスタンブール-WN Istanbul会場周辺",
-        "geocode_query": "WN Istanbul 2026 venue Istanbul Turkey",
+        "representative_place": "WN Istanbul 2026 / Radisson Blu Hotel, Istanbul Sisli",
+        "place_label": "トルコ-イスタンブール-Şişli-Radisson Blu Hotel Istanbul Sisli-WN Istanbul 2026",
+        "sort_place_label": "トルコ-イスタンブール-Şişli-Radisson Blu Hotel Istanbul Sisli-WN Istanbul 2026",
+        "geocode_query": "Radisson Blu Hotel Istanbul Sisli 19 Mayıs Caddesi No:2 34360 Sisli Istanbul Türkiye",
         "place_type": "event_site",
         "location_precision": "event_site",
-        "place_reason": "WN Istanbul ’26の開催・プログラム・告知記事をイスタンブールのイベント会場周辺として扱う。event_areaはスコア表に未定義なのでevent_siteに正規化する（一致語: WN Istanbul’26）",
-        "confidence": 0.72,
+        "place_reason": "WN Istanbul 2026 articles anchored to the official event venue, Radisson Blu Hotel, Istanbul Sisli. City or event-area fallback is not used.（一致語: WN Istanbul’26）",
+        "confidence": 0.86,
         "rule_id": "observed_wn_istanbul_2026",
         "matched_text": "WN Istanbul’26",
         "match_source": "known_place_title"
@@ -871,13 +1075,13 @@
         "representative_place": "The Pokémon Company / Roppongi Hills Mori Tower 8F",
         "place_label": "日本-東京都-港区-六本木-六本木ヒルズ森タワー8F-The Pokémon Company",
         "sort_place_label": "日本-東京都-港区-六本木-六本木ヒルズ森タワー8F-The Pokémon Company",
-        "geocode_query": "Roppongi Hills Mori Tower Tokyo The Pokemon Company",
+        "geocode_query": "東京都港区六本木6丁目10-1 六本木ヒルズ森タワー8F The Pokémon Company",
         "place_type": "company_site",
         "location_precision": "building",
-        "place_reason": "The Pokémon Company主体の記事を六本木ヒルズ森タワーに置く。building_floorはスコア表に未定義なので、ranking上はbuildingに正規化する（一致語: Pokémon Champions）",
+        "place_reason": "Pokemon Champions mobile revenue article anchored to The Pokemon Company office. The standalone Pokemon Champions title is not used as a trigger.（一致語: Pokémon Champions makes $3.5m in first week on mobile）",
         "confidence": 0.84,
         "rule_id": "observed_pokemon_champions_mobile_tokyo_202606",
-        "matched_text": "Pokémon Champions",
+        "matched_text": "Pokémon Champions makes $3.5m in first week on mobile",
         "match_source": "known_place_title"
       }
     },
@@ -925,10 +1129,10 @@
         "representative_place": "34BigThings / Via Gian Domenico Cassini 39 Turin",
         "place_label": "イタリア-ピエモンテ州-トリノ-Via Gian Domenico Cassini 39-34BigThings",
         "sort_place_label": "イタリア-ピエモンテ州-トリノ-Via Gian Domenico Cassini 39-34BigThings",
-        "geocode_query": "Via Gian Domenico Cassini 39 10129 Torino Italy 34BigThings",
+        "geocode_query": "Via Gian Domenico Cassini 39 10129 Torino 34BigThings",
         "place_type": "studio_site",
         "location_precision": "exact_site",
-        "place_reason": "34BigThings公式サイトの住所欄およびフッターでVia Gian Domenico Cassini 39, 10129 Torino, Italyが確認できるため、34BigThings主体の記事を同住所に置く（一致語: 34BigThings regains independence）",
+        "place_reason": "34BigThings articles anchored to the Turin studio address. Generic Turin or Ubisoft closure terms are not used as triggers.（一致語: 34BigThings regains independence）",
         "confidence": 0.88,
         "rule_id": "observed_34bigthings_italy_202606",
         "matched_text": "34BigThings regains independence",
@@ -979,10 +1183,10 @@
         "representative_place": "Microsoft / One Microsoft Way Redmond campus",
         "place_label": "米国-ワシントン州-レドモンド-One Microsoft Way-Microsoft Gaming/Xbox",
         "sort_place_label": "米国-ワシントン州-レドモンド-One Microsoft Way-Microsoft Gaming/Xbox",
-        "geocode_query": "One Microsoft Way Redmond Washington United States Microsoft Gaming Xbox",
+        "geocode_query": "One Microsoft Way Redmond WA Microsoft Xbox headquarters",
         "place_type": "platform_company_site",
         "location_precision": "exact_site",
-        "place_reason": "Xbox価格・独占方針・スタジオ再編・幹部交代などMicrosoft Gaming/Xboxの企業主体記事をRedmond campusに置く。rankingで未定義precisionにならないよう、campus_address相当をexact_siteに正規化する（一致語: Xbox's latest exclusivity pivot）",
+        "place_reason": "Xbox corporate pricing, exclusivity, and executive-change articles anchored to Microsoft Redmond. Multi-studio closure watch terms are not used as triggers.（一致語: Xbox's latest exclusivity pivot）",
         "confidence": 0.82,
         "rule_id": "observed_xbox_corporate_pricing_and_studio_changes_202606",
         "matched_text": "Xbox's latest exclusivity pivot",
@@ -1171,10 +1375,10 @@
         "geocode_query": "ul. Jagiellońska 74 building E 03-301 Warszawa CD PROJEKT",
         "place_type": "company_site",
         "location_precision": "building",
-        "place_reason": "CD Projekt主体の記事なので、CD PROJEKT公式Contactに記載の ul. Jagiellońska 74, building E に置く（一致語: CD Projekt joint-CEO）",
+        "place_reason": "CD PROJEKT corporate report, rebrand, executive, and valuation articles anchored to the official company address. The standalone CD Projekt term is not used as a trigger.（一致語: CD Projekt joint-CEO says）",
         "confidence": 0.84,
         "rule_id": "observed_cd_projekt_warsaw_specific_202607",
-        "matched_text": "CD Projekt joint-CEO",
+        "matched_text": "CD Projekt joint-CEO says",
         "match_source": "known_place_title"
       }
     },
@@ -1195,13 +1399,13 @@
         "representative_place": "European Commission / Berlaymont Brussels",
         "place_label": "ベルギー-ブリュッセル-ベルレモン-European Commission",
         "sort_place_label": "ベルギー-ブリュッセル-ベルレモン-European Commission",
-        "geocode_query": "Berlaymont European Commission Brussels Belgium",
+        "geocode_query": "Berlaymont Brussels European Commission",
         "place_type": "regulatory_agency_site",
         "location_precision": "building",
-        "place_reason": "European Commissionのゲーム関連対応記事を欧州委員会のブリュッセル拠点に置く（一致語: European Commission）",
+        "place_reason": "European Commission game end-of-life article anchored to Berlaymont. The standalone European Commission term is not used as a trigger.（一致語: European Commission aims to facilitate code of conduct）",
         "confidence": 0.78,
         "rule_id": "observed_european_commission_games_brussels_202607",
-        "matched_text": "European Commission",
+        "matched_text": "European Commission aims to facilitate code of conduct",
         "match_source": "known_place_title"
       }
     },
@@ -1222,13 +1426,13 @@
         "representative_place": "株式会社アトラス / 住友不動産大崎ガーデンタワー12階",
         "place_label": "日本-東京都-品川区-西品川-住友不動産大崎ガーデンタワー-株式会社アトラス",
         "sort_place_label": "日本-東京都-品川区-西品川-住友不動産大崎ガーデンタワー-株式会社アトラス",
-        "geocode_query": "東京都品川区西品川1丁目1番1号 住友不動産大崎ガーデンタワー 12階 株式会社アトラス",
+        "geocode_query": "東京都品川区西品川1-1-1 住友不動産大崎ガーデンタワー12階 株式会社アトラス",
         "place_type": "studio_company_site",
         "location_precision": "building",
-        "place_reason": "Persona 4 Revival / Atlus主体の記事なので、東京都city粒度ではなくアトラス本店所在地に置く（一致語: Persona 4 Revival）",
+        "place_reason": "Persona 4 Revival article anchored to the Atlus Osaki office. The standalone Persona 4 Revival title is not used as a trigger.（一致語: Persona 4 Revival: What You Need To Know About The Upcoming Remake）",
         "confidence": 0.9,
         "rule_id": "observed_atlus_persona4_revival_osaki_202606",
-        "matched_text": "Persona 4 Revival",
+        "matched_text": "Persona 4 Revival: What You Need To Know About The Upcoming Remake",
         "match_source": "known_place_title"
       }
     },
@@ -1249,13 +1453,13 @@
         "representative_place": "Cygames / 住友不動産渋谷ガーデンタワー15階",
         "place_label": "日本-東京都-渋谷区-南平台町-住友不動産渋谷ガーデンタワー-Cygames",
         "sort_place_label": "日本-東京都-渋谷区-南平台町-住友不動産渋谷ガーデンタワー-Cygames",
-        "geocode_query": "東京都渋谷区南平台町16番17号 住友不動産渋谷ガーデンタワー15階 Cygames",
+        "geocode_query": "東京都渋谷区南平台町16-17 住友不動産渋谷ガーデンタワー15階 Cygames",
         "place_type": "studio_company_site",
         "location_precision": "building",
-        "place_reason": "Umamusume主体の記事を、別イベントfallbackではなく開発・運営元Cygamesの本社所在地に置く（一致語: Cygames）",
+        "place_reason": "Cygames game articles anchored to the Shibuya Garden Tower office. The standalone Cygames term is not used as a trigger.（一致語: Granblue Fantasy Relink: Endless Ragnarok Hands-On Preview）",
         "confidence": 0.88,
         "rule_id": "observed_umamusume_cygames_shibuya_202606",
-        "matched_text": "Cygames",
+        "matched_text": "Granblue Fantasy Relink: Endless Ragnarok Hands-On Preview",
         "match_source": "known_place_title"
       }
     },
@@ -1296,33 +1500,6 @@
         ]
       },
       "properties": {
-        "title": "Report: Xbox intends to close several studios at once",
-        "source": "Game World Observer",
-        "link": "https://gameworldobserver.com/2026/06/16/report-xbox-intends-to-close-several-studios-at-once",
-        "published_at": "2026-06-16T06:07:36+00:00",
-        "representative_place": "Microsoft / One Microsoft Way Redmond campus",
-        "place_label": "米国-ワシントン州-レドモンド-One Microsoft Way-Microsoft Gaming/Xbox",
-        "sort_place_label": "米国-ワシントン州-レドモンド-One Microsoft Way-Microsoft Gaming/Xbox",
-        "geocode_query": "One Microsoft Way Redmond Washington United States Microsoft Gaming Xbox",
-        "place_type": "platform_company_site",
-        "location_precision": "exact_site",
-        "place_reason": "Xbox価格・独占方針・スタジオ再編・幹部交代などMicrosoft Gaming/Xboxの企業主体記事をRedmond campusに置く。rankingで未定義precisionにならないよう、campus_address相当をexact_siteに正規化する（一致語: Xbox intends to close several studios）",
-        "confidence": 0.82,
-        "rule_id": "observed_xbox_corporate_pricing_and_studio_changes_202606",
-        "matched_text": "Xbox intends to close several studios",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.1297,
-          47.6401
-        ]
-      },
-      "properties": {
         "title": "Xbox Game Studios boss Craig Duncan and Chief of Staff Louise O'Connor step down",
         "source": "GamesIndustry.biz Latest Articles Feed",
         "link": "https://www.gamesindustry.biz/xbox-game-studios-boss-craig-duncan-and-chief-of-staff-louise-oconnor-step-down",
@@ -1330,10 +1507,10 @@
         "representative_place": "Microsoft / One Microsoft Way Redmond campus",
         "place_label": "米国-ワシントン州-レドモンド-One Microsoft Way-Microsoft Gaming/Xbox",
         "sort_place_label": "米国-ワシントン州-レドモンド-One Microsoft Way-Microsoft Gaming/Xbox",
-        "geocode_query": "One Microsoft Way Redmond Washington United States Microsoft Gaming Xbox",
+        "geocode_query": "One Microsoft Way Redmond WA Microsoft Xbox headquarters",
         "place_type": "platform_company_site",
         "location_precision": "exact_site",
-        "place_reason": "Xbox価格・独占方針・スタジオ再編・幹部交代などMicrosoft Gaming/Xboxの企業主体記事をRedmond campusに置く。rankingで未定義precisionにならないよう、campus_address相当をexact_siteに正規化する（一致語: Xbox Game Studios boss Craig Duncan）",
+        "place_reason": "Xbox corporate pricing, exclusivity, and executive-change articles anchored to Microsoft Redmond. Multi-studio closure watch terms are not used as triggers.（一致語: Xbox Game Studios boss Craig Duncan）",
         "confidence": 0.82,
         "rule_id": "observed_xbox_corporate_pricing_and_studio_changes_202606",
         "matched_text": "Xbox Game Studios boss Craig Duncan",
@@ -1384,10 +1561,10 @@
         "representative_place": "Microsoft / One Microsoft Way Redmond campus",
         "place_label": "米国-ワシントン州-レドモンド-One Microsoft Way-Microsoft Gaming/Xbox",
         "sort_place_label": "米国-ワシントン州-レドモンド-One Microsoft Way-Microsoft Gaming/Xbox",
-        "geocode_query": "One Microsoft Way Redmond Washington United States Microsoft Gaming Xbox",
+        "geocode_query": "One Microsoft Way Redmond WA Microsoft Xbox headquarters",
         "place_type": "platform_company_site",
         "location_precision": "exact_site",
-        "place_reason": "Xbox価格・独占方針・スタジオ再編・幹部交代などMicrosoft Gaming/Xboxの企業主体記事をRedmond campusに置く。rankingで未定義precisionにならないよう、campus_address相当をexact_siteに正規化する",
+        "place_reason": "Xbox corporate pricing, exclusivity, and executive-change articles anchored to Microsoft Redmond. Multi-studio closure watch terms are not used as triggers.",
         "confidence": 0.82,
         "rule_id": "observed_xbox_corporate_pricing_and_studio_changes_202606",
         "matched_text": "Asha Sharma's first 100 days as Xbox CEO",
@@ -1453,33 +1630,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.6629,
-          45.057
-        ]
-      },
-      "properties": {
-        "title": "Ubisoft closing studios in Winnipeg and Belgrade and cutting publishing roles worldwide, 380 jobs at risk",
-        "source": "GamesIndustry.biz Latest Articles Feed",
-        "link": "https://www.gamesindustry.biz/ubisoft-closing-studios-in-winnipeg-and-belgrade-and-cutting-publishing-roles-worldwide-380-jobs-at-risk",
-        "published_at": "2026-06-10T17:00:00+00:00",
-        "representative_place": "34BigThings / Via Gian Domenico Cassini 39 Turin",
-        "place_label": "イタリア-ピエモンテ州-トリノ-Via Gian Domenico Cassini 39-34BigThings",
-        "sort_place_label": "イタリア-ピエモンテ州-トリノ-Via Gian Domenico Cassini 39-34BigThings",
-        "geocode_query": "Via Gian Domenico Cassini 39 10129 Torino Italy 34BigThings",
-        "place_type": "studio_site",
-        "location_precision": "exact_site",
-        "place_reason": "34BigThings公式サイトの住所欄およびフッターでVia Gian Domenico Cassini 39, 10129 Torino, Italyが確認できるため、34BigThings主体の記事を同住所に置く",
-        "confidence": 0.88,
-        "rule_id": "observed_34bigthings_italy_202606",
-        "matched_text": "Turin",
-        "match_source": "rule"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -118.34,
           34.1028
         ]
@@ -1534,8 +1684,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          28.9784,
-          41.0082
+          28.9869,
+          41.0609
         ]
       },
       "properties": {
@@ -1543,14 +1693,14 @@
         "source": "Game World Observer",
         "link": "https://gameworldobserver.com/2026/06/04/the-wn-istanbul26-program-has-been-announced-among-the-participants-are-rovio-epic-games-store-rollic-games-playside-studios-and-many-others",
         "published_at": "2026-06-04T12:57:49+00:00",
-        "representative_place": "WN Istanbul 2026 / event area",
-        "place_label": "トルコ-イスタンブール-WN Istanbul会場周辺",
-        "sort_place_label": "トルコ-イスタンブール-WN Istanbul会場周辺",
-        "geocode_query": "WN Istanbul 2026 venue Istanbul Turkey",
+        "representative_place": "WN Istanbul 2026 / Radisson Blu Hotel, Istanbul Sisli",
+        "place_label": "トルコ-イスタンブール-Şişli-Radisson Blu Hotel Istanbul Sisli-WN Istanbul 2026",
+        "sort_place_label": "トルコ-イスタンブール-Şişli-Radisson Blu Hotel Istanbul Sisli-WN Istanbul 2026",
+        "geocode_query": "Radisson Blu Hotel Istanbul Sisli 19 Mayıs Caddesi No:2 34360 Sisli Istanbul Türkiye",
         "place_type": "event_site",
         "location_precision": "event_site",
-        "place_reason": "WN Istanbul ’26の開催・プログラム・告知記事をイスタンブールのイベント会場周辺として扱う。event_areaはスコア表に未定義なのでevent_siteに正規化する（一致語: WN Istanbul’26）",
-        "confidence": 0.72,
+        "place_reason": "WN Istanbul 2026 articles anchored to the official event venue, Radisson Blu Hotel, Istanbul Sisli. City or event-area fallback is not used.（一致語: WN Istanbul’26）",
+        "confidence": 0.86,
         "rule_id": "observed_wn_istanbul_2026",
         "matched_text": "WN Istanbul’26",
         "match_source": "known_place_title"
@@ -1561,8 +1711,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          33.0226,
-          34.7071
+          33.167,
+          34.7135
         ]
       },
       "properties": {
@@ -1570,14 +1720,14 @@
         "source": "Game World Observer",
         "link": "https://gameworldobserver.com/2026/06/03/the-wn-growth-summit-took-place-in-limassol-here-are-the-highlights",
         "published_at": "2026-06-03T10:12:30+00:00",
-        "representative_place": "WN Growth Summit Limassol / event area",
-        "place_label": "キプロス-リマソール-WN Growth Summit",
-        "sort_place_label": "キプロス-リマソール-WN Growth Summit",
-        "geocode_query": "WN Growth Summit Limassol Cyprus venue",
+        "representative_place": "WN Growth Summit Limassol 2026 / Parklane Resort",
+        "place_label": "キプロス-リマソール-Parklane a Luxury Collection Resort & Spa-WN Growth Summit Limassol 2026",
+        "sort_place_label": "キプロス-リマソール-Parklane a Luxury Collection Resort & Spa-WN Growth Summit Limassol 2026",
+        "geocode_query": "Parklane a Luxury Collection Resort & Spa Limassol Giannou Kranidioti 11 Street 4534 Cyprus",
         "place_type": "event_site",
         "location_precision": "event_site",
-        "place_reason": "WN Growth Summitの開催・プログラム・告知記事をリマソールのイベント会場周辺として扱う。event_areaはスコア表に未定義なのでevent_siteに正規化する（一致語: The WN Growth Summit took place in Limassol）",
-        "confidence": 0.72,
+        "place_reason": "WN Growth Summit Limassol 2026 articles anchored to the official event venue, Parklane resort. City or event-area fallback is not used.（一致語: The WN Growth Summit took place in Limassol）",
+        "confidence": 0.84,
         "rule_id": "observed_wn_growth_summit_limassol_2026",
         "matched_text": "The WN Growth Summit took place in Limassol",
         "match_source": "known_place_title"
@@ -1642,33 +1792,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          33.0226,
-          34.7071
-        ]
-      },
-      "properties": {
-        "title": "The program for the WN Growth Summit has been published — the event will discuss what can drive sales growth in the modern gaming industry",
-        "source": "Game World Observer",
-        "link": "https://gameworldobserver.com/2026/05/15/the-program-for-the-wn-growth-summit-has-been-published-the-event-will-discuss-what-can-drive-sales-growth-in-the-modern-gaming-industry",
-        "published_at": "2026-05-15T13:51:02+00:00",
-        "representative_place": "WN Growth Summit Limassol / event area",
-        "place_label": "キプロス-リマソール-WN Growth Summit",
-        "sort_place_label": "キプロス-リマソール-WN Growth Summit",
-        "geocode_query": "WN Growth Summit Limassol Cyprus venue",
-        "place_type": "event_site",
-        "location_precision": "event_site",
-        "place_reason": "WN Growth Summitの開催・プログラム・告知記事をリマソールのイベント会場周辺として扱う。event_areaはスコア表に未定義なのでevent_siteに正規化する（一致語: The program for the WN Growth Summit）",
-        "confidence": 0.72,
-        "rule_id": "observed_wn_growth_summit_limassol_2026",
-        "matched_text": "The program for the WN Growth Summit",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           139.7279,
           35.6179
         ]
@@ -1723,8 +1846,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          28.9784,
-          41.0082
+          28.9869,
+          41.0609
         ]
       },
       "properties": {
@@ -1732,43 +1855,16 @@
         "source": "Game World Observer",
         "link": "https://gameworldobserver.com/2026/05/13/wn-istanbul-26-is-happening-very-soon-june-18-19",
         "published_at": "2026-05-13T11:01:59+00:00",
-        "representative_place": "WN Istanbul 2026 / event area",
-        "place_label": "トルコ-イスタンブール-WN Istanbul会場周辺",
-        "sort_place_label": "トルコ-イスタンブール-WN Istanbul会場周辺",
-        "geocode_query": "WN Istanbul 2026 venue Istanbul Turkey",
+        "representative_place": "WN Istanbul 2026 / Radisson Blu Hotel, Istanbul Sisli",
+        "place_label": "トルコ-イスタンブール-Şişli-Radisson Blu Hotel Istanbul Sisli-WN Istanbul 2026",
+        "sort_place_label": "トルコ-イスタンブール-Şişli-Radisson Blu Hotel Istanbul Sisli-WN Istanbul 2026",
+        "geocode_query": "Radisson Blu Hotel Istanbul Sisli 19 Mayıs Caddesi No:2 34360 Sisli Istanbul Türkiye",
         "place_type": "event_site",
         "location_precision": "event_site",
-        "place_reason": "WN Istanbul ’26の開催・プログラム・告知記事をイスタンブールのイベント会場周辺として扱う。event_areaはスコア表に未定義なのでevent_siteに正規化する（一致語: WN Istanbul ’26）",
-        "confidence": 0.72,
+        "place_reason": "WN Istanbul 2026 articles anchored to the official event venue, Radisson Blu Hotel, Istanbul Sisli. City or event-area fallback is not used.（一致語: WN Istanbul ’26）",
+        "confidence": 0.86,
         "rule_id": "observed_wn_istanbul_2026",
         "matched_text": "WN Istanbul ’26",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          33.0226,
-          34.7071
-        ]
-      },
-      "properties": {
-        "title": "The WN Growth Summit will take place on May 28 in Limassol. Its key theme is how the gaming business can achieve growth",
-        "source": "Game World Observer",
-        "link": "https://gameworldobserver.com/2026/05/05/the-wn-growth-summit-will-take-place-on-may-28-in-limassol-its-key-theme-is-how-the-gaming-business-can-achieve-growth",
-        "published_at": "2026-05-05T17:13:37+00:00",
-        "representative_place": "WN Growth Summit Limassol / event area",
-        "place_label": "キプロス-リマソール-WN Growth Summit",
-        "sort_place_label": "キプロス-リマソール-WN Growth Summit",
-        "geocode_query": "WN Growth Summit Limassol Cyprus venue",
-        "place_type": "event_site",
-        "location_precision": "event_site",
-        "place_reason": "WN Growth Summitの開催・プログラム・告知記事をリマソールのイベント会場周辺として扱う。event_areaはスコア表に未定義なのでevent_siteに正規化する（一致語: will take place on May 28 in Limassol）",
-        "confidence": 0.72,
-        "rule_id": "observed_wn_growth_summit_limassol_2026",
-        "matched_text": "will take place on May 28 in Limassol",
         "match_source": "known_place_title"
       }
     },
@@ -1792,10 +1888,10 @@
         "geocode_query": "ul. Jagiellońska 74 building E 03-301 Warszawa CD PROJEKT",
         "place_type": "company_site",
         "location_precision": "building",
-        "place_reason": "CD Projekt主体の記事なので、CD PROJEKT公式Contactに記載の ul. Jagiellońska 74, building E に置く（一致語: CD Projekt）",
+        "place_reason": "CD PROJEKT corporate report, rebrand, executive, and valuation articles anchored to the official company address. The standalone CD Projekt term is not used as a trigger.（一致語: The second-best year in CD PROJEKT’s history）",
         "confidence": 0.84,
         "rule_id": "observed_cd_projekt_warsaw_specific_202607",
-        "matched_text": "CD Projekt",
+        "matched_text": "The second-best year in CD PROJEKT’s history",
         "match_source": "known_place_title"
       }
     },
@@ -1873,38 +1969,11 @@
         "geocode_query": "Floresco Saint-Mandé Ubisoft headquarters France",
         "place_type": "company_site",
         "location_precision": "building",
-        "place_reason": "Ubisoft四半期レポート記事を、Saint-MandéのUbisoft本社建物文脈に置く。Ubisoft単独語やAssassin’s Creed単独語は使わない（一致語: Ubisoft Report: Rise in PC Sales）",
+        "place_reason": "Ubisoft report article anchored to the Saint-Mandé headquarters. Generic quarter terms and third-quarter phrases are not used as triggers.（一致語: Ubisoft Report: Rise in PC Sales）",
         "confidence": 0.78,
         "rule_id": "observed_ubisoft_saint_mande_report_202602",
         "matched_text": "Ubisoft Report: Rise in PC Sales",
         "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.417,
-          48.8422
-        ]
-      },
-      "properties": {
-        "title": "Embracer Group’s quarterly revenue fell by 26%, but the holding company remains satisfied",
-        "source": "Game World Observer",
-        "link": "https://gameworldobserver.com/2026/02/12/embracer-groups-quarterly-revenue-fell-by-26-but-the-holding-company-remains-satisfied",
-        "published_at": "2026-02-12T08:18:42+00:00",
-        "representative_place": "Ubisoft / Saint-Mandé headquarters",
-        "place_label": "フランス-Saint-Mandé-Floresco-Ubisoft",
-        "sort_place_label": "フランス-Saint-Mandé-Floresco-Ubisoft",
-        "geocode_query": "Floresco Saint-Mandé Ubisoft headquarters France",
-        "place_type": "company_site",
-        "location_precision": "building",
-        "place_reason": "Ubisoft四半期レポート記事を、Saint-MandéのUbisoft本社建物文脈に置く。Ubisoft単独語やAssassin’s Creed単独語は使わない",
-        "confidence": 0.78,
-        "rule_id": "observed_ubisoft_saint_mande_report_202602",
-        "matched_text": "third quarter",
-        "match_source": "rule"
       }
     },
     {
@@ -2101,33 +2170,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          21.0186,
-          52.2695
-        ]
-      },
-      "properties": {
-        "title": "中世舞台の4XストラテジーRPG新作『Liegecraft』発表！CD PROJEKT RED、Paradox、11 bit出身者からなる新興スタジオ開発 - Game*Spark",
-        "source": "Game*Spark",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9qajladGxGTl9Ja2dQbGNJanJualRCUHpIR3RCQ1VPQzM3cm1ad1NEUUdIUkdidjl2OE9jd2FZWFZZWGFjRi1rMzdVc29Lci02N2toblFPeGhXa0lnQXVNVF9FY0lMdw?oc=5",
-        "published_at": "2024-10-25T07:00:00+00:00",
-        "representative_place": "CD PROJEKT S.A. / ul. Jagiellońska 74 building E",
-        "place_label": "ポーランド-ワルシャワ-ul. Jagiellońska 74 building E-CD PROJEKT",
-        "sort_place_label": "ポーランド-ワルシャワ-ul. Jagiellońska 74 building E-CD PROJEKT",
-        "geocode_query": "ul. Jagiellońska 74 building E 03-301 Warszawa CD PROJEKT",
-        "place_type": "company_site",
-        "location_precision": "building",
-        "place_reason": "CD Projekt主体の記事なので、CD PROJEKT公式Contactに記載の ul. Jagiellońska 74, building E に置く（一致語: CD Projekt）",
-        "confidence": 0.84,
-        "rule_id": "observed_cd_projekt_warsaw_specific_202607",
-        "matched_text": "CD Projekt",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           139.6132,
           35.4655
         ]
@@ -2140,13 +2182,13 @@
         "representative_place": "TOPANGA / ウィザードビル402",
         "place_label": "日本-神奈川県-横浜市-西区-浅間町-TOPANGA",
         "sort_place_label": "日本-神奈川県-横浜市-西区-浅間町-TOPANGA",
-        "geocode_query": "神奈川県横浜市西区浅間町1丁目4番3号 ウィザードビル402 TOPANGA",
+        "geocode_query": "神奈川県横浜市西区浅間町1-4-3 ウィザードビル402 TOPANGA",
         "place_type": "esports_company_site",
         "location_precision": "exact_site",
-        "place_reason": "TOPANGA/VARREL主体の記事をTOPANGA所在地に置く（一致語: TOPANGA）",
+        "place_reason": "TOPANGA/VARREL integration article anchored to the TOPANGA site. The standalone TOPANGA term is not used as a trigger.（一致語: TOPANGAはVARRELとの経営統合）",
         "confidence": 0.86,
         "rule_id": "observed_topanga_varrel_yokohama_202606",
-        "matched_text": "TOPANGA",
+        "matched_text": "TOPANGAはVARRELとの経営統合",
         "match_source": "known_place_title"
       }
     },
@@ -2170,10 +2212,10 @@
         "geocode_query": "ul. Jagiellońska 74 building E 03-301 Warszawa CD PROJEKT",
         "place_type": "company_site",
         "location_precision": "building",
-        "place_reason": "CD Projekt主体の記事なので、CD PROJEKT公式Contactに記載の ul. Jagiellońska 74, building E に置く（一致語: CD Projekt）",
+        "place_reason": "CD PROJEKT corporate report, rebrand, executive, and valuation articles anchored to the official company address. The standalone CD Projekt term is not used as a trigger.（一致語: Poland’s CD Projekt beats out Ubisoft）",
         "confidence": 0.84,
         "rule_id": "observed_cd_projekt_warsaw_specific_202607",
-        "matched_text": "CD Projekt",
+        "matched_text": "Poland’s CD Projekt beats out Ubisoft",
         "match_source": "known_place_title"
       }
     }
