@@ -1,8 +1,8 @@
 {
   "type": "FeatureCollection",
   "properties": {
-    "created_at": "2026-07-03T00:13:19.840573+00:00",
-    "count": 1,
+    "created_at": "2026-07-03T00:30:38.068212+00:00",
+    "count": 0,
     "stats": {
       "feed_id": "google-news-disaster-ja",
       "feed_label": "Google News: 災害・地震・大雨",
@@ -10,12 +10,12 @@
         "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja"
       ],
       "rss_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja",
-      "fetched": 75,
+      "fetched": 73,
       "fetched_by_url": {
-        "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja": 75
+        "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja": 73
       },
-      "filtered": 66,
-      "resolved": 1,
+      "filtered": 65,
+      "resolved": 0,
       "unresolved": 65,
       "rules": 354,
       "known_places": 510,
@@ -396,33 +396,5 @@
       "exclude_keywords": []
     }
   },
-  "features": [
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.5023,
-          34.6937
-        ]
-      },
-      "properties": {
-        "title": "過去30年、大雨シーズン（6月～9月）に降水量が多い西日本エリア。6月「震災対策技術展」大阪でハザードマップ入手、台風・ゲリラ豪雨対策セミナーを聴講し、梅雨・大型台風シーズンに備えましょう！ - PR TIMES",
-        "source": "PR TIMES",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE01S2xneXVYb0xKYThybURxVEVjakN0MEctbWxTNWpwTnYzLTFsWXlNTUlpamNoQWw2MEZhdkVfeVBDenNlTDZaQU1kWlVSRlByVkxDWkRLVnVWdEhqN21xbDV6WWR3VG4tX2c?oc=5",
-        "published_at": "2022-05-10T07:00:00+00:00",
-        "representative_place": "LEVEL5 comcept / Osaka development base topic",
-        "place_label": "日本-大阪府-大阪市-LEVEL5 comcept",
-        "sort_place_label": "日本-大阪府-大阪市-LEVEL5 comcept",
-        "geocode_query": "Osaka Japan LEVEL5 comcept development base",
-        "place_type": "studio_site",
-        "location_precision": "city",
-        "place_reason": "LEVEL5 comceptを大阪に設立した記事なので大阪市に置く。番地は固定せずcityに止める（一致語: 大阪）",
-        "confidence": 0.78,
-        "rule_id": "observed_level5_comcept_osaka_studio_201706",
-        "matched_text": "大阪",
-        "match_source": "known_place_title"
-      }
-    }
-  ]
+  "features": []
 }
