@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "created_at": "2026-07-03T00:30:38.068212+00:00",
+  "created_at": "2026-07-04T05:20:43.145628+00:00",
   "stats": {
     "feed_id": "google-news-disaster-ja",
     "feed_label": "Google News: 災害・地震・大雨",
@@ -8,15 +8,15 @@
       "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja"
     ],
     "rss_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja",
-    "fetched": 73,
+    "fetched": 72,
     "fetched_by_url": {
-      "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja": 73
+      "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja": 72
     },
     "filtered": 65,
-    "resolved": 0,
-    "unresolved": 65,
-    "rules": 354,
-    "known_places": 510,
+    "resolved": 1,
+    "unresolved": 64,
+    "rules": 353,
+    "known_places": 634,
     "loaded_data_files": [
       "data/place_rules.json",
       "data/unresolved_known_places.json",
@@ -381,7 +381,135 @@
       "data/unresolved_known_places_690.json",
       "data/unresolved_known_places_691.json",
       "data/unresolved_known_places_692.json",
-      "data/unresolved_known_places_693.json"
+      "data/unresolved_known_places_693.json",
+      "data/unresolved_known_places_694.json",
+      "data/unresolved_known_places_695.json",
+      "data/unresolved_known_places_696.json",
+      "data/unresolved_known_places_697.json",
+      "data/unresolved_known_places_698.json",
+      "data/unresolved_known_places_699.json",
+      "data/unresolved_known_places_700.json",
+      "data/unresolved_known_places_701.json",
+      "data/unresolved_known_places_702.json",
+      "data/unresolved_known_places_703.json",
+      "data/unresolved_known_places_704.json",
+      "data/unresolved_known_places_705.json",
+      "data/unresolved_known_places_706.json",
+      "data/unresolved_known_places_707.json",
+      "data/unresolved_known_places_708.json",
+      "data/unresolved_known_places_709.json",
+      "data/unresolved_known_places_710.json",
+      "data/unresolved_known_places_711.json",
+      "data/unresolved_known_places_712.json",
+      "data/unresolved_known_places_713.json",
+      "data/unresolved_known_places_714.json",
+      "data/unresolved_known_places_715.json",
+      "data/unresolved_known_places_716.json",
+      "data/unresolved_known_places_717.json",
+      "data/unresolved_known_places_718.json",
+      "data/unresolved_known_places_719.json",
+      "data/unresolved_known_places_720.json",
+      "data/unresolved_known_places_721.json",
+      "data/unresolved_known_places_722.json",
+      "data/unresolved_known_places_723.json",
+      "data/unresolved_known_places_724.json",
+      "data/unresolved_known_places_725.json",
+      "data/unresolved_known_places_726.json",
+      "data/unresolved_known_places_727.json",
+      "data/unresolved_known_places_728.json",
+      "data/unresolved_known_places_729.json",
+      "data/unresolved_known_places_730.json",
+      "data/unresolved_known_places_731.json",
+      "data/unresolved_known_places_732.json",
+      "data/unresolved_known_places_733.json",
+      "data/unresolved_known_places_734.json",
+      "data/unresolved_known_places_735.json",
+      "data/unresolved_known_places_736.json",
+      "data/unresolved_known_places_737.json",
+      "data/unresolved_known_places_738.json",
+      "data/unresolved_known_places_739.json",
+      "data/unresolved_known_places_740.json",
+      "data/unresolved_known_places_741.json",
+      "data/unresolved_known_places_742.json",
+      "data/unresolved_known_places_743.json",
+      "data/unresolved_known_places_744.json",
+      "data/unresolved_known_places_745.json",
+      "data/unresolved_known_places_746.json",
+      "data/unresolved_known_places_747.json",
+      "data/unresolved_known_places_748.json",
+      "data/unresolved_known_places_749.json",
+      "data/unresolved_known_places_750.json",
+      "data/unresolved_known_places_751.json",
+      "data/unresolved_known_places_752.json",
+      "data/unresolved_known_places_753.json",
+      "data/unresolved_known_places_754.json",
+      "data/unresolved_known_places_755.json",
+      "data/unresolved_known_places_756.json",
+      "data/unresolved_known_places_757.json",
+      "data/unresolved_known_places_758.json",
+      "data/unresolved_known_places_759.json",
+      "data/unresolved_known_places_760.json",
+      "data/unresolved_known_places_761.json",
+      "data/unresolved_known_places_762.json",
+      "data/unresolved_known_places_763.json",
+      "data/unresolved_known_places_764.json",
+      "data/unresolved_known_places_765.json",
+      "data/unresolved_known_places_766.json",
+      "data/unresolved_known_places_767.json",
+      "data/unresolved_known_places_768.json",
+      "data/unresolved_known_places_769.json",
+      "data/unresolved_known_places_770.json",
+      "data/unresolved_known_places_771.json",
+      "data/unresolved_known_places_772.json",
+      "data/unresolved_known_places_773.json",
+      "data/unresolved_known_places_774.json",
+      "data/unresolved_known_places_775.json",
+      "data/unresolved_known_places_776.json",
+      "data/unresolved_known_places_777.json",
+      "data/unresolved_known_places_778.json",
+      "data/unresolved_known_places_779.json",
+      "data/unresolved_known_places_780.json",
+      "data/unresolved_known_places_781.json",
+      "data/unresolved_known_places_782.json",
+      "data/unresolved_known_places_783.json",
+      "data/unresolved_known_places_784.json",
+      "data/unresolved_known_places_785.json",
+      "data/unresolved_known_places_786.json",
+      "data/unresolved_known_places_787.json",
+      "data/unresolved_known_places_788.json",
+      "data/unresolved_known_places_789.json",
+      "data/unresolved_known_places_790.json",
+      "data/unresolved_known_places_791.json",
+      "data/unresolved_known_places_792.json",
+      "data/unresolved_known_places_793.json",
+      "data/unresolved_known_places_794.json",
+      "data/unresolved_known_places_795.json",
+      "data/unresolved_known_places_796.json",
+      "data/unresolved_known_places_797.json",
+      "data/unresolved_known_places_798.json",
+      "data/unresolved_known_places_799.json",
+      "data/unresolved_known_places_800.json",
+      "data/unresolved_known_places_801.json",
+      "data/unresolved_known_places_802.json",
+      "data/unresolved_known_places_803.json",
+      "data/unresolved_known_places_804.json",
+      "data/unresolved_known_places_805.json",
+      "data/unresolved_known_places_806.json",
+      "data/unresolved_known_places_807.json",
+      "data/unresolved_known_places_808.json",
+      "data/unresolved_known_places_809.json",
+      "data/unresolved_known_places_810.json",
+      "data/unresolved_known_places_811.json",
+      "data/unresolved_known_places_812.json",
+      "data/unresolved_known_places_813.json",
+      "data/unresolved_known_places_814.json",
+      "data/unresolved_known_places_815.json",
+      "data/unresolved_known_places_816.json",
+      "data/unresolved_known_places_817.json",
+      "data/unresolved_known_places_818.json",
+      "data/unresolved_known_places_819.json",
+      "data/unresolved_known_places_820.json",
+      "data/unresolved_known_places_821.json"
     ],
     "topic_keywords": [
       "災害",
@@ -395,19 +523,27 @@
   },
   "unresolved": [
     {
-      "title": "豪雨、地震、噴火…複合災害、いつでも起きる 「ダブル台風」後も異常気象リスク - 中日新聞Web",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5kM29OZEdYWktQbWhBakJnNU9DcWxYdGNncGZIaXY3VEhkcklrVmhtMjd4Q3NNdjZPa19YeEpNYWhFZjFmeV9LeW1YQkFKUUtHOHF3eA?oc=5",
-      "source": "中日新聞Web",
-      "published_at": "2026-07-02T07:00:00+00:00",
-      "summary": "豪雨、地震、噴火…複合災害、いつでも起きる 「ダブル台風」後も異常気象リスク    中日新聞Web",
-      "feed_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja"
-    },
-    {
       "title": "「災害大国・日本」W台風と前線による大雨、さらに震度6強・6弱の地震も相次ぐ… - 文化放送",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBHQU5DQk43RS1KSERURXlCQVh2ZUtjYkpiVFNZb0t5ODBHZWxwNklxS19tZGRkZXNKYmhPU05QODZieTBfZDlHUm1kVVFWVkhJcW90azBB?oc=5",
       "source": "文化放送",
-      "published_at": "2026-06-28T08:42:11+00:00",
+      "published_at": "2026-07-03T02:44:17+00:00",
       "summary": "「災害大国・日本」W台風と前線による大雨、さらに震度6強・6弱の地震も相次ぐ…    文化放送",
+      "feed_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "title": "恐ろしい「複合災害」を考える 「スーパーエルニーニョ」で危険度増大？ ダブル台風＆地震に見舞われて - 東京新聞デジタル",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5oT2l5MVo5WDdQT05KVVdYZERQdjVYTFdvSzNCUmV4VlV5MEdzTFR1NW1QR3g2QjRqV1NURFN3cTJmejFNUXBtTVFBaElQelZGeDRj?oc=5",
+      "source": "東京新聞デジタル",
+      "published_at": "2026-06-29T21:00:00+00:00",
+      "summary": "恐ろしい「複合災害」を考える 「スーパーエルニーニョ」で危険度増大？ ダブル台風＆地震に見舞われて    東京新聞デジタル",
+      "feed_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "title": "【台風情報】台風7号　次第に山梨県から遠ざかる　警報級の大雨の可能性は低く　地震で地盤が緩んでいる所があり、土砂災害に注意　甲府地方気象台が発表 - ｄメニューニュース",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9JT2dlY1lYM0dvTGlTdms3TFpmRWRfNVJLSWRTVGI4eUxSZ1NqRjloZFRWbF9aX1V1TFFOTFlqZEhYZGV1QThqRDNfX3BBS3Q1ZGNKemFjZFJRR3FmY3NFTm1TcFVCY0dxV3Z5WC11QdIBdEFVX3lxTE42YUhoVVU2NmpnckZUbExXZm5xTHhTUVVpcmlYOWJBM1pxUV9NN3hUSDZYVnBWN1hrRlFZcW05YVpDdlZtYmtHcGRGSEx4MU1Xck94YmtORDdNTWxLclU2ZU40Q3lTalBuNHhMV1c3Tm1FcmtW?oc=5",
+      "source": "ｄメニューニュース",
+      "published_at": "2026-06-27T09:28:52+00:00",
+      "summary": "【台風情報】台風7号　次第に山梨県から遠ざかる　警報級の大雨の可能性は低く　地震で地盤が緩んでいる所があり、土砂災害に注意　甲府地方気象台が発表    ｄメニューニュース",
       "feed_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
@@ -443,11 +579,27 @@
       "feed_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
-      "title": "【台風情報】台風７号が接近　土砂災害などに厳重に警戒　これまでの大雨や昨夜の地震で通常よりも少ない雨量でも土砂災害の危険度が高まるおそれ　【進路予想・雨と風のシミュレーション】 - ｄメニューニュース",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1GM0w0YzVjU1J2ekZaekExMGdRVUMtdk96ejQtYXEzWGJuNFVHMXpTWjhIZVV2SEs0NmZkMXpGOGZxbjJJZ0ZtclQxN0szRFU1TWdZTlZPYkVHQnNSQTZDQ095azdiR2d5SmFEVGw2QdIBdEFVX3lxTFBmdDlqT3c5SXctZ3lTbmFLRVpVd2JSVEpXOWQ1REg4QXhLb2YyZUNodzIybjl4SzJpRXM0dXQ2eXhtWU9FWTRNWDcxcmVTTExCSUFra2NlMWFxUnRyVkhMcGJadXBXWkxrRV9OQXhCRDJPUUtU?oc=5",
-      "source": "ｄメニューニュース",
+      "title": "【台風情報】台風７号が接近 土砂災害などに厳重に警戒 これまでの大雨や昨夜の地震で通常よりも少ない雨量でも土砂災害の危険度が高まるおそれ 【進路予想・雨と風のシミュレーション】 - TBS NEWS DIG",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1PdWR1SGRtaVBjLVd2U2VHSjNIQkdPR05YLURsZ2xLU2RyRjRZLUFXQndYb2o2Ym1SanZJNzk0QVpnZmYtSzN0aGpiak9zZXJEUXVuWUstNA?oc=5",
+      "source": "TBS NEWS DIG",
       "published_at": "2026-06-27T02:28:00+00:00",
-      "summary": "【台風情報】台風７号が接近　土砂災害などに厳重に警戒　これまでの大雨や昨夜の地震で通常よりも少ない雨量でも土砂災害の危険度が高まるおそれ　【進路予想・雨と風のシミュレーション】    ｄメニューニュース",
+      "summary": "【台風情報】台風７号が接近 土砂災害などに厳重に警戒 これまでの大雨や昨夜の地震で通常よりも少ない雨量でも土砂災害の危険度が高まるおそれ 【進路予想・雨と風のシミュレーション】    TBS NEWS DIG",
+      "feed_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "title": "【台風情報】台風７号が接近 土砂災害などに厳重に警戒 これまでの大雨や昨夜の地震で通常よりも少ない雨量でも土砂災害の危険度が高まるおそれ 【進路予想・雨と風のシミュレーション】 | 山梨のニュース | ＵＴＹテレビ山梨 (1ページ) - TBS NEWS DIG",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1sMkp1aE9JX2FaZ0hrTFpnSkZmX2k1OU0zRVp6U0toOHZWSVdlRXpLZFNJUTZlMzlTdVlhdDl3eUpxVW95aEk2YWdLMjgxeVNlSkZoOEdDbHQwRHlwaE5XT1lSXzM4QzQ?oc=5",
+      "source": "TBS NEWS DIG",
+      "published_at": "2026-06-27T02:28:00+00:00",
+      "summary": "【台風情報】台風７号が接近 土砂災害などに厳重に警戒 これまでの大雨や昨夜の地震で通常よりも少ない雨量でも土砂災害の危険度が高まるおそれ 【進路予想・雨と風のシミュレーション】 | 山梨のニュース | ＵＴＹテレビ山梨 (1ページ)    TBS NEWS DIG",
+      "feed_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "title": "強い揺れの静岡・関東甲信 27日にダブル台風が接近 土砂災害に厳重警戒を（松浦悠真） - エキスパート - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSGo0bHNnU2R0eWtpSk9ZVW04eExKc3hzNGRCZVlZdGdYLXp5NTdnUDdpR0NlSzhCT1d4bzRwV21JWjVZTUJZdFV1a0ZNS25hX2xia3RENjdoTU13bS11TTFrLVVMZmVfbUxDSnROOUF2MXNnbHJFUnZjaWF0WGdJMllhTnBGd3hN?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-06-26T14:46:00+00:00",
+      "summary": "強い揺れの静岡・関東甲信 27日にダブル台風が接近 土砂災害に厳重警戒を（松浦悠真） - エキスパート    Yahoo!ニュース",
       "feed_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
@@ -486,7 +638,7 @@
       "title": "九州で大雨 2つの台風が日本の南を北上中 土砂災害などに厳重警戒（2026年6月24日掲載）｜日テレNEWS NNN - 日テレNEWS NNN",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1zVjNubFlpU0pvVzhJOWprQ0s1TnB0UFQ1c0dCaHlfNlB1YmRXeHJYOG5QSlA3ODFjME1oUi1DWnpZZmIwWHJvTTYwdW5Gc1JXRURwaUp6WTU1NUthZ3hJQ053anRNZ3RhUUtvU1V3VklSd3VTX1h2cXFyR0w?oc=5",
       "source": "日テレNEWS NNN",
-      "published_at": "2026-06-25T02:48:01+00:00",
+      "published_at": "2026-06-24T07:00:00+00:00",
       "summary": "九州で大雨 2つの台風が日本の南を北上中 土砂災害などに厳重警戒（2026年6月24日掲載）｜日テレNEWS NNN    日テレNEWS NNN",
       "feed_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja"
     },
@@ -494,7 +646,7 @@
       "title": "【天気】九州で線状降水帯発生のおそれ 大雨災害に厳重な警戒を 台風7号は週末にかけて日本列島に - 日テレNEWS NNN",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5rT25QYjR5LUMxVVZ4SnEydFNwOEJRZjBOZGlDVHg3MG1MOW9leWJyVEFydzlfLVRFMEFjWk5ieHQxZFgwc09LdmVHdXZKc1NtazVWU0NuZFhYaGtFZlhQWXUzUXVvSno5bkw3cFkxajZ5RVExaDlNTjhzNXM?oc=5",
       "source": "日テレNEWS NNN",
-      "published_at": "2026-06-24T22:07:01+00:00",
+      "published_at": "2026-06-24T07:00:00+00:00",
       "summary": "【天気】九州で線状降水帯発生のおそれ 大雨災害に厳重な警戒を 台風7号は週末にかけて日本列島に    日テレNEWS NNN",
       "feed_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja"
     },
@@ -520,14 +672,6 @@
       "source": "日テレNEWS NNN",
       "published_at": "2026-06-23T07:00:00+00:00",
       "summary": "九州で線状降水帯が発生のおそれ 大雨による災害発生のおそれ ふたつの台風、週末にかけ日本列島へ近づく見込み    日テレNEWS NNN",
-      "feed_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja"
-    },
-    {
-      "title": "災害対策用の特殊車両 操作訓練 大雨や台風シーズンにあわせ（2026年6月9日掲載）｜日テレNEWS NNN - 日テレNEWS NNN",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE80ZmtDZTlYc01RTlN6OUFOWU1KMkRkYVZ1UE1hVk1veTYtVGRkTzBpRjdYTGJCMHdsV0QwLUpXOWxYU3lINVhodEtqYndlR3FxM1JSOTdyRk1Vc1kyem9VMHlGWERwMFlRaEJQTzFUZEl4OFZoUDN3LVV6WUZVXzA?oc=5",
-      "source": "日テレNEWS NNN",
-      "published_at": "2026-06-09T07:00:00+00:00",
-      "summary": "災害対策用の特殊車両 操作訓練 大雨や台風シーズンにあわせ（2026年6月9日掲載）｜日テレNEWS NNN    日テレNEWS NNN",
       "feed_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
@@ -568,14 +712,6 @@
       "source": "ウェザーニュース",
       "published_at": "2025-12-31T08:00:00+00:00",
       "summary": "【2025年 気象・地震7大ニュース】災害の振り返りと未来への備え    ウェザーニュース",
-      "feed_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja"
-    },
-    {
-      "title": "【イラスト解説】台風・大雨、いつ避難すればいい？ 警戒レベル別の対応 - 朝日新聞",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4zR0NROXdWa3U5aHJGSEZhZzgtdEprUWh2R2J0OE0zRFhkaEVVQ3BNZTRqQlllWXJ0eGlTVWFOMEhodnNEZjdrMVhhYUN1RDliRU9ieGhHOC1kNXdXOWhRb20zWkx0UTg?oc=5",
-      "source": "朝日新聞",
-      "published_at": "2025-11-25T08:00:00+00:00",
-      "summary": "【イラスト解説】台風・大雨、いつ避難すればいい？ 警戒レベル別の対応    朝日新聞",
       "feed_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
@@ -627,14 +763,6 @@
       "feed_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
-      "title": "大雨時の避難方法と注意点！ 警戒レベル別の対応 - 読売新聞",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE04d0FCaUdsZnVONnZvX1RCNHUyNmZCT0NSUjlkS2RMY0QzaGc4TXJwMDBwM2NwWG14V2dRRlB5WjdVZnczNjIzSTlTY3lKVldLTDhGcDVQT2ROT2xPY2ppMGZR?oc=5",
-      "source": "読売新聞",
-      "published_at": "2025-08-27T07:00:00+00:00",
-      "summary": "大雨時の避難方法と注意点！ 警戒レベル別の対応    読売新聞",
-      "feed_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja"
-    },
-    {
       "title": "大雨、台風、地震、、、最も影響を受けるのは鶏 - 認定NPO法人アニマルライツセンター",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbngzVWNlSVR4WGJxc25JOU04b1R4bEswdFJHN1B1blVpanJzQzNvNm9YQ2VtNDVGYTBYUmY5Q0NlN3Fuem5NQ240eC1OeW9faUVTRFRiOGI5bEVkZ2RWOFNPOU1WenNwNWJ0ME1vN2dZUzBpbW5ZeG1zMm5uWGhxZkZmR3pweldFYWVyNG5DV3dCRE4yU2dNV3UwVkxMeF9YUV81R2cyNnVzSVhYN0ZxdEN3?oc=5",
       "source": "認定NPO法人アニマルライツセンター",
@@ -656,6 +784,14 @@
       "source": "読売新聞",
       "published_at": "2025-01-29T08:00:00+00:00",
       "summary": "【データで見る能登の復興②】住まい編…地震と大雨で約10万棟の家屋が被害    読売新聞",
+      "feed_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "title": "【2025中学受験の時事】能登半島地震、台風や豪雨の災害（解説動画付き） - 朝日新聞",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5pNDNOYW9pUW5RYjEtTG53bk5CSVFISG1pczJlNklHeFpfRGJQc1hlcnV0S2c4MEk0NWVzdWRyYjV4T3U5QWZiT1FlR2lLWF83QTFuM1hiZ0gtVkwweHJwNHJDQ0FJbHdI?oc=5",
+      "source": "朝日新聞",
+      "published_at": "2024-12-20T08:00:00+00:00",
+      "summary": "【2025中学受験の時事】能登半島地震、台風や豪雨の災害（解説動画付き）    朝日新聞",
       "feed_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
@@ -699,6 +835,14 @@
       "feed_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
+      "title": "土砂崩れ・土砂災害の種類と対策についてわかりやすく解説 - 読売新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE94c2k4R2hDX1BId0pqajQ4YWdrdjAxOFJNZE1sVHc1MEl0UVJkSHh0d2k0a3UxOUVuLU16R2ZfTG9TdzRKbnFlVC1UNTFFcDhaRnR6VDlSajFvY3dST1RZQnE5ektXemNSN3FkWg?oc=5",
+      "source": "読売新聞",
+      "published_at": "2024-04-24T07:00:00+00:00",
+      "summary": "土砂崩れ・土砂災害の種類と対策についてわかりやすく解説    読売新聞",
+      "feed_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
       "title": "2023年に発生した主な自然災害をまとめたインフォグラフィックを公開 加入している火災保険の補償内容を確認し自然災害への対策を - PR TIMES",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9rLVg1c1g5eGJPYlF6LUxxLVJWQWpibHFVNjRSdktSY3VFclQtV2hQV3lHa2llMWpON2FtT29yR21RbURVNzBXc3lScUZvcWFCQnBfbG5zcTRaOEpxZllDbzg5OWFfQW9FRGc?oc=5",
       "source": "PR TIMES",
@@ -715,19 +859,11 @@
       "feed_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
-      "title": "秋台風には5つの降水パターンがある！特徴的な秋台風の雨に備えるポイント - 読売新聞",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9QQ25YNS1SXzhDR2FvT3JKQUtlRmI4QkVjVmpNTnhjRU5XTENuYjlWSjh1WUZ2VHQzREU2djdHRGtlbk5EUjJwbEFVdlBIOUplREo4QmUycV9nT3dYYXRNejBn?oc=5",
-      "source": "読売新聞",
-      "published_at": "2023-09-13T07:00:00+00:00",
-      "summary": "秋台風には5つの降水パターンがある！特徴的な秋台風の雨に備えるポイント    読売新聞",
-      "feed_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja"
-    },
-    {
-      "title": "大地震、津波、台風、ゲリラ豪雨、落雷、大雪…。いざという時に命を守る車の防災|特集 - jafmate.jp",
+      "title": "大地震、津波、台風、ゲリラ豪雨、落雷、大雪…。いざという時に命を守る車の防災|特集 - JAF Mate Online",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1nRnEwSDU5TEdNYjRTYWVicFREVW1JR1F1aWdXQ211bUpTajVMRWxfTGhfajZJRGdGdlJfWjB5cEpELWJCSjZBMDVxMFEwWk0zdVlCWA?oc=5",
-      "source": "jafmate.jp",
+      "source": "JAF Mate Online",
       "published_at": "2023-09-01T07:00:00+00:00",
-      "summary": "大地震、津波、台風、ゲリラ豪雨、落雷、大雪…。いざという時に命を守る車の防災|特集    jafmate.jp",
+      "summary": "大地震、津波、台風、ゲリラ豪雨、落雷、大雪…。いざという時に命を守る車の防災|特集    JAF Mate Online",
       "feed_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
@@ -776,14 +912,6 @@
       "source": "読売新聞",
       "published_at": "2022-10-07T07:00:00+00:00",
       "summary": "雨への備え。見るべき雨量の指標と大雨警報などの注意点    読売新聞",
-      "feed_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja"
-    },
-    {
-      "title": "増加する「都市型災害」！豪雨による浸水・内水氾濫に注意 - 読売新聞",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9NR3NTWDhvYXVjb0plV1dGLXR3NW1IQTBDTHo2OXlaMHRVcWtyeVJNQW1QMlBlRVV2MjRfRmlrOTJXcWJfbEZvVUt2aC1uLTd6VnFWUFgxbVlWQnQ3NlllUA?oc=5",
-      "source": "読売新聞",
-      "published_at": "2022-09-14T07:00:00+00:00",
-      "summary": "増加する「都市型災害」！豪雨による浸水・内水氾濫に注意    読売新聞",
       "feed_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
@@ -859,14 +987,6 @@
       "feed_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
-      "title": "水害・土砂災害から家族を守る！ - 読売新聞",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE03ZDgweGlQZmVCVzhmV2c4X2lpNWI3QlVENUJGeVM4aldXRGM3SWN1S3FoZF8xRkkyemFibUozUWNLQXY2YmN1QlVWaEtpMGJ5U2FlWk5ZRGVINWpXcEw4?oc=5",
-      "source": "読売新聞",
-      "published_at": "2020-08-17T07:00:00+00:00",
-      "summary": "水害・土砂災害から家族を守る！    読売新聞",
-      "feed_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja"
-    },
-    {
       "title": "大雨や台風の特別警報が発表された…。あなたが取るべき行動は？ ー防災行動ガイド - ソフトバンク",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE55bWE3Y2ZFYUMzaHEyUzY0UndTendoZlMyTnE3ZU9qeDFDOXJnUS03TE9PWmlGdy11dTFBLTRxcVd0X2M2VklGdHNFZlotUFExeUoyRkdEUUVPeThB?oc=5",
       "source": "ソフトバンク",
@@ -880,6 +1000,14 @@
       "source": "読売新聞",
       "published_at": "2019-09-25T07:00:00+00:00",
       "summary": "大雨、台風…相次ぐ災害 「車いす」「聴覚、視覚障害」自力で避難できない人をどう助ければいい？    読売新聞",
+      "feed_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "title": "【解説】災害時の災害・避難情報を届ける「緊急速報メール」の裏側。今、何が起きているか知るために - ソフトバンク",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1Lb0l4WU9mdHpNcnJ4QVJrcnE0NU1INi1GYUJzbk9Yd2VjZ2JhWUdjbFlER2h3NkowajNDOWgxU1lTRjZmVE9kWmFLV2VWZDFBQnhOX21Kd3FScmFY?oc=5",
+      "source": "ソフトバンク",
+      "published_at": "2019-04-12T07:00:00+00:00",
+      "summary": "【解説】災害時の災害・避難情報を届ける「緊急速報メール」の裏側。今、何が起きているか知るために    ソフトバンク",
       "feed_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
@@ -904,14 +1032,6 @@
       "source": "pref.hiroshima.lg.jp",
       "published_at": "2011-12-01T08:00:00+00:00",
       "summary": "平成２３年度の大雨，台風，地震等による被害等の状況について - 防災・災害情報    pref.hiroshima.lg.jp",
-      "feed_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja"
-    },
-    {
-      "title": "(2)地震、台風、集中豪雨等の頻発 - mlit.go.jp",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE80ZVBlME5mNjktX2ZIQzEwdGU1Mk1Fb2wzY0htMEZqREVHeU1IQ1V0aHp4a3BLSlJHQTRaYXR2aEluUER4UjRPbEtGN0JESTNQWU1KS3Q1cmtBZ0V4NjlZTGY3eDlVWFdTbFRsc01VZW9pLWdZSElsUzhB?oc=5",
-      "source": "mlit.go.jp",
-      "published_at": "2007-07-21T03:03:00+00:00",
-      "summary": "(2)地震、台風、集中豪雨等の頻発    mlit.go.jp",
       "feed_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja"
     }
   ]
