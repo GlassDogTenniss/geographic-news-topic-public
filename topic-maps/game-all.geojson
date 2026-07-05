@@ -1,8 +1,8 @@
 {
   "type": "FeatureCollection",
   "properties": {
-    "created_at": "2026-07-05T17:31:36.882112+00:00",
-    "count": 745,
+    "created_at": "2026-07-05T23:10:48.238288+00:00",
+    "count": 747,
     "stats": {
       "feed_id": "game-all",
       "feed_label": "ゲーム",
@@ -41,20 +41,20 @@
         "https://www.kakuchopurei.com/feed/": 10,
         "https://www.afkgaming.com/feed": 0,
         "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20India&hl=en-IN&gl=IN&ceid=IN:en": 80,
-        "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Philippines&hl=en-PH&gl=PH&ceid=PH:en": 77,
-        "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Eastern%20Europe&hl=en&gl=PL&ceid=PL:en": 78,
+        "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Philippines&hl=en-PH&gl=PH&ceid=PH:en": 78,
+        "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Eastern%20Europe&hl=en&gl=PL&ceid=PL:en": 77,
         "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Africa&hl=en&gl=ZA&ceid=ZA:en": 79,
         "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Southeast%20Asia&hl=en-SG&gl=SG&ceid=SG:en": 78,
-        "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA&hl=ja&gl=JP&ceid=JP:ja": 72,
+        "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA&hl=ja&gl=JP&ceid=JP:ja": 73,
         "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja": 79,
         "https://news.google.com/rss/search?q=%E6%B5%B7%E5%A4%96%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA&hl=ja&gl=JP&ceid=JP:ja": 78,
         "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja": 77
       },
       "filtered": 909,
-      "resolved": 745,
-      "unresolved": 164,
+      "resolved": 747,
+      "unresolved": 162,
       "rules": 355,
-      "known_places": 839,
+      "known_places": 874,
       "loaded_data_files": [
         "data/place_rules.json",
         "data/unresolved_known_places.json",
@@ -786,7 +786,57 @@
         "data/unresolved_known_places_1059.json",
         "data/unresolved_known_places_1060.json",
         "data/unresolved_known_places_1061.json",
-        "data/unresolved_known_places_1062.json"
+        "data/unresolved_known_places_1062.json",
+        "data/unresolved_known_places_1063.json",
+        "data/unresolved_known_places_1064.json",
+        "data/unresolved_known_places_1065.json",
+        "data/unresolved_known_places_1066.json",
+        "data/unresolved_known_places_1067.json",
+        "data/unresolved_known_places_1068.json",
+        "data/unresolved_known_places_1069.json",
+        "data/unresolved_known_places_1070.json",
+        "data/unresolved_known_places_1071.json",
+        "data/unresolved_known_places_1072.json",
+        "data/unresolved_known_places_1073.json",
+        "data/unresolved_known_places_1074.json",
+        "data/unresolved_known_places_1075.json",
+        "data/unresolved_known_places_1076.json",
+        "data/unresolved_known_places_1077.json",
+        "data/unresolved_known_places_1078.json",
+        "data/unresolved_known_places_1079.json",
+        "data/unresolved_known_places_1080.json",
+        "data/unresolved_known_places_1081.json",
+        "data/unresolved_known_places_1082.json",
+        "data/unresolved_known_places_1083.json",
+        "data/unresolved_known_places_1084.json",
+        "data/unresolved_known_places_1085.json",
+        "data/unresolved_known_places_1086.json",
+        "data/unresolved_known_places_1087.json",
+        "data/unresolved_known_places_1088.json",
+        "data/unresolved_known_places_1089.json",
+        "data/unresolved_known_places_1090.json",
+        "data/unresolved_known_places_1091.json",
+        "data/unresolved_known_places_1092.json",
+        "data/unresolved_known_places_1093.json",
+        "data/unresolved_known_places_1094.json",
+        "data/unresolved_known_places_1095.json",
+        "data/unresolved_known_places_1096.json",
+        "data/unresolved_known_places_1097.json",
+        "data/unresolved_known_places_1098.json",
+        "data/unresolved_known_places_1099.json",
+        "data/unresolved_known_places_1100.json",
+        "data/unresolved_known_places_1101.json",
+        "data/unresolved_known_places_1102.json",
+        "data/unresolved_known_places_1103.json",
+        "data/unresolved_known_places_1104.json",
+        "data/unresolved_known_places_1105.json",
+        "data/unresolved_known_places_1106.json",
+        "data/unresolved_known_places_1107.json",
+        "data/unresolved_known_places_1108.json",
+        "data/unresolved_known_places_1109.json",
+        "data/unresolved_known_places_1110.json",
+        "data/unresolved_known_places_1111.json",
+        "data/unresolved_known_places_1112.json"
       ],
       "topic_keywords": [
         "game",
@@ -972,6 +1022,33 @@
         "confidence": 0.78,
         "rule_id": "observed_18bravo_los_angeles_202607",
         "matched_text": "New studio //18.bravo is aiming for a \"radically different approach\" to game development",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7516,
+          35.6581
+        ]
+      },
+      "properties": {
+        "title": "hololive Dreamsの配信日と事前登録情報 - GameWith",
+        "source": "GameWith",
+        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5PTnk2S2hadnJQeFJlRFJjNkctX0ZPQ1RGdVpheTFjbkF4SU9GeVVvcGFjdWx0Z3dod3ZQaS1kTl84X3l1aWtN?oc=5",
+        "published_at": "2026-07-03T13:19:03+00:00",
+        "representative_place": "Bandai Namco Entertainment / Minato, Tokyo representative",
+        "place_label": "日本-東京都-港区-Bandai Namco Entertainment / SAO Memory Defrag",
+        "sort_place_label": "日本-東京都-港区-Bandai Namco Entertainment / SAO Memory Defrag",
+        "geocode_query": "Bandai Namco Entertainment Minato Tokyo Sword Art Online Memory Defrag",
+        "place_type": "mobile_game_publisher_district_representative_uncertain_title_team",
+        "location_precision": "district",
+        "place_reason": "The legacy active entry treated the Sword Art Online Memory Defrag preregistration item as a broad Japan mobile-game launch-market topic. Recheck confirmed the game as a Bandai Namco Entertainment mobile title, and public company context places Bandai Namco Entertainment in Minato, Tokyo after its 2016 move. This override therefore moves the article from a Japan country representative point to a Minato, Tokyo publisher-context representative point. This is not a confirmed title-team office, article venue, exact Bandai Namco Entertainment office coordinate, or media office; replace it if the article body, official game page, store page, or company profile identifies a more precise publisher/developer/operator site.（一致語: 事前登録）",
+        "confidence": 0.64,
+        "rule_id": "observed_sao_memory_defrag_bandai_namco_minato_tokyo_201801",
+        "matched_text": "事前登録",
         "match_source": "known_place_title"
       }
     },
@@ -2573,33 +2650,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.7516,
-          35.6581
-        ]
-      },
-      "properties": {
-        "title": "弱虫ペダル レゾナンス・ペダイズムの配信日と事前登録情報 - GameWith",
-        "source": "GameWith",
-        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1tMjNaMWtjZnFoTXBLNWt2WF9zZlN6ZXBqUlU1YVFkQThncFJxcEsyYndDUWhTNXdOdVo0RE9weGxIMmdnVW5v?oc=5",
-        "published_at": "2026-07-01T00:54:46+00:00",
-        "representative_place": "Bandai Namco Entertainment / Minato, Tokyo representative",
-        "place_label": "日本-東京都-港区-Bandai Namco Entertainment / SAO Memory Defrag",
-        "sort_place_label": "日本-東京都-港区-Bandai Namco Entertainment / SAO Memory Defrag",
-        "geocode_query": "Bandai Namco Entertainment Minato Tokyo Sword Art Online Memory Defrag",
-        "place_type": "mobile_game_publisher_district_representative_uncertain_title_team",
-        "location_precision": "district",
-        "place_reason": "The legacy active entry treated the Sword Art Online Memory Defrag preregistration item as a broad Japan mobile-game launch-market topic. Recheck confirmed the game as a Bandai Namco Entertainment mobile title, and public company context places Bandai Namco Entertainment in Minato, Tokyo after its 2016 move. This override therefore moves the article from a Japan country representative point to a Minato, Tokyo publisher-context representative point. This is not a confirmed title-team office, article venue, exact Bandai Namco Entertainment office coordinate, or media office; replace it if the article body, official game page, store page, or company profile identifies a more precise publisher/developer/operator site.（一致語: 事前登録）",
-        "confidence": 0.64,
-        "rule_id": "observed_sao_memory_defrag_bandai_namco_minato_tokyo_201801",
-        "matched_text": "事前登録",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           12.5801,
           55.6816
         ]
@@ -3842,60 +3892,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.4074,
-          39.9042
-        ]
-      },
-      "properties": {
-        "title": "Chinese developers gain ground in global gaming - Arab Times Kuwait News",
-        "source": "Arab Times Kuwait News",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRjFuWmxBRzJDcHdCdWNpTU9tUHcyVVBObldVNC1SWE51NnVKMEFSbUlJNWhHTFpNZ3cteHF3MURMUHJFMnFBQUd6ZW5NSURiWlducG0wYTRuMFFEQUJSLVktT2N3Zmt4SE55bThhNTNZLVUzSERLblhVME1LSlltLTZiRE1fdEp6ZXczbk9n?oc=5",
-        "published_at": "2026-06-28T17:49:13+00:00",
-        "representative_place": "Chinese games industry / Beijing representative",
-        "place_label": "中国-北京市-Chinese games industry / global appeal article",
-        "sort_place_label": "中国-北京市-Chinese games industry / global appeal article",
-        "geocode_query": "Beijing China Chinese video games industry cultural storytelling",
-        "place_type": "national_games_industry_article_representative_uncertain_specific_studio",
-        "location_precision": "city",
-        "place_reason": "Google News RSS上では、中国ゲームの技術・文化的語りによる国際的訴求、または中国開発者の国際的台頭を扱う記事。タイトル/要約から単一の開発会社、作品、イベント会場、行政機関、調査会社は確認できない。国全体の記事を中国の重心に置くよりは、国内ゲーム産業・メディア・行政文脈の代表都市としてBeijingを低confidenceで置く。本文確認でTencent/Shenzhen、miHoYo/Shanghai、NetEase/Hangzhou、ChinaJoy/Shanghai、またはXinhua等の発信主体が特定できた場合は、その具体地点へ差し替える。（一致語: Chinese developers gain ground in global gaming - Arab Times Kuwait News）",
-        "confidence": 0.38,
-        "rule_id": "observed_chinese_games_global_appeal_beijing_202606",
-        "matched_text": "Chinese developers gain ground in global gaming - Arab Times Kuwait News",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.1278,
-          51.5074
-        ]
-      },
-      "properties": {
-        "title": "『バットマン：アーカム』開発チームが新作DCマルチプレイヤーゲームを開発か？失敗を恐れず「サービス型ゲーム」に再挑戦 - 玩具人 TOY PEOPLE",
-        "source": "玩具人 TOY PEOPLE",
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9hZl9XRjZmbzNiRllqUU9pTmRia3dvVXdkUUxNSk1yU3dBc3dycGxwNnkwUVZrQnhNNkVRcnNTeVdtYXNvYk12U2NDMFNfZ0p2?oc=5",
-        "published_at": "2026-06-28T09:04:42+00:00",
-        "representative_place": "Rocksteady Studios / London studio area",
-        "place_label": "英国-イングランド-ロンドン-Rocksteady Studios周辺",
-        "sort_place_label": "英国-イングランド-ロンドン-Rocksteady Studios周辺",
-        "geocode_query": "Rocksteady Studios London United Kingdom",
-        "place_type": "studio_site",
-        "location_precision": "city",
-        "place_reason": "Rocksteady公式サイトでLondon, United Kingdom拠点までは確認できるが、公式ページ上で番地を確認できないため、Batman Arkham / DC新作文脈の記事はLondon city粒度に止める（一致語: バットマン：アーカム』開発チーム）",
-        "confidence": 0.78,
-        "rule_id": "observed_rocksteady_dc_multiplayer_london_202606",
-        "matched_text": "バットマン：アーカム』開発チーム",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           121.0244,
           14.5547
         ]
@@ -3958,7 +3954,7 @@
         "title": "長らく開発中の新作アクションADV『Star Wars Eclipse』を救うにはレイオフ中止が必要と主張。『Detroit: Become Human』開発元でストライキ実施との海外報道 - Game*Spark",
         "source": "Game*Spark",
         "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5McENmSUl1TFFWNDBmZllhelNRSm1OZkRfT21NTVFReGhJTzhrOU9XNEJFcDZodzRjSy13QlRmU1BWU1g3YmxsbHZiMFBoeTZILXAtYTZxZmJOenJmTG5mdXQ0SnJxUQ?oc=5",
-        "published_at": "2026-06-27T08:45:03+00:00",
+        "published_at": "2026-06-27T07:00:00+00:00",
         "representative_place": "Quantic Dream Paris studio context",
         "place_label": "フランス-パリ-Quantic-Dream-Star-Wars-Eclipse",
         "sort_place_label": "フランス-パリ-Quantic-Dream-Star-Wars-Eclipse",
@@ -4995,33 +4991,6 @@
         "confidence": 0.72,
         "rule_id": "observed_mobygames_atari_professional_paris_202606",
         "matched_text": "Atari and MobyGames",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.7516,
-          35.6581
-        ]
-      },
-      "properties": {
-        "title": "アストラエ・オラティオの配信日と事前登録情報 - GameWith",
-        "source": "GameWith",
-        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1ZWjlzVkpQVEdYa29Hcm9iQUwxclQzWWduNHIwbHZIeHhyTGJQYlpqNTRhaFA5cG1URjI2ZnVvbWt6WFFWbkdB?oc=5",
-        "published_at": "2026-06-24T07:00:00+00:00",
-        "representative_place": "Bandai Namco Entertainment / Minato, Tokyo representative",
-        "place_label": "日本-東京都-港区-Bandai Namco Entertainment / SAO Memory Defrag",
-        "sort_place_label": "日本-東京都-港区-Bandai Namco Entertainment / SAO Memory Defrag",
-        "geocode_query": "Bandai Namco Entertainment Minato Tokyo Sword Art Online Memory Defrag",
-        "place_type": "mobile_game_publisher_district_representative_uncertain_title_team",
-        "location_precision": "district",
-        "place_reason": "The legacy active entry treated the Sword Art Online Memory Defrag preregistration item as a broad Japan mobile-game launch-market topic. Recheck confirmed the game as a Bandai Namco Entertainment mobile title, and public company context places Bandai Namco Entertainment in Minato, Tokyo after its 2016 move. This override therefore moves the article from a Japan country representative point to a Minato, Tokyo publisher-context representative point. This is not a confirmed title-team office, article venue, exact Bandai Namco Entertainment office coordinate, or media office; replace it if the article body, official game page, store page, or company profile identifies a more precise publisher/developer/operator site.（一致語: 事前登録）",
-        "confidence": 0.64,
-        "rule_id": "observed_sao_memory_defrag_bandai_namco_minato_tokyo_201801",
-        "matched_text": "事前登録",
         "match_source": "known_place_title"
       }
     },
@@ -6628,9 +6597,9 @@
         ]
       },
       "properties": {
-        "title": "海外大手クラファンサイトに掲載の新作ゲーム、未発表作の「盗難データ」だった―ハイクオリティな美少女レース『Project GT』、「本物」の開発元が注意喚起へ - Game*Spark",
-        "source": "Game*Spark",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE03MWJhRnRocENHQ1R0Skw3VmpfbDVFUWNaeEUxTDB0c2dFRnVKZXllck8zbXpTM2FramhTbzFKY1FieHAtX1FLWFRBUGZxbFNYbDJJdE90QjdKLWJua25haTk1V0xCdw?oc=5",
+        "title": "『Project GT』クラファンは“詐欺”、本物の開発元が声明発表―素材は関連会社から流出したもの、Kickstarterでは約1ヶ月間掲載 - インサイド",
+        "source": "インサイド",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1tVmZJQjRWM0U2amlhd1J3WFZna2tkb0VBR2hqd29EWm1OSEFCMHo4MWdER0oxeGNQdkgwdHBCeVJrU3U3NDdEU0xnNnBIcF95dVpRNmhOZnJhZndVeXNRQnlyMG4tcm1GcEE?oc=5",
         "published_at": "2026-06-15T07:00:00+00:00",
         "representative_place": "Kickstarter / Brooklyn platform context",
         "place_label": "米国-ニューヨーク州-ニューヨーク市-ブルックリン-Kickstarter / Project GT campaign context",
@@ -6638,10 +6607,10 @@
         "geocode_query": "Kickstarter headquarters Brooklyn New York Project GT campaign",
         "place_type": "crowdfunding_platform_incident_representative_uncertain_developer",
         "location_precision": "city_district",
-        "place_reason": "RSSタイトル上では、未発表作『Project GT』の素材が流出し、Kickstarter上で約1か月掲載されたクラウドファンディング案件であることまでは確認できる。一方で、タイトル/要約だけでは本物の開発元の社名・所在地を確定できない。現時点では事件が発生した制度的/プラットフォーム上の場所としてKickstarterのBrooklyn文脈に置き、真の開発元が本文確認で確定したら差し替える。（一致語: 海外大手クラファンサイトに掲載の新作ゲーム、未発表作の「盗難データ」だった―ハイクオリティな美少女レース『Project GT』、「本物」の開発元が注意喚起へ - Game*Spark）",
+        "place_reason": "RSSタイトル上では、未発表作『Project GT』の素材が流出し、Kickstarter上で約1か月掲載されたクラウドファンディング案件であることまでは確認できる。一方で、タイトル/要約だけでは本物の開発元の社名・所在地を確定できない。現時点では事件が発生した制度的/プラットフォーム上の場所としてKickstarterのBrooklyn文脈に置き、真の開発元が本文確認で確定したら差し替える。（一致語: 『Project GT』クラファンは“詐欺”、本物の開発元が声明発表―素材は関連会社から流出したもの、Kickstarterでは約1ヶ月間掲載 - インサイド）",
         "confidence": 0.45,
         "rule_id": "observed_project_gt_kickstarter_brooklyn_platform_context_202606",
-        "matched_text": "海外大手クラファンサイトに掲載の新作ゲーム、未発表作の「盗難データ」だった―ハイクオリティな美少女レース『Project GT』、「本物」の開発元が注意喚起へ - Game*Spark",
+        "matched_text": "『Project GT』クラファンは“詐欺”、本物の開発元が声明発表―素材は関連会社から流出したもの、Kickstarterでは約1ヶ月間掲載 - インサイド",
         "match_source": "known_place_title"
       }
     },
@@ -6669,6 +6638,33 @@
         "confidence": 0.64,
         "rule_id": "observed_sao_memory_defrag_bandai_namco_minato_tokyo_201801",
         "matched_text": "事前登録",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9442,
+          40.6782
+        ]
+      },
+      "properties": {
+        "title": "海外大手クラファンサイトに掲載の新作ゲーム、未発表作の「盗難データ」だった―ハイクオリティな美少女レース『Project GT』、「本物」の開発元が注意喚起へ - Game*Spark",
+        "source": "Game*Spark",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1QTlpNSnBKbEJIZFZDRVVuZGZaWkZlQVgyME5zMG40WWRFMlFTTGtzVlFORUlEbFo5NW14cXlGZ0sxZHZxb0ZEeUQ3YlkxX2d0a3ZWTW5ORVhlY0VZX2hpRVoxemNhYkZD?oc=5",
+        "published_at": "2026-06-15T07:00:00+00:00",
+        "representative_place": "Kickstarter / Brooklyn platform context",
+        "place_label": "米国-ニューヨーク州-ニューヨーク市-ブルックリン-Kickstarter / Project GT campaign context",
+        "sort_place_label": "米国-ニューヨーク州-ニューヨーク市-ブルックリン-Kickstarter / Project GT campaign context",
+        "geocode_query": "Kickstarter headquarters Brooklyn New York Project GT campaign",
+        "place_type": "crowdfunding_platform_incident_representative_uncertain_developer",
+        "location_precision": "city_district",
+        "place_reason": "RSSタイトル上では、未発表作『Project GT』の素材が流出し、Kickstarter上で約1か月掲載されたクラウドファンディング案件であることまでは確認できる。一方で、タイトル/要約だけでは本物の開発元の社名・所在地を確定できない。現時点では事件が発生した制度的/プラットフォーム上の場所としてKickstarterのBrooklyn文脈に置き、真の開発元が本文確認で確定したら差し替える。（一致語: 海外大手クラファンサイトに掲載の新作ゲーム、未発表作の「盗難データ」だった―ハイクオリティな美少女レース『Project GT』、「本物」の開発元が注意喚起へ - Game*Spark）",
+        "confidence": 0.45,
+        "rule_id": "observed_project_gt_kickstarter_brooklyn_platform_context_202606",
+        "matched_text": "海外大手クラファンサイトに掲載の新作ゲーム、未発表作の「盗難データ」だった―ハイクオリティな美少女レース『Project GT』、「本物」の開発元が注意喚起へ - Game*Spark",
         "match_source": "known_place_title"
       }
     },
@@ -8140,7 +8136,7 @@
         ]
       },
       "properties": {
-        "title": "Southeast Asian Games Showcase 2026 Returns During Summer Game Fest With No Straight Roads 2 and More - Noisy Pixel",
+        "title": "Southeast Asian Games Showcase 2026 Set For Summer Game Fest With No Straight Roads 2 - Noisy Pixel",
         "source": "Noisy Pixel",
         "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOR25oNDNYVW1uWVhzWG9MamJmd01JM1BycHJlSVhEdlh4WFV6M1QxcjJfWU9aSVd5c3JLUTRtTFhYTU8zSjBFMlVCQXE2NTZ0ZmdacVpIZUdDUmFndDFjS3JfRmRFNGtKdHFybWhjaEpaVzZTNUduQ0h6bGRHSWhmY2tB?oc=5",
         "published_at": "2026-05-14T07:00:00+00:00",
@@ -9701,6 +9697,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          139.6917,
+          35.6895
+        ]
+      },
+      "properties": {
+        "title": "新作スマホゲーム「ディシディア デュエルム ファイナルファンタジー」が配信開始！記念キャンペーンやオリジナルサウンドトラックの配信も - Saiga NAK",
+        "source": "Saiga NAK",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1kUUM0NHd0Wm9CVjJNOXYxZG83dDBhbUJZVXdmQkpZWEZycFR5bmJXek9TMEgxZG9DR29vNUw3ZDNXTW5FeGZnWVBZT1R0ZTh5d0s3ZzRhRW1PaGZPM1HSAWNBVV95cUxQbjVjZ3lOM0F0NnRmZ0phTHRVTXBJclNGYUVDdERteEkxdWVkMWVWYlpSb3Y1ZDhQSUJkVTVOa2I0cFJNUTNFOENpZktJdEtRYXdKNnlRakw1UUd4R3lyOXhVUmc?oc=5",
+        "published_at": "2026-03-24T07:00:00+00:00",
+        "representative_place": "Square Enix / NHN PlayArt / Tokyo",
+        "place_label": "日本-東京都-Square Enix / NHN PlayArt / Dissidia Duellum Final Fantasy",
+        "sort_place_label": "日本-東京都-Square Enix / NHN PlayArt / Dissidia Duellum Final Fantasy",
+        "geocode_query": "Square Enix NHN PlayArt Tokyo Japan",
+        "place_type": "mobile_game_company_site",
+        "location_precision": "city",
+        "place_reason": "Dissidia Duellum Final Fantasyの配信開始・OST配信記事なので、ニュース配信元ではなく共同開発・発行主体であるSquare Enix / NHN PlayArtの東京拠点に置く。番地までは固定しない。（一致語: ディシディア デュエルム ファイナルファンタジー）",
+        "confidence": 0.74,
+        "rule_id": "observed_dissidia_duellum_square_enix_tokyo_202603",
+        "matched_text": "ディシディア デュエルム ファイナルファンタジー",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           139.6503,
           35.6762
         ]
@@ -10273,9 +10296,9 @@
         ]
       },
       "properties": {
-        "title": "Ideas: Press start: Southeast Asia’s video games leap - The Edge Malaysia",
-        "source": "The Edge Malaysia",
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9xazdlRk1QM3VGNnBkeHRfbGRoelJxeFk3SF9sdzkwS3JhajRpTVhMTjNGWTZNWHM2ZHl5SU9qSk1MUWdlR3IwOFpjTzdnOFVX?oc=5",
+        "title": "Ideas: Press start: Southeast Asia’s video games leap - KLSE Screener",
+        "source": "KLSE Screener",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPai1iZURaQUgtY0p1RWNsN0ZvU1ZrUWhGSkg4R2RnYnZpcllxOW9oZ3hkcUdXZDhnQmJKTkJXVUEyYzBadWc5OHliZG51a0x2aXVBeE5KSDNOaWNPTG9uSmpDTG1UVEs0c0Jzc0pGSlFESTl2ejZUTEh1X2ZSMkNNT1lMdXRTQkt2NXJ1eU9SZmpkWDdYay1wTGoxc1NJNjhPUkRz?oc=5",
         "published_at": "2026-03-09T07:00:00+00:00",
         "representative_place": "Virtuos / Fusionopolis, Singapore",
         "place_label": "シンガポール-Fusionopolis-Virtuos",
@@ -11105,6 +11128,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          139.7288,
+          35.6197
+        ]
+      },
+      "properties": {
+        "title": "テクロノスの事前登録情報！配信日・リリース日はいつ？ - スマホゲームCH",
+        "source": "スマホゲームCH",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5GdTE3SWdPRHNOanJlZ1UxcmFDUlhwdVhTZGpzbzVWaUExTG50MTBkTDlXOUo0Z050YkoxeXVjRjFfWnB2NzRtcFVpYXBkSms?oc=5",
+        "published_at": "2026-01-15T08:00:00+00:00",
+        "representative_place": "SEGA / Osaki Garden Tower",
+        "place_label": "日本-東京都-品川区-西品川1-1-1-大崎ガーデンタワー-SEGA / Persona 5: The Phantom X broadcast",
+        "sort_place_label": "日本-東京都-品川区-西品川1-1-1-大崎ガーデンタワー-SEGA / Persona 5: The Phantom X broadcast",
+        "geocode_query": "東京都品川区西品川1-1-1 住友不動産大崎ガーデンタワー SEGA Persona 5 The Phantom X P5X通信",
+        "place_type": "mobile_game_publisher_broadcast_company_site_uncertain_title_team",
+        "location_precision": "exact_site",
+        "place_reason": "旧エントリはP5Xのリリース日発表・公式放送記事を日本country代表点に置いていた。リポジトリ内の同作後続エントリでは、SEGA公式告知文脈としてOsaki Garden TowerのSEGA本社サイトへ配置済みであり、同じP5Xの日本向け告知記事として発表主体SEGA側に寄せるのが妥当である。このため旧country代表点をSEGAの公開本社ビル代表点へ補正する。これはBlack Wings Game Studioの開発拠点、配信番組の収録場所、媒体所在地、タイトル担当部署ではない。記事本文や公式サイトで別の運営会社・担当部署・収録会場が確認された場合は差し替える。（一致語: ペルソナ５: The Phantom X / P5X通信 / SEGA）（一致語: リリース日）",
+        "confidence": 0.78,
+        "rule_id": "observed_persona_5_phantom_x_release_broadcast_japan_202505",
+        "matched_text": "リリース日",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           13.0038,
           55.605
         ]
@@ -11286,6 +11336,33 @@
         "confidence": 0.62,
         "rule_id": "observed_rockshot_valhalla_game_studios_tokyo_legacy_201805",
         "matched_text": "Steam",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7288,
+          35.6197
+        ]
+      },
+      "properties": {
+        "title": "HUNTER×HUNTER NEN×SURVIVORの事前登録情報！配信日・リリース日はいつ？ - スマホゲームCH",
+        "source": "スマホゲームCH",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5jbkNTVXRvZ3Vsc1VxdnpQS1pZUjNVWWFQeXVVWFpheUp6bzJnNFl3SnBwc1JKdHZKMmc0N2FYN2NPYzdoWnNhOTVud0tVSVU?oc=5",
+        "published_at": "2025-12-29T08:00:00+00:00",
+        "representative_place": "SEGA / Osaki Garden Tower",
+        "place_label": "日本-東京都-品川区-西品川1-1-1-大崎ガーデンタワー-SEGA / Persona 5: The Phantom X broadcast",
+        "sort_place_label": "日本-東京都-品川区-西品川1-1-1-大崎ガーデンタワー-SEGA / Persona 5: The Phantom X broadcast",
+        "geocode_query": "東京都品川区西品川1-1-1 住友不動産大崎ガーデンタワー SEGA Persona 5 The Phantom X P5X通信",
+        "place_type": "mobile_game_publisher_broadcast_company_site_uncertain_title_team",
+        "location_precision": "exact_site",
+        "place_reason": "旧エントリはP5Xのリリース日発表・公式放送記事を日本country代表点に置いていた。リポジトリ内の同作後続エントリでは、SEGA公式告知文脈としてOsaki Garden TowerのSEGA本社サイトへ配置済みであり、同じP5Xの日本向け告知記事として発表主体SEGA側に寄せるのが妥当である。このため旧country代表点をSEGAの公開本社ビル代表点へ補正する。これはBlack Wings Game Studioの開発拠点、配信番組の収録場所、媒体所在地、タイトル担当部署ではない。記事本文や公式サイトで別の運営会社・担当部署・収録会場が確認された場合は差し替える。（一致語: ペルソナ５: The Phantom X / P5X通信 / SEGA）（一致語: リリース日）",
+        "confidence": 0.78,
+        "rule_id": "observed_persona_5_phantom_x_release_broadcast_japan_202505",
+        "matched_text": "リリース日",
         "match_source": "known_place_title"
       }
     },
@@ -11861,60 +11938,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.7516,
-          35.6581
-        ]
-      },
-      "properties": {
-        "title": "新作スマホゲーム『銀魂 すまほ ばとるくろにくる』配信決定！かぶき町の一員となって名シーンを追体験 - にじめん",
-        "source": "にじめん",
-        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9QTmpnelRtU2VYSktfelR6aGZrV01HUW9PSzdUMFYzUVhUVy1qbTZ4V2tza05aUWR6dlFFLWRFdHY4M3pDekxmOGlhMG8tN3dhTU80MW9oOA?oc=5",
-        "published_at": "2025-11-13T08:00:00+00:00",
-        "representative_place": "Bandai Namco Entertainment / Minato, Tokyo representative",
-        "place_label": "日本-東京都-港区-Bandai Namco Entertainment / SAO Memory Defrag",
-        "sort_place_label": "日本-東京都-港区-Bandai Namco Entertainment / SAO Memory Defrag",
-        "geocode_query": "Bandai Namco Entertainment Minato Tokyo Sword Art Online Memory Defrag",
-        "place_type": "mobile_game_publisher_district_representative_uncertain_title_team",
-        "location_precision": "district",
-        "place_reason": "The legacy active entry treated the Sword Art Online Memory Defrag preregistration item as a broad Japan mobile-game launch-market topic. Recheck confirmed the game as a Bandai Namco Entertainment mobile title, and public company context places Bandai Namco Entertainment in Minato, Tokyo after its 2016 move. This override therefore moves the article from a Japan country representative point to a Minato, Tokyo publisher-context representative point. This is not a confirmed title-team office, article venue, exact Bandai Namco Entertainment office coordinate, or media office; replace it if the article body, official game page, store page, or company profile identifies a more precise publisher/developer/operator site.（一致語: 配信決定）",
-        "confidence": 0.64,
-        "rule_id": "observed_sao_memory_defrag_bandai_namco_minato_tokyo_201801",
-        "matched_text": "配信決定",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.7289,
-          35.6158
-        ]
-      },
-      "properties": {
-        "title": "新作ゲーム『銀魂 すまほ ばとるくろにくる』配信決定！ 本日より事前登録開始！ - sega.jp",
-        "source": "sega.jp",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5uT3RXZmFxZXRrSFFmOEtONGFfbDVMc2pnT3F1YVB6UFJxaUg0ZDZkdVZLZ1hXYUQ0MVBiS2xSd0FxbmdoVVJaVmhjcmxtLXdiSkJwZ2hR?oc=5",
-        "published_at": "2025-11-13T05:53:43+00:00",
-        "representative_place": "SEGA / Sumitomo Fudosan Osaki Garden Tower",
-        "place_label": "Japan-Tokyo-Shinagawa-Nishishinagawa-Osaki Garden Tower-SEGA",
-        "sort_place_label": "Japan-Tokyo-Shinagawa-Nishishinagawa-Osaki Garden Tower-SEGA",
-        "geocode_query": "Sumitomo Fudosan Osaki Garden Tower Nishi-Shinagawa Tokyo SEGA",
-        "place_type": "publisher_company_site",
-        "location_precision": "building",
-        "place_reason": "Official sega.jp mobile game announcement anchored to SEGA's Osaki Garden Tower site. SEGA, game title, mobile game, release, and preregistration standalone terms are not used as triggers.（一致語: 新作ゲーム『銀魂 すまほ ばとるくろにくる』配信決定！ 本日より事前登録開始！ - sega.jp）",
-        "confidence": 0.8,
-        "rule_id": "observed_sega_gintama_mobile_osaki_202511",
-        "matched_text": "新作ゲーム『銀魂 すまほ ばとるくろにくる』配信決定！ 本日より事前登録開始！ - sega.jp",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -118.2437,
           34.0522
         ]
@@ -12158,33 +12181,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.6882,
-          35.6856
-        ]
-      },
-      "properties": {
-        "title": "新作アプリゲーム『ジョジョの奇妙な冒険 オラオラオーバードライブ』事前登録者数100万人突破ッ！ - PR TIMES",
-        "source": "PR TIMES",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8xa3FsemZCNHE2OGU2S0FxMFAzOXI3N3FYWU9YaGN1NUpRNnhab3BEeGwtS1d5eTVqMDYxb0VVMklPUzNfcVFMSk00azRmUkt2LXhrVEt4dmVWZUNoeWUzZXllbUZqRmR4UUE?oc=5",
-        "published_at": "2025-09-24T07:00:00+00:00",
-        "representative_place": "株式会社gumi / 住友不動産西新宿ビル5号館3階",
-        "place_label": "日本-東京都-新宿区-西新宿4-34-7-住友不動産西新宿ビル5号館-gumi / ジョジョの奇妙な冒険 オラオラオーバードライブ",
-        "sort_place_label": "日本-東京都-新宿区-西新宿4-34-7-住友不動産西新宿ビル5号館-gumi / ジョジョの奇妙な冒険 オラオラオーバードライブ",
-        "geocode_query": "東京都新宿区西新宿4-34-7 住友不動産西新宿ビル5号館 株式会社gumi ジョジョの奇妙な冒険 オラオラオーバードライブ",
-        "place_type": "publisher_company_site",
-        "location_precision": "exact_site",
-        "place_reason": "PR TIMES記事は新作アプリゲーム『ジョジョの奇妙な冒険 オラオラオーバードライブ』の事前登録者数100万人突破を扱う。既存C2では運営元未確認として無配置だったが、リポジトリ内の同作事前登録開始リリースでは株式会社gumiの公式発表文脈として西新宿4-34-7 住友不動産西新宿ビル5号館3階にexact_site配置済みだった。同一アプリ・同一事前登録キャンペーンのマイルストーン記事として、媒体所在地ではなく配信/発表主体gumiの公開本社住所に置く。PR TIMESの掲載場所ではない。将来、当該100万人突破リリース本文で別の発表主体・担当会社が確認された場合は差し替える。（一致語: ジョジョの奇妙な冒険 オラオラオーバードライブ / 事前登録者数100万人突破）（一致語: 新作アプリゲーム『ジョジョの奇妙な冒険 オラオラオーバードライブ』事前登録者数100万人突破ッ！ - PR TIMES）",
-        "confidence": 0.78,
-        "rule_id": "observed_gumi_jojo_oraora_overdrive_million_prereg_nishishinjuku_202509",
-        "matched_text": "新作アプリゲーム『ジョジョの奇妙な冒険 オラオラオーバードライブ』事前登録者数100万人突破ッ！ - PR TIMES",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           139.6503,
           35.6762
         ]
@@ -12389,10 +12385,37 @@
         "geocode_query": "IGPDA Indian Game Publishers and Developers Association online gaming regulation New Delhi",
         "place_type": "game_industry_association_regulatory_context_representative_uncertain",
         "location_precision": "country_city",
-        "place_reason": "記事主語はIndian Game Publishers and Developers Association / IGPDAの形成と、Indiaのオンラインゲーム規制対応。今回の検索範囲ではIGPDAの公式事務局所在地・法人登録地・発表会場を確認できなかった。前回はC2として無配置だったが、タスク2の方針に従い、媒体所在地ではなくインドのゲーム業界団体/中央規制対応トピックの低信頼代表点としてNew Delhiへ暫定配置する。New Delhiは確認済みIGPDA事務所や会場ではなく、国家規制対応文脈の代表点である。公式サイト・法人登録・プレスリリース・記事本文で事務局所在地や発表場所が判明した場合は必ず差し替える。（一致語: IGPDA Forms）（一致語: IGPDA Forms to Support India’s Online Gaming Regulation - MediaNama）",
+        "place_reason": "既存C2 entryは、MediaNamaのIGPDA形成とIndiaのオンラインゲーム規制対応記事について、Indian Game Publishers and Developers Association / IGPDAという団体主語は確認できるが、IGPDAの事務局所在地・発表場所を確定できないため無配置としていた。後続の既存B2 entry `observed_igpda_online_gaming_regulation_new_delhi_uncertain_202508` では、同一記事対象について、公式事務局所在地・法人登録地・発表会場は未確認のまま、媒体所在地ではなくインドのゲーム業界団体/中央規制対応トピックの低confidence代表点としてNew Delhiへ暫定配置している。今回の確認範囲でも、公式サイト、法人登録、プレスリリース、記事本文から事務局所在地や発表場所を確認できないため、詳細地点にはしない。ただし作業方針上、完全に特定できない場合でも記事主語とオンラインゲーム規制対応文脈から低confidenceの代表地点を置くため、C2を解除し、既存B2と同じIGPDA formation / New Delhi regulatory representativeへ寄せる。New Delhiは確認済みIGPDA事務所や会場ではなく、国家規制対応文脈の代表点であり、事務局所在地や発表場所が判明した場合は必ず差し替える。（一致語: IGPDA Forms / Indian Game Publishers and Developers Association / online gaming regulation / New Delhi representative）（一致語: IGPDA Forms to Support India’s Online Gaming Regulation - MediaNama）",
         "confidence": 0.22,
-        "rule_id": "observed_igpda_online_gaming_regulation_new_delhi_uncertain_202508",
+        "rule_id": "disabled_c2_igpda_forms_online_gaming_regulation_office_unconfirmed_202508",
         "matched_text": "IGPDA Forms to Support India’s Online Gaming Regulation - MediaNama",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.209,
+          28.6139
+        ]
+      },
+      "properties": {
+        "title": "Indian Game Publishers and Developers Association Formed to Unify Studios, Push Made-in-India IP - IGN India",
+        "source": "IGN India",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYXBDR2lIMVVXeHhoU3BQd0Z6TDV4dDROT3JCQU9EN2JMd0FSNUZxZVV2NUtMYmE5OFV6eF84bHRkWnY2QzVtQmtMZnA3LUtXYmNQdFZIS1FyankxdG9IS2lJYk5aNUN5R1NXQVFqeERWRDV4UVhlVnAwbHQwVnFrUG1tZnBsRUpkZGFkUktOM291S2RrWjduVW1ka1huY1ZrOC14MjQ3R2dyYWcyTk51a3RaSUNvVnJXOVctNkJrTWloYUNfNjhva3NHRUt2QQ?oc=5",
+        "published_at": "2025-08-26T07:00:00+00:00",
+        "representative_place": "IGPDA formation / New Delhi regulatory representative",
+        "place_label": "インド-ニューデリー代表点-IGPDA / online gaming regulation",
+        "sort_place_label": "インド-ニューデリー代表点-IGPDA / online gaming regulation",
+        "geocode_query": "IGPDA Indian Game Publishers and Developers Association online gaming regulation New Delhi",
+        "place_type": "game_industry_association_regulatory_context_representative_uncertain",
+        "location_precision": "country_city",
+        "place_reason": "既存C2 entryは、MediaNamaのIGPDA形成とIndiaのオンラインゲーム規制対応記事について、Indian Game Publishers and Developers Association / IGPDAという団体主語は確認できるが、IGPDAの事務局所在地・発表場所を確定できないため無配置としていた。後続の既存B2 entry `observed_igpda_online_gaming_regulation_new_delhi_uncertain_202508` では、同一記事対象について、公式事務局所在地・法人登録地・発表会場は未確認のまま、媒体所在地ではなくインドのゲーム業界団体/中央規制対応トピックの低confidence代表点としてNew Delhiへ暫定配置している。今回の確認範囲でも、公式サイト、法人登録、プレスリリース、記事本文から事務局所在地や発表場所を確認できないため、詳細地点にはしない。ただし作業方針上、完全に特定できない場合でも記事主語とオンラインゲーム規制対応文脈から低confidenceの代表地点を置くため、C2を解除し、既存B2と同じIGPDA formation / New Delhi regulatory representativeへ寄せる。New Delhiは確認済みIGPDA事務所や会場ではなく、国家規制対応文脈の代表点であり、事務局所在地や発表場所が判明した場合は必ず差し替える。（一致語: IGPDA Forms / Indian Game Publishers and Developers Association / online gaming regulation / New Delhi representative）（一致語: Indian Game Publishers and Developers Association）",
+        "confidence": 0.22,
+        "rule_id": "disabled_c2_igpda_forms_online_gaming_regulation_office_unconfirmed_202508",
+        "matched_text": "Indian Game Publishers and Developers Association",
         "match_source": "known_place_title"
       }
     },
@@ -12609,6 +12632,33 @@
         "confidence": 0.82,
         "rule_id": "observed_rgg_new_virtua_fighter_osaki_202508",
         "matched_text": "まるで『龍が如く』のヒートアクション！？龍が如くスタジオ開発『バーチャファイター』新作『New VIRTUA FIGHTER』Project最新バトル映像",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1815,
+          36.8065
+        ]
+      },
+      "properties": {
+        "title": "Gaming world turns its spotlight on Tunisia’s first all-female game studio - Focus Gaming News",
+        "source": "Focus Gaming News",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbzlwNEZiaGlUbWpnb2R4ZGFhUWsxeXR0dzVvNVdUbXcwandxSF81NGkydzFMMnhNRHJ4S3B5SXE5ZmNMZkg3RGRhRDcwcjVMblBteFpfcUt2aURhMW5sWUFZTlpDRjE5LVdWYUphLTNZU192ZVptcVNNS2ZBeDZscmJkYjRpNlh5d1E4LTBneXowTC12TllYQkxMMEpzcXhtNmc?oc=5",
+        "published_at": "2025-08-01T07:00:00+00:00",
+        "representative_place": "Tunisia first all-female game studio / Tunis representative",
+        "place_label": "Tunisia-Tunis-representative-first all-female game studio",
+        "sort_place_label": "Tunisia-Tunis-representative-first all-female game studio",
+        "geocode_query": "Tunisia first all-female game studio Tunis Tunisia",
+        "place_type": "game_studio_country_city_representative_uncertain",
+        "location_precision": "country_city",
+        "place_reason": "既存C2 entryは、Focus Gaming Newsの『Gaming world turns its spotlight on Tunisia’s first all-female game studio』について、チュニジア初の女性だけのゲームスタジオ記事であることは分かるが、スタジオ名・都市・所在地を確定できないため無配置としていた。後続の既存B2 entry `observed_tunisia_first_all_female_game_studio_tunis_uncertain_202508` では、同一記事対象について、スタジオ名・正確な都市・オフィス所在地は未確認のまま、Tunisian game-studio contextの低confidence代表点としてTunisへ暫定配置している。今回の確認範囲でも、記事本文、スタジオ公式情報、会社プロフィール、登記情報からスタジオ名と所在地を確認できないため、詳細地点にはしない。ただし作業方針上、完全に特定できない場合でも記事主語とTunisia first all-female game studio文脈から低confidenceの代表地点を置くため、C2を解除し、既存B2と同じTunis代表点へ寄せる。これは確認済みスタジオ所在地、イベント会場、Focus Gaming News媒体所在地を確認したものではなく、スタジオ名・都市・公式所在地が判明した場合は必ず差し替える。（一致語: Tunisia’s first all-female game studio / Focus Gaming News / Tunis representative）（一致語: Gaming world turns its spotlight on Tunisia’s first all-female game studio - Focus Gaming News）",
+        "confidence": 0.22,
+        "rule_id": "disabled_c2_tunisia_first_all_female_game_studio_unconfirmed_202508",
+        "matched_text": "Gaming world turns its spotlight on Tunisia’s first all-female game studio - Focus Gaming News",
         "match_source": "known_place_title"
       }
     },
@@ -13022,6 +13072,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          139.7516,
+          35.6581
+        ]
+      },
+      "properties": {
+        "title": "完全新作スマホゲーム「東京リベンジャーズUNLIMITED(アンリベ)」発表&事前登録受付がスタート！主題歌はtuki.の「地獄恋文」 - Excite エキサイト",
+        "source": "Excite エキサイト",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9oaUJhMVQ2ZmhiQzhIYTNwWXRVaTAxdU9xSEFkdzFERzhFWFFjYlF5eXdaam85cHQ5RG4zT2hlUWpWNWxFOUg5R1BfbHAwY3JRNWhCRTE5TUpqcU9ucy13eHR5ZmtiMHc5U3c4?oc=5",
+        "published_at": "2025-06-24T07:00:00+00:00",
+        "representative_place": "Bandai Namco Entertainment / Minato, Tokyo representative",
+        "place_label": "日本-東京都-港区-Bandai Namco Entertainment / SAO Memory Defrag",
+        "sort_place_label": "日本-東京都-港区-Bandai Namco Entertainment / SAO Memory Defrag",
+        "geocode_query": "Bandai Namco Entertainment Minato Tokyo Sword Art Online Memory Defrag",
+        "place_type": "mobile_game_publisher_district_representative_uncertain_title_team",
+        "location_precision": "district",
+        "place_reason": "The legacy active entry treated the Sword Art Online Memory Defrag preregistration item as a broad Japan mobile-game launch-market topic. Recheck confirmed the game as a Bandai Namco Entertainment mobile title, and public company context places Bandai Namco Entertainment in Minato, Tokyo after its 2016 move. This override therefore moves the article from a Japan country representative point to a Minato, Tokyo publisher-context representative point. This is not a confirmed title-team office, article venue, exact Bandai Namco Entertainment office coordinate, or media office; replace it if the article body, official game page, store page, or company profile identifies a more precise publisher/developer/operator site.（一致語: 事前登録）",
+        "confidence": 0.64,
+        "rule_id": "observed_sao_memory_defrag_bandai_namco_minato_tokyo_201801",
+        "matched_text": "事前登録",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.3321,
           47.6062
         ]
@@ -13103,33 +13180,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.7516,
-          35.6581
-        ]
-      },
-      "properties": {
-        "title": "スマホゲーム『シヴィライゼーション: 時代と盟友』事前登録者数200万人突破！6月19日サービス開始に向けたカウントダウンキャンペーン開催中！ | テイクツー・インタラクティブ・ジャパン合同会社のプレスリリース - PR TIMES",
-        "source": "PR TIMES",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rbDhBbEd5b2k4MGdBcWVBTGh5bGJzM01SVTBMbnZxbjgzZ2xfNXJwQXNzMVdLU2FyVEkwR0NEc1R0TkxaWVB5d18yOTlEcW5fRGRUNWtpVXhCVUFnb0x6RVNsQWJCUnFqNHc?oc=5",
-        "published_at": "2025-06-13T07:00:00+00:00",
-        "representative_place": "Bandai Namco Entertainment / Minato, Tokyo representative",
-        "place_label": "日本-東京都-港区-Bandai Namco Entertainment / SAO Memory Defrag",
-        "sort_place_label": "日本-東京都-港区-Bandai Namco Entertainment / SAO Memory Defrag",
-        "geocode_query": "Bandai Namco Entertainment Minato Tokyo Sword Art Online Memory Defrag",
-        "place_type": "mobile_game_publisher_district_representative_uncertain_title_team",
-        "location_precision": "district",
-        "place_reason": "The legacy active entry treated the Sword Art Online Memory Defrag preregistration item as a broad Japan mobile-game launch-market topic. Recheck confirmed the game as a Bandai Namco Entertainment mobile title, and public company context places Bandai Namco Entertainment in Minato, Tokyo after its 2016 move. This override therefore moves the article from a Japan country representative point to a Minato, Tokyo publisher-context representative point. This is not a confirmed title-team office, article venue, exact Bandai Namco Entertainment office coordinate, or media office; replace it if the article body, official game page, store page, or company profile identifies a more precise publisher/developer/operator site.（一致語: 事前登録）",
-        "confidence": 0.64,
-        "rule_id": "observed_sao_memory_defrag_bandai_namco_minato_tokyo_201801",
-        "matched_text": "事前登録",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           120.9842,
           14.5995
         ]
@@ -13145,9 +13195,9 @@
         "geocode_query": "The Varsitarian award-winning game developers storytelling Manila Philippines",
         "place_type": "game_developer_storytelling_article_country_city_representative_uncertain",
         "location_precision": "country_city",
-        "place_reason": "The Varsitarianの記事タイトルから、受賞歴のあるゲーム開発者がビデオゲームをstorytelling mediumとして推進する内容と分かるが、今回の確認範囲では開発者名、所属スタジオ、イベント会場、所在地を確認できなかった。前回はC2として無配置だったが、タスク2の方針に従い、媒体所在地そのものではなくフィリピンのゲーム開発者/教育・文化系記事文脈の低信頼代表点としてManilaへ暫定配置する。Manilaは確認済み開発者所在地や会場ではない。本文、開発者プロフィール、イベントページ、公式発表で具体的な場所が判明した場合は必ず差し替える。（一致語: game developers push video games as storytelling medium）（一致語: Award-winning game developers push video games as storytelling medium - The Varsitarian）",
+        "place_reason": "既存C2 entryは、The Varsitarianの『Award-winning game developers push video games as storytelling medium』について、受賞歴のあるゲーム開発者がビデオゲームをstorytelling mediumとして推進する記事であることは分かるが、開発者名・所属スタジオ・イベント会場・所在地を確定できないため無配置としていた。後続の既存B2 entry `observed_award_winning_developers_storytelling_manila_uncertain_202506` では、同一記事対象について、開発者名・所属スタジオ・イベント会場・所在地は未確認のまま、フィリピンのゲーム開発者/教育・文化系記事文脈の低confidence代表点としてManilaへ暫定配置している。今回の確認範囲でも、本文、開発者プロフィール、イベントページ、公式発表から具体的な場所を確認できないため、詳細地点にはしない。ただし作業方針上、完全に特定できない場合でも記事主語とPhilippines game-developer storytelling/education-culture article contextから低confidenceの代表地点を置くため、C2を解除し、既存B2と同じManila代表点へ寄せる。これはThe Varsitarian媒体所在地、確認済み開発者所在地、所属スタジオ所在地、イベント会場を確認したものではなく、開発者名・所属・都市・公式所在地が判明した場合は必ず差し替える。（一致語: Award-winning game developers / storytelling medium / The Varsitarian / Manila representative）（一致語: Award-winning game developers push video games as storytelling medium - The Varsitarian）",
         "confidence": 0.22,
-        "rule_id": "observed_award_winning_developers_storytelling_manila_uncertain_202506",
+        "rule_id": "disabled_c2_award_winning_developers_storytelling_varsitarian_202506",
         "matched_text": "Award-winning game developers push video games as storytelling medium - The Varsitarian",
         "match_source": "known_place_title"
       }
@@ -13270,8 +13320,8 @@
         ]
       },
       "properties": {
-        "title": "Summer Game Fest 2025 guide and schedule - Epic Games",
-        "source": "Epic Games",
+        "title": "Summer Game Fest 2025 guide and schedule - Epic Games Store",
+        "source": "Epic Games Store",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTTluR2V5YlJCdkhMeVZMVGh1RmVVamMyMUVBTW1VZWlUNjJ4QW9SeVF2RDN6NVNJSWh1aEFZclliQlh0LUZpdE91WF9ldi1yemNBd1BBS3RwV0J1RGUwMWRuNjZFeU9YSVBPUlJwa2Vaa1NJZ3dmZGRFdnkxcTFzeGJfR1Z4aEdfZU9iR2ZSdWdIMjlwM3c?oc=5",
         "published_at": "2025-06-02T07:00:00+00:00",
         "representative_place": "Summer Game Fest 2025 / YouTube Theater",
@@ -13454,33 +13504,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.7516,
-          35.6581
-        ]
-      },
-      "properties": {
-        "title": "【2025年配信予定】女性向け無料ゲーム＆アプリの配信日・声優・事前登録など新作情報まとめ - にじめん",
-        "source": "にじめん",
-        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ic0IzWndiOGZsNDBkQnZ4Y3BKNkJ2QTRULUYyT1VCcldzX1VLc2VxdGVwNW9TY3pFVEw5bndXS3BxRGxmaDZMRHRwb1Q2UEg4Vkw2b3Jrdw?oc=5",
-        "published_at": "2025-05-06T07:00:00+00:00",
-        "representative_place": "Bandai Namco Entertainment / Minato, Tokyo representative",
-        "place_label": "日本-東京都-港区-Bandai Namco Entertainment / SAO Memory Defrag",
-        "sort_place_label": "日本-東京都-港区-Bandai Namco Entertainment / SAO Memory Defrag",
-        "geocode_query": "Bandai Namco Entertainment Minato Tokyo Sword Art Online Memory Defrag",
-        "place_type": "mobile_game_publisher_district_representative_uncertain_title_team",
-        "location_precision": "district",
-        "place_reason": "The legacy active entry treated the Sword Art Online Memory Defrag preregistration item as a broad Japan mobile-game launch-market topic. Recheck confirmed the game as a Bandai Namco Entertainment mobile title, and public company context places Bandai Namco Entertainment in Minato, Tokyo after its 2016 move. This override therefore moves the article from a Japan country representative point to a Minato, Tokyo publisher-context representative point. This is not a confirmed title-team office, article venue, exact Bandai Namco Entertainment office coordinate, or media office; replace it if the article body, official game page, store page, or company profile identifies a more precise publisher/developer/operator site.（一致語: 事前登録）",
-        "confidence": 0.64,
-        "rule_id": "observed_sao_memory_defrag_bandai_namco_minato_tokyo_201801",
-        "matched_text": "事前登録",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           72.8777,
           19.076
         ]
@@ -13496,10 +13519,10 @@
         "geocode_query": "Tara Gaming studio Amitabh Bachchan Amish Tripathi Nouredine Abboud Mumbai India",
         "place_type": "game_studio_company_country_city_representative_uncertain",
         "location_precision": "country_city",
-        "place_reason": "The item is about Amitabh Bachchan joining Amish Tripathi and Nouredine Abboud's Tara Gaming studio as a co-founder. An older active entry placed the topic at an India country representative point, while the disabled C2 entry still lacked a usable map location. The studio office, registered address, article body, and reliable city-level company source could not be confirmed in this pass. Use a low-confidence Mumbai representative point for the India entertainment / gaming-studio co-founder context until the article body, company profile, incorporation record, or official announcement identifies a specific studio city or office. This is not a confirmed Tara Gaming office, personal address, media office, or event venue.（一致語: Tara Gaming studio）",
+        "place_reason": "既存C2 entryは、Moneycontrol.comのAmitabh BachchanがAmish Tripathi、Nouredine AbboudのTara Gaming studioにco-founderとして加わったという記事について、スタジオ主体は確認できるが、Tara Gamingの事務所所在地・都市を確定できないため無配置としていた。後続の既存B2 entry `observed_tara_gaming_mumbai_uncertain_202505` では、同一記事対象について、スタジオのオフィス、登記住所、記事本文、信頼できる都市レベルの会社情報は未確認のまま、India entertainment / gaming-studio co-founder contextの低confidence代表点としてMumbaiへ暫定配置している。今回の確認範囲でも、公式発表、会社プロフィール、登記情報、本文から具体的なスタジオ都市やオフィスを確認できないため、詳細地点にはしない。ただし作業方針上、完全に特定できない場合でも記事主語とインドのエンタメ/ゲームスタジオ共同創業文脈から低confidenceの代表地点を置くため、C2を解除し、既存B2と同じTara Gaming / Mumbai representativeへ寄せる。これは確認済みTara Gamingオフィス、個人住所、Moneycontrol媒体所在地、イベント会場を確認したものではなく、具体的なスタジオ都市・公式所在地が判明した場合は必ず差し替える。（一致語: Tara Gaming / Amitabh Bachchan / Amish Tripathi / Nouredine Abboud / Mumbai representative）（一致語: Amitabh Bachchan joins Amish Tripathi, Nouredine Abboud's Tara Gaming studio as co-founder - Moneycontrol.com）",
         "confidence": 0.2,
-        "rule_id": "observed_tara_gaming_mumbai_uncertain_202505",
-        "matched_text": "Tara Gaming studio",
+        "rule_id": "disabled_c2_tara_gaming_studio_location_unconfirmed_202505",
+        "matched_text": "Amitabh Bachchan joins Amish Tripathi, Nouredine Abboud's Tara Gaming studio as co-founder - Moneycontrol.com",
         "match_source": "known_place_title"
       }
     },
@@ -13577,9 +13600,9 @@
         "geocode_query": "Primal Game Studio Budapest Mandragora Whispers of the Witch Tree",
         "place_type": "game_developer_headquarters",
         "location_precision": "city",
-        "place_reason": "GameTyrant記事は『Mandragora: Whispers of the Witch Tree』のレビュー。レビュー媒体所在地ではなく、作品の開発元が最も安定した場所性を持つ。外部確認ではMandragoraはPrimal Game Studio開発タイトルで、Primal Game StudioはBudapest, Hungary拠点のスタジオとして確認できる。記事固有のイベント会場や別の主題企業は確認していないため、開発元所在地のBudapestを代表地点にする。正確な現行オフィス住所は未確認なのでcity precisionとする。（一致語: MANDRAGORA: WHISPERS OF THE WITCH TREE Review - Beautiful Darkness - GameTyrant）",
+        "place_reason": "既存C2 entryは、GameTyrantの『Mandragora: Whispers of the Witch Tree』レビュー記事について、作品主体は取れるが、開発元Primal Game Studioの都市・住所を確定できないため無配置としていた。後続の既存A2 entry `observed_mandragora_primal_game_studio_budapest_202504` では、同一記事対象について、レビュー媒体所在地ではなく作品の開発元が最も安定した場所性を持つと判断し、MandragoraがPrimal Game Studio開発タイトルであり、Primal Game StudioがBudapest, Hungary拠点のスタジオとして確認できるためBudapestを代表地点としている。今回の確認範囲でも、記事固有のイベント会場や別の主題企業は確認していないため、C2を解除し、既存A2と同じPrimal Game Studio / Budapestへ寄せる。正確な現行オフィス住所までは未確認であるため、住所精度ではなくcity precisionに留める。（一致語: Mandragora / Whispers of the Witch Tree / Primal Game Studio / Budapest / Hungary）（一致語: MANDRAGORA: WHISPERS OF THE WITCH TREE Review - Beautiful Darkness - GameTyrant）",
         "confidence": 0.84,
-        "rule_id": "observed_mandragora_primal_game_studio_budapest_202504",
+        "rule_id": "disabled_c2_mandragora_primal_game_studio_location_unconfirmed_202504",
         "matched_text": "MANDRAGORA: WHISPERS OF THE WITCH TREE Review - Beautiful Darkness - GameTyrant",
         "match_source": "known_place_title"
       }
@@ -13604,9 +13627,9 @@
         "geocode_query": "4年かけて作ったゲーム 同接わずか35人 開発者 東京 日本",
         "place_type": "indie_game_developer_article_country_city_representative_uncertain",
         "location_precision": "country_city",
-        "place_reason": "AUTOMATONの記事タイトルから、4年かけて開発したゲームの売上失敗を開発者が自己分析する記事であることは確認できるが、今回の確認範囲ではゲーム名・開発者名・所属スタジオ・都市・住所を確認できなかった。前回はC2として無配置だったが、タスク2の方針に従い、媒体所在地そのものではなく日本語圏インディーゲーム開発記事文脈の低信頼代表点として東京へ暫定配置する。東京は確認済み開発者所在地ではない。本文、Steamページ、公式サイト、開発者プロフィールで具体的な場所が判明した場合は必ず差し替える。（一致語: 4年かけて作ったゲーム / 同接わずか35人）（一致語: あるゲーム開発者、4年かけて作ったゲームが“売上大失敗した”として原因を自己分析。成功を確信していたのに「同接わずか35人」、なぜ - AUTOMATON）",
+        "place_reason": "既存C2 entryは、AUTOMATONの『4年かけて作ったゲームが“売上大失敗した”』開発者自己分析記事について、ゲーム名・開発者名・所在地を確定できないため無配置としていた。後続の既存B2 entry `observed_four_year_sales_failure_indie_game_tokyo_uncertain_202504` では、同一記事対象について、ゲーム名・開発者名・所属スタジオ・都市・住所は未確認のまま、媒体所在地そのものではなく日本語圏インディーゲーム開発記事文脈の低confidence代表点としてTokyoへ暫定配置している。今回の確認範囲でも、本文、Steamページ、公式サイト、開発者プロフィールから具体的な場所を確認できないため、詳細地点にはしない。ただし作業方針上、完全に特定できない場合でも記事主語と日本語圏インディーゲーム開発記事文脈から低confidenceの代表地点を置くため、C2を解除し、既存B2と同じTokyo代表点へ寄せる。これはAUTOMATON媒体所在地、開発者個人住所、開発スタジオ住所、Steam上の開発者所在地を確認したものではなく、ゲーム名・開発者名・都市・公式所在地が判明した場合は必ず差し替える。（一致語: 4年かけて作ったゲーム / 売上大失敗 / 同接わずか35人 / Tokyo representative）（一致語: あるゲーム開発者、4年かけて作ったゲームが“売上大失敗した”として原因を自己分析。成功を確信していたのに「同接わずか35人」、なぜ - AUTOMATON）",
         "confidence": 0.2,
-        "rule_id": "observed_four_year_sales_failure_indie_game_tokyo_uncertain_202504",
+        "rule_id": "disabled_c2_four_year_sales_failure_indie_game_developer_unconfirmed_202504",
         "matched_text": "あるゲーム開発者、4年かけて作ったゲームが“売上大失敗した”として原因を自己分析。成功を確信していたのに「同接わずか35人」、なぜ - AUTOMATON",
         "match_source": "known_place_title"
       }
@@ -13928,9 +13951,9 @@
         "geocode_query": "South African game studio Johannesburg representative",
         "place_type": "game_studio_country_city_representative_uncertain",
         "location_precision": "country_city",
-        "place_reason": "MyBroadbandの記事タイトルから南アフリカのゲームスタジオ記事であることは確認できるが、今回の検索範囲ではスタジオ名・都市・所在地を確定できなかった。前回はC2として無配置だったが、タスク2の方針に従い、媒体所在地ではなく南アフリカのゲームスタジオという記事主語に基づく低信頼のJohannesburg代表点へ暫定配置する。本文・スタジオ名・公式所在地が判明した場合は必ず差し替える。（一致語: South African game studio owned by one of the richest families）（一致語: The South African game studio owned by one of the richest families in the world - MyBroadband）",
+        "place_reason": "既存C2 entryは、MyBroadbandの『The South African game studio owned by one of the richest families in the world』について、南アフリカのゲームスタジオ記事であることは分かるが、スタジオ名・都市・所在地を確定できないため無配置としていた。後続の既存B2 entry `observed_south_african_game_studio_johannesburg_uncertain_202502` では、同一記事対象について、スタジオ名・都市・公式所在地は未確認のまま、媒体所在地ではなく南アフリカのゲームスタジオという記事主語に基づく低confidenceのJohannesburg代表点へ暫定配置している。今回の確認範囲でも、記事本文、スタジオ名、公式サイト、登記、オフィス所在地を確認できないため、詳細地点にはしない。ただし作業方針上、完全に特定できない場合でも記事主語とSouth African game studio文脈から低confidenceの代表地点を置くため、C2を解除し、既存B2と同じJohannesburg代表点へ寄せる。これは確認済みスタジオ所在地、所有者一族の所在地、MyBroadband媒体所在地、イベント会場を確認したものではなく、スタジオ名・都市・公式所在地が判明した場合は必ず差し替える。（一致語: South African game studio / one of the richest families / MyBroadband / Johannesburg representative）（一致語: The South African game studio owned by one of the richest families in the world - MyBroadband）",
         "confidence": 0.26,
-        "rule_id": "observed_south_african_game_studio_johannesburg_uncertain_202502",
+        "rule_id": "disabled_c2_south_african_game_studio_owned_by_rich_family_unconfirmed_202502",
         "matched_text": "The South African game studio owned by one of the richest families in the world - MyBroadband",
         "match_source": "known_place_title"
       }
@@ -14102,6 +14125,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          139.7516,
+          35.6581
+        ]
+      },
+      "properties": {
+        "title": "【シャインポスト Be Your アイドル！】配信日と事前登録情報｜最新情報 - AppMedia",
+        "source": "AppMedia",
+        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE56OFJRcGRmSU8zTmlDekprZzFleEFicENmZWdlUlR6VFJIaS1JdExOczByQUFrbTBwaGp4RGtNTVFWNmpQU21kaVpSLWQ?oc=5",
+        "published_at": "2025-02-04T08:00:00+00:00",
+        "representative_place": "Bandai Namco Entertainment / Minato, Tokyo representative",
+        "place_label": "日本-東京都-港区-Bandai Namco Entertainment / SAO Memory Defrag",
+        "sort_place_label": "日本-東京都-港区-Bandai Namco Entertainment / SAO Memory Defrag",
+        "geocode_query": "Bandai Namco Entertainment Minato Tokyo Sword Art Online Memory Defrag",
+        "place_type": "mobile_game_publisher_district_representative_uncertain_title_team",
+        "location_precision": "district",
+        "place_reason": "The legacy active entry treated the Sword Art Online Memory Defrag preregistration item as a broad Japan mobile-game launch-market topic. Recheck confirmed the game as a Bandai Namco Entertainment mobile title, and public company context places Bandai Namco Entertainment in Minato, Tokyo after its 2016 move. This override therefore moves the article from a Japan country representative point to a Minato, Tokyo publisher-context representative point. This is not a confirmed title-team office, article venue, exact Bandai Namco Entertainment office coordinate, or media office; replace it if the article body, official game page, store page, or company profile identifies a more precise publisher/developer/operator site.（一致語: 事前登録）",
+        "confidence": 0.64,
+        "rule_id": "observed_sao_memory_defrag_bandai_namco_minato_tokyo_201801",
+        "matched_text": "事前登録",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           139.7288,
           35.6249
         ]
@@ -14202,6 +14252,33 @@
         "confidence": 0.8,
         "rule_id": "observed_sie_live_service_cancellations_san_mateo_202501",
         "matched_text": "PlayStation Studiosの新作ライブサービスゲーム2本が未発表のまま開発中止、SIEが認める。PS5版『Demon's Souls』開発元と『Days Gone』開発元が手がけるも、それぞれとん挫",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3792,
+          6.5244
+        ]
+      },
+      "properties": {
+        "title": "Nigerian studio’s first video game is an action-adventure steeped in Yoruba culture - thenationalnews.com",
+        "source": "thenationalnews.com",
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNVUxEMUNoWDB6amJ6OC1vZmgxQURyb3ZSNXVFUjVzSmZzMkRtLXNHMFotSzFJVUJITGdvOXVyb2NHam5yWEI1SnVRWkE3QXlrOUVlaTltV0xRaTNnSFhxT3gzR1Q5ZXNfZ2xuMlNBamtWZzlZd0dDOVdnc3BBNXBJOGE2RFlldklsRjZrRzRPUEh2aWZxVFg1Y2ZqaGhZMG9TUWlRbzFGOWVmb3BEVU5CX05wWlFzZEFyaG4xbnVQdkQxUzR0U2x3ci1xeEV6cGJaZWk3MmZuVFlHQldIb0xZOTNPeWt0Zw?oc=5",
+        "published_at": "2025-01-11T08:00:00+00:00",
+        "representative_place": "Nigerian Yoruba action-adventure game / Lagos representative",
+        "place_label": "Nigeria-Lagos-representative-Yoruba action-adventure game",
+        "sort_place_label": "Nigeria-Lagos-representative-Yoruba action-adventure game",
+        "geocode_query": "Nigerian studio first video game Yoruba culture Lagos Nigeria game developer",
+        "place_type": "game_studio_country_city_representative_uncertain",
+        "location_precision": "country_city",
+        "place_reason": "既存C2 entryは、thenationalnews.comのNigerian studio初のYoruba文化を題材にしたアクションアドベンチャーゲーム記事について、ナイジェリアのスタジオと作品テーマは確認できるが、スタジオ名・ゲーム名・都市・所在地を確定できないため無配置としていた。後続の既存B2 entry `observed_nigerian_yoruba_action_adventure_game_lagos_uncertain_202501` では、同一記事対象について、本文・ゲーム名・スタジオ名・都市・オフィス所在地は未確認のまま、Nigerian game-studio / Yoruba-culture game contextの低confidence代表点としてLagosへ暫定配置している。今回の確認範囲でも、記事本文、公式サイト、ストアページ、開発者プロフィール、スタジオ情報から特定拠点を確認できないため、詳細地点にはしない。ただし作業方針上、完全に特定できない場合でも記事主語とNigerian studio / Yoruba culture game文脈から低confidenceの代表地点を置くため、C2を解除し、既存B2と同じLagos代表点へ寄せる。これは確認済みスタジオ所在地、文化的舞台、イベント会場、媒体所在地を確認したものではなく、ゲーム名・スタジオ名・都市・公式所在地が判明した場合は必ず差し替える。（一致語: Nigerian studio / first video game / Yoruba culture / action-adventure / Lagos representative）（一致語: Nigerian studio’s first video game is an action-adventure steeped in Yoruba culture - thenationalnews.com）",
+        "confidence": 0.22,
+        "rule_id": "disabled_c2_nigerian_first_video_game_yoruba_studio_unconfirmed_202501",
+        "matched_text": "Nigerian studio’s first video game is an action-adventure steeped in Yoruba culture - thenationalnews.com",
         "match_source": "known_place_title"
       }
     },
@@ -14480,6 +14557,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          139.7516,
+          35.6581
+        ]
+      },
+      "properties": {
+        "title": "【事前登録】『SAKAMOTO DAYS』初のスマホ向けゲームはマッチ3パズル！『SAKAMOTO DAYS デンジャラスパズル』（サカパズ）配信は2025年春を予定 - ファミ通",
+        "source": "ファミ通",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ZdjBsekp6Yk9VR3hncWR0d0pJTzFDczREcmlJekF2VHlxMzZ4d25HSDY2ai1UbGlhcC1XWE5vSGQtR2JMWjBtMWZYTGM5U2dvM1JPeUhtOA?oc=5",
+        "published_at": "2024-12-09T08:00:00+00:00",
+        "representative_place": "Bandai Namco Entertainment / Minato, Tokyo representative",
+        "place_label": "日本-東京都-港区-Bandai Namco Entertainment / SAO Memory Defrag",
+        "sort_place_label": "日本-東京都-港区-Bandai Namco Entertainment / SAO Memory Defrag",
+        "geocode_query": "Bandai Namco Entertainment Minato Tokyo Sword Art Online Memory Defrag",
+        "place_type": "mobile_game_publisher_district_representative_uncertain_title_team",
+        "location_precision": "district",
+        "place_reason": "The legacy active entry treated the Sword Art Online Memory Defrag preregistration item as a broad Japan mobile-game launch-market topic. Recheck confirmed the game as a Bandai Namco Entertainment mobile title, and public company context places Bandai Namco Entertainment in Minato, Tokyo after its 2016 move. This override therefore moves the article from a Japan country representative point to a Minato, Tokyo publisher-context representative point. This is not a confirmed title-team office, article venue, exact Bandai Namco Entertainment office coordinate, or media office; replace it if the article body, official game page, store page, or company profile identifies a more precise publisher/developer/operator site.（一致語: 事前登録）",
+        "confidence": 0.64,
+        "rule_id": "observed_sao_memory_defrag_bandai_namco_minato_tokyo_201801",
+        "matched_text": "事前登録",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -79.9959,
           40.4406
         ]
@@ -14566,8 +14670,8 @@
         ]
       },
       "properties": {
-        "title": "88 Pictures launches its gaming division – 88 Games - Indian Television",
-        "source": "Indian Television",
+        "title": "88 Pictures launches its gaming division – 88 Games - Indian Television Dot Com",
+        "source": "Indian Television Dot Com",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYVVZM0dTUzVkMnNoaURxcEVvb2xMNHVla05HMTgydWJfQlRuRG5UMXJYdmdyMVlBWEVqMnVUVFlhX25teGg2cU9NUGR0cTBIaERseFpmWHhiYmVvNXhFSnVDaC0zRlA0TUJDd3BsbHlJMWNfX0pndXhNTEtlUzg0eHQ1Uld2VGoxRXFaZDlxUlRVNW04NlFvcw?oc=5",
         "published_at": "2024-11-12T08:00:00+00:00",
         "representative_place": "88 Pictures / 88 Games, Mumbai representative",
@@ -14651,16 +14755,16 @@
         "source": "facebook.com",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQkVCdjRiLTF1WS1HenVHRXRlSFA0eFZfeTBIcFFJTmU4elUtZFFTSlU5RWRURC1pQWdaMnNBZ3hEeWJsLThGMklrZDRUWkY1eDZBeFA4NHllYjJJdXVOUU1tekxDcmhmNURjajRfbFlYMmdKZkpCYjBBdFlfendHOEF1Ri1rV3pVc0ZaeFhBc2prcWZVUXctZzFPLTRqOFk2VFFNbG8yZy0xeTJ2R0s0WktaV1VkZjctX3NZa2V5Y1BldndadDMw?oc=5",
         "published_at": "2024-11-07T08:00:00+00:00",
-        "representative_place": "Vi the Game / Manila representative",
+        "representative_place": "Vi the Game / Philippines representative",
         "place_label": "Philippines-Manila-representative-Vi the Game",
         "sort_place_label": "Philippines-Manila-representative-Vi the Game",
-        "geocode_query": "Vi the Game Filipino developed game Manila Philippines developer",
-        "place_type": "filipino_game_developer_country_city_representative_uncertain",
+        "geocode_query": "Vi the Game Filipino-developed game Manila Philippines",
+        "place_type": "filipino_game_project_country_city_representative_uncertain",
         "location_precision": "country_city",
-        "place_reason": "The item is a News5/Facebook-derived post indicating that the Filipino-developed game Vi the Game was introduced as a new addition to a competitive esports arena, but the developer name, official game site, city, and studio/office location could not be confirmed reliably in this pass. Use a low-confidence Manila representative point for the Filipino game-development / esports context until the article body, official site, store page, developer profile, or event/esports source identifies a more specific location. This is not a confirmed developer office, tournament venue, Facebook/News5 office, or arena site.（一致語: Vi the Game）",
-        "confidence": 0.22,
-        "rule_id": "observed_vi_the_game_manila_uncertain_202411",
-        "matched_text": "Vi the Game",
+        "place_reason": "既存C2 entryは、News5/Facebook由来の『Vi the Game』紹介投稿について、Filipino-developed gameであることは分かるが、開発元・都市・所在地を確定できないため無配置としていた。今回の確認範囲でも、公式サイト、開発スタジオ名、制作都市、確認済みオフィス住所は特定できないため、詳細地点にはしない。ただし作業方針上、完全に特定できない場合でも記事主語とフィリピン制作ゲーム文脈から低confidenceの代表地点を置くため、C2を解除し、Philippines / Manila representativeへ暫定配置する。これはNews5/Facebook投稿元、開発者個人住所、競技会場、確認済みスタジオ所在地を示すものではなく、開発元・都市・公式所在地が判明した場合は必ず差し替える。（一致語: Vi the Game / Filipino-developed game / News5 / competitive Esports Arena / Philippines representative）（一致語: News5. . #N5DOriginals | Ipinakilala na ang Filipino-developed game na \"Vi the Game\" bilang bagong dagdag sa competitive Esports Arena. #News5 | via Lui Urgino - facebook.com）",
+        "confidence": 0.2,
+        "rule_id": "disabled_c2_vi_the_game_filipino_developer_unconfirmed_202411",
+        "matched_text": "News5. . #N5DOriginals | Ipinakilala na ang Filipino-developed game na \"Vi the Game\" bilang bagong dagdag sa competitive Esports Arena. #News5 | via Lui Urgino - facebook.com",
         "match_source": "known_place_title"
       }
     },
@@ -14738,9 +14842,9 @@
         "geocode_query": "Kayfo web gaming Africa Lagos Nigeria company location",
         "place_type": "web_game_company_interview_country_city_representative_uncertain",
         "location_precision": "country_city",
-        "place_reason": "Pocket Gamer.bizの記事タイトルから、Kayfoとweb gamingに関するインタビュー/企業記事であることは確認できるが、今回の確認範囲ではKayfoの公式所在地・都市・法人住所を確認できなかった。前回はC2として無配置だったが、タスク2の方針に従い、媒体所在地ではなくアフリカ向けweb gaming企業文脈の低信頼代表点としてLagosへ暫定配置する。Lagosは確認済みKayfo所在地ではない。本文、公式サイト、会社プロフィール、登記情報で具体的な場所が判明した場合は必ず差し替える。（一致語: Kayfo Web gaming）（一致語: Kayfo: Web gaming \"has been a game changer\" - Pocket Gamer.biz）",
+        "place_reason": "既存C2 entryは、Pocket Gamer.bizのKayfoとweb gamingに関するインタビュー/企業記事について、記事主語は確認できるが、Kayfoの都市・所在地を確定できないため無配置としていた。後続の既存B2 entry `observed_kayfo_web_gaming_africa_lagos_uncertain_202410` では、同一記事対象について、Kayfoの公式所在地・都市・法人住所は未確認のまま、媒体所在地ではなくアフリカ向けweb gaming企業文脈の低confidence代表点としてLagosへ暫定配置している。今回の確認範囲でも、本文、公式サイト、会社プロフィール、登記情報から具体的な場所は確認できないため、詳細地点にはしない。ただし作業方針上、完全に特定できない場合でも記事主語とAfrica web gaming company/interview文脈から低confidenceの代表地点を置くため、C2を解除し、既存B2と同じKayfo web gaming interview / Lagos代表点へ寄せる。これはKayfoの確認済み所在地、法人住所、イベント会場、Pocket Gamer.biz媒体所在地を確認したものではなく、公式所在地や都市が判明した場合は必ず差し替える。（一致語: Kayfo / Web gaming / Africa / Lagos representative）（一致語: Kayfo: Web gaming \"has been a game changer\" - Pocket Gamer.biz）",
         "confidence": 0.2,
-        "rule_id": "observed_kayfo_web_gaming_africa_lagos_uncertain_202410",
+        "rule_id": "disabled_c2_kayfo_web_gaming_location_unconfirmed_202410",
         "matched_text": "Kayfo: Web gaming \"has been a game changer\" - Pocket Gamer.biz",
         "match_source": "known_place_title"
       }
@@ -14796,33 +14900,6 @@
         "confidence": 0.62,
         "rule_id": "observed_netflix_team_blue_studio_closure_los_angeles_202410",
         "matched_text": "Netflix Closes Its All-Star AAA Video Game Studio, Which Made Zero Games - Forbes",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.7516,
-          35.6581
-        ]
-      },
-      "properties": {
-        "title": "【2024年配信予定】女性向け無料ゲーム＆アプリの配信日・声優・事前登録など新作情報まとめ - にじめん",
-        "source": "にじめん",
-        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5kRm5HQWlGVk82NEpMVUs5eWZpM29aUnQtaXNkRUxVY2hNT0QxbVFRbFc5eG5zQlpWUG9zd1VldE1MeE80WEhDTUxQR1NPWjluaFhhQ2tHMA?oc=5",
-        "published_at": "2024-10-21T07:00:00+00:00",
-        "representative_place": "Bandai Namco Entertainment / Minato, Tokyo representative",
-        "place_label": "日本-東京都-港区-Bandai Namco Entertainment / SAO Memory Defrag",
-        "sort_place_label": "日本-東京都-港区-Bandai Namco Entertainment / SAO Memory Defrag",
-        "geocode_query": "Bandai Namco Entertainment Minato Tokyo Sword Art Online Memory Defrag",
-        "place_type": "mobile_game_publisher_district_representative_uncertain_title_team",
-        "location_precision": "district",
-        "place_reason": "The legacy active entry treated the Sword Art Online Memory Defrag preregistration item as a broad Japan mobile-game launch-market topic. Recheck confirmed the game as a Bandai Namco Entertainment mobile title, and public company context places Bandai Namco Entertainment in Minato, Tokyo after its 2016 move. This override therefore moves the article from a Japan country representative point to a Minato, Tokyo publisher-context representative point. This is not a confirmed title-team office, article venue, exact Bandai Namco Entertainment office coordinate, or media office; replace it if the article body, official game page, store page, or company profile identifies a more precise publisher/developer/operator site.（一致語: 事前登録）",
-        "confidence": 0.64,
-        "rule_id": "observed_sao_memory_defrag_bandai_namco_minato_tokyo_201801",
-        "matched_text": "事前登録",
         "match_source": "known_place_title"
       }
     },
@@ -15197,9 +15274,9 @@
         "geocode_query": "LightFury Games India studio Bengaluru representative",
         "place_type": "game_studio_launch_country_city_representative_uncertain",
         "location_precision": "country_city",
-        "place_reason": "記事主語はLightFury GamesのIndia studio立ち上げと経営陣強化。外部検索ではLightFury Gamesがインドのゲームスタートアップであることは確認できるが、今回の確認範囲ではMoneycontrol記事本文・公式会社情報・India studioの都市/住所を確認できなかった。前回はC2として無配置だったが、タスク2の方針に従い、媒体所在地ではなくIndia studioという記事主語に基づく低信頼のBengaluru代表点へ暫定配置する。Bengaluruはインドのゲーム開発拠点代表点であり、LightFury Gamesの確認済み所在地ではない。公式サイト・登記・採用ページ・記事本文で都市や住所が判明した場合は必ず差し替える。（一致語: LightFury Games launches India studio）（一致語: LightFury Games launches India studio; strengthens its leadership team - Moneycontrol.com）",
+        "place_reason": "既存C2 entryは、Moneycontrol.comのLightFury GamesによるIndia studio立ち上げと経営陣強化の記事について、会社・国までは取れるが、India studioの都市・住所を確定できないため無配置としていた。後続の既存B2 entry `observed_lightfury_games_india_studio_bengaluru_uncertain_202407` では、同一記事対象について、LightFury Gamesがインドのゲームスタートアップであることは確認できる一方、Moneycontrol記事本文・公式会社情報・India studioの都市/住所は未確認のまま、記事主語であるIndia studio文脈に基づく低confidenceのBengaluru代表点へ暫定配置している。今回の確認範囲でも、LightFury Games India studioの確認済み所在地や正確なオフィス住所は確認できないため、詳細地点にはしない。ただし作業方針上、完全に特定できない場合でも記事主語とIndia studio立ち上げ文脈から低confidenceの代表地点を置くため、C2を解除し、既存B2と同じBengaluru代表点へ寄せる。これはLightFury Gamesの確認済み所在地、登記住所、採用拠点、発表会場、Moneycontrol媒体所在地を確認したものではなく、公式サイト・登記・採用ページ・記事本文で都市や住所が判明した場合は必ず差し替える。（一致語: LightFury Games / India studio / Bengaluru representative）（一致語: LightFury Games launches India studio; strengthens its leadership team - Moneycontrol.com）",
         "confidence": 0.22,
-        "rule_id": "observed_lightfury_games_india_studio_bengaluru_uncertain_202407",
+        "rule_id": "disabled_c2_lightfury_games_india_studio_location_unconfirmed_202407",
         "matched_text": "LightFury Games launches India studio; strengthens its leadership team - Moneycontrol.com",
         "match_source": "known_place_title"
       }
@@ -15209,25 +15286,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.7516,
-          35.6581
+          120.9842,
+          14.5995
         ]
       },
       "properties": {
-        "title": "新作スマホゲーム『チョコットスタジアム』を発表！７月３日(水)より事前登録を開始！ - PR TIMES",
-        "source": "PR TIMES",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9HNnlENkpHZ3pQSEZwZFVsejA0bW1KU1RLMExPOEMwUjV0Qk50YVlWalRpc0xuZnFtdFdiT09udHo5LUlzWXZ5d2FSLWF4b3JEU09DMzZOdy1LeVl0eWRWaEk2SjI4b0phTVE?oc=5",
-        "published_at": "2024-07-03T07:00:00+00:00",
-        "representative_place": "Bandai Namco Entertainment / Minato, Tokyo representative",
-        "place_label": "日本-東京都-港区-Bandai Namco Entertainment / SAO Memory Defrag",
-        "sort_place_label": "日本-東京都-港区-Bandai Namco Entertainment / SAO Memory Defrag",
-        "geocode_query": "Bandai Namco Entertainment Minato Tokyo Sword Art Online Memory Defrag",
-        "place_type": "mobile_game_publisher_district_representative_uncertain_title_team",
-        "location_precision": "district",
-        "place_reason": "The legacy active entry treated the Sword Art Online Memory Defrag preregistration item as a broad Japan mobile-game launch-market topic. Recheck confirmed the game as a Bandai Namco Entertainment mobile title, and public company context places Bandai Namco Entertainment in Minato, Tokyo after its 2016 move. This override therefore moves the article from a Japan country representative point to a Minato, Tokyo publisher-context representative point. This is not a confirmed title-team office, article venue, exact Bandai Namco Entertainment office coordinate, or media office; replace it if the article body, official game page, store page, or company profile identifies a more precise publisher/developer/operator site.（一致語: 事前登録）",
-        "confidence": 0.64,
-        "rule_id": "observed_sao_memory_defrag_bandai_namco_minato_tokyo_201801",
-        "matched_text": "事前登録",
+        "title": "Netflix Arcane series producer Thomas Vu hints Filipino mythology game is in the works - PEP.ph",
+        "source": "PEP.ph",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNS0RxWGJ3TTFidXJ3VlVXNE5NVlVXeUtrT1VZelRkSVNTYkNxMENva01jVGhvOWdzaklFU3lud3JwX1JVYWZPdkhlc1dicE42d25lcmV6aDN4UTZYU2thRjlfN3p2SnM3Xzh3TXN0NGhSZE1pRTFORmIwSmljbHJYS01ERVBWd3NNVk9QbExhS3BvLTFfYWJ6Ym9mTDE?oc=5",
+        "published_at": "2024-06-29T07:00:00+00:00",
+        "representative_place": "Thomas Vu Filipino mythology game / Philippines representative",
+        "place_label": "Philippines-Manila-representative-Thomas Vu Filipino mythology game",
+        "sort_place_label": "Philippines-Manila-representative-Thomas Vu Filipino mythology game",
+        "geocode_query": "Thomas Vu Filipino mythology game Manila Philippines",
+        "place_type": "game_project_country_city_representative_uncertain",
+        "location_precision": "country_city",
+        "place_reason": "既存C2 entryは、PEP.phの『Netflix Arcane series producer Thomas Vu hints Filipino mythology game is in the works』について、Thomas Vuがフィリピン神話を題材にしたゲーム構想を示唆していることは分かるが、ゲーム名・開発スタジオ・開発都市・所在地を確定できないため無配置としていた。後続の既存B2 entry `observed_thomas_vu_filipino_mythology_game_manila_uncertain_202406` では、同一記事対象について、プロジェクト名・制作主体・都市が未確認のまま、Philippines mythology/game contextの一時的な地図アンカーとして、非常に低confidenceのManila代表点へ暫定配置している。今回の確認範囲でも、公式プロジェクト名、制作スタジオ、制作都市、Thomas Vuの該当プロジェクト拠点は確認できないため、詳細地点にはしない。ただし作業方針上、完全に特定できない場合でも記事主語とフィリピン神話ゲーム文脈から低confidenceの代表地点を置くため、C2を解除し、既存B2と同じThomas Vu Filipino mythology game / Philippines representativeへ寄せる。これはThomas Vuの確認済みオフィス、開発スタジオ、イベント会場、PEP.ph媒体所在地を確認したものではなく、プロジェクト名・制作主体・都市が判明した場合は必ず差し替える。（一致語: Thomas Vu / Filipino mythology game / PEP.ph / Manila representative）（一致語: Netflix Arcane series producer Thomas Vu hints Filipino mythology game is in the works - PEP.ph）",
+        "confidence": 0.2,
+        "rule_id": "disabled_c2_thomas_vu_filipino_mythology_game_location_unconfirmed_202406",
+        "matched_text": "Netflix Arcane series producer Thomas Vu hints Filipino mythology game is in the works - PEP.ph",
         "match_source": "known_place_title"
       }
     },
@@ -15305,10 +15382,37 @@
         "geocode_query": "Maria Kochmola Ilya Eremeev video games Cyprus Nicosia representative",
         "place_type": "interview_subject_country_city_representative_uncertain",
         "location_precision": "country_city",
-        "place_reason": "タイトルからMaria KochmolaとIlya Eremeevへのゲーム産業インタビュー/寄稿であることは確認できるが、今回の検索範囲では所属会社・都市・公式所在地を確認できなかった。前回はC2として無配置だったが、掲載元がCyprus Business News系ドメインであり、キプロスのゲーム産業文脈として扱える可能性があるため、タスク2の方針に従い、媒体所在地ではなく記事主語の暫定地域文脈としてNicosia代表点へ低信頼で配置する。人物所属会社・登記・公式プロフィール・インタビュー本文で都市や所在地が判明した場合は必ず差し替える。（一致語: Maria Kochmola and Ilya Eremeev video games）（一致語: Maria Kochmola and Ilya Eremeev: Video games have grown into the entertainment industry's most lucrative segment - cbn.com.cy）",
+        "place_reason": "既存C2 entryは、cbn.com.cyのMaria Kochmola and Ilya Eremeevへのゲーム産業インタビュー/寄稿記事について、人物名とゲーム産業文脈は確認できるが、所属会社・都市・所在地を確定できないため無配置としていた。後続の既存B2 entry `observed_maria_kochmola_ilya_eremeev_cyprus_nicosia_uncertain_202405` では、同一記事対象について、所属会社・都市・公式所在地は未確認のまま、掲載元がCyprus Business News系ドメインでありキプロスのゲーム産業文脈として扱える可能性があるため、記事主語の暫定地域文脈として低confidenceのNicosia代表点へ配置している。今回の確認範囲でも、人物の所属会社、登記、公式プロフィール、インタビュー本文上の都市や所在地は確認できないため、詳細地点にはしない。ただし作業方針上、完全に特定できない場合でも記事主語とCyprus gaming/business contextから低confidenceの代表地点を置くため、C2を解除し、既存B2と同じCyprus / Nicosia代表点へ寄せる。これは人物の確認済み所在地、所属会社オフィス、イベント会場、媒体本社を確認したものではなく、所属会社・都市・公式所在地が判明した場合は必ず差し替える。（一致語: Maria Kochmola / Ilya Eremeev / video games / Cyprus / Nicosia representative）（一致語: Maria Kochmola and Ilya Eremeev: Video games have grown into the entertainment industry's most lucrative segment - cbn.com.cy）",
         "confidence": 0.2,
-        "rule_id": "observed_maria_kochmola_ilya_eremeev_cyprus_nicosia_uncertain_202405",
+        "rule_id": "disabled_c2_maria_kochmola_ilya_eremeev_games_lucrative_segment_location_unconfirmed_202405",
         "matched_text": "Maria Kochmola and Ilya Eremeev: Video games have grown into the entertainment industry's most lucrative segment - cbn.com.cy",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.3823,
+          35.1856
+        ]
+      },
+      "properties": {
+        "title": "Inside Cyprus’ gaming boom — interview with Ilya Karpinskiy - Cyprus Mail",
+        "source": "Cyprus Mail",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVkI5TllJQm9WODV6N3dQdnhKNlFVaWdHMGdZamVGV2F5d0pra3NpTVloYTNHZTBPa3lIZW94OXczT2VaOHJaR1RZSnhheFloNmFWU0VKM09jLXJJMkN6eVBYQnFsSDFDU19zMVJ5cjRUOFFPbncyZFlpUW9zUUltdmc5ZG1Oc0h5bjE5U2F3MW5OakEtNWc?oc=5",
+        "published_at": "2024-05-14T07:00:00+00:00",
+        "representative_place": "Ilya Karpinskiy Cyprus gaming interview / Cyprus representative",
+        "place_label": "キプロス-ニコシア代表点-Ilya Karpinskiy gaming interview",
+        "sort_place_label": "キプロス-ニコシア代表点-Ilya Karpinskiy gaming interview",
+        "geocode_query": "Ilya Karpinskiy Cyprus gaming boom Nicosia",
+        "place_type": "interview_subject_country_city_representative_uncertain",
+        "location_precision": "country_city",
+        "place_reason": "既存C2 entryは、Cyprus Mailの『Inside Cyprus’ gaming boom — interview with Ilya Karpinskiy』について、Cyprusのゲーム産業ブームをIlya Karpinskiyへのインタビューとして扱う記事であることは確認できるが、人物の所属会社・都市・具体所在地を確定できないため無配置としていた。後続の既存B2 entry `observed_ilya_karpinskiy_cyprus_gaming_boom_nicosia_uncertain_202405` では、同一記事対象について、人物の会社、都市、公式住所は未確認のまま、Cyprus gaming-industry contextの一時的な地図アンカーとして低confidenceのNicosia代表点を置いている。今回の確認範囲でも、人物の所属会社、公式プロフィール、インタビュー本文上の都市や所在地は確認できないため、詳細地点にはしない。ただし作業方針上、完全に特定できない場合でも記事主語とCyprus gaming-industry contextから低confidenceの代表地点を置くため、C2を解除し、既存B2と同じCyprus / Nicosia代表点へ寄せる。これはIlya Karpinskiyの確認済みオフィス、所属会社所在地、イベント会場、Cyprus Mail媒体所在地を確認したものではなく、会社・都市・公式所在地が判明した場合は必ず差し替える。（一致語: Ilya Karpinskiy / Cyprus gaming boom / interview / Nicosia representative）（一致語: Inside Cyprus’ gaming boom — interview with Ilya Karpinskiy - Cyprus Mail）",
+        "confidence": 0.2,
+        "rule_id": "disabled_c2_ilya_karpinskiy_cyprus_gaming_boom_location_unconfirmed_202405",
+        "matched_text": "Inside Cyprus’ gaming boom — interview with Ilya Karpinskiy - Cyprus Mail",
         "match_source": "known_place_title"
       }
     },
@@ -15467,9 +15571,9 @@
         "geocode_query": "Stray Fawn Studio Zürich Dungeon Clawler",
         "place_type": "game_development_studio_announcement_city_uncertain_office",
         "location_precision": "city",
-        "place_reason": "記事タイトルは『Dungeon Clawler』発表記事で、既存C2では開発元所在地未確認として無配置だった。外部確認でDungeon ClawlerはStray Fawn Studio文脈で扱え、Stray Fawn StudioはZürich / Switzerlandのスタジオとして確認できるため、媒体所在地ではなく開発元側のZürich city精度へ配置する。正確なオフィス住所・記事固有の取材地点までは今回確定していないためB1に留める。（一致語: Dungeon Clawler）（一致語: 『ダンジョンクロウラー』発表。デッキ構築ローグライクにクレーンゲーム要素を掛け合わせた新作 - 電ファミニコゲーマー）",
-        "confidence": 0.68,
-        "rule_id": "observed_dungeon_clawler_stray_fawn_zurich_202403",
+        "place_reason": "既存C2 entryは、電ファミニコゲーマーの『Dungeon Clawler』発表記事について、作品名は確認できるが、開発元・都市・所在地を確定できないため無配置としていた。再確認では、外部検索でDungeon ClawlerがStray Fawn Studio作品として扱われ、Deutscher Entwicklerpreis 2025の受賞リストでもDungeon ClawlerがStray Fawn Studio, Zürich / Schweizと紐づけられていることを確認した。記事の場所性は電ファミニコゲーマー媒体所在地やSteamページではなく、作品の開発主体側にあるため、C2を解除し、Stray Fawn Studio / Zürich代表点へ配置する。これはStray Fawn Studioの正確なオフィス住所、発表会場、当該記事の取材場所を確認したものではないため、住所精度ではなくcity precisionに留める。（一致語: Dungeon Clawler / Stray Fawn Studio / Zürich / Switzerland）（一致語: 『ダンジョンクロウラー』発表。デッキ構築ローグライクにクレーンゲーム要素を掛け合わせた新作 - 電ファミニコゲーマー）",
+        "confidence": 0.66,
+        "rule_id": "disabled_c2_dungeon_clawler_developer_location_unconfirmed_202403",
         "matched_text": "『ダンジョンクロウラー』発表。デッキ構築ローグライクにクレーンゲーム要素を掛け合わせた新作 - 電ファミニコゲーマー",
         "match_source": "known_place_title"
       }
@@ -15579,6 +15683,33 @@
         "confidence": 0.78,
         "rule_id": "observed_ubisoft_singapore_skull_and_bones_fusionopolis_202402",
         "matched_text": "Skull and Bones, Singapore's first major video game title, launches to mixed reviews after decade-long wait",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7516,
+          35.6581
+        ]
+      },
+      "properties": {
+        "title": "【Land Arcana-ふしぎの大陸-】配信日と事前登録情報｜最新情報｜アルカナ - AppMedia",
+        "source": "AppMedia",
+        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1RSnlfMXZSQ0VzQlVMVUVQXzI4SW9LbXd0UmxPMFQ5aGZLUnZmbTRhOXlJZl9zZ3EyZWNXUnFQMkN2bmpCYWktZDRFTXg?oc=5",
+        "published_at": "2024-02-20T08:00:00+00:00",
+        "representative_place": "Bandai Namco Entertainment / Minato, Tokyo representative",
+        "place_label": "日本-東京都-港区-Bandai Namco Entertainment / SAO Memory Defrag",
+        "sort_place_label": "日本-東京都-港区-Bandai Namco Entertainment / SAO Memory Defrag",
+        "geocode_query": "Bandai Namco Entertainment Minato Tokyo Sword Art Online Memory Defrag",
+        "place_type": "mobile_game_publisher_district_representative_uncertain_title_team",
+        "location_precision": "district",
+        "place_reason": "The legacy active entry treated the Sword Art Online Memory Defrag preregistration item as a broad Japan mobile-game launch-market topic. Recheck confirmed the game as a Bandai Namco Entertainment mobile title, and public company context places Bandai Namco Entertainment in Minato, Tokyo after its 2016 move. This override therefore moves the article from a Japan country representative point to a Minato, Tokyo publisher-context representative point. This is not a confirmed title-team office, article venue, exact Bandai Namco Entertainment office coordinate, or media office; replace it if the article body, official game page, store page, or company profile identifies a more precise publisher/developer/operator site.（一致語: 事前登録）",
+        "confidence": 0.64,
+        "rule_id": "observed_sao_memory_defrag_bandai_namco_minato_tokyo_201801",
+        "matched_text": "事前登録",
         "match_source": "known_place_title"
       }
     },
@@ -16235,33 +16366,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.8174,
-          35.6729
-        ]
-      },
-      "properties": {
-        "title": "スマホゲーム『マブラヴ：ディメンションズ』6月後半に配信、本日4/2より事前登録開始。10万人突破で『君が望む永遠』コラボが決定 - ファミ通",
-        "source": "ファミ通",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1oQlpGMDlPSGI4OXBpbzFBZjZHV3BOYWs4XzYzSlZxMU1BQzA5VjdULUR0UUFnWm51aks3TXNiOG1oMnROVUx0WGxhemtISHZJN2NyTjBtMXNsaGpkQkE?oc=5",
-        "published_at": "2023-04-02T07:00:00+00:00",
-        "representative_place": "Crea-Tech / Koto, Tokyo representative",
-        "place_label": "日本-東京都-江東区-Crea-Tech / METAL MAX FIREWORKS",
-        "sort_place_label": "日本-東京都-江東区-Crea-Tech / METAL MAX FIREWORKS",
-        "geocode_query": "Crea-Tech Koto Tokyo Metal Max Fireworks",
-        "place_type": "mobile_game_developer_district_representative_uncertain_office",
-        "location_precision": "district",
-        "place_reason": "The legacy entry treated the METAL MAX FIREWORKS preregistration article as a generic Japan mobile-RPG launch-market topic. Recheck confirmed that Metal Max: Fireworks is part of the Metal Max series and is connected to Crea-Tech / Kadokawa development-publishing context; Crea-Tech is publicly described as based in Koto, Tokyo. This override therefore moves the topic from a Japan country representative point to a Koto, Tokyo developer-context representative point. This is not a confirmed article venue, exact Crea-Tech office address, Kadokawa office, or current operating-team site; replace it if the article body, official game site, store page, or company profile identifies a more precise development/publishing location.（一致語: 事前登録開始）",
-        "confidence": 0.66,
-        "rule_id": "observed_metal_max_fireworks_createch_koto_tokyo_201507",
-        "matched_text": "事前登録開始",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           139.7967,
           35.6581
         ]
@@ -16362,33 +16466,6 @@
         "confidence": 0.66,
         "rule_id": "observed_carry1st_preseries_b_cape_town_202301",
         "matched_text": "South African gaming startup, Carry1st, secures $27 million pre-Series B to develop and publish new games - Techpoint Africa",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          18.4241,
-          -33.9249
-        ]
-      },
-      "properties": {
-        "title": "African gaming startup Carry1st raises $27M from Bitkraft Ventures and a16z - TechCrunch",
-        "source": "TechCrunch",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNzhyZnZCdlNWdVh2N29CWExkbEdQNllUYndvOHZhcEE0UmMtQWZBdlZlaHpDdHcxcjJIQUlLcmNqLTlfeDBUcUEyN25tbmtHV2NfSDBQVWFrVnAyM1k3cG9Kb2cxWGw1SHV5cF9YRjFnMFktRDBFekx5NDJkUS1PU3c3aUpqY2dHemNXS180RlVPUlZ5d0U0NFRnUm5nVGI3eHNZMDBXazR6T19DbGc?oc=5",
-        "published_at": "2023-01-17T08:00:00+00:00",
-        "representative_place": "Carry1st / Cape Town representative",
-        "place_label": "南アフリカ-西ケープ州-ケープタウン-Carry1st / funding article",
-        "sort_place_label": "南アフリカ-西ケープ州-ケープタウン-Carry1st / funding article",
-        "geocode_query": "Carry1st Cape Town South Africa African gaming startup funding",
-        "place_type": "game_startup_funding_company_representative",
-        "location_precision": "city",
-        "place_reason": "The TechCrunch RSS item is about African gaming startup Carry1st raising $27M from Bitkraft Ventures and a16z. The place-bearing subject is Carry1st as the funded gaming startup, not TechCrunch or the investors. Existing project context has already treated Carry1st as a Cape Town / South African company-context entry for the same funding cluster. Cape Town is therefore used as the representative company point, with city precision because an article-specific office address was not confirmed.（一致語: African gaming startup Carry1st raises $27M from Bitkraft Ventures and a16z - TechCrunch）",
-        "confidence": 0.76,
-        "rule_id": "observed_carry1st_techcrunch_funding_cape_town_202301",
-        "matched_text": "African gaming startup Carry1st raises $27M from Bitkraft Ventures and a16z - TechCrunch",
         "match_source": "known_place_title"
       }
     },
@@ -16532,7 +16609,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.6918,
+          139.6906,
           35.6969
         ]
       },
@@ -16541,14 +16618,14 @@
         "source": "AUTOMATON",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1TNWJ6aUVNNVhUTGRCNklIR09TcUZTMnIzQ3ZlUkhDTnU2clAtelpQWDlRU3paUE5xNDd0VE9iTHJHeVBFTGxaLUF4anpnYXNZa0FMNFZrUXdReFZGajRlOFhTcHVOSk4zRm1OWA?oc=5",
         "published_at": "2022-12-13T08:00:00+00:00",
-        "representative_place": "FromSoftware Tokyo Head Office / Shinjuku Front Tower",
-        "place_label": "日本-東京都-新宿区-北新宿2-21-1-新宿フロントタワー-FromSoftware / Armored Core VI",
-        "sort_place_label": "日本-東京都-新宿区-北新宿2-21-1-新宿フロントタワー-FromSoftware / Armored Core VI",
-        "geocode_query": "Shinjuku Front Tower 21-1 Kita-Shinjuku 2-chome Shinjuku-ku Tokyo FromSoftware",
-        "place_type": "game_development_studio_interview_company_site",
-        "location_precision": "exact_site",
-        "place_reason": "記事主語はArmored Core VIの開発陣回答と作品説明。既存エントリはFromSoftware / Tokyo city精度だったが、FromSoftware公式会社概要で東京本社住所が『Shinjuku Front Tower, 21-1, Kita-Shinjuku 2-chome, Shinjuku-ku, Tokyo 169-0074 Japan』と確認できたため、開発主体FromSoftwareの公開本社住所へ補正する。これは開発会社本社アンカーであり、記事取材場所・発言場所・特定開発チームの部屋ではない。Fukuoka Studioや別拠点が当該記事の主体として確認された場合は差し替える。（一致語: アーマード・コア6 / FromSoftware）（一致語: 「『アーマード・コア6』は、『アーマード・コア』の新作です」との開発陣回答に海外ユーザー混乱。一体どんなゲームなんだ - AUTOMATON）",
-        "confidence": 0.82,
+        "representative_place": "FromSoftware / Shinjuku Front Tower, Shinjuku, Tokyo",
+        "place_label": "日本-東京都-新宿区-新宿フロントタワー-FromSoftware / Armored Core VI",
+        "sort_place_label": "日本-東京都-新宿区-新宿フロントタワー-FromSoftware / Armored Core VI",
+        "geocode_query": "FromSoftware Shinjuku Front Tower 2-21-1 Kita-Shinjuku Tokyo Armored Core VI",
+        "place_type": "game_development_studio_interview_hq_refinement",
+        "location_precision": "city",
+        "place_reason": "既存B1 entryは、AUTOMATONの『Armored Core VI』開発陣回答記事について、開発主体FromSoftware側に場所性があると判断し、FromSoftware / Tokyo city代表点へ置いていた。ただし東京全域代表点に留まっていた。再確認では、FromSoftware公式会社概要で本社所在地が東京都新宿区北新宿2-21-1 新宿フロントタワーであることを確認できる。記事の場所性はAUTOMATON媒体所在地や作品内世界ではなく、開発元FromSoftware側にあるため、Tokyo city代表点からShinjuku Front Tower / Shinjuku, Tokyo代表点へ補正する。これは当該記事の取材場所、開発陣の発話場所、担当部署フロアを確認したものではないため、住所精度ではなくcity/district精度に留める。（一致語: Armored Core VI / FromSoftware / Shinjuku Front Tower / Tokyo Head Office）（一致語: 「『アーマード・コア6』は、『アーマード・コア』の新作です」との開発陣回答に海外ユーザー混乱。一体どんなゲームなんだ - AUTOMATON）",
+        "confidence": 0.84,
         "rule_id": "observed_armored_core_6_fromsoftware_tokyo_202212",
         "matched_text": "「『アーマード・コア6』は、『アーマード・コア』の新作です」との開発陣回答に海外ユーザー混乱。一体どんなゲームなんだ - AUTOMATON",
         "match_source": "known_place_title"
@@ -16871,10 +16948,10 @@
         "geocode_query": "Africa game developers app store Lagos Nigeria",
         "place_type": "game_distribution_platform_country_city_representative_uncertain",
         "location_precision": "country_city",
-        "place_reason": "The article is about a customized app store for Africa's game developers, but the app-store name, operating company, city, and office location could not be confirmed in this pass. Use a very low-confidence Lagos representative point for the African game-developer distribution context until the article body, platform site, company profile, or official source identifies the operating entity and location. This is not a confirmed office, venue, or platform headquarters.（一致語: customized app store for Africa's game developers）",
+        "place_reason": "既存C2 entryは、DW.comの『A customized app store for Africa's game developers』について、アフリカのゲーム開発者向けカスタムアプリストアという主題は明確だが、アプリストア名・運営会社・都市・所在地を確定できないため無配置としていた。後続の既存B2 entry `observed_customized_app_store_africa_game_developers_lagos_uncertain_202207` では、同一記事対象について、運営主体や都市が未確認のまま、African game-developer distribution contextの一時的な地図アンカーとして、非常に低confidenceのLagos代表点へ暫定配置している。今回の確認範囲でも、本文、プラットフォームサイト、会社プロフィール、公式ソースから運営実体と所在地を確認できないため、詳細地点にはしない。ただし作業方針上、完全に特定できない場合でも記事主語とアフリカ向けゲーム配信プラットフォーム文脈から低confidenceの代表地点を置くため、C2を解除し、既存B2と同じAfrica game developers app store / Lagos代表点へ寄せる。これは確認済みオフィス、運営会社本社、イベント会場、DW媒体所在地を確認したものではなく、運営会社名や都市が判明した場合は必ず差し替える。（一致語: customized app store / Africa's game developers / game distribution platform / Lagos representative）（一致語: A customized app store for Africa's game developers - DW.com）",
         "confidence": 0.18,
-        "rule_id": "observed_customized_app_store_africa_game_developers_lagos_uncertain_202207",
-        "matched_text": "customized app store for Africa's game developers",
+        "rule_id": "disabled_c2_customized_app_store_africa_game_developers_location_unconfirmed_202207",
+        "matched_text": "A customized app store for Africa's game developers - DW.com",
         "match_source": "known_place_title"
       }
     },
@@ -17153,6 +17230,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          139.7288,
+          35.6197
+        ]
+      },
+      "properties": {
+        "title": "最強でんでんの事前登録情報！配信日・リリース日はいつ？ - スマホゲームCH",
+        "source": "スマホゲームCH",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAtVUZ0c2V1WlpVTW5BNTFTLVdVT2VvT0kxTTNoQTB3aU5Yd3ZkaTdBQ09GMWJrUVp5N2JrbWh2SENsZHVDY1JVSFhkXzM4VkE?oc=5",
+        "published_at": "2022-05-05T07:00:00+00:00",
+        "representative_place": "SEGA / Osaki Garden Tower",
+        "place_label": "日本-東京都-品川区-西品川1-1-1-大崎ガーデンタワー-SEGA / Persona 5: The Phantom X broadcast",
+        "sort_place_label": "日本-東京都-品川区-西品川1-1-1-大崎ガーデンタワー-SEGA / Persona 5: The Phantom X broadcast",
+        "geocode_query": "東京都品川区西品川1-1-1 住友不動産大崎ガーデンタワー SEGA Persona 5 The Phantom X P5X通信",
+        "place_type": "mobile_game_publisher_broadcast_company_site_uncertain_title_team",
+        "location_precision": "exact_site",
+        "place_reason": "旧エントリはP5Xのリリース日発表・公式放送記事を日本country代表点に置いていた。リポジトリ内の同作後続エントリでは、SEGA公式告知文脈としてOsaki Garden TowerのSEGA本社サイトへ配置済みであり、同じP5Xの日本向け告知記事として発表主体SEGA側に寄せるのが妥当である。このため旧country代表点をSEGAの公開本社ビル代表点へ補正する。これはBlack Wings Game Studioの開発拠点、配信番組の収録場所、媒体所在地、タイトル担当部署ではない。記事本文や公式サイトで別の運営会社・担当部署・収録会場が確認された場合は差し替える。（一致語: ペルソナ５: The Phantom X / P5X通信 / SEGA）（一致語: リリース日）",
+        "confidence": 0.78,
+        "rule_id": "observed_persona_5_phantom_x_release_broadcast_japan_202505",
+        "matched_text": "リリース日",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           121.0244,
           14.5547
         ]
@@ -17234,8 +17338,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.6503,
-          35.6762
+          139.7578,
+          35.694
         ]
       },
       "properties": {
@@ -17243,14 +17347,14 @@
         "source": "ITmedia",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NTjVNX1E0T2hyWXk2TUJkUW1YLU56M1ZoeFozNkhQOG5ieGJtejNuY3NsYUZRZlp5SUU3cC1KcjBzOHlrZmdFdkFlSDExTnBjOWJBbGFOVzJlWGZnZ0JtcXdfdF9TUkVOcDBfUw?oc=5",
         "published_at": "2022-03-31T07:00:00+00:00",
-        "representative_place": "Shueisha Games / Tokyo",
-        "place_label": "日本-東京-集英社ゲームス / company launch",
-        "sort_place_label": "日本-東京-集英社ゲームス / company launch",
-        "geocode_query": "Shueisha Games Tokyo headquarters",
-        "place_type": "game_company_launch_site_uncertain_office",
+        "representative_place": "Shueisha Games / Chiyoda, Tokyo representative",
+        "place_label": "日本-東京都-千代田区-集英社ゲームス / company launch",
+        "sort_place_label": "日本-東京都-千代田区-集英社ゲームス / company launch",
+        "geocode_query": "Shueisha Games Chiyoda Tokyo company launch",
+        "place_type": "game_company_launch_parent_hq_district_refinement",
         "location_precision": "city",
-        "place_reason": "記事主語は新会社『集英社ゲームス』の始動と新作タイトル発表。会社主体が明確で、東京文脈に置ける。ただし今回の確認範囲では正確なオフィス住所までは確定していないためB1に留める。（一致語: 新会社「集英社ゲームス」始動 新作タイトルも複数発表 集英社のノウハウ、人材も活用 - ITmedia）",
-        "confidence": 0.68,
+        "place_reason": "既存B1 entryは、ITmediaの新会社『集英社ゲームス』始動記事について、会社主体が明確であるためShueisha Games / Tokyo city代表点へ配置していたが、東京全域の代表点に留まっていた。再確認では、Shueisha Gamesは集英社のゲーム事業会社として設立された文脈であり、親会社・設立主体である集英社は東京都千代田区一ツ橋/神保町周辺に本社を置く会社として確認できる。今回の確認範囲では集英社ゲームス単体の当時の独立オフィス住所までは確定できないため、住所精度にはしない。ただし記事主語は集英社側の新会社設立であり、媒体所在地や東京汎用代表点よりは、集英社本社文脈に基づくChiyoda, Tokyo代表点が妥当であるため補正する。Shueisha Games単体の公式所在地が確認された場合は必ず差し替える。（一致語: 新会社「集英社ゲームス」始動 新作タイトルも複数発表 集英社のノウハウ、人材も活用 - ITmedia）",
+        "confidence": 0.74,
         "rule_id": "observed_shueisha_games_launch_tokyo_202203",
         "matched_text": "新会社「集英社ゲームス」始動 新作タイトルも複数発表 集英社のノウハウ、人材も活用 - ITmedia",
         "match_source": "known_place_title"
@@ -17280,6 +17384,33 @@
         "confidence": 0.78,
         "rule_id": "observed_xbox_game_pass_sea_launch_redmond_202203",
         "matched_text": "Microsoft PC Game Pass preview starts in Philippines, 4 other SEA countries - Rappler",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1297,
+          47.6401
+        ]
+      },
+      "properties": {
+        "title": "Xbox Game Pass Finally Coming to Indonesia, Malaysia, Philippines, Thailand and Vietnam - IGN Southeast Asia",
+        "source": "IGN Southeast Asia",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObkxsOGYtZEVPWWRzcWtXTlV2ZXVnRzlzNVFMNldmM2x4SGJxbjEySlpRZGtpbGp1ZlRWeWprTTVrR3F6Z2lzNDBmaXd0aDRrN1VESklCeHNjbUZEVU5CLVlPQVZFZkFzMXRfYXhzNHJOYmJiYmpNMlhacDZtOTdHc2tkS25HOW5ya1BFTnhMRWkyWEJWQUhmMmxkZTRtTWlmeGg2V1F3ZFJhQjZuTXJYRFdfYk1Uc2ZDVnZFM0NlUjFiaUc0b1ZOcjJfZw?oc=5",
+        "published_at": "2022-03-29T07:00:00+00:00",
+        "representative_place": "Microsoft / One Microsoft Way Redmond campus",
+        "place_label": "米国-ワシントン州-レドモンド-One Microsoft Way-Microsoft Gaming/Xbox",
+        "sort_place_label": "米国-ワシントン州-レドモンド-One Microsoft Way-Microsoft Gaming/Xbox",
+        "geocode_query": "One Microsoft Way Redmond WA Microsoft Xbox",
+        "place_type": "platform_company_site",
+        "location_precision": "exact_site",
+        "place_reason": "Microsoft/Xbox PC Game Pass regional availability articles anchored to Microsoft Redmond. Microsoft, Xbox, Game Pass, PC Game Pass, country names, and SEA standalone terms are not used as triggers.（一致語: Xbox Game Pass Finally Coming to Indonesia, Malaysia, Philippines, Thailand and Vietnam - IGN Southeast Asia）",
+        "confidence": 0.78,
+        "rule_id": "observed_xbox_game_pass_sea_launch_redmond_202203",
+        "matched_text": "Xbox Game Pass Finally Coming to Indonesia, Malaysia, Philippines, Thailand and Vietnam - IGN Southeast Asia",
         "match_source": "known_place_title"
       }
     },
@@ -17442,6 +17573,33 @@
         "confidence": 0.68,
         "rule_id": "observed_south_african_developers_publish_fpb_centurion_202111",
         "matched_text": "South African game developers won’t publish in their own country — here’s why - MyBroadband",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2551,
+          34.1425
+        ]
+      },
+      "properties": {
+        "title": "Netflix buys first video game studio, rolls out mobile games - The Star",
+        "source": "The Star",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZnlCVXB1VE5VNzUteXppaDgyMUZyTl8yc1ZQY1FPbmsyQlE4dXFRUjFKcmxhR0E2U1JMVEpwQVV1Z0UySkFCby1BSVVVazkzZ0w1Ni1pcWYzaVRtVlBlbHJqcnhnMTAzTXN0ckpYeXBQLVFkQ2c5WVR4eGZpZnFXc0xDMFcwZVBEMlZTeFFKNWNhdmF6TEt2ZUhaN1J0b2ZDODRQUTVETGVNbU1ZWi1NV01R?oc=5",
+        "published_at": "2021-09-29T07:00:00+00:00",
+        "representative_place": "Night School Studio / Glendale",
+        "place_label": "米国-カリフォルニア州-グレンデール-Night School Studio / Netflix acquisition",
+        "sort_place_label": "米国-カリフォルニア州-グレンデール-Night School Studio / Netflix acquisition",
+        "geocode_query": "Night School Studio Glendale California Netflix acquisition",
+        "place_type": "game_studio_acquisition_site_uncertain_office",
+        "location_precision": "city",
+        "place_reason": "記事主語はNetflixによる初のゲームスタジオ買収。買収対象はOxenfree開発元Night School Studioで、Glendale, California拠点として確認できる。買収元Netflixではなく対象スタジオ側に置く。正確なオフィス住所までは今回確定していないためB1に留める。（一致語: Netflix buys first video game studio, rolls out mobile games - The Star）",
+        "confidence": 0.74,
+        "rule_id": "observed_netflix_first_game_studio_night_school_glendale_202109",
+        "matched_text": "Netflix buys first video game studio, rolls out mobile games - The Star",
         "match_source": "known_place_title"
       }
     },
@@ -17652,9 +17810,9 @@
         "place_label": "フィリピン-マニラ首都圏-Chikon Club / Soup Pot",
         "sort_place_label": "フィリピン-マニラ首都圏-Chikon Club / Soup Pot",
         "geocode_query": "Chikon Club Soup Pot Philippines Manila Jorge Wieneke",
-        "place_type": "indie_game_developer_city_representative_uncertain_office",
+        "place_type": "indie_game_developer_city_representative",
         "location_precision": "city",
-        "place_reason": "以前のC2 entryは、Soup Pot、Chikon Club、Jorge Wienekeを扱う制作インタビューについて、開発主体の都市・所在地を確定できないため無配置としていた。後続再調査エントリでは、同記事をFilipino cooking game Soup PotのChikon Club / Jorge Wieneke制作文脈として扱い、媒体所在地や汎用Philippines代表点ではなく、フィリピンのインディーゲーム制作文脈のManila代表点へ置いている。このためC2を解除し、同じManila city代表点へ配置する。これは確認済みのChikon Club事務所、Jorge Wieneke個人住所、取材場所、音楽サイト所在地ではない。公式プロフィールや記事本文でより正確な制作拠点が確認された場合は差し替える。（一致語: Soup Pot / Chikon Club / Jorge Wieneke）（一致語: Chikon Club and Jorge Wieneke on creating the Filipino cooking game Soup Pot and its 'Budots'-inspired soundtrack - bandwagon.asia）",
+        "place_reason": "既存C2 entryは、bandwagon.asiaのFilipino cooking game『Soup Pot』、Chikon Club、Jorge Wienekeを扱う制作インタビューについて、作品・人物・音楽文脈は明確だが、開発主体の都市・所在地を確定できないため無配置としていた。後続の既存B2 entry `observed_soup_pot_chikon_club_manila_202106` では、同一記事対象について、具体的に場所を持つ主語をFilipino game creator / developer contextと判断し、媒体所在地や汎用Philippines代表点ではなく、Chikon Club / Soup PotのManila Metro代表点へ暫定配置している。今回の確認範囲でも、Chikon Clubの正確なスタジオ住所やJorge Wieneke個人所在地までは確認できないため、詳細地点にはしない。ただし作業方針上、完全に特定できない場合でも記事主語とフィリピン制作文脈から低〜中confidenceの代表地点を置くため、C2を解除し、既存B2と同じChikon Club / Manila代表点へ寄せる。これはbandwagon.asia媒体所在地、音楽制作場所、開発者の正確な住所、イベント会場を確認したものではなく、正式な開発拠点所在地が判明した場合は必ず差し替える。（一致語: Soup Pot / Chikon Club / Jorge Wieneke / Filipino cooking game / Manila representative）（一致語: Chikon Club and Jorge Wieneke on creating the Filipino cooking game Soup Pot and its 'Budots'-inspired soundtrack - bandwagon.asia）",
         "confidence": 0.66,
         "rule_id": "disabled_c2_soup_pot_chikon_club_jorge_wieneke_location_unconfirmed_202106",
         "matched_text": "Chikon Club and Jorge Wieneke on creating the Filipino cooking game Soup Pot and its 'Budots'-inspired soundtrack - bandwagon.asia",
@@ -18152,33 +18310,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.8174,
-          35.6729
-        ]
-      },
-      "properties": {
-        "title": "ミニモレーシング2日本配信決定！11月13日から事前登録開始 - PR TIMES",
-        "source": "PR TIMES",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBpUEhXaU45RzdNUUFyckJOQjU0THl3V0dlZUEwWVNyUEJWMkgzMEdWamRvWXI3TmI5ZXM1ci0wMDdNX092bVNHWjNzeTdERW96LU9RVkhNejhQLUY5RXpiUTBsZUxnRWxPU1E?oc=5",
-        "published_at": "2020-11-13T08:00:00+00:00",
-        "representative_place": "Crea-Tech / Koto, Tokyo representative",
-        "place_label": "日本-東京都-江東区-Crea-Tech / METAL MAX FIREWORKS",
-        "sort_place_label": "日本-東京都-江東区-Crea-Tech / METAL MAX FIREWORKS",
-        "geocode_query": "Crea-Tech Koto Tokyo Metal Max Fireworks",
-        "place_type": "mobile_game_developer_district_representative_uncertain_office",
-        "location_precision": "district",
-        "place_reason": "The legacy entry treated the METAL MAX FIREWORKS preregistration article as a generic Japan mobile-RPG launch-market topic. Recheck confirmed that Metal Max: Fireworks is part of the Metal Max series and is connected to Crea-Tech / Kadokawa development-publishing context; Crea-Tech is publicly described as based in Koto, Tokyo. This override therefore moves the topic from a Japan country representative point to a Koto, Tokyo developer-context representative point. This is not a confirmed article venue, exact Crea-Tech office address, Kadokawa office, or current operating-team site; replace it if the article body, official game site, store page, or company profile identifies a more precise development/publishing location.（一致語: 事前登録開始）",
-        "confidence": 0.66,
-        "rule_id": "observed_metal_max_fireworks_createch_koto_tokyo_201507",
-        "matched_text": "事前登録開始",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           139.7516,
           35.6581
         ]
@@ -18198,33 +18329,6 @@
         "confidence": 0.64,
         "rule_id": "observed_sao_memory_defrag_bandai_namco_minato_tokyo_201801",
         "matched_text": "配信決定",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.7023,
-          35.6586
-        ]
-      },
-      "properties": {
-        "title": "新作スマートフォン向けゲーム『スタースマッシュ』2020年11月16日（月）配信決定！ | 株式会社MIXIのプレスリリース - PR TIMES",
-        "source": "PR TIMES",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1rZHNkNmVPN0dINmQwZENldjFPZ1Zoa1Vralg2QVFsa09RNmwxa2JsS3FLQk1JcE4wa0FJdmQ0SUttcmtFNnpTbHJmVVlDLVhaeDhScXdEVVZDUHV4TTZzLUpHQzE0VWIxWGc?oc=5",
-        "published_at": "2020-10-29T07:00:00+00:00",
-        "representative_place": "MIXI / Shibuya Scramble Square",
-        "place_label": "日本-東京都-渋谷区-渋谷スクランブルスクエア-MIXI / Star Smash",
-        "sort_place_label": "日本-東京都-渋谷区-渋谷スクランブルスクエア-MIXI / Star Smash",
-        "geocode_query": "渋谷スクランブルスクエア 株式会社MIXI スタースマッシュ",
-        "place_type": "mobile_game_publisher_press_release_company_site_uncertain_title_team",
-        "location_precision": "exact_site",
-        "place_reason": "記事は株式会社MIXIのプレスリリースで、スマートフォン向けゲーム『スタースマッシュ』の配信決定を扱う。既存エントリはMIXI / Tokyo city精度だったが、再確認でMIXI本社が渋谷スクランブルスクエアにある文脈を確認できたため、東京代表点から発表主体MIXIの本社ビル代表点へ補正する。これは配信/発表主体側の会社アンカーであり、Star Smash担当部署、開発チーム、PR TIMES掲載場所、記事取材場所ではない。リリース本文や公式サイトで当該タイトルの別運営会社・別開発拠点が確認された場合は差し替える。（一致語: スタースマッシュ / MIXI）（一致語: 新作スマートフォン向けゲーム『スタースマッシュ』2020年11月16日（月）配信決定！ | 株式会社MIXIのプレスリリース - PR TIMES）",
-        "confidence": 0.76,
-        "rule_id": "observed_star_smash_mixi_tokyo_202010",
-        "matched_text": "新作スマートフォン向けゲーム『スタースマッシュ』2020年11月16日（月）配信決定！ | 株式会社MIXIのプレスリリース - PR TIMES",
         "match_source": "known_place_title"
       }
     },
@@ -18306,33 +18410,6 @@
         "confidence": 0.48,
         "rule_id": "observed_bayani_ranida_games_philippines_representative_202008",
         "matched_text": "Filipino fighting game ‘Bayani’ is historic! - Manila Bulletin",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          23.8667,
-          52.7167
-        ]
-      },
-      "properties": {
-        "title": "New video game set in Poland’s primeval Białowieża Forest - Notes From Poland",
-        "source": "Notes From Poland",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOWFpdF9KelJya2J4UUdPRGNCVmJPNXZMazZrVmh5ZW9NVXU0dzR5MnREZDl1R1VzOE55M0VGNFd0ZktuRjdET3REanp2N0lwYnNOcWJPWV9FV3VvSVkxMlZzN3dud3BiWGpybU90dDI1d3RVZ0IzTUFiVWhOWUhVeS1yU1IxT3lGSFVPS0tKcWZYM3lnUEVWWVVhX2tJY2Q5TUhPRA?oc=5",
-        "published_at": "2020-08-26T07:00:00+00:00",
-        "representative_place": "Białowieża Forest / Poland",
-        "place_label": "ポーランド-ビャウォヴィエジャの森-game setting",
-        "sort_place_label": "ポーランド-ビャウォヴィエジャの森-game setting",
-        "geocode_query": "Białowieża Forest Poland video game",
-        "place_type": "game_setting_real_world_natural_area",
-        "location_precision": "district",
-        "place_reason": "記事主語はポーランドのBiałowieża Forestを舞台にした新作ゲーム。開発会社都市ではなく、記事タイトル上の地理的焦点である実在の自然エリアに置く。森林は建物・会場ではないためAではなく、記事固有の自然エリア代表点としてB1に留める。（一致語: New video game set in Poland’s primeval Białowieża Forest - Notes From Poland）",
-        "confidence": 0.62,
-        "rule_id": "observed_bialowieza_forest_game_poland_natural_area_202008",
-        "matched_text": "New video game set in Poland’s primeval Białowieża Forest - Notes From Poland",
         "match_source": "known_place_title"
       }
     },
@@ -18603,6 +18680,33 @@
         "confidence": 0.58,
         "rule_id": "observed_global_x_four_companies_video_games_esports_new_york_202006",
         "matched_text": "Four Companies Leading the Rise of Video Games & Esports - Global X ETFs",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7288,
+          35.6197
+        ]
+      },
+      "properties": {
+        "title": "【Fallout Shelter Online】配信日・リリース日はいつ？事前登録情報 - AppMedia",
+        "source": "AppMedia",
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1yaFZzS0xaaHI3dGViMHZkc2sxb3dxVTNReG5LdWVMZ3VNOThqWTNGa2hwWFpSRlZWN0pMQXd3bGFfXzIxbFpSUVpMbw?oc=5",
+        "published_at": "2020-06-01T07:00:00+00:00",
+        "representative_place": "SEGA / Osaki Garden Tower",
+        "place_label": "日本-東京都-品川区-西品川1-1-1-大崎ガーデンタワー-SEGA / Persona 5: The Phantom X broadcast",
+        "sort_place_label": "日本-東京都-品川区-西品川1-1-1-大崎ガーデンタワー-SEGA / Persona 5: The Phantom X broadcast",
+        "geocode_query": "東京都品川区西品川1-1-1 住友不動産大崎ガーデンタワー SEGA Persona 5 The Phantom X P5X通信",
+        "place_type": "mobile_game_publisher_broadcast_company_site_uncertain_title_team",
+        "location_precision": "exact_site",
+        "place_reason": "旧エントリはP5Xのリリース日発表・公式放送記事を日本country代表点に置いていた。リポジトリ内の同作後続エントリでは、SEGA公式告知文脈としてOsaki Garden TowerのSEGA本社サイトへ配置済みであり、同じP5Xの日本向け告知記事として発表主体SEGA側に寄せるのが妥当である。このため旧country代表点をSEGAの公開本社ビル代表点へ補正する。これはBlack Wings Game Studioの開発拠点、配信番組の収録場所、媒体所在地、タイトル担当部署ではない。記事本文や公式サイトで別の運営会社・担当部署・収録会場が確認された場合は差し替える。（一致語: ペルソナ５: The Phantom X / P5X通信 / SEGA）（一致語: リリース日）",
+        "confidence": 0.78,
+        "rule_id": "observed_persona_5_phantom_x_release_broadcast_japan_202505",
+        "matched_text": "リリース日",
         "match_source": "known_place_title"
       }
     },
@@ -18962,25 +19066,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.2834,
-          37.5606
+          139.7288,
+          35.6197
         ]
       },
       "properties": {
-        "title": "SIEワールドワイド・スタジオ統括責任者に、Guerrillaのハーマン・ハルスト氏が就任。吉田修平氏はインディー開発者のサポートに専念 - AUTOMATON",
-        "source": "AUTOMATON",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wMDJhd0RZalZlUnBsdU5pSW5XMWZuQkExSkZkOW1WY2QyVmRoNnVudjJKZlhJSXIyMEpwbnRQM0M5ZllsOW1RMzRwcjBLMUVYSEt3NUlRU1JucTVFdW9vRFc0dVZ1WjIxRmRYOA?oc=5",
-        "published_at": "2019-11-07T08:00:00+00:00",
-        "representative_place": "Sony Interactive Entertainment / 2207 Bridgepointe Pkwy",
-        "place_label": "USA-California-San Mateo-2207 Bridgepointe Pkwy-Sony Interactive Entertainment",
-        "sort_place_label": "USA-California-San Mateo-2207 Bridgepointe Pkwy-Sony Interactive Entertainment",
-        "geocode_query": "2207 Bridgepointe Pkwy San Mateo CA 94404 Sony Interactive Entertainment",
-        "place_type": "platform_company_site",
+        "title": "【revisions next stage】配信日・リリース日はいつ？事前登録情報｜リヴィネク - AppMedia",
+        "source": "AppMedia",
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5qM2FHVjhSWUk2Y1owN2NoZmRvMC1QaXpHcUN3eFJmSDBndEViZmZRNzJGVERNbDdIM2FTMzBSNHVjdENtSEZhNDAwaw?oc=5",
+        "published_at": "2019-10-30T07:00:00+00:00",
+        "representative_place": "SEGA / Osaki Garden Tower",
+        "place_label": "日本-東京都-品川区-西品川1-1-1-大崎ガーデンタワー-SEGA / Persona 5: The Phantom X broadcast",
+        "sort_place_label": "日本-東京都-品川区-西品川1-1-1-大崎ガーデンタワー-SEGA / Persona 5: The Phantom X broadcast",
+        "geocode_query": "東京都品川区西品川1-1-1 住友不動産大崎ガーデンタワー SEGA Persona 5 The Phantom X P5X通信",
+        "place_type": "mobile_game_publisher_broadcast_company_site_uncertain_title_team",
         "location_precision": "exact_site",
-        "place_reason": "SIE Worldwide Studios leadership appointment article anchored to the Sony Interactive Entertainment global headquarters address. SIE, Guerrilla, Hulst, Yoshida, PlayStation, and indie developer standalone terms are not used as triggers.（一致語: SIEワールドワイド・スタジオ統括責任者に、Guerrillaのハーマン・ハルスト氏が就任。吉田修平氏はインディー開発者のサポートに専念）",
-        "confidence": 0.8,
-        "rule_id": "observed_sie_wws_hulst_yoshida_san_mateo_201911",
-        "matched_text": "SIEワールドワイド・スタジオ統括責任者に、Guerrillaのハーマン・ハルスト氏が就任。吉田修平氏はインディー開発者のサポートに専念",
+        "place_reason": "旧エントリはP5Xのリリース日発表・公式放送記事を日本country代表点に置いていた。リポジトリ内の同作後続エントリでは、SEGA公式告知文脈としてOsaki Garden TowerのSEGA本社サイトへ配置済みであり、同じP5Xの日本向け告知記事として発表主体SEGA側に寄せるのが妥当である。このため旧country代表点をSEGAの公開本社ビル代表点へ補正する。これはBlack Wings Game Studioの開発拠点、配信番組の収録場所、媒体所在地、タイトル担当部署ではない。記事本文や公式サイトで別の運営会社・担当部署・収録会場が確認された場合は差し替える。（一致語: ペルソナ５: The Phantom X / P5X通信 / SEGA）（一致語: リリース日）",
+        "confidence": 0.78,
+        "rule_id": "observed_persona_5_phantom_x_release_broadcast_japan_202505",
+        "matched_text": "リリース日",
         "match_source": "known_place_title"
       }
     },
@@ -19008,33 +19112,6 @@
         "confidence": 0.58,
         "rule_id": "disabled_c2_video_games_studied_inquirer_institution_unconfirmed_201910",
         "matched_text": "Video games ruin studies? But here they are studied - Inquirer.net",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.9842,
-          14.5995
-        ]
-      },
-      "properties": {
-        "title": "These 3 Pinoy-made video games are making sensations online - GMA Network",
-        "source": "GMA Network",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQWJVaVNKYVM5V3p1MlkydzY5YXVHVTE0ZlVXSGUzMlJ5YUprWEtGaVVGbXRPR2lITUE4MVU2aE82TXlHd2hycTBjY3h6cmotRWlqa0Fnb0FhQl84UDdYbGVqYzBsLUt4cFc5eVJZcExaUlllTUxWbm83c1JNNkp6RXRfQmI3M0RkRUltZTV0UDNYZ2RmXzFQR0k4OTBaOF9yem40NXdrUTYyZGp3ano1UFVqOERVR2lQZ0lDTGVrNU8wd9IBxwFBVV95cUxPV2xKQzZXV1U3b0J5YTMxdEt3c2IwVHpfdnNHVHdSaExVOTJMSG9lX09LdjNwaFE1V3hpSXhUdkg0cHc1empqUERLbjllcVYxSHlKWVFUd3JJZmxSUGJlUENnVUlHc2ZuX3NTNjdMcTM2TEtDQm5WVjhoZWMweThfOWg4c0xiU3FsUXFhYzdieXpRN3dyNll2a3VZNGpGdjNPSjAxbXcxUTdfTXNBWHRVZW54dlhtdURDUjdoa2NWejZ4SkZGVkMw?oc=5",
-        "published_at": "2019-09-10T07:00:00+00:00",
-        "representative_place": "Filipino indie-game scene / Manila representative",
-        "place_label": "フィリピン-マニラ首都圏-フィリピン製ゲーム紹介記事",
-        "sort_place_label": "フィリピン-マニラ首都圏-フィリピン製ゲーム紹介記事",
-        "geocode_query": "GMA Network Pinoy-made video games Manila Philippines indie games",
-        "place_type": "local_game_list_article",
-        "location_precision": "city",
-        "place_reason": "GMA Network記事は、オンラインで話題になっている3本のPinoy-made video gamesを紹介するローカルゲーム紹介記事。未解決レコードからは3本それぞれのタイトル、開発者、都市を個別に確定できないため、単一スタジオ地点ではなくフィリピンのインディーゲームシーン代表としてManila首都圏を置く。記事媒体のGMA NetworkもMetro Manila文脈が強く、国全体の重心よりも記事・産業文脈に合う。本文解析で各ゲームの開発元所在地が確認できた場合は、個別スタジオ地点に分割または差し替える。（一致語: These 3 Pinoy-made video games are making sensations online - GMA Network）",
-        "confidence": 0.62,
-        "rule_id": "observed_three_pinoy_made_games_gma_manila_201909",
-        "matched_text": "These 3 Pinoy-made video games are making sensations online - GMA Network",
         "match_source": "known_place_title"
       }
     },
@@ -19386,6 +19463,33 @@
         "confidence": 0.86,
         "rule_id": "observed_bukhman_brothers_playrix_dublin_201904",
         "matched_text": "Bukhman Brothers on Future of Playrix: “For $3 billion we won’t sell!” - Game World Observer",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7516,
+          35.6581
+        ]
+      },
+      "properties": {
+        "title": "期待の新作サバイバルゲーム『ライフアフター』iOS版が4/18、Android版は4/22に配信決定！ - ファミ通",
+        "source": "ファミ通",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9uU3hkVTJ6Q0ZLcUEwSFl1T3lEZUhRWnJya3RsWjFvNXRYYjZzdnJHNmg0dWUwSWZsWE93OU95ZThxNDRxSWZLamVDbzN2QWVIRlZn?oc=5",
+        "published_at": "2019-04-16T07:00:00+00:00",
+        "representative_place": "Bandai Namco Entertainment / Minato, Tokyo representative",
+        "place_label": "日本-東京都-港区-Bandai Namco Entertainment / SAO Memory Defrag",
+        "sort_place_label": "日本-東京都-港区-Bandai Namco Entertainment / SAO Memory Defrag",
+        "geocode_query": "Bandai Namco Entertainment Minato Tokyo Sword Art Online Memory Defrag",
+        "place_type": "mobile_game_publisher_district_representative_uncertain_title_team",
+        "location_precision": "district",
+        "place_reason": "The legacy active entry treated the Sword Art Online Memory Defrag preregistration item as a broad Japan mobile-game launch-market topic. Recheck confirmed the game as a Bandai Namco Entertainment mobile title, and public company context places Bandai Namco Entertainment in Minato, Tokyo after its 2016 move. This override therefore moves the article from a Japan country representative point to a Minato, Tokyo publisher-context representative point. This is not a confirmed title-team office, article venue, exact Bandai Namco Entertainment office coordinate, or media office; replace it if the article body, official game page, store page, or company profile identifies a more precise publisher/developer/operator site.（一致語: 配信決定）",
+        "confidence": 0.64,
+        "rule_id": "observed_sao_memory_defrag_bandai_namco_minato_tokyo_201801",
+        "matched_text": "配信決定",
         "match_source": "known_place_title"
       }
     },
@@ -20111,7 +20215,7 @@
         "geocode_query": "Secret 6 Manila Philippines Gears of War 4 Rappler",
         "place_type": "game_developer_support_studio_profile",
         "location_precision": "city",
-        "place_reason": "以前のC2 entryは、Microsoft『Gears of War 4』制作に関わったフィリピン側スタジオを扱うRappler記事について、タイトル/RSSからスタジオ名・都市・所在地を確定できないため無配置としていた。後続再調査エントリでは、該当するPH studioをSecret 6と判断し、記事の場所性をMicrosoft/Xbox側の米国拠点ではなく、Gears of War 4制作支援を行ったフィリピン側スタジオに置いている。このためC2を解除し、Secret 6のManila首都圏 city代表点へ配置する。これは確認済みの当時オフィス住所、制作チーム部屋、Rappler媒体所在地、Microsoft側所在地ではない。記事本文・会社情報でより正確なSecret 6当時拠点が確認された場合は差し替える。（一致語: PH studio / Gears Of War 4 / Secret 6）（一致語: Behind the PH studio that helped make Microsoft’s ‘Gears Of War 4’ - Rappler）",
+        "place_reason": "既存C2 entryは、Rapplerの『Behind the PH studio that helped make Microsoft’s Gears Of War 4』記事について、タイトル/RSSからはPH studio文脈は取れるが、スタジオ名・都市・所在地を確定できないため無配置としていた。後続の既存A2/B1相当entry `observed_secret6_gears_of_war_4_manila_201704` では、同一記事対象について、Microsoft『Gears of War 4』制作支援を行ったフィリピン側スタジオをSecret 6と判断し、Secret 6 / Manila代表点へ配置している。記事の場所性はMicrosoft/Xbox側の米国拠点ではなく、Gears of War 4制作支援を行ったフィリピン側スタジオにあるため、C2を解除し、既存の同一記事解決と同じSecret 6 / Manila代表点へ寄せる。これはSecret 6の正確な当時オフィス住所、作業フロア、Rappler取材場所を確認したものではないためcity precisionとする。（一致語: PH studio / Gears of War 4 / Rappler / Secret 6 / Manila）（一致語: Behind the PH studio that helped make Microsoft’s ‘Gears Of War 4’ - Rappler）",
         "confidence": 0.82,
         "rule_id": "disabled_c2_ph_studio_gears_of_war_4_location_unconfirmed_201704",
         "matched_text": "Behind the PH studio that helped make Microsoft’s ‘Gears Of War 4’ - Rappler",

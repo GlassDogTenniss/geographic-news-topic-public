@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "created_at": "2026-07-05T17:31:36.882112+00:00",
+  "created_at": "2026-07-05T23:10:48.238288+00:00",
   "stats": {
     "feed_id": "google-news-ai-ja",
     "feed_label": "Google News: AI / 生成AI",
@@ -16,7 +16,7 @@
     "resolved": 0,
     "unresolved": 100,
     "rules": 355,
-    "known_places": 839,
+    "known_places": 874,
     "loaded_data_files": [
       "data/place_rules.json",
       "data/unresolved_known_places.json",
@@ -748,7 +748,57 @@
       "data/unresolved_known_places_1059.json",
       "data/unresolved_known_places_1060.json",
       "data/unresolved_known_places_1061.json",
-      "data/unresolved_known_places_1062.json"
+      "data/unresolved_known_places_1062.json",
+      "data/unresolved_known_places_1063.json",
+      "data/unresolved_known_places_1064.json",
+      "data/unresolved_known_places_1065.json",
+      "data/unresolved_known_places_1066.json",
+      "data/unresolved_known_places_1067.json",
+      "data/unresolved_known_places_1068.json",
+      "data/unresolved_known_places_1069.json",
+      "data/unresolved_known_places_1070.json",
+      "data/unresolved_known_places_1071.json",
+      "data/unresolved_known_places_1072.json",
+      "data/unresolved_known_places_1073.json",
+      "data/unresolved_known_places_1074.json",
+      "data/unresolved_known_places_1075.json",
+      "data/unresolved_known_places_1076.json",
+      "data/unresolved_known_places_1077.json",
+      "data/unresolved_known_places_1078.json",
+      "data/unresolved_known_places_1079.json",
+      "data/unresolved_known_places_1080.json",
+      "data/unresolved_known_places_1081.json",
+      "data/unresolved_known_places_1082.json",
+      "data/unresolved_known_places_1083.json",
+      "data/unresolved_known_places_1084.json",
+      "data/unresolved_known_places_1085.json",
+      "data/unresolved_known_places_1086.json",
+      "data/unresolved_known_places_1087.json",
+      "data/unresolved_known_places_1088.json",
+      "data/unresolved_known_places_1089.json",
+      "data/unresolved_known_places_1090.json",
+      "data/unresolved_known_places_1091.json",
+      "data/unresolved_known_places_1092.json",
+      "data/unresolved_known_places_1093.json",
+      "data/unresolved_known_places_1094.json",
+      "data/unresolved_known_places_1095.json",
+      "data/unresolved_known_places_1096.json",
+      "data/unresolved_known_places_1097.json",
+      "data/unresolved_known_places_1098.json",
+      "data/unresolved_known_places_1099.json",
+      "data/unresolved_known_places_1100.json",
+      "data/unresolved_known_places_1101.json",
+      "data/unresolved_known_places_1102.json",
+      "data/unresolved_known_places_1103.json",
+      "data/unresolved_known_places_1104.json",
+      "data/unresolved_known_places_1105.json",
+      "data/unresolved_known_places_1106.json",
+      "data/unresolved_known_places_1107.json",
+      "data/unresolved_known_places_1108.json",
+      "data/unresolved_known_places_1109.json",
+      "data/unresolved_known_places_1110.json",
+      "data/unresolved_known_places_1111.json",
+      "data/unresolved_known_places_1112.json"
     ],
     "topic_keywords": [
       "AI",
@@ -798,14 +848,6 @@
       "source": "ビジネス+IT",
       "published_at": "2026-06-27T21:00:00+00:00",
       "summary": "OpenAIの自律型AI「Codex」の利用急増、企業の非エンジニアの利用が189倍に チャットからエージェントへの移行が進む    ビジネス+IT",
-      "feed_url": "https://news.google.com/rss/search?q=AI%20%E7%94%9F%E6%88%90AI%20OpenAI&hl=ja&gl=JP&ceid=JP:ja"
-    },
-    {
-      "title": "プロンプトの時代は終わった OpenAIが実践する「AIが迷わず働く職場」の作り方（ITmedia ビジネスオンライン） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9naDBFa0lqMENxb3A5NGpDNkR4U1VsOWM5a3hGT2s5Z0FaOTktMGJuYUFUZTBGNTUzY19yaXBPTWtlcHF2Rmgyd1k5REI3ajF0dW1zMUMzOUFUNUVpcEctcVkyaW96S1RIY2NERld6aTBGX2g3WTlhdXhILUxhNzg?oc=5",
-      "source": "Yahoo!ニュース",
-      "published_at": "2026-06-27T01:46:58+00:00",
-      "summary": "プロンプトの時代は終わった OpenAIが実践する「AIが迷わず働く職場」の作り方（ITmedia ビジネスオンライン）    Yahoo!ニュース",
       "feed_url": "https://news.google.com/rss/search?q=AI%20%E7%94%9F%E6%88%90AI%20OpenAI&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
@@ -1209,6 +1251,14 @@
       "feed_url": "https://news.google.com/rss/search?q=AI%20%E7%94%9F%E6%88%90AI%20OpenAI&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
+      "title": "GPT-5.4-Cyberが示すAI安全保障の新常識、封じ込めを選んだアンソロピックに対して選別と開放を選択したOpenAI 【生成AI事件簿】AIガバナンスは能力制限から身元検証にパラダイムシフト、AIのサイバー能力はすぐに人間を凌駕(1/5) - JBpress",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzbDZta01TZ1NHQUVqWW12c0hEdFNtb0JBNHViMGlQM3l6UWR1c1duQnludjlLY0VJZWNNdnlsR3IyNUhiVG5kbkRXeWZKYXFvNTVmRUpn?oc=5",
+      "source": "JBpress",
+      "published_at": "2026-04-17T07:00:00+00:00",
+      "summary": "GPT-5.4-Cyberが示すAI安全保障の新常識、封じ込めを選んだアンソロピックに対して選別と開放を選択したOpenAI 【生成AI事件簿】AIガバナンスは能力制限から身元検証にパラダイムシフト、AIのサイバー能力はすぐに人間を凌駕(1/5)    JBpress",
+      "feed_url": "https://news.google.com/rss/search?q=AI%20%E7%94%9F%E6%88%90AI%20OpenAI&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
       "title": "ディズニーとOpenAIの「提携破談」を知財専門弁護士はこう見る、日本のマンガ・ゲーム・アニメ企業は今後AIとどう対峙すべきか - ダイヤモンド・オンライン",
       "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9rSS1jSThQWWVaZHdDMGFfMnVuZW5EVC1acHg5R25RX2xSZXFQMURkeEdoaXdXdHBjZzBiaF8yOFRYZWVUWkRjNFp5NU7SAU9BVV95cUxNWktDM0p4QUpNQjBKbzJVQTZqd0tKVUxoWlNyejlWbW5idW15MTNvQXRMbExzQk9iZldRYllqRGRLZmR2SGJpNHdBWjZZeDIw?oc=5",
       "source": "ダイヤモンド・オンライン",
@@ -1318,6 +1368,14 @@
       "source": "KAI-YOU",
       "published_at": "2026-03-25T07:00:00+00:00",
       "summary": "OpenAI、動画生成AI「Sora」サービス終了へ ディズニー社との契約も解消か    KAI-YOU",
+      "feed_url": "https://news.google.com/rss/search?q=AI%20%E7%94%9F%E6%88%90AI%20OpenAI&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "title": "OpenAI、動画AI「Sora」終了 ディズニーとの提携も撤回 - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1mWTZnQVVwdlRhS2Rnd2pTZzhRWllONHRHMDh3MkZLY2NKa0xVb0xLdFFVVktFU2FKQkZPV25XQW9TSFljZVFmY3JKOWlNUnExeTlFTk1qU1oyX3l3Vll0NjV0dVMzc1RnSkVwRQ?oc=5",
+      "source": "日本経済新聞",
+      "published_at": "2026-03-25T07:00:00+00:00",
+      "summary": "OpenAI、動画AI「Sora」終了 ディズニーとの提携も撤回    日本経済新聞",
       "feed_url": "https://news.google.com/rss/search?q=AI%20%E7%94%9F%E6%88%90AI%20OpenAI&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
@@ -1502,14 +1560,6 @@
       "source": "ビジネス+IT",
       "published_at": "2025-12-12T08:00:00+00:00",
       "summary": "ディズニー、OpenAIに10億ドル出資 動画生成AIツール「Sora」でキャラクター利用を解禁    ビジネス+IT",
-      "feed_url": "https://news.google.com/rss/search?q=AI%20%E7%94%9F%E6%88%90AI%20OpenAI&hl=ja&gl=JP&ceid=JP:ja"
-    },
-    {
-      "title": "ウォルト・ディズニー・カンパニーと OpenAI、ディズニー各ブランドの人気キャラクターを Sora で利用可能にする画期的な合意を発表 - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ad08xZ1ZRNlN2R1hjdG9tVUVReXJ3bkM4Mzh4SWZkdkNYTmZGZUlINWtXZjBXdVVuTWpXOUNrQ2ZVV1h6Mk5tNHNWNWw2UV9TZjNyWUhlTXFJQWpQV0RlOTkzUQ?oc=5",
-      "source": "OpenAI",
-      "published_at": "2025-12-11T08:00:00+00:00",
-      "summary": "ウォルト・ディズニー・カンパニーと OpenAI、ディズニー各ブランドの人気キャラクターを Sora で利用可能にする画期的な合意を発表    OpenAI",
       "feed_url": "https://news.google.com/rss/search?q=AI%20%E7%94%9F%E6%88%90AI%20OpenAI&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
