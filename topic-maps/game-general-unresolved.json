@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "created_at": "2026-07-07T03:22:27.216392+00:00",
+  "created_at": "2026-07-08T23:56:21.196798+00:00",
   "stats": {
     "feed_id": "game-general",
     "feed_label": "ゲーム一般ニュース",
@@ -11,18 +11,18 @@
       "https://news.google.com/rss/search?q=%E4%BB%BB%E5%A4%A9%E5%A0%82%20PlayStation%20Xbox%20Steam%20%E3%82%B2%E3%83%BC%E3%83%A0&hl=ja&gl=JP&ceid=JP:ja"
     ],
     "rss_url": "https://news.google.com/rss/search?q=video%20games%20gaming%20news%20Nintendo%20PlayStation%20Xbox%20Steam&hl=en&gl=US&ceid=US:en",
-    "fetched": 291,
+    "fetched": 288,
     "fetched_by_url": {
-      "https://news.google.com/rss/search?q=video%20games%20gaming%20news%20Nintendo%20PlayStation%20Xbox%20Steam&hl=en&gl=US&ceid=US:en": 75,
-      "https://news.google.com/rss/search?q=game%20release%20update%20Nintendo%20PlayStation%20Xbox%20Steam&hl=en&gl=US&ceid=US:en": 75,
-      "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%20%E6%96%B0%E4%BD%9C%20Switch%20PS5%20Xbox%20Steam&hl=ja&gl=JP&ceid=JP:ja": 79,
+      "https://news.google.com/rss/search?q=video%20games%20gaming%20news%20Nintendo%20PlayStation%20Xbox%20Steam&hl=en&gl=US&ceid=US:en": 76,
+      "https://news.google.com/rss/search?q=game%20release%20update%20Nintendo%20PlayStation%20Xbox%20Steam&hl=en&gl=US&ceid=US:en": 74,
+      "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%20%E6%96%B0%E4%BD%9C%20Switch%20PS5%20Xbox%20Steam&hl=ja&gl=JP&ceid=JP:ja": 76,
       "https://news.google.com/rss/search?q=%E4%BB%BB%E5%A4%A9%E5%A0%82%20PlayStation%20Xbox%20Steam%20%E3%82%B2%E3%83%BC%E3%83%A0&hl=ja&gl=JP&ceid=JP:ja": 78
     },
-    "filtered": 258,
-    "resolved": 116,
-    "unresolved": 142,
+    "filtered": 256,
+    "resolved": 118,
+    "unresolved": 138,
     "rules": 355,
-    "known_places": 1070,
+    "known_places": 1253,
     "loaded_data_files": [
       "data/place_rules.json",
       "data/unresolved_known_places.json",
@@ -1195,7 +1195,54 @@
       "data/unresolved_known_places_1501.json",
       "data/unresolved_known_places_1502.json",
       "data/unresolved_known_places_1503.json",
-      "data/unresolved_known_places_1504.json"
+      "data/unresolved_known_places_1504.json",
+      "data/unresolved_known_places_1505.json",
+      "data/unresolved_known_places_1506.json",
+      "data/unresolved_known_places_1507.json",
+      "data/unresolved_known_places_1508.json",
+      "data/unresolved_known_places_1509.json",
+      "data/unresolved_known_places_1510.json",
+      "data/unresolved_known_places_1511.json",
+      "data/unresolved_known_places_1512.json",
+      "data/unresolved_known_places_1513.json",
+      "data/unresolved_known_places_1514.json",
+      "data/unresolved_known_places_1515.json",
+      "data/unresolved_known_places_1516.json",
+      "data/unresolved_known_places_1517.json",
+      "data/unresolved_known_places_1518.json",
+      "data/unresolved_known_places_1519.json",
+      "data/unresolved_known_places_1520.json",
+      "data/unresolved_known_places_1521.json",
+      "data/unresolved_known_places_1522.json",
+      "data/unresolved_known_places_1523.json",
+      "data/unresolved_known_places_1524.json",
+      "data/unresolved_known_places_1525.json",
+      "data/unresolved_known_places_1526.json",
+      "data/unresolved_known_places_1527.json",
+      "data/unresolved_known_places_1528.json",
+      "data/unresolved_known_places_1529.json",
+      "data/unresolved_known_places_1530.json",
+      "data/unresolved_known_places_1531.json",
+      "data/unresolved_known_places_1532.json",
+      "data/unresolved_known_places_1533.json",
+      "data/unresolved_known_places_1534.json",
+      "data/unresolved_known_places_1535.json",
+      "data/unresolved_known_places_1536.json",
+      "data/unresolved_known_places_1537.json",
+      "data/unresolved_known_places_1538.json",
+      "data/unresolved_known_places_1539.json",
+      "data/unresolved_known_places_1540.json",
+      "data/unresolved_known_places_1541.json",
+      "data/unresolved_known_places_1542.json",
+      "data/unresolved_known_places_1543.json",
+      "data/unresolved_known_places_1544.json",
+      "data/unresolved_known_places_1545.json",
+      "data/unresolved_known_places_1546.json",
+      "data/unresolved_known_places_1547.json",
+      "data/unresolved_known_places_1548.json",
+      "data/unresolved_known_places_1549.json",
+      "data/unresolved_known_places_1550.json",
+      "data/unresolved_known_places_1551.json"
     ],
     "topic_keywords": [
       "game",
@@ -1247,20 +1294,20 @@
   },
   "unresolved": [
     {
-      "title": "2026年7月発売のおすすめ新作ゲーム5選！『リズム天国』復活に『アサクリ』リメイク、『夜廻』スタッフの不穏なスローライフも【特集】（インサイド） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02cUVRX094V0VSOUlsSWFkUFlfLVl0bng1VDVMNGJ5OWwzS1I1TmdQQ0tYT0ZOaFZjSGI3SXZQN3RDdWRET2ZWQWlndWFSdmV5ejlZTzRtR25sekhibmowNzl2Q1JKVzlhVWZPQ0dtYnAwa2Q3Q01ha0NxeUR2QVE?oc=5",
-      "source": "Yahoo!ニュース",
-      "published_at": "2026-07-04T04:00:04+00:00",
-      "summary": "2026年7月発売のおすすめ新作ゲーム5選！『リズム天国』復活に『アサクリ』リメイク、『夜廻』スタッフの不穏なスローライフも【特集】（インサイド）    Yahoo!ニュース",
-      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%20%E6%96%B0%E4%BD%9C%20Switch%20PS5%20Xbox%20Steam&hl=ja&gl=JP&ceid=JP:ja"
+      "title": "2K Summer Sale drops huge name games to lowest ever price - Daily Express",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbDVhcWxvRlAyUXNtYzU5ZlBmNUFZWG93TVZnUG9BVDRDMlVLa1hHb05pd0E0ZDFLMWJYVmNzb3VXdV9iMXAzRlMxYl9fNmpOZnZqYTFIMENtYmZDbmk5aC1IczJlVmkzdThLN0NGRlpINXhhSEkwYUk0NS1mQ2Q3MWlpQnpXcGPSAYwBQVVfeXFMTzNVY0c5dzJoTFljdGVrM29uVHZ5eExVb1B3aGpiR2lqRjhvOTM4WDZYejFmOVIxVnBpUVZSLUJ5WmtIUVJleE9HZ2ZFaklPYmhKc0t3Z256RnpPOGIzSnBTSFUwaFVPek9sN1ZiZV9XRjhjS2tpVlc3SkxUZ1B4akFmQ3VZZjVnVDNJNUg?oc=5",
+      "source": "Daily Express",
+      "published_at": "2026-07-08T19:11:00+00:00",
+      "summary": "2K Summer Sale drops huge name games to lowest ever price    Daily Express",
+      "feed_url": "https://news.google.com/rss/search?q=video%20games%20gaming%20news%20Nintendo%20PlayStation%20Xbox%20Steam&hl=en&gl=US&ceid=US:en"
     },
     {
-      "title": "Upcoming Video Game Release Dates Schedule - Video Games Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaGdrSnlZVi1TamZ2VXFQMlRKLWdzYXg3bnJIWTBsOWNpb21iLWVtaldNMTUwWk5SYlBkYXNJMUFQOGFTYlU4NmxrN3NRMTMtRFJsOXdYTHRCU1B2OGNPbDNkSFhWekRQTW0wVjhTNndBdDdEODdIU1J4NGtFeXlfSzA1WDVnUQ?oc=5",
-      "source": "Video Games Chronicle",
-      "published_at": "2026-07-02T22:00:27+00:00",
-      "summary": "Upcoming Video Game Release Dates Schedule    Video Games Chronicle",
-      "feed_url": "https://news.google.com/rss/search?q=game%20release%20update%20Nintendo%20PlayStation%20Xbox%20Steam&hl=en&gl=US&ceid=US:en"
+      "title": "『ドラゴンボール ゼノバース2』孫悟空・超極悪化（克服）＆時の界王神・超極悪化が参戦。最終DLCと無料アップデート22弾が配信中 - 電撃オンライン",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwMEprT0JBdUVOMEhOYnU2WXM2RVMwUm5IXzFtUEFuNUZEaUJmQkZvdUdYTWx6cGJraWN2bzhPWVFVQ2s2RC1JQkJNSXRyTUtjdzRvcXlYcW0zQQ?oc=5",
+      "source": "電撃オンライン",
+      "published_at": "2026-07-08T07:49:00+00:00",
+      "summary": "『ドラゴンボール ゼノバース2』孫悟空・超極悪化（克服）＆時の界王神・超極悪化が参戦。最終DLCと無料アップデート22弾が配信中    電撃オンライン",
+      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%20%E6%96%B0%E4%BD%9C%20Switch%20PS5%20Xbox%20Steam&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
       "title": "Price hikes are making gaming feel like a luxury hobby - Business Insider",
@@ -1269,6 +1316,22 @@
       "published_at": "2026-06-26T07:00:00+00:00",
       "summary": "Price hikes are making gaming feel like a luxury hobby    Business Insider",
       "feed_url": "https://news.google.com/rss/search?q=video%20games%20gaming%20news%20Nintendo%20PlayStation%20Xbox%20Steam&hl=en&gl=US&ceid=US:en"
+    },
+    {
+      "title": "Fatal Frame 2 Remake Update 1.004 for June Fixes Progression, Trophy Issues - MP1st",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPLVpMVUZPN2I0dEhGWVZaT0JFMlNlaEFkSXBHNk1YVkNQa0NYN3ktc1VNQk9ZNGNsOGctdXhCMG1fYlhzVnNlMFNWcjV6V3JlQnlOV3kwRURTREFJZXZuOF8wc1BOZUE3TWNYRkdyWlVKYnhGeWlWM19TOFljV3BSeHlXczY0R2twNTBRVXFwSzRNaDdDTkJveTZnX042V19zc3RLbXJkN2hHbnM1MjNVYWlzNkltQQ?oc=5",
+      "source": "MP1st",
+      "published_at": "2026-06-22T07:00:00+00:00",
+      "summary": "Fatal Frame 2 Remake Update 1.004 for June Fixes Progression, Trophy Issues    MP1st",
+      "feed_url": "https://news.google.com/rss/search?q=game%20release%20update%20Nintendo%20PlayStation%20Xbox%20Steam&hl=en&gl=US&ceid=US:en"
+    },
+    {
+      "title": "「欲しすぎるだろ…」『ドラクエ』新作ゲームの“特典グッズ”に「かわいい」「仲間にするしかない」（マグミクス） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9lNXRBTEJrOERMek9MeGk4YWx6VlFBU3pXTENBSmFLTGttQ2w1LW5ZTDBYVlI4QU9LWVFDeW5EZjFnWXY2WHNKUGRaZXFpQnJIREs1V1BaUjg5cVBLNC1iQ2lPa0FnZW4tR3RsaVF0WUk5TFlRTFZqTzZRZWlJNGM?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-06-14T07:00:00+00:00",
+      "summary": "「欲しすぎるだろ…」『ドラクエ』新作ゲームの“特典グッズ”に「かわいい」「仲間にするしかない」（マグミクス）    Yahoo!ニュース",
+      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%20%E6%96%B0%E4%BD%9C%20Switch%20PS5%20Xbox%20Steam&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
       "title": "Nintendo Direct June 2026 — Every Major Reveal, Trailer, Announcement and Update - IGN",
@@ -1311,14 +1374,6 @@
       "feed_url": "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%20%E6%96%B0%E4%BD%9C%20Switch%20PS5%20Xbox%20Steam&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
-      "title": "『キングダム ハーツ4』最新映像公開！ 対応機種はSwitch2、PS5、Xbox Series X|S、PC【Nintendo Direct 2026.6.9】 - ファミ通",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA5WVpQYVlZd0JIQ1d6WG9HMDdtTUNUeHNnRUV4Z2pwRzIxcFh4d1ozR1dZcHNxOThOSmZULVg2czNoSHVxQzZMd2twRkpsc3pJb290aXZydw?oc=5",
-      "source": "ファミ通",
-      "published_at": "2026-06-09T07:00:00+00:00",
-      "summary": "『キングダム ハーツ4』最新映像公開！ 対応機種はSwitch2、PS5、Xbox Series X|S、PC【Nintendo Direct 2026.6.9】    ファミ通",
-      "feed_url": "https://news.google.com/rss/search?q=%E4%BB%BB%E5%A4%A9%E5%A0%82%20PlayStation%20Xbox%20Steam%20%E3%82%B2%E3%83%BC%E3%83%A0&hl=ja&gl=JP&ceid=JP:ja"
-    },
-    {
       "title": "『テイルズ オブ エターニア リマスター』10月15日発売。秘奥義やブルー・アースが初めて登場した人気作が現行機種で遊べるように【Nintendo Direct 2026.6.9】 - ファミ通",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBfU0U5UEtvczAzYUw2MEVYTTRNX1hYUDFaQnY3YnZzbHJTRHJkWTcxMXJuUHU3OUpxUjNuUWFJX1k0M1plODNWQTVPTTNKZWs4N0JCUWdLaw?oc=5",
       "source": "ファミ通",
@@ -1327,12 +1382,20 @@
       "feed_url": "https://news.google.com/rss/search?q=%E4%BB%BB%E5%A4%A9%E5%A0%82%20PlayStation%20Xbox%20Steam%20%E3%82%B2%E3%83%BC%E3%83%A0&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
+      "title": "『キングダム ハーツ4』最新映像公開！ 対応機種はSwitch2、PS5、Xbox Series X|S、PC【Nintendo Direct 2026.6.9】 - ファミ通",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA5WVpQYVlZd0JIQ1d6WG9HMDdtTUNUeHNnRUV4Z2pwRzIxcFh4d1ozR1dZcHNxOThOSmZULVg2czNoSHVxQzZMd2twRkpsc3pJb290aXZydw?oc=5",
+      "source": "ファミ通",
+      "published_at": "2026-06-09T07:00:00+00:00",
+      "summary": "『キングダム ハーツ4』最新映像公開！ 対応機種はSwitch2、PS5、Xbox Series X|S、PC【Nintendo Direct 2026.6.9】    ファミ通",
+      "feed_url": "https://news.google.com/rss/search?q=%E4%BB%BB%E5%A4%A9%E5%A0%82%20PlayStation%20Xbox%20Steam%20%E3%82%B2%E3%83%BC%E3%83%A0&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
       "title": "Xbox Games Showcase 2026 — Every Major Reveal, Trailer, Announcement and Update - IGN",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVjB3emZLYjdmU1ZEWGJnVXpNdzVOT09LNUdJNE0ydGQ2QWZiRzczZy1oLW9pU2wwcVNpdmpwX0hPcGZ2Q3VRNlh1MVEwYzZNZjhkanNxdGVuZVgyaG9aSTRlNmNQakpsaGFlZHVCYzZtOUN5V0N6QjVCc2Z3cEVfRkoySDduX1gwUGNGQndYMjVyT3Bi?oc=5",
       "source": "IGN",
       "published_at": "2026-06-08T07:00:00+00:00",
       "summary": "Xbox Games Showcase 2026 — Every Major Reveal, Trailer, Announcement and Update    IGN",
-      "feed_url": "https://news.google.com/rss/search?q=game%20release%20update%20Nintendo%20PlayStation%20Xbox%20Steam&hl=en&gl=US&ceid=US:en"
+      "feed_url": "https://news.google.com/rss/search?q=video%20games%20gaming%20news%20Nintendo%20PlayStation%20Xbox%20Steam&hl=en&gl=US&ceid=US:en"
     },
     {
       "title": "『クレイジータクシー』新作『Crazy Taxi: World Tour』正式発表。“大規模プロジェクト”となる新作がついにお披露目 - AUTOMATON",
@@ -1340,14 +1403,6 @@
       "source": "AUTOMATON",
       "published_at": "2026-06-08T07:00:00+00:00",
       "summary": "『クレイジータクシー』新作『Crazy Taxi: World Tour』正式発表。“大規模プロジェクト”となる新作がついにお披露目    AUTOMATON",
-      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%20%E6%96%B0%E4%BD%9C%20Switch%20PS5%20Xbox%20Steam&hl=ja&gl=JP&ceid=JP:ja"
-    },
-    {
-      "title": "ホラーアドベンチャー三部作ついに完結！ 衝撃の結末を迎えるライリーの旅『Amanda the Adventurer 3』がSwitch、PS5、Xboxでも発売 - AppBank",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE02OEl3dnZPYm1RdVp5NGQ3U3RiVGtXaU1HR3ktNDNPbnJSNUo4SkpiMmVtSlltRmRtX2F1UkR1OERSX2ZPUEpLZ2FNR0F6RnNEaHB0VDQ5cDFKcjBvZnlaWA?oc=5",
-      "source": "AppBank",
-      "published_at": "2026-06-06T07:00:00+00:00",
-      "summary": "ホラーアドベンチャー三部作ついに完結！ 衝撃の結末を迎えるライリーの旅『Amanda the Adventurer 3』がSwitch、PS5、Xboxでも発売    AppBank",
       "feed_url": "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%20%E6%96%B0%E4%BD%9C%20Switch%20PS5%20Xbox%20Steam&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
@@ -1367,19 +1422,19 @@
       "feed_url": "https://news.google.com/rss/search?q=%E4%BB%BB%E5%A4%A9%E5%A0%82%20PlayStation%20Xbox%20Steam%20%E3%82%B2%E3%83%BC%E3%83%A0&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
+      "title": "スイッチ2版『エルデンリング』8月28日発売決定 DLCや新要素も収録 - ゲーム - ニュース - クランクイン！",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1sQnFLR2ExblZFQnBudVlLWGx1SzNSMlM1dHpnUnhWN2FKMTRKMnRvTVRCTTlqT0planpMc3ZBNEFZUGJkQ3BXa1o5STU2cnM?oc=5",
+      "source": "クランクイン！",
+      "published_at": "2026-06-05T01:12:25+00:00",
+      "summary": "スイッチ2版『エルデンリング』8月28日発売決定 DLCや新要素も収録 - ゲーム - ニュース    クランクイン！",
+      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%20%E6%96%B0%E4%BD%9C%20Switch%20PS5%20Xbox%20Steam&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
       "title": "PlayStation, Xbox, and Nintendo Prices Will Keep Increasing, Experts Warn - levelup.com",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPek1Qb3E3cjFQaEdkenFnekpuZmh1NS16RE5SNHBuYWx2Ukd0VTVXdVdENTZweEx3aEUtLUY4U3R1aHpiV2pRU1ROMnpUOGo0QzJhR1FrdHEydkNzblp3b2l4OEFBNWJnOHJuZ1pnbzNBaENUcDFCRkh1Rk9xcnZGeVlLenQ5MzdhaXhDS0dsT19CelZCaEtFLXBJR1lEOW9iUG92Qkxn?oc=5",
       "source": "levelup.com",
       "published_at": "2026-06-04T07:00:00+00:00",
       "summary": "PlayStation, Xbox, and Nintendo Prices Will Keep Increasing, Experts Warn    levelup.com",
-      "feed_url": "https://news.google.com/rss/search?q=video%20games%20gaming%20news%20Nintendo%20PlayStation%20Xbox%20Steam&hl=en&gl=US&ceid=US:en"
-    },
-    {
-      "title": "ELDEN RING Tarnished Edition is Coming to Nintendo Switch 2 This August - Bandai Namco Entertainment America",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeEtwb1JCQTJaOWtlRVZfV0FKVkdkLVg2TlNSOEZCc1djZnRkME5Xd2xpYjh5dVNGV00zX3JGRldqMGxYbzd4Z3J5U3FKaDFOWVZYRzl1bzlOOVlfcTFHUnJsaURTV2JvSHB4ck9IRW1Fc2RRT3NzZDFKVWVsY1BqVndER0hHQ2tzVVJhQlJ6Yy14LTVzSDFJUDM1djN2Tmgxem9LYVpZZDlTNG5CWEpR?oc=5",
-      "source": "Bandai Namco Entertainment America",
-      "published_at": "2026-06-04T07:00:00+00:00",
-      "summary": "ELDEN RING Tarnished Edition is Coming to Nintendo Switch 2 This August    Bandai Namco Entertainment America",
       "feed_url": "https://news.google.com/rss/search?q=video%20games%20gaming%20news%20Nintendo%20PlayStation%20Xbox%20Steam&hl=en&gl=US&ceid=US:en"
     },
     {
@@ -1389,6 +1444,14 @@
       "published_at": "2026-06-03T07:00:00+00:00",
       "summary": "過去の「トイ・ストーリー」ゲームがまとめて遊べる復刻版『TOY STORY: RETRO ROUNDUP!』、『TOY STORY 3 COMPLETE EDITION』発表。日本未発売作も収録、おもちゃの世界にひたり放題    AUTOMATON",
       "feed_url": "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%20%E6%96%B0%E4%BD%9C%20Switch%20PS5%20Xbox%20Steam&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "title": "Toy Story: Retro Roundup! announced for PS5, Xbox Series, Switch 2, PS4, Switch, and PC - Gematsu",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOWtSQWZJemRoQ19pOVZqSHp5ODFuczdYSWVCQ0lpT211OXoyV05OYVJuY1AxbmJFWnJvcGk5S3RPNHBEWUcycUdGeHh4NkpUOHJNSjVFa0V1elpTTnkwdVZ0VXNoZWw3RVBuM3Q3blo1OGk3X052ekxSeGtkSVdFbExGSE9FMWpHdGFjSWdCbC1BcUJpQnltcnpwaUE0Y0wxbk9pTnBEbWF6dncxV0dVSDl3?oc=5",
+      "source": "Gematsu",
+      "published_at": "2026-06-02T07:00:00+00:00",
+      "summary": "Toy Story: Retro Roundup! announced for PS5, Xbox Series, Switch 2, PS4, Switch, and PC    Gematsu",
+      "feed_url": "https://news.google.com/rss/search?q=game%20release%20update%20Nintendo%20PlayStation%20Xbox%20Steam&hl=en&gl=US&ceid=US:en"
     },
     {
       "title": "Best gaming console in 2026: we've ranked top picks for pro gamers, retro fanatics, and family gatherings - TechRadar",
@@ -1463,11 +1526,11 @@
       "feed_url": "https://news.google.com/rss/search?q=%E4%BB%BB%E5%A4%A9%E5%A0%82%20PlayStation%20Xbox%20Steam%20%E3%82%B2%E3%83%BC%E3%83%A0&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
-      "title": "『アウトバウンド』愛犬とともに自由気ままなドライブ旅へ。キャンピングカーで自然を巡るスローライフゲームのSwitch/Switch2/PS5版が発売 - ファミ通",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5Yd2dZVnRYaGxmcEdoS1RybHZ3dlBjMVEwbVBwU2xxbm0xV29kSGtReUM3SS0yQzFVVkRoM0cwNzNLeWhLaXZlR1c4TTY4OXpCbDFrM0t0WQ?oc=5",
-      "source": "ファミ通",
-      "published_at": "2026-05-15T07:00:00+00:00",
-      "summary": "『アウトバウンド』愛犬とともに自由気ままなドライブ旅へ。キャンピングカーで自然を巡るスローライフゲームのSwitch/Switch2/PS5版が発売    ファミ通",
+      "title": "全プラットフォームでプレイ可能！《風のクロノア 1&2 アンコール》パッケージ版が7月発売 - 玩具人 TOY PEOPLE",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1TWUYxLVlVYi1oQTYzamYwSl84OE9IMUl2QTB2OVBYdGJPelVzZTcwRldOa21PRmkxVkRQU2xScmtjMWhMVkEyNjMyS0o2dVE?oc=5",
+      "source": "玩具人 TOY PEOPLE",
+      "published_at": "2026-05-17T16:19:57+00:00",
+      "summary": "全プラットフォームでプレイ可能！《風のクロノア 1&2 アンコール》パッケージ版が7月発売    玩具人 TOY PEOPLE",
       "feed_url": "https://news.google.com/rss/search?q=%E4%BB%BB%E5%A4%A9%E5%A0%82%20PlayStation%20Xbox%20Steam%20%E3%82%B2%E3%83%BC%E3%83%A0&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
@@ -1477,6 +1540,14 @@
       "published_at": "2026-05-02T07:00:00+00:00",
       "summary": "2Dアクションアドベンチャー「Constance」がPS5/Xbox Series X|S/Switchでも発売！DLCの制作も進行中    Gamer",
       "feed_url": "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%20%E6%96%B0%E4%BD%9C%20Switch%20PS5%20Xbox%20Steam&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "title": "Star Wars Racing Game Release Date, May the 4th Video Game Discounts, and More Gaming News - WDW News Today",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdVdETWlQTWIwbUlGOElNUlVLRjlWYmZESGU0SlBGd3lvaTF4b0pqNmlQWk9jTWhDSzNWNDlEeTlsQlAwTnJoX0JKc01ieDhXMGRnUFFWRXAteWQ4Nm9WdDU2anotSzlfTm15SVFFSlBCY0VzN29SRFFBU1FZUm00dWt5dDBWejVqdUxwRFk0WGV5NzBlZVpBLWdaRW1hSEZlV21IOG44RkVyUTlhSHBtNGVLclNBUQ?oc=5",
+      "source": "WDW News Today",
+      "published_at": "2026-04-30T07:00:00+00:00",
+      "summary": "Star Wars Racing Game Release Date, May the 4th Video Game Discounts, and More Gaming News    WDW News Today",
+      "feed_url": "https://news.google.com/rss/search?q=video%20games%20gaming%20news%20Nintendo%20PlayStation%20Xbox%20Steam&hl=en&gl=US&ceid=US:en"
     },
     {
       "title": "A Classic R-Type Game Boy Color Game Is Being Resurrected On Modern Platforms, Later This Month - Time Extension",
@@ -1493,14 +1564,6 @@
       "published_at": "2026-04-23T07:00:00+00:00",
       "summary": "Is Lacrosse 26 On PlayStation, Xbox, PC or Nintendo Switch? All Platforms, Explained    Insider Gaming",
       "feed_url": "https://news.google.com/rss/search?q=video%20games%20gaming%20news%20Nintendo%20PlayStation%20Xbox%20Steam&hl=en&gl=US&ceid=US:en"
-    },
-    {
-      "title": "『ブリガンダイン アビス』ファンタジー戦略シミュレーションが8月27日発売。25の勢力が割拠する大陸で悪の帝国に立ち向かう - ファミ通",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5PbWJhLVJzVl8yZkxEMVdYeFhQWWR0bEhBMVNFc0dLbjE5RXgyQVhaMHpBaDlfWk1PZThxMTlsVUJob1dzU3BzNXpnN2k2TzE3VlZERzBZaw?oc=5",
-      "source": "ファミ通",
-      "published_at": "2026-04-23T07:00:00+00:00",
-      "summary": "『ブリガンダイン アビス』ファンタジー戦略シミュレーションが8月27日発売。25の勢力が割拠する大陸で悪の帝国に立ち向かう    ファミ通",
-      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%20%E6%96%B0%E4%BD%9C%20Switch%20PS5%20Xbox%20Steam&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
       "title": "Classic Nintendo and PlayStation Games Are Playable On Your TV, No Console Required - GAMINGbible",
@@ -1583,11 +1646,11 @@
       "feed_url": "https://news.google.com/rss/search?q=%E4%BB%BB%E5%A4%A9%E5%A0%82%20PlayStation%20Xbox%20Steam%20%E3%82%B2%E3%83%BC%E3%83%A0&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
-      "title": "Xbox confirms new console is coming - but can it revive the brand? - BBC",
+      "title": "Project Helix: New Xbox console project confirmed - BBC",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBLTUZnZmVZRHhFNlFETDljSFhQQ1Q3Y1hCcVo3MVpWVW1rblpwb0lhTVhSUUlWX3Vxcm5rRVFxOEUtODdfZlZtWGdiUFdnTkpaeE9EWE1UbXBweW5n?oc=5",
       "source": "BBC",
       "published_at": "2026-03-06T08:00:00+00:00",
-      "summary": "Xbox confirms new console is coming - but can it revive the brand?    BBC",
+      "summary": "Project Helix: New Xbox console project confirmed    BBC",
       "feed_url": "https://news.google.com/rss/search?q=video%20games%20gaming%20news%20Nintendo%20PlayStation%20Xbox%20Steam&hl=en&gl=US&ceid=US:en"
     },
     {
@@ -1655,28 +1718,12 @@
       "feed_url": "https://news.google.com/rss/search?q=video%20games%20gaming%20news%20Nintendo%20PlayStation%20Xbox%20Steam&hl=en&gl=US&ceid=US:en"
     },
     {
-      "title": "Nintendo Switch™ 2版『ツーポイントミュージアム』に野生動物テーマのDLC「ズージアム」が配信開始！ - AppBank",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBxTWV3S1RxN1JMbEMzamlTQ3NDTFZVS19JNVR1VVRueEY5RUVvSDFBREhWeEhybk1wTmk3M3FGYUVRN3RZbms1VVFwc3oyUkRzbmUtTlQzMWlyWFRWS1pucQ?oc=5",
-      "source": "AppBank",
-      "published_at": "2026-02-19T08:00:00+00:00",
-      "summary": "Nintendo Switch™ 2版『ツーポイントミュージアム』に野生動物テーマのDLC「ズージアム」が配信開始！    AppBank",
-      "feed_url": "https://news.google.com/rss/search?q=%E4%BB%BB%E5%A4%A9%E5%A0%82%20PlayStation%20Xbox%20Steam%20%E3%82%B2%E3%83%BC%E3%83%A0&hl=ja&gl=JP&ceid=JP:ja"
-    },
-    {
       "title": "Highly Rated PC Vampire Game Now Available on PS5 & Nintendo Switch (& Xbox Is Coming Soon) - ComicBook.com",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNS3o1aERSWDBRZjdFcTdzY2lLLU5VRVJvUjIyQmNwcTVVdkJDbWtoOWpJazdEbzdSNVBISm91Zl9ZT09hWHRLUzUxS0diZjlsS2ZwRWVUVGpHc0VKR2FEd3RrY212MUtERjZHaTUtUWs2UXR1Zi0wRnFBVnBUZW1tNDdIdms2QW5hTDc0MlNoUHdXVTRHdjRNeGFjZkFfVW1VRzJvSFZrS0xqYzBzZUQ5ZW5yWkNmWEtEQVFlcA?oc=5",
       "source": "ComicBook.com",
       "published_at": "2026-02-18T08:00:00+00:00",
       "summary": "Highly Rated PC Vampire Game Now Available on PS5 & Nintendo Switch (& Xbox Is Coming Soon)    ComicBook.com",
       "feed_url": "https://news.google.com/rss/search?q=video%20games%20gaming%20news%20Nintendo%20PlayStation%20Xbox%20Steam&hl=en&gl=US&ceid=US:en"
-    },
-    {
-      "title": "パズルRPG『カセットボーイ』インタビュー。システムの誕生秘話や、ゲームに込めた遊び心、開発者が一人でも完成させることができた理由に迫る【電撃インディー#1266】 - 電撃オンライン",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1lNmZxelpta1AxWUNZU3pnTFFyd0lpZEluZTg5WVFUZ05hS01MbHd1dG5NdnhjYnNLX2lqeVVjYVJnaDJZQXd6TGRhWVpjMWM2SW16TTJWXzlpUQ?oc=5",
-      "source": "電撃オンライン",
-      "published_at": "2026-02-12T08:00:00+00:00",
-      "summary": "パズルRPG『カセットボーイ』インタビュー。システムの誕生秘話や、ゲームに込めた遊び心、開発者が一人でも完成させることができた理由に迫る【電撃インディー#1266】    電撃オンライン",
-      "feed_url": "https://news.google.com/rss/search?q=%E4%BB%BB%E5%A4%A9%E5%A0%82%20PlayStation%20Xbox%20Steam%20%E3%82%B2%E3%83%BC%E3%83%A0&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
       "title": "【ニンダイまとめ】「ニンテンドーダイレクト ソフトメーカーラインナップ 2026.2.5」発表内容まとめ（GAME Watch） - Yahoo!ニュース",
@@ -1703,6 +1750,14 @@
       "feed_url": "https://news.google.com/rss/search?q=%E4%BB%BB%E5%A4%A9%E5%A0%82%20PlayStation%20Xbox%20Steam%20%E3%82%B2%E3%83%BC%E3%83%A0&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
+      "title": "シリーズ第1作が復刻！『カルドセプト ザ ファースト』7月30日発売決定。クイックセーブ/ロード、巻き戻しなどの便利機能も追加 - ファミ通",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9lV1RoZlR2bkdfbWVXdjVkZXpVeG5XT2ViX1hGTUhmWi1FQTRzdnFIMGtqWUZNdE1sek41Qk93WV9LdDE4QzBHbWFENEN2U1NFTi1uWC1Haw?oc=5",
+      "source": "ファミ通",
+      "published_at": "2026-02-06T08:00:00+00:00",
+      "summary": "シリーズ第1作が復刻！『カルドセプト ザ ファースト』7月30日発売決定。クイックセーブ/ロード、巻き戻しなどの便利機能も追加    ファミ通",
+      "feed_url": "https://news.google.com/rss/search?q=%E4%BB%BB%E5%A4%A9%E5%A0%82%20PlayStation%20Xbox%20Steam%20%E3%82%B2%E3%83%BC%E3%83%A0&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
       "title": "SQUARE ENIX UNVEILS NEW TITLES AND TRAILERS IN LATEST NINTENDO DIRECT - Square Enix Press Hub",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOGdaMnRuYl9fRzg1dmp6SUwxM2lUUkVhTDFkdEttWHpPWGRFUS1MdElDS3NWYUtDdUU0THJ5YkgwLXBMTTU2NERvTjhyRjZxdkx5Zmk0TmVZcXhucG1sSk1ZYXBMMUR1SVRzQ0hGQXR0QTZnLWx6RFpXR0hYQUxQSTh6bGN3TmJRN0FXczNmVnV2Wm1iZ1Bmd083WC0wd1ZlQjlpcw?oc=5",
       "source": "Square Enix Press Hub",
@@ -1724,6 +1779,14 @@
       "source": "Video Games Chronicle",
       "published_at": "2026-01-29T08:00:00+00:00",
       "summary": "Twice as many developers surveyed by GDC say they want to make games on PS5 or Switch 2 than on Xbox    Video Games Chronicle",
+      "feed_url": "https://news.google.com/rss/search?q=video%20games%20gaming%20news%20Nintendo%20PlayStation%20Xbox%20Steam&hl=en&gl=US&ceid=US:en"
+    },
+    {
+      "title": "Code Vein 2 Players Roast Game For \"PS3-Level\" Graphics - GAMINGbible",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSlEtZmhiU3NiQjVJVktpYzFkVDB1N0tVMm92TXQ3dWVXUXVIRzlCN20wZ1Y0NkF1WmZnX010Y1BvRjJ0WkM1UVJQcmNzQWVYcTIzY2wzUm1vcWZvUEpSQTU0Vm1pMlFEcHhTVHQ5RTJXSGpkdWU4dzdKdFVaUnFHUEZZNnJHNnZQWFAzd0QtZWY?oc=5",
+      "source": "GAMINGbible",
+      "published_at": "2026-01-28T08:00:00+00:00",
+      "summary": "Code Vein 2 Players Roast Game For \"PS3-Level\" Graphics    GAMINGbible",
       "feed_url": "https://news.google.com/rss/search?q=video%20games%20gaming%20news%20Nintendo%20PlayStation%20Xbox%20Steam&hl=en&gl=US&ceid=US:en"
     },
     {
@@ -1775,14 +1838,6 @@
       "feed_url": "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%20%E6%96%B0%E4%BD%9C%20Switch%20PS5%20Xbox%20Steam&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
-      "title": "Why I’m Done with Consoles After a Lifetime of Gaming - The Outerhaven",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQLVhpUC1WeHZnZ3lJU2NlUmJCU1FRTUl4d2xzenZmNVhFM2xBb19zTEJDWmxNMVhDMUlkWnFWZnlzMkxnbmY2NHVwVlV2UEIycjVHYTNPdkl2M3k3S3VyR0J4Y3FsOWpTUHQtcWRnRUdlYU9tRWpmSGVjTUl0ZG44SzlrSzNsVnBSb1Rz?oc=5",
-      "source": "The Outerhaven",
-      "published_at": "2025-12-26T08:00:00+00:00",
-      "summary": "Why I’m Done with Consoles After a Lifetime of Gaming    The Outerhaven",
-      "feed_url": "https://news.google.com/rss/search?q=video%20games%20gaming%20news%20Nintendo%20PlayStation%20Xbox%20Steam&hl=en&gl=US&ceid=US:en"
-    },
-    {
       "title": "This ain't your parents' Game Boy: New gaming handhelds are powerful, pricey — and far from pocket-sized - CBC",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQT0NKUFdLUzJBSzRVRWRHS215anlvUHA5TzdfbWxJSlk4MTJnWW11VDJ0RTEtSnAwVUxlNExCVjhTc2Y3M1hkcDNsVHdvTUYzUGl1Rk41ZW1NMWEzTGlEbU9Sdno1ZWQxUk9adHNFcWV0SzRmSWpWOGZiRklEZ19DeWZOaw?oc=5",
       "source": "CBC",
@@ -1813,6 +1868,14 @@
       "published_at": "2025-12-12T08:00:00+00:00",
       "summary": "『モンハンワイルズ』が45％オフ！「CAPCOM WINTER SALE」が開催中    ASCII.jp",
       "feed_url": "https://news.google.com/rss/search?q=%E4%BB%BB%E5%A4%A9%E5%A0%82%20PlayStation%20Xbox%20Steam%20%E3%82%B2%E3%83%BC%E3%83%A0&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "title": "Zelda: Breath of the Wild Alternative Launches on PC, Well Worth Playing - GAMINGbible",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOc1UzYkFyRUpiS05jNDZscUVfSVlxOFJTak5qUUhNeGVaWWwzMHFIeUw5cEZRNXFOTmswSWg5S1pPb3ZKcEFVcXh5a3QxaTJuZUNBWVZGQm1QV3dRZGdFZ21RMFhYbnFFNVBrcG5EcEEwQnB0UWRHT3laUkJDdjhfMVZ3dEFxSWZZVlFMeU1kVEJzQVRZeS1uaU1NYnZXMmlyLWl5djdrZ09ib2FUQnc?oc=5",
+      "source": "GAMINGbible",
+      "published_at": "2025-12-06T08:00:00+00:00",
+      "summary": "Zelda: Breath of the Wild Alternative Launches on PC, Well Worth Playing    GAMINGbible",
+      "feed_url": "https://news.google.com/rss/search?q=game%20release%20update%20Nintendo%20PlayStation%20Xbox%20Steam&hl=en&gl=US&ceid=US:en"
     },
     {
       "title": "島暮らしシム『スターサンド・アイランド』にNintendo Switch 2版登場。来年2月発売の注目ゲーム、NPCたちとの心揺れる田舎生活 - AUTOMATON",
@@ -1863,6 +1926,14 @@
       "feed_url": "https://news.google.com/rss/search?q=%E4%BB%BB%E5%A4%A9%E5%A0%82%20PlayStation%20Xbox%20Steam%20%E3%82%B2%E3%83%BC%E3%83%A0&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
+      "title": "和風メトロイドヴァニア『ボウと月夜の碧い花』初の大型アプデ「タヌキ歌舞伎」配信開始。ボスラッシュや“タヌキさがし”など、本編クリア後コンテンツてんこ盛り - AUTOMATON",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeHduekRmRE9fblZBQzZnZFg5dnZ2ZUNfdXNqbTFMN1RsYnk4YTByZ1RNZ0duZWgweTlUM0lPcE9IZmJYZkF2REhlNFN2Y1pUcXIybFctNFpZUjExaXlQcDRTaWRqSExXTTd3TDk2RDNuenlTUk5vcXZUWVVDbVhQUHJYWEtHSW1HWkswcjdKQQ?oc=5",
+      "source": "AUTOMATON",
+      "published_at": "2025-11-14T08:00:00+00:00",
+      "summary": "和風メトロイドヴァニア『ボウと月夜の碧い花』初の大型アプデ「タヌキ歌舞伎」配信開始。ボスラッシュや“タヌキさがし”など、本編クリア後コンテンツてんこ盛り    AUTOMATON",
+      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%20%E6%96%B0%E4%BD%9C%20Switch%20PS5%20Xbox%20Steam&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
       "title": "Valve enters the console wars - The Verge",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOY1UxVHYzamg4TWFKd0t5SzZ2UGxPb0JmRVUzREp1aGZ5ZXY2cFE0ZWJHZWtsZ3loclB6TmlkbnFHRDNZRlVudGhtQ2hVZFpxYzFPdERvVUR3TjRHd2hVLVRzcW9jZXFZN1ppVVJRLWo1WTNrYmtqRW5YR3RwamJnZnBiRjNNSGIzbkJFeDJsUjNoY1RWWW02MTd3?oc=5",
       "source": "The Verge",
@@ -1892,6 +1963,14 @@
       "source": "Bandai Namco Europe",
       "published_at": "2025-11-07T08:00:00+00:00",
       "summary": "DRAGON BALL Sparking! ZERO - Notice Regarding the Updated Version and Split-Screen Versus Play Using a Single Console    Bandai Namco Europe",
+      "feed_url": "https://news.google.com/rss/search?q=game%20release%20update%20Nintendo%20PlayStation%20Xbox%20Steam&hl=en&gl=US&ceid=US:en"
+    },
+    {
+      "title": "Becastled Launches on PC, PlayStation, Xbox, and Nintendo Switch - TechPowerUp",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQT29DZTRwRGJFSldMcEhlWUFLVVk2UUxYWGdLZmlMcTJ2RVY1ZGhhN2tBQnU2bGxIdUp5ZjZCMlFDTXVlMWZKU2VJU1lwVGRjV2s0bW1aUnNVa2tCUHVPNHhWUjZxTDFVNFQ2Rlh3OExkS0RvNDFkZUVwMzhPbFRDZ19UYTU2UmlGTGFUQTFETDl1N1VuMlZ1R3dGT1bSAaIBQVVfeXFMTVVJSTRZRjdhNnFybzJsbHJpLV9uQXRwd0pxTWhYUURyRlJpUy1ZOWxWeGVNWVlkZ2doakdGelRpZkRUX0VZUjQwX2Zoem1PR3lUYmRCNmthMEtFV3hQVGZwQ0tGVFFYdEx4TTgwbkt1cHNSQVI3SXBwOGZ0Q2Eyd183ZWNsc1RLTGR5QVRmMTZwRzYya01DZXRPT2FjTnVyUkF3?oc=5",
+      "source": "TechPowerUp",
+      "published_at": "2025-10-23T07:00:00+00:00",
+      "summary": "Becastled Launches on PC, PlayStation, Xbox, and Nintendo Switch    TechPowerUp",
       "feed_url": "https://news.google.com/rss/search?q=game%20release%20update%20Nintendo%20PlayStation%20Xbox%20Steam&hl=en&gl=US&ceid=US:en"
     },
     {
@@ -1991,14 +2070,6 @@
       "feed_url": "https://news.google.com/rss/search?q=%E4%BB%BB%E5%A4%A9%E5%A0%82%20PlayStation%20Xbox%20Steam%20%E3%82%B2%E3%83%BC%E3%83%A0&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
-      "title": "How Much Every Modern Console Costs In The United States - GameRant",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZnpLcDlVdG41cnNTNkJQcTVmMkV5X0NWMHRHWmJjVjJCMnlCWDNGQ3FsWFJ0bW1oZ3VGakxlOHBmYnBvUkFIMnZnRU05S3M4a0N2amNMZEk0eEIxeW03bEVRbjBiS2k3Qy10Zjh0RzhIclA1U1Z6X1dUYkktU0QwVnItd216UDA1dGNwYU4xLWllYXVwRVJDWGY4eF9vd0FsLTJDd1ZpQWhrMHFvaE1VQUhCdFpGTXZFdzlv?oc=5",
-      "source": "GameRant",
-      "published_at": "2025-08-30T07:00:00+00:00",
-      "summary": "How Much Every Modern Console Costs In The United States    GameRant",
-      "feed_url": "https://news.google.com/rss/search?q=video%20games%20gaming%20news%20Nintendo%20PlayStation%20Xbox%20Steam&hl=en&gl=US&ceid=US:en"
-    },
-    {
       "title": "『ホロウナイト シルクソング』発売日が9月4日に決定。延期中だった人気2Dアクロバティックアクション『ホロウナイト』の続編がいよいよ登場 - ファミ通",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBOdlpEdWNKWmpSVFZBQkgxY0tnZEpnR01EZkxrQnRKbEpseGh2NGxxRUZWc21HUHdnN0RYeDdKbk8taGtqbTdFUmJwaTduVVNPV25Ga05aWQ?oc=5",
       "source": "ファミ通",
@@ -2039,14 +2110,6 @@
       "feed_url": "https://news.google.com/rss/search?q=game%20release%20update%20Nintendo%20PlayStation%20Xbox%20Steam&hl=en&gl=US&ceid=US:en"
     },
     {
-      "title": "How much do game developers make from their games? - GamesHub",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxON19UdHBoUlhVUlotSTZVckdrX0NTT2h4QjdlODgxWXNCSUE0Q3UteDFWODhxb19qVmdVNDBPd3kwdnY4RVlBYnRqajVuaVFsOE5KdDQzQlhOZldfZFJFR0lEUzJ6UjNrdmlVNzFxeG5pbHpVTlVPYlBkNFJHWGxtNXhkNC1aX1Qwd3VGNW5XbW5JdlZZc3FLSkpJeVZHM3YwZVhtcWM3UU9RUHFQbWdQYWxXN0t0bm1GQURHNg?oc=5",
-      "source": "GamesHub",
-      "published_at": "2025-07-20T07:00:00+00:00",
-      "summary": "How much do game developers make from their games?    GamesHub",
-      "feed_url": "https://news.google.com/rss/search?q=video%20games%20gaming%20news%20Nintendo%20PlayStation%20Xbox%20Steam&hl=en&gl=US&ceid=US:en"
-    },
-    {
       "title": "Which Is the Best Version of Final Fantasy IX in 2025? Switch, PC, PS5, Xbox, Mobile and More Compared - RPG Site",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNVTY4Y1M0eFpJVGQ0X1lkaWRVT3liYjhnM2FHMW9BZzVnVzZMU3FfY05SMnhtZ09RR2NoODBBUkMwNnFyZkNXQW9YREtWZ0o1N3Z0eHBod0ZwMzdYX1RiWTJXOFV6bXhubDZ1aS1jM05seFFKU01KNDE1ekNqdGJYakw1aUFmRnFac0pYTHZxb1RtallVNFNIRDVpNXZ5aTB3MTZjRG5LSDhuSU5GTHBuUWI2cC1sUzNidGt3NXRMeXdTSVBHN3lQVE9HTTRleDVzS0JPcVlmZWJfdzA?oc=5",
       "source": "RPG Site",
@@ -2060,7 +2123,7 @@
       "source": "Insider Gaming",
       "published_at": "2025-06-24T07:00:00+00:00",
       "summary": "Is Peak on PlayStation, Xbox, or Nintendo Switch? All Peak Platforms & Consoles Explained    Insider Gaming",
-      "feed_url": "https://news.google.com/rss/search?q=game%20release%20update%20Nintendo%20PlayStation%20Xbox%20Steam&hl=en&gl=US&ceid=US:en"
+      "feed_url": "https://news.google.com/rss/search?q=video%20games%20gaming%20news%20Nintendo%20PlayStation%20Xbox%20Steam&hl=en&gl=US&ceid=US:en"
     },
     {
       "title": "スポンジ・ボブがSEGAの新作レースゲーム「ソニックレーシング クロスワールド」に参戦決定！ - Saiga NAK",
@@ -2076,14 +2139,6 @@
       "source": "Diario AS",
       "published_at": "2025-06-12T07:00:00+00:00",
       "summary": "Nintendo Switch 2’s power is closer to Xbox Series S than PS4, says Koei Tecmo    Diario AS",
-      "feed_url": "https://news.google.com/rss/search?q=video%20games%20gaming%20news%20Nintendo%20PlayStation%20Xbox%20Steam&hl=en&gl=US&ceid=US:en"
-    },
-    {
-      "title": "Switch 2 size comparison: Nintendo’s latest up next to a whole lot of consoles - The Verge",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSmZHZm1JSEVUZURpYzRvS3BReUplVE0xOGRtQ013UEpXSzV3MHo1VkFMTms0Q3l1Mi00aDdHNmhwT0E0Z2VZYzdLemRGbXlONWJQTlFaY0lIWkJJV0NTOEZyRzVmb1ZUQnFDWS1fMnZ5M1BXTEJ2QWdydVpUVURTajlKeHJmSlR3X25uSzdJMm1scWdHVEFNaVUya1ZvTmlEWmhlalI0a09uNUFvVERWeg?oc=5",
-      "source": "The Verge",
-      "published_at": "2025-06-12T07:00:00+00:00",
-      "summary": "Switch 2 size comparison: Nintendo’s latest up next to a whole lot of consoles    The Verge",
       "feed_url": "https://news.google.com/rss/search?q=video%20games%20gaming%20news%20Nintendo%20PlayStation%20Xbox%20Steam&hl=en&gl=US&ceid=US:en"
     },
     {
@@ -2167,14 +2222,6 @@
       "feed_url": "https://news.google.com/rss/search?q=%E4%BB%BB%E5%A4%A9%E5%A0%82%20PlayStation%20Xbox%20Steam%20%E3%82%B2%E3%83%BC%E3%83%A0&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
-      "title": "All REPO Platforms—Can You Play REPO on PS5, Xbox, or Nintendo? - Insider Gaming",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42N0JpTlFENWtWMlVod2h2d08yLTJYNjg4d21KdDgyVDRwNF9jMTlFU1RydVpQMmgycmNRWHdndFFGWjA3SWdhSWFLaE93dkJRNGFhTjJmOUxhdw?oc=5",
-      "source": "Insider Gaming",
-      "published_at": "2025-03-11T07:00:00+00:00",
-      "summary": "All REPO Platforms—Can You Play REPO on PS5, Xbox, or Nintendo?    Insider Gaming",
-      "feed_url": "https://news.google.com/rss/search?q=game%20release%20update%20Nintendo%20PlayStation%20Xbox%20Steam&hl=en&gl=US&ceid=US:en"
-    },
-    {
       "title": "Assassin's Creed 3 fans surprised with new release out of the blue - GAMINGbible",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYnBZai13QUlTb2pfMEVkWVdNT0s4YTk1U2VvenJob1M2WDFBNDJxRlREZUY2SGZBMWpHYkR6U21ab3BiTjhLN05TZnRvNGg3MzFnSHlMQnlkeTlkZC1FbXVEUklraWItdUIxai1jMWE3Q2JMQ08ydlJTTm9UUFJUXzluLTU1T1dVRm5CMGEzcEd4SGZ3SGtzSQ?oc=5",
       "source": "GAMINGbible",
@@ -2197,14 +2244,6 @@
       "published_at": "2025-02-12T08:00:00+00:00",
       "summary": "ONE PIECE PIRATE WARRIORS 4 Coming to New-gen Platforms as the Original Release Celebrates 4 Million Units Sold    Bandai Namco Entertainment America",
       "feed_url": "https://news.google.com/rss/search?q=game%20release%20update%20Nintendo%20PlayStation%20Xbox%20Steam&hl=en&gl=US&ceid=US:en"
-    },
-    {
-      "title": "『鬼武者2』リマスターが2025年発売決定。新要素も追加し、より遊びやすく - corriente.jp",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8zYk5Rdi1mUy1tUnJwQ1FMYVJEMEhtazNHWUZLTmNEbWF1MTFMbnQ2R0hYMTdhelZ2ZDZGQ3hxQmU3TkZFZ3drMkVIcDFhYTBfUXFodUh3QW1KTmxNbFhxZmNwZ9IBaEFVX3lxTFB2WGFhYVdhZUJSWDF0NUVsUTdVcTEwZWlnNG0xOGh2bUlVRWtQSjltWVNEVUhVbUNEUVNtSERjaGVKRE85T21nQ1cyY29EWUlwQmJIVnVjcWFPVlhIZGpWTXhwaWtXSkh2?oc=5",
-      "source": "corriente.jp",
-      "published_at": "2025-02-05T08:00:00+00:00",
-      "summary": "『鬼武者2』リマスターが2025年発売決定。新要素も追加し、より遊びやすく    corriente.jp",
-      "feed_url": "https://news.google.com/rss/search?q=%E4%BB%BB%E5%A4%A9%E5%A0%82%20PlayStation%20Xbox%20Steam%20%E3%82%B2%E3%83%BC%E3%83%A0&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
       "title": "『ルナ リマスターコレクション』発売日が4月18日に決定。PS1版『LUNAR』2作のリマスター版。バトルスピードアップ機能追加で遊びやすく - ファミ通",
@@ -2269,22 +2308,6 @@
       "published_at": "2024-08-11T07:00:00+00:00",
       "summary": "Best Summer Games Featuring the Beach    LadiesGamers",
       "feed_url": "https://news.google.com/rss/search?q=video%20games%20gaming%20news%20Nintendo%20PlayStation%20Xbox%20Steam&hl=en&gl=US&ceid=US:en"
-    },
-    {
-      "title": "グレフのシューティングゲーム「UNDER DEFEAT」が歴代モードやDLC機体、新規楽曲などを搭載して12月5日にPS5/PS4/Switchで発売！ - Gamer",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1PT3lwNGZWZnFoWWdwb1NjbVZjSE10dXU0NXhfd21NUDlSMWtEQmJ1cXZjejIxM3FQdDlhbVFsUHNxcldnUmdjMk5SY1ZJR2JtQnM3QQ?oc=5",
-      "source": "Gamer",
-      "published_at": "2024-08-09T07:00:00+00:00",
-      "summary": "グレフのシューティングゲーム「UNDER DEFEAT」が歴代モードやDLC機体、新規楽曲などを搭載して12月5日にPS5/PS4/Switchで発売！    Gamer",
-      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%20%E6%96%B0%E4%BD%9C%20Switch%20PS5%20Xbox%20Steam&hl=ja&gl=JP&ceid=JP:ja"
-    },
-    {
-      "title": "和風剣劇バトルアクション『OGRE TALE -鬼譚-』（オウガテイル） コンシューマゲーム発売決定！ 本日6月27日より25％オフで予約受付開始！ - PR TIMES",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBPcGVJVmlWdXpLUHhMek1qX1V3Sms5T0NHWGgzWFpuYWlkVlBFZGJhYVZOLW1pMGlUaWp4UXBXUGJINERPZTBZdGxhYXdFamMwQkU5MGl6S0lvUTJpaFctVnAyaElfd0xFZHc?oc=5",
-      "source": "PR TIMES",
-      "published_at": "2024-06-27T07:00:00+00:00",
-      "summary": "和風剣劇バトルアクション『OGRE TALE -鬼譚-』（オウガテイル） コンシューマゲーム発売決定！ 本日6月27日より25％オフで予約受付開始！    PR TIMES",
-      "feed_url": "https://news.google.com/rss/search?q=%E4%BB%BB%E5%A4%A9%E5%A0%82%20PlayStation%20Xbox%20Steam%20%E3%82%B2%E3%83%BC%E3%83%A0&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
       "title": "「LOLLIPOP CHAINSAW RePOP」DLC衣装「セクシーライダーレッド」などPS5/Switch版の店舗特典が発表！ - Gamer",
@@ -2359,20 +2382,12 @@
       "feed_url": "https://news.google.com/rss/search?q=game%20release%20update%20Nintendo%20PlayStation%20Xbox%20Steam&hl=en&gl=US&ceid=US:en"
     },
     {
-      "title": "Disney Classic Games Collection coming to Switch, PC, PlayStation, Xbox - Eurogamer.net",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZHF0QlNBTm1uZEFqTURJSDgwMlhjX1kzR2ItbFZJSXctd2IwNklGVm1HS2dGMHZ4Wlo1NDJnYUhZcVhadEcyMXJabGl3bnMtQWFZWTZqM2I1U1hEQUlTYXc3Nm5rLUx5ZlBWSl9BVWJfLVFJSHhoaWl5b3IzcU4tWDVURlQyR1dVNFd1VzlJelFqd0pDQkE?oc=5",
-      "source": "Eurogamer.net",
-      "published_at": "2021-09-28T07:00:00+00:00",
-      "summary": "Disney Classic Games Collection coming to Switch, PC, PlayStation, Xbox    Eurogamer.net",
-      "feed_url": "https://news.google.com/rss/search?q=game%20release%20update%20Nintendo%20PlayStation%20Xbox%20Steam&hl=en&gl=US&ceid=US:en"
-    },
-    {
-      "title": "King's Bounty II launches on PlayStation 4, Xbox One, Nintendo Switch, and PC - Notebookcheck",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcUlGc2lQdGNnclA5bEk4TFBuYkRMRVNwa2VHQXBWTTJlT2dMTlJQNEIyRE4yUXdMNDdZR2pSSjNUS0V1cnJUdG5Sb0JPWVJLZlJfWlBQdzV2M0gtcWczcndBbjBlV0o2QjA0MGFtOE02THhHVHNKbUFqZkdMbUVINkZGVXB0cWVvenVpT2RqV05kTHZ4bDRqYmM0Z0FOYTFsTklPVXZKNmhHbUpyOFZBTmdueGVTRk9tb2c?oc=5",
-      "source": "Notebookcheck",
-      "published_at": "2021-08-25T07:00:00+00:00",
-      "summary": "King's Bounty II launches on PlayStation 4, Xbox One, Nintendo Switch, and PC    Notebookcheck",
-      "feed_url": "https://news.google.com/rss/search?q=game%20release%20update%20Nintendo%20PlayStation%20Xbox%20Steam&hl=en&gl=US&ceid=US:en"
+      "title": "Re-Spawn: Video Game News from Xbox, PlayStation, Nintendo, and PC for Week 43 - GeekDad",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOFR1NDA0S3ZORnl4eU9LV2pYMkxCNHFIMDRTUm1VaTlUc3dNTEdXelRCYl9Jcy1GTzBXQkRqM0dscHB2WlpfVVUzczVpZ0xYX0tlUGVtWm5CekZHVG9ONTdaQUlmMHUwS1N6dVhET0UtSDZrV2t1NDVhM05kbFkzX0tCeUd2ek0tdG1jTVhTSjI5ODRQRWZwaDdMNGR0M1hXbHY0alF3?oc=5",
+      "source": "GeekDad",
+      "published_at": "2017-10-30T07:00:00+00:00",
+      "summary": "Re-Spawn: Video Game News from Xbox, PlayStation, Nintendo, and PC for Week 43    GeekDad",
+      "feed_url": "https://news.google.com/rss/search?q=video%20games%20gaming%20news%20Nintendo%20PlayStation%20Xbox%20Steam&hl=en&gl=US&ceid=US:en"
     },
     {
       "title": "The 8 Best Gaming News Sites and Game Review Sites - MakeUseOf",
