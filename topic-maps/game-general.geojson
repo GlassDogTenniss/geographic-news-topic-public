@@ -1,8 +1,8 @@
 {
   "type": "FeatureCollection",
   "properties": {
-    "created_at": "2026-07-09T04:59:34.736386+00:00",
-    "count": 117,
+    "created_at": "2026-07-09T08:34:15.502187+00:00",
+    "count": 116,
     "stats": {
       "feed_id": "game-general",
       "feed_label": "ゲーム一般ニュース",
@@ -13,18 +13,18 @@
         "https://news.google.com/rss/search?q=%E4%BB%BB%E5%A4%A9%E5%A0%82%20PlayStation%20Xbox%20Steam%20%E3%82%B2%E3%83%BC%E3%83%A0&hl=ja&gl=JP&ceid=JP:ja"
       ],
       "rss_url": "https://news.google.com/rss/search?q=video%20games%20gaming%20news%20Nintendo%20PlayStation%20Xbox%20Steam&hl=en&gl=US&ceid=US:en",
-      "fetched": 288,
+      "fetched": 289,
       "fetched_by_url": {
-        "https://news.google.com/rss/search?q=video%20games%20gaming%20news%20Nintendo%20PlayStation%20Xbox%20Steam&hl=en&gl=US&ceid=US:en": 76,
-        "https://news.google.com/rss/search?q=game%20release%20update%20Nintendo%20PlayStation%20Xbox%20Steam&hl=en&gl=US&ceid=US:en": 74,
-        "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%20%E6%96%B0%E4%BD%9C%20Switch%20PS5%20Xbox%20Steam&hl=ja&gl=JP&ceid=JP:ja": 76,
+        "https://news.google.com/rss/search?q=video%20games%20gaming%20news%20Nintendo%20PlayStation%20Xbox%20Steam&hl=en&gl=US&ceid=US:en": 75,
+        "https://news.google.com/rss/search?q=game%20release%20update%20Nintendo%20PlayStation%20Xbox%20Steam&hl=en&gl=US&ceid=US:en": 75,
+        "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%20%E6%96%B0%E4%BD%9C%20Switch%20PS5%20Xbox%20Steam&hl=ja&gl=JP&ceid=JP:ja": 77,
         "https://news.google.com/rss/search?q=%E4%BB%BB%E5%A4%A9%E5%A0%82%20PlayStation%20Xbox%20Steam%20%E3%82%B2%E3%83%BC%E3%83%A0&hl=ja&gl=JP&ceid=JP:ja": 78
       },
       "filtered": 255,
-      "resolved": 117,
-      "unresolved": 138,
-      "rules": 374,
-      "known_places": 1332,
+      "resolved": 116,
+      "unresolved": 139,
+      "rules": 384,
+      "known_places": 1357,
       "loaded_data_files": [
         "data/place_rules.json",
         "data/unresolved_known_places.json",
@@ -1262,7 +1262,22 @@
         "data/unresolved_known_places_1566.json",
         "data/unresolved_known_places_1567.json",
         "data/unresolved_known_places_1568.json",
-        "data/unresolved_known_places_1569.json"
+        "data/unresolved_known_places_1569.json",
+        "data/unresolved_known_places_1570.json",
+        "data/unresolved_known_places_1571.json",
+        "data/unresolved_known_places_1572.json",
+        "data/unresolved_known_places_1573.json",
+        "data/unresolved_known_places_1574.json",
+        "data/unresolved_known_places_1575.json",
+        "data/unresolved_known_places_1576.json",
+        "data/unresolved_known_places_1577.json",
+        "data/unresolved_known_places_1578.json",
+        "data/unresolved_known_places_1579.json",
+        "data/unresolved_known_places_1580.json",
+        "data/unresolved_known_places_1581.json",
+        "data/unresolved_known_places_1582.json",
+        "data/unresolved_known_places_1583.json",
+        "data/unresolved_known_places_1584.json"
       ],
       "topic_keywords": [
         "game",
@@ -1543,6 +1558,33 @@
         "title": "「Summer Game Fest 2026」発表内容まとめ【SGF2026】（GAME Watch） - Yahoo!ニュース",
         "source": "Yahoo!ニュース",
         "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NY2V4V1EyYzJQOGNPX1ptSTVORkgxR1JtRHMxMUFDWTBjUTV1QUtGaF83Qm5OekZPNHhjSkxZRWIwdTNRTC1xLTFNLTlpWHNuaEdyNWpJbG1ZWXlMVldwUEI4aHJwajN6bTV3QndfUVJGbDl6ME9PRzY3dzZ6TTA?oc=5",
+        "published_at": "2026-06-06T07:00:00+00:00",
+        "representative_place": "Summer Game Fest 2026 / Dolby Theatre",
+        "place_label": "米国-カリフォルニア州-ロサンゼルス-Dolby Theatre-Summer Game Fest 2026",
+        "sort_place_label": "米国-カリフォルニア州-ロサンゼルス-Dolby Theatre-Summer Game Fest 2026",
+        "geocode_query": "Dolby Theatre 6801 Hollywood Blvd Los Angeles CA Summer Game Fest 2026",
+        "place_type": "event_site",
+        "location_precision": "event_site",
+        "place_reason": "Summer Game Fest 2026 showcase article anchored to the confirmed Dolby Theatre event venue. Inglewood city and generic showcase terms are not used.（一致語: Summer Game Fest 2026）",
+        "confidence": 0.82,
+        "rule_id": "observed_summer_game_fest_2026_showcases_inglewood",
+        "matched_text": "Summer Game Fest 2026",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.34,
+          34.1028
+        ]
+      },
+      "properties": {
+        "title": "「Summer Game Fest 2026」発表内容まとめ【SGF2026】 - GAME Watch",
+        "source": "GAME Watch",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9xRHpMd0J4VjhsWDhXOHVsOUYtUlVpTkpqN3lZUkdVTDdxLTZnRVUtWjJfRTlGU0dQQW5LemlpS0hTMVkxb1BZU0tRVGZwSHFuZnZVRm1JUzM2S3h5S29KS1ZBTFdXZw?oc=5",
         "published_at": "2026-06-06T07:00:00+00:00",
         "representative_place": "Summer Game Fest 2026 / Dolby Theatre",
         "place_label": "米国-カリフォルニア州-ロサンゼルス-Dolby Theatre-Summer Game Fest 2026",
@@ -2161,9 +2203,9 @@
         ]
       },
       "properties": {
-        "title": "『電車アタック』が6月18日配信決定！ Steam/Nintendo Switch 2/PlayStation 5/Xbox向け - 電ファミニコゲーマー",
-        "source": "電ファミニコゲーマー",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE95dzRKTHliek9teDdLSzI1amlYQnJSU2lXWFBZak54RW1PMDJBM0RKVFYxTU5ZU3d6dTNFaU1FU1dobVdibDB6UFFJVmdzUU5lTE1ZclNYaXY?oc=5",
+        "title": "電車でドリフト！トリックアクションレース 『電車アタック(Denshattack!)』ダウンロード版が6月18日に Steam/Nintendo Switch(TM) 2/PlayStation(R)5/Xboxで 配信決定！無料体験版配信中！ | Game Source Entertainment - アットプレス",
+        "source": "アットプレス",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1jOHFiNEZzakszU3kzNDZvTDh3c0xlcjVfV3lSNUxWSWRYZmNzRXlfc0Q0Q0U1RjBKR1BSa0pTai0tUVgwZzlxSmJoWjB2dw?oc=5",
         "published_at": "2026-03-17T07:00:00+00:00",
         "representative_place": "Bandai Namco Entertainment / Minato, Tokyo representative",
         "place_label": "日本-東京都-港区-Bandai Namco Entertainment / SAO Memory Defrag",
@@ -2188,9 +2230,9 @@
         ]
       },
       "properties": {
-        "title": "電車でドリフト！トリックアクションレース 『電車アタック(Denshattack!)』ダウンロード版が6月18日に Steam/Nintendo Switch(TM) 2/PlayStation(R)5/Xboxで 配信決定！無料体験版配信中！ | Game Source Entertainment - アットプレス",
-        "source": "アットプレス",
-        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1jOHFiNEZzakszU3kzNDZvTDh3c0xlcjVfV3lSNUxWSWRYZmNzRXlfc0Q0Q0U1RjBKR1BSa0pTai0tUVgwZzlxSmJoWjB2dw?oc=5",
+        "title": "『電車アタック』が6月18日配信決定！ Steam/Nintendo Switch 2/PlayStation 5/Xbox向け - 電ファミニコゲーマー",
+        "source": "電ファミニコゲーマー",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE95dzRKTHliek9teDdLSzI1amlYQnJSU2lXWFBZak54RW1PMDJBM0RKVFYxTU5ZU3d6dTNFaU1FU1dobVdibDB6UFFJVmdzUU5lTE1ZclNYaXY?oc=5",
         "published_at": "2026-03-17T07:00:00+00:00",
         "representative_place": "Bandai Namco Entertainment / Minato, Tokyo representative",
         "place_label": "日本-東京都-港区-Bandai Namco Entertainment / SAO Memory Defrag",
@@ -3371,33 +3413,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.6503,
-          35.6762
-        ]
-      },
-      "properties": {
-        "title": "『Against the Storm』Steamで“圧倒的好評”のローグライク都市建設ゲームのコンソール版が配信開始。新種族“フロッグ”などが追加されるDLCも登場 - ファミ通",
-        "source": "ファミ通",
-        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBKa0ZNRXl6MjZfaWpUSzV4QlJ2bzhJVkFRVnNBQkU4Z1J6RlkzZGNVQmQ5dTNZNlJhZ2FMdjNrV2ozUklpNEtZNUVKQkN4elFCcW55cE9kOA?oc=5",
-        "published_at": "2025-06-27T07:00:00+00:00",
-        "representative_place": "Valhalla Game Studios / Tokyo",
-        "place_label": "日本-東京-Valhalla Game Studios / RockShot",
-        "sort_place_label": "日本-東京-Valhalla Game Studios / RockShot",
-        "geocode_query": "Valhalla Game Studios Tokyo RockShot",
-        "place_type": "game_development_studio_announcement_city_uncertain_office",
-        "location_precision": "city",
-        "place_reason": "The legacy active entry treated the RockShot / Devil's Third developer item as a broad launch-market and access-restriction topic. A later repository entry for the same article already anchors the development subject to Valhalla Game Studios in Tokyo. This override aligns the older multi-region entry with the later same-topic Tokyo studio representative. This is not a confirmed exact Valhalla Game Studios office address, Steam distribution endpoint, media office, or article venue; replace it if the article body or an official company source identifies a more precise studio location.（一致語: Steam）",
-        "confidence": 0.62,
-        "rule_id": "observed_rockshot_valhalla_game_studios_tokyo_legacy_201805",
-        "matched_text": "Steam",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           126.978,
           37.5665
         ]
@@ -3768,33 +3783,6 @@
         "confidence": 0.64,
         "rule_id": "observed_sao_memory_defrag_bandai_namco_minato_tokyo_201801",
         "matched_text": "配信決定",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.7652,
-          35.6697
-        ]
-      },
-      "properties": {
-        "title": "Suikoden I&II HD Remaster Gate Rune and Dunan Unification Wars releases today - KONAMI GROUP CORPORATION",
-        "source": "KONAMI GROUP CORPORATION",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBNUkRXYkVmdDE0b1pkN29TeC1waC05MURISWFpN3pGSEJyQnI5dHFQeHprVUZydjlDN1QyY3JodnJTenZmLVNsOURQa1V6N2dNSTl3NkwtSGx3VExm?oc=5",
-        "published_at": "2025-03-06T08:00:00+00:00",
-        "representative_place": "KONAMI / コナミクリエイティブセンター銀座",
-        "place_label": "日本-東京都-中央区-銀座-コナミクリエイティブセンター銀座",
-        "sort_place_label": "日本-東京都-中央区-銀座-コナミクリエイティブセンター銀座",
-        "geocode_query": "KONAMI Creative Center Ginza Chuo Tokyo Japan",
-        "place_type": "institution_site",
-        "location_precision": "headquarters_area",
-        "place_reason": "KONAMIに関する企業・ゲーム記事は、東京都中央区代表ではなく銀座のKONAMI本社周辺として扱う。番地固定ではなく本社周辺粒度に止める（一致語: KONAMI）",
-        "confidence": 0.76,
-        "rule_id": "observed_konami_ginza_headquarters_refined_202606",
-        "matched_text": "KONAMI",
         "match_source": "known_place_title"
       }
     },

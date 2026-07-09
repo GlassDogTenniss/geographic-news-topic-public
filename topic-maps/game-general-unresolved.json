@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "created_at": "2026-07-09T04:59:34.736386+00:00",
+  "created_at": "2026-07-09T08:34:15.502187+00:00",
   "stats": {
     "feed_id": "game-general",
     "feed_label": "ゲーム一般ニュース",
@@ -11,18 +11,18 @@
       "https://news.google.com/rss/search?q=%E4%BB%BB%E5%A4%A9%E5%A0%82%20PlayStation%20Xbox%20Steam%20%E3%82%B2%E3%83%BC%E3%83%A0&hl=ja&gl=JP&ceid=JP:ja"
     ],
     "rss_url": "https://news.google.com/rss/search?q=video%20games%20gaming%20news%20Nintendo%20PlayStation%20Xbox%20Steam&hl=en&gl=US&ceid=US:en",
-    "fetched": 288,
+    "fetched": 289,
     "fetched_by_url": {
-      "https://news.google.com/rss/search?q=video%20games%20gaming%20news%20Nintendo%20PlayStation%20Xbox%20Steam&hl=en&gl=US&ceid=US:en": 76,
-      "https://news.google.com/rss/search?q=game%20release%20update%20Nintendo%20PlayStation%20Xbox%20Steam&hl=en&gl=US&ceid=US:en": 74,
-      "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%20%E6%96%B0%E4%BD%9C%20Switch%20PS5%20Xbox%20Steam&hl=ja&gl=JP&ceid=JP:ja": 76,
+      "https://news.google.com/rss/search?q=video%20games%20gaming%20news%20Nintendo%20PlayStation%20Xbox%20Steam&hl=en&gl=US&ceid=US:en": 75,
+      "https://news.google.com/rss/search?q=game%20release%20update%20Nintendo%20PlayStation%20Xbox%20Steam&hl=en&gl=US&ceid=US:en": 75,
+      "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%20%E6%96%B0%E4%BD%9C%20Switch%20PS5%20Xbox%20Steam&hl=ja&gl=JP&ceid=JP:ja": 77,
       "https://news.google.com/rss/search?q=%E4%BB%BB%E5%A4%A9%E5%A0%82%20PlayStation%20Xbox%20Steam%20%E3%82%B2%E3%83%BC%E3%83%A0&hl=ja&gl=JP&ceid=JP:ja": 78
     },
     "filtered": 255,
-    "resolved": 117,
-    "unresolved": 138,
-    "rules": 374,
-    "known_places": 1332,
+    "resolved": 116,
+    "unresolved": 139,
+    "rules": 384,
+    "known_places": 1357,
     "loaded_data_files": [
       "data/place_rules.json",
       "data/unresolved_known_places.json",
@@ -1260,7 +1260,22 @@
       "data/unresolved_known_places_1566.json",
       "data/unresolved_known_places_1567.json",
       "data/unresolved_known_places_1568.json",
-      "data/unresolved_known_places_1569.json"
+      "data/unresolved_known_places_1569.json",
+      "data/unresolved_known_places_1570.json",
+      "data/unresolved_known_places_1571.json",
+      "data/unresolved_known_places_1572.json",
+      "data/unresolved_known_places_1573.json",
+      "data/unresolved_known_places_1574.json",
+      "data/unresolved_known_places_1575.json",
+      "data/unresolved_known_places_1576.json",
+      "data/unresolved_known_places_1577.json",
+      "data/unresolved_known_places_1578.json",
+      "data/unresolved_known_places_1579.json",
+      "data/unresolved_known_places_1580.json",
+      "data/unresolved_known_places_1581.json",
+      "data/unresolved_known_places_1582.json",
+      "data/unresolved_known_places_1583.json",
+      "data/unresolved_known_places_1584.json"
     ],
     "topic_keywords": [
       "game",
@@ -1312,6 +1327,14 @@
   },
   "unresolved": [
     {
+      "title": "Digimon Story Time Stranger Update 1.000.012 Adds Graphics Mode, New Playable Character - MP1st",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSm1sVkM1aXNac0ZkQ0VGa2NQakRwSnF3TGYzd1dHMGZBR2JWQlZYbVdvR3RJTzZMRmk0N1ZEak1IMUhscU80QjBmaVRNUnN4MHhaNy1FYkVCVnQzVUFualNpeGVoRGFTNWJnUnZmOFA3Q2NjbUVrQ0pQYmlpVW92MjFGVWI3LV9sWmRUUVEzR1VnYWlxUkVMVGdabzVKaDU4OE9nMEtQUHUzeXlia2o5VDdwM0FwRGpwWjByRU80d1JyM0Z2?oc=5",
+      "source": "MP1st",
+      "published_at": "2026-07-09T06:19:45+00:00",
+      "summary": "Digimon Story Time Stranger Update 1.000.012 Adds Graphics Mode, New Playable Character    MP1st",
+      "feed_url": "https://news.google.com/rss/search?q=game%20release%20update%20Nintendo%20PlayStation%20Xbox%20Steam&hl=en&gl=US&ceid=US:en"
+    },
+    {
       "title": "2K Summer Sale drops huge name games to lowest ever price - Daily Express",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbDVhcWxvRlAyUXNtYzU5ZlBmNUFZWG93TVZnUG9BVDRDMlVLa1hHb05pd0E0ZDFLMWJYVmNzb3VXdV9iMXAzRlMxYl9fNmpOZnZqYTFIMENtYmZDbmk5aC1IczJlVmkzdThLN0NGRlpINXhhSEkwYUk0NS1mQ2Q3MWlpQnpXcGPSAYwBQVVfeXFMTzNVY0c5dzJoTFljdGVrM29uVHZ5eExVb1B3aGpiR2lqRjhvOTM4WDZYejFmOVIxVnBpUVZSLUJ5WmtIUVJleE9HZ2ZFaklPYmhKc0t3Z256RnpPOGIzSnBTSFUwaFVPek9sN1ZiZV9XRjhjS2tpVlc3SkxUZ1B4akFmQ3VZZjVnVDNJNUg?oc=5",
       "source": "Daily Express",
@@ -1320,11 +1343,11 @@
       "feed_url": "https://news.google.com/rss/search?q=video%20games%20gaming%20news%20Nintendo%20PlayStation%20Xbox%20Steam&hl=en&gl=US&ceid=US:en"
     },
     {
-      "title": "『ドラゴンボール ゼノバース2』孫悟空・超極悪化（克服）＆時の界王神・超極悪化が参戦。最終DLCと無料アップデート22弾が配信中 - 電撃オンライン",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwMEprT0JBdUVOMEhOYnU2WXM2RVMwUm5IXzFtUEFuNUZEaUJmQkZvdUdYTWx6cGJraWN2bzhPWVFVQ2s2RC1JQkJNSXRyTUtjdzRvcXlYcW0zQQ?oc=5",
+      "title": "【ジャレコ】アーケード傑作32本収録のコレクション版が発売決定！ 名作を現行機で遊び尽くす - 電撃オンライン",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45cXpuS1Voc0dXMmd3Y3VyVUtwb2hySVBlUXlOTVVQeEZFekozZWJOS2psb0tnQ3l0LURPem9IVUI4M1RrTHhrR2pTMnh3anN6TWd1U2xTRjROQQ?oc=5",
       "source": "電撃オンライン",
-      "published_at": "2026-07-08T07:49:00+00:00",
-      "summary": "『ドラゴンボール ゼノバース2』孫悟空・超極悪化（克服）＆時の界王神・超極悪化が参戦。最終DLCと無料アップデート22弾が配信中    電撃オンライン",
+      "published_at": "2026-07-08T07:07:00+00:00",
+      "summary": "【ジャレコ】アーケード傑作32本収録のコレクション版が発売決定！ 名作を現行機で遊び尽くす    電撃オンライン",
       "feed_url": "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%20%E6%96%B0%E4%BD%9C%20Switch%20PS5%20Xbox%20Steam&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
@@ -1334,14 +1357,6 @@
       "published_at": "2026-06-26T07:00:00+00:00",
       "summary": "Price hikes are making gaming feel like a luxury hobby    Business Insider",
       "feed_url": "https://news.google.com/rss/search?q=video%20games%20gaming%20news%20Nintendo%20PlayStation%20Xbox%20Steam&hl=en&gl=US&ceid=US:en"
-    },
-    {
-      "title": "Fatal Frame 2 Remake Update 1.004 for June Fixes Progression, Trophy Issues - MP1st",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPLVpMVUZPN2I0dEhGWVZaT0JFMlNlaEFkSXBHNk1YVkNQa0NYN3ktc1VNQk9ZNGNsOGctdXhCMG1fYlhzVnNlMFNWcjV6V3JlQnlOV3kwRURTREFJZXZuOF8wc1BOZUE3TWNYRkdyWlVKYnhGeWlWM19TOFljV3BSeHlXczY0R2twNTBRVXFwSzRNaDdDTkJveTZnX042V19zc3RLbXJkN2hHbnM1MjNVYWlzNkltQQ?oc=5",
-      "source": "MP1st",
-      "published_at": "2026-06-22T07:00:00+00:00",
-      "summary": "Fatal Frame 2 Remake Update 1.004 for June Fixes Progression, Trophy Issues    MP1st",
-      "feed_url": "https://news.google.com/rss/search?q=game%20release%20update%20Nintendo%20PlayStation%20Xbox%20Steam&hl=en&gl=US&ceid=US:en"
     },
     {
       "title": "「欲しすぎるだろ…」『ドラクエ』新作ゲームの“特典グッズ”に「かわいい」「仲間にするしかない」（マグミクス） - Yahoo!ニュース",
@@ -1422,6 +1437,14 @@
       "published_at": "2026-06-08T07:00:00+00:00",
       "summary": "『クレイジータクシー』新作『Crazy Taxi: World Tour』正式発表。“大規模プロジェクト”となる新作がついにお披露目    AUTOMATON",
       "feed_url": "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%20%E6%96%B0%E4%BD%9C%20Switch%20PS5%20Xbox%20Steam&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "title": "Nintendo Switch 2版『ELDEN RING Tarnished Edition』が2026年8月28日に発売決定！ パッケージ版予約も開始 - AppBank",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvQk9UVElhRGZOX25Mbi12VTNlbE5taGZ3cXpMeUEzakNMLV8zVmwwZHBsaUVMZm1LcWZlTWgzOE5Id2ZEQUFYQi1hOXZiNlRQTEpZRFd6SXpSUlNEaHN3dg?oc=5",
+      "source": "AppBank",
+      "published_at": "2026-06-05T07:00:00+00:00",
+      "summary": "Nintendo Switch 2版『ELDEN RING Tarnished Edition』が2026年8月28日に発売決定！ パッケージ版予約も開始    AppBank",
+      "feed_url": "https://news.google.com/rss/search?q=%E4%BB%BB%E5%A4%A9%E5%A0%82%20PlayStation%20Xbox%20Steam%20%E3%82%B2%E3%83%BC%E3%83%A0&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
       "title": "Swtich 2版「エルデンリング」全部入りで8月28日発売へ 新要素は550円で単品販売 - ASCII.jp",
@@ -1808,14 +1831,6 @@
       "feed_url": "https://news.google.com/rss/search?q=%E4%BB%BB%E5%A4%A9%E5%A0%82%20PlayStation%20Xbox%20Steam%20%E3%82%B2%E3%83%BC%E3%83%A0&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
-      "title": "The Best Video Games Coming Out in 2026 - PCMag",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB6S2VocjFLc0h5WENNUHQ2Q0pRWHMzaElyT1R0XzUxV09vQkg3S2FSSjJrTUloSHFieHdaVUs3d2ZhVGVhZjdDbTBJcm14RC03UmpRSkcxR000R1VGSjVWX0E1YzNveUx2T0czOXNKSFNXUEN6?oc=5",
-      "source": "PCMag",
-      "published_at": "2026-01-17T08:00:00+00:00",
-      "summary": "The Best Video Games Coming Out in 2026    PCMag",
-      "feed_url": "https://news.google.com/rss/search?q=video%20games%20gaming%20news%20Nintendo%20PlayStation%20Xbox%20Steam&hl=en&gl=US&ceid=US:en"
-    },
-    {
       "title": "My Top 10 Most Anticipated Games of 2026 - Gaming Australia",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVHFHVm5qMUYxNk11UEltOTJ1WDhDQlowQmU3dkplVUZYdkxWdGV5dDdybUkzSUc2VTZTVWZvWUkwN3N3UXM4cTBYTEZLVUExblhzaXFjWEY4MEFDRXZlbjlJZFBObkFTVHN3MHVLaFlXNWRDZjZxeHQ1Z3NXZVc4ZDllU0FwMU0?oc=5",
       "source": "Gaming Australia",
@@ -2168,6 +2183,14 @@
       "feed_url": "https://news.google.com/rss/search?q=game%20release%20update%20Nintendo%20PlayStation%20Xbox%20Steam&hl=en&gl=US&ceid=US:en"
     },
     {
+      "title": "『FFT』リマスター版9月30日発売決定。人気シミュレーションRPGがフルボイス＆UI、ストーリー追加・調整で登場【State of Play】 - ファミ通",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9yQ2J3b014LTJsLXBMQ3hWLUZQclF1bE9KMjNUb29tS2paRkx4RUNjRlcyR2ZaRkhDc25oVTd5WVd6a3ZHV2U0T1pQWUkwVjFYMVZRRG90Zw?oc=5",
+      "source": "ファミ通",
+      "published_at": "2025-06-05T07:00:00+00:00",
+      "summary": "『FFT』リマスター版9月30日発売決定。人気シミュレーションRPGがフルボイス＆UI、ストーリー追加・調整で登場【State of Play】    ファミ通",
+      "feed_url": "https://news.google.com/rss/search?q=%E4%BB%BB%E5%A4%A9%E5%A0%82%20PlayStation%20Xbox%20Steam%20%E3%82%B2%E3%83%BC%E3%83%A0&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
       "title": "Why timing your game's demo release matters! - The GameDiscoverCo newsletter",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5NejVBTHZKcVFoeWhiZlFfT0w1cGloOUh3QXlhdDNGUngzR1BjNmZkbE8yNEVUQzhjaGs0WTJaaUhYVDRoWGdvdTV4QjhxdV9mSFpwTGJheWtMdUFjMG03dmZNekNOTGc4bzdZR1c0ZWxTV3gwRl9RcERwSQ?oc=5",
       "source": "The GameDiscoverCo newsletter",
@@ -2262,14 +2285,6 @@
       "published_at": "2025-02-12T08:00:00+00:00",
       "summary": "ONE PIECE PIRATE WARRIORS 4 Coming to New-gen Platforms as the Original Release Celebrates 4 Million Units Sold    Bandai Namco Entertainment America",
       "feed_url": "https://news.google.com/rss/search?q=game%20release%20update%20Nintendo%20PlayStation%20Xbox%20Steam&hl=en&gl=US&ceid=US:en"
-    },
-    {
-      "title": "『ルナ リマスターコレクション』発売日が4月18日に決定。PS1版『LUNAR』2作のリマスター版。バトルスピードアップ機能追加で遊びやすく - ファミ通",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5rQzB6QnQzMHktQ3dfU3ZVMS1QdDg2d1RGdkhTbjQyZzlvVUVGYkxFU2xOanBmRENLY3g1SUVXOS1na2czRko1VlRTU1k2dGQ0ZVQ2ai00UQ?oc=5",
-      "source": "ファミ通",
-      "published_at": "2025-01-15T08:00:00+00:00",
-      "summary": "『ルナ リマスターコレクション』発売日が4月18日に決定。PS1版『LUNAR』2作のリマスター版。バトルスピードアップ機能追加で遊びやすく    ファミ通",
-      "feed_url": "https://news.google.com/rss/search?q=%E4%BB%BB%E5%A4%A9%E5%A0%82%20PlayStation%20Xbox%20Steam%20%E3%82%B2%E3%83%BC%E3%83%A0&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
       "title": "『ごく普通の鹿のゲーム DEEEER Simulator』、 TVアニメ『しかのこのこのここしたんたん』とコラボし、 期間限定でダンスが「しかのこダンス」に。 | News - インディーゲームパブリッシャー",
@@ -2397,6 +2412,14 @@
       "source": "The Direct",
       "published_at": "2022-03-01T08:00:00+00:00",
       "summary": "LEGO Star Wars: Skywalker Saga Receives Disappointing Compatibility Update    The Direct",
+      "feed_url": "https://news.google.com/rss/search?q=game%20release%20update%20Nintendo%20PlayStation%20Xbox%20Steam&hl=en&gl=US&ceid=US:en"
+    },
+    {
+      "title": "Disney Classic Games Collection coming to Switch, PC, PlayStation, Xbox - Eurogamer.net",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZHF0QlNBTm1uZEFqTURJSDgwMlhjX1kzR2ItbFZJSXctd2IwNklGVm1HS2dGMHZ4Wlo1NDJnYUhZcVhadEcyMXJabGl3bnMtQWFZWTZqM2I1U1hEQUlTYXc3Nm5rLUx5ZlBWSl9BVWJfLVFJSHhoaWl5b3IzcU4tWDVURlQyR1dVNFd1VzlJelFqd0pDQkE?oc=5",
+      "source": "Eurogamer.net",
+      "published_at": "2021-09-28T07:00:00+00:00",
+      "summary": "Disney Classic Games Collection coming to Switch, PC, PlayStation, Xbox    Eurogamer.net",
       "feed_url": "https://news.google.com/rss/search?q=game%20release%20update%20Nintendo%20PlayStation%20Xbox%20Steam&hl=en&gl=US&ceid=US:en"
     },
     {

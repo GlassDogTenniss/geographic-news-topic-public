@@ -1,8 +1,8 @@
 {
   "type": "FeatureCollection",
   "properties": {
-    "created_at": "2026-07-09T04:59:34.736386+00:00",
-    "count": 903,
+    "created_at": "2026-07-09T08:34:15.502187+00:00",
+    "count": 898,
     "stats": {
       "feed_id": "game-all",
       "feed_label": "ゲーム",
@@ -28,7 +28,7 @@
         "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja"
       ],
       "rss_url": "https://www.gamedeveloper.com/rss.xml",
-      "fetched": 1003,
+      "fetched": 1002,
       "fetched_by_url": {
         "https://www.gamedeveloper.com/rss.xml": 50,
         "https://www.gamesindustry.biz/feed": 100,
@@ -51,10 +51,10 @@
         "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja": 78
       },
       "filtered": 903,
-      "resolved": 903,
-      "unresolved": 0,
-      "rules": 374,
-      "known_places": 1332,
+      "resolved": 898,
+      "unresolved": 5,
+      "rules": 384,
+      "known_places": 1357,
       "loaded_data_files": [
         "data/place_rules.json",
         "data/unresolved_known_places.json",
@@ -1292,7 +1292,22 @@
         "data/unresolved_known_places_1566.json",
         "data/unresolved_known_places_1567.json",
         "data/unresolved_known_places_1568.json",
-        "data/unresolved_known_places_1569.json"
+        "data/unresolved_known_places_1569.json",
+        "data/unresolved_known_places_1570.json",
+        "data/unresolved_known_places_1571.json",
+        "data/unresolved_known_places_1572.json",
+        "data/unresolved_known_places_1573.json",
+        "data/unresolved_known_places_1574.json",
+        "data/unresolved_known_places_1575.json",
+        "data/unresolved_known_places_1576.json",
+        "data/unresolved_known_places_1577.json",
+        "data/unresolved_known_places_1578.json",
+        "data/unresolved_known_places_1579.json",
+        "data/unresolved_known_places_1580.json",
+        "data/unresolved_known_places_1581.json",
+        "data/unresolved_known_places_1582.json",
+        "data/unresolved_known_places_1583.json",
+        "data/unresolved_known_places_1584.json"
       ],
       "topic_keywords": [
         "game",
@@ -2863,33 +2878,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          28.0473,
-          -26.2041
-        ]
-      },
-      "properties": {
-        "title": "Three Games From The NAG Winter Edition 2026 You Can Pick Up On Sale Today",
-        "source": "NAG",
-        "link": "https://www.nag.co.za/2026/07/06/three-games-from-the-nag-winter-edition-2026-you-can-pick-up-on-sale-today/",
-        "published_at": "2026-07-06T10:17:47+00:00",
-        "representative_place": "NAG Winter Edition games article / Johannesburg representative",
-        "place_label": "南アフリカ-ヨハネスブルグ",
-        "sort_place_label": "南アフリカ-ヨハネスブルグ",
-        "geocode_query": "NAG Winter Edition 2026 games Johannesburg representative",
-        "place_type": "multi_game_magazine_article_source_city_representative_uncertain_subject_location",
-        "location_precision": "city",
-        "place_reason": "The generated unresolved item is a multi-game magazine/list article from NAG. The unresolved record does not expose one developer, city, event, or game as the sole focus, so use Johannesburg as a low-confidence South African source/market representative rather than selecting an arbitrary featured game. This is not an exact office or game-development coordinate.（一致語: Three Games From The NAG Winter Edition 2026 You Can Pick Up On Sale Today）",
-        "confidence": 0.28,
-        "rule_id": "game_all_20260709_nag_winter_edition_games_johannesburg_202607",
-        "matched_text": "Three Games From The NAG Winter Edition 2026 You Can Pick Up On Sale Today",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -122.4194,
           37.7749
         ]
@@ -3268,8 +3256,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          21.0122,
-          52.2297
+          21.0186,
+          52.2695
         ]
       },
       "properties": {
@@ -3277,14 +3265,14 @@
         "source": "gamedeveloper",
         "link": "https://www.gamedeveloper.com/business/cyberpunk-2077-has-sold-40-million-copies-worldwide",
         "published_at": "2026-07-03T12:47:11+00:00",
-        "representative_place": "CD PROJEKT / Warsaw",
-        "place_label": "ポーランド-マゾフシェ県-ワルシャワ-CD PROJEKT / Cyberpunk 2077",
-        "sort_place_label": "ポーランド-マゾフシェ県-ワルシャワ-CD PROJEKT / Cyberpunk 2077",
-        "geocode_query": "CD Projekt headquarters Warsaw Poland Cyberpunk 2077",
-        "place_type": "game_company_headquarters",
-        "location_precision": "city",
-        "place_reason": "記事はCyberpunk 2077の世界販売本数の更新で、作品主体はCD PROJEKT/CD PROJEKT RED。記事タイトル・要約にイベント会場等の別地点はなく、開発・発表主体の代表地点としてCD PROJEKT本社所在地のWarsawに置く。（一致語: Cyberpunk 2077 has sold 40 million copies worldwide）",
-        "confidence": 0.86,
+        "representative_place": "CD PROJEKT S.A. / ul. Jagiellońska 74 building E",
+        "place_label": "ポーランド-ワルシャワ-ul. Jagiellońska 74 building E-CD PROJEKT / Cyberpunk 2077代表点",
+        "sort_place_label": "ポーランド-ワルシャワ-ul. Jagiellońska 74 building E-CD PROJEKT / Cyberpunk 2077代表点",
+        "geocode_query": "ul. Jagiellońska 74 building E 03-301 Warszawa CD PROJEKT Cyberpunk 2077",
+        "place_type": "game_company_sales_update_hq_representative",
+        "location_precision": "building",
+        "place_reason": "Task 1 refinement for the Cyberpunk 2077 sales-update override. The item was already mapped to CD PROJEKT / Warsaw as the developer/publisher-side representative. Existing later dictionary context has CD PROJEKT S.A. / ul. Jagiellońska 74 building E as a building-level company representative, so replace the generic Warsaw city point with that existing company-side point. This does not claim a sales-report venue, media office, in-game location, or production-room coordinate.（一致語: Cyberpunk 2077 has sold 40 million copies worldwide）",
+        "confidence": 0.84,
         "rule_id": "observed_cyberpunk_2077_cd_projekt_warsaw_202607",
         "matched_text": "Cyberpunk 2077 has sold 40 million copies worldwide",
         "match_source": "known_place_title"
@@ -3295,8 +3283,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.3255,
-          37.563
+          -122.2834,
+          37.5606
         ]
       },
       "properties": {
@@ -3304,14 +3292,14 @@
         "source": "GamesIndustry.biz Latest Articles Feed",
         "link": "https://www.gamesindustry.biz/we-are-profoundly-disappointed-by-sonys-decision-game-companies-express-dismay-at-the-end-of-playstation-disc-production",
         "published_at": "2026-07-03T12:22:42+00:00",
-        "representative_place": "Sony Interactive Entertainment / San Mateo",
-        "place_label": "米国-カリフォルニア州-サンマテオ-Sony Interactive Entertainment / PlayStation decision",
-        "sort_place_label": "米国-カリフォルニア州-サンマテオ-Sony Interactive Entertainment / PlayStation decision",
-        "geocode_query": "Sony Interactive Entertainment headquarters San Mateo PlayStation",
-        "place_type": "platform_holder_headquarters_decision",
-        "location_precision": "city",
-        "place_reason": "KakuchopureiのPlayStation Asia記事は、PlayStationの新作ゲーム物理ディスク生産終了/デジタル移行方針への反応記事。複数の同時期記事で、2028年以降の新作PlayStationタイトルの物理ディスク生産終了はSony Interactive Entertainmentの方針として報じられている。記事側で工場・会場・地域オフィス等のより具体的な地点は確認できないため、制度的な決定主体としてSIE本社所在地のSan Mateoを代表地点にする。既存のGamesIndustry.biz記事向け同idを後続辞書で上書きし、Kakuchopureiのタイトル/URLスラッグも同一地点に吸収する。（一致語: \"We are profoundly disappointed by Sony's decision\" – Game companies express dismay at the end of PlayStation disc production）",
-        "confidence": 0.74,
+        "representative_place": "Sony Interactive Entertainment / 2207 Bridgepointe Pkwy",
+        "place_label": "米国-カリフォルニア州-サンマテオ-2207 Bridgepointe Pkwy-Sony Interactive Entertainment",
+        "sort_place_label": "米国-カリフォルニア州-サンマテオ-2207 Bridgepointe Pkwy-Sony Interactive Entertainment",
+        "geocode_query": "2207 Bridgepointe Pkwy San Mateo CA 94404 Sony Interactive Entertainment PlayStation physical discs decision",
+        "place_type": "platform_holder_headquarters_decision_site",
+        "location_precision": "exact_site",
+        "place_reason": "Task 1 refinement for files 695 and 697: the PlayStation physical-disc production decision item was already resolved to Sony Interactive Entertainment / San Mateo at city precision. The repository already contains an SIE / 2207 Bridgepointe Pkwy exact-site reference for the same PlayStation physical-discs context, so replace the generic San Mateo city point with that company-site representative. This does not claim a factory, disc-production plant, retailer, or regional PlayStation Asia office.（一致語: \"We are profoundly disappointed by Sony's decision\" – Game companies express dismay at the end of PlayStation disc production）",
+        "confidence": 0.8,
         "rule_id": "observed_playstation_disc_production_sie_san_mateo_202607",
         "matched_text": "\"We are profoundly disappointed by Sony's decision\" – Game companies express dismay at the end of PlayStation disc production",
         "match_source": "known_place_title"
@@ -3349,8 +3337,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.0839,
-          37.3861
+          -122.0841,
+          37.422
         ]
       },
       "properties": {
@@ -3358,14 +3346,14 @@
         "source": "Latest Updates | PocketGamer.biz",
         "link": "https://www.pocketgamer.biz/google-launches-1m-indie-games-fund-for-african-developers/",
         "published_at": "2026-07-03T09:36:00+00:00",
-        "representative_place": "Google / Google Play fund representative",
-        "place_label": "米国-カリフォルニア州-マウンテンビュー-Google / Indie Games Fund Africa",
-        "sort_place_label": "米国-カリフォルニア州-マウンテンビュー-Google / Indie Games Fund Africa",
-        "geocode_query": "Google headquarters Mountain View Google Play Indie Games Fund Africa",
-        "place_type": "platform_fund_program_representative_uncertain_region_target",
-        "location_precision": "city",
-        "place_reason": "TechCabal記事はGoogle Playがアフリカのゲームスタジオ10社を100万ドル規模のファンドで支援するという内容で、batch 695で処理済みのPocketGamer.biz記事と同じGoogle Play Indie Games Fund Africaのニュース群に属する。支援対象は複数のAfrica-based studiosに分散しており単一の受益スタジオ所在地へ置くと不適切なため、発表/運営主体であるGoogle/Google Playを代表地点にする。後続同一idでTechCabalのタイトルをaliasに加え、既存のMountain View代表地点に吸収する。対象地域が広域であるためconfidenceは低めに維持する。（一致語: Google launches $1m Indie Games Fund for African developers）",
-        "confidence": 0.5,
+        "representative_place": "Googleplex / Google Play Indie Games Fund Africa",
+        "place_label": "米国-カリフォルニア州-マウンテンビュー-Googleplex-Google Play Indie Games Fund Africa",
+        "sort_place_label": "米国-カリフォルニア州-マウンテンビュー-Googleplex-Google Play Indie Games Fund Africa",
+        "geocode_query": "Googleplex Mountain View California Google Play Indie Games Fund Africa",
+        "place_type": "platform_fund_program_company_site",
+        "location_precision": "exact_site",
+        "place_reason": "Task 1 refinement for files 695 and 710: the Google Play Indie Games Fund Africa item was already resolved to Google / Google Play Mountain View at city precision. The fund targets multiple African studios, so it should not be moved to a single beneficiary location. Use the existing Googleplex exact-site reference for Google Play platform-program stories instead of the generic Mountain View city point.（一致語: Google launches $1m Indie Games Fund for African developers）",
+        "confidence": 0.66,
         "rule_id": "observed_google_indie_games_fund_africa_mountain_view_202607",
         "matched_text": "Google launches $1m Indie Games Fund for African developers",
         "match_source": "known_place_title"
@@ -3484,8 +3472,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.3255,
-          37.563
+          -122.2834,
+          37.5606
         ]
       },
       "properties": {
@@ -3493,14 +3481,14 @@
         "source": "Kakuchopurei",
         "link": "https://www.kakuchopurei.com/2026/07/playstation-asia-announces-no-physical-disc-games-future-gets-yelled-at/",
         "published_at": "2026-07-03T01:51:05+00:00",
-        "representative_place": "Sony Interactive Entertainment / San Mateo",
-        "place_label": "米国-カリフォルニア州-サンマテオ-Sony Interactive Entertainment / PlayStation decision",
-        "sort_place_label": "米国-カリフォルニア州-サンマテオ-Sony Interactive Entertainment / PlayStation decision",
-        "geocode_query": "Sony Interactive Entertainment headquarters San Mateo PlayStation",
-        "place_type": "platform_holder_headquarters_decision",
-        "location_precision": "city",
-        "place_reason": "KakuchopureiのPlayStation Asia記事は、PlayStationの新作ゲーム物理ディスク生産終了/デジタル移行方針への反応記事。複数の同時期記事で、2028年以降の新作PlayStationタイトルの物理ディスク生産終了はSony Interactive Entertainmentの方針として報じられている。記事側で工場・会場・地域オフィス等のより具体的な地点は確認できないため、制度的な決定主体としてSIE本社所在地のSan Mateoを代表地点にする。既存のGamesIndustry.biz記事向け同idを後続辞書で上書きし、Kakuchopureiのタイトル/URLスラッグも同一地点に吸収する。（一致語: PlayStation Announces Physical Disc-less Gaming Future; Gets Mocked For It）",
-        "confidence": 0.74,
+        "representative_place": "Sony Interactive Entertainment / 2207 Bridgepointe Pkwy",
+        "place_label": "米国-カリフォルニア州-サンマテオ-2207 Bridgepointe Pkwy-Sony Interactive Entertainment",
+        "sort_place_label": "米国-カリフォルニア州-サンマテオ-2207 Bridgepointe Pkwy-Sony Interactive Entertainment",
+        "geocode_query": "2207 Bridgepointe Pkwy San Mateo CA 94404 Sony Interactive Entertainment PlayStation physical discs decision",
+        "place_type": "platform_holder_headquarters_decision_site",
+        "location_precision": "exact_site",
+        "place_reason": "Task 1 refinement for files 695 and 697: the PlayStation physical-disc production decision item was already resolved to Sony Interactive Entertainment / San Mateo at city precision. The repository already contains an SIE / 2207 Bridgepointe Pkwy exact-site reference for the same PlayStation physical-discs context, so replace the generic San Mateo city point with that company-site representative. This does not claim a factory, disc-production plant, retailer, or regional PlayStation Asia office.（一致語: PlayStation Announces Physical Disc-less Gaming Future; Gets Mocked For It）",
+        "confidence": 0.8,
         "rule_id": "observed_playstation_disc_production_sie_san_mateo_202607",
         "matched_text": "PlayStation Announces Physical Disc-less Gaming Future; Gets Mocked For It",
         "match_source": "known_place_title"
@@ -4969,8 +4957,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          21.0122,
-          52.2297
+          21.0186,
+          52.2695
         ]
       },
       "properties": {
@@ -4978,16 +4966,16 @@
         "source": "GamesIndustry.biz Latest Articles Feed",
         "link": "https://www.gamesindustry.biz/cd-projekt-rebrands-to-cd-projekt-red",
         "published_at": "2026-06-29T09:40:55+00:00",
-        "representative_place": "CD PROJEKT / Warsaw",
-        "place_label": "ポーランド-ワルシャワ-CD PROJEKT",
-        "sort_place_label": "ポーランド-ワルシャワ-CD PROJEKT",
-        "geocode_query": "CD PROJEKT Warsaw Poland",
-        "place_type": "studio_company_site",
-        "location_precision": "city",
-        "place_reason": "CD PROJEKTの決算・会社報告記事なので、ポーランド代表点ではなく同社本社都市Warsawに置く。（一致語: CD PROJEKT）",
-        "confidence": 0.82,
-        "rule_id": "observed_cd_projekt_report_warsaw_202603",
-        "matched_text": "CD PROJEKT",
+        "representative_place": "CD PROJEKT S.A. / ul. Jagiellońska 74 building E",
+        "place_label": "ポーランド-ワルシャワ-ul. Jagiellońska 74 building E-CD PROJEKT代表点",
+        "sort_place_label": "ポーランド-ワルシャワ-ul. Jagiellońska 74 building E-CD PROJEKT代表点",
+        "geocode_query": "ul. Jagiellońska 74 building E 03-301 Warszawa CD PROJEKT annual report",
+        "place_type": "game_company_financial_report_hq_representative",
+        "location_precision": "building",
+        "place_reason": "Task 1 refinement for the CD PROJEKT corporate/annual-report override. The older entries used Warsaw city/headquarters-area precision. Existing later dictionary context has CD PROJEKT S.A. / ul. Jagiellońska 74 building E as a building-level company representative, so use that existing point for CD PROJEKT-side corporate articles. This does not claim an interview venue, stock-exchange site, publication office, or production-room coordinate.（一致語: CD Projekt）",
+        "confidence": 0.84,
+        "rule_id": "observed_cd_projekt_polish_giant_202606",
+        "matched_text": "CD Projekt",
         "match_source": "known_place_title"
       }
     },
@@ -6022,33 +6010,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.3499,
-          44.8897
-        ]
-      },
-      "properties": {
-        "title": "New publisher Trailmark Games promises 'new path forward' for licensed games",
-        "source": "gamedeveloper",
-        "link": "https://www.gamedeveloper.com/business/new-publisher-trailmark-games-promises-new-path-forward-for-licensed-games",
-        "published_at": "2026-06-24T15:48:29+00:00",
-        "representative_place": "Trailmark Games / former GameMill executives representative",
-        "place_label": "米国-ミネソタ州-エディナ-Trailmark Games / GameMill executive context",
-        "sort_place_label": "米国-ミネソタ州-エディナ-Trailmark Games / GameMill executive context",
-        "geocode_query": "GameMill Entertainment Edina Minnesota Trailmark Games Andy Koehler",
-        "place_type": "new_game_publisher_company_representative_uncertain_hq",
-        "location_precision": "city",
-        "place_reason": "既存disabled entryは、新規パブリッシャーTrailmark Gamesの発表記事について、Trailmark Games自体の本社都市・住所を確定できないため無配置としていた。既存B2 entry `observed_trailmark_games_former_gamemill_edina_202606` では、同一記事対象について、元GameMill Entertainment幹部による新会社発表として扱い、新会社の明示住所は未確定のままGameMill Entertainment本社文脈のEdina, Minnesotaへ低confidenceで置いている。今回も媒体所在地や任意のライセンス元には置かず、既存B2と同じTrailmark Games / former GameMill executives representativeへ寄せる。これはTrailmark Gamesの実本社、登記住所、正確なオフィス、GameMill現住所を確認したものではなく、新会社の実所在地が判明した場合は必ず差し替える。（一致語: Trailmark Games / former GameMill executives / Edina Minnesota）（一致語: Trailmark Games）",
-        "confidence": 0.42,
-        "rule_id": "disabled_trailmark_games_hq_unconfirmed_202606",
-        "matched_text": "Trailmark Games",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -74.006,
           40.7128
         ]
@@ -6481,33 +6442,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          127.1389,
-          37.4449
-        ]
-      },
-      "properties": {
-        "title": "ネオウィズ、インディゲーム『ワインドアップデッドマン』のパブリッシング契約を締結 - jp.ajunews.com",
-        "source": "jp.ajunews.com",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MVlJwSjBhcm1lVXRUbDVVUGVuY0YxODBrVlhzRFVhMFB2eEVFOHRBYzdvVEY1ZzM0RmU2Q240b2NUOGNwSXlSaURYQm5rR2lXSFRZWXgtQUs0Q2c?oc=5",
-        "published_at": "2026-06-23T01:00:00+00:00",
-        "representative_place": "NEOWIZ / Seongnam",
-        "place_label": "韓国-京畿道-城南市-NEOWIZ",
-        "sort_place_label": "韓国-京畿道-城南市-NEOWIZ",
-        "geocode_query": "NEOWIZ Seongnam South Korea",
-        "place_type": "publisher_site",
-        "location_precision": "city",
-        "place_reason": "ネオウィズのパブリッシング契約記事なので、韓国一般ではなくNEOWIZ本拠のSeongnamに置く。（一致語: ワインドアップデッドマン）",
-        "confidence": 0.8,
-        "rule_id": "observed_neowiz_wind_up_deadman_seongnam_202606",
-        "matched_text": "ワインドアップデッドマン",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -96.797,
           32.7767
         ]
@@ -6653,15 +6587,15 @@
         "link": "https://www.gamesindustry.biz/cd-projekt-joint-ceo-says-its-fair-that-the-studio-lost-the-faith-of-some-of-its-audience-after-cyberpunk-2077-launch",
         "published_at": "2026-06-22T09:24:20+00:00",
         "representative_place": "CD PROJEKT S.A. / ul. Jagiellońska 74 building E",
-        "place_label": "ポーランド-ワルシャワ-ul. Jagiellońska 74 building E-CD PROJEKT",
-        "sort_place_label": "ポーランド-ワルシャワ-ul. Jagiellońska 74 building E-CD PROJEKT",
-        "geocode_query": "ul. Jagiellońska 74 building E 03-301 Warszawa CD PROJEKT",
-        "place_type": "company_site",
+        "place_label": "ポーランド-ワルシャワ-ul. Jagiellońska 74 building E-CD PROJEKT / Cyberpunk 2077代表点",
+        "sort_place_label": "ポーランド-ワルシャワ-ul. Jagiellońska 74 building E-CD PROJEKT / Cyberpunk 2077代表点",
+        "geocode_query": "ul. Jagiellońska 74 building E 03-301 Warszawa CD PROJEKT Cyberpunk 2077",
+        "place_type": "game_company_sales_update_hq_representative",
         "location_precision": "building",
-        "place_reason": "CD Projektのjoint-CEOまたはPolish giant CD Projekt文脈の記事を、CD PROJEKT公式Contactに記載のul. Jagiellońska 74, building Eに置く。112番のCD Projekt単体マッチは広すぎるため使わず、joint-CEO / Polish giant CD Projekt文脈だけを対象にする。（一致語: CD Projekt joint-CEO）",
+        "place_reason": "Task 1 refinement for the Cyberpunk 2077 sales-update override. The item was already mapped to CD PROJEKT / Warsaw as the developer/publisher-side representative. Existing later dictionary context has CD PROJEKT S.A. / ul. Jagiellońska 74 building E as a building-level company representative, so replace the generic Warsaw city point with that existing company-side point. This does not claim a sales-report venue, media office, in-game location, or production-room coordinate.（一致語: Cyberpunk 2077）",
         "confidence": 0.84,
-        "rule_id": "observed_cd_projekt_warsaw_specific_202607",
-        "matched_text": "CD Projekt joint-CEO",
+        "rule_id": "observed_cyberpunk_2077_cd_projekt_warsaw_202607",
+        "matched_text": "Cyberpunk 2077",
         "match_source": "known_place_title"
       }
     },
@@ -6959,33 +6893,6 @@
         "confidence": 0.68,
         "rule_id": "observed_otherside_argos_cancellation_boston_202606",
         "matched_text": "OtherSide Entertainment cuts 17 jobs after Argos cancellation",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.18,
-          55.95
-        ]
-      },
-      "properties": {
-        "title": "UK employment tribunal denies Rockstar's request to have 'blacklisting' claims removed from upcoming trial",
-        "source": "GamesIndustry.biz Latest Articles Feed",
-        "link": "https://www.gamesindustry.biz/uk-employment-tribunal-denies-rockstars-request-to-have-blacklisting-claims-removed-from-upcoming-trial",
-        "published_at": "2026-06-18T09:18:04+00:00",
-        "representative_place": "Rockstar North / Edinburgh office area",
-        "place_label": "英国-スコットランド-エディンバラ-Rockstar North周辺",
-        "sort_place_label": "英国-スコットランド-エディンバラ-Rockstar North周辺",
-        "geocode_query": "Rockstar North Barclay House Edinburgh Scotland United Kingdom",
-        "place_type": "studio_legal_site",
-        "location_precision": "office_area",
-        "place_reason": "UK employment tribunalの法域記事だが、Rockstarの労働係争であり、解雇対象の中心がRockstar NorthのEdinburgh officeと報じられているため英国代表点ではなくEdinburghのRockstar North周辺として扱う（一致語: UK employment tribunal）",
-        "confidence": 0.76,
-        "rule_id": "observed_uk_rockstar_employment_tribunal_202606",
-        "matched_text": "UK employment tribunal",
         "match_source": "known_place_title"
       }
     },
@@ -9100,6 +9007,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          135.7562,
+          34.9697
+        ]
+      },
+      "properties": {
+        "title": "任天堂がうらやましい…海外メディアが報じた｢日本のゲーム会社が世界で売れるヒット作を連発できる理由 - PRESIDENT Online（プレジデントオンライン）",
+        "source": "PRESIDENT Online（プレジデントオンライン）",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE41VzhmMnQtbl8tZFZyeW1jT1ZZM1VnRktXSnFlUEZ6Ym5obFpMZWZZcVByQjk5Y2NJTlF2TGJUR2lEVS1LdDhJNGtoM2FkalRNODUzS0xmbEU?oc=5",
+        "published_at": "2026-04-30T07:00:00+00:00",
+        "representative_place": "Nintendo Co., Ltd. / 11-1 Hokotate-cho",
+        "place_label": "日本-京都府-京都市-南区-上鳥羽鉾立町11-1-任天堂",
+        "sort_place_label": "日本-京都府-京都市-南区-上鳥羽鉾立町11-1-任天堂",
+        "geocode_query": "11-1 Hokotate-cho Kamitoba Minami-ku Kyoto Nintendo headquarters Japanese game companies global hits President Online",
+        "place_type": "game_company_analysis_article_company_site",
+        "location_precision": "exact_site",
+        "place_reason": "Task 1 refinement for file 1535: the item was already resolved to Nintendo / Kyoto at city precision. Because the title foregrounds Nintendo and the repository already contains a Nintendo headquarters exact-site reference at 11-1 Hokotate-cho, use the Nintendo company-side representative rather than a generic Kyoto city point. This does not claim the article's interview site or publication office.（一致語: 任天堂がうらやましい…海外メディアが報じた｢日本のゲーム会社が世界で売れるヒット作を連発できる理由 - PRESIDENT Online（プレジデントオンライン））",
+        "confidence": 0.62,
+        "rule_id": "game_all_20260709_president_japanese_game_companies_nintendo_kyoto_202604",
+        "matched_text": "任天堂がうらやましい…海外メディアが報じた｢日本のゲーム会社が世界で売れるヒット作を連発できる理由 - PRESIDENT Online（プレジデントオンライン）",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           3.1192,
           50.5825
         ]
@@ -10477,8 +10411,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          21.0122,
-          52.2297
+          21.0186,
+          52.2695
         ]
       },
       "properties": {
@@ -10486,16 +10420,16 @@
         "source": "Game World Observer",
         "link": "https://gameworldobserver.com/2026/03/20/the-second-best-year-in-cd-projekts-history-and-more-from-the-companys-report",
         "published_at": "2026-03-20T12:32:15+00:00",
-        "representative_place": "CD PROJEKT / Warsaw",
-        "place_label": "ポーランド-ワルシャワ-CD PROJEKT",
-        "sort_place_label": "ポーランド-ワルシャワ-CD PROJEKT",
-        "geocode_query": "CD PROJEKT Warsaw Poland",
-        "place_type": "studio_company_site",
-        "location_precision": "city",
-        "place_reason": "CD PROJEKTの決算・会社報告記事なので、ポーランド代表点ではなく同社本社都市Warsawに置く。（一致語: CD PROJEKT’s history）",
-        "confidence": 0.82,
-        "rule_id": "observed_cd_projekt_report_warsaw_202603",
-        "matched_text": "CD PROJEKT’s history",
+        "representative_place": "CD PROJEKT S.A. / ul. Jagiellońska 74 building E",
+        "place_label": "ポーランド-ワルシャワ-ul. Jagiellońska 74 building E-CD PROJEKT代表点",
+        "sort_place_label": "ポーランド-ワルシャワ-ul. Jagiellońska 74 building E-CD PROJEKT代表点",
+        "geocode_query": "ul. Jagiellońska 74 building E 03-301 Warszawa CD PROJEKT annual report",
+        "place_type": "game_company_financial_report_hq_representative",
+        "location_precision": "building",
+        "place_reason": "Task 1 refinement for the CD PROJEKT corporate/annual-report override. The older entries used Warsaw city/headquarters-area precision. Existing later dictionary context has CD PROJEKT S.A. / ul. Jagiellońska 74 building E as a building-level company representative, so use that existing point for CD PROJEKT-side corporate articles. This does not claim an interview venue, stock-exchange site, publication office, or production-room coordinate.（一致語: CD Projekt）",
+        "confidence": 0.84,
+        "rule_id": "observed_cd_projekt_polish_giant_202606",
+        "matched_text": "CD Projekt",
         "match_source": "known_place_title"
       }
     },
@@ -11022,9 +10956,9 @@
         ]
       },
       "properties": {
-        "title": "Ideas: Press start: Southeast Asia’s video games leap - KLSE Screener",
-        "source": "KLSE Screener",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPai1iZURaQUgtY0p1RWNsN0ZvU1ZrUWhGSkg4R2RnYnZpcllxOW9oZ3hkcUdXZDhnQmJKTkJXVUEyYzBadWc5OHliZG51a0x2aXVBeE5KSDNOaWNPTG9uSmpDTG1UVEs0c0Jzc0pGSlFESTl2ejZUTEh1X2ZSMkNNT1lMdXRTQkt2NXJ1eU9SZmpkWDdYay1wTGoxc1NJNjhPUkRz?oc=5",
+        "title": "Ideas: Press start: Southeast Asia’s video games leap - The Edge Malaysia",
+        "source": "The Edge Malaysia",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9xazdlRk1QM3VGNnBkeHRfbGRoelJxeFk3SF9sdzkwS3JhajRpTVhMTjNGWTZNWHM2ZHl5SU9qSk1MUWdlR3IwOFpjTzdnOFVX?oc=5",
         "published_at": "2026-03-09T07:00:00+00:00",
         "representative_place": "Virtuos / Fusionopolis, Singapore",
         "place_label": "シンガポール-Fusionopolis-Virtuos",
@@ -11076,8 +11010,8 @@
         ]
       },
       "properties": {
-        "title": "QualiArtsとカバーが共同開発する「ホロライブ」初のスマホゲーム『hololive Dreams』（略称「ホロドリ」）が全世界同時*事前登録を開始 - ホロライブ公式サイト",
-        "source": "ホロライブ公式サイト",
+        "title": "QualiArtsとカバーが共同開発する「ホロライブ」初のスマホゲーム『hololive Dreams』（略称「ホロドリ」）が全世界同時*事前登録を開始 - hololive.hololivepro.com",
+        "source": "hololive.hololivepro.com",
         "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE03R01UWEdYRmNCQzBlamk4X0VKS0JNT1E5S243NUQ4OG5ybVBpTWtDb1VLLWFKNEszb3NjSTRCX2I0RkVKQklFeEZFcnVaWEJMdDhkOFNkU3RpZmxZT1hENFhEWQ?oc=5",
         "published_at": "2026-03-06T08:00:00+00:00",
         "representative_place": "Bandai Namco Entertainment / Minato, Tokyo representative",
@@ -11233,8 +11167,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          114.0579,
-          22.5431
+          113.9305,
+          22.5255
         ]
       },
       "properties": {
@@ -11242,14 +11176,14 @@
         "source": "Game World Observer",
         "link": "https://gameworldobserver.com/2026/03/02/report-tencent-plans-to-buy-a-stake-in-the-studio-behind-block-blast",
         "published_at": "2026-03-02T12:21:36+00:00",
-        "representative_place": "Tencent / Shenzhen",
-        "place_label": "中国-広東省-深圳市-Tencent / Block Blast stake report",
-        "sort_place_label": "中国-広東省-深圳市-Tencent / Block Blast stake report",
-        "geocode_query": "Tencent Binhai Mansion Shenzhen Guangdong China",
+        "representative_place": "Tencent Binhai Mansion / Block Blast investment report",
+        "place_label": "中国-広東省-深圳市-南山区-騰訊濱海大廈-Tencent / Block Blast stake report",
+        "sort_place_label": "中国-広東省-深圳市-南山区-騰訊濱海大廈-Tencent / Block Blast stake report",
+        "geocode_query": "Tencent Binhai Mansion Nanshan Shenzhen Guangdong China Block Blast Hungry Studio stake report",
         "place_type": "game_investment_company_site",
-        "location_precision": "city",
-        "place_reason": "TencentによるBlock Blast!開発元Hungry Studioへの出資観測記事なので、Hungry Studioの未確定所在地には置かず、買い手・意思決定主体Tencentの本社都市Shenzhenに置く。Tencent一般への誤爆を避けるため記事固有タイトルで照合する。（一致語: Report: Tencent plans to buy a stake in the studio behind Block Blast!）",
-        "confidence": 0.7,
+        "location_precision": "building",
+        "place_reason": "Task 1 refinement for file 639: the item was already resolved to Tencent / Shenzhen at city precision. The article concerns Tencent's planned investment in the studio behind Block Blast, while Hungry Studio's precise location is not confirmed in the existing mapping. Keep the Tencent-side decision representative but replace the generic Shenzhen city point with the existing Tencent Binhai Mansion building-level representative. This does not claim Hungry Studio's office or a deal-signing venue.（一致語: Report: Tencent plans to buy a stake in the studio behind Block Blast!）",
+        "confidence": 0.76,
         "rule_id": "observed_tencent_hungry_studio_block_blast_shenzhen_202603",
         "matched_text": "Report: Tencent plans to buy a stake in the studio behind Block Blast!",
         "match_source": "known_place_title"
@@ -12016,8 +11950,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.6503,
-          35.6762
+          139.7289,
+          35.6158
         ]
       },
       "properties": {
@@ -12025,43 +11959,16 @@
         "source": "Game*Spark",
         "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE11N2ZRZVdfangtNjNDWmphT1VDWEo4TnFhbW9jX1kyY0w2MGhFTU1Zd2tIRjZsMlY0ZTBXNWYtZzcwdXdnRDlCWW5wYWp1M2hDSHI1RUVDT0RBOEYyb0g2UzBEbm1iQQ?oc=5",
         "published_at": "2026-01-15T08:00:00+00:00",
-        "representative_place": "Sega / Tokyo representative",
-        "place_label": "日本-東京都",
-        "sort_place_label": "日本-東京都",
-        "geocode_query": "Sega Tokyo Ecco the Dolphin new game original creators studio",
-        "place_type": "game_ip_new_title_announcement_city_representative_uncertain_developer_location",
-        "location_precision": "city",
-        "place_reason": "The generated unresolved item is about a new Ecco the Dolphin title and says it is handled by a studio founded by original creators, but the unresolved record does not expose that studio's confirmed city. Use Sega / Tokyo as the IP-side representative rather than Game*Spark or an unsupported studio location. This should be refined when the actual development-studio city is confirmed.（一致語: セガのイルカACT『エコー・ザ・ドルフィン』新作開発が正式発表！原作クリエイターたち設立のスタジオが手掛ける - Game*Spark）",
-        "confidence": 0.42,
+        "representative_place": "SEGA / Sumitomo Fudosan Osaki Garden Tower",
+        "place_label": "日本-東京都-品川区-西品川-住友不動産大崎ガーデンタワー-SEGA / Ecco the Dolphin代表点",
+        "sort_place_label": "日本-東京都-品川区-西品川-住友不動産大崎ガーデンタワー-SEGA / Ecco the Dolphin代表点",
+        "geocode_query": "Sumitomo Fudosan Osaki Garden Tower Nishi-Shinagawa Tokyo Japan SEGA Ecco the Dolphin new game",
+        "place_type": "game_ip_new_title_announcement_company_representative",
+        "location_precision": "building",
+        "place_reason": "Task 1 refinement for the generated Ecco the Dolphin new-game announcement override. The older mapping used Sega / Tokyo as an IP-side representative because the article says the project is handled by a studio founded by original creators but does not expose that studio's confirmed city. Existing dictionary context already has SEGA at Sumitomo Fudosan Osaki Garden Tower as a building-level company representative, so refine only the existing Sega-side representative from Tokyo city to the known company building. This does not claim the external developer's office, Game*Spark source office, project venue, or development room.（一致語: セガのイルカACT『エコー・ザ・ドルフィン』新作開発が正式発表！原作クリエイターたち設立のスタジオが手掛ける - Game*Spark）",
+        "confidence": 0.62,
         "rule_id": "game_all_20260709_ecco_dolphin_new_game_sega_tokyo_202601",
         "matched_text": "セガのイルカACT『エコー・ザ・ドルフィン』新作開発が正式発表！原作クリエイターたち設立のスタジオが手掛ける - Game*Spark",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.0038,
-          55.605
-        ]
-      },
-      "properties": {
-        "title": "ユービーアイソフトの相次ぐレイオフ、『ディビジョン』の開発元にも―計55人削減へ、Massiveとストックホルムスタジオにて - Game*Spark",
-        "source": "Game*Spark",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE90SEg1V1pONDRGUy1YQy1KYVNRX3Y2ZkFDbm9oMzZ5azZlSzhWX2QxaWx0eEVzbU1kZE5Qc3F1ZDNBcHRMSlVuS0NESjE0UXlBb25HV3lMajR3V3VIbnR2ak1hYnFpUQ?oc=5",
-        "published_at": "2026-01-14T08:00:00+00:00",
-        "representative_place": "Massive Entertainment / Malmö",
-        "place_label": "スウェーデン-マルメ-Massive Entertainment / Ubisoft layoffs",
-        "sort_place_label": "スウェーデン-マルメ-Massive Entertainment / Ubisoft layoffs",
-        "geocode_query": "Massive Entertainment Malmö Sweden Ubisoft layoffs",
-        "place_type": "game_studio_layoff_site_uncertain_office",
-        "location_precision": "city",
-        "place_reason": "記事主語はUbisoftのレイオフで、対象はThe Division開発元Massive EntertainmentとUbisoft Stockholm。複数地点記事だが、タイトル上の中心は『ディビジョン』開発元Massiveであり、MassiveはMalmö拠点として扱える。Stockholmも影響対象のため単一地点として完全ではないが、Massive側の都市精度は妥当なのでB1とする。（一致語: ユービーアイソフトの相次ぐレイオフ、『ディビジョン』の開発元にも―計55人削減へ、Massiveとストックホルムスタジオにて - Game*Spark）",
-        "confidence": 0.68,
-        "rule_id": "observed_ubisoft_layoffs_massive_malmo_stockholm_202601",
-        "matched_text": "ユービーアイソフトの相次ぐレイオフ、『ディビジョン』の開発元にも―計55人削減へ、Massiveとストックホルムスタジオにて - Game*Spark",
         "match_source": "known_place_title"
       }
     },
@@ -14424,33 +14331,6 @@
         ]
       },
       "properties": {
-        "title": "アクワイアがアラブ（UAE）のスタジオとタッグを結成。怪獣バトル、ダークファンタジー、スパイサスペンスをテーマにした新作3本を共同開発 - ファミ通",
-        "source": "ファミ通",
-        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9iX1VHMG1vMEVYZHV4NUdMc2M2YlBtVTkySS1yblVCYkdLUlVzeVNEc2R0TTFtNVUtWFhIY04yeHNaYzJGR0ZWM19UQzh5aVhqOUtYLXJ5OA?oc=5",
-        "published_at": "2025-07-14T07:00:00+00:00",
-        "representative_place": "株式会社アクワイア / FTK秋葉原",
-        "place_label": "日本-東京都-千代田区-外神田3-13-8-FTK秋葉原-アクワイア",
-        "sort_place_label": "日本-東京都-千代田区-外神田3-13-8-FTK秋葉原-アクワイア",
-        "geocode_query": "東京都千代田区外神田3-13-8 FTK秋葉原 アクワイア",
-        "place_type": "studio_company_site",
-        "location_precision": "building",
-        "place_reason": "ACQUIRE / UAE studio partnership articles anchored to ACQUIRE's official Akihabara address. ACQUIRE, UAE, partnership, and game-project standalone terms are not used as triggers.（一致語: アクワイアがアラブ（UAE）のスタジオとタッグを結成）",
-        "confidence": 0.8,
-        "rule_id": "observed_acquire_uae_partnership_akihabara_202507",
-        "matched_text": "アクワイアがアラブ（UAE）のスタジオとタッグを結成",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.7712,
-          35.7004
-        ]
-      },
-      "properties": {
         "title": "アクワイア、なんとアラブ系スタジオとタッグ締結。“アラブの熱烈ゲーマー実業家”と共に新作ゲーム3本一気に開発へ - AUTOMATON",
         "source": "AUTOMATON",
         "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9PNWVTSkllOHNodTV6X09HTU1faE9tRElDZU9oZVJpVmx2dk1FbW92R1NOQTZfV2JkYXR6X21JakhYVUxxNERlYmpvTkg1d285Mlh3NUJtcnJISFF0YzRwRk9SUXNUOURmQ1hMQWg4X3BscTUyNTV3?oc=5",
@@ -14465,6 +14345,33 @@
         "confidence": 0.8,
         "rule_id": "observed_acquire_uae_partnership_akihabara_202507",
         "matched_text": "アクワイア、なんとアラブ系スタジオとタッグ締結",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7712,
+          35.7004
+        ]
+      },
+      "properties": {
+        "title": "アクワイアがアラブ（UAE）のスタジオとタッグを結成。怪獣バトル、ダークファンタジー、スパイサスペンスをテーマにした新作3本を共同開発 - ファミ通",
+        "source": "ファミ通",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9iX1VHMG1vMEVYZHV4NUdMc2M2YlBtVTkySS1yblVCYkdLUlVzeVNEc2R0TTFtNVUtWFhIY04yeHNaYzJGR0ZWM19UQzh5aVhqOUtYLXJ5OA?oc=5",
+        "published_at": "2025-07-14T07:00:00+00:00",
+        "representative_place": "株式会社アクワイア / FTK秋葉原",
+        "place_label": "日本-東京都-千代田区-外神田3-13-8-FTK秋葉原-アクワイア",
+        "sort_place_label": "日本-東京都-千代田区-外神田3-13-8-FTK秋葉原-アクワイア",
+        "geocode_query": "東京都千代田区外神田3-13-8 FTK秋葉原 アクワイア",
+        "place_type": "studio_company_site",
+        "location_precision": "building",
+        "place_reason": "ACQUIRE / UAE studio partnership articles anchored to ACQUIRE's official Akihabara address. ACQUIRE, UAE, partnership, and game-project standalone terms are not used as triggers.（一致語: アクワイアがアラブ（UAE）のスタジオとタッグを結成）",
+        "confidence": 0.8,
+        "rule_id": "observed_acquire_uae_partnership_akihabara_202507",
+        "matched_text": "アクワイアがアラブ（UAE）のスタジオとタッグを結成",
         "match_source": "known_place_title"
       }
     },
@@ -15153,8 +15060,8 @@
         ]
       },
       "properties": {
-        "title": "Summer Game Fest 2025 guide and schedule - Epic Games Store",
-        "source": "Epic Games Store",
+        "title": "Summer Game Fest 2025 guide and schedule - Epic Games",
+        "source": "Epic Games",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTTluR2V5YlJCdkhMeVZMVGh1RmVVamMyMUVBTW1VZWlUNjJ4QW9SeVF2RDN6NVNJSWh1aEFZclliQlh0LUZpdE91WF9ldi1yemNBd1BBS3RwV0J1RGUwMWRuNjZFeU9YSVBPUlJwa2Vaa1NJZ3dmZGRFdnkxcTFzeGJfR1Z4aEdfZU9iR2ZSdWdIMjlwM3c?oc=5",
         "published_at": "2025-06-02T07:00:00+00:00",
         "representative_place": "Summer Game Fest 2025 / YouTube Theater",
@@ -16228,6 +16135,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          139.7516,
+          35.6581
+        ]
+      },
+      "properties": {
+        "title": "【シャインポスト Be Your アイドル！】配信日と事前登録情報｜最新情報 - AppMedia",
+        "source": "AppMedia",
+        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE56OFJRcGRmSU8zTmlDekprZzFleEFicENmZWdlUlR6VFJIaS1JdExOczByQUFrbTBwaGp4RGtNTVFWNmpQU21kaVpSLWQ?oc=5",
+        "published_at": "2025-02-04T08:00:00+00:00",
+        "representative_place": "Bandai Namco Entertainment / Minato, Tokyo representative",
+        "place_label": "日本-東京都-港区-Bandai Namco Entertainment / SAO Memory Defrag",
+        "sort_place_label": "日本-東京都-港区-Bandai Namco Entertainment / SAO Memory Defrag",
+        "geocode_query": "Bandai Namco Entertainment Minato Tokyo Sword Art Online Memory Defrag",
+        "place_type": "mobile_game_publisher_district_representative_uncertain_title_team",
+        "location_precision": "district",
+        "place_reason": "The legacy active entry treated the Sword Art Online Memory Defrag preregistration item as a broad Japan mobile-game launch-market topic. Recheck confirmed the game as a Bandai Namco Entertainment mobile title, and public company context places Bandai Namco Entertainment in Minato, Tokyo after its 2016 move. This override therefore moves the article from a Japan country representative point to a Minato, Tokyo publisher-context representative point. This is not a confirmed title-team office, article venue, exact Bandai Namco Entertainment office coordinate, or media office; replace it if the article body, official game page, store page, or company profile identifies a more precise publisher/developer/operator site.（一致語: 事前登録）",
+        "confidence": 0.64,
+        "rule_id": "observed_sao_memory_defrag_bandai_namco_minato_tokyo_201801",
+        "matched_text": "事前登録",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           3.3792,
           6.5244
         ]
@@ -17227,8 +17161,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          21.0122,
-          52.2297
+          21.0186,
+          52.2695
         ]
       },
       "properties": {
@@ -17236,16 +17170,16 @@
         "source": "Game*Spark",
         "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9qajladGxGTl9Ja2dQbGNJanJualRCUHpIR3RCQ1VPQzM3cm1ad1NEUUdIUkdidjl2OE9jd2FZWFZZWGFjRi1rMzdVc29Lci02N2toblFPeGhXa0lnQXVNVF9FY0lMdw?oc=5",
         "published_at": "2024-10-25T07:00:00+00:00",
-        "representative_place": "CD PROJEKT / Warsaw",
-        "place_label": "ポーランド-ワルシャワ-CD PROJEKT",
-        "sort_place_label": "ポーランド-ワルシャワ-CD PROJEKT",
-        "geocode_query": "CD PROJEKT Warsaw Poland",
-        "place_type": "studio_company_site",
-        "location_precision": "city",
-        "place_reason": "CD PROJEKTの決算・会社報告記事なので、ポーランド代表点ではなく同社本社都市Warsawに置く。（一致語: CD PROJEKT）",
-        "confidence": 0.82,
-        "rule_id": "observed_cd_projekt_report_warsaw_202603",
-        "matched_text": "CD PROJEKT",
+        "representative_place": "CD PROJEKT S.A. / ul. Jagiellońska 74 building E",
+        "place_label": "ポーランド-ワルシャワ-ul. Jagiellońska 74 building E-CD PROJEKT代表点",
+        "sort_place_label": "ポーランド-ワルシャワ-ul. Jagiellońska 74 building E-CD PROJEKT代表点",
+        "geocode_query": "ul. Jagiellońska 74 building E 03-301 Warszawa CD PROJEKT annual report",
+        "place_type": "game_company_financial_report_hq_representative",
+        "location_precision": "building",
+        "place_reason": "Task 1 refinement for the CD PROJEKT corporate/annual-report override. The older entries used Warsaw city/headquarters-area precision. Existing later dictionary context has CD PROJEKT S.A. / ul. Jagiellońska 74 building E as a building-level company representative, so use that existing point for CD PROJEKT-side corporate articles. This does not claim an interview venue, stock-exchange site, publication office, or production-room coordinate.（一致語: CD Projekt）",
+        "confidence": 0.84,
+        "rule_id": "observed_cd_projekt_polish_giant_202606",
+        "matched_text": "CD Projekt",
         "match_source": "known_place_title"
       }
     },
@@ -17551,8 +17485,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.1215,
-          47.674
+          -122.1297,
+          47.6401
         ]
       },
       "properties": {
@@ -17560,14 +17494,14 @@
         "source": "AugustMan Singapore",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOUJ5VHlZcmhkR3BvdlFLQ2pHeHllTEgySmVfU1J4OV9TcHc4d25FcVZvOGd5QlluZ2luM0RwWVpkS0UteEJDTFY1RzhtUkF4aXdGWEpsZVN0RUdoZU9TSTUzTGdqQTBBZjViUURqcWRYVDZnTTV6Z0VHLWFLT2ZrdnB5NDQydHl5cHY3b3R1RHh2TXJxRVBYcXA4aU9XN0tPX1hWZDhR0gGrAUFVX3lxTFBsOVBkZ0xVZ3M0cWhhaXhkb0ZhR2JXVHhfUHBPU3ZUZ29fQklaTWd0V1ZMSjBDMXZIN2ppcjdNMGU3WHppOUtPMGk1elFCQnAxa3Z6b2JYNy13NWRhMm1SS0ozZUttVkh6ejlQYWtvamxsaW96d3hrQmZ4TXRRa2JwRWZleEpGV1lLRzRfazVoUTJ0TmJPSWNWZm56WktzeHMtR0F1UmRrRDcwVQ?oc=5",
         "published_at": "2024-09-04T07:00:00+00:00",
-        "representative_place": "Microsoft / Xbox, Redmond",
-        "place_label": "米国-ワシントン州-レドモンド",
-        "sort_place_label": "米国-ワシントン州-レドモンド",
-        "geocode_query": "Microsoft Xbox Redmond Transformers video games rumor",
-        "place_type": "platform_holder_rumor_article_city_representative_uncertain_project_site",
-        "location_precision": "city",
-        "place_reason": "The generated unresolved item is about whether Microsoft is working on two Transformers video games. The unresolved record does not expose a specific development studio, project site, or confirmed announcement venue, so use Microsoft / Xbox, Redmond as the platform-holder representative rather than the AugustMan Singapore source location. This is not an exact development site.（一致語: Is Microsoft Working On Two New ‘Transformers’ Video Games? Here’s What We Know - AugustMan Singapore）",
-        "confidence": 0.54,
+        "representative_place": "Microsoft Gaming / One Microsoft Way Redmond campus",
+        "place_label": "米国-ワシントン州-レドモンド-One Microsoft Way-Microsoft Gaming/Xbox代表点",
+        "sort_place_label": "米国-ワシントン州-レドモンド-One Microsoft Way-Microsoft Gaming/Xbox代表点",
+        "geocode_query": "One Microsoft Way Redmond Washington Microsoft Gaming Xbox Transformers video games rumor",
+        "place_type": "platform_holder_rumor_article_hq_representative",
+        "location_precision": "exact_site",
+        "place_reason": "Task 1 refinement for the batch 1541 exact-title override. The item is a Microsoft/Xbox-side article about possible Transformers video games. The older mapping used generic Redmond city precision; existing dictionary context already uses the Microsoft / One Microsoft Way campus for Microsoft Gaming/Xbox corporate and platform-holder stories. Use that accepted exact-site representative while avoiding any claim about a confirmed development studio or project site.（一致語: Is Microsoft Working On Two New ‘Transformers’ Video Games? Here’s What We Know - AugustMan Singapore）",
+        "confidence": 0.72,
         "rule_id": "game_all_20260709_microsoft_transformers_games_redmond_202409",
         "matched_text": "Is Microsoft Working On Two New ‘Transformers’ Video Games? Here’s What We Know - AugustMan Singapore",
         "match_source": "known_place_title"
@@ -17956,35 +17890,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.9624,
-          37.2358
-        ]
-      },
-      "properties": {
-        "title": "Netflix’s video game strategy comes into focus - Fast Company",
-        "source": "Fast Company",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNWZrXzl0QnppTzNTeVBtQ2p1WDY3VTFJei1SaEFlc3BSSjFSQW5sakRYM1NLaDJkMF9EM2ZFXzBYczF3MzFvU2JRQmRjMmZpbDhlcG94cjRvYzNYMlBDZTliV1JPdzh5RmpLWG82VDB1cXBTTFFGTFBXaVdaUkpwNlBiSzR3dE5S?oc=5",
-        "published_at": "2024-08-06T07:00:00+00:00",
-        "representative_place": "Netflix / Los Gatos representative",
-        "place_label": "米国-カリフォルニア州-ロスガトス-Netflix代表点",
-        "sort_place_label": "米国-カリフォルニア州-ロスガトス-Netflix代表点",
-        "geocode_query": "Netflix Los Gatos video game strategy Fast Company",
-        "place_type": "company_video_game_strategy_representative",
-        "location_precision": "city",
-        "place_reason": "The Fast Company item is about Netflix's video game strategy, a company-level strategy article rather than an India-specific studio item despite the feed query. Use Netflix's Los Gatos corporate representative point rather than leaving the article unresolved.（一致語: Netflix’s video game strategy comes into focus - Fast Company）",
-        "confidence": 0.52,
-        "rule_id": "game_all_20260709_netflix_video_game_strategy_los_gatos_202408",
-        "matched_text": "Netflix’s video game strategy comes into focus - Fast Company",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.1215,
-          47.674
+          -122.1297,
+          47.6401
         ]
       },
       "properties": {
@@ -17992,14 +17899,14 @@
         "source": "CIO Africa",
         "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8xel9FWUtDREpmODFjQ0g1QlhmWDk4V0dSaUtZOW9KUmhQMmx4MXZRbDRlc0hOclI3WXVpdVZ4MUYxRHNZclZLbmVUSEVMLUoxZk9RQW5EdzZHUC1MQVZLbDBocDFJakE1UlRsUUNRXzd5Uk50Y0dMUmhlQVFvUQ?oc=5",
         "published_at": "2024-08-05T07:00:00+00:00",
-        "representative_place": "Microsoft / Xbox, Redmond",
-        "place_label": "米国-ワシントン州-レドモンド",
-        "sort_place_label": "米国-ワシントン州-レドモンド",
-        "geocode_query": "Xbox Games aims to grow Africa video game industry Microsoft Redmond",
-        "place_type": "platform_holder_regional_industry_program_city_representative_uncertain_activity_site",
-        "location_precision": "city",
-        "place_reason": "The generated unresolved item is Xbox-side industry-development coverage for Africa. The unresolved record does not expose a specific African event city, local office, or program venue, so use Microsoft / Xbox, Redmond as the platform-holder representative rather than CIO Africa's source point or a broad Africa placement. This is not an activity-site coordinate.（一致語: Xbox Games Aims To Grow Africa’s Video Game Industry - CIO Africa）",
-        "confidence": 0.44,
+        "representative_place": "Microsoft Gaming / One Microsoft Way Redmond campus",
+        "place_label": "米国-ワシントン州-レドモンド-One Microsoft Way-Microsoft Gaming/Xbox代表点",
+        "sort_place_label": "米国-ワシントン州-レドモンド-One Microsoft Way-Microsoft Gaming/Xbox代表点",
+        "geocode_query": "One Microsoft Way Redmond Washington Xbox Games grow Africa video game industry Microsoft Gaming",
+        "place_type": "platform_holder_regional_industry_program_hq_representative",
+        "location_precision": "exact_site",
+        "place_reason": "Task 1 refinement for the batch 1542 exact-title override. The item is Xbox-side industry-development coverage for Africa. The older mapping used Redmond city precision; existing dictionary context already uses the Microsoft / One Microsoft Way campus for Xbox corporate/platform-holder items. Use that company-side exact-site representative rather than inventing an African activity venue not exposed in the record.（一致語: Xbox Games Aims To Grow Africa’s Video Game Industry - CIO Africa）",
+        "confidence": 0.7,
         "rule_id": "game_all_20260709_xbox_grow_africa_industry_redmond_202408",
         "matched_text": "Xbox Games Aims To Grow Africa’s Video Game Industry - CIO Africa",
         "match_source": "known_place_title"
@@ -21250,6 +21157,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          77.5946,
+          12.9716
+        ]
+      },
+      "properties": {
+        "title": "Krafton invests over $100M in India, expands beyond games - TechCrunch",
+        "source": "TechCrunch",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUTY5cU5WN29LN015R1Q0VTBhMlNERzdFUTU0U1dCS2cwWHVXQnFGMl9xcFRaWDBocjIxYUhCRGVUQUdob2UzVUJkZm9MUWVpSGYzWEFMS3B6MWZ4R0cweUtybFFpQWhNeGVCTnVmMDVFRDRUQ0RMOVV6Z3BsenBqcWdDd0hPbTlrWFJUd2s1dXEwY3hCYXM4TUR4MnNBb0lXd3hvOWhZenMzZXFOVXFLUjJ3?oc=5",
+        "published_at": "2022-07-26T07:00:00+00:00",
+        "representative_place": "Krafton India investment / Bengaluru representative",
+        "place_label": "インド-カルナータカ州-ベンガルール",
+        "sort_place_label": "インド-カルナータカ州-ベンガルール",
+        "geocode_query": "Krafton India investment Bengaluru games TechCrunch",
+        "place_type": "game_company_investment_city_representative_uncertain_office",
+        "location_precision": "city",
+        "place_reason": "The generated unresolved item is about KRAFTON investing in India and expanding beyond games. The unresolved record does not expose an exact India office or investee city, so use Bengaluru as a low-confidence Indian games/tech investment representative rather than KRAFTON Seoul or TechCrunch source location. This is not an exact investment office coordinate.（一致語: Krafton invests over $100M in India, expands beyond games - TechCrunch）",
+        "confidence": 0.42,
+        "rule_id": "game_all_20260709_krafton_india_investment_bengaluru_202207",
+        "matched_text": "Krafton invests over $100M in India, expands beyond games - TechCrunch",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           3.3792,
           6.5244
         ]
@@ -22303,8 +22237,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.6503,
-          35.6762
+          139.7289,
+          35.6158
         ]
       },
       "properties": {
@@ -22312,13 +22246,13 @@
         "source": "AUTOMATON",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE04cXpORnhnSzM4WE9ZWW03dURtbnExeFd0eFRqRGZIRmQ0d1VGTFFWNVFXZ1Vic1lhOVM2Q3dYNXoyellVdGttTHpEWkN1TXFsR0N3MUYwRnlBVmVMN2J6VUgtUnhnTHY1NFE2NA?oc=5",
         "published_at": "2021-05-25T07:00:00+00:00",
-        "representative_place": "Ryu Ga Gotoku Studio / SEGA, Tokyo representative",
-        "place_label": "日本-東京都-龍が如くスタジオ / Virtua Fighter 5 Ultimate Showdown",
-        "sort_place_label": "日本-東京都-龍が如くスタジオ / Virtua Fighter 5 Ultimate Showdown",
-        "geocode_query": "Ryu Ga Gotoku Studio SEGA Tokyo Virtua Fighter 5 Ultimate Showdown",
-        "place_type": "game_developer_studio_announcement",
-        "location_precision": "city",
-        "place_reason": "AUTOMATON記事は、『Virtua Fighter 5 Ultimate Showdown』の海外PS4向け発表と、龍が如くスタジオの開発参加を扱う記事。場所性は海外PS4配信地域や記事媒体ではなく、開発に参加したSEGA / 龍が如くスタジオ側にある。龍が如くスタジオはSEGA内の東京文脈の開発スタジオとして扱えるため、Tokyo representativeを使用する。記事固有の開発室や正確な当時オフィス座標までは今回確認していないためcity precisionとする。（一致語: 格闘ゲーム『Virtua Fighter 5 Ultimate Showdown』海外PS4向けに発表。龍が如くスタジオが開発に参加し、グラフィックもパワーアップ - AUTOMATON）",
+        "representative_place": "SEGA / Ryu Ga Gotoku Studio at Sumitomo Fudosan Osaki Garden Tower",
+        "place_label": "日本-東京都-品川区-西品川-住友不動産大崎ガーデンタワー-SEGA / RGG Studio / Virtua Fighter 5 Ultimate Showdown",
+        "sort_place_label": "日本-東京都-品川区-西品川-住友不動産大崎ガーデンタワー-SEGA / RGG Studio / Virtua Fighter 5 Ultimate Showdown",
+        "geocode_query": "Sumitomo Fudosan Osaki Garden Tower Nishi-Shinagawa Tokyo Japan SEGA Ryu Ga Gotoku Studio Virtua Fighter 5 Ultimate Showdown",
+        "place_type": "game_developer_studio_announcement_building_representative",
+        "location_precision": "building",
+        "place_reason": "Task 1 refinement for the older Virtua Fighter 5 Ultimate Showdown / Ryu Ga Gotoku Studio override. The existing mapping already treated the place-bearing subject as SEGA / RGG Studio in Tokyo. Existing later dictionary context uses SEGA / Ryu Ga Gotoku Studio at Sumitomo Fudosan Osaki Garden Tower as a building-level representative, so replace the generic Tokyo city point with that existing company/studio-side point. This does not claim a PlayStation overseas-market location, AUTOMATON office, event venue, or project room.（一致語: 格闘ゲーム『Virtua Fighter 5 Ultimate Showdown』海外PS4向けに発表。龍が如くスタジオが開発に参加し、グラフィックもパワーアップ - AUTOMATON）",
         "confidence": 0.82,
         "rule_id": "observed_virtua_fighter_5_ultimate_showdown_rgg_tokyo_202105",
         "matched_text": "格闘ゲーム『Virtua Fighter 5 Ultimate Showdown』海外PS4向けに発表。龍が如くスタジオが開発に参加し、グラフィックもパワーアップ - AUTOMATON",
@@ -22538,33 +22472,6 @@
         "confidence": 0.76,
         "rule_id": "observed_savvy_moonton_riyadh_202603",
         "matched_text": "Moonton",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.7516,
-          35.6581
-        ]
-      },
-      "properties": {
-        "title": "新作スマホゲーム『FAIRY TAIL ギルドマスターズ』の制作を発表！事前登録はまもなく開始 - ASCII.jp",
-        "source": "ASCII.jp",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5YVzdETXJfR0czeENFOWpCaFF4U1JUNno5WlcxV3pTTko3WjB2UWRibHh5TWhRWVh4VW1ZRFVmanluNkREWnFidzNEb0dSdlVVb0Y4Vw?oc=5",
-        "published_at": "2021-03-19T07:00:00+00:00",
-        "representative_place": "Bandai Namco Entertainment / Minato, Tokyo representative",
-        "place_label": "日本-東京都-港区-Bandai Namco Entertainment / SAO Memory Defrag",
-        "sort_place_label": "日本-東京都-港区-Bandai Namco Entertainment / SAO Memory Defrag",
-        "geocode_query": "Bandai Namco Entertainment Minato Tokyo Sword Art Online Memory Defrag",
-        "place_type": "mobile_game_publisher_district_representative_uncertain_title_team",
-        "location_precision": "district",
-        "place_reason": "The legacy active entry treated the Sword Art Online Memory Defrag preregistration item as a broad Japan mobile-game launch-market topic. Recheck confirmed the game as a Bandai Namco Entertainment mobile title, and public company context places Bandai Namco Entertainment in Minato, Tokyo after its 2016 move. This override therefore moves the article from a Japan country representative point to a Minato, Tokyo publisher-context representative point. This is not a confirmed title-team office, article venue, exact Bandai Namco Entertainment office coordinate, or media office; replace it if the article body, official game page, store page, or company profile identifies a more precise publisher/developer/operator site.（一致語: 事前登録）",
-        "confidence": 0.64,
-        "rule_id": "observed_sao_memory_defrag_bandai_namco_minato_tokyo_201801",
-        "matched_text": "事前登録",
         "match_source": "known_place_title"
       }
     },
@@ -23302,8 +23209,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          21.0122,
-          52.2297
+          21.0186,
+          52.2695
         ]
       },
       "properties": {
@@ -23311,16 +23218,16 @@
         "source": "Emerging Europe",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRzNBUFc2bFVVQl95U2JxTEpRMktJY3EwbnpvUGRGa1hqUk1CVUk5TFZTS2xVSV90a3B5NEVWZWxERWFLS0Q2UW5oSGxvSWxxRUE3WU5MNkcyWkRZbHNHSFU4eXh3SFoyUkwyMkJ0OGxGeE1pQ05WaGNyNFhCUFVIZWItZDB1dzZlZC1xaWM4THlfZ3QwUUd4V25RTkEzOThpVU91UUFCVVJnd0ExVkhTRmpB?oc=5",
         "published_at": "2020-05-21T07:00:00+00:00",
-        "representative_place": "CD PROJEKT / Warsaw",
-        "place_label": "ポーランド-ワルシャワ-CD PROJEKT",
-        "sort_place_label": "ポーランド-ワルシャワ-CD PROJEKT",
-        "geocode_query": "CD PROJEKT Warsaw Poland",
-        "place_type": "studio_company_site",
-        "location_precision": "city",
-        "place_reason": "CD PROJEKTの決算・会社報告記事なので、ポーランド代表点ではなく同社本社都市Warsawに置く。（一致語: CD PROJEKT）",
-        "confidence": 0.82,
-        "rule_id": "observed_cd_projekt_report_warsaw_202603",
-        "matched_text": "CD PROJEKT",
+        "representative_place": "CD PROJEKT S.A. / ul. Jagiellońska 74 building E",
+        "place_label": "ポーランド-ワルシャワ-ul. Jagiellońska 74 building E-CD PROJEKT代表点",
+        "sort_place_label": "ポーランド-ワルシャワ-ul. Jagiellońska 74 building E-CD PROJEKT代表点",
+        "geocode_query": "ul. Jagiellońska 74 building E 03-301 Warszawa CD PROJEKT annual report",
+        "place_type": "game_company_financial_report_hq_representative",
+        "location_precision": "building",
+        "place_reason": "Task 1 refinement for the CD PROJEKT corporate/annual-report override. The older entries used Warsaw city/headquarters-area precision. Existing later dictionary context has CD PROJEKT S.A. / ul. Jagiellońska 74 building E as a building-level company representative, so use that existing point for CD PROJEKT-side corporate articles. This does not claim an interview venue, stock-exchange site, publication office, or production-room coordinate.（一致語: Poland’s CD Projekt beats out Ubisoft）",
+        "confidence": 0.84,
+        "rule_id": "observed_cd_projekt_polish_giant_202606",
+        "matched_text": "Poland’s CD Projekt beats out Ubisoft",
         "match_source": "known_place_title"
       }
     },
@@ -23599,8 +23506,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.8174,
-          35.6729
+          139.6951,
+          35.6544
         ]
       },
       "properties": {
@@ -23608,16 +23515,16 @@
         "source": "ねとらぼ",
         "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9BNmM0OXFVdktGc0dOSF9XVnFxamx6djctUDdVbGJQdXVLb0cxYXFQbWl1OTFYVzJlY29HQS10U0VRQTRXNDVBYkRDckxpQXhfSTloTlBqcVBKRWhPeWfSAWNBVV95cUxQVFQ0UTladXJhdFRBV1hxQ3BucTdtZC1fbWVfaDIxWm1YX3J2RDNXNXJ5RTliSWo0UnIyb1UwcGZ5ZnVuVE5BTGtwa3FnSnQzWGJSb05DN25aZTZHU0tsbmh0VG8?oc=5",
         "published_at": "2019-12-26T08:00:00+00:00",
-        "representative_place": "Crea-Tech / Koto, Tokyo representative",
-        "place_label": "日本-東京都-江東区-Crea-Tech / METAL MAX FIREWORKS",
-        "sort_place_label": "日本-東京都-江東区-Crea-Tech / METAL MAX FIREWORKS",
-        "geocode_query": "Crea-Tech Koto Tokyo Metal Max Fireworks",
-        "place_type": "mobile_game_developer_district_representative_uncertain_office",
-        "location_precision": "district",
-        "place_reason": "The legacy entry treated the METAL MAX FIREWORKS preregistration article as a generic Japan mobile-RPG launch-market topic. Recheck confirmed that Metal Max: Fireworks is part of the Metal Max series and is connected to Crea-Tech / Kadokawa development-publishing context; Crea-Tech is publicly described as based in Koto, Tokyo. This override therefore moves the topic from a Japan country representative point to a Koto, Tokyo developer-context representative point. This is not a confirmed article venue, exact Crea-Tech office address, Kadokawa office, or current operating-team site; replace it if the article body, official game site, store page, or company profile identifies a more precise development/publishing location.（一致語: 事前登録開始）",
-        "confidence": 0.66,
-        "rule_id": "observed_metal_max_fireworks_createch_koto_tokyo_201507",
-        "matched_text": "事前登録開始",
+        "representative_place": "Cygames / 住友不動産渋谷ガーデンタワー15階",
+        "place_label": "日本-東京都-渋谷区-南平台町-住友不動産渋谷ガーデンタワー-Cygames / ウマ娘代表点",
+        "sort_place_label": "日本-東京都-渋谷区-南平台町-住友不動産渋谷ガーデンタワー-Cygames / ウマ娘代表点",
+        "geocode_query": "東京都渋谷区南平台町16-17 住友不動産渋谷ガーデンタワー15階 Cygames ウマ娘",
+        "place_type": "mobile_game_operator_company_site",
+        "location_precision": "building",
+        "place_reason": "Task 1 refinement for file 675: the item was already resolved to Cygames / Tokyo at city precision. It is an Umamusume operations/release-timing article and existing repository context already uses Cygames' Shibuya Garden Tower office as a building-level representative for Cygames game articles. Replace the generic Tokyo city point with that building-level company representative. This does not claim a development room, server-operation site, article-production office, or event venue.（一致語: スマホゲーム「ウマ娘」、運営が2020年配信を示唆　事前登録開始から2年越しのリリースへ | ねとらぼ - ねとらぼ）",
+        "confidence": 0.78,
+        "rule_id": "observed_uma_musume_cygames_tokyo_201912",
+        "matched_text": "スマホゲーム「ウマ娘」、運営が2020年配信を示唆　事前登録開始から2年越しのリリースへ | ねとらぼ - ねとらぼ",
         "match_source": "known_place_title"
       }
     },
@@ -23707,8 +23614,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.7516,
-          35.6581
+          139.7074,
+          35.6978
         ]
       },
       "properties": {
@@ -23716,16 +23623,16 @@
         "source": "Mantan Web",
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1IemNlUWlkaTZmbEYwaF9pQk1aS0ZxaHludXMyQWRyZ2JVNkdlZW5Mb0RNVE02Y2FNcFBjNVZOSThVXzUyMTY5c0hmWUZJdG42c0doeHo1aWhiV1BvQWJQYklDXzFzU1hXVHFN?oc=5",
         "published_at": "2019-09-05T07:00:00+00:00",
-        "representative_place": "Bandai Namco Entertainment / Minato, Tokyo representative",
-        "place_label": "日本-東京都-港区-Bandai Namco Entertainment / SAO Memory Defrag",
-        "sort_place_label": "日本-東京都-港区-Bandai Namco Entertainment / SAO Memory Defrag",
-        "geocode_query": "Bandai Namco Entertainment Minato Tokyo Sword Art Online Memory Defrag",
-        "place_type": "mobile_game_publisher_district_representative_uncertain_title_team",
-        "location_precision": "district",
-        "place_reason": "The legacy active entry treated the Sword Art Online Memory Defrag preregistration item as a broad Japan mobile-game launch-market topic. Recheck confirmed the game as a Bandai Namco Entertainment mobile title, and public company context places Bandai Namco Entertainment in Minato, Tokyo after its 2016 move. This override therefore moves the article from a Japan country representative point to a Minato, Tokyo publisher-context representative point. This is not a confirmed title-team office, article venue, exact Bandai Namco Entertainment office coordinate, or media office; replace it if the article body, official game page, store page, or company profile identifies a more precise publisher/developer/operator site.（一致語: 事前登録）",
-        "confidence": 0.64,
-        "rule_id": "observed_sao_memory_defrag_bandai_namco_minato_tokyo_201801",
-        "matched_text": "事前登録",
+        "representative_place": "Square Enix / Shinjuku Eastside Square, with COLOPL development context",
+        "place_label": "日本-東京都-新宿区-新宿イーストサイドスクエア-Square Enix / COLOPL / Dragon Quest Walk代表点",
+        "sort_place_label": "日本-東京都-新宿区-新宿イーストサイドスクエア-Square Enix / COLOPL / Dragon Quest Walk代表点",
+        "geocode_query": "東京都新宿区新宿6-27-30 新宿イーストサイドスクエア スクウェア・エニックス Dragon Quest Walk COLOPL",
+        "place_type": "mobile_game_release_publisher_building_representative",
+        "location_precision": "building",
+        "place_reason": "Task 1 refinement for the older Dragon Quest Walk / Square Enix / COLOPL override. The existing mapping already chose Square Enix/Shinjuku as the single representative because the article is a release/pre-registration announcement and the Dragon Quest IP/publishing side is Square Enix, while keeping COLOPL in the co-development context. Existing later dictionary context uses Square Enix / Shinjuku Eastside Square as a building-level company representative, so refine the older city-level point to that building. This does not claim COLOPL's development office, Mantan Web's office, an in-game real-world spot, a launch event venue, or a Square Enix project room.（一致語: ドラゴンクエストウォーク：スマホゲーム9月12日配信 事前登録スタート - Mantan Web）",
+        "confidence": 0.78,
+        "rule_id": "observed_dragon_quest_walk_square_enix_colopl_tokyo_201909",
+        "matched_text": "ドラゴンクエストウォーク：スマホゲーム9月12日配信 事前登録スタート - Mantan Web",
         "match_source": "known_place_title"
       }
     },
@@ -24247,8 +24154,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -78.7811,
-          35.7915
+          -78.7443,
+          35.7614
         ]
       },
       "properties": {
@@ -24257,13 +24164,13 @@
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZHp6bDh2MFhSYXlPWVVsbkpkUWFrdThXOGgyRFR6ZGZzazh3LWE2WXBYUTBtNExzbFlMR2toZzZ2RHU1SzAyaEhWVFRESmZka2dfODJUNEcxS0tOSVBZeFZrWXc5QVJSZHUzWl9WVTNjU1g2N1hXekxWMTBIUkFWeXJzMFpsUWVIWldnUDlYMWl2YUpRTFRFV0oyLW1yOUJ2?oc=5",
         "published_at": "2018-10-26T07:00:00+00:00",
         "representative_place": "Epic Games / Cary headquarters",
-        "place_label": "米国-ノースカロライナ州-ケーリー-Epic Games / 2018 investment announcement",
-        "sort_place_label": "米国-ノースカロライナ州-ケーリー-Epic Games / 2018 investment announcement",
+        "place_label": "米国-ノースカロライナ州-ケーリー-Epic Games本社-2018 investment announcement",
+        "sort_place_label": "米国-ノースカロライナ州-ケーリー-Epic Games本社-2018 investment announcement",
         "geocode_query": "Epic Games headquarters Cary North Carolina Fortnite investment announcement",
-        "place_type": "game_company_investment_announcement",
-        "location_precision": "city",
-        "place_reason": "Business Insider記事は、『Fortnite』開発元/運営元であるEpic Gamesが12億5000万ドル規模の投資を発表したという企業ニュース。記事の主語は投資家や媒体所在地ではなくEpic Gamesであり、ゲーム会社の企業活動として場所付けするのが妥当。Epic GamesはNorth Carolina州Caryに本社を置くゲーム会社として広く確認できるため、Caryを代表地点にする。記事固有の会場や正確な当時オフィス座標は確認していないためcity precisionとする。（一致語: 'Fortnite' Creator Epic Games Announces $1.25 Billion in Investments - Business Insider）",
-        "confidence": 0.88,
+        "place_type": "game_company_investment_announcement_hq_representative",
+        "location_precision": "exact_site",
+        "place_reason": "Task 1 refinement for the older Epic Games investment announcement override. The article subject is Epic Games' corporate investment announcement and was already mapped to Cary city. Existing later dictionary context uses Epic Games' Cary headquarters as an exact-site company representative, so refine the mapping from the city centroid to that headquarters representative. This is not an investor office, announcement venue, or Fortnite team-room claim.（一致語: 'Fortnite' Creator Epic Games Announces $1.25 Billion in Investments - Business Insider）",
+        "confidence": 0.84,
         "rule_id": "observed_epic_games_investment_cary_201810",
         "matched_text": "'Fortnite' Creator Epic Games Announces $1.25 Billion in Investments - Business Insider",
         "match_source": "known_place_title"
@@ -24490,8 +24397,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.7566,
-          34.9696
+          135.7562,
+          34.9697
         ]
       },
       "properties": {
@@ -24499,14 +24406,14 @@
         "source": "ゲームメモ",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kc015SHNSR0d0R0Vpdl83QlpLcnhCbWZudmJicktWeVN1TkpXNE5XWlJLcnhzWEtwQkpyMjBxWnQybnRSazBQeVYtS2N0RUtlSVV4YjZjVUNZcmozV005TXEydEtzRnNhODc0cNIBdEFVX3lxTE1DZTl5TlZ1XzI4WGFmRmItMlEwU3pabTlWWnk1SG5iSnEwTndxb2p1MzdwNjFFejlOQU16WW1JRzdSdXdIR28tbWotMGNaV0JXTy0wZ0FyZnI1bnFkYzNWNnpUdFgxN3BnQnRTNXc4aUliTVho?oc=5",
         "published_at": "2018-05-14T07:00:00+00:00",
-        "representative_place": "Nintendo / Kyoto representative",
-        "place_label": "日本-京都府-京都市-任天堂 / Star Fox Switch rumor article",
-        "sort_place_label": "日本-京都府-京都市-任天堂 / Star Fox Switch rumor article",
-        "geocode_query": "Nintendo headquarters Kyoto Star Fox Switch racing game rumor",
-        "place_type": "game_company_ip_rumor_representative",
-        "location_precision": "city",
-        "place_reason": "The Japanese RSS item is a rumor article about a possible new Star Fox title for Nintendo Switch. The place-bearing subject is Nintendo's Star Fox IP and Nintendo platform context rather than the article publisher. Kyoto is used as the representative Nintendo company point; exact project team or office was not confirmed, so city precision is used. Replace later if the full article identifies a specific studio such as an external co-developer.（一致語: スターフォックス、ニンテンドースイッチでの新作はレースゲームの噂 - ゲームメモ）",
-        "confidence": 0.76,
+        "representative_place": "Nintendo Co., Ltd. / 11-1 Hokotate-cho",
+        "place_label": "日本-京都府-京都市-南区-上鳥羽鉾立町11-1-任天堂 / Star Fox Switch rumor代表点",
+        "sort_place_label": "日本-京都府-京都市-南区-上鳥羽鉾立町11-1-任天堂 / Star Fox Switch rumor代表点",
+        "geocode_query": "11-1 Hokotate-cho Kamitoba Minami-ku Kyoto Nintendo headquarters Star Fox Switch racing game rumor",
+        "place_type": "game_company_ip_rumor_company_site",
+        "location_precision": "exact_site",
+        "place_reason": "Task 1 refinement for file 855: the item was already resolved to Nintendo / Kyoto at city precision. It is a Nintendo IP/platform rumor article and no external developer is confirmed, so keep the Nintendo representative but replace the generic Kyoto city point with the existing Nintendo headquarters exact-site reference at 11-1 Hokotate-cho. This does not claim an external development studio, rumor source office, or project room.（一致語: スターフォックス、ニンテンドースイッチでの新作はレースゲームの噂 - ゲームメモ）",
+        "confidence": 0.72,
         "rule_id": "observed_star_fox_switch_racing_rumor_nintendo_kyoto_201805",
         "matched_text": "スターフォックス、ニンテンドースイッチでの新作はレースゲームの噂 - ゲームメモ",
         "match_source": "known_place_title"
@@ -25219,33 +25126,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          21.0122,
-          52.2297
-        ]
-      },
-      "properties": {
-        "title": "How Poland turned into a video game powerhouse - South China Morning Post",
-        "source": "South China Morning Post",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQM3Nfa3hieXJFLXFhakhFRVRtNUxob2kzLTRuQWI5Qm40ZUpsR05ZREs5bWEzdnp5aU90VVIyQ1hBWkFJQmpRbGk1aHVtWDJ6MU9mSGh5T0ZBeVFSUFZEdjN4Y2FnaXJSNWZMSEVqTWo0SG9zclRINEZ1X0xrY0Q1OUw3dFlUbXJBYnN2LUJ6czV5bnRGM3d1ZFdKUmhzaDFzaEstby1HaVlSSVlRdGfSAa4BQVVfeXFMUEhxdWhTekxWejMyVmQ5Q3V2MVdLMExJc05aZkY5b0lNcFhIN0VBRGJzOG9ERUxOR1paQ0NubGpTaXhtc1BvM1ZlVF9jT1VPeE05YURrM0VMU3ZVU1d3TWdpNkFXTUJVNjJ6YXZwRVh5YmtaaDROMmxFNDEtaFBfRzg4NlMxQ1FLQVFQcXIzbVVjVll4TnhHYkZzR25IVzJXbExvMmw0U25rZk5PS3ln?oc=5",
-        "published_at": "2015-07-24T07:00:00+00:00",
-        "representative_place": "Polish game-development cluster / Warsaw representative",
-        "place_label": "ポーランド-ワルシャワ-ゲーム開発産業クラスター",
-        "sort_place_label": "ポーランド-ワルシャワ-ゲーム開発産業クラスター",
-        "geocode_query": "Warsaw Poland game development industry CD Projekt 11 bit studios",
-        "place_type": "national_game_industry_feature",
-        "location_precision": "city",
-        "place_reason": "South China Morning Post記事は、ポーランドがビデオゲーム大国になった経緯を扱う国単位のゲーム産業フィーチャーであり、単一スタジオ発表や物理イベントではない。外部確認なしの本文詳細までは今回読めていないが、ポーランドの代表的ゲーム会社・産業文脈ではCD Projektや11 bit studiosなどWarsaw文脈が強く、国全体の重心としてWarsawを代表地点にする。記事本文で特定スタジオや都市が主題として確認できた場合はそちらへ差し替えるべき低〜中confidenceの代表地点。（一致語: How Poland turned into a video game powerhouse - South China Morning Post）",
-        "confidence": 0.62,
-        "rule_id": "observed_poland_video_game_powerhouse_warsaw_201507",
-        "matched_text": "How Poland turned into a video game powerhouse - South China Morning Post",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           3.3792,
           6.5244
         ]
@@ -25300,8 +25180,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.7516,
-          35.6581
+          139.7074,
+          35.6978
         ]
       },
       "properties": {
@@ -25309,16 +25189,16 @@
         "source": "週刊アスキー",
         "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA3bnc5cHlZNlB2LThGakVJVFVfcFc5RXRROVVmYkswNkNGY2p6NU8xUElRUXR2Rzc4TkxFVVRVX19seVE5aHZYT0pfekpIcGRJQU0xM0dFb0lUMFdfVkE?oc=5",
         "published_at": "2015-05-29T07:00:00+00:00",
-        "representative_place": "Bandai Namco Entertainment / Minato, Tokyo representative",
-        "place_label": "日本-東京都-港区-Bandai Namco Entertainment / SAO Memory Defrag",
-        "sort_place_label": "日本-東京都-港区-Bandai Namco Entertainment / SAO Memory Defrag",
-        "geocode_query": "Bandai Namco Entertainment Minato Tokyo Sword Art Online Memory Defrag",
-        "place_type": "mobile_game_publisher_district_representative_uncertain_title_team",
-        "location_precision": "district",
-        "place_reason": "The legacy active entry treated the Sword Art Online Memory Defrag preregistration item as a broad Japan mobile-game launch-market topic. Recheck confirmed the game as a Bandai Namco Entertainment mobile title, and public company context places Bandai Namco Entertainment in Minato, Tokyo after its 2016 move. This override therefore moves the article from a Japan country representative point to a Minato, Tokyo publisher-context representative point. This is not a confirmed title-team office, article venue, exact Bandai Namco Entertainment office coordinate, or media office; replace it if the article body, official game page, store page, or company profile identifies a more precise publisher/developer/operator site.（一致語: 配信決定）",
-        "confidence": 0.64,
-        "rule_id": "observed_sao_memory_defrag_bandai_namco_minato_tokyo_201801",
-        "matched_text": "配信決定",
+        "representative_place": "Square Enix / Shinjuku Eastside Square",
+        "place_label": "日本-東京都-新宿区-新宿イーストサイドスクエア-Square Enix / Mobius Final Fantasy代表点",
+        "sort_place_label": "日本-東京都-新宿区-新宿イーストサイドスクエア-Square Enix / Mobius Final Fantasy代表点",
+        "geocode_query": "東京都新宿区新宿6-27-30 新宿イーストサイドスクエア スクウェア・エニックス Mobius Final Fantasy",
+        "place_type": "mobile_game_release_publisher_building_representative",
+        "location_precision": "building",
+        "place_reason": "Task 1 refinement for the older Mobius Final Fantasy / Square Enix override. The existing mapping already treated Square Enix as the release/development-side subject and moved it from Tokyo city to Shinjuku city context. Existing later dictionary context uses Square Enix / Shinjuku Eastside Square as a building-level company representative, so refine the older city-level point to that building. This does not claim Weekly ASCII's office, an in-game location, a launch event venue, or the exact Mobius Final Fantasy project room.（一致語: FF新作はスマホゲームの常識を超えるか!?『メビウス ファイナルファンタジー』6/4配信決定 - 週刊アスキー）",
+        "confidence": 0.8,
+        "rule_id": "observed_mobius_final_fantasy_square_enix_tokyo_201505",
+        "matched_text": "FF新作はスマホゲームの常識を超えるか!?『メビウス ファイナルファンタジー』6/4配信決定 - 週刊アスキー",
         "match_source": "known_place_title"
       }
     },
