@@ -1,7 +1,7 @@
 {
   "type": "FeatureCollection",
   "properties": {
-    "created_at": "2026-07-09T03:40:20.159314+00:00",
+    "created_at": "2026-07-09T04:59:34.736386+00:00",
     "count": 1,
     "stats": {
       "feed_id": "google-news-disaster-ja",
@@ -14,11 +14,11 @@
       "fetched_by_url": {
         "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja": 78
       },
-      "filtered": 68,
+      "filtered": 69,
       "resolved": 1,
-      "unresolved": 67,
-      "rules": 355,
-      "known_places": 1306,
+      "unresolved": 68,
+      "rules": 374,
+      "known_places": 1332,
       "loaded_data_files": [
         "data/place_rules.json",
         "data/unresolved_known_places.json",
@@ -1242,7 +1242,21 @@
         "data/unresolved_known_places_1552.json",
         "data/unresolved_known_places_1553.json",
         "data/unresolved_known_places_1554.json",
-        "data/unresolved_known_places_1555.json"
+        "data/unresolved_known_places_1555.json",
+        "data/unresolved_known_places_1556.json",
+        "data/unresolved_known_places_1557.json",
+        "data/unresolved_known_places_1558.json",
+        "data/unresolved_known_places_1559.json",
+        "data/unresolved_known_places_1560.json",
+        "data/unresolved_known_places_1561.json",
+        "data/unresolved_known_places_1562.json",
+        "data/unresolved_known_places_1563.json",
+        "data/unresolved_known_places_1564.json",
+        "data/unresolved_known_places_1565.json",
+        "data/unresolved_known_places_1566.json",
+        "data/unresolved_known_places_1567.json",
+        "data/unresolved_known_places_1568.json",
+        "data/unresolved_known_places_1569.json"
       ],
       "topic_keywords": [
         "災害",

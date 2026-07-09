@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "created_at": "2026-07-09T03:40:20.159314+00:00",
+  "created_at": "2026-07-09T04:59:34.736386+00:00",
   "stats": {
     "feed_id": "google-news-disaster-ja",
     "feed_label": "Google News: 災害・地震・大雨",
@@ -12,11 +12,11 @@
     "fetched_by_url": {
       "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja": 78
     },
-    "filtered": 68,
+    "filtered": 69,
     "resolved": 1,
-    "unresolved": 67,
-    "rules": 355,
-    "known_places": 1306,
+    "unresolved": 68,
+    "rules": 374,
+    "known_places": 1332,
     "loaded_data_files": [
       "data/place_rules.json",
       "data/unresolved_known_places.json",
@@ -1240,7 +1240,21 @@
       "data/unresolved_known_places_1552.json",
       "data/unresolved_known_places_1553.json",
       "data/unresolved_known_places_1554.json",
-      "data/unresolved_known_places_1555.json"
+      "data/unresolved_known_places_1555.json",
+      "data/unresolved_known_places_1556.json",
+      "data/unresolved_known_places_1557.json",
+      "data/unresolved_known_places_1558.json",
+      "data/unresolved_known_places_1559.json",
+      "data/unresolved_known_places_1560.json",
+      "data/unresolved_known_places_1561.json",
+      "data/unresolved_known_places_1562.json",
+      "data/unresolved_known_places_1563.json",
+      "data/unresolved_known_places_1564.json",
+      "data/unresolved_known_places_1565.json",
+      "data/unresolved_known_places_1566.json",
+      "data/unresolved_known_places_1567.json",
+      "data/unresolved_known_places_1568.json",
+      "data/unresolved_known_places_1569.json"
     ],
     "topic_keywords": [
       "災害",
@@ -1270,14 +1284,6 @@
       "feed_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
-      "title": "【台風情報】台風7号　次第に山梨県から遠ざかる　警報級の大雨の可能性は低く　地震で地盤が緩んでいる所があり、土砂災害に注意　甲府地方気象台が発表 - ｄメニューニュース",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9JT2dlY1lYM0dvTGlTdms3TFpmRWRfNVJLSWRTVGI4eUxSZ1NqRjloZFRWbF9aX1V1TFFOTFlqZEhYZGV1QThqRDNfX3BBS3Q1ZGNKemFjZFJRR3FmY3NFTm1TcFVCY0dxV3Z5WC11QdIBdEFVX3lxTE42YUhoVVU2NmpnckZUbExXZm5xTHhTUVVpcmlYOWJBM1pxUV9NN3hUSDZYVnBWN1hrRlFZcW05YVpDdlZtYmtHcGRGSEx4MU1Xck94YmtORDdNTWxLclU2ZU40Q3lTalBuNHhMV1c3Tm1FcmtW?oc=5",
-      "source": "ｄメニューニュース",
-      "published_at": "2026-06-27T09:28:52+00:00",
-      "summary": "【台風情報】台風7号　次第に山梨県から遠ざかる　警報級の大雨の可能性は低く　地震で地盤が緩んでいる所があり、土砂災害に注意　甲府地方気象台が発表    ｄメニューニュース",
-      "feed_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja"
-    },
-    {
       "title": "【台風情報】台風７号が接近 土砂災害などに厳重に警戒 これまでの大雨や昨夜の地震で通常よりも少ない雨量でも土砂災害の危険度が高まるおそれ 【進路予想・雨と風のシミュレーション】 | 山梨のニュース | ＵＴＹテレビ山梨 (1ページ) - TBS NEWS DIG",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1sMkp1aE9JX2FaZ0hrTFpnSkZmX2k1OU0zRVp6U0toOHZWSVdlRXpLZFNJUTZlMzlTdVlhdDl3eUpxVW95aEk2YWdLMjgxeVNlSkZoOEdDbHQwRHlwaE5XT1lSXzM4QzQ?oc=5",
       "source": "TBS NEWS DIG",
@@ -1299,6 +1305,14 @@
       "source": "Yahoo!ニュース",
       "published_at": "2026-06-27T07:00:00+00:00",
       "summary": "【6/27最新】台風7号・8号、各地の地震・大雨の影響でヤマト運輸、佐川急便、日本郵便で配送遅延や集配停止が発生    Yahoo!ニュース",
+      "feed_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "title": "山梨で震度6弱の地震 17人けが 土砂災害警戒レベル引き下げ 富士山に異常なし 台風の大雨と余震に警戒 - FNNプライムオンライン",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9sTUdEU1hUTUx1Xzh1MDcxVGJ0V0Y1U2xVcVZPN1FDR2NURXRFWUxNT2JrSF9xRXdBa0pkdXE5TXdUb0NmSzFFOGlnM3Rfdw?oc=5",
+      "source": "FNNプライムオンライン",
+      "published_at": "2026-06-27T07:00:00+00:00",
+      "summary": "山梨で震度6弱の地震 17人けが 土砂災害警戒レベル引き下げ 富士山に異常なし 台風の大雨と余震に警戒    FNNプライムオンライン",
       "feed_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
@@ -1547,6 +1561,14 @@
       "source": "読売新聞",
       "published_at": "2024-11-06T08:00:00+00:00",
       "summary": "大雨災害はいつまで起こる？秋から冬にかけても油断は禁物    読売新聞",
+      "feed_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "title": "低気圧・台風の気圧の低さと大雨や暴風との関係を解説 - 読売新聞",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBaNHhyQUwxRjdDcmo1N1ZvWU1wZlVoSS1PN1Ata1JRdEhGdTBLVXE5bG4wbGNVX1hDOFMyVGR5SGpGOGVJUUxoc3NYbkgza3ZaSjVRWlFTU1czSUoyX1RMTktn?oc=5",
+      "source": "読売新聞",
+      "published_at": "2024-10-02T07:00:00+00:00",
+      "summary": "低気圧・台風の気圧の低さと大雨や暴風との関係を解説    読売新聞",
       "feed_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja"
     },
     {

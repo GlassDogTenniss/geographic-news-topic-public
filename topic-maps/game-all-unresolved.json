@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "created_at": "2026-07-09T03:40:20.159314+00:00",
+  "created_at": "2026-07-09T04:59:34.736386+00:00",
   "stats": {
     "feed_id": "game-all",
     "feed_label": "ゲーム",
@@ -48,11 +48,11 @@
       "https://news.google.com/rss/search?q=%E6%B5%B7%E5%A4%96%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA&hl=ja&gl=JP&ceid=JP:ja": 77,
       "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja": 78
     },
-    "filtered": 904,
-    "resolved": 896,
-    "unresolved": 8,
-    "rules": 355,
-    "known_places": 1306,
+    "filtered": 903,
+    "resolved": 903,
+    "unresolved": 0,
+    "rules": 374,
+    "known_places": 1332,
     "loaded_data_files": [
       "data/place_rules.json",
       "data/unresolved_known_places.json",
@@ -1276,7 +1276,21 @@
       "data/unresolved_known_places_1552.json",
       "data/unresolved_known_places_1553.json",
       "data/unresolved_known_places_1554.json",
-      "data/unresolved_known_places_1555.json"
+      "data/unresolved_known_places_1555.json",
+      "data/unresolved_known_places_1556.json",
+      "data/unresolved_known_places_1557.json",
+      "data/unresolved_known_places_1558.json",
+      "data/unresolved_known_places_1559.json",
+      "data/unresolved_known_places_1560.json",
+      "data/unresolved_known_places_1561.json",
+      "data/unresolved_known_places_1562.json",
+      "data/unresolved_known_places_1563.json",
+      "data/unresolved_known_places_1564.json",
+      "data/unresolved_known_places_1565.json",
+      "data/unresolved_known_places_1566.json",
+      "data/unresolved_known_places_1567.json",
+      "data/unresolved_known_places_1568.json",
+      "data/unresolved_known_places_1569.json"
     ],
     "topic_keywords": [
       "game",
@@ -1328,70 +1342,5 @@
       "ポイント還元"
     ]
   },
-  "unresolved": [
-    {
-      "title": "Final Fantasy 7 Ever Crisis closes in October",
-      "link": "https://mobilegamer.biz/final-fantasy-7-ever-crisis-closes-in-october/",
-      "source": "Mobilegamer.biz",
-      "published_at": "2026-07-08T15:12:34+00:00",
-      "summary": "Estimates from AppMagic suggest Square Enix has earned nearly $100m from the free to play RPG since launch in 2023.",
-      "feed_url": "https://mobilegamer.biz/feed/"
-    },
-    {
-      "title": "Opinion: Welcome to the house of pain, brought to you by Xbox",
-      "link": "https://www.gamedeveloper.com/business/opinion-welcome-to-the-house-of-pain-brought-to-you-by-xbox",
-      "source": "gamedeveloper",
-      "published_at": "2026-07-08T14:29:29+00:00",
-      "summary": "Don't mind the screams.",
-      "feed_url": "https://www.gamedeveloper.com/rss.xml"
-    },
-    {
-      "title": "Xbox retreats again – but to where? | Opinion",
-      "link": "https://www.gamesindustry.biz/xbox-retreats-again-but-to-where-opinion",
-      "source": "GamesIndustry.biz Latest Articles Feed",
-      "published_at": "2026-07-07T14:07:20+00:00",
-      "summary": "Last July, when Microsoft made  sweeping cuts  to its gaming division, axing employees at King, Raven Software, Rare, Blizzard, and more, shuttering The Initiative, and cancelling the Perfect Dark reboot, Everwild, and ZeniMax Online's Project Blackbird, I said it was  Microsoft's darkest day since the last one .    Read more",
-      "feed_url": "https://www.gamesindustry.biz/feed"
-    },
-    {
-      "title": "Report: Xbox is testing a feature to digitize physical games",
-      "link": "https://www.gamedeveloper.com/business/report-xbox-is-testing-a-feature-to-digitize-physical-games",
-      "source": "gamedeveloper",
-      "published_at": "2026-07-02T15:01:50+00:00",
-      "summary": "The reported feature would allow Xbox owners to digitize their existing physical game collections.",
-      "feed_url": "https://www.gamedeveloper.com/rss.xml"
-    },
-    {
-      "title": "Africa Has 349 Million Gamers. The App Store Is Failing Most of Them. - Business Insider Africa",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMFlZekNOcDZWaHJWTXk5VmNRMlR0alJ0cnR6czNNZ2Q5bFNfdUU0OTJpS3FxVzBPR2k4cXRyckJFbkQ2U3hrMnlyMG01bHhGSEtyUmhjM2JDV0ZKU2JpdEpOMjMxc1RRc1dQZE9BSHAwQzRBcWE4VnZhdG03Zi0wNnluazZvREtBR1RHTmVvN05sS2VHMkxQUFlEMUxSdFZKRDc5TmZ5MkZMT01JMjhlV1ZMMFJsdVlVeTZRdWplTE1jMUtW?oc=5",
-      "source": "Business Insider Africa",
-      "published_at": "2026-05-15T07:00:00+00:00",
-      "summary": "Africa Has 349 Million Gamers. The App Store Is Failing Most of Them.    Business Insider Africa",
-      "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Africa&hl=en&gl=ZA&ceid=ZA:en"
-    },
-    {
-      "title": "Indonesia Pushes Local Gaming Industry to Become New Economic Power - Tempo.co English",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMlZLSnJJWHpKQ24zTXFCTjV0ejZ5UzBVZ1VRV05ieWt4Wk5BdFJQaVdsRGNDMDQ1cTBKcnhXUEt4WHRLeVZiNUpqRlMwU2FpQy1iNkJfVkNTUGpSYWNmbTVhZTlCTENGUDh3R3YxQkl1RzlPdjF1enUyNDRKYWd0eXpRRl9fMEtybzV0UllVR1IwNmRBZGpTNzJoelMwRGsxRXc?oc=5",
-      "source": "Tempo.co English",
-      "published_at": "2025-05-19T07:00:00+00:00",
-      "summary": "Indonesia Pushes Local Gaming Industry to Become New Economic Power    Tempo.co English",
-      "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Southeast%20Asia&hl=en-SG&gl=SG&ceid=SG:en"
-    },
-    {
-      "title": "「Ghost of Tsushima」開発スタジオの新作「Ghost of Yōtei」発表、舞台は1603年の北海道・羊蹄山で2025年発売 - ライブドアニュース",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB2cGMtb0ktQzlaVDlYeHRoVUh4UlFVRlNzQnM3NlNIRHFudGNUNUt2WEpRSkhqc0s0NVplTkVMRllyYjgzNVJWLTNEVDUzNDgzTGJCRzJ6Y1VoMGxGVlM3TW9OZDBLeEloa2ZyT1VEWHlhN1M3N1RVcg?oc=5",
-      "source": "ライブドアニュース",
-      "published_at": "2024-09-25T07:00:00+00:00",
-      "summary": "「Ghost of Tsushima」開発スタジオの新作「Ghost of Yōtei」発表、舞台は1603年の北海道・羊蹄山で2025年発売    ライブドアニュース",
-      "feed_url": "https://news.google.com/rss/search?q=%E6%B5%B7%E5%A4%96%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA&hl=ja&gl=JP&ceid=JP:ja"
-    },
-    {
-      "title": "Netflix’s video game strategy comes into focus - Fast Company",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNWZrXzl0QnppTzNTeVBtQ2p1WDY3VTFJei1SaEFlc3BSSjFSQW5sakRYM1NLaDJkMF9EM2ZFXzBYczF3MzFvU2JRQmRjMmZpbDhlcG94cjRvYzNYMlBDZTliV1JPdzh5RmpLWG82VDB1cXBTTFFGTFBXaVdaUkpwNlBiSzR3dE5S?oc=5",
-      "source": "Fast Company",
-      "published_at": "2024-08-06T07:00:00+00:00",
-      "summary": "Netflix’s video game strategy comes into focus    Fast Company",
-      "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20India&hl=en-IN&gl=IN&ceid=IN:en"
-    }
-  ]
+  "unresolved": []
 }

@@ -1,8 +1,8 @@
 {
   "type": "FeatureCollection",
   "properties": {
-    "created_at": "2026-07-09T03:40:20.159314+00:00",
-    "count": 896,
+    "created_at": "2026-07-09T04:59:34.736386+00:00",
+    "count": 903,
     "stats": {
       "feed_id": "game-all",
       "feed_label": "ゲーム",
@@ -50,11 +50,11 @@
         "https://news.google.com/rss/search?q=%E6%B5%B7%E5%A4%96%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA&hl=ja&gl=JP&ceid=JP:ja": 77,
         "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja": 78
       },
-      "filtered": 904,
-      "resolved": 896,
-      "unresolved": 8,
-      "rules": 355,
-      "known_places": 1306,
+      "filtered": 903,
+      "resolved": 903,
+      "unresolved": 0,
+      "rules": 374,
+      "known_places": 1332,
       "loaded_data_files": [
         "data/place_rules.json",
         "data/unresolved_known_places.json",
@@ -1278,7 +1278,21 @@
         "data/unresolved_known_places_1552.json",
         "data/unresolved_known_places_1553.json",
         "data/unresolved_known_places_1554.json",
-        "data/unresolved_known_places_1555.json"
+        "data/unresolved_known_places_1555.json",
+        "data/unresolved_known_places_1556.json",
+        "data/unresolved_known_places_1557.json",
+        "data/unresolved_known_places_1558.json",
+        "data/unresolved_known_places_1559.json",
+        "data/unresolved_known_places_1560.json",
+        "data/unresolved_known_places_1561.json",
+        "data/unresolved_known_places_1562.json",
+        "data/unresolved_known_places_1563.json",
+        "data/unresolved_known_places_1564.json",
+        "data/unresolved_known_places_1565.json",
+        "data/unresolved_known_places_1566.json",
+        "data/unresolved_known_places_1567.json",
+        "data/unresolved_known_places_1568.json",
+        "data/unresolved_known_places_1569.json"
       ],
       "topic_keywords": [
         "game",
@@ -1383,6 +1397,33 @@
         "confidence": 0.5,
         "rule_id": "game_all_20260709_blizzard_china_roles_shanghai_202607",
         "matched_text": "Blizzard eliminates 'small number' of roles in China",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7077,
+          35.6977
+        ]
+      },
+      "properties": {
+        "title": "Final Fantasy 7 Ever Crisis closes in October",
+        "source": "Mobilegamer.biz",
+        "link": "https://mobilegamer.biz/final-fantasy-7-ever-crisis-closes-in-october/",
+        "published_at": "2026-07-08T15:12:34+00:00",
+        "representative_place": "Square Enix / Shinjuku Eastside Square representative",
+        "place_label": "日本-東京都-新宿区-Square Enix代表点",
+        "sort_place_label": "日本-東京都-新宿区-Square Enix代表点",
+        "geocode_query": "Square Enix Shinjuku Eastside Square Tokyo Final Fantasy VII Ever Crisis",
+        "place_type": "publisher_live_service_shutdown_hq_representative",
+        "location_precision": "building",
+        "place_reason": "Replaces the batch 1552 entry that used a non-accepted precision value. The MobileGamer.biz item is a shutdown article for Square Enix's Final Fantasy VII Ever Crisis, represented by Square Enix's Tokyo headquarters at Shinjuku Eastside Square.（一致語: Final Fantasy 7 Ever Crisis closes in October）",
+        "confidence": 0.78,
+        "rule_id": "game_all_20260709_ff7_ever_crisis_shutdown_square_enix_tokyo_202607",
+        "matched_text": "Final Fantasy 7 Ever Crisis closes in October",
         "match_source": "known_place_title"
       }
     },
@@ -1518,6 +1559,33 @@
         "confidence": 0.7,
         "rule_id": "game_all_20260709_atari_europe_president_lyon_202607",
         "matched_text": "Atari appoints Andreas Deptolla as president of Atari Europe",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1215,
+          47.674
+        ]
+      },
+      "properties": {
+        "title": "Opinion: Welcome to the house of pain, brought to you by Xbox",
+        "source": "gamedeveloper",
+        "link": "https://www.gamedeveloper.com/business/opinion-welcome-to-the-house-of-pain-brought-to-you-by-xbox",
+        "published_at": "2026-07-08T14:29:29+00:00",
+        "representative_place": "Microsoft Xbox / Redmond representative",
+        "place_label": "米国-ワシントン州-レドモンド-Xbox代表点",
+        "sort_place_label": "米国-ワシントン州-レドモンド-Xbox代表点",
+        "geocode_query": "Microsoft Xbox headquarters Redmond Washington",
+        "place_type": "platform_holder_restructure_opinion_hq_representative",
+        "location_precision": "city",
+        "place_reason": "Replaces the batch 1552 entry that used a non-accepted precision value. The unresolved opinion items are about Xbox/Microsoft restructuring, so Redmond is used as the Microsoft/Xbox decision-center representative.（一致語: Opinion: Welcome to the house of pain, brought to you by Xbox）",
+        "confidence": 0.58,
+        "rule_id": "game_all_20260709_xbox_house_of_pain_opinion_redmond_202607",
+        "matched_text": "Opinion: Welcome to the house of pain, brought to you by Xbox",
         "match_source": "known_place_title"
       }
     },
@@ -1958,6 +2026,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.1215,
+          47.674
+        ]
+      },
+      "properties": {
+        "title": "Xbox retreats again – but to where? | Opinion",
+        "source": "GamesIndustry.biz Latest Articles Feed",
+        "link": "https://www.gamesindustry.biz/xbox-retreats-again-but-to-where-opinion",
+        "published_at": "2026-07-07T14:07:20+00:00",
+        "representative_place": "Microsoft Xbox / Redmond representative",
+        "place_label": "米国-ワシントン州-レドモンド-Xbox代表点",
+        "sort_place_label": "米国-ワシントン州-レドモンド-Xbox代表点",
+        "geocode_query": "Microsoft Xbox headquarters Redmond Washington",
+        "place_type": "platform_holder_restructure_opinion_hq_representative",
+        "location_precision": "city",
+        "place_reason": "Replaces the batch 1552 entry that used a non-accepted precision value. The unresolved opinion items are about Xbox/Microsoft restructuring, so Redmond is used as the Microsoft/Xbox decision-center representative.（一致語: Xbox retreats again – but to where? | Opinion）",
+        "confidence": 0.58,
+        "rule_id": "game_all_20260709_xbox_house_of_pain_opinion_redmond_202607",
+        "matched_text": "Xbox retreats again – but to where? | Opinion",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           28.9784,
           41.0082
         ]
@@ -2363,8 +2458,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -78.7811,
-          35.7915
+          -78.7443,
+          35.7614
         ]
       },
       "properties": {
@@ -2372,14 +2467,14 @@
         "source": "GamesIndustry.biz Latest Articles Feed",
         "link": "https://www.gamesindustry.biz/epic-games-settles-lawsuit-against-former-contractor-accused-of-leaking-unannounced-fortnite-collaborations",
         "published_at": "2026-07-06T21:15:27+00:00",
-        "representative_place": "Epic Games / Cary",
-        "place_label": "米国-ノースカロライナ州-ケーリー",
-        "sort_place_label": "米国-ノースカロライナ州-ケーリー",
-        "geocode_query": "Epic Games Cary North Carolina Fortnite lawsuit contractor leak",
-        "place_type": "game_company_legal_settlement_city_uncertain_court",
-        "location_precision": "city",
-        "place_reason": "The unresolved generated item is about Epic Games settling a lawsuit over alleged Fortnite collaboration leaks. The court venue is not exposed in the unresolved record, so use the plaintiff/company-side anchor Epic Games / Cary rather than the publication location. This is not a confirmed courthouse, exact legal filing venue, or exact headquarters coordinate.（一致語: Epic Games settles lawsuit against former contractor accused of leaking unannounced Fortnite collaborations）",
-        "confidence": 0.66,
+        "representative_place": "Epic Games / Cary headquarters",
+        "place_label": "米国-ノースカロライナ州-ケーリー-Epic Games本社",
+        "sort_place_label": "米国-ノースカロライナ州-ケーリー-Epic Games本社",
+        "geocode_query": "Epic Games headquarters Cary North Carolina Fortnite lawsuit contractor leak",
+        "place_type": "game_company_legal_settlement_hq_representative",
+        "location_precision": "exact_site",
+        "place_reason": "Task 1 refinement for the batch 1534 exact-title override. The article is about Epic Games settling a lawsuit over alleged Fortnite collaboration leaks. The older mapping used only Cary city precision; existing later dictionary context already uses Epic Games' Cary headquarters as an exact-site company representative, so use that as the company-side anchor rather than the city centroid. This is not a courthouse or leak-location claim.（一致語: Epic Games settles lawsuit against former contractor accused of leaking unannounced Fortnite collaborations）",
+        "confidence": 0.74,
         "rule_id": "game_all_20260707_epic_games_contractor_lawsuit_cary_202607",
         "matched_text": "Epic Games settles lawsuit against former contractor accused of leaking unannounced Fortnite collaborations",
         "match_source": "known_place_title"
@@ -2417,8 +2512,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.7681,
-          35.0116
+          135.7562,
+          34.9697
         ]
       },
       "properties": {
@@ -2426,14 +2521,14 @@
         "source": "gamedeveloper",
         "link": "https://www.gamedeveloper.com/business/nintendo-is-winding-down-switch-1-sales-in-europe",
         "published_at": "2026-07-06T16:06:02+00:00",
-        "representative_place": "Nintendo / Kyoto",
-        "place_label": "日本-京都府-京都市",
-        "sort_place_label": "日本-京都府-京都市",
-        "geocode_query": "Nintendo headquarters Kyoto Switch sales Europe",
-        "place_type": "platform_holder_business_policy_article_city_uncertain_office",
-        "location_precision": "city",
-        "place_reason": "The unresolved generated item is about Nintendo winding down original Switch sales in Europe. Because the record does not expose a specific European subsidiary office, retailer, warehouse, or policy meeting site, use Nintendo / Kyoto as the platform-holder representative. This is not an exact headquarters coordinate or European distribution site.（一致語: Nintendo is winding down original Switch sales in Europe）",
-        "confidence": 0.62,
+        "representative_place": "Nintendo Co., Ltd. / 11-1 Hokotate-cho",
+        "place_label": "日本-京都府-京都市-南区-上鳥羽鉾立町11-1-任天堂",
+        "sort_place_label": "日本-京都府-京都市-南区-上鳥羽鉾立町11-1-任天堂",
+        "geocode_query": "11-1 Hokotate-cho Kamitoba Minami-ku Kyoto Nintendo headquarters Switch sales Europe",
+        "place_type": "platform_holder_business_policy_hq_representative",
+        "location_precision": "exact_site",
+        "place_reason": "Task 1 refinement for the batch 1534 exact-title override. The item is a Nintendo platform-holder business policy story about original Switch sales in Europe. The older mapping used Kyoto city precision; existing dictionary context already has Nintendo's Kyoto headquarters at 11-1 Hokotate-cho as an exact-site company representative. Use that company-side point while avoiding a false European retailer or distribution-site claim.（一致語: Nintendo is winding down original Switch sales in Europe）",
+        "confidence": 0.78,
         "rule_id": "game_all_20260707_nintendo_switch_original_sales_europe_kyoto_202607",
         "matched_text": "Nintendo is winding down original Switch sales in Europe",
         "match_source": "known_place_title"
@@ -2498,8 +2593,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.1215,
-          47.674
+          -122.1297,
+          47.6401
         ]
       },
       "properties": {
@@ -2507,14 +2602,14 @@
         "source": "Mobilegamer.biz",
         "link": "https://mobilegamer.biz/xbox-axes-3200-jobs-king-and-mojang-to-report-directly-to-boss-asha-sharma/",
         "published_at": "2026-07-06T14:17:17+00:00",
-        "representative_place": "Microsoft / Xbox, Redmond",
-        "place_label": "米国-ワシントン州-レドモンド",
-        "sort_place_label": "米国-ワシントン州-レドモンド",
-        "geocode_query": "Microsoft Xbox Redmond layoffs King Mojang Asha Sharma",
-        "place_type": "platform_holder_layoff_reorganization_city_uncertain_office",
-        "location_precision": "city",
-        "place_reason": "The unresolved generated item is an Xbox reorganization and layoff article involving King and Mojang reporting to Xbox boss Asha Sharma. Use the Xbox / Microsoft Redmond corporate anchor for the restructuring rather than one subsidiary city or the media source. This is not an exact office coordinate or complete split across all affected studios.（一致語: Xbox axes 3,200 jobs; King and Mojang to report directly to boss Asha Sharma）",
-        "confidence": 0.72,
+        "representative_place": "Microsoft Gaming / One Microsoft Way Redmond campus",
+        "place_label": "米国-ワシントン州-レドモンド-One Microsoft Way-Microsoft Gaming/Xbox再編",
+        "sort_place_label": "米国-ワシントン州-レドモンド-One Microsoft Way-Microsoft Gaming/Xbox再編",
+        "geocode_query": "One Microsoft Way Redmond Washington Microsoft Gaming Xbox layoffs King Mojang Asha Sharma",
+        "place_type": "platform_holder_layoff_reorganization_hq_representative",
+        "location_precision": "exact_site",
+        "place_reason": "Task 1 refinement for the batch 1534 exact-title override. The item is an Xbox reorganization and layoff article involving King and Mojang reporting to Xbox boss Asha Sharma. The older mapping used Redmond city precision; existing dictionary context already uses the Microsoft / One Microsoft Way campus for Xbox corporate restructuring stories. Use the accepted exact-site campus representative rather than one subsidiary city or a generic Redmond point.（一致語: Xbox axes 3,200 jobs; King and Mojang to report directly to boss Asha Sharma）",
+        "confidence": 0.78,
         "rule_id": "game_all_20260707_xbox_king_mojang_layoffs_redmond_202607",
         "matched_text": "Xbox axes 3,200 jobs; King and Mojang to report directly to boss Asha Sharma",
         "match_source": "known_place_title"
@@ -2930,8 +3025,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.3255,
-          37.563
+          -122.2834,
+          37.5606
         ]
       },
       "properties": {
@@ -2939,14 +3034,14 @@
         "source": "GamesIndustry.biz Latest Articles Feed",
         "link": "https://www.gamesindustry.biz/sony-clarifies-re-order-support-for-existing-playstation-discs",
         "published_at": "2026-07-06T07:48:10+00:00",
-        "representative_place": "Sony Interactive Entertainment / San Mateo representative",
-        "place_label": "米国-カリフォルニア州-サンマテオ",
-        "sort_place_label": "米国-カリフォルニア州-サンマテオ",
-        "geocode_query": "Sony Interactive Entertainment San Mateo PlayStation discs re-order support",
-        "place_type": "platform_holder_publishing_policy_city_uncertain_office",
-        "location_precision": "city",
-        "place_reason": "The unresolved generated item is about Sony clarifying PlayStation disc re-order support to developers and publishers. Use Sony Interactive Entertainment / San Mateo as the PlayStation platform-holder representative rather than the media source or a generic Sony Japan point. This is not an exact office coordinate or manufacturing/distribution site.（一致語: Sony clarifies re-order support for existing PlayStation discs）",
-        "confidence": 0.62,
+        "representative_place": "Sony Interactive Entertainment / 2207 Bridgepointe Pkwy",
+        "place_label": "米国-カリフォルニア州-サンマテオ-2207 Bridgepointe Pkwy-Sony Interactive Entertainment",
+        "sort_place_label": "米国-カリフォルニア州-サンマテオ-2207 Bridgepointe Pkwy-Sony Interactive Entertainment",
+        "geocode_query": "2207 Bridgepointe Pkwy San Mateo CA Sony Interactive Entertainment PlayStation discs re-order support",
+        "place_type": "platform_holder_publishing_policy_hq_representative",
+        "location_precision": "exact_site",
+        "place_reason": "Task 1 refinement for the batch 1534 exact-title override. The item is about Sony/SIE clarifying PlayStation disc re-order support to developers and publishers. The older mapping used San Mateo city precision; existing later dictionary context already has Sony Interactive Entertainment at 2207 Bridgepointe Pkwy as an exact-site PlayStation company representative. This is not a manufacturing or distribution-site claim.（一致語: Sony clarifies re-order support for existing PlayStation discs）",
+        "confidence": 0.76,
         "rule_id": "game_all_20260707_sony_playstation_disc_reorder_sie_san_mateo_202607",
         "matched_text": "Sony clarifies re-order support for existing PlayStation discs",
         "match_source": "known_place_title"
@@ -3065,8 +3160,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.4368,
-          31.1846
+          116.4074,
+          39.9042
         ]
       },
       "properties": {
@@ -3074,15 +3169,15 @@
         "source": "Game World Observer",
         "link": "https://gameworldobserver.com/2026/07/03/mihoyo-is-the-most-valuable-private-gaming-company-in-the-world-according-to-hurun-research-institute-but-theres-a-catch",
         "published_at": "2026-07-03T13:54:10+00:00",
-        "representative_place": "miHoYo / HoYoverse Shanghai studio area",
-        "place_label": "中国-上海市-徐匯区-miHoYo/HoYoverse周辺",
-        "sort_place_label": "中国-上海市-徐匯区-miHoYo/HoYoverse周辺",
-        "geocode_query": "miHoYo HoYoverse Xuhui Shanghai China",
-        "place_type": "studio_site",
-        "location_precision": "district",
-        "place_reason": "Honkai: Nexus Anima系の記事はHoYoverse / miHoYo主体として上海徐匯区に置く。番地まで固定せずdistrictに止め、北京イベントなどは吸わないよう作品名文脈に絞る（一致語: miHoYo）",
+        "representative_place": "miHoYo AI event in Beijing / event representative",
+        "place_label": "中国-北京市-miHoYo AIイベント代表点",
+        "sort_place_label": "中国-北京市-miHoYo AIイベント代表点",
+        "geocode_query": "miHoYo AI event Beijing China venue",
+        "place_type": "event_site",
+        "location_precision": "event_site",
+        "place_reason": "Repair for file 31: the later same-ID entry used non-accepted `event_area`, which can supersede the earlier valid city entry and then be skipped. The article explicitly refers to Liu Wei's Beijing AI-event announcement, so Beijing remains the event representative. `event_site` is the accepted precision for this event-point mapping when the exact venue is not fixed.（一致語: miHoYo）",
         "confidence": 0.76,
-        "rule_id": "observed_hoyoverse_honkai_nexus_anima_shanghai_202606",
+        "rule_id": "observed_mihoyo_ai_beijing_event_202605",
         "matched_text": "miHoYo",
         "match_source": "known_place_title"
       }
@@ -3408,6 +3503,33 @@
         "confidence": 0.74,
         "rule_id": "observed_playstation_disc_production_sie_san_mateo_202607",
         "matched_text": "PlayStation Announces Physical Disc-less Gaming Future; Gets Mocked For It",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1215,
+          47.674
+        ]
+      },
+      "properties": {
+        "title": "Report: Xbox is testing a feature to digitize physical games",
+        "source": "gamedeveloper",
+        "link": "https://www.gamedeveloper.com/business/report-xbox-is-testing-a-feature-to-digitize-physical-games",
+        "published_at": "2026-07-02T15:01:50+00:00",
+        "representative_place": "Microsoft Xbox / Redmond representative",
+        "place_label": "米国-ワシントン州-レドモンド-Xbox代表点",
+        "sort_place_label": "米国-ワシントン州-レドモンド-Xbox代表点",
+        "geocode_query": "Microsoft Xbox Redmond digitize physical games Positron Disc2Digital",
+        "place_type": "platform_holder_feature_test_company_representative",
+        "location_precision": "city",
+        "place_reason": "Replaces the batch 1554 entry that used a non-accepted precision value. The item is about an Xbox platform feature reportedly being tested, represented by Microsoft/Xbox in Redmond.（一致語: Report: Xbox is testing a feature to digitize physical games）",
+        "confidence": 0.6,
+        "rule_id": "game_all_20260709_xbox_digitize_physical_games_redmond_202607",
+        "matched_text": "Report: Xbox is testing a feature to digitize physical games",
         "match_source": "known_place_title"
       }
     },
@@ -6395,16 +6517,16 @@
         "source": "GamesIndustry.biz Latest Articles Feed",
         "link": "https://www.gamesindustry.biz/volunteer-led-rts-bar-signs-publishing-deal-with-hooded-horse",
         "published_at": "2026-06-22T20:53:28+00:00",
-        "representative_place": "Hooded Horse / Dallas publisher area",
-        "place_label": "米国-テキサス州-ダラス-Hooded Horse",
-        "sort_place_label": "米国-テキサス州-ダラス-Hooded Horse",
-        "geocode_query": "Hooded Horse Dallas Texas United States",
-        "place_type": "publisher_site",
+        "representative_place": "Hooded Horse / Dallas publisher city representative",
+        "place_label": "米国-テキサス州-ダラス-Hooded Horse代表点",
+        "sort_place_label": "米国-テキサス州-ダラス-Hooded Horse代表点",
+        "geocode_query": "Hooded Horse Dallas Texas publisher",
+        "place_type": "publisher_site_checked_no_public_street_address",
         "location_precision": "city",
-        "place_reason": "Hooded Horse主体のパブリッシャー記事なのでDallasに置く。番地を確実に固定できないためpublisher_areaではなくcityに止める（一致語: Hooded Horse）",
+        "place_reason": "Repair for batch 1557: `publisher_city_checked` is not in the builder's point-compatible precision allowlist. The Beyond All Reason publishing-deal article should remain publisher-subject and represented by Hooded Horse in Dallas, but the loadable precision should be `city` until a stable public street address is confirmed.（一致語: Volunteer-led RTS BAR signs publishing deal with Hooded Horse）",
         "confidence": 0.74,
         "rule_id": "observed_hooded_horse_bar_publishing_dallas_202606",
-        "matched_text": "Hooded Horse",
+        "matched_text": "Volunteer-led RTS BAR signs publishing deal with Hooded Horse",
         "match_source": "known_place_title"
       }
     },
@@ -6692,16 +6814,16 @@
         "source": "GamesIndustry.biz Latest Articles Feed",
         "link": "https://www.gamesindustry.biz/newzoo-global-games-market-made-over-200bn-in-2025",
         "published_at": "2026-06-19T08:49:01+00:00",
-        "representative_place": "Newzoo market analysis topic",
-        "place_label": "オランダ-アムステルダム-Newzoo市場分析",
-        "sort_place_label": "オランダ-アムステルダム-Newzoo市場分析",
-        "geocode_query": "Newzoo Amsterdam Netherlands market analysis",
-        "place_type": "company_site",
+        "representative_place": "Newzoo / Amsterdam headquarters city",
+        "place_label": "Newzoo / Amsterdam headquarters city",
+        "sort_place_label": "Newzoo / Amsterdam headquarters city",
+        "geocode_query": "Newzoo Amsterdam Netherlands headquarters",
+        "place_type": "games_market_intelligence_company_site",
         "location_precision": "city",
-        "place_reason": "Newzoo発の市場分析・レポート記事なのでCEO交代とは別クラスタに分ける。company_areaはスコア表に未定義なのでcityに正規化する（一致語: Newzoo: Global games market made over $200bn in 2025）",
-        "confidence": 0.66,
-        "rule_id": "observed_newzoo_market_analysis_202606",
-        "matched_text": "Newzoo: Global games market made over $200bn in 2025",
+        "place_reason": "Repair for batch 1557: `headquarters_city_checked_no_stable_street` is not in the builder's point-compatible precision allowlist. The Newzoo CEO transition article remains a company-governance item represented by Amsterdam/Newzoo, but the loadable precision should be `city` until a stable public street address is confirmed.（一致語: Newzoo）",
+        "confidence": 0.72,
+        "rule_id": "observed_newzoo_ceo_transition_amsterdam_202606",
+        "matched_text": "Newzoo",
         "match_source": "known_place_title"
       }
     },
@@ -7156,9 +7278,9 @@
         "sort_place_label": "英国-イングランド-ロンドン-Rocksteady Studios周辺",
         "geocode_query": "Rocksteady Studios London United Kingdom",
         "place_type": "studio_site",
-        "location_precision": "city",
-        "place_reason": "Rocksteady公式サイトでLondon, United Kingdom拠点までは確認できるが、公式ページ上で番地を確認できないため、Batman Arkham / DC新作文脈の記事はLondon city粒度に止める（一致語: バットマン：アーカム』開発チーム）",
-        "confidence": 0.78,
+        "location_precision": "studio_area",
+        "place_reason": "Task 1 precision cleanup for Rocksteady/DC multiplayer-game articles. The older file 48 entry was point-compatible but expressed the studio as generic city precision. Public reference context supports Rocksteady as London-based, while a stable exact current office address was not confirmed in this pass, so this keeps the London representative coordinates and records the precision honestly as `studio_area`.（一致語: バットマン：アーカム』開発チーム）",
+        "confidence": 0.72,
         "rule_id": "observed_rocksteady_dc_multiplayer_london_202606",
         "matched_text": "バットマン：アーカム』開発チーム",
         "match_source": "known_place_title"
@@ -7188,6 +7310,33 @@
         "confidence": 0.78,
         "rule_id": "observed_xenonauts2_goldhawk_london_202606",
         "matched_text": "ゼノノーツ 2",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7174,
+          51.0543
+        ]
+      },
+      "properties": {
+        "title": "『バルダーズ・ゲート』ドラマ化に開発元ラリアン・スタジオ内で意見対立か CEOと幹部で見解分かれ、HBOとの交渉秘話も飛び出しファン騒然 - 玩具人 TOY PEOPLE",
+        "source": "玩具人 TOY PEOPLE",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBXUmlWNEtiTURuZVk3N3hncnhNN3VkSUZ4ODIyTE9pUjhILXY3SUlBQThjSjY3dEJUVno3VVFsRzN2UHEzckx1RXZMQU40d3Jh?oc=5",
+        "published_at": "2026-06-11T19:56:01+00:00",
+        "representative_place": "Larian Studios / Ghent",
+        "place_label": "ベルギー-フランデレン地域-ヘント-Larian Studios / Baldur's Gate 3",
+        "sort_place_label": "ベルギー-フランデレン地域-ヘント-Larian Studios / Baldur's Gate 3",
+        "geocode_query": "Larian Studios headquarters Ghent Belgium Baldur's Gate 3",
+        "place_type": "game_developer_headquarters",
+        "location_precision": "city",
+        "place_reason": "記事タイトルは『バルダーズ・ゲート』のHBOドラマ化をめぐるラリアン・スタジオ内の反応/交渉を主題にしている。関連報道ではHBO/Craig Mazin側がLarianに接触し、Larian CEO Swen Vinckeやpublishing director Michael Douseの反応が記事化されている。作品・発言主体として最も場所性を持つのはBaldur's Gate 3開発元のLarian Studiosであり、同社はBelgiumのGhentを本拠とする。HBOの制作地や会議場所は記事タイトル/要約から特定できないため、開発元本社のGhentを代表地点にする。（一致語: 『バルダーズ・ゲート』ドラマ化に開発元ラリアン・スタジオ内で意見対立か CEOと幹部で見解分かれ、HBOとの交渉秘話も飛び出しファン騒然 - 玩具人 TOY PEOPLE）",
+        "confidence": 0.82,
+        "rule_id": "observed_baldurs_gate_hbo_larian_ghent_202606",
+        "matched_text": "『バルダーズ・ゲート』ドラマ化に開発元ラリアン・スタジオ内で意見対立か CEOと幹部で見解分かれ、HBOとの交渉秘話も飛び出しファン騒然 - 玩具人 TOY PEOPLE",
         "match_source": "known_place_title"
       }
     },
@@ -7952,8 +8101,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.4368,
-          31.1846
+          116.4074,
+          39.9042
         ]
       },
       "properties": {
@@ -7961,17 +8110,17 @@
         "source": "Game World Observer",
         "link": "https://gameworldobserver.com/2026/05/26/the-creators-of-genshin-impact-will-spend-nearly-15-billion-on-ai",
         "published_at": "2026-05-26T13:06:24+00:00",
-        "representative_place": "miHoYo / HoYoverse Shanghai studio area",
-        "place_label": "中国-上海市-徐匯区-miHoYo/HoYoverse周辺",
-        "sort_place_label": "中国-上海市-徐匯区-miHoYo/HoYoverse周辺",
-        "geocode_query": "miHoYo HoYoverse Xuhui Shanghai China",
-        "place_type": "studio_site",
-        "location_precision": "district",
-        "place_reason": "Honkai: Nexus Anima系の記事はHoYoverse / miHoYo主体として上海徐匯区に置く。番地まで固定せずdistrictに止め、北京イベントなどは吸わないよう作品名文脈に絞る",
+        "representative_place": "miHoYo AI event in Beijing / event representative",
+        "place_label": "中国-北京市-miHoYo AIイベント代表点",
+        "sort_place_label": "中国-北京市-miHoYo AIイベント代表点",
+        "geocode_query": "miHoYo AI event Beijing China venue",
+        "place_type": "event_site",
+        "location_precision": "event_site",
+        "place_reason": "Repair for file 31: the later same-ID entry used non-accepted `event_area`, which can supersede the earlier valid city entry and then be skipped. The article explicitly refers to Liu Wei's Beijing AI-event announcement, so Beijing remains the event representative. `event_site` is the accepted precision for this event-point mapping when the exact venue is not fixed.（一致語: The creators of Genshin Impact will spend nearly $15 billion on AI）",
         "confidence": 0.76,
-        "rule_id": "observed_hoyoverse_honkai_nexus_anima_shanghai_202606",
-        "matched_text": "miHoYo",
-        "match_source": "rule"
+        "rule_id": "observed_mihoyo_ai_beijing_event_202605",
+        "matched_text": "The creators of Genshin Impact will spend nearly $15 billion on AI",
+        "match_source": "known_place_title"
       }
     },
     {
@@ -8465,6 +8614,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.009,
+          37.3349
+        ]
+      },
+      "properties": {
+        "title": "Africa Has 349 Million Gamers. The App Store Is Failing Most of Them. - Business Insider Africa",
+        "source": "Business Insider Africa",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMFlZekNOcDZWaHJWTXk5VmNRMlR0alJ0cnR6czNNZ2Q5bFNfdUU0OTJpS3FxVzBPR2k4cXRyckJFbkQ2U3hrMnlyMG01bHhGSEtyUmhjM2JDV0ZKU2JpdEpOMjMxc1RRc1dQZE9BSHAwQzRBcWE4VnZhdG03Zi0wNnluazZvREtBR1RHTmVvN05sS2VHMkxQUFlEMUxSdFZKRDc5TmZ5MkZMT01JMjhlV1ZMMFJsdVlVeTZRdWplTE1jMUtW?oc=5",
+        "published_at": "2026-05-15T07:00:00+00:00",
+        "representative_place": "Apple App Store / Cupertino representative",
+        "place_label": "米国-カリフォルニア州-クパチーノ-Apple App Store代表点",
+        "sort_place_label": "米国-カリフォルニア州-クパチーノ-Apple App Store代表点",
+        "geocode_query": "Apple App Store Cupertino Africa 349 million gamers Business Insider Africa",
+        "place_type": "app_store_platform_policy_article_company_representative",
+        "location_precision": "city",
+        "place_reason": "Replaces the batch 1554 entry that used a non-accepted precision value. The article is an Africa-wide mobile-games market critique, but the explicit institutional subject is the App Store, represented by Apple/Cupertino rather than a non-point Africa label.（一致語: Africa Has 349 Million Gamers. The App Store Is Failing Most of Them. - Business Insider Africa）",
+        "confidence": 0.42,
+        "rule_id": "game_all_20260709_africa_app_store_failing_apple_cupertino_202605",
+        "matched_text": "Africa Has 349 Million Gamers. The App Store Is Failing Most of Them. - Business Insider Africa",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -78.7811,
           35.7915
         ]
@@ -8924,33 +9100,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.7681,
-          35.0116
-        ]
-      },
-      "properties": {
-        "title": "任天堂がうらやましい…海外メディアが報じた｢日本のゲーム会社が世界で売れるヒット作を連発できる理由 - PRESIDENT Online（プレジデントオンライン）",
-        "source": "PRESIDENT Online（プレジデントオンライン）",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE41VzhmMnQtbl8tZFZyeW1jT1ZZM1VnRktXSnFlUEZ6Ym5obFpMZWZZcVByQjk5Y2NJTlF2TGJUR2lEVS1LdDhJNGtoM2FkalRNODUzS0xmbEU?oc=5",
-        "published_at": "2026-04-30T07:00:00+00:00",
-        "representative_place": "Nintendo / Kyoto representative",
-        "place_label": "日本-京都府-京都市",
-        "sort_place_label": "日本-京都府-京都市",
-        "geocode_query": "Nintendo Kyoto Japanese game companies global hits President Online",
-        "place_type": "game_company_analysis_article_representative_uncertain_subject_scope",
-        "location_precision": "city",
-        "place_reason": "The generated unresolved item is a broad analysis article about why Japanese game companies produce globally successful hits, with Nintendo explicitly foregrounded in the title. Because the unresolved record does not expose a single interview site, event, or one exact company location for the whole argument, use Nintendo / Kyoto as the title-bearing representative rather than a generic Japan centroid or the media source. This is not an exact office coordinate and should be replaced if article parsing identifies a stronger primary company anchor.（一致語: 任天堂がうらやましい…海外メディアが報じた｢日本のゲーム会社が世界で売れるヒット作を連発できる理由 - PRESIDENT Online（プレジデントオンライン））",
-        "confidence": 0.46,
-        "rule_id": "game_all_20260709_president_japanese_game_companies_nintendo_kyoto_202604",
-        "matched_text": "任天堂がうらやましい…海外メディアが報じた｢日本のゲーム会社が世界で売れるヒット作を連発できる理由 - PRESIDENT Online（プレジデントオンライン）",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           3.1192,
           50.5825
         ]
@@ -9096,12 +9245,12 @@
         "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBYUHBEODl6ZVJpQjBmM1RqcFljM1d3YTd3eHRNVUNGX1JSd3U3QndOUVg1cVBfREFWREZfR3BKVnRDZHB4eUhTOEJaY0d1a2V1djJUR3loY2ZyMi15TnRZbnVHcGZKQQ?oc=5",
         "published_at": "2026-04-25T07:00:00+00:00",
         "representative_place": "Avalanche Studios / Stockholm studio area",
-        "place_label": "スウェーデン-ストックホルム-Avalanche Studios",
-        "sort_place_label": "スウェーデン-ストックホルム-Avalanche Studios",
+        "place_label": "Avalanche Studios / Stockholm studio area",
+        "sort_place_label": "Avalanche Studios / Stockholm studio area",
         "geocode_query": "Avalanche Studios Stockholm Sweden",
         "place_type": "studio_site",
-        "location_precision": "city",
-        "place_reason": "Avalanche Studios主体の記事だけを扱う。studio_areaはスコア表に未定義なので、番地未固定のスタジオ周辺はcityに正規化する（一致語: 未発表AAAオープンワールド作品）",
+        "location_precision": "studio_area",
+        "place_reason": "Task 1 precision cleanup for Avalanche Studios / Just Cause developer articles. The older file 48 entry used generic city precision. Public reference context supports Stockholm as Avalanche Studios Group's base, but the company has multiple studios and this pass did not confirm a stable exact address for the article subject, so `studio_area` is used instead of a false street-level point.（一致語: 未発表AAAオープンワールド作品）",
         "confidence": 0.72,
         "rule_id": "observed_avalanche_studios_just_cause_stockholm_202604",
         "matched_text": "未発表AAAオープンワールド作品",
@@ -10688,17 +10837,17 @@
         "source": "Game World Observer",
         "link": "https://gameworldobserver.com/2026/03/13/in-two-years-pc-games-will-surpass-console-games-in-revenue-analysis",
         "published_at": "2026-03-13T13:43:08+00:00",
-        "representative_place": "Newzoo market analysis topic",
-        "place_label": "オランダ-アムステルダム-Newzoo市場分析",
-        "sort_place_label": "オランダ-アムステルダム-Newzoo市場分析",
-        "geocode_query": "Newzoo Amsterdam Netherlands market analysis",
-        "place_type": "company_site",
+        "representative_place": "Newzoo / Amsterdam headquarters city",
+        "place_label": "Newzoo / Amsterdam headquarters city",
+        "sort_place_label": "Newzoo / Amsterdam headquarters city",
+        "geocode_query": "Newzoo Amsterdam Netherlands headquarters",
+        "place_type": "games_market_intelligence_company_site",
         "location_precision": "city",
-        "place_reason": "Newzoo発の市場分析・レポート記事なのでCEO交代とは別クラスタに分ける。company_areaはスコア表に未定義なのでcityに正規化する（一致語: In two years, PC games will surpass console games in revenue）",
-        "confidence": 0.66,
-        "rule_id": "observed_newzoo_market_analysis_202606",
-        "matched_text": "In two years, PC games will surpass console games in revenue",
-        "match_source": "known_place_title"
+        "place_reason": "Repair for batch 1557: `headquarters_city_checked_no_stable_street` is not in the builder's point-compatible precision allowlist. The Newzoo CEO transition article remains a company-governance item represented by Amsterdam/Newzoo, but the loadable precision should be `city` until a stable public street address is confirmed.",
+        "confidence": 0.72,
+        "rule_id": "observed_newzoo_ceo_transition_amsterdam_202606",
+        "matched_text": "Newzoo",
+        "match_source": "rule"
       }
     },
     {
@@ -10873,9 +11022,9 @@
         ]
       },
       "properties": {
-        "title": "Ideas: Press start: Southeast Asia’s video games leap - The Edge Malaysia",
-        "source": "The Edge Malaysia",
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9xazdlRk1QM3VGNnBkeHRfbGRoelJxeFk3SF9sdzkwS3JhajRpTVhMTjNGWTZNWHM2ZHl5SU9qSk1MUWdlR3IwOFpjTzdnOFVX?oc=5",
+        "title": "Ideas: Press start: Southeast Asia’s video games leap - KLSE Screener",
+        "source": "KLSE Screener",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPai1iZURaQUgtY0p1RWNsN0ZvU1ZrUWhGSkg4R2RnYnZpcllxOW9oZ3hkcUdXZDhnQmJKTkJXVUEyYzBadWc5OHliZG51a0x2aXVBeE5KSDNOaWNPTG9uSmpDTG1UVEs0c0Jzc0pGSlFESTl2ejZUTEh1X2ZSMkNNT1lMdXRTQkt2NXJ1eU9SZmpkWDdYay1wTGoxc1NJNjhPUkRz?oc=5",
         "published_at": "2026-03-09T07:00:00+00:00",
         "representative_place": "Virtuos / Fusionopolis, Singapore",
         "place_label": "シンガポール-Fusionopolis-Virtuos",
@@ -11894,6 +12043,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          13.0038,
+          55.605
+        ]
+      },
+      "properties": {
+        "title": "ユービーアイソフトの相次ぐレイオフ、『ディビジョン』の開発元にも―計55人削減へ、Massiveとストックホルムスタジオにて - Game*Spark",
+        "source": "Game*Spark",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE90SEg1V1pONDRGUy1YQy1KYVNRX3Y2ZkFDbm9oMzZ5azZlSzhWX2QxaWx0eEVzbU1kZE5Qc3F1ZDNBcHRMSlVuS0NESjE0UXlBb25HV3lMajR3V3VIbnR2ak1hYnFpUQ?oc=5",
+        "published_at": "2026-01-14T08:00:00+00:00",
+        "representative_place": "Massive Entertainment / Malmö",
+        "place_label": "スウェーデン-マルメ-Massive Entertainment / Ubisoft layoffs",
+        "sort_place_label": "スウェーデン-マルメ-Massive Entertainment / Ubisoft layoffs",
+        "geocode_query": "Massive Entertainment Malmö Sweden Ubisoft layoffs",
+        "place_type": "game_studio_layoff_site_uncertain_office",
+        "location_precision": "city",
+        "place_reason": "記事主語はUbisoftのレイオフで、対象はThe Division開発元Massive EntertainmentとUbisoft Stockholm。複数地点記事だが、タイトル上の中心は『ディビジョン』開発元Massiveであり、MassiveはMalmö拠点として扱える。Stockholmも影響対象のため単一地点として完全ではないが、Massive側の都市精度は妥当なのでB1とする。（一致語: ユービーアイソフトの相次ぐレイオフ、『ディビジョン』の開発元にも―計55人削減へ、Massiveとストックホルムスタジオにて - Game*Spark）",
+        "confidence": 0.68,
+        "rule_id": "observed_ubisoft_layoffs_massive_malmo_stockholm_202601",
+        "matched_text": "ユービーアイソフトの相次ぐレイオフ、『ディビジョン』の開発元にも―計55人削減へ、Massiveとストックホルムスタジオにて - Game*Spark",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           106.6297,
           10.8231
         ]
@@ -12264,33 +12440,6 @@
         "confidence": 0.8,
         "rule_id": "observed_naughty_dog_intergalactic_crunch_santa_monica_202512",
         "matched_text": "Intergalactic",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.1528,
-          39.084
-        ]
-      },
-      "properties": {
-        "title": "『スカイリム』続編『TES6』は「非常に順調に進んでいる」。トッド・ハワード氏が海外メディアに言及。スタジオの大半が - ニコニコニュース",
-        "source": "ニコニコニュース",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0zQXktVWZkbHgwVkhRN3pFd1ZtMWJPdENUSVlTLTU3N3JNcm1sdVFLVUVTY1VfaUNlZXhKS3M3MEJDNG9iakFnYVFhUXFqYXhUUzVLRA?oc=5",
-        "published_at": "2025-12-17T08:00:00+00:00",
-        "representative_place": "Bethesda Game Studios / Rockville representative",
-        "place_label": "米国-メリーランド州-ロックビル-Bethesda Game Studios代表点",
-        "sort_place_label": "米国-メリーランド州-ロックビル-Bethesda Game Studios代表点",
-        "geocode_query": "Bethesda Game Studios Rockville TES6 Todd Howard",
-        "place_type": "game_development_status_studio_city_representative",
-        "location_precision": "city",
-        "place_reason": "The item is about TES6 development status and Todd Howard's comment that most of the studio is working on it. Use Bethesda Game Studios / Rockville as the developer-side representative rather than a generic overseas-studio placement.（一致語: 『スカイリム』続編『TES6』は「非常に順調に進んでいる」。トッド・ハワード氏が海外メディアに言及。スタジオの大半が - ニコニコニュース）",
-        "confidence": 0.66,
-        "rule_id": "game_all_20260709_tes6_bethesda_rockville_202512",
-        "matched_text": "『スカイリム』続編『TES6』は「非常に順調に進んでいる」。トッド・ハワード氏が海外メディアに言及。スタジオの大半が - ニコニコニュース",
         "match_source": "known_place_title"
       }
     },
@@ -13389,12 +13538,12 @@
         "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9KWXh6cDgza1p0bDBvSkN5aWwzcHdRSy1YNUpwM2lRdWZFTW1OOWdwcVY5Y0RFSTFYeWVhVkRGWjMtZzlkMHV4XzhiTExwQ0RKS0o1bUtwTmhRbHRPWFZ0MWJ3RzZSdw?oc=5",
         "published_at": "2025-10-01T07:00:00+00:00",
         "representative_place": "Avalanche Studios / Stockholm studio area",
-        "place_label": "スウェーデン-ストックホルム-Avalanche Studios",
-        "sort_place_label": "スウェーデン-ストックホルム-Avalanche Studios",
+        "place_label": "Avalanche Studios / Stockholm studio area",
+        "sort_place_label": "Avalanche Studios / Stockholm studio area",
         "geocode_query": "Avalanche Studios Stockholm Sweden",
         "place_type": "studio_site",
-        "location_precision": "city",
-        "place_reason": "Avalanche Studios主体の記事だけを扱う。studio_areaはスコア表に未定義なので、番地未固定のスタジオ周辺はcityに正規化する（一致語: Avalanche Studiosがリヴァプールスタジオ閉鎖）",
+        "location_precision": "studio_area",
+        "place_reason": "Task 1 precision cleanup for Avalanche Studios / Just Cause developer articles. The older file 48 entry used generic city precision. Public reference context supports Stockholm as Avalanche Studios Group's base, but the company has multiple studios and this pass did not confirm a stable exact address for the article subject, so `studio_area` is used instead of a false street-level point.（一致語: Avalanche Studiosがリヴァプールスタジオ閉鎖）",
         "confidence": 0.72,
         "rule_id": "observed_avalanche_studios_just_cause_stockholm_202604",
         "matched_text": "Avalanche Studiosがリヴァプールスタジオ閉鎖",
@@ -14351,33 +14500,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          18.4241,
-          -33.9249
-        ]
-      },
-      "properties": {
-        "title": "Relooted: African Gamers Steal Back Stolen History - EBONY Magazine",
-        "source": "EBONY Magazine",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBHVWg1R3h1cnN6dDZqSm9QX2t0OTdsVnpvV2R2NmxDbW0xN1lKTFhHRTFJNWJQa011amhtbkJGWFRybmNBNHZKUWFtQmdXQXVhdjZQc3NqOUFDVEs2cDVSWkt5bWRmZw?oc=5",
-        "published_at": "2025-07-09T07:00:00+00:00",
-        "representative_place": "Nyamakop / Cape Town",
-        "place_label": "南アフリカ-西ケープ州-ケープタウン-Nyamakop",
-        "sort_place_label": "南アフリカ-西ケープ州-ケープタウン-Nyamakop",
-        "geocode_query": "Nyamakop Cape Town South Africa",
-        "place_type": "studio_site",
-        "location_precision": "city",
-        "place_reason": "Relooted関連の記事は、南アフリカ代表点ではなく開発元Nyamakopの拠点都市Cape Townに置く。（一致語: Relooted）",
-        "confidence": 0.82,
-        "rule_id": "observed_relooted_nyamakop_cape_town_202607",
-        "matched_text": "Relooted",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           140.035,
           35.647
         ]
@@ -14653,8 +14775,8 @@
         ]
       },
       "properties": {
-        "title": "How Olivier Madiba set up Cameroon's first gaming studio - DW.com",
-        "source": "DW.com",
+        "title": "How Olivier Madiba set up Cameroon's first gaming studio - dw.com",
+        "source": "dw.com",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUjdORzlBZ1hLMXZyNUlmSzJrb0dYRV9EV0paT0RDWXgwQUxKN3gtV1dXLXZCWHJ1c1ItTHFEdUNCbWdzcmhZa1czNXdJQ2pqV2NlbTktVEZSMDZVTE9TejM1Z01CNWRqejFYUHB3Y3pnRXdINkpPOEdGdjAwT3ZyTS1tdUNjRElCSTBsa3VaOFV2WW9wZUln?oc=5",
         "published_at": "2025-06-26T07:00:00+00:00",
         "representative_place": "Kiro'o Games / Yaoundé",
@@ -15031,8 +15153,8 @@
         ]
       },
       "properties": {
-        "title": "Summer Game Fest 2025 guide and schedule - Epic Games",
-        "source": "Epic Games",
+        "title": "Summer Game Fest 2025 guide and schedule - Epic Games Store",
+        "source": "Epic Games Store",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTTluR2V5YlJCdkhMeVZMVGh1RmVVamMyMUVBTW1VZWlUNjJ4QW9SeVF2RDN6NVNJSWh1aEFZclliQlh0LUZpdE91WF9ldi1yemNBd1BBS3RwV0J1RGUwMWRuNjZFeU9YSVBPUlJwa2Vaa1NJZ3dmZGRFdnkxcTFzeGJfR1Z4aEdfZU9iR2ZSdWdIMjlwM3c?oc=5",
         "published_at": "2025-06-02T07:00:00+00:00",
         "representative_place": "Summer Game Fest 2025 / YouTube Theater",
@@ -15180,6 +15302,33 @@
         "confidence": 0.8,
         "rule_id": "observed_naughty_dog_intergalactic_crunch_santa_monica_202512",
         "matched_text": "Intergalactic",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8456,
+          -6.2088
+        ]
+      },
+      "properties": {
+        "title": "Indonesia Pushes Local Gaming Industry to Become New Economic Power - Tempo.co English",
+        "source": "Tempo.co English",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMlZLSnJJWHpKQ24zTXFCTjV0ejZ5UzBVZ1VRV05ieWt4Wk5BdFJQaVdsRGNDMDQ1cTBKcnhXUEt4WHRLeVZiNUpqRlMwU2FpQy1iNkJfVkNTUGpSYWNmbTVhZTlCTENGUDh3R3YxQkl1RzlPdjF1enUyNDRKYWd0eXpRRl9fMEtybzV0UllVR1IwNmRBZGpTNzJoelMwRGsxRXc?oc=5",
+        "published_at": "2025-05-19T07:00:00+00:00",
+        "representative_place": "Indonesia games-industry policy / Jakarta representative",
+        "place_label": "インドネシア-ジャカルタ-ゲーム産業政策代表点",
+        "sort_place_label": "インドネシア-ジャカルタ-ゲーム産業政策代表点",
+        "geocode_query": "Indonesia local gaming industry economic power Jakarta government policy",
+        "place_type": "national_games_industry_policy_city_representative",
+        "location_precision": "city",
+        "place_reason": "The Tempo.co English item is a national industry-policy story about Indonesia pushing its local gaming industry as a new economic power. Use Jakarta as the government/policy and national industry representative rather than a non-point Indonesia placement.（一致語: Indonesia Pushes Local Gaming Industry to Become New Economic Power - Tempo.co English）",
+        "confidence": 0.46,
+        "rule_id": "game_all_20260709_indonesia_gaming_industry_economic_power_jakarta_202505",
+        "matched_text": "Indonesia Pushes Local Gaming Industry to Become New Economic Power - Tempo.co English",
         "match_source": "known_place_title"
       }
     },
@@ -16786,8 +16935,8 @@
         ]
       },
       "properties": {
-        "title": "Where are the video games from Africa? - DW.com",
-        "source": "DW.com",
+        "title": "Where are the video games from Africa? - dw.com",
+        "source": "dw.com",
         "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE84ZXdrYnpYYnc0ZjVlalNzX1JpbkZ2SHVNWS1ZOG5FSGQ4RDdJTkRCcVJKejhFeVdVVml5OGdxVk13UXB6REJqWWRoQWhSemI5N2FDazRyYWpNZ3lvZHNrbGRMNW1PSjZHUmx3OWh4MUI1VnpwMGVQcEZ30gF6QVVfeXFMUGFFNGdBOWt0c216Q3RGcDJoc0FBUHplSmlPY3RTNGZXeWJZYmhRa3JNaDR6dEFZVERNa1lqeFg4aTNncm1WaEl2ZEJ3YmswQzdJcnM5ejgzQ3FpY2RlOW5WQnBjNHlZSjdUb0xCN3ZQS3J6MUxzVi1nY3c?oc=5",
         "published_at": "2024-12-02T08:00:00+00:00",
         "representative_place": "African game-development sector / Johannesburg representative",
@@ -17348,6 +17497,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          140.811,
+          42.8265
+        ]
+      },
+      "properties": {
+        "title": "「Ghost of Tsushima」開発スタジオの新作「Ghost of Yōtei」発表、舞台は1603年の北海道・羊蹄山で2025年発売 - ライブドアニュース",
+        "source": "ライブドアニュース",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB2cGMtb0ktQzlaVDlYeHRoVUh4UlFVRlNzQnM3NlNIRHFudGNUNUt2WEpRSkhqc0s0NVplTkVMRllyYjgzNVJWLTNEVDUzNDgzTGJCRzJ6Y1VoMGxGVlM3TW9OZDBLeEloa2ZyT1VEWHlhN1M3N1RVcg?oc=5",
+        "published_at": "2024-09-25T07:00:00+00:00",
+        "representative_place": "Mount Yōtei / Hokkaido in-game setting representative",
+        "place_label": "日本-北海道-羊蹄山-Ghost of Yōtei舞台代表点",
+        "sort_place_label": "日本-北海道-羊蹄山-Ghost of Yōtei舞台代表点",
+        "geocode_query": "北海道 羊蹄山 Ghost of Yotei Mount Yotei Hokkaido",
+        "place_type": "game_setting_real_world_place",
+        "location_precision": "exact_site",
+        "place_reason": "Replaces the batch 1554 entry that used a non-accepted precision value. The title explicitly identifies the new game's setting as Hokkaido's Mount Yōtei, so the named real-world setting is the geographic subject for this article.（一致語: 「Ghost of Tsushima」開発スタジオの新作「Ghost of Yōtei」発表、舞台は1603年の北海道・羊蹄山で2025年発売 - ライブドアニュース）",
+        "confidence": 0.84,
+        "rule_id": "game_all_20260709_ghost_of_yotei_mount_yotei_202409",
+        "matched_text": "「Ghost of Tsushima」開発スタジオの新作「Ghost of Yōtei」発表、舞台は1603年の北海道・羊蹄山で2025年発売 - ライブドアニュース",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           72.8777,
           19.076
         ]
@@ -17780,6 +17956,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -121.9624,
+          37.2358
+        ]
+      },
+      "properties": {
+        "title": "Netflix’s video game strategy comes into focus - Fast Company",
+        "source": "Fast Company",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNWZrXzl0QnppTzNTeVBtQ2p1WDY3VTFJei1SaEFlc3BSSjFSQW5sakRYM1NLaDJkMF9EM2ZFXzBYczF3MzFvU2JRQmRjMmZpbDhlcG94cjRvYzNYMlBDZTliV1JPdzh5RmpLWG82VDB1cXBTTFFGTFBXaVdaUkpwNlBiSzR3dE5S?oc=5",
+        "published_at": "2024-08-06T07:00:00+00:00",
+        "representative_place": "Netflix / Los Gatos representative",
+        "place_label": "米国-カリフォルニア州-ロスガトス-Netflix代表点",
+        "sort_place_label": "米国-カリフォルニア州-ロスガトス-Netflix代表点",
+        "geocode_query": "Netflix Los Gatos video game strategy Fast Company",
+        "place_type": "company_video_game_strategy_representative",
+        "location_precision": "city",
+        "place_reason": "The Fast Company item is about Netflix's video game strategy, a company-level strategy article rather than an India-specific studio item despite the feed query. Use Netflix's Los Gatos corporate representative point rather than leaving the article unresolved.（一致語: Netflix’s video game strategy comes into focus - Fast Company）",
+        "confidence": 0.52,
+        "rule_id": "game_all_20260709_netflix_video_game_strategy_los_gatos_202408",
+        "matched_text": "Netflix’s video game strategy comes into focus - Fast Company",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.1215,
           47.674
         ]
@@ -18204,6 +18407,33 @@
         "confidence": 0.3,
         "rule_id": "game_all_20260709_sacred_games_indian_mythology_mumbai_202405",
         "matched_text": "Sacred Games: How Indian mythology is taking over gaming consoles - The Economic Times",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9842,
+          14.5995
+        ]
+      },
+      "properties": {
+        "title": "Filipino game Snake.io instrumental in Neuralink progress - YugaTech",
+        "source": "YugaTech",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNelU4QzFEUzlmMnhzZ0ZKUUdsVGlpb1VpeFUtamNPRjBwWHBUQ1NUU3lGdkdwMzhhcDlLdS11clNQOWdYZ01fSXNTXzFpZ0NyZE5UelRJZUtDNG1QelBaWkVwQjNhZ0hTRmo5Qm1XaERKWEN1a2lHb0NZcUlkREJ5ZHVJSlZPQVN0NjVpT1Mwd1ZWQQ?oc=5",
+        "published_at": "2024-05-20T07:00:00+00:00",
+        "representative_place": "Snake.io Filipino-game article / Manila representative",
+        "place_label": "フィリピン-マニラ首都圏-Snake.io代表点",
+        "sort_place_label": "フィリピン-マニラ首都圏-Snake.io代表点",
+        "geocode_query": "Filipino game Snake.io Neuralink progress Manila representative YugaTech",
+        "place_type": "filipino_game_article_city_representative_uncertain_developer",
+        "location_precision": "city",
+        "place_reason": "The title identifies Snake.io as a Filipino game used in a Neuralink-progress story. The generated record does not expose a precise developer office, so Manila/Metro Manila is used as a Filipino game-industry representative with uncertainty explicitly retained.（一致語: Filipino game Snake.io instrumental in Neuralink progress - YugaTech）",
+        "confidence": 0.34,
+        "rule_id": "game_all_20260709_snake_io_neuralink_manila_202405",
+        "matched_text": "Filipino game Snake.io instrumental in Neuralink progress - YugaTech",
         "match_source": "known_place_title"
       }
     },
@@ -19292,6 +19522,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.4194,
+          37.7749
+        ]
+      },
+      "properties": {
+        "title": "Clash of Clans: Tips & Tricks From Pro-gamers in Nigeria, Africa’s Largest Gaming Community - IGN Africa",
+        "source": "IGN Africa",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUFhWQlZrd2NaSUt1emlMeG5GTVJvTWNFTXBEMlV0ZURsZWdidVhLZ21YZXJyR25PRGV1WFFHYlZVd3lMQVJFMTVINnVRYWxSaVJ3RjhBalVXU3V3bGViT2lEOTVCbWVuUlhzeHQ4X2diVmhQSVNvMVNWbG50RDRsZmhVVldyTTl4MVppSFlZMVF0VHlCc1NhSlR2dy1nbXFrRjYwdWFmWkdRbTVqYkFxdDRxaE5xUmJ5OEduREM5VmdxNnA1aFJHTS1QZHI1RVE0?oc=5",
+        "published_at": "2023-10-20T07:00:00+00:00",
+        "representative_place": "Unity / San Francisco",
+        "place_label": "米国-カリフォルニア州-サンフランシスコ-Unity",
+        "sort_place_label": "米国-カリフォルニア州-サンフランシスコ-Unity",
+        "geocode_query": "Unity Technologies San Francisco California United States",
+        "place_type": "game_technology_company_site",
+        "location_precision": "city",
+        "place_reason": "UnityによるSupersonic売却・ironSource Ads Network終了の記事なので、広告ネットワーク一般ではなく意思決定主体Unityの本社都市San Franciscoに置く。（一致語: Unity）",
+        "confidence": 0.74,
+        "rule_id": "observed_unity_supersonic_ironsource_san_francisco_202603",
+        "matched_text": "Unity",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           103.8198,
           1.3521
         ]
@@ -19392,6 +19649,33 @@
         "confidence": 0.4,
         "rule_id": "game_all_20260709_award_winning_filipino_indie_games_manila_202309",
         "matched_text": "These award-winning Filipino indie games are fruits of passion, process - Philstar.com",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0122,
+          52.2297
+        ]
+      },
+      "properties": {
+        "title": "Zakazane raises $1M for game studio packed with Eastern European veterans - GamesBeat",
+        "source": "GamesBeat",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTkxXZ1JrQ1lWMzNGT25LWVZzUDZ1T3FRaWxDWkU5dGktVHk5QWFsNzNzV3VQOWtORmFkTTdqbDVkNk5WSGtVUXpKcmpuTHhRREVmUHd4ckdPRU96RFpucUFTbi10SEVKVXFtRmRTT3FRRm9UZGhfQ0Z1VlFnc0lwX090eVBPajRCRzg2eTQ2SlVxTXBlWFpKZzJiZw?oc=5",
+        "published_at": "2023-09-28T07:00:00+00:00",
+        "representative_place": "Zakazane / Warsaw representative",
+        "place_label": "ポーランド-ワルシャワ",
+        "sort_place_label": "ポーランド-ワルシャワ",
+        "geocode_query": "Zakazane game studio Eastern European veterans Warsaw",
+        "place_type": "game_studio_funding_city_representative_uncertain_office",
+        "location_precision": "country_city",
+        "place_reason": "The generated unresolved item is a funding article about Zakazane, described as a game studio with Eastern European veterans. The unresolved record does not expose the legal office or exact operating city, so use Warsaw as a low-confidence Poland/Eastern-Europe studio representative rather than GamesBeat or a non-point Eastern Europe placement. This should be refined if official company records identify a different city.（一致語: Zakazane raises $1M for game studio packed with Eastern European veterans - GamesBeat）",
+        "confidence": 0.34,
+        "rule_id": "game_all_20260709_zakazane_raises_1m_warsaw_202309",
+        "matched_text": "Zakazane raises $1M for game studio packed with Eastern European veterans - GamesBeat",
         "match_source": "known_place_title"
       }
     },
@@ -19527,33 +19811,6 @@
         "confidence": 0.36,
         "rule_id": "game_all_20260709_pinoy_indie_games_educate_manila_202308",
         "matched_text": "These Pinoy Indie Games prove that gaming can also educate audiences - SPIN.ph: Sports Interactive Network Philippines",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.9842,
-          14.5995
-        ]
-      },
-      "properties": {
-        "title": "Gaming god? These Filipino mythology-inspired games can make you one - INQUIRER.net USA",
-        "source": "INQUIRER.net USA",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQnlheXdwcWFlZEJsc2JZdUFuRWhmLTFhS1lyenZtNTYxeWppblZKTFNtc2dGUUF2Tm1pRnlUR0xHRTBvWXBJSmM3T0xSVXB3VE9pa1hIbUV3OWQ1dWFvYVdMWUduY3dqNnJFWTFSNlNpWlBEdTV4X1V5NGZJekttaFZGVWROa0dGVEh6d2lMQldJeV83TmZLLVZvaktRR2xM?oc=5",
-        "published_at": "2023-08-24T07:00:00+00:00",
-        "representative_place": "Filipino mythology-inspired games / Manila representative",
-        "place_label": "フィリピン-マニラ首都圏-マニラ",
-        "sort_place_label": "フィリピン-マニラ首都圏-マニラ",
-        "geocode_query": "Filipino mythology inspired games Manila representative",
-        "place_type": "national_game_culture_roundup_city_representative_uncertain_subject_location",
-        "location_precision": "city",
-        "place_reason": "The generated unresolved item is a Philippine games/culture roundup about mythology-inspired games. The unresolved record does not expose one studio, developer city, or specific title as the article focus, so use Manila as a low-confidence Philippine cultural-games representative. This is not an exact studio or setting coordinate.（一致語: Gaming god? These Filipino mythology-inspired games can make you one - INQUIRER.net USA）",
-        "confidence": 0.36,
-        "rule_id": "game_all_20260709_filipino_mythology_inspired_games_manila_202308",
-        "matched_text": "Gaming god? These Filipino mythology-inspired games can make you one - INQUIRER.net USA",
         "match_source": "known_place_title"
       }
     },
@@ -19824,33 +20081,6 @@
         "confidence": 0.34,
         "rule_id": "game_all_20260709_african_youth_gaming_campuses_kampala_202306",
         "matched_text": "Investors train eyes on African youth with gaming campuses - The Independent Uganda",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.1297,
-          47.6401
-        ]
-      },
-      "properties": {
-        "title": "The post-console future: where Xbox is looking for its next big hit | Games - The Guardian",
-        "source": "The Guardian",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUkdydkJ4VlJRbi1KOTJuUG5NR2k5TVN5YzlydzdNRFpDR2tTWURtaFJlUi1XMWdTVWNwUWxPUU9jRFduRmJHUnpvenY1bEIwdGlpUk5EQTNGLUJpZFR4cU0ySnN0ZXBxVlRXNF93Qm92SjVya1F6dzVWVUFzUGRsNE4wSmluUmFyT1QwV0dndTZEYVVuRENmWUZ1RkFtUnVfOElpekVxQ2FzeUtJVDdjTE1HN0kxNnZJZkdNT1hHYVRaZDM4UzMzVUJ2RTk?oc=5",
-        "published_at": "2023-05-23T07:00:00+00:00",
-        "representative_place": "Microsoft / One Microsoft Way Redmond campus",
-        "place_label": "米国-ワシントン州-レドモンド-One Microsoft Way-Microsoft Gaming/Xbox",
-        "sort_place_label": "米国-ワシントン州-レドモンド-One Microsoft Way-Microsoft Gaming/Xbox",
-        "geocode_query": "One Microsoft Way Redmond WA Microsoft Xbox",
-        "place_type": "platform_company_site",
-        "location_precision": "exact_site",
-        "place_reason": "Xbox platform strategy article anchored to Microsoft Redmond. Xbox, Microsoft, console, future, and strategy standalone terms are not used as triggers.（一致語: The post-console future: where Xbox is looking for its next big hit）",
-        "confidence": 0.78,
-        "rule_id": "observed_xbox_post_console_future_redmond_202305",
-        "matched_text": "The post-console future: where Xbox is looking for its next big hit",
         "match_source": "known_place_title"
       }
     },
@@ -20971,8 +21201,8 @@
         ]
       },
       "properties": {
-        "title": "A customized app store for Africa's game developers - DW.com",
-        "source": "DW.com",
+        "title": "A customized app store for Africa's game developers - dw.com",
+        "source": "dw.com",
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5TZF80akZrM19oM0tTdElRQnB4eHRsZDN3dF9INGZMdVZEb0tvRHNHbDBfM0tYZ3JpblZWM0dBQkxsWUl4c0JGMGhPVUpyZWZlZjg0Qk9ublFFc3hjVDBFYlZyS1VMOE5vMnkzVHBBWUNraXc?oc=5",
         "published_at": "2022-07-29T07:00:00+00:00",
         "representative_place": "Africa game developers app store / Lagos representative",
@@ -22213,33 +22443,6 @@
         ]
       },
       "properties": {
-        "title": "‘After School Afterlife’ Mixes Platforming and Rhythm Gameplay With Peranakan Aesthetics - IGN Southeast Asia",
-        "source": "IGN Southeast Asia",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbGF1X3oxS1E4MThTMHpnRUoxX3JXWEFfYnc2SGJ2YnRnTnF6Q0NxM2dWekhITkJnN1ZCLTdjei1YalpReU1ycWozYjVvSXpCNzFSQmRsZmwxdjREUUVJYmZoNlZMNko4bl9ubUtxd1dKQURVNlR5NjZlQjlmREp1bmdodm9nSjNXMGJ3S0g1dFhSbi16Q0p5dS04LTJTcUxmaGJ6QUFoci0zVUFSVHIybjN2X21BRVVQblFkdWVNUmxFc0ZCd2lBcDBRb0RnZw?oc=5",
-        "published_at": "2021-04-21T07:00:00+00:00",
-        "representative_place": "Virtuos / Fusionopolis, Singapore",
-        "place_label": "シンガポール-Fusionopolis-Virtuos",
-        "sort_place_label": "シンガポール-Fusionopolis-Virtuos",
-        "geocode_query": "Virtuos Fusionopolis Singapore",
-        "place_type": "game_services_company_site",
-        "location_precision": "city_district",
-        "place_reason": "Virtuosの東南アジア開発体制に関する記事なので、地域代表点ではなく同社本社所在地であるSingapore / Fusionopolisに置く。（一致語: Southeast Asia）",
-        "confidence": 0.78,
-        "rule_id": "observed_virtuos_southeast_asia_singapore_202512",
-        "matched_text": "Southeast Asia",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          103.7873,
-          1.2992
-        ]
-      },
-      "properties": {
         "title": "Malaysia-Based Studio Develops Video Game For Balenciaga - IGN Southeast Asia",
         "source": "IGN Southeast Asia",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUS14U1RMNi1CcExwbWVzM3RCNE15aHNrejlpbUJrY1hYZGNGa2lWd1JxVGNvZnN6UEd0VzFRRWNkSHpNQmlwR0pDZFdTRDZsOThkS044TWwwU2JIVUNCZjc3bkdHMklldFUxWk5vZW5iSE1oV0xYaTVCRG1rdUR4VVBBVkE3dVRROHlUTnAtMVI1bThjMGlkNmk3ODVfTHVsdnd3VmR3RQ?oc=5",
@@ -22335,6 +22538,33 @@
         "confidence": 0.76,
         "rule_id": "observed_savvy_moonton_riyadh_202603",
         "matched_text": "Moonton",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7516,
+          35.6581
+        ]
+      },
+      "properties": {
+        "title": "新作スマホゲーム『FAIRY TAIL ギルドマスターズ』の制作を発表！事前登録はまもなく開始 - ASCII.jp",
+        "source": "ASCII.jp",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5YVzdETXJfR0czeENFOWpCaFF4U1JUNno5WlcxV3pTTko3WjB2UWRibHh5TWhRWVh4VW1ZRFVmanluNkREWnFidzNEb0dSdlVVb0Y4Vw?oc=5",
+        "published_at": "2021-03-19T07:00:00+00:00",
+        "representative_place": "Bandai Namco Entertainment / Minato, Tokyo representative",
+        "place_label": "日本-東京都-港区-Bandai Namco Entertainment / SAO Memory Defrag",
+        "sort_place_label": "日本-東京都-港区-Bandai Namco Entertainment / SAO Memory Defrag",
+        "geocode_query": "Bandai Namco Entertainment Minato Tokyo Sword Art Online Memory Defrag",
+        "place_type": "mobile_game_publisher_district_representative_uncertain_title_team",
+        "location_precision": "district",
+        "place_reason": "The legacy active entry treated the Sword Art Online Memory Defrag preregistration item as a broad Japan mobile-game launch-market topic. Recheck confirmed the game as a Bandai Namco Entertainment mobile title, and public company context places Bandai Namco Entertainment in Minato, Tokyo after its 2016 move. This override therefore moves the article from a Japan country representative point to a Minato, Tokyo publisher-context representative point. This is not a confirmed title-team office, article venue, exact Bandai Namco Entertainment office coordinate, or media office; replace it if the article body, official game page, store page, or company profile identifies a more precise publisher/developer/operator site.（一致語: 事前登録）",
+        "confidence": 0.64,
+        "rule_id": "observed_sao_memory_defrag_bandai_namco_minato_tokyo_201801",
+        "matched_text": "事前登録",
         "match_source": "known_place_title"
       }
     },
@@ -23207,33 +23437,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.7516,
-          35.6581
-        ]
-      },
-      "properties": {
-        "title": "『オーバーロード』原作のスマホゲーム「MASS FOR THE DEAD」英語版配信が決定！世界100以上の国と地域での配信に向けて事前登録を開始！ - PR TIMES",
-        "source": "PR TIMES",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA3TWkxYVpyNWh5YXlBS3RUVkcyTlhNdFBPS05WOXZPTDJUUndoTjFWWlpyS0xGSllXMFJqYlJHbHVVTzFJVFJZSEhHMEVtbUNLbjB5U2ZIdVBVVWhEd0ptNUpKUHp1cmlyblE?oc=5",
-        "published_at": "2020-04-02T07:00:00+00:00",
-        "representative_place": "Bandai Namco Entertainment / Minato, Tokyo representative",
-        "place_label": "日本-東京都-港区-Bandai Namco Entertainment / SAO Memory Defrag",
-        "sort_place_label": "日本-東京都-港区-Bandai Namco Entertainment / SAO Memory Defrag",
-        "geocode_query": "Bandai Namco Entertainment Minato Tokyo Sword Art Online Memory Defrag",
-        "place_type": "mobile_game_publisher_district_representative_uncertain_title_team",
-        "location_precision": "district",
-        "place_reason": "The legacy active entry treated the Sword Art Online Memory Defrag preregistration item as a broad Japan mobile-game launch-market topic. Recheck confirmed the game as a Bandai Namco Entertainment mobile title, and public company context places Bandai Namco Entertainment in Minato, Tokyo after its 2016 move. This override therefore moves the article from a Japan country representative point to a Minato, Tokyo publisher-context representative point. This is not a confirmed title-team office, article venue, exact Bandai Namco Entertainment office coordinate, or media office; replace it if the article body, official game page, store page, or company profile identifies a more precise publisher/developer/operator site.（一致語: 事前登録）",
-        "confidence": 0.64,
-        "rule_id": "observed_sao_memory_defrag_bandai_namco_minato_tokyo_201801",
-        "matched_text": "事前登録",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           18.0686,
           59.3293
         ]
@@ -23244,12 +23447,12 @@
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE12UDB3V3hOdFlYb1dBenZQV2lLVGNiVjNUb2daUENnM2UwNWhhRkNObjhQVWxQX0FlZGhfMlZiazB0ZC1zMGlkcWVYemRyMVAyN3d1LVJYbEY4RTBySHZic1NkdFZCYk05THFLUg?oc=5",
         "published_at": "2020-03-27T07:00:00+00:00",
         "representative_place": "Avalanche Studios / Stockholm studio area",
-        "place_label": "スウェーデン-ストックホルム-Avalanche Studios",
-        "sort_place_label": "スウェーデン-ストックホルム-Avalanche Studios",
+        "place_label": "Avalanche Studios / Stockholm studio area",
+        "sort_place_label": "Avalanche Studios / Stockholm studio area",
         "geocode_query": "Avalanche Studios Stockholm Sweden",
         "place_type": "studio_site",
-        "location_precision": "city",
-        "place_reason": "Avalanche Studios主体の記事だけを扱う。studio_areaはスコア表に未定義なので、番地未固定のスタジオ周辺はcityに正規化する（一致語: Avalanche Studiosが「3分社化」）",
+        "location_precision": "studio_area",
+        "place_reason": "Task 1 precision cleanup for Avalanche Studios / Just Cause developer articles. The older file 48 entry used generic city precision. Public reference context supports Stockholm as Avalanche Studios Group's base, but the company has multiple studios and this pass did not confirm a stable exact address for the article subject, so `studio_area` is used instead of a false street-level point.（一致語: Avalanche Studiosが「3分社化」）",
         "confidence": 0.72,
         "rule_id": "observed_avalanche_studios_just_cause_stockholm_202604",
         "matched_text": "Avalanche Studiosが「3分社化」",
