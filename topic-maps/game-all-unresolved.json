@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "created_at": "2026-07-09T08:34:15.502187+00:00",
+  "created_at": "2026-07-09T12:08:53.593846+00:00",
   "stats": {
     "feed_id": "game-all",
     "feed_label": "ゲーム",
@@ -26,7 +26,7 @@
       "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja"
     ],
     "rss_url": "https://www.gamedeveloper.com/rss.xml",
-    "fetched": 1002,
+    "fetched": 1003,
     "fetched_by_url": {
       "https://www.gamedeveloper.com/rss.xml": 50,
       "https://www.gamesindustry.biz/feed": 100,
@@ -45,12 +45,12 @@
       "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Southeast%20Asia&hl=en-SG&gl=SG&ceid=SG:en": 78,
       "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA&hl=ja&gl=JP&ceid=JP:ja": 73,
       "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja": 79,
-      "https://news.google.com/rss/search?q=%E6%B5%B7%E5%A4%96%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA&hl=ja&gl=JP&ceid=JP:ja": 77,
+      "https://news.google.com/rss/search?q=%E6%B5%B7%E5%A4%96%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA&hl=ja&gl=JP&ceid=JP:ja": 79,
       "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja": 78
     },
-    "filtered": 903,
-    "resolved": 898,
-    "unresolved": 5,
+    "filtered": 901,
+    "resolved": 890,
+    "unresolved": 11,
     "rules": 384,
     "known_places": 1357,
     "loaded_data_files": [
@@ -1359,6 +1359,46 @@
   },
   "unresolved": [
     {
+      "title": "June’s top mobile game downloads: Arrows, Amaze Go, Free Fire Max, Roblox, more",
+      "link": "https://mobilegamer.biz/junes-top-mobile-game-downloads-arrows-amaze-go-free-fire-max-roblox-more/",
+      "source": "Mobilegamer.biz",
+      "published_at": "2026-07-09T11:11:47+00:00",
+      "summary": "There are three Arrows games in the top ten and Block Blast's sudden decline continues in AppMagic's estimates for June.",
+      "feed_url": "https://mobilegamer.biz/feed/"
+    },
+    {
+      "title": "Final Fantasy VII Ever Crisis to end service in October",
+      "link": "https://www.pocketgamer.biz/final-fantasy-vii-ever-crisis-to-end-service-in-october/",
+      "source": "Latest Updates | PocketGamer.biz",
+      "published_at": "2026-07-09T10:49:00+00:00",
+      "summary": "Square Enix has revealed that Final Fantasy VII Ever Crisis will end service on October 6th, 2026. \n\nIn a message to players, the game's management team said it had made the decision after determining it would be difficult to continue providing the experience it aimed to deliver.  ... [ MORE ]",
+      "feed_url": "https://www.pocketgamer.biz/rss/"
+    },
+    {
+      "title": "Nintendo to shut down Mario Kart Tour in September",
+      "link": "https://www.pocketgamer.biz/nintendo-to-shut-down-mario-kart-tour-in-september/",
+      "source": "Latest Updates | PocketGamer.biz",
+      "published_at": "2026-07-09T10:02:00+00:00",
+      "summary": "Nintendo has revealed that Mario Kart Tour for smart devices will end service on September 29th 2026.\n\nThe company thanked players for supporting the game since its launch and confirmed that in-game purchases and subscriptions have already begun winding down ahead of the closure. ... [ MORE ]",
+      "feed_url": "https://www.pocketgamer.biz/rss/"
+    },
+    {
+      "title": "\"The business logic is understandable. The human cost is devastating\": The Mobile Mavens on Xbox's restructuring",
+      "link": "https://www.pocketgamer.biz/the-business-logic-is-understandable-the-human-cost-is-devastating-the-mobile-mavens-on-xboxs-restructuring/",
+      "source": "Latest Updates | PocketGamer.biz",
+      "published_at": "2026-07-09T09:52:00+00:00",
+      "summary": "Microsoft's latest overhaul of Xbox marks one of the biggest strategic resets in the company's history. The company is cutting 3,200 roles through FY27, divesting four studios and is reorganising its leadership.\n\nAlongside the restructuring, Xbox CEO Asha Sharma has outlined an ambitious vision to reach more than one billion daily active users, while King and Mojang are set to report directly to Sharma. ... [ MORE ]",
+      "feed_url": "https://www.pocketgamer.biz/rss/"
+    },
+    {
+      "title": "Talking Tech and esports with Nicholas Holden from ACGL",
+      "link": "https://www.nag.co.za/2026/07/09/talking-tech-and-esports-with-nicholas-holden-from-acgl/",
+      "source": "NAG",
+      "published_at": "2026-07-09T08:57:44+00:00",
+      "summary": "In this week’s interview, I caught up with Nicholas Holden, Co-Founder and MD at ACGL, one of South Africa’s largest esports organisations, to talk about their upcoming tournament and the state of esports in this country. The headline story is the African Gaming Championship, which returns to GrandWest in Cape Town from the 16th to the 19th of July 2026, and according to Nicholas, the plan is bigger than just another weekend of brackets and people shouting callouts across a […] \n The post  Talking Tech and esports with Nicholas Holden from ACGL  appeared first on  NAG .",
+      "feed_url": "https://www.nag.co.za/feed/"
+    },
+    {
       "title": "Assassin’s Creed Black Flag Resynced Review: I Still Say Pirates Aren’t Assassins, But Fine, I Get It Now",
       "link": "https://www.nag.co.za/2026/07/09/assassins-creed-black-flag-resynced-review-i-still-say-pirates-arent-assassins-but-fine-i-get-it-now/",
       "source": "NAG",
@@ -1383,20 +1423,28 @@
       "feed_url": "https://www.nag.co.za/feed/"
     },
     {
+      "title": "存続の瀬戸際か…『ショベルナイト』開発元、6年かけた新作延期し資金も使い果たした状況 - GameBusiness.jp",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1HaFhiR194MDUyODRFSEk0cW1tYUNRLTVUYlhfS2lKbGt6RU93ODFWcVlzcVZSRXVUTlMtNzZaRE50ZkdTbHZWaGJlaWszbGRDWUdOUEo2ZWlDWDV4amJ0ckx4R1ltaDdS?oc=5",
+      "source": "GameBusiness.jp",
+      "published_at": "2025-12-03T08:00:00+00:00",
+      "summary": "存続の瀬戸際か…『ショベルナイト』開発元、6年かけた新作延期し資金も使い果たした状況    GameBusiness.jp",
+      "feed_url": "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "title": "India Tops Charts for Mobile Gaming - games.gg",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAtcFJzOXM2ZWFhYXFKSTJjYVpELUxDYlI1eGtDX0hMRGhBQXBVUTdYaE5JZ2pGQWo4dVFJdDF1V2tCZm56TWlJcGxKN2hwVS05MHlzYlJON3FTbXc4TVJHX292SGNuU0pOQlE?oc=5",
+      "source": "games.gg",
+      "published_at": "2025-12-02T08:00:00+00:00",
+      "summary": "India Tops Charts for Mobile Gaming    games.gg",
+      "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20India&hl=en-IN&gl=IN&ceid=IN:en"
+    },
+    {
       "title": "Tencent’s gaming cash cow Honor of Kings sets sights on MENA - TechCrunch",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUXRPUWVnRl9jcFl2VzZ0b0pYTWdWTV8tclNNamRVN2wyVHE4NVRUblo2X3BXeERIZTRqWVczaUhNY3IzdGVQVGVTRjV1TE5oM2hFUi1rOHpDZU9PV2JFNklPdFRQanZNOEVRd0tBSDY5bEtqXzZKYmZCbTF4WVlIYmE1dkdqRXpac3VDdUZFUWUtR3ZOOHRQYnln?oc=5",
       "source": "TechCrunch",
       "published_at": "2024-02-20T08:00:00+00:00",
       "summary": "Tencent’s gaming cash cow Honor of Kings sets sights on MENA    TechCrunch",
       "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Eastern%20Europe&hl=en&gl=PL&ceid=PL:en"
-    },
-    {
-      "title": "PHL seen to become Asia-Pacific gaming leader - rpnradio.com",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5WV0xFenh4SXVWdm1NQWh1eVlmSEN6TmotbXgxVjNzVVBlVlVZVEZ2R0NZWVh1YTR4bW5aVHRuZ19kdXNfTUFvbHFqUmNhYnRFM01XWFlER21lMGNEcW1MWHhHNHM2U05HQWtSbTNZalRZd242elE?oc=5",
-      "source": "rpnradio.com",
-      "published_at": "2023-09-15T07:00:00+00:00",
-      "summary": "PHL seen to become Asia-Pacific gaming leader    rpnradio.com",
-      "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Philippines&hl=en-PH&gl=PH&ceid=PH:en"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "type": "FeatureCollection",
   "properties": {
-    "created_at": "2026-07-09T08:34:15.502187+00:00",
-    "count": 116,
+    "created_at": "2026-07-09T12:08:53.593846+00:00",
+    "count": 113,
     "stats": {
       "feed_id": "game-general",
       "feed_label": "ゲーム一般ニュース",
@@ -13,16 +13,16 @@
         "https://news.google.com/rss/search?q=%E4%BB%BB%E5%A4%A9%E5%A0%82%20PlayStation%20Xbox%20Steam%20%E3%82%B2%E3%83%BC%E3%83%A0&hl=ja&gl=JP&ceid=JP:ja"
       ],
       "rss_url": "https://news.google.com/rss/search?q=video%20games%20gaming%20news%20Nintendo%20PlayStation%20Xbox%20Steam&hl=en&gl=US&ceid=US:en",
-      "fetched": 289,
+      "fetched": 287,
       "fetched_by_url": {
         "https://news.google.com/rss/search?q=video%20games%20gaming%20news%20Nintendo%20PlayStation%20Xbox%20Steam&hl=en&gl=US&ceid=US:en": 75,
-        "https://news.google.com/rss/search?q=game%20release%20update%20Nintendo%20PlayStation%20Xbox%20Steam&hl=en&gl=US&ceid=US:en": 75,
-        "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%20%E6%96%B0%E4%BD%9C%20Switch%20PS5%20Xbox%20Steam&hl=ja&gl=JP&ceid=JP:ja": 77,
+        "https://news.google.com/rss/search?q=game%20release%20update%20Nintendo%20PlayStation%20Xbox%20Steam&hl=en&gl=US&ceid=US:en": 74,
+        "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%20%E6%96%B0%E4%BD%9C%20Switch%20PS5%20Xbox%20Steam&hl=ja&gl=JP&ceid=JP:ja": 76,
         "https://news.google.com/rss/search?q=%E4%BB%BB%E5%A4%A9%E5%A0%82%20PlayStation%20Xbox%20Steam%20%E3%82%B2%E3%83%BC%E3%83%A0&hl=ja&gl=JP&ceid=JP:ja": 78
       },
-      "filtered": 255,
-      "resolved": 116,
-      "unresolved": 139,
+      "filtered": 253,
+      "resolved": 113,
+      "unresolved": 140,
       "rules": 384,
       "known_places": 1357,
       "loaded_data_files": [
@@ -1582,33 +1582,6 @@
         ]
       },
       "properties": {
-        "title": "「Summer Game Fest 2026」発表内容まとめ【SGF2026】 - GAME Watch",
-        "source": "GAME Watch",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9xRHpMd0J4VjhsWDhXOHVsOUYtUlVpTkpqN3lZUkdVTDdxLTZnRVUtWjJfRTlGU0dQQW5LemlpS0hTMVkxb1BZU0tRVGZwSHFuZnZVRm1JUzM2S3h5S29KS1ZBTFdXZw?oc=5",
-        "published_at": "2026-06-06T07:00:00+00:00",
-        "representative_place": "Summer Game Fest 2026 / Dolby Theatre",
-        "place_label": "米国-カリフォルニア州-ロサンゼルス-Dolby Theatre-Summer Game Fest 2026",
-        "sort_place_label": "米国-カリフォルニア州-ロサンゼルス-Dolby Theatre-Summer Game Fest 2026",
-        "geocode_query": "Dolby Theatre 6801 Hollywood Blvd Los Angeles CA Summer Game Fest 2026",
-        "place_type": "event_site",
-        "location_precision": "event_site",
-        "place_reason": "Summer Game Fest 2026 showcase article anchored to the confirmed Dolby Theatre event venue. Inglewood city and generic showcase terms are not used.（一致語: Summer Game Fest 2026）",
-        "confidence": 0.82,
-        "rule_id": "observed_summer_game_fest_2026_showcases_inglewood",
-        "matched_text": "Summer Game Fest 2026",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.34,
-          34.1028
-        ]
-      },
-      "properties": {
         "title": "Here's Everything Announced During The Summer Game Fest 2026 Showcase - Game Informer",
         "source": "Game Informer",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSnEzbm84OUtTcmQ4eXR6UXRGLXFiSzhFTUxrbWxvdUNxSEJOR3lHUklMU0lQUmFNU3dVTEN4Rkw4MDVXajRzcmYwQzVPczF6Rm1zQTQxeVJOU1hhYUVSc3U4UVZrSmZ1RDhuLWdUVzhveWx6VUdraWhhdVZydWRjcWx5RUFiNGpSclQwLThFR3dqOWUyU0o4RktWNXpIcUY2emNjSFJ1M3AyWjJhczhOUlQwdw?oc=5",
@@ -1747,33 +1720,6 @@
         "title": "Valve’s Steam Deck gets huge price increase, 1TB OLED model now $949 - Video Games Chronicle",
         "source": "Video Games Chronicle",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUlFhNzRlcXhhcjlKc29neHJoeE5XcUpzczhXd2pEQm9iNTVqYVVIdXNaYm5jelJtcXNZMjZ3WF9UbTB4Q05fMU9ud3hFOGhQQTUxQVFoLTU2TGc4clVBTlRkai1yX29vNGtsMDVIb0Q4aWc4ZEJPcDA2SGJ4bHNlMl9WR2c3bnllYmFJcmlDaV8wUGJYU28wY2pOUmFFNEx5ZHN6bUN4OHdRX3M?oc=5",
-        "published_at": "2026-05-27T07:00:00+00:00",
-        "representative_place": "Valhalla Game Studios / Tokyo",
-        "place_label": "日本-東京-Valhalla Game Studios / RockShot",
-        "sort_place_label": "日本-東京-Valhalla Game Studios / RockShot",
-        "geocode_query": "Valhalla Game Studios Tokyo RockShot",
-        "place_type": "game_development_studio_announcement_city_uncertain_office",
-        "location_precision": "city",
-        "place_reason": "The legacy active entry treated the RockShot / Devil's Third developer item as a broad launch-market and access-restriction topic. A later repository entry for the same article already anchors the development subject to Valhalla Game Studios in Tokyo. This override aligns the older multi-region entry with the later same-topic Tokyo studio representative. This is not a confirmed exact Valhalla Game Studios office address, Steam distribution endpoint, media office, or article venue; replace it if the article body or an official company source identifies a more precise studio location.（一致語: Steam）",
-        "confidence": 0.62,
-        "rule_id": "observed_rockshot_valhalla_game_studios_tokyo_legacy_201805",
-        "matched_text": "Steam",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.6503,
-          35.6762
-        ]
-      },
-      "properties": {
-        "title": "初代『サブノーティカ』、今になって再び「Steam同接5万人超え」で過去最大の人気に。新作発売で、初代も一気に返り咲き - AUTOMATON",
-        "source": "AUTOMATON",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE40QlZGeTMyUEMtMEJ6dGVuYkUxdVM0cFJzVVl4dTBENkpRYnNCZmoycEZlSWtkNWpPc09rOHNHSWY0X1FzOFN0ZHRVSTk1aXhDNkE4VnJqdk1HTEJtUVpuTDhfR0VhaXN0ZFVRRFlTUmcxQ09CT0YwMTdkUUpIZw?oc=5",
         "published_at": "2026-05-27T07:00:00+00:00",
         "representative_place": "Valhalla Game Studios / Tokyo",
         "place_label": "日本-東京-Valhalla Game Studios / RockShot",
@@ -2203,9 +2149,9 @@
         ]
       },
       "properties": {
-        "title": "電車でドリフト！トリックアクションレース 『電車アタック(Denshattack!)』ダウンロード版が6月18日に Steam/Nintendo Switch(TM) 2/PlayStation(R)5/Xboxで 配信決定！無料体験版配信中！ | Game Source Entertainment - アットプレス",
-        "source": "アットプレス",
-        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1jOHFiNEZzakszU3kzNDZvTDh3c0xlcjVfV3lSNUxWSWRYZmNzRXlfc0Q0Q0U1RjBKR1BSa0pTai0tUVgwZzlxSmJoWjB2dw?oc=5",
+        "title": "『電車アタック』が6月18日配信決定！ Steam/Nintendo Switch 2/PlayStation 5/Xbox向け - 電ファミニコゲーマー",
+        "source": "電ファミニコゲーマー",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE95dzRKTHliek9teDdLSzI1amlYQnJSU2lXWFBZak54RW1PMDJBM0RKVFYxTU5ZU3d6dTNFaU1FU1dobVdibDB6UFFJVmdzUU5lTE1ZclNYaXY?oc=5",
         "published_at": "2026-03-17T07:00:00+00:00",
         "representative_place": "Bandai Namco Entertainment / Minato, Tokyo representative",
         "place_label": "日本-東京都-港区-Bandai Namco Entertainment / SAO Memory Defrag",
@@ -2230,9 +2176,9 @@
         ]
       },
       "properties": {
-        "title": "『電車アタック』が6月18日配信決定！ Steam/Nintendo Switch 2/PlayStation 5/Xbox向け - 電ファミニコゲーマー",
-        "source": "電ファミニコゲーマー",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE95dzRKTHliek9teDdLSzI1amlYQnJSU2lXWFBZak54RW1PMDJBM0RKVFYxTU5ZU3d6dTNFaU1FU1dobVdibDB6UFFJVmdzUU5lTE1ZclNYaXY?oc=5",
+        "title": "電車でドリフト！トリックアクションレース 『電車アタック(Denshattack!)』ダウンロード版が6月18日に Steam/Nintendo Switch(TM) 2/PlayStation(R)5/Xboxで 配信決定！無料体験版配信中！ | Game Source Entertainment - アットプレス",
+        "source": "アットプレス",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1jOHFiNEZzakszU3kzNDZvTDh3c0xlcjVfV3lSNUxWSWRYZmNzRXlfc0Q0Q0U1RjBKR1BSa0pTai0tUVgwZzlxSmJoWjB2dw?oc=5",
         "published_at": "2026-03-17T07:00:00+00:00",
         "representative_place": "Bandai Namco Entertainment / Minato, Tokyo representative",
         "place_label": "日本-東京都-港区-Bandai Namco Entertainment / SAO Memory Defrag",
@@ -3526,33 +3472,6 @@
         ]
       },
       "properties": {
-        "title": "Star Wars Battlefront 2 smashes all-time Steam numbers bolstered by social media campaign - Video Games Chronicle",
-        "source": "Video Games Chronicle",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMVpmWGhJZ0dMOHlXOF8xTWFnc2owYnBvaERNV29DN05CNk4zZUhWVzlxMnVIWGlqNGIzeUpJa2t3MTJpd3N6bF9zNF9pallsQlJPc25ZekZ6Wl9VVHdlWjUwSm00UWhsVG4yUk5WODZKSXFoNkxWTTJmb2VlanM2SGZDd2gzbVNDWGJRRkdsaFo0Wk1GMUlwU2pPZ3pXSmcyZU5LTjVlRUthMG4zUTYxMDhaOENPMF9vcHVnZWE1SHFaVDA2OVM0YXF4WQ?oc=5",
-        "published_at": "2025-05-27T07:00:00+00:00",
-        "representative_place": "Valhalla Game Studios / Tokyo",
-        "place_label": "日本-東京-Valhalla Game Studios / RockShot",
-        "sort_place_label": "日本-東京-Valhalla Game Studios / RockShot",
-        "geocode_query": "Valhalla Game Studios Tokyo RockShot",
-        "place_type": "game_development_studio_announcement_city_uncertain_office",
-        "location_precision": "city",
-        "place_reason": "The legacy active entry treated the RockShot / Devil's Third developer item as a broad launch-market and access-restriction topic. A later repository entry for the same article already anchors the development subject to Valhalla Game Studios in Tokyo. This override aligns the older multi-region entry with the later same-topic Tokyo studio representative. This is not a confirmed exact Valhalla Game Studios office address, Steam distribution endpoint, media office, or article venue; replace it if the article body or an official company source identifies a more precise studio location.（一致語: Steam）",
-        "confidence": 0.62,
-        "rule_id": "observed_rockshot_valhalla_game_studios_tokyo_legacy_201805",
-        "matched_text": "Steam",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.6503,
-          35.6762
-        ]
-      },
-      "properties": {
         "title": "不朽の名作JRPG『LUNAR リマスターコレクション』がPS4／Xbox One／Switch／Steamで配信中！ - ASCII.jp",
         "source": "ASCII.jp",
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9sREFfUnlZekY2TkREaEJJRDdnZ3BnMHVmUTFTN29EUTIyVzVwY05JNlM2aFdGcmNtclEtcTlGYzl2bzdUUkV3N291eHZybFlDcVR5ZA?oc=5",
@@ -3783,33 +3702,6 @@
         "confidence": 0.64,
         "rule_id": "observed_sao_memory_defrag_bandai_namco_minato_tokyo_201801",
         "matched_text": "配信決定",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.6503,
-          35.6762
-        ]
-      },
-      "properties": {
-        "title": "「ファンタジーライフｉ グルグルの竜と時をぬすむ少女」の発売日が5月22日に決定！PS5やSteamなど対応プラットフォーム拡大&クロスプレイ対応 - Saiga NAK",
-        "source": "Saiga NAK",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1WZk0xNktxTzdkampkUUhpUXFwMkQwMFJ1ejVGd0dUTHJlekdRREVpMm9pdEtaUjlmTDJPQUF6bDg2aGFGS2tXTHVQTUxMbklDVDFFakNyRWNaWlBXTzk2dERwYkFSR2_SAWxBVV95cUxOYnN4d0RicmJSaHpnVjlseVN0T2RZZ3VHQjd1S1g5Uy1uLWVKMWdmbWZJRC1fcWNpN2ZEQjZrMEsyVmJkN0o0TEtWS25HcjJwQ3NWN182OTkzeElrQk84cGFMUmRXRlJKN0kxTHQ?oc=5",
-        "published_at": "2025-02-14T08:00:00+00:00",
-        "representative_place": "Valhalla Game Studios / Tokyo",
-        "place_label": "日本-東京-Valhalla Game Studios / RockShot",
-        "sort_place_label": "日本-東京-Valhalla Game Studios / RockShot",
-        "geocode_query": "Valhalla Game Studios Tokyo RockShot",
-        "place_type": "game_development_studio_announcement_city_uncertain_office",
-        "location_precision": "city",
-        "place_reason": "The legacy active entry treated the RockShot / Devil's Third developer item as a broad launch-market and access-restriction topic. A later repository entry for the same article already anchors the development subject to Valhalla Game Studios in Tokyo. This override aligns the older multi-region entry with the later same-topic Tokyo studio representative. This is not a confirmed exact Valhalla Game Studios office address, Steam distribution endpoint, media office, or article venue; replace it if the article body or an official company source identifies a more precise studio location.（一致語: Steam）",
-        "confidence": 0.62,
-        "rule_id": "observed_rockshot_valhalla_game_studios_tokyo_legacy_201805",
-        "matched_text": "Steam",
         "match_source": "known_place_title"
       }
     },
@@ -4205,6 +4097,33 @@
         "source": "The Direct",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQLWo2ellzTDVvVURWUW5kY0RKMzUzMHh3ZWJUSGRKLUwzdmUyWE0zYmg4UnplZEY4N0RSVnE4cjhfaXNYY1RPNHI3V0dmVGhVRHNsRU1OTzBwMTJEZzRCQ1BKT2pTUVJEalBHTDZ4c3pyU1RORU42em9OcUdwV210ZlptdWU?oc=5",
         "published_at": "2024-05-06T07:00:00+00:00",
+        "representative_place": "Valhalla Game Studios / Tokyo",
+        "place_label": "日本-東京-Valhalla Game Studios / RockShot",
+        "sort_place_label": "日本-東京-Valhalla Game Studios / RockShot",
+        "geocode_query": "Valhalla Game Studios Tokyo RockShot",
+        "place_type": "game_development_studio_announcement_city_uncertain_office",
+        "location_precision": "city",
+        "place_reason": "The legacy active entry treated the RockShot / Devil's Third developer item as a broad launch-market and access-restriction topic. A later repository entry for the same article already anchors the development subject to Valhalla Game Studios in Tokyo. This override aligns the older multi-region entry with the later same-topic Tokyo studio representative. This is not a confirmed exact Valhalla Game Studios office address, Steam distribution endpoint, media office, or article venue; replace it if the article body or an official company source identifies a more precise studio location.（一致語: Steam）",
+        "confidence": 0.62,
+        "rule_id": "observed_rockshot_valhalla_game_studios_tokyo_legacy_201805",
+        "matched_text": "Steam",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6503,
+          35.6762
+        ]
+      },
+      "properties": {
+        "title": "戦略的なバトルが魅力の神話ファンタジーRPG「刃神のアマテラス」がPS5/PS4/Xbox Series X|S/Xbox One/Switch/Steam向けに配信！ - Gamer",
+        "source": "Gamer",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE56cWlFNTVybkQwZmNLTTlqZWRNejdoVjZQZHd4dkJkb2I1V25BS25IVW5FNlRPSTIyRnQ1WVJHZWlNdUFrMVdPM0I5ZlpZaTJtV191Xw?oc=5",
+        "published_at": "2023-12-22T08:00:00+00:00",
         "representative_place": "Valhalla Game Studios / Tokyo",
         "place_label": "日本-東京-Valhalla Game Studios / RockShot",
         "sort_place_label": "日本-東京-Valhalla Game Studios / RockShot",
