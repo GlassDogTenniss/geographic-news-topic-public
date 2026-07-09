@@ -91,6 +91,7 @@
     const updatedAtBadgeEl = document.getElementById('updatedAtBadge');
 
     const broadLocationPrecisions = new Set(['country', 'state', 'prefecture', 'province', 'admin_area', 'region', 'multi_region', 'union_region', 'continent_region', 'event_area_country', 'studio_area_country', 'publisher_area_country']);
+    const todayNewsZIndexOffset = 100000;
     const tokyoDateFormatter = new Intl.DateTimeFormat('sv-SE', { timeZone: 'Asia/Tokyo', year: 'numeric', month: '2-digit', day: '2-digit' });
 
     let feeds = [];
@@ -118,7 +119,7 @@
     function isTodayPublishedFeature(feature) { return !isKunlunPlaceholder(feature) && isTodayPublishedProperties(feature.properties || {}); }
     function isBroadLocationProperties(p) { const precision = String(p.location_precision || ''); const placeType = String(p.place_type || ''); if (p.pin_color === 'yellow' || p.pinColor === 'yellow') return true; if (broadLocationPrecisions.has(precision) || precision.endsWith('_country')) return true; return placeType.endsWith('_region'); }
     function isBroadLocationFeature(feature) { return !isKunlunPlaceholder(feature) && isBroadLocationProperties(feature.properties || {}); }
-    function markerOptionsForFeature(feature) { if (isKunlunPlaceholder(feature)) return { icon: kunlunGrayIcon }; if (isTodayPublishedFeature(feature)) return { icon: todayRedIcon }; if (isBroadLocationFeature(feature)) return { icon: broadYellowIcon }; return undefined; }
+    function markerOptionsForFeature(feature) { if (isKunlunPlaceholder(feature)) return { icon: kunlunGrayIcon }; if (isTodayPublishedFeature(feature)) return { icon: todayRedIcon, zIndexOffset: todayNewsZIndexOffset }; if (isBroadLocationFeature(feature)) return { icon: broadYellowIcon }; return undefined; }
     function countryColors(country) { let hash = 0; for (const char of country) hash = ((hash * 31) + char.charCodeAt(0)) >>> 0; const hue = hash % 360; return { bg: `hsl(${hue} 70% 97%)`, border: `hsl(${hue} 45% 78%)`, header: `hsl(${hue} 70% 95%)` }; }
     function applyCountryStyle(el, country) { const colors = countryColors(country); el.style.setProperty('--country-bg', colors.bg); el.style.setProperty('--country-border', colors.border); el.style.setProperty('--country-header-bg', colors.header); }
     function ensureCountryIndicator() { if (countryIndicatorEl) return countryIndicatorEl; countryIndicatorEl = document.createElement('div'); countryIndicatorEl.className = 'country-indicator'; countryIndicatorEl.textContent = '表示中の国: -'; return countryIndicatorEl; }
