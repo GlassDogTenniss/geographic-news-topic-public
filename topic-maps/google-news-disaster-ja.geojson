@@ -1,8 +1,8 @@
 {
   "type": "FeatureCollection",
   "properties": {
-    "created_at": "2026-07-09T20:47:44.419367+00:00",
-    "count": 31,
+    "created_at": "2026-07-09T22:23:26.732373+00:00",
+    "count": 28,
     "stats": {
       "feed_id": "google-news-disaster-ja",
       "feed_label": "Google News: 災害・地震・大雨",
@@ -10,12 +10,12 @@
         "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja"
       ],
       "rss_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja",
-      "fetched": 78,
+      "fetched": 76,
       "fetched_by_url": {
-        "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja": 78
+        "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja": 76
       },
-      "filtered": 70,
-      "resolved": 31,
+      "filtered": 67,
+      "resolved": 28,
       "unresolved": 39,
       "rules": 384,
       "known_places": 1357,
@@ -1317,33 +1317,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          138.5683,
-          35.6639
-        ]
-      },
-      "properties": {
-        "title": "山梨で震度6弱の地震 17人けが 土砂災害警戒レベル引き下げ 富士山に異常なし 台風の大雨と余震に警戒 - FNNプライムオンライン",
-        "source": "FNNプライムオンライン",
-        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9sTUdEU1hUTUx1Xzh1MDcxVGJ0V0Y1U2xVcVZPN1FDR2NURXRFWUxNT2JrSF9xRXdBa0pkdXE5TXdUb0NmSzFFOGlnM3Rfdw?oc=5",
-        "published_at": "2026-06-27T07:00:00+00:00",
-        "representative_place": "Yamanashi Prefecture / Kofu representative",
-        "place_label": "日本-山梨県-甲府市-山梨県地震・台風7号土砂災害警戒代表点",
-        "sort_place_label": "日本-山梨県-甲府市-山梨県地震・台風7号土砂災害警戒代表点",
-        "geocode_query": "Yamanashi Prefecture Kofu Japan earthquake typhoon 7 landslide warning",
-        "place_type": "disaster_prefecture_representative",
-        "location_precision": "city",
-        "place_reason": "Non-game disaster-category coverage. These unresolved articles explicitly focus on the Yamanashi earthquake area and typhoon/heavy-rain landslide risk. The titles do not expose a narrower epicenter, municipality, slope, shelter, or disaster-site address, so use Kofu as the prefectural representative point for Yamanashi rather than leaving the items unresolved or mapping them to publisher locations.（一致語: 山梨で震度6弱の地震 17人けが 土砂災害警戒レベル引き下げ 富士山に異常なし 台風の大雨と余震に警戒 - FNNプライムオンライン）",
-        "confidence": 0.62,
-        "rule_id": "disaster_202606_yamanashi_earthquake_typhoon7_landslide_risk",
-        "matched_text": "山梨で震度6弱の地震 17人けが 土砂災害警戒レベル引き下げ 富士山に異常なし 台風の大雨と余震に警戒 - FNNプライムオンライン",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           139.7909,
           33.1094
         ]
@@ -1363,33 +1336,6 @@
         "confidence": 0.56,
         "rule_id": "disaster_202606_typhoon7_izu_islands_approach",
         "matched_text": "【台風情報】台風7号 27日夜にかけて伊豆諸島へ最接近…関東や東海地方は激しい大雨や高波に厳重警戒、山梨県の地震被災地は土砂災害に警戒【雨と風のシミュレーション】 | 富山のニュース｜天気・防災｜チューリップテレビ (1ページ) - TBS NEWS DIG",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          138.3828,
-          34.9756
-        ]
-      },
-      "properties": {
-        "title": "強い揺れの静岡・関東甲信 27日にダブル台風が接近 土砂災害に厳重警戒を（松浦悠真） - エキスパート - Yahoo!ニュース",
-        "source": "Yahoo!ニュース",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSGo0bHNnU2R0eWtpSk9ZVW04eExKc3hzNGRCZVlZdGdYLXp5NTdnUDdpR0NlSzhCT1d4bzRwV21JWjVZTUJZdFV1a0ZNS25hX2xia3RENjdoTU13bS11TTFrLVVMZmVfbUxDSnROOUF2MXNnbHJFUnZjaWF0WGdJMllhTnBGd3hN?oc=5",
-        "published_at": "2026-06-26T07:00:00+00:00",
-        "representative_place": "Shizuoka Prefecture / Shizuoka City representative",
-        "place_label": "日本-静岡県-静岡市-静岡・関東甲信ダブル台風土砂災害警戒代表点",
-        "sort_place_label": "日本-静岡県-静岡市-静岡・関東甲信ダブル台風土砂災害警戒代表点",
-        "geocode_query": "Shizuoka Prefecture Shizuoka City Japan double typhoon landslide warning Kanto Koshin",
-        "place_type": "multi_region_disaster_representative",
-        "location_precision": "city",
-        "place_reason": "The title explicitly foregrounds Shizuoka and Kanto-Koshin as strong-shaking / landslide-risk areas before a double-typhoon approach. No narrower epicenter, slope, municipality, or shelter is exposed. Use Shizuoka City as the first-named regional representative, with low confidence because the article also covers Kanto-Koshin.（一致語: 強い揺れの静岡・関東甲信 27日にダブル台風が接近 土砂災害に厳重警戒を（松浦悠真） - エキスパート - Yahoo!ニュース）",
-        "confidence": 0.48,
-        "rule_id": "disaster_202606_shizuoka_kanto_koshin_double_typhoon_landslide_warning",
-        "matched_text": "強い揺れの静岡・関東甲信 27日にダブル台風が接近 土砂災害に厳重警戒を（松浦悠真） - エキスパート - Yahoo!ニュース",
         "match_source": "known_place_title"
       }
     },
@@ -1741,33 +1687,6 @@
         "confidence": 0.58,
         "rule_id": "disaster_202501_202606_noto_earthquake_heavy_rain_recovery",
         "matched_text": "【データで見る能登の復興②】住まい編…地震と大雨で約10万棟の家屋が被害 - 読売新聞",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          140.8877,
-          37.0505
-        ]
-      },
-      "properties": {
-        "title": "災害廃棄物の置き場所、住民が事前に協議！福島県いわき市の全国初の取り組みとは - 読売新聞",
-        "source": "読売新聞",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9FOWUxRXV3bkZuckJHZWlWRnZmVG4zUElibXdtR0lSR09TSlNTUS1GSUUyZjFpU0lBZC15OHJyNDZlZjdiazVyWm8tQkxEWGZEdE41YjZ0RE9IUnpiSUFUZXltcm5aSzg?oc=5",
-        "published_at": "2025-01-22T08:00:00+00:00",
-        "representative_place": "Iwaki City / disaster waste consultation representative",
-        "place_label": "日本-福島県-いわき市-災害廃棄物置き場所事前協議代表点",
-        "sort_place_label": "日本-福島県-いわき市-災害廃棄物置き場所事前協議代表点",
-        "geocode_query": "Iwaki City Fukushima disaster waste site consultation",
-        "place_type": "municipal_disaster_policy_site",
-        "location_precision": "municipality",
-        "place_reason": "The unresolved article title explicitly identifies Fukushima Prefecture's Iwaki City and discusses a municipal disaster-waste placement initiative. No specific disposal site or neighborhood is named in the title, so use Iwaki City as the article-specific municipal representative point rather than the publisher location.（一致語: 災害廃棄物の置き場所、住民が事前に協議！福島県いわき市の全国初の取り組みとは - 読売新聞）",
-        "confidence": 0.82,
-        "rule_id": "disaster_202501_iwaki_disaster_waste_site_consultation",
-        "matched_text": "災害廃棄物の置き場所、住民が事前に協議！福島県いわき市の全国初の取り組みとは - 読売新聞",
         "match_source": "known_place_title"
       }
     },
