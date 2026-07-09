@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "created_at": "2026-07-09T12:08:53.593846+00:00",
+  "created_at": "2026-07-09T15:57:09.821040+00:00",
   "stats": {
     "feed_id": "game-all",
     "feed_label": "ゲーム",
@@ -26,7 +26,7 @@
       "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja"
     ],
     "rss_url": "https://www.gamedeveloper.com/rss.xml",
-    "fetched": 1003,
+    "fetched": 1004,
     "fetched_by_url": {
       "https://www.gamedeveloper.com/rss.xml": 50,
       "https://www.gamesindustry.biz/feed": 100,
@@ -40,17 +40,17 @@
       "https://www.afkgaming.com/feed": 0,
       "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20India&hl=en-IN&gl=IN&ceid=IN:en": 80,
       "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Philippines&hl=en-PH&gl=PH&ceid=PH:en": 78,
-      "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Eastern%20Europe&hl=en&gl=PL&ceid=PL:en": 79,
+      "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Eastern%20Europe&hl=en&gl=PL&ceid=PL:en": 78,
       "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Africa&hl=en&gl=ZA&ceid=ZA:en": 79,
       "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Southeast%20Asia&hl=en-SG&gl=SG&ceid=SG:en": 78,
       "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA&hl=ja&gl=JP&ceid=JP:ja": 73,
       "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja": 79,
-      "https://news.google.com/rss/search?q=%E6%B5%B7%E5%A4%96%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA&hl=ja&gl=JP&ceid=JP:ja": 79,
-      "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja": 78
+      "https://news.google.com/rss/search?q=%E6%B5%B7%E5%A4%96%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA&hl=ja&gl=JP&ceid=JP:ja": 78,
+      "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja": 77
     },
-    "filtered": 901,
-    "resolved": 890,
-    "unresolved": 11,
+    "filtered": 902,
+    "resolved": 877,
+    "unresolved": 25,
     "rules": 384,
     "known_places": 1357,
     "loaded_data_files": [
@@ -1359,6 +1359,70 @@
   },
   "unresolved": [
     {
+      "title": "\"The business logic is understandable. The human cost is devastating\": The Mobile Mavens on Xbox's restructuring",
+      "link": "https://www.pocketgamer.biz/the-business-logic-is-understandable-the-human-cost-is-devastating-the-mobile-mavens-on-xboxs-restructuring/",
+      "source": "Latest Updates | PocketGamer.biz",
+      "published_at": "2026-07-09T14:35:00+00:00",
+      "summary": "Microsoft's latest overhaul of Xbox marks one of the biggest strategic resets in the company's history. The company is cutting 3,200 roles through FY27, divesting four studios and is reorganising its leadership.\n\nAlongside the restructuring, Xbox CEO Asha Sharma has outlined an ambitious vision to reach more than one billion daily active users, while King and Mojang are set to report directly to Sharma. ... [ MORE ]",
+      "feed_url": "https://www.pocketgamer.biz/rss/"
+    },
+    {
+      "title": "Games industry M&A reaches $2.3bn in Q2 2026",
+      "link": "https://www.pocketgamer.biz/games-industry-manda-reaches-23bn-in-q2-2026/",
+      "source": "Latest Updates | PocketGamer.biz",
+      "published_at": "2026-07-09T14:25:00+00:00",
+      "summary": "Games industry M&A activity reached 54 transactions in the second quarter of 2026, with $2.3bn in deal value deployed. \n\nThat's according to Aream & Co's Video Game Market Update Q2 2026, which showed that deal activity reached its highest level since 2022, with mid-market acquisitions valued above $100m hitting their highest count since the pandemic boom.  ... [ MORE ]",
+      "feed_url": "https://www.pocketgamer.biz/rss/"
+    },
+    {
+      "title": "June’s top grossing mobile games: Honor of Kings, Whiteout Survival, Royal Match, Gossip Harbor, more",
+      "link": "https://mobilegamer.biz/junes-top-grossing-mobile-games-honor-of-kings-whiteout-survival-royal-match-gossip-harbor-more/",
+      "source": "Mobilegamer.biz",
+      "published_at": "2026-07-09T14:02:13+00:00",
+      "summary": "Sudden revenue drops for Honor of Kings, Candy Crush Saga, LastWar and PUBG Mobile dominate June's AppMagic estimates.",
+      "feed_url": "https://mobilegamer.biz/feed/"
+    },
+    {
+      "title": "\"New Zealand's success is being built by ambitious studios of all sizes\" – Combined revenue of studios supported by rebate grows 17% to $829m",
+      "link": "https://www.gamesindustry.biz/new-zealands-success-is-being-built-by-ambitious-studios-of-all-sizes-combined-revenue-of-studios-supported-by-rebate-grows-17-to-829m",
+      "source": "GamesIndustry.biz Latest Articles Feed",
+      "published_at": "2026-07-09T13:39:06+00:00",
+      "summary": "New Zealand's game sector continues to grow as combined studio revenue supported by its Game Development Sector Rebate (GDSR) rose 17% to $829 million in 2025/26.    Read more",
+      "feed_url": "https://www.gamesindustry.biz/feed"
+    },
+    {
+      "title": "You can now enter the 2026 UK GamesIndustry.biz Best Places To Work Awards",
+      "link": "https://www.gamesindustry.biz/you-can-now-enter-the-2026-uk-gamesindustrybiz-best-places-to-work-awards",
+      "source": "GamesIndustry.biz Latest Articles Feed",
+      "published_at": "2026-07-09T13:23:08+00:00",
+      "summary": "Games firms in the UK can now enter the  GamesIndustry.biz  Best Places To Work Awards 2026.    Read more",
+      "feed_url": "https://www.gamesindustry.biz/feed"
+    },
+    {
+      "title": "Bluey: Let's Play celebrates 75m downloads with biggest update yet",
+      "link": "https://www.pocketgamer.biz/bluey-lets-play-celebrates-75m-downloads-with-biggest-update-yet/",
+      "source": "Latest Updates | PocketGamer.biz",
+      "published_at": "2026-07-09T13:00:00+00:00",
+      "summary": "Budge Studios has revealed its biggest update yet for Bluey: Let's Play to celebrate the mobile title's 75 million-download milestone worldwide.\n\nDeveloped through Budge Studios' partnership with BBC Studios and Ludo Studio, the update is now rolling out and introduces several new gameplay features designed to expand storytelling and interactive play for families. ... [ MORE ]",
+      "feed_url": "https://www.pocketgamer.biz/rss/"
+    },
+    {
+      "title": "Cooler Master Launches MasterFan A and M Series Fans for High Static Pressure, Airflow and Low Noise",
+      "link": "https://www.nag.co.za/2026/07/09/cooler-master-launches-masterfan-a-and-m-series-fans-for-high-static-pressure-airflow-and-low-noise/",
+      "source": "NAG",
+      "published_at": "2026-07-09T12:25:46+00:00",
+      "summary": "Cooler Master, a global leader in PC components and thermal management solutions, today launched its MasterFan A Series and MasterFan M Series fans, which have received strong evaluations from Cybenetics Labs, with recognition for excellent airflow and static pressure. Among all 120mm fans evaluated by Cybenetics to date, MasterFan A120 and M120 ranked among the strongest performers, especially in static pressure generation, earning the highest Diamond rating. MasterFan A Series and MasterFan M Series are available now in 120mm formats; 140mm will be available at a later date. For more information, visit CoolerMaster.com The MasterFan A Series was developed around Cooler Master’s continued focus on its […] \n The post  Cooler Master Launches MasterFan A and M Series Fans for High Static Pressure, Airflow and Low Noise  appeared first on  NAG .",
+      "feed_url": "https://www.nag.co.za/feed/"
+    },
+    {
+      "title": "A risk-averse video game industry is failing marginalized developers",
+      "link": "https://www.gamedeveloper.com/production/the-game-industry-is-failing-marginalized-developers",
+      "source": "gamedeveloper",
+      "published_at": "2026-07-09T11:59:33+00:00",
+      "summary": "Nazih Fares has been inundated with praise when pitching 'spicy' card battler The Arab League of Misfits, so why has funding yet to materialize?",
+      "feed_url": "https://www.gamedeveloper.com/rss.xml"
+    },
+    {
       "title": "June’s top mobile game downloads: Arrows, Amaze Go, Free Fire Max, Roblox, more",
       "link": "https://mobilegamer.biz/junes-top-mobile-game-downloads-arrows-amaze-go-free-fire-max-roblox-more/",
       "source": "Mobilegamer.biz",
@@ -1380,14 +1444,6 @@
       "source": "Latest Updates | PocketGamer.biz",
       "published_at": "2026-07-09T10:02:00+00:00",
       "summary": "Nintendo has revealed that Mario Kart Tour for smart devices will end service on September 29th 2026.\n\nThe company thanked players for supporting the game since its launch and confirmed that in-game purchases and subscriptions have already begun winding down ahead of the closure. ... [ MORE ]",
-      "feed_url": "https://www.pocketgamer.biz/rss/"
-    },
-    {
-      "title": "\"The business logic is understandable. The human cost is devastating\": The Mobile Mavens on Xbox's restructuring",
-      "link": "https://www.pocketgamer.biz/the-business-logic-is-understandable-the-human-cost-is-devastating-the-mobile-mavens-on-xboxs-restructuring/",
-      "source": "Latest Updates | PocketGamer.biz",
-      "published_at": "2026-07-09T09:52:00+00:00",
-      "summary": "Microsoft's latest overhaul of Xbox marks one of the biggest strategic resets in the company's history. The company is cutting 3,200 roles through FY27, divesting four studios and is reorganising its leadership.\n\nAlongside the restructuring, Xbox CEO Asha Sharma has outlined an ambitious vision to reach more than one billion daily active users, while King and Mojang are set to report directly to Sharma. ... [ MORE ]",
       "feed_url": "https://www.pocketgamer.biz/rss/"
     },
     {
@@ -1423,6 +1479,14 @@
       "feed_url": "https://www.nag.co.za/feed/"
     },
     {
+      "title": "「今後は、より魅力的な女性の近接キャラクターを追加していく予定です」見下ろし型ローグライトシューティング『転生保険株式会社 R.I.P.』【開発者インタビュー】 - Game*Spark",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Qb3dFSXZRX3k2blZjc19TcVJUQjFKdl9uV1o4YmdnS0NkbjNOcTBEclJmVUpsbG9PZ3NsQmZNcEdTRlY2cUZrTXM3UG9oZ1czcXhma2F6UHpGZHF5RDROV25wX3JvUQ?oc=5",
+      "source": "Game*Spark",
+      "published_at": "2026-03-29T07:00:00+00:00",
+      "summary": "「今後は、より魅力的な女性の近接キャラクターを追加していく予定です」見下ろし型ローグライトシューティング『転生保険株式会社 R.I.P.』【開発者インタビュー】    Game*Spark",
+      "feed_url": "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
       "title": "存続の瀬戸際か…『ショベルナイト』開発元、6年かけた新作延期し資金も使い果たした状況 - GameBusiness.jp",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1HaFhiR194MDUyODRFSEk0cW1tYUNRLTVUYlhfS2lKbGt6RU93ODFWcVlzcVZSRXVUTlMtNzZaRE50ZkdTbHZWaGJlaWszbGRDWUdOUEo2ZWlDWDV4amJ0ckx4R1ltaDdS?oc=5",
       "source": "GameBusiness.jp",
@@ -1439,12 +1503,60 @@
       "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20India&hl=en-IN&gl=IN&ceid=IN:en"
     },
     {
+      "title": "「Triple-i Initiative」第2回が4月11日午前1時から開催。世界のインディーゲーム会社37社の合同ショーケース - 電ファミニコゲーマー",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBMODdpQ2NZRmFrT2RXSzlTRUtPNVJfcFpMR05UTHhXV2o1MEFnS1pScDVhY05KSE9EdS1sN3dyTkdETUstMnJlYUMtX2VzVExTaHBxdGwtSFI?oc=5",
+      "source": "電ファミニコゲーマー",
+      "published_at": "2025-03-27T07:00:00+00:00",
+      "summary": "「Triple-i Initiative」第2回が4月11日午前1時から開催。世界のインディーゲーム会社37社の合同ショーケース    電ファミニコゲーマー",
+      "feed_url": "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "title": "【ひげまろんGames】新作インディー脱出ゲーム「亡くなったおばあちゃんからの謎解きと思い出のカケラ」無料配信開始！ - newscast.jp",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1iSy1lTVRna2dGN3QyQWM4ZDN6enU5cGRHUmZZQkhueVhGUXN0WTYyYllKY0NtTTNkWjZmUFlaNlA0RWtzcnp3?oc=5",
+      "source": "newscast.jp",
+      "published_at": "2024-12-10T08:00:00+00:00",
+      "summary": "【ひげまろんGames】新作インディー脱出ゲーム「亡くなったおばあちゃんからの謎解きと思い出のカケラ」無料配信開始！    newscast.jp",
+      "feed_url": "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "title": "Tango GameworksをKRAFTONが事業継承。『サイコブレイク』『Hi-Fi RUSH』のゲーム開発スタジオ。『Hi-Fi RUSH』のIP拡大に向けた開発にも着手 - ファミ通",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE83dmtraXJ1Q1F2S1JEU3ZtNHhRTTJwcEJqdVpqOTJrUy1FRW1HcHFETWYxZHJ4TzQ3aldhWEVnekg2UFg5djNLcGQ5UHdqa2dkX1lENU5rTQ?oc=5",
+      "source": "ファミ通",
+      "published_at": "2024-08-12T07:00:00+00:00",
+      "summary": "Tango GameworksをKRAFTONが事業継承。『サイコブレイク』『Hi-Fi RUSH』のゲーム開発スタジオ。『Hi-Fi RUSH』のIP拡大に向けた開発にも着手    ファミ通",
+      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
       "title": "Tencent’s gaming cash cow Honor of Kings sets sights on MENA - TechCrunch",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUXRPUWVnRl9jcFl2VzZ0b0pYTWdWTV8tclNNamRVN2wyVHE4NVRUblo2X3BXeERIZTRqWVczaUhNY3IzdGVQVGVTRjV1TE5oM2hFUi1rOHpDZU9PV2JFNklPdFRQanZNOEVRd0tBSDY5bEtqXzZKYmZCbTF4WVlIYmE1dkdqRXpac3VDdUZFUWUtR3ZOOHRQYnln?oc=5",
       "source": "TechCrunch",
       "published_at": "2024-02-20T08:00:00+00:00",
       "summary": "Tencent’s gaming cash cow Honor of Kings sets sights on MENA    TechCrunch",
       "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Eastern%20Europe&hl=en&gl=PL&ceid=PL:en"
+    },
+    {
+      "title": "PHL seen to become Asia-Pacific gaming leader - rpnradio.com",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5WV0xFenh4SXVWdm1NQWh1eVlmSEN6TmotbXgxVjNzVVBlVlVZVEZ2R0NZWVh1YTR4bW5aVHRuZ19kdXNfTUFvbHFqUmNhYnRFM01XWFlER21lMGNEcW1MWHhHNHM2U05HQWtSbTNZalRZd242elE?oc=5",
+      "source": "rpnradio.com",
+      "published_at": "2023-09-15T07:00:00+00:00",
+      "summary": "PHL seen to become Asia-Pacific gaming leader    rpnradio.com",
+      "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Philippines&hl=en-PH&gl=PH&ceid=PH:en"
+    },
+    {
+      "title": "バンダイナムコグループがインディーゲームクリエイターを全力サポート！インディーゲームクリエイターに向けたコンテスト「第2回GYAAR Studio インディーゲームコンテスト」開催！ - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1yVUc2ZFBZVkd5ak1kZ3hzNWlqT1dSTmszVU9ZWjdSSHdpQmllNjd2azNjLXk1bl9MTzl3bEFUQ2UtektVbmRsVGU0a0FVbHFXTXlRUFFpSzQ4Ni1qbWJENm5GSHBLanJTbHc?oc=5",
+      "source": "PR TIMES",
+      "published_at": "2023-05-25T07:00:00+00:00",
+      "summary": "バンダイナムコグループがインディーゲームクリエイターを全力サポート！インディーゲームクリエイターに向けたコンテスト「第2回GYAAR Studio インディーゲームコンテスト」開催！    PR TIMES",
+      "feed_url": "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "title": "バンダイナムコスタジオのインディーゲームレーベル「GYAAR Studio」主導！インディーゲームクリエイターに向けたコンテスト「第1回GYAAR Studio インディーゲームコンテスト」開催！ | 株式会社バンダイナムコエンターテインメントのプレスリリース - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8wTlgtSkIwWTdUNnBud1pLSm5WSllEcDZIb3JCRWhGSWQtN1JZSlR3ZmVuT0R0b2IzdUpRckpaVVhGa3JwMF9XVUJUSXR3VkR3Y05CaVRNdVdYa1J0dkVkNDhVX0dQYmFGblE?oc=5",
+      "source": "PR TIMES",
+      "published_at": "2022-11-13T08:00:00+00:00",
+      "summary": "バンダイナムコスタジオのインディーゲームレーベル「GYAAR Studio」主導！インディーゲームクリエイターに向けたコンテスト「第1回GYAAR Studio インディーゲームコンテスト」開催！ | 株式会社バンダイナムコエンターテインメントのプレスリリース    PR TIMES",
+      "feed_url": "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja"
     }
   ]
 }
