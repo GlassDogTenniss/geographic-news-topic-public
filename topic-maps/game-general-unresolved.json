@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "created_at": "2026-07-08T23:56:21.196798+00:00",
+  "created_at": "2026-07-09T03:40:20.159314+00:00",
   "stats": {
     "feed_id": "game-general",
     "feed_label": "ゲーム一般ニュース",
@@ -11,18 +11,18 @@
       "https://news.google.com/rss/search?q=%E4%BB%BB%E5%A4%A9%E5%A0%82%20PlayStation%20Xbox%20Steam%20%E3%82%B2%E3%83%BC%E3%83%A0&hl=ja&gl=JP&ceid=JP:ja"
     ],
     "rss_url": "https://news.google.com/rss/search?q=video%20games%20gaming%20news%20Nintendo%20PlayStation%20Xbox%20Steam&hl=en&gl=US&ceid=US:en",
-    "fetched": 288,
+    "fetched": 287,
     "fetched_by_url": {
       "https://news.google.com/rss/search?q=video%20games%20gaming%20news%20Nintendo%20PlayStation%20Xbox%20Steam&hl=en&gl=US&ceid=US:en": 76,
       "https://news.google.com/rss/search?q=game%20release%20update%20Nintendo%20PlayStation%20Xbox%20Steam&hl=en&gl=US&ceid=US:en": 74,
       "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%20%E6%96%B0%E4%BD%9C%20Switch%20PS5%20Xbox%20Steam&hl=ja&gl=JP&ceid=JP:ja": 76,
       "https://news.google.com/rss/search?q=%E4%BB%BB%E5%A4%A9%E5%A0%82%20PlayStation%20Xbox%20Steam%20%E3%82%B2%E3%83%BC%E3%83%A0&hl=ja&gl=JP&ceid=JP:ja": 78
     },
-    "filtered": 256,
-    "resolved": 118,
-    "unresolved": 138,
+    "filtered": 254,
+    "resolved": 117,
+    "unresolved": 137,
     "rules": 355,
-    "known_places": 1253,
+    "known_places": 1306,
     "loaded_data_files": [
       "data/place_rules.json",
       "data/unresolved_known_places.json",
@@ -1242,7 +1242,11 @@
       "data/unresolved_known_places_1548.json",
       "data/unresolved_known_places_1549.json",
       "data/unresolved_known_places_1550.json",
-      "data/unresolved_known_places_1551.json"
+      "data/unresolved_known_places_1551.json",
+      "data/unresolved_known_places_1552.json",
+      "data/unresolved_known_places_1553.json",
+      "data/unresolved_known_places_1554.json",
+      "data/unresolved_known_places_1555.json"
     ],
     "topic_keywords": [
       "game",
@@ -1316,14 +1320,6 @@
       "published_at": "2026-06-26T07:00:00+00:00",
       "summary": "Price hikes are making gaming feel like a luxury hobby    Business Insider",
       "feed_url": "https://news.google.com/rss/search?q=video%20games%20gaming%20news%20Nintendo%20PlayStation%20Xbox%20Steam&hl=en&gl=US&ceid=US:en"
-    },
-    {
-      "title": "Fatal Frame 2 Remake Update 1.004 for June Fixes Progression, Trophy Issues - MP1st",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPLVpMVUZPN2I0dEhGWVZaT0JFMlNlaEFkSXBHNk1YVkNQa0NYN3ktc1VNQk9ZNGNsOGctdXhCMG1fYlhzVnNlMFNWcjV6V3JlQnlOV3kwRURTREFJZXZuOF8wc1BOZUE3TWNYRkdyWlVKYnhGeWlWM19TOFljV3BSeHlXczY0R2twNTBRVXFwSzRNaDdDTkJveTZnX042V19zc3RLbXJkN2hHbnM1MjNVYWlzNkltQQ?oc=5",
-      "source": "MP1st",
-      "published_at": "2026-06-22T07:00:00+00:00",
-      "summary": "Fatal Frame 2 Remake Update 1.004 for June Fixes Progression, Trophy Issues    MP1st",
-      "feed_url": "https://news.google.com/rss/search?q=game%20release%20update%20Nintendo%20PlayStation%20Xbox%20Steam&hl=en&gl=US&ceid=US:en"
     },
     {
       "title": "「欲しすぎるだろ…」『ドラクエ』新作ゲームの“特典グッズ”に「かわいい」「仲間にするしかない」（マグミクス） - Yahoo!ニュース",
@@ -1516,14 +1512,6 @@
       "published_at": "2026-05-18T07:00:00+00:00",
       "summary": "‘MARVEL Cosmic Invasion’ DLC Update Recruits Cyclops and The Thing    Marvel.com",
       "feed_url": "https://news.google.com/rss/search?q=game%20release%20update%20Nintendo%20PlayStation%20Xbox%20Steam&hl=en&gl=US&ceid=US:en"
-    },
-    {
-      "title": "らでんさん監修ピクロスに追加DLC！ 『箱根探訪編』が2026年12月に配信予定 - AppBank",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE82WDdOalRQZzE3WExNTG5LVVJlclA4R19fZElrQmJ0VEgxUnJWY19mVVg3TVNSbzBpbkVkM3E1ZzlNM0R0QjIzLUktaUdjU1VPTGFxbS1mcEkxUFNHWFB4OQ?oc=5",
-      "source": "AppBank",
-      "published_at": "2026-05-18T07:00:00+00:00",
-      "summary": "らでんさん監修ピクロスに追加DLC！ 『箱根探訪編』が2026年12月に配信予定    AppBank",
-      "feed_url": "https://news.google.com/rss/search?q=%E4%BB%BB%E5%A4%A9%E5%A0%82%20PlayStation%20Xbox%20Steam%20%E3%82%B2%E3%83%BC%E3%83%A0&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
       "title": "全プラットフォームでプレイ可能！《風のクロノア 1&2 アンコール》パッケージ版が7月発売 - 玩具人 TOY PEOPLE",
@@ -1966,14 +1954,6 @@
       "feed_url": "https://news.google.com/rss/search?q=game%20release%20update%20Nintendo%20PlayStation%20Xbox%20Steam&hl=en&gl=US&ceid=US:en"
     },
     {
-      "title": "Becastled Launches on PC, PlayStation, Xbox, and Nintendo Switch - TechPowerUp",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQT29DZTRwRGJFSldMcEhlWUFLVVk2UUxYWGdLZmlMcTJ2RVY1ZGhhN2tBQnU2bGxIdUp5ZjZCMlFDTXVlMWZKU2VJU1lwVGRjV2s0bW1aUnNVa2tCUHVPNHhWUjZxTDFVNFQ2Rlh3OExkS0RvNDFkZUVwMzhPbFRDZ19UYTU2UmlGTGFUQTFETDl1N1VuMlZ1R3dGT1bSAaIBQVVfeXFMTVVJSTRZRjdhNnFybzJsbHJpLV9uQXRwd0pxTWhYUURyRlJpUy1ZOWxWeGVNWVlkZ2doakdGelRpZkRUX0VZUjQwX2Zoem1PR3lUYmRCNmthMEtFV3hQVGZwQ0tGVFFYdEx4TTgwbkt1cHNSQVI3SXBwOGZ0Q2Eyd183ZWNsc1RLTGR5QVRmMTZwRzYya01DZXRPT2FjTnVyUkF3?oc=5",
-      "source": "TechPowerUp",
-      "published_at": "2025-10-23T07:00:00+00:00",
-      "summary": "Becastled Launches on PC, PlayStation, Xbox, and Nintendo Switch    TechPowerUp",
-      "feed_url": "https://news.google.com/rss/search?q=game%20release%20update%20Nintendo%20PlayStation%20Xbox%20Steam&hl=en&gl=US&ceid=US:en"
-    },
-    {
       "title": "高評価忍者アクション『SHINOBI 復讐の斬撃』のDLCには、なんと『龍が如く』の「真島吾朗」がボスとして登場へ。横スク忍者ゲームにまさかの参戦 - AUTOMATON",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONE5iMFA1SzlnM1BsTElfYjloblJNQWZmY05Vem5MQ0MyTlp2bkV2VHFldWFFeW10U0s5NGIzWUpVZktaQkFJNEgtcFRtYWhseHh3bExuc2JOc3FOb3BoRi02NEhXWkowaUs0Nk9GZG9XbDBaNXA5STVkQ3hvMlBDZFMzdWpUU2xUMEdjOXVB?oc=5",
       "source": "AUTOMATON",
@@ -2068,6 +2048,14 @@
       "published_at": "2025-09-01T07:00:00+00:00",
       "summary": "『ホロウナイト シルクソング』は日本時間の「9月4日（木）23時」から発売に。価格は2300円    ファミ通",
       "feed_url": "https://news.google.com/rss/search?q=%E4%BB%BB%E5%A4%A9%E5%A0%82%20PlayStation%20Xbox%20Steam%20%E3%82%B2%E3%83%BC%E3%83%A0&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "title": "New Leak Claims PS6 Will Have Major Nintendo Switch 2 Feature - VICE",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcVVmRFFzczVPa3p0VENReEZ3RWpKOG91dmhWMmdrNVVOTVJXejNMT3FidHNXMENIeVJ1eTNaVVctTXJhdnpUVzU2WVhwMWViVi1Rd1JER2VPaFY3cFZ1VVg0dmdiRmdPWmRqVVBVaDVPSDhyVy1CVUdaYjNBZ2RYeDlYY1hGeGlBd0NFTHlBV1lmYXhn?oc=5",
+      "source": "VICE",
+      "published_at": "2025-08-28T07:00:00+00:00",
+      "summary": "New Leak Claims PS6 Will Have Major Nintendo Switch 2 Feature    VICE",
+      "feed_url": "https://news.google.com/rss/search?q=video%20games%20gaming%20news%20Nintendo%20PlayStation%20Xbox%20Steam&hl=en&gl=US&ceid=US:en"
     },
     {
       "title": "『ホロウナイト シルクソング』発売日が9月4日に決定。延期中だった人気2Dアクロバティックアクション『ホロウナイト』の続編がいよいよ登場 - ファミ通",
@@ -2220,6 +2208,14 @@
       "published_at": "2025-03-28T07:00:00+00:00",
       "summary": "『モニュメントバレー3』のコンソール版が発売決定。トリックアートのような世界で味方を導くパズルゲーム    電ファミニコゲーマー",
       "feed_url": "https://news.google.com/rss/search?q=%E4%BB%BB%E5%A4%A9%E5%A0%82%20PlayStation%20Xbox%20Steam%20%E3%82%B2%E3%83%BC%E3%83%A0&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "title": "All REPO Platforms—Can You Play REPO on PS5, Xbox, or Nintendo? - Insider Gaming",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42N0JpTlFENWtWMlVod2h2d08yLTJYNjg4d21KdDgyVDRwNF9jMTlFU1RydVpQMmgycmNRWHdndFFGWjA3SWdhSWFLaE93dkJRNGFhTjJmOUxhdw?oc=5",
+      "source": "Insider Gaming",
+      "published_at": "2025-03-11T07:00:00+00:00",
+      "summary": "All REPO Platforms—Can You Play REPO on PS5, Xbox, or Nintendo?    Insider Gaming",
+      "feed_url": "https://news.google.com/rss/search?q=game%20release%20update%20Nintendo%20PlayStation%20Xbox%20Steam&hl=en&gl=US&ceid=US:en"
     },
     {
       "title": "Assassin's Creed 3 fans surprised with new release out of the blue - GAMINGbible",
