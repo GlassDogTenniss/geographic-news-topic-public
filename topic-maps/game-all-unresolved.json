@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "created_at": "2026-07-10T00:05:50.494225+00:00",
+  "created_at": "2026-07-10T04:52:56.528275+00:00",
   "stats": {
     "feed_id": "game-all",
     "feed_label": "ゲーム",
@@ -38,19 +38,19 @@
       "https://www.nag.co.za/feed/": 10,
       "https://www.kakuchopurei.com/feed/": 10,
       "https://www.afkgaming.com/feed": 0,
-      "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20India&hl=en-IN&gl=IN&ceid=IN:en": 79,
+      "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20India&hl=en-IN&gl=IN&ceid=IN:en": 80,
       "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Philippines&hl=en-PH&gl=PH&ceid=PH:en": 78,
       "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Eastern%20Europe&hl=en&gl=PL&ceid=PL:en": 78,
       "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Africa&hl=en&gl=ZA&ceid=ZA:en": 79,
-      "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Southeast%20Asia&hl=en-SG&gl=SG&ceid=SG:en": 78,
-      "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA&hl=ja&gl=JP&ceid=JP:ja": 74,
+      "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Southeast%20Asia&hl=en-SG&gl=SG&ceid=SG:en": 77,
+      "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA&hl=ja&gl=JP&ceid=JP:ja": 73,
       "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja": 79,
-      "https://news.google.com/rss/search?q=%E6%B5%B7%E5%A4%96%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA&hl=ja&gl=JP&ceid=JP:ja": 76,
-      "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja": 78
+      "https://news.google.com/rss/search?q=%E6%B5%B7%E5%A4%96%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA&hl=ja&gl=JP&ceid=JP:ja": 78,
+      "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja": 76
     },
-    "filtered": 899,
-    "resolved": 846,
-    "unresolved": 53,
+    "filtered": 897,
+    "resolved": 862,
+    "unresolved": 35,
     "rules": 384,
     "known_places": 1357,
     "loaded_data_files": [
@@ -1503,36 +1503,28 @@
       "feed_url": "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
-      "title": "The Creative and Economic Promise of Modern Gaming - orfonline.org",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPd3RKS2tMQ0JTVUl4eThKQkpvRk9lc2t1bVVsZ1VUdXZ2STMxZGE5bkRUS1hpeWdwZW9Kb21OOHQ3bXlxWnpLbGp2UlctcVdpY2hCcHdydnJ5LVJsTjIycjBHS1FBTllndVJtQlZ3dnVoamdwa3ZQeTZjYzRCdURWdGxDTkdWNFlJYVA3SGtKNHVPOEk?oc=5",
-      "source": "orfonline.org",
-      "published_at": "2026-04-20T07:00:00+00:00",
-      "summary": "The Creative and Economic Promise of Modern Gaming    orfonline.org",
-      "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20India&hl=en-IN&gl=IN&ceid=IN:en"
-    },
-    {
-      "title": "India Removes Tax Breaks for Gaming Hardware, Physical Games | Outlook Respawn - Outlook Respawn",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPR0wtUjRPRVZ1czZDNzNzVkRfUHozMWdaVW93Y1hVZ0ZNRjhNLXNwVlVKVWdjOFZQX3hiWTFUZ3pWWEJucS1SS3lhSktxSmRRbk9yUk9wM25QSzZmWEpGVTFDWDBhSmExSThPTHZmMVg3QkExSE9YV19JbWZmRjZEYjlTaGlEcFVmSGx3dnpUa3Z6M1g1dUk3UHpjMEVnMVZVZUdkV0xRN29VbXF2ZmfSAbsBQVVfeXFMT1ViWG40ZVFXbEdGRVhuRmdDWUFTX09qdnVXLVV1TzYtQ2Raa2pzUUJHRUVMM2JTemVFc1RWeTZUUmkwcTZ3MjZnT0tQWHVaVzVveWNkSGc2S2lNN3F3YURLUWJFOU1XTWozZ3ZYSFNWc1drckJwcVd0UmdBbThhRGlpSkN0U2VxQkRSeDEwUkJHRWVQMVdNVWdRV2gtUEhnUE5SSG1OMkhlOFFNM0lLbkZZTUFaV3FsZTg5Yw?oc=5",
-      "source": "Outlook Respawn",
-      "published_at": "2026-02-04T08:00:00+00:00",
-      "summary": "India Removes Tax Breaks for Gaming Hardware, Physical Games | Outlook Respawn    Outlook Respawn",
-      "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20India&hl=en-IN&gl=IN&ceid=IN:en"
-    },
-    {
-      "title": "At 18, Doctors Said He Had 3 Hours To Live. He Now Runs A $10 Million Gaming Empire - NDTV",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcWRncVFMMk1LYS1XRnozOE8xNFp1S2NxNjRnM1k0b3o2NDRUQ0ZNd2VnYy11eVFjSTZuLUlXbXB3WGFPZ3B5UmFGSi1KajY0Q1pSSTZCdjRNaUlCYmhCcEJCZHpIdXc4TUd4UWxzUmQwSjA2UUpYeEw5dXh6MC1LV2toNXowNXp2T0lZbXVrUHpnT1VSR28xZmVmTjA0WHpmbXhLMG5Zd0tRWkN0RmRwOElhUDVGWHMw0gHAAUFVX3lxTE1KM0dfRHEwckE3Nnhsaml5M1hUcjN2Y2tMQ1BNdW4zSWJBMzRhTFRQZk94VW8tTEFSakNkWVAwRmxZRlAyVUdEZFNzaDlxamZsUHhVbnBuYTl2d0tGNWFsRE1mWVBXNWpkclowejJkU2N3Q3M4dGtrbllsRWd6dHhOUHNjeHhvdUdGQ1JobWxxN2F0WHpDVjBvckpQWG1vZm5xQ3lkUmJ1aERvTEM3aF8wUlFNM0JBbGNaTzZzTWxVUA?oc=5",
-      "source": "NDTV",
-      "published_at": "2025-12-11T08:00:00+00:00",
-      "summary": "At 18, Doctors Said He Had 3 Hours To Live. He Now Runs A $10 Million Gaming Empire    NDTV",
-      "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20India&hl=en-IN&gl=IN&ceid=IN:en"
-    },
-    {
-      "title": "SIEとBad Robot Gamesが提携発表―『Left 4 Dead』スタッフが手がける新作4人Co-opシューターを開発中であることも明らかに - Game*Spark",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAycUdzNGJPRmRTcDktWnRKSEVwcUZnZlhkQnJqdk1fdWJVbUtMSXVJTEZHOHpEMkRybVV2X1BDRkdkNU85TTI4Y3k2WWtBWjZHcmZla3p0RXBLSnhBQ1RFTWlNWThlZw?oc=5",
+      "title": "「今後は、より魅力的な女性の近接キャラクターを追加していく予定です」見下ろし型ローグライトシューティング『転生保険株式会社 R.I.P.』【開発者インタビュー】 - Game*Spark",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Qb3dFSXZRX3k2blZjc19TcVJUQjFKdl9uV1o4YmdnS0NkbjNOcTBEclJmVUpsbG9PZ3NsQmZNcEdTRlY2cUZrTXM3UG9oZ1czcXhma2F6UHpGZHF5RDROV25wX3JvUQ?oc=5",
       "source": "Game*Spark",
+      "published_at": "2026-03-29T07:00:00+00:00",
+      "summary": "「今後は、より魅力的な女性の近接キャラクターを追加していく予定です」見下ろし型ローグライトシューティング『転生保険株式会社 R.I.P.』【開発者インタビュー】    Game*Spark",
+      "feed_url": "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "title": "【新作】5年の歳月をかけた渾身作！美少女×工場自動化RPG『Moorestech』が発表23時間でウィッシュリスト1万人突破 - 인디게임닷컴",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFByUXctQ0RCZjF1ZEF6Z3VOLWtVaHB4VGs5VEFSNHZsMWdITlhqZ0M0YW5vbjNSajg4eF9CY1BwamtiaXRiWFRJV2w3cWZHMnJy?oc=5",
+      "source": "인디게임닷컴",
+      "published_at": "2026-01-18T08:00:00+00:00",
+      "summary": "【新作】5年の歳月をかけた渾身作！美少女×工場自動化RPG『Moorestech』が発表23時間でウィッシュリスト1万人突破    인디게임닷컴",
+      "feed_url": "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "title": "日本から過去最多となる11組が出展 台湾発インディーゲーム展示会『2025 G-EIGHTゲームショウ』が12月12日より台北にて開催 - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5YNXV6NkdfakFGRzhFekhET2llaGUwQ2FkSzl3Wi14QlFfcG92YXZoNmp6WFItaW50LUcxbDl3ekN1NDlraVVUWlVfNlh4R1VpTExPcDJINDNOR2NEeUdSNmQwYjZmWVltc0E?oc=5",
+      "source": "PR TIMES",
       "published_at": "2025-12-05T08:00:00+00:00",
-      "summary": "SIEとBad Robot Gamesが提携発表―『Left 4 Dead』スタッフが手がける新作4人Co-opシューターを開発中であることも明らかに    Game*Spark",
-      "feed_url": "https://news.google.com/rss/search?q=%E6%B5%B7%E5%A4%96%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA&hl=ja&gl=JP&ceid=JP:ja"
+      "summary": "日本から過去最多となる11組が出展 台湾発インディーゲーム展示会『2025 G-EIGHTゲームショウ』が12月12日より台北にて開催    PR TIMES",
+      "feed_url": "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
       "title": "存続の瀬戸際か…『ショベルナイト』開発元、6年かけた新作延期し資金も使い果たした状況 - GameBusiness.jp",
@@ -1543,60 +1535,28 @@
       "feed_url": "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
-      "title": "Bets gone, game on | Why gaming in India is looking up - The Hindu",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdXlMaVM2QTFfTlJaM01BUHpNOXVpNG53dkhteU9fMm9lMlB6T0pTd0tiM1lmQ2thbV80TXR0eVBEOC1tSjItT21iMEFNRVpuc2F2UVlGanNNTlNEd05VODRzclpSbGRZOVN4U0hCMVpvaUk1WjB6b2NTQUVlaVZjZEV3V0pOUV84SnJhblpJaDMxbnVScHJ5N2pfOTY3aXB6UlpaRkFkbm10SmJublhPblZCVVRtR0JjWndn0gHCAUFVX3lxTE5JeWxGSGxEUlhVcVBEbGJYTmFTTjBTS3pLRkJHWXZUbWJOaWFNLTM0dWRZejRyeVF0dEZYMkNfaEtrVXNnMDdMbmJUdVZLa1h1TURmQ2VsWkl1ek9DN1p1d0h6cGxuNDhIUFlkRngwTDJHNGl1c2hPQjc0MG9FOHdEbE1VSnFRa2tDWVp1TkxzcGFlWU1kVDdnSEh5VF96alEtNTlVZE9UOVhDTmxZODdLV0ZfRFlSV3dwLVJzdkE1c293?oc=5",
-      "source": "The Hindu",
-      "published_at": "2025-11-28T08:00:00+00:00",
-      "summary": "Bets gone, game on | Why gaming in India is looking up    The Hindu",
-      "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20India&hl=en-IN&gl=IN&ceid=IN:en"
+      "title": "Nexting、ベルギーのインディーゲームスタジオFire Foot Studiosが開発する協力型サバイバルホラー『Jester: A Foolish Ritual』をリリース - gamebiz【ゲームビズ】",
+      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBEWk1ZbkpoUHY1Nk1CcFQ1SDdFS2FaNmk0S3RzNks4S1QwbU1SOUZnT1d5aDNnMTAxcTRCU0FuU21TZDBT?oc=5",
+      "source": "gamebiz【ゲームビズ】",
+      "published_at": "2025-10-31T07:00:00+00:00",
+      "summary": "Nexting、ベルギーのインディーゲームスタジオFire Foot Studiosが開発する協力型サバイバルホラー『Jester: A Foolish Ritual』をリリース    gamebiz【ゲームビズ】",
+      "feed_url": "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
-      "title": "‘Games as Soft Power’: India Leads at Moscow Summit | Outlook Respawn - Outlook Respawn",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPc0V6eHFfOUJJNExFWXFteGZtQ3BNd3A1TVhNeUt0Vnd0VHJGSFBIdEpXNTZSNGtNeTU3eHRRRF93S3pWRktwT3lyUkdFZmFadVdaWHdXQ19kSmlkYkNUM0N3U1VTYTk5QVdoM1lIdmxsaXRyRHhuNVZLX3F4R1hQdTZqOVBvWjZIUkx2YUVhSnItQUlKa3FvaDYzN1VIY3ZvcmfSAa8BQVVfeXFMTkUwdTQyNTJYUEpQYTRVejJpTF8xSXktLUZRUll4WUhucG8xRW1fSWstSWFEdEhTRFFLVERXclpNalNTX1dPdlVwbm52TGF1SUZkXzc5Q1lVMkVTRnJETUprR1BxYks2Sk1ZalVTOHRBRmZxdTBYelkwYllpVzZZVXEtUVRRSVNfZV81bWJMRmZyOENxYzlmWFhrWGNER1dRVzFvLWtKUWF2c01kY3R0Yw?oc=5",
-      "source": "Outlook Respawn",
-      "published_at": "2025-11-28T08:00:00+00:00",
-      "summary": "‘Games as Soft Power’: India Leads at Moscow Summit | Outlook Respawn    Outlook Respawn",
-      "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20India&hl=en-IN&gl=IN&ceid=IN:en"
+      "title": "「ダレカレ」開発者のyona氏に聞く，リリースからのこれまでと「センス・オブ・ワンダー ナイト 2025」を受賞した気持ち［TGS2025］ - 4Gamer.net",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9sQzhIT0d6UENGamM3Q2JUX25WRVV2SzR5VzFIRm53MmlYSGVrNFJXc245MDE2RXFCNTYzQ3ZIQXhxNmNPbW1IbEE4U2dadzNEdzhXVEhXV1o1Y3lMU2ZRMGZQQQ?oc=5",
+      "source": "4Gamer.net",
+      "published_at": "2025-09-28T07:00:00+00:00",
+      "summary": "「ダレカレ」開発者のyona氏に聞く，リリースからのこれまでと「センス・オブ・ワンダー ナイト 2025」を受賞した気持ち［TGS2025］    4Gamer.net",
+      "feed_url": "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
-      "title": "AI-powered gaming studio Airoclip bags $2.75 million from T-Accelerate Capital, Centre Court Capital,... - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOX2tONndVelloVmR4a3NWYzdsQzBKZ05vQ01PNjdRX0x6VTl0R2xSZDhzSFdHYjlKXzNMQ1NvSVkxOE1tVTUyOXJiMzB4VUptME5YLVQzNzlvZENaT0p1ejdKd3FlNGR1S0tQVmk2ZWhYbmxRdlZtbEhXNGRGVHlIcklaNjBDd0F0UlR0WDRMTmVNSjh2OHNfVkVvb0VReC14dktfYm1WRkVaTTBSQU9aaWVYeUpNRWpUU2otTlV4MXJSUFd0T2ZGemhpQ1VpS19famkzT21RRU15T3NzVmFaOWNLLTZFUzJoc1dRVmFTX1hmM2FUNFZBUGx2RlFPWTF1UEHSAYcCQVVfeXFMT1haZHlaSDhhZDNnU0lVVUFxNEF2a1NKY0lzekFYdW9uY0xwQ0ZuZV9fM21MOENJaGl5RTZFR2EzdXg1Y3NtVUJSRzRiNW1CQ2dzTWVvT2o5cDBzVGN6NVlKa0hhc0RKclFrYkFBLXhKeVl2SEU0MGtHRFRLXzlyVUF3UGQzbFZSak5KVTNJQThfUGhEMDFWT3dJSnBHNVlQRUNzN3hLWTlvLW90a1hFdnhlaFlTSm1qMjVYX0VzRmJQeDd4QmZpd0diYkUxc29ZRUJLcS1vWHl1R2RBX1hTQzBhOGdveVFPYmgtdWhQTXczTXBOdnpPNWc0eHlnVDJaQnEtcU9OY0E?oc=5",
-      "source": "Moneycontrol.com",
-      "published_at": "2025-10-14T07:00:00+00:00",
-      "summary": "AI-powered gaming studio Airoclip bags $2.75 million from T-Accelerate Capital, Centre Court Capital,...    Moneycontrol.com",
+      "title": "Krafton acquires controlling stake in Indian gaming studio Nautilus Mobile for $14M - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdzFtdU80MDJaVmg2cGhvLXFNU2ZVZUdrODR0cHBRUTdnR2FSR21pclk4RmcxLTVqRHR0X0JkZTI5NklBald5STlaQ1Bta2w2aGtYVjlRSWI0ZFh3QmVNN3RUSTIwYWhVU2NnS3d5d0lraTNpOEh2RFFYUTlrdjY0VUhHN0lGSHBLQVFpdXFQWmZUbEhENnJKRi1pMFl1R3lFbVFxc1duNXBnR3JRY1lxYWhxYkx5bWg1?oc=5",
+      "source": "TechCrunch",
+      "published_at": "2025-03-27T07:00:00+00:00",
+      "summary": "Krafton acquires controlling stake in Indian gaming studio Nautilus Mobile for $14M    TechCrunch",
       "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20India&hl=en-IN&gl=IN&ceid=IN:en"
-    },
-    {
-      "title": "Mobile-Game Makers Rally Around Charity for Accessible Gaming | Outlook Respawn - Outlook Respawn",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQT3lJYXQ2RVVnaDFUbGJMVFJXMkxKQnVVaWx0Y2hMYUlnTVFOSjJMU3VHZ0RRSjNxLWpyRC1WVGU3X2RjWTUxdFhZRTJhblNhOUJ2SzBDa3pzTUt1bUYtQUN5SUdaTzJWaGVEbEhnTXJjLWZHR05yVTczU0RmdmVlOG9BaHB4RV85SC1LeXpGaS12MDdoRmZ3bUpTRW14TTBUV2k0dERJYjNkNTVvVVctOXdfWdIBwAFBVV95cUxNM0pwcGdBd1FRWTNJWlR6b3VnbUtKTGZmYmZJTzRkUDUwZG16LTg3aVAtWHRkNnpuS2dKU3dCM2JTb2o4MElyR1FyRWxJRVJrczc2RWk0TXFmWkstd01zbFlPX2ktNlVyb0JONV9xZ2I2N01udDZPeUZ0NlJ1Y0R1MlhXWnpGZzMwWlVfdm5BeFBBb2VoVGpOSUMtYjRfaUIyQVhteDVfVktDSUF5WFpMV1E4d3R0VllzM1EyXzJhV0c?oc=5",
-      "source": "Outlook Respawn",
-      "published_at": "2025-10-03T07:00:00+00:00",
-      "summary": "Mobile-Game Makers Rally Around Charity for Accessible Gaming | Outlook Respawn    Outlook Respawn",
-      "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20India&hl=en-IN&gl=IN&ceid=IN:en"
-    },
-    {
-      "title": "Amazon Prime Gaming's Luna Changes, Execs on AAA Video Games - Variety",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTFktdFFaQVBUN3RmS1RiOG9CSU5iYUtsU0p3NjNlc015dVk0NVJhMlpmTXctS3VBYWFhUWMzN3ZjNzZLUXNmd2NpRDVuOHlNeEczYm9DV205WTJkbTNCM0V2TEZ3d2JUTS0taW5HM1kzUXVZSE83Y29tNTl4Q3JGdlBZT2pSWFdhcXRIdko2Sms5MjlUc2RBRWJPQ1lvUQ?oc=5",
-      "source": "Variety",
-      "published_at": "2025-10-01T07:00:00+00:00",
-      "summary": "Amazon Prime Gaming's Luna Changes, Execs on AAA Video Games    Variety",
-      "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20India&hl=en-IN&gl=IN&ceid=IN:en"
-    },
-    {
-      "title": "#Exclusive | On Tuesday, Harsh Jain heard whispers of a bill that could shut down Dream11's entire business. By Friday, the ban was real. Overnight, India’s $25Bn real-money gaming industry was gone. In an chat with Shereen Bhan, Jain said he will not chal - LinkedIn",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcHJvUEJmX1p1U04zTXdHNnRoRmNlQ0lYd3NjSTN3bWQwT0NxZGFIdGVMbHNXSjJxTXZCc3dDcHZVamJWang2b2NSSzBjY2VaWUlYeUVoTzkyd1h6ZTh0Tll5U2JFZ0VWU1VxVWNQbUhxd01RVzNHazhqaGZHSFpucXVocDhlZkVBTkFXZjV0OUNOTEhkQVEw?oc=5",
-      "source": "LinkedIn",
-      "published_at": "2025-08-25T07:00:00+00:00",
-      "summary": "#Exclusive | On Tuesday, Harsh Jain heard whispers of a bill that could shut down Dream11's entire business. By Friday, the ban was real. Overnight, India’s $25Bn real-money gaming industry was gone. In an chat with Shereen Bhan, Jain said he will not chal    LinkedIn",
-      "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20India&hl=en-IN&gl=IN&ceid=IN:en"
-    },
-    {
-      "title": "20年前に完成も未発表だった幻の2DピクセルアートRPG『妖怪バスター ナビ之介』スイッチ向けに2026年内発売―『メタスラ』開発者集うスタジオ新作 - Game*Spark",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5WRVF3SFdBUnJuUktFTENWMTVWM0s0RW9BSmpZLUNlTWZfRnpQRWsxd0ZoZmEyMm05bUFSVlg1Uk5SaDZWWThZNkZLUjIyLWJxX2FrZ3U0T3NkSHQwT3ZmWVJzNjVYQQ?oc=5",
-      "source": "Game*Spark",
-      "published_at": "2025-06-12T07:00:00+00:00",
-      "summary": "20年前に完成も未発表だった幻の2DピクセルアートRPG『妖怪バスター ナビ之介』スイッチ向けに2026年内発売―『メタスラ』開発者集うスタジオ新作    Game*Spark",
-      "feed_url": "https://news.google.com/rss/search?q=%E6%B5%B7%E5%A4%96%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
       "title": "「Triple-i Initiative」第2回が4月11日午前1時から開催。世界のインディーゲーム会社37社の合同ショーケース - 電ファミニコゲーマー",
@@ -1607,28 +1567,12 @@
       "feed_url": "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
-      "title": "All The Xbox Game Pass January 2025 Games: ‘Carrion’, ‘EA Sports UFC 5’ And More - AugustMan Singapore",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPT3NXSS0wZ3lzNWIwWm05THdoTEMzd1VaV3d5NEVFTHpDOU9tUVJVdm83cnRwUDB5U1U0dGh4WTJURHlEYmhCMklBdUpfd19wXzc2b1h4VDlsM29ESEpFOXdHQWJhV2JKNHJQTGR1VFJWa3owOWJBWFQwUEhacTlTS2tPaGV6eGlnby1Ic0tHSUMxRVM4dTliLUp1SjZHN0VSZVVIeTVTN0tKRXPSAbABQVVfeXFMUGJNbEFNYk8tUk40N2sxVVRndmhvMjlIQnFoM3VkaXU2ZVlEYXZ4cmtSTDMtVFZGbUNwcmpmWk1MZHBIb25HOUsxX0h6OVpZTFRUZ1RIbG9sWGl4TDc5WnFud24zTHVPUGdkbGtIWnhIa3lNZFFmeE8tUFQ4Z3lCUXVjUVBOZGpXME90eFluNGduT2xFNVozZEM4T2E0bExsaGN5SVFOWXN5X2MyckhyVzQ?oc=5",
-      "source": "AugustMan Singapore",
-      "published_at": "2025-01-18T08:00:00+00:00",
-      "summary": "All The Xbox Game Pass January 2025 Games: ‘Carrion’, ‘EA Sports UFC 5’ And More    AugustMan Singapore",
-      "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20India&hl=en-IN&gl=IN&ceid=IN:en"
-    },
-    {
-      "title": "PopReach closes its Vancouver studio follow sale of mobile games business - GamesIndustry.biz",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSTJqQjRVdGtaSHZZLVc1ZWpPa3JNWmNseGJtNGNOQ1Q2b1dsUm9YaGY2ZGF1Z0RCY29DTWlVT2RpaWFuV0lyV090QUdPYmV3NFRNZXBCelhXa09IVmZCWWxlMlV2VVF5NTNfaC1xQkVWYm5aa2pkbm5vZTdiN2p0VDlVWFdHRWZNM1VSNDYyR0tyYmVqQlJxbHRkWWQ5emhoREE5X0xR?oc=5",
-      "source": "GamesIndustry.biz",
-      "published_at": "2024-10-22T07:00:00+00:00",
-      "summary": "PopReach closes its Vancouver studio follow sale of mobile games business    GamesIndustry.biz",
-      "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20India&hl=en-IN&gl=IN&ceid=IN:en"
-    },
-    {
-      "title": "Gaming Report 2025 - Bain & Company",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9sWDkxSzFJVXg4ZDQxWnk2NXRBQlNsYl9LOTB2Z3doTVY5OHRKQk43TnZDUm5rMU1zeVVRbmhnRFNJNGk4SG8zOWkxS2MzaGs0aUJpYkRXWDhLeGYwTDRHUQ?oc=5",
-      "source": "Bain & Company",
-      "published_at": "2024-08-28T14:06:06+00:00",
-      "summary": "Gaming Report 2025    Bain & Company",
-      "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20India&hl=en-IN&gl=IN&ceid=IN:en"
+      "title": "【ひげまろんGames】新作インディー脱出ゲーム「亡くなったおばあちゃんからの謎解きと思い出のカケラ」無料配信開始！ - newscast.jp",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1iSy1lTVRna2dGN3QyQWM4ZDN6enU5cGRHUmZZQkhueVhGUXN0WTYyYllKY0NtTTNkWjZmUFlaNlA0RWtzcnp3?oc=5",
+      "source": "newscast.jp",
+      "published_at": "2024-12-10T08:00:00+00:00",
+      "summary": "【ひげまろんGames】新作インディー脱出ゲーム「亡くなったおばあちゃんからの謎解きと思い出のカケラ」無料配信開始！    newscast.jp",
+      "feed_url": "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
       "title": "Tango GameworksをKRAFTONが事業継承。『サイコブレイク』『Hi-Fi RUSH』のゲーム開発スタジオ。『Hi-Fi RUSH』のIP拡大に向けた開発にも着手 - ファミ通",
@@ -1639,36 +1583,12 @@
       "feed_url": "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
-      "title": "Will Text-to-Video Games Replace Traditional Gaming Forever? - Analytics India Magazine",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQU0tDUzdqU3ZVejlraEptaW1YVXFjUmxucE1XM085MV9CMm1XNmo0bUFGbFFTRjlQZHJEdkhTb1B1UUdPSko0R1owUzNGc3U4X1lhZ3BQWF95bGtxN1lveTNiWHY2S094YXJuOGt3M0VORE9uNVgyUzUybFd6bkNCQTg2WXNFcElqNG52R0dPdDFXYlV2TzBpdGlHQnhBazJSbExGcWVvRVQ5UQ?oc=5",
-      "source": "Analytics India Magazine",
-      "published_at": "2024-06-11T07:00:00+00:00",
-      "summary": "Will Text-to-Video Games Replace Traditional Gaming Forever?    Analytics India Magazine",
-      "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20India&hl=en-IN&gl=IN&ceid=IN:en"
-    },
-    {
-      "title": "『ジャストコーズ』シリーズで知られるAvalanche Studiosが2つのスタジオを閉鎖―従業員50人を解雇 - Game*Spark",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE14N1hTVE5xX05ZaXBUNE45OVl5T3FDdm0xcmRBSG1uZmtwSDY5MGJPRjhvMjZkc3UxcG1HUEdzUjYwQ3FzdVdZa3ZJbURtRi1WekxxaEJDQTY0TDVGN1g3Zk1qQ0VsZw?oc=5",
-      "source": "Game*Spark",
-      "published_at": "2024-06-04T07:00:00+00:00",
-      "summary": "『ジャストコーズ』シリーズで知られるAvalanche Studiosが2つのスタジオを閉鎖―従業員50人を解雇    Game*Spark",
-      "feed_url": "https://news.google.com/rss/search?q=%E6%B5%B7%E5%A4%96%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA&hl=ja&gl=JP&ceid=JP:ja"
-    },
-    {
-      "title": "Indic Video Games: Indic avatars up their game - ET BrandEquity",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbHd2eGo1d1MzcWVCQ1NyOWhLNXcxRER2emIySnNGT05zRXpyR2VWQm9oazVlaGxxdzB6cmdiTmJGVUFGUkhtODBpSU1ON01YU29oZEJiOXpVd1ZfMTBkN3dLdjBUX2piUlVZMnVFQXo2QUF4UnR4Y19qd2NSM2g2TThEeTNLYm5yLTlZUGJhd2Zua2NMVDFUYWx2RUdnM1FkUjNj?oc=5",
-      "source": "ET BrandEquity",
-      "published_at": "2024-03-27T07:00:00+00:00",
-      "summary": "Indic Video Games: Indic avatars up their game    ET BrandEquity",
-      "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20India&hl=en-IN&gl=IN&ceid=IN:en"
-    },
-    {
-      "title": "Nagaland’s ReDimension Games selected by KRAFTON India’s first Gaming Incubator - Nagaland Tribune",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQR3NtZXZfUC1WWHZIS0J6V0J1czVkZ0hNNUZ3d0VIRGl4MlRuWGxnTEVjRWIyVUU4bWpVbC16SW9CbzhCcU80YTdIX3ZHYWh5akZ2ZXFJQmUzSlZxVVdBLWx2YTktYzNBTWJIQkl5dV9qV3NRTVJsMlN5QW50WkJVeno3SkNWc094cGNiQUlPYUZNdWh4d3ZqWEF0V0ZKTkNOVDQtcHhzME8?oc=5",
-      "source": "Nagaland Tribune",
-      "published_at": "2024-03-19T07:00:00+00:00",
-      "summary": "Nagaland’s ReDimension Games selected by KRAFTON India’s first Gaming Incubator    Nagaland Tribune",
-      "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20India&hl=en-IN&gl=IN&ceid=IN:en"
+      "title": "Gaming: Indie studios: Heart and soul of the gaming industry - The Edge Malaysia",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0zaWN4ZmROM1ZvalJPd0dqeUtRQUJEN1VLZDdFb2JkX3hIcWNkck4wMkpJUUpZckJnU3gza2ZTVUp5STdPNThNMFpJOFVWcHFn?oc=5",
+      "source": "The Edge Malaysia",
+      "published_at": "2024-04-22T07:00:00+00:00",
+      "summary": "Gaming: Indie studios: Heart and soul of the gaming industry    The Edge Malaysia",
+      "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Southeast%20Asia&hl=en-SG&gl=SG&ceid=SG:en"
     },
     {
       "title": "Tencent’s gaming cash cow Honor of Kings sets sights on MENA - TechCrunch",
@@ -1679,60 +1599,36 @@
       "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Eastern%20Europe&hl=en&gl=PL&ceid=PL:en"
     },
     {
-      "title": "Made In Malaysia: Epic Video Games From Our Own Backyard - says.com",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5pV1lJVlR3NHFXT0VvRzZxRERBUUVabUlXY2U4T1VMdWZfb3gzaFBJcWtKcGI2VXAwUkZRSVFjanEzTmZudDBmWkMzd3pJeVNoNjU1bkhyZno4OHR2OXk3UGdLZXpBUQ?oc=5",
-      "source": "says.com",
-      "published_at": "2024-01-09T08:00:00+00:00",
-      "summary": "Made In Malaysia: Epic Video Games From Our Own Backyard    says.com",
-      "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Southeast%20Asia&hl=en-SG&gl=SG&ceid=SG:en"
+      "title": "PHL seen to become Asia-Pacific gaming leader - rpnradio.com",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5WV0xFenh4SXVWdm1NQWh1eVlmSEN6TmotbXgxVjNzVVBlVlVZVEZ2R0NZWVh1YTR4bW5aVHRuZ19kdXNfTUFvbHFqUmNhYnRFM01XWFlER21lMGNEcW1MWHhHNHM2U05HQWtSbTNZalRZd242elE?oc=5",
+      "source": "rpnradio.com",
+      "published_at": "2023-09-15T07:00:00+00:00",
+      "summary": "PHL seen to become Asia-Pacific gaming leader    rpnradio.com",
+      "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Philippines&hl=en-PH&gl=PH&ceid=PH:en"
     },
     {
-      "title": "Video Games Market Size to Hit USD 776.95 Billion By 2035 - Precedence Research",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE80aHgxTzE1bnV2SFI1elBEY2FXanBHMUdtamJJbUxNeElNNEtPOTRfc0pMWS1LZVdnb3h4TXE3NzJZaEFLQUtvcGlJOUIwaGQwRDBjaFJFX29BT3hUbV9DRC1B?oc=5",
-      "source": "Precedence Research",
-      "published_at": "2023-08-22T12:22:12+00:00",
-      "summary": "Video Games Market Size to Hit USD 776.95 Billion By 2035    Precedence Research",
-      "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20India&hl=en-IN&gl=IN&ceid=IN:en"
+      "title": "バンダイナムコグループがインディーゲームクリエイターを全力サポート！インディーゲームクリエイターに向けたコンテスト「第2回GYAAR Studio インディーゲームコンテスト」開催！ - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1yVUc2ZFBZVkd5ak1kZ3hzNWlqT1dSTmszVU9ZWjdSSHdpQmllNjd2azNjLXk1bl9MTzl3bEFUQ2UtektVbmRsVGU0a0FVbHFXTXlRUFFpSzQ4Ni1qbWJENm5GSHBLanJTbHc?oc=5",
+      "source": "PR TIMES",
+      "published_at": "2023-05-25T07:00:00+00:00",
+      "summary": "バンダイナムコグループがインディーゲームクリエイターを全力サポート！インディーゲームクリエイターに向けたコンテスト「第2回GYAAR Studio インディーゲームコンテスト」開催！    PR TIMES",
+      "feed_url": "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
-      "title": "Chinese giant Tencent eyes India comeback with Undawn game launch - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNT2Jncy1iT0NkOGxNWmpITjVPLXdnbFhHQlRzd1pyMzlBbGt2UVpRY3BvMW9DaTRScllPckFzNTdSZ3pzVF95U3hGZ3BBWjU5R3htc3p2V0FSVDBlRFljYm5GSXZvcmJJVFNZODZIOTlRbmVMNmkzTGt3azc2VWd2NUJHVnVWVGxveTZiczI4bnN6TDZsYV9UcGJVamotaWZCZUgzTlhsLVBIOWVkNnotaWF1MURuekIycEp3TjF3a9IBxAFBVV95cUxPRlk4cDB4eC1xSHFlT1NQRG9ZbUlSdVJTOXFid0d1OTJkTURxbnNaaFZMdkJkbVhYSXFYajh2dHhzNkNUZV9JS1Z1dlpnYUZnMXBxNkVVSWdDMXg3UlE3VWExNHF2MlZmMFpfNVlneVpFX1FIOGhnR2VjZVpESGFOSkRoaS1KempXb3hBcU12S1A5azljQ0RDNlRZVU1mTzFOdExTcHN2U2syZDRlaWlGQm9mRzJNQWpoZUtVTzY1M2ZaelYw?oc=5",
-      "source": "Moneycontrol.com",
-      "published_at": "2023-06-15T07:00:00+00:00",
-      "summary": "Chinese giant Tencent eyes India comeback with Undawn game launch    Moneycontrol.com",
-      "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20India&hl=en-IN&gl=IN&ceid=IN:en"
+      "title": "バンダイナムコスタジオのインディーゲームレーベル「GYAAR Studio」主導！インディーゲームクリエイターに向けたコンテスト「第1回GYAAR Studio インディーゲームコンテスト」開催！ | 株式会社バンダイナムコエンターテインメントのプレスリリース - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8wTlgtSkIwWTdUNnBud1pLSm5WSllEcDZIb3JCRWhGSWQtN1JZSlR3ZmVuT0R0b2IzdUpRckpaVVhGa3JwMF9XVUJUSXR3VkR3Y05CaVRNdVdYa1J0dkVkNDhVX0dQYmFGblE?oc=5",
+      "source": "PR TIMES",
+      "published_at": "2022-11-13T08:00:00+00:00",
+      "summary": "バンダイナムコスタジオのインディーゲームレーベル「GYAAR Studio」主導！インディーゲームクリエイターに向けたコンテスト「第1回GYAAR Studio インディーゲームコンテスト」開催！ | 株式会社バンダイナムコエンターテインメントのプレスリリース    PR TIMES",
+      "feed_url": "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
-      "title": "Busted: Myths About Working In The Gaming Industry - Ubisoft",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRzFhUFpCRzNwWk9zelRZd0c5eElBcjJsSFlYLU1IeGZNeXdxaGFmN0tCRVp1Wk5TYVJvOThGbTB4MGRXZTlVZHlmWVlfaEd5MHpkcmdETi11WXVCRjkwQlQ1RVg3NDVwNTdnWmpWY0dOd2c2NjI1RWhrZmF0RXgwYUNBWHBKbXpFX0NFWGpjR2RSWTNtQXNTcFktWnFmQUUybEFoNEhlVFQxZll3VGlsMm95dGQ5NFpKSkU3WjFCWTM0Ql96WXVRSlA1ZVo2bzR4M1pYVXlR?oc=5",
-      "source": "Ubisoft",
-      "published_at": "2023-05-04T07:00:00+00:00",
-      "summary": "Busted: Myths About Working In The Gaming Industry    Ubisoft",
-      "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20India&hl=en-IN&gl=IN&ceid=IN:en"
-    },
-    {
-      "title": "Indian game studios aspire to build AAA games - Techcircle",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUS0tYmVOX0Zwcl9uUDRLaTk4U2FGd2g0MTJJOUJKQWtUb1RmYWRtOGFJaGwtRmtLYlBqMjZmTzI4Ml9nejBDN1QwR2NrX28zejc3V1pJWTE2LWlTZjU1VnBJVFlCRFFxLVd2YlVmcWExU0tvOV96dTZSZTNQbXJHdjZER3hUZ0Y5VzE1dm05dEtRY0E?oc=5",
-      "source": "Techcircle",
-      "published_at": "2023-03-13T07:00:00+00:00",
-      "summary": "Indian game studios aspire to build AAA games    Techcircle",
-      "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20India&hl=en-IN&gl=IN&ceid=IN:en"
-    },
-    {
-      "title": "Indian gaming studios see big action in 2022; take bolder, ambitious bets - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSGJpdEJDbWFiQXA4YTNtZHNJRy1aT1l5eGpacjN1Y1pQQlMzUEFwSzR5eDhlb3lTS2h1U0NYdFMyYmhWbDd1RTRuLU9hQkhUeHBxblIweHhjMFhOMklxZFZUWVZuMjAwQ1JkRTMwNXEwbFVBN3JWQmNIdzRtSDFxYUtvZkpFWlI1R3lxanJPV1I3MVlpYXNwTFN5SDBkMXZxeW1ickdDQ3NSUldMa1k3ZkhfMVNsS1VvTHlIbHliemxicWdZY3lvMTVUOFFmQUdG0gHWAUFVX3lxTFBnUXpkd1lVMURCVTJSNGhiNWdoN18xbXY0UENOZnN5WmRMa09GNWFFZl8xMndlbndaT190aFBFUXJzQWpzMEkwenVFNW1JZGtNZ09lS2F0eVB6SXN4cXJOSS0wREZxSW15Yk5IT0JpeE5xSVJqUjBMQ04zZHoyZ25fMzFQdklJZDFObHhlTHlfMU9WTVBROXJlVkFOVnhoTDZZaktwT1F1SlF2OEplUGR1RzhZb2o2MmtlR1pQenlvRm5xNUE5VlU0cHgzU1RLNEozZUhiX2c?oc=5",
-      "source": "Moneycontrol.com",
-      "published_at": "2022-12-29T08:00:00+00:00",
-      "summary": "Indian gaming studios see big action in 2022; take bolder, ambitious bets    Moneycontrol.com",
-      "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20India&hl=en-IN&gl=IN&ceid=IN:en"
-    },
-    {
-      "title": "Top 4 Gaming Stocks in India to Add to Your Watchlist - Equitymaster",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUTlLOHg2N2V0VThNU0VqOUUtUlFpaUlBLWQ5MlhoZXAxal9HS3ZVQ0ZxN1R5UGxDbUVZeFprZjZhcGZZeWNwYTBWUVBtWHF0MTEyNjdnOHYtdTZZSzRGVW9PN0tIZnp2dFdvd0pIR21PVUs1d0NQRlNRdFZ6SlJ2bmdRTGg0cjF1T3lWUjF5eW1hWGo4YVJpMG1qVWdNbVNfaWJzQWMwdU9KRThFQ1laZUhxSXc2YnAzeWRwT1pSSko?oc=5",
-      "source": "Equitymaster",
-      "published_at": "2022-04-13T07:00:00+00:00",
-      "summary": "Top 4 Gaming Stocks in India to Add to Your Watchlist    Equitymaster",
-      "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20India&hl=en-IN&gl=IN&ceid=IN:en"
+      "title": "Roblox uses popular game platform to back new kids' projects - ABS-CBN",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYUpxRVNFRFJSMFd5dUxBUzJSV2l0YVVyNzlVclkybWJ3RTVGQ2NxLVRaVFl1aVRpY2FRemEwbVBHbXJOOEoxRFN5LURENjVpS0l1SjBZZUhsN1dNbFRxcmV2QWVoTkcyY2pCTnhpNkd0WkRxZXdaR2oxM3psZHgtZkxNNmxUclB2R1BTVXBEY1V0MVU?oc=5",
+      "source": "ABS-CBN",
+      "published_at": "2021-11-16T08:00:00+00:00",
+      "summary": "Roblox uses popular game platform to back new kids' projects    ABS-CBN",
+      "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Philippines&hl=en-PH&gl=PH&ceid=PH:en"
     },
     {
       "title": "This Pinoy game studio secretly worked on ‘The Last of Us Part II’ for years. This is their story - Spin.ph",
@@ -1741,46 +1637,6 @@
       "published_at": "2020-07-22T07:00:00+00:00",
       "summary": "This Pinoy game studio secretly worked on ‘The Last of Us Part II’ for years. This is their story    Spin.ph",
       "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Philippines&hl=en-PH&gl=PH&ceid=PH:en"
-    },
-    {
-      "title": "『ディアブロ』シリーズを生んだ開発者による新パブリッシャー「Skystone Games」設立―インディー開発者の支援と販売業務が目的 - GameBusiness.jp",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBiNEhLQkJrc2VSM090ZndpakZnMlphZzc1c3NVSV9LNEpVbEtjVmF2Y25NQ3FjZ1dtM3FGR0UyWGNoQXFudzIyM25LOU9vUkZHekJyV29FdEhSX0FXQVoxbVM5UTBkRldn?oc=5",
-      "source": "GameBusiness.jp",
-      "published_at": "2020-05-13T07:00:00+00:00",
-      "summary": "『ディアブロ』シリーズを生んだ開発者による新パブリッシャー「Skystone Games」設立―インディー開発者の支援と販売業務が目的    GameBusiness.jp",
-      "feed_url": "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja"
-    },
-    {
-      "title": "Game On: Understanding the Indian Gaming Industry - Invest India",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQckFBSTRxT084OHhwS2lyTjNSRUd4LXNmem9NQmI0aHV4X1dzbzYwM1d5VUxJNUZPbWhZNkZuV3VEYUQ5d19ud2xsMVJDYVgxYWZ4X0FvOEtvWVN1WVJLOVRtSkdhYUh6M0RDNnJPemZBbWhRWnd1bmFUb1RVdktGOW9fRUs2WEhwazlyc0lxS1Fsb2s?oc=5",
-      "source": "Invest India",
-      "published_at": "2019-12-27T08:00:00+00:00",
-      "summary": "Game On: Understanding the Indian Gaming Industry    Invest India",
-      "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20India&hl=en-IN&gl=IN&ceid=IN:en"
-    },
-    {
-      "title": "噂：『メトロイドプライム4』はバンダイナムコスタジオ・シンガポールが開発か―海外報道 - Game*Spark",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1tSk53NlFibk85SW95MlFSRmpmVE45YXh0RWJCUHVrY3ItcmdYQXJYcUhfRDhYOHM0eHBFSk5Ha2VxNENMcUtOTmFYZzFQM202c3JvVmlveUYzNDhBYktIZnJCZHM?oc=5",
-      "source": "Game*Spark",
-      "published_at": "2018-02-10T08:00:00+00:00",
-      "summary": "噂：『メトロイドプライム4』はバンダイナムコスタジオ・シンガポールが開発か―海外報道    Game*Spark",
-      "feed_url": "https://news.google.com/rss/search?q=%E6%B5%B7%E5%A4%96%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA&hl=ja&gl=JP&ceid=JP:ja"
-    },
-    {
-      "title": "海底SFホラー『SOMA』プレビュー映像が複数公開―『Amnesia』開発スタジオの新作 - Game*Spark",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE52dmF2TzlVVlM4VW93TFJMVGpsV2ZhdHdHX05kNUxhMVYwX2haVXYtTFBxaUtyaFAxd0RVMTZtdXJ2WTVvbEtrUl9oYURSUWRoWUQwR0Z0eVAxTjFZTGVPeXRkelE?oc=5",
-      "source": "Game*Spark",
-      "published_at": "2015-07-17T07:00:00+00:00",
-      "summary": "海底SFホラー『SOMA』プレビュー映像が複数公開―『Amnesia』開発スタジオの新作    Game*Spark",
-      "feed_url": "https://news.google.com/rss/search?q=%E6%B5%B7%E5%A4%96%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA&hl=ja&gl=JP&ceid=JP:ja"
-    },
-    {
-      "title": "Rockstar Games - Rockstar Games",
-      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9QN2lxUW9Ed01TMjRmSGZnU3ZmbUVtNWI0WkJRak5DRGFnMlhfOUtsd0pSejR6YjV1Rkp4WkdRWDZkZTVt?oc=5",
-      "source": "Rockstar Games",
-      "published_at": "2011-07-28T11:20:28+00:00",
-      "summary": "Rockstar Games    Rockstar Games",
-      "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20India&hl=en-IN&gl=IN&ceid=IN:en"
     }
   ]
 }
