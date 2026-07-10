@@ -1,8 +1,8 @@
 {
   "type": "FeatureCollection",
   "properties": {
-    "created_at": "2026-07-10T20:24:19.160421+00:00",
-    "count": 26,
+    "created_at": "2026-07-10T22:05:04.594890+00:00",
+    "count": 25,
     "stats": {
       "feed_id": "google-news-disaster-ja",
       "feed_label": "Google News: 災害・地震・大雨",
@@ -14,9 +14,9 @@
       "fetched_by_url": {
         "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja": 77
       },
-      "filtered": 68,
-      "resolved": 26,
-      "unresolved": 42,
+      "filtered": 69,
+      "resolved": 25,
+      "unresolved": 44,
       "rules": 384,
       "known_places": 1357,
       "loaded_data_files": [
@@ -1957,33 +1957,6 @@
         "confidence": 0.86,
         "rule_id": "disaster_201903_mori_town_shizuoka_natural_disasters_page",
         "matched_text": "自然災害(台風・集中豪雨・地震) - town.morimachi.shizuoka.jp",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          132.4553,
-          34.3853
-        ]
-      },
-      "properties": {
-        "title": "平成２３年度の大雨，台風，地震等による被害等の状況について - 防災・災害情報 - pref.hiroshima.lg.jp",
-        "source": "pref.hiroshima.lg.jp",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUTlxOWlpc0tNcjhIUlJ0RGVhUEJXQks5N1JCOTNkazNna1JYT0NNeldhS0JvbW9UXzhiNFJHMTR6ajJDVlFzY3N2dVRZemdtMXcyZ1o0SzA2ZmlhRUNTSDEwWEJ4bkw3MTUtd0l2RGsxdDdZOVVnWENLWXUtcHRQUg?oc=5",
-        "published_at": "2011-12-01T08:00:00+00:00",
-        "representative_place": "Hiroshima Prefecture / Hiroshima City representative",
-        "place_label": "日本-広島県-広島市-平成23年度大雨・台風・地震被害状況代表点",
-        "sort_place_label": "日本-広島県-広島市-平成23年度大雨・台風・地震被害状況代表点",
-        "geocode_query": "Hiroshima Prefecture Hiroshima City FY2011 heavy rain typhoon earthquake damage status",
-        "place_type": "prefectural_disaster_damage_report_representative",
-        "location_precision": "city",
-        "place_reason": "The unresolved item is a Hiroshima Prefecture disaster-information page about FY2011 damage from heavy rain, typhoons, earthquakes, and similar events. The title and source identify the prefectural public-information actor, but not a single damaged municipality or site, so use Hiroshima City as the prefectural representative point rather than an arbitrary disaster location.（一致語: 平成２３年度の大雨，台風，地震等による被害等の状況について - 防災・災害情報 - pref.hiroshima.lg.jp）",
-        "confidence": 0.78,
-        "rule_id": "disaster_201112_hiroshima_prefecture_fy2011_damage_status",
-        "matched_text": "平成２３年度の大雨，台風，地震等による被害等の状況について - 防災・災害情報 - pref.hiroshima.lg.jp",
         "match_source": "known_place_title"
       }
     }
