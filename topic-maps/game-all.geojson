@@ -1,8 +1,8 @@
 {
   "type": "FeatureCollection",
   "properties": {
-    "created_at": "2026-07-10T16:57:16.945123+00:00",
-    "count": 856,
+    "created_at": "2026-07-10T18:25:55.234123+00:00",
+    "count": 851,
     "stats": {
       "feed_id": "game-all",
       "feed_label": "ゲーム",
@@ -28,7 +28,7 @@
         "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja"
       ],
       "rss_url": "https://www.gamedeveloper.com/rss.xml",
-      "fetched": 993,
+      "fetched": 994,
       "fetched_by_url": {
         "https://www.gamedeveloper.com/rss.xml": 50,
         "https://www.gamesindustry.biz/feed": 100,
@@ -40,8 +40,8 @@
         "https://www.nag.co.za/feed/": 10,
         "https://www.kakuchopurei.com/feed/": 10,
         "https://www.afkgaming.com/feed": 0,
-        "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20India&hl=en-IN&gl=IN&ceid=IN:en": 78,
-        "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Philippines&hl=en-PH&gl=PH&ceid=PH:en": 75,
+        "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20India&hl=en-IN&gl=IN&ceid=IN:en": 79,
+        "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Philippines&hl=en-PH&gl=PH&ceid=PH:en": 76,
         "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Eastern%20Europe&hl=en&gl=PL&ceid=PL:en": 78,
         "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Africa&hl=en&gl=ZA&ceid=ZA:en": 79,
         "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Southeast%20Asia&hl=en-SG&gl=SG&ceid=SG:en": 78,
@@ -51,8 +51,8 @@
         "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja": 78
       },
       "filtered": 898,
-      "resolved": 856,
-      "unresolved": 42,
+      "resolved": 851,
+      "unresolved": 47,
       "rules": 384,
       "known_places": 1357,
       "loaded_data_files": [
@@ -4795,33 +4795,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3522,
-          48.8566
-        ]
-      },
-      "properties": {
-        "title": "長らく開発中の新作アクションADV『Star Wars Eclipse』を救うにはレイオフ中止が必要と主張。『Detroit: Become Human』開発元でストライキ実施との海外報道 - Game*Spark",
-        "source": "Game*Spark",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5McENmSUl1TFFWNDBmZllhelNRSm1OZkRfT21NTVFReGhJTzhrOU9XNEJFcDZodzRjSy13QlRmU1BWU1g3YmxsbHZiMFBoeTZILXAtYTZxZmJOenJmTG5mdXQ0SnJxUQ?oc=5",
-        "published_at": "2026-06-27T07:00:00+00:00",
-        "representative_place": "Quantic Dream Paris studio context",
-        "place_label": "フランス-パリ-Quantic-Dream-Star-Wars-Eclipse",
-        "sort_place_label": "フランス-パリ-Quantic-Dream-Star-Wars-Eclipse",
-        "geocode_query": "Quantic Dream Paris France",
-        "place_type": "studio_company_city",
-        "location_precision": "city",
-        "place_reason": "Star Wars Eclipse関連の記事を、別スタジオではなくQuantic DreamのParis拠点に置く（一致語: Detroit: Become Human）",
-        "confidence": 0.78,
-        "rule_id": "observed_star_wars_eclipse_quantic_dream_paris_202606",
-        "matched_text": "Detroit: Become Human",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -115.1511,
           36.1314
         ]
@@ -6037,33 +6010,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          21.0186,
-          52.2695
-        ]
-      },
-      "properties": {
-        "title": "CD Projekt joint-CEO says it's \"fair\" that the studio \"lost the faith\" of some of its audience after Cyberpunk 2077 launch",
-        "source": "GamesIndustry.biz Latest Articles Feed",
-        "link": "https://www.gamesindustry.biz/cd-projekt-joint-ceo-says-its-fair-that-the-studio-lost-the-faith-of-some-of-its-audience-after-cyberpunk-2077-launch",
-        "published_at": "2026-06-22T09:24:20+00:00",
-        "representative_place": "CD PROJEKT S.A. / ul. Jagiellońska 74 building E",
-        "place_label": "ポーランド-ワルシャワ-ul. Jagiellońska 74 building E-CD PROJEKT / Cyberpunk 2077代表点",
-        "sort_place_label": "ポーランド-ワルシャワ-ul. Jagiellońska 74 building E-CD PROJEKT / Cyberpunk 2077代表点",
-        "geocode_query": "ul. Jagiellońska 74 building E 03-301 Warszawa CD PROJEKT Cyberpunk 2077",
-        "place_type": "game_company_sales_update_hq_representative",
-        "location_precision": "building",
-        "place_reason": "Task 1 refinement for the Cyberpunk 2077 sales-update override. The item was already mapped to CD PROJEKT / Warsaw as the developer/publisher-side representative. Existing later dictionary context has CD PROJEKT S.A. / ul. Jagiellońska 74 building E as a building-level company representative, so replace the generic Warsaw city point with that existing company-side point. This does not claim a sales-report venue, media office, in-game location, or production-room coordinate.（一致語: Cyberpunk 2077）",
-        "confidence": 0.84,
-        "rule_id": "observed_cyberpunk_2077_cd_projekt_warsaw_202607",
-        "matched_text": "Cyberpunk 2077",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           28.0473,
           -26.2041
         ]
@@ -6434,33 +6380,6 @@
         "confidence": 0.78,
         "rule_id": "observed_xenonauts2_goldhawk_london_202606",
         "matched_text": "ゼノノーツ 2",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.7174,
-          51.0543
-        ]
-      },
-      "properties": {
-        "title": "『バルダーズ・ゲート』ドラマ化に開発元ラリアン・スタジオ内で意見対立か CEOと幹部で見解分かれ、HBOとの交渉秘話も飛び出しファン騒然 - 玩具人 TOY PEOPLE",
-        "source": "玩具人 TOY PEOPLE",
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBXUmlWNEtiTURuZVk3N3hncnhNN3VkSUZ4ODIyTE9pUjhILXY3SUlBQThjSjY3dEJUVno3VVFsRzN2UHEzckx1RXZMQU40d3Jh?oc=5",
-        "published_at": "2026-06-11T19:56:01+00:00",
-        "representative_place": "Larian Studios / Ghent",
-        "place_label": "ベルギー-フランデレン地域-ヘント-Larian Studios / Baldur's Gate 3",
-        "sort_place_label": "ベルギー-フランデレン地域-ヘント-Larian Studios / Baldur's Gate 3",
-        "geocode_query": "Larian Studios headquarters Ghent Belgium Baldur's Gate 3",
-        "place_type": "game_developer_headquarters",
-        "location_precision": "city",
-        "place_reason": "記事タイトルは『バルダーズ・ゲート』のHBOドラマ化をめぐるラリアン・スタジオ内の反応/交渉を主題にしている。関連報道ではHBO/Craig Mazin側がLarianに接触し、Larian CEO Swen Vinckeやpublishing director Michael Douseの反応が記事化されている。作品・発言主体として最も場所性を持つのはBaldur's Gate 3開発元のLarian Studiosであり、同社はBelgiumのGhentを本拠とする。HBOの制作地や会議場所は記事タイトル/要約から特定できないため、開発元本社のGhentを代表地点にする。（一致語: 『バルダーズ・ゲート』ドラマ化に開発元ラリアン・スタジオ内で意見対立か CEOと幹部で見解分かれ、HBOとの交渉秘話も飛び出しファン騒然 - 玩具人 TOY PEOPLE）",
-        "confidence": 0.82,
-        "rule_id": "observed_baldurs_gate_hbo_larian_ghent_202606",
-        "matched_text": "『バルダーズ・ゲート』ドラマ化に開発元ラリアン・スタジオ内で意見対立か CEOと幹部で見解分かれ、HBOとの交渉秘話も飛び出しファン騒然 - 玩具人 TOY PEOPLE",
         "match_source": "known_place_title"
       }
     },
@@ -10146,9 +10065,9 @@
         ]
       },
       "properties": {
-        "title": "Ideas: Press start: Southeast Asia’s video games leap - KLSE Screener",
-        "source": "KLSE Screener",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPai1iZURaQUgtY0p1RWNsN0ZvU1ZrUWhGSkg4R2RnYnZpcllxOW9oZ3hkcUdXZDhnQmJKTkJXVUEyYzBadWc5OHliZG51a0x2aXVBeE5KSDNOaWNPTG9uSmpDTG1UVEs0c0Jzc0pGSlFESTl2ejZUTEh1X2ZSMkNNT1lMdXRTQkt2NXJ1eU9SZmpkWDdYay1wTGoxc1NJNjhPUkRz?oc=5",
+        "title": "Ideas: Press start: Southeast Asia’s video games leap - The Edge Malaysia",
+        "source": "The Edge Malaysia",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9xazdlRk1QM3VGNnBkeHRfbGRoelJxeFk3SF9sdzkwS3JhajRpTVhMTjNGWTZNWHM2ZHl5SU9qSk1MUWdlR3IwOFpjTzdnOFVX?oc=5",
         "published_at": "2026-03-09T07:00:00+00:00",
         "representative_place": "Virtuos / Fusionopolis, Singapore",
         "place_label": "シンガポール-Fusionopolis-Virtuos",
@@ -10200,8 +10119,8 @@
         ]
       },
       "properties": {
-        "title": "QualiArtsとカバーが共同開発する「ホロライブ」初のスマホゲーム『hololive Dreams』（略称「ホロドリ」）が全世界同時*事前登録を開始 - hololive.hololivepro.com",
-        "source": "hololive.hololivepro.com",
+        "title": "QualiArtsとカバーが共同開発する「ホロライブ」初のスマホゲーム『hololive Dreams』（略称「ホロドリ」）が全世界同時*事前登録を開始 - ホロライブ公式サイト",
+        "source": "ホロライブ公式サイト",
         "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE03R01UWEdYRmNCQzBlamk4X0VKS0JNT1E5S243NUQ4OG5ybVBpTWtDb1VLLWFKNEszb3NjSTRCX2I0RkVKQklFeEZFcnVaWEJMdDhkOFNkU3RpZmxZT1hENFhEWQ?oc=5",
         "published_at": "2026-03-06T08:00:00+00:00",
         "representative_place": "Bandai Namco Entertainment / Minato, Tokyo representative",
@@ -11572,33 +11491,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.4737,
-          31.2304
-        ]
-      },
-      "properties": {
-        "title": "「日本の開発者にはマネできない部分がある」吉田修平氏が見た中国ゲームの現場。ビジネスマインドと「長く働ける環境」 - ゲーム情報！ゲームのはなし",
-        "source": "ゲーム情報！ゲームのはなし",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0xWExtaU9mN0VrZ3VYLTFiY2hFaG1qcmZjVDIzQ05MN3FNWWNmTjhfSTRkZFV3Rm5jUFQ0bDhwalFyQmp0aGtGakd3YzBVMTREMXpuTkU3Q1ZLOEZyRnhBTzNFeWhlcUQ2VXZqNE9mSEFMQVpI?oc=5",
-        "published_at": "2025-12-07T08:00:00+00:00",
-        "representative_place": "Chinese game-development scene / Shanghai representative",
-        "place_label": "中国-上海市",
-        "sort_place_label": "中国-上海市",
-        "geocode_query": "Shuhei Yoshida Chinese game development workplaces Shanghai representative",
-        "place_type": "game_development_industry_observation_city_representative_uncertain_site",
-        "location_precision": "country_city",
-        "place_reason": "The generated unresolved item is about Shuhei Yoshida's observation of Chinese game-development workplaces and business mindset. The unresolved record does not expose a specific studio, city, interview venue, or event, so use a low-confidence Shanghai representative for the Chinese game-development scene rather than a Japan-side or media-source point. This is not an exact studio location.（一致語: 「日本の開発者にはマネできない部分がある」吉田修平氏が見た中国ゲームの現場。ビジネスマインドと「長く働ける環境」 - ゲーム情報！ゲームのはなし）",
-        "confidence": 0.34,
-        "rule_id": "game_all_20260709_yoshida_china_game_workplaces_shanghai_rep_202512",
-        "matched_text": "「日本の開発者にはマネできない部分がある」吉田修平氏が見た中国ゲームの現場。ビジネスマインドと「長く働ける環境」 - ゲーム情報！ゲームのはなし",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -0.939,
           51.004
         ]
@@ -11996,6 +11888,33 @@
         "confidence": 0.8,
         "rule_id": "observed_sega_gintama_mobile_osaki_202511",
         "matched_text": "新作ゲーム『銀魂 すまほ ばとるくろにくる』配信決定！ 本日より事前登録開始！ - sega.jp",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2437,
+          34.0522
+        ]
+      },
+      "properties": {
+        "title": "「来年初めにはコンソール版も日本語対応予定」スーパーヒーロー職場ADV『Dispatch』【開発者インタビュー】 - Game*Spark",
+        "source": "Game*Spark",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1yVUd6eUNzTEs3S3lqTWttckNSakhaZDJpNVlwM1NkRzNBaTBaXzZ4V3dmeHBDQUJNRW1PQ2p6alFrT3B0aWhLUEZzVmwyOEcycERaQWxXNng1ZjA5ekZxbTNCRV9xdw?oc=5",
+        "published_at": "2025-11-08T08:00:00+00:00",
+        "representative_place": "AdHoc Studio / Los Angeles",
+        "place_label": "米国-カリフォルニア州-ロサンゼルス-AdHoc Studio / Dispatch interview",
+        "sort_place_label": "米国-カリフォルニア州-ロサンゼルス-AdHoc Studio / Dispatch interview",
+        "geocode_query": "AdHoc Studio Los Angeles California Dispatch game",
+        "place_type": "game_developer_interview_company_site_uncertain_office",
+        "location_precision": "city",
+        "place_reason": "記事主語はスーパーヒーロー職場ADV『Dispatch』の開発者インタビュー。DispatchはAdHoc Studio開発作で、AdHoc StudioはLos Angeles拠点として確認できる。媒体所在地ではなく開発主体に置く。正確なオフィス住所までは確認していないためB1に留める。648.jsonのPodcast記事と同じ作品・開発主体だが、別記事タイトルなのでtitle overrideとして追加する。（一致語: 「来年初めにはコンソール版も日本語対応予定」スーパーヒーロー職場ADV『Dispatch』【開発者インタビュー】 - Game*Spark）",
+        "confidence": 0.72,
+        "rule_id": "observed_dispatch_developer_interview_adhoc_studio_los_angeles_202511",
+        "matched_text": "「来年初めにはコンソール版も日本語対応予定」スーパーヒーロー職場ADV『Dispatch』【開発者インタビュー】 - Game*Spark",
         "match_source": "known_place_title"
       }
     },
@@ -13516,33 +13435,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.4194,
-          37.7749
-        ]
-      },
-      "properties": {
-        "title": "KRAFTON、『Subnautica』シリーズ開発スタジオ経営陣の突然の変更発表―新任CEOは『Callisto Protocol』開発スタジオ代表に - Game*Spark",
-        "source": "Game*Spark",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBXT1cwUlpSU0dxV0hubFp1M1hRcHJydmp4WlFrMkVqU3ZtN3JIbk1Bd1paVnQ1Y3JGOUNheGpwcWRqNDJJRnNnT2lfLXhVT1BfYVZBaDBpUmxmeERTckZQVGh4YU5Wdw?oc=5",
-        "published_at": "2025-07-02T07:00:00+00:00",
-        "representative_place": "Unknown Worlds Entertainment / San Francisco representative",
-        "place_label": "米国-カリフォルニア州-サンフランシスコ",
-        "sort_place_label": "米国-カリフォルニア州-サンフランシスコ",
-        "geocode_query": "Unknown Worlds Entertainment San Francisco Subnautica Krafton CEO change",
-        "place_type": "game_studio_management_change_city_representative_uncertain_office",
-        "location_precision": "city",
-        "place_reason": "The generated unresolved item is specifically about a management change at the Subnautica development studio under KRAFTON. Use Unknown Worlds Entertainment / San Francisco as the studio-side representative rather than KRAFTON Seoul, the incoming CEO's prior studio, or the Game*Spark source. This is not an exact office coordinate and should be refined if full article parsing identifies a more precise studio address.（一致語: KRAFTON、『Subnautica』シリーズ開発スタジオ経営陣の突然の変更発表―新任CEOは『Callisto Protocol』開発スタジオ代表に - Game*Spark）",
-        "confidence": 0.62,
-        "rule_id": "game_all_20260709_krafton_subnautica_unknown_worlds_sf_202507",
-        "matched_text": "KRAFTON、『Subnautica』シリーズ開発スタジオ経営陣の突然の変更発表―新任CEOは『Callisto Protocol』開発スタジオ代表に - Game*Spark",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -74.006,
           40.7128
         ]
@@ -13845,8 +13737,8 @@
         ]
       },
       "properties": {
-        "title": "100万本突破の“バカゲー”に開発者も困惑！？ 協力型クライミングゲーム『Peak』が大ヒット｜ゲームboy🎮｜ゲーム＆アニメ紹介 - Note.com",
-        "source": "Note.com",
+        "title": "100万本突破の“バカゲー”に開発者も困惑！？ 協力型クライミングゲーム『Peak』が大ヒット｜ゲームboy🎮｜ゲーム＆アニメ紹介 - note",
+        "source": "note",
         "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4wRHBDT3pSeHcyMW1aREsxM1lyNkZSMllhbUJBaGlPRWtPMWxRek9BZ29waE1Pb0tsLW5QSW9hVHBqSXdYMUNwVjVDSEhpSmhMTDlnZXdpREI?oc=5",
         "published_at": "2025-06-24T07:00:00+00:00",
         "representative_place": "Aggro Crab / Seattle representative, co-developed with Landfall",
@@ -18322,6 +18214,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          103.7873,
+          1.2992
+        ]
+      },
+      "properties": {
+        "title": "Indie Jam 2023 To Showcase Southeast Asian Gaming Excellence in Kuala Lumpur - Pokde.Net",
+        "source": "Pokde.Net",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9UcHhBdW1aTzZGeENrUWtNNUtTZC16UXIwSjY5RlZyQ0pMWERSajVGVjJVYW91Zm9xdjV3QTJuV1VtS3M0aTZaM2QwT0R1LTFPVG9LcnJJYjUzWWFORWtxcnkzT2pWSlE?oc=5",
+        "published_at": "2023-11-12T08:00:00+00:00",
+        "representative_place": "Virtuos / Fusionopolis, Singapore",
+        "place_label": "シンガポール-Fusionopolis-Virtuos",
+        "sort_place_label": "シンガポール-Fusionopolis-Virtuos",
+        "geocode_query": "Virtuos Fusionopolis Singapore",
+        "place_type": "game_services_company_site",
+        "location_precision": "city_district",
+        "place_reason": "Virtuosの東南アジア開発体制に関する記事なので、地域代表点ではなく同社本社所在地であるSingapore / Fusionopolisに置く。（一致語: Southeast Asia）",
+        "confidence": 0.78,
+        "rule_id": "observed_virtuos_southeast_asia_singapore_202512",
+        "matched_text": "Southeast Asia",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           101.6869,
           3.139
         ]
@@ -20995,33 +20914,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.4194,
-          37.7749
-        ]
-      },
-      "properties": {
-        "title": "Asian American Game Developers Are Dreaming of Their Own Minari Moment - IGN",
-        "source": "IGN",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMFV0YWs4YkZreXplN2UwN1lGUHhnN3ZUMDhaWVVhUWI2U3BEXzRoNEhKeC1HdzlZblM0eFI2N0NmYmRNc0ZKRHZVMGNsVDFwUXRFdU1xSDZtak9laXRQb055eV9sV2pQOUlUYVNpMzkzMEJCNEloLUNqY0lVTXVmX3UtTQ?oc=5",
-        "published_at": "2021-08-16T07:00:00+00:00",
-        "representative_place": "Asian American game developers article / San Francisco representative",
-        "place_label": "米国-カリフォルニア州-サンフランシスコ",
-        "sort_place_label": "米国-カリフォルニア州-サンフランシスコ",
-        "geocode_query": "Asian American game developers IGN Minari moment San Francisco representative",
-        "place_type": "game_developer_representation_article_city_representative_uncertain_subject_location",
-        "location_precision": "city",
-        "place_reason": "The generated unresolved item is a broad article about Asian American game developers and representation. The unresolved record does not expose one developer, studio, event, or city, so use San Francisco as a low-confidence US games/Asian American developer representative rather than the Southeast Asia feed geography or an arbitrary developer. This is not an exact studio or interview coordinate.（一致語: Asian American Game Developers Are Dreaming of Their Own Minari Moment - IGN）",
-        "confidence": 0.28,
-        "rule_id": "game_all_20260709_asian_american_game_devs_ign_sf_rep_202108",
-        "matched_text": "Asian American Game Developers Are Dreaming of Their Own Minari Moment - IGN",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -118.3965,
           34.0211
         ]
@@ -21446,33 +21338,6 @@
         "confidence": 0.64,
         "rule_id": "observed_sao_memory_defrag_bandai_namco_minato_tokyo_201801",
         "matched_text": "事前登録",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          114.1694,
-          22.3193
-        ]
-      },
-      "properties": {
-        "title": "ゲームファンドKowloon Nights，未発表作品を含めて新たに23タイトルへの支援を発表 - 4Gamer.net",
-        "source": "4Gamer.net",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9oUE50V19XeGZhU1pBLWlRNlFQOWRTWDQxNVphNzl1MnlFaXdNOVBzX3RyeWZheDVkUGp6cGlIRi1MVTQ2dVZjZ19tSUV2RWtjam1UM3ZRelB0SWlQM3huUnJBbw?oc=5",
-        "published_at": "2021-02-05T08:00:00+00:00",
-        "representative_place": "Kowloon Nights / Hong Kong representative",
-        "place_label": "香港-Kowloon Nights / 23 studios funding announcement",
-        "sort_place_label": "香港-Kowloon Nights / 23 studios funding announcement",
-        "geocode_query": "Kowloon Nights video game fund Hong Kong",
-        "place_type": "game_investment_fund_announcement",
-        "location_precision": "city",
-        "place_reason": "電ファミニコゲーマー/4GamerのRSS記事は、ゲーム系ファンドKowloon Nightsが未発表作品を含む23のスタジオ/開発チームへ資金提供を表明したという投資ファンド記事。記事は複数スタジオを横断するため個別スタジオ所在地には置かず、主語であるKowloon Nightsを代表地点にする。外部確認ではKowloon NightsはKowloon Cityへの参照を含む名称とアジア市場文脈を持つゲーム投資ファンドとして説明されるが、記事固有のオフィス住所までは確認できなかったため、Hong Kong representativeのcity precision、低めのconfidenceで置く。より正確な法人登記地や運営拠点が判明した場合は差し替える。（一致語: ゲームファンドKowloon Nights，未発表作品を含めて新たに23タイトルへの支援を発表 - 4Gamer.net）",
-        "confidence": 0.62,
-        "rule_id": "observed_kowloon_nights_23_studios_hong_kong_202102",
-        "matched_text": "ゲームファンドKowloon Nights，未発表作品を含めて新たに23タイトルへの支援を発表 - 4Gamer.net",
         "match_source": "known_place_title"
       }
     },
@@ -23020,33 +22885,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.6503,
-          35.6762
-        ]
-      },
-      "properties": {
-        "title": "ディライトワークスが韓国ゲーム会社とタッグ！新作『ミコノート』イラストレーターはしらび氏、声優に斉藤朱夏さんら - インサイド",
-        "source": "インサイド",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE02SlZWdHpBY0RBbVBaYjM0aWhLVXFXQjllZWtad2wyOGQ1aDY0RTBBUGgxQkFRQVZhTDVNcEN3M1JMa1BLZkNHNlZZaDh3RnZPUHMzMVhXWlV1cF80NDNueS1jLW5ZSkxReFE?oc=5",
-        "published_at": "2019-02-05T08:00:00+00:00",
-        "representative_place": "Delightworks / Tokyo representative",
-        "place_label": "日本-東京都-ディライトワークス / ミコノート",
-        "sort_place_label": "日本-東京都-ディライトワークス / ミコノート",
-        "geocode_query": "Delightworks Tokyo Miko Note mobile game MADORCA",
-        "place_type": "mobile_game_joint_development_announcement",
-        "location_precision": "city",
-        "place_reason": "インサイドの関連記事は、ディライトワークスが新作スマートフォンゲーム『ミコノート』を発表したという発表記事。batch 796で追加した共同開発記事と同じ作品・同じ会社文脈で、外部確認では『Miko Note』は韓国開発会社MADORCAによる初期発表とディライトワークスの日本側展開が確認できるが、MADORCAの精密な所在地は未確認。今回の追加タイトルでは記事タイトルがディライトワークスの新作発表を主語としているため、既存idを上書きして別タイトルをaliasesに加え、同社の東京ゲーム会社文脈を代表地点にする。韓国側開発会社の所在地が確認できた場合は差し替え検討。（一致語: ディライトワークスが韓国ゲーム会社とタッグ！新作『ミコノート』イラストレーターはしらび氏、声優に斉藤朱夏さんら - インサイド）",
-        "confidence": 0.68,
-        "rule_id": "observed_mikonote_delightworks_tokyo_201902",
-        "matched_text": "ディライトワークスが韓国ゲーム会社とタッグ！新作『ミコノート』イラストレーターはしらび氏、声優に斉藤朱夏さんら - インサイド",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           18.4241,
           -33.9249
         ]
@@ -23803,33 +23641,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          73.8567,
-          18.5204
-        ]
-      },
-      "properties": {
-        "title": "Is Singapore’s gaming scene levelling up? GameStart Asia’s Elicia Lee shares her views - Yahoo News Singapore",
-        "source": "Yahoo News Singapore",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWWhpTm16ZGpQeHkwOWFXektQV3ZhTXRsaU1wa3Y5aGgwVzlfaXRrbFUwQV9YclZkOUdrWlpyYjJ1dExBQ0JnRUZkQnJnNTNURGtvZ3FleW10VXVJRmRqZjdTX2FZMTBOTnNVa2FUMzhzckJkSDM3U1JRTkN3QURrMjBycFZQSE5fN2Q4MjFOWFZWeV9jYWt2WXNjWjk2UnVS?oc=5",
-        "published_at": "2016-10-12T07:00:00+00:00",
-        "representative_place": "Fortune Business Insights / Pune representative",
-        "place_label": "インド-マハーラーシュトラ州-プネー-Fortune Business Insights / board games market report",
-        "sort_place_label": "インド-マハーラーシュトラ州-プネー-Fortune Business Insights / board games market report",
-        "geocode_query": "Fortune Business Insights Pune board games market report",
-        "place_type": "market_research_report_publisher_representative",
-        "location_precision": "city",
-        "place_reason": "The legacy active entry treated the Board Games Market 2034 report item as a global / multi-region market-report topic. A later repository entry for the same Fortune Business Insights board-games market report already uses Pune as the concrete publisher-context representative, while noting that the report itself is not a single game studio, launch, or event venue. This override aligns the older global market-report entry with that later same-topic Pune representative. This is not a board-game market event, company in the report, exact publisher office coordinate, or media office; replace it if the full report page is later parsed into a more specific company, region, or office anchor.（一致語: Share）",
-        "confidence": 0.6,
-        "rule_id": "observed_board_games_market_fortune_business_insights_pune_legacy_202108",
-        "matched_text": "Share",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           140.035,
           35.647
         ]
@@ -24011,6 +23822,60 @@
         "confidence": 0.84,
         "rule_id": "observed_finally_video_game_hero_africa_kiroo_yaounde_201601",
         "matched_text": "Finally, a video game hero for Africa - CNN",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4964,
+          41.9028
+        ]
+      },
+      "properties": {
+        "title": "伊インディーのリメイク版『バイオハザード2』開発中止―近くカプコンと「アイデアを議論」 - Game*Spark",
+        "source": "Game*Spark",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1lT0I3RHlDRERLRGg2R25yLUFvUDNKV295SV9kWEh0bTdLU3NSWVV1NTNHOEM2c0xGTzg5ZWZlclh4LWxMUnl3cG1id21XQmVaSWdHR0dGM2VpZTdDelM2dWpxNTQ?oc=5",
+        "published_at": "2015-08-18T07:00:00+00:00",
+        "representative_place": "Invader Studios / Rome representative",
+        "place_label": "イタリア-ローマ-Invader Studios代表点",
+        "sort_place_label": "イタリア-ローマ-Invader Studios代表点",
+        "geocode_query": "Invader Studios Rome Resident Evil 2 fan remake Capcom GameSpark",
+        "place_type": "fan_remake_cancellation_developer_city_representative_uncertain",
+        "location_precision": "city",
+        "place_reason": "The item concerns an Italian indie Resident Evil 2 remake cancellation and discussion with Capcom. Use Invader Studios / Rome as the Italian developer-side representative with moderate-low confidence because the generated record does not expose a precise office address or meeting site.（一致語: 伊インディーのリメイク版『バイオハザード2』開発中止―近くカプコンと「アイデアを議論」 - Game*Spark）",
+        "confidence": 0.42,
+        "rule_id": "game_all_20260709_italian_re2_fan_remake_invader_rome_201508",
+        "matched_text": "伊インディーのリメイク版『バイオハザード2』開発中止―近くカプコンと「アイデアを議論」 - Game*Spark",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0369,
+          38.9072
+        ]
+      },
+      "properties": {
+        "title": "パズルエロゲー開発元が贈る新作『HunieCam Studio』は、えっちな配信で一攫千金を目指すライブチャットガールシミュレーター - AUTOMATON",
+        "source": "AUTOMATON",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLUFfQk96RFFlWGdIaXpmelotUzBMS0tOQmEzVllmZzBvTjN2eUNQVENGYzhHN2RtTnJrdXRXSUowRFJORkRwSTBUWUR5OER0WmpBWDQ1SjNrSWxtYllUT3N4OHg0NmVQVWc1Z1hVQ2kxb3JXdXI4VWRTcU82eUhKRHhaSGRnMnozMGRzWlJyOUtkSlUyRm1OeDc1VXI2MmJ3VG5mWTE4YUZhbm1WX240VHJR?oc=5",
+        "published_at": "2015-08-17T07:00:00+00:00",
+        "representative_place": "HuniePot / United States representative",
+        "place_label": "米国代表点-HuniePot / HunieCam Studio",
+        "sort_place_label": "米国代表点-HuniePot / HunieCam Studio",
+        "geocode_query": "HuniePot United States HunieCam Studio",
+        "place_type": "game_development_studio_country_representative_uncertain_city",
+        "location_precision": "country_city",
+        "place_reason": "旧エントリは『HunieCam Studio』紹介記事を海外インディー新作としてmulti-regionに置いていた。リポジトリ内の後続エントリでは、同じ記事対象をHuniePot開発文脈として扱い、都市・住所は未確認ながら米国代表点へ整理済みである。このため旧multi-region代表点を、より記事主体に近いHuniePot / United States代表点へ補正する。これは確認済みの開発スタジオ都市・現行オフィス住所・媒体所在地・記事取材場所ではない。HuniePotの公式プロフィール、Steam/ストア、記事本文、会社情報などで都市または住所が確認された場合は必ず差し替える。（一致語: HunieCam Studio / HuniePot）（一致語: パズルエロゲー開発元が贈る新作『HunieCam Studio』は、えっちな配信で一攫千金を目指すライブチャットガールシミュレーター - AUTOMATON）",
+        "confidence": 0.45,
+        "rule_id": "observed_huniecam_studio_overseas_indie_release_201508",
+        "matched_text": "パズルエロゲー開発元が贈る新作『HunieCam Studio』は、えっちな配信で一攫千金を目指すライブチャットガールシミュレーター - AUTOMATON",
         "match_source": "known_place_title"
       }
     },

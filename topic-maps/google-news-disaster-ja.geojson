@@ -1,8 +1,8 @@
 {
   "type": "FeatureCollection",
   "properties": {
-    "created_at": "2026-07-10T16:57:16.945123+00:00",
-    "count": 27,
+    "created_at": "2026-07-10T18:25:55.234123+00:00",
+    "count": 26,
     "stats": {
       "feed_id": "google-news-disaster-ja",
       "feed_label": "Google News: 災害・地震・大雨",
@@ -14,9 +14,9 @@
       "fetched_by_url": {
         "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja": 77
       },
-      "filtered": 68,
-      "resolved": 27,
-      "unresolved": 41,
+      "filtered": 69,
+      "resolved": 26,
+      "unresolved": 43,
       "rules": 384,
       "known_places": 1357,
       "loaded_data_files": [
@@ -1417,33 +1417,6 @@
         "confidence": 0.62,
         "rule_id": "disaster_202606_yamanashi_earthquake_typhoon7_landslide_risk",
         "matched_text": "山梨で震度6弱 台風接近で大雨警戒 過去には台風の雨と地震で大規模土砂災害も #エキスパートトピ（松浦悠真） - エキスパート - Yahoo!ニュース",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          136.9066,
-          35.1815
-        ]
-      },
-      "properties": {
-        "title": "活発な梅雨前線影響で西、東日本で大雨 2つの台風は27日にかけ接近見込み…大雨災害に厳重警戒を - 日テレNEWS NNN",
-        "source": "日テレNEWS NNN",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9HQ2pCQUN0Q2ZiaDVIajg3NjZXQlhRUURoQVZmVXdQM2sySDFxTHNsdW1KcktUeXFsWVFTREZ6QzdBbW1YeDRhd08wVUJDRnYyUlhoOWk1Z0dSZGZqRjBYRWhKWlMyWjdnUXpkTzFyd281bnBBOXVQRGFlQU8?oc=5",
-        "published_at": "2026-06-25T07:00:00+00:00",
-        "representative_place": "West/East Japan heavy-rain region / Nagoya representative",
-        "place_label": "日本-愛知県-名古屋市-西日本・東日本梅雨前線大雨警戒代表点",
-        "sort_place_label": "日本-愛知県-名古屋市-西日本・東日本梅雨前線大雨警戒代表点",
-        "geocode_query": "Nagoya Japan West East Japan Baiu front heavy rain double typhoon warning",
-        "place_type": "broad_weather_region_representative",
-        "location_precision": "city",
-        "place_reason": "The title identifies a broad West/East Japan heavy-rain warning from an active Baiu front and two approaching typhoons. It does not expose a narrower affected municipality or river basin. Use Nagoya as a central West/East Japan representative point with low confidence, and do not claim a specific disaster site.（一致語: 活発な梅雨前線影響で西、東日本で大雨 2つの台風は27日にかけ接近見込み…大雨災害に厳重警戒を - 日テレNEWS NNN）",
-        "confidence": 0.4,
-        "rule_id": "disaster_202606_west_east_japan_baiu_front_double_typhoon_heavy_rain",
-        "matched_text": "活発な梅雨前線影響で西、東日本で大雨 2つの台風は27日にかけ接近見込み…大雨災害に厳重警戒を - 日テレNEWS NNN",
         "match_source": "known_place_title"
       }
     },

@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "created_at": "2026-07-10T16:57:16.945123+00:00",
+  "created_at": "2026-07-10T18:25:55.234123+00:00",
   "stats": {
     "feed_id": "google-news-disaster-ja",
     "feed_label": "Google News: 災害・地震・大雨",
@@ -12,9 +12,9 @@
     "fetched_by_url": {
       "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja": 77
     },
-    "filtered": 68,
-    "resolved": 27,
-    "unresolved": 41,
+    "filtered": 69,
+    "resolved": 26,
+    "unresolved": 43,
     "rules": 384,
     "known_places": 1357,
     "loaded_data_files": [
@@ -1307,6 +1307,14 @@
       "feed_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
+      "title": "台風7号(メーカラー)が関東に近づく 沿岸部は大雨による土砂災害などのおそれ - ウェザーニュース",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1NSnlhZ0pPSE44aFN0dTNIRzlwQWhIRVFlVWJreC0tSHg3bmhuZEhmVDZLaHdvLUJDc3k4YUFzOU0yQ0NaQ0N2UGNEd3FJSXhLZ1FyZA?oc=5",
+      "source": "ウェザーニュース",
+      "published_at": "2026-06-27T07:00:00+00:00",
+      "summary": "台風7号(メーカラー)が関東に近づく 沿岸部は大雨による土砂災害などのおそれ    ウェザーニュース",
+      "feed_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
       "title": "台風7号が接近中の関東は再び大雨ピーク　揺れが強かった地域は土砂崩れに警戒(気象予報士 伊藤　杏子 2026年06月27日) - tenki.jp",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB6SDJFUDVISUNRZ3VtQmQ5UUZDM2o3TzBlTjNJZVhxT2JfT1pXemxHVGdQaXptdnZOTDltLUw2NkhoRjdIdTlCdmRGQW1qMGhLZVdwWkFXVC0zbUs2VVBra1RWOUFfQWPSAWxBVV95cUxOWkVjWTJJNTNXOWkwVnh6M19EeWlDSDVCYTJ5ZUt2VEtwMW11eHBRZm1Jbk1jMUtlRXUwQ21TdDQycWp5ZXdwQlB2blJOUGFvaFc0RXhZQmlkNVMzVENpdUthdVRVcVdUbjE0UWc?oc=5",
       "source": "tenki.jp",
@@ -1323,19 +1331,19 @@
       "feed_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
-      "title": "台風7号(メーカラー)が関東に近づく 沿岸部は大雨による土砂災害などのおそれ - ウェザーニュース",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1NSnlhZ0pPSE44aFN0dTNIRzlwQWhIRVFlVWJreC0tSHg3bmhuZEhmVDZLaHdvLUJDc3k4YUFzOU0yQ0NaQ0N2UGNEd3FJSXhLZ1FyZA?oc=5",
-      "source": "ウェザーニュース",
-      "published_at": "2026-06-27T07:00:00+00:00",
-      "summary": "台風7号(メーカラー)が関東に近づく 沿岸部は大雨による土砂災害などのおそれ    ウェザーニュース",
-      "feed_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja"
-    },
-    {
       "title": "【6/26最新】台風7号・地震・大雨の影響でヤマト運輸、佐川急便、日本郵便で配送遅延や集配停止が発生 - Yahoo!ニュース",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rdmNsSGZwbVdrdlhxX0U5QXVFZFlSTmdSX1ZWdmFkNFR4d2dxYWRNMGhQODdDelIydmNWa2VaRHhuQmxuZTc3OVlxZ1RXMHA4c2tvZlRxcjA4enBSSUVoUTJOMjBIdmRCOV9Cem9hQVUxUDBSb3NoaWtHMy1vVUU?oc=5",
       "source": "Yahoo!ニュース",
       "published_at": "2026-06-26T07:00:00+00:00",
       "summary": "【6/26最新】台風7号・地震・大雨の影響でヤマト運輸、佐川急便、日本郵便で配送遅延や集配停止が発生    Yahoo!ニュース",
+      "feed_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "title": "活発な梅雨前線影響で西、東日本で大雨 2つの台風は27日にかけ接近見込み…大雨災害に厳重警戒を（2026年6月25日掲載） - 日テレNEWS NNN",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9HQ2pCQUN0Q2ZiaDVIajg3NjZXQlhRUURoQVZmVXdQM2sySDFxTHNsdW1KcktUeXFsWVFTREZ6QzdBbW1YeDRhd08wVUJDRnYyUlhoOWk1Z0dSZGZqRjBYRWhKWlMyWjdnUXpkTzFyd281bnBBOXVQRGFlQU8?oc=5",
+      "source": "日テレNEWS NNN",
+      "published_at": "2026-06-25T07:00:00+00:00",
+      "summary": "活発な梅雨前線影響で西、東日本で大雨 2つの台風は27日にかけ接近見込み…大雨災害に厳重警戒を（2026年6月25日掲載）    日テレNEWS NNN",
       "feed_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
@@ -1451,6 +1459,14 @@
       "feed_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
+      "title": "低気圧・台風の気圧の低さと大雨や暴風との関係を解説 - 読売新聞",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBaNHhyQUwxRjdDcmo1N1ZvWU1wZlVoSS1PN1Ata1JRdEhGdTBLVXE5bG4wbGNVX1hDOFMyVGR5SGpGOGVJUUxoc3NYbkgza3ZaSjVRWlFTU1czSUoyX1RMTktn?oc=5",
+      "source": "読売新聞",
+      "published_at": "2024-10-02T07:00:00+00:00",
+      "summary": "低気圧・台風の気圧の低さと大雨や暴風との関係を解説    読売新聞",
+      "feed_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
       "title": "台風、地震、豪雨…避難所で赤ちゃんはどうすればいい？ママ防災士が避難所用ベビーベッドを組み立ててみた - Yahoo!ニュース",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRFdoR3AxUWp1ek1JS2lkU2FybTVRNXlPOTFpcG1GLTRMR2M0X3RMa2dPY3NTTWFYcmJaSDZmcXJnLTU0QUlaLVhiQ2ExSHktZzFJUEVxSFpTQjVubHdLanRndVRMRjZNTGpFTkxJSUVrNDBYOGtZczlEZmlKMllVRTZyeWoyWUl2?oc=5",
       "source": "Yahoo!ニュース",
@@ -1504,6 +1520,14 @@
       "source": "at-living.press",
       "published_at": "2023-08-31T07:00:00+00:00",
       "summary": "地震・台風・豪雨……もし被災したらどうなる？ どう行動すればいい？    at-living.press",
+      "feed_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "title": "「令和2年（2020年）7月豪雨」から学ぶ、豪雨災害に備えるポイントとは？ - 読売新聞",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5oV0wzR3RZT1MyekRsNlZaRXJzNU9SR3R2RjF3LU1WQ3ZZSWg2VW8wREdDNy1VZHViSURqQmE5ODNJNzhYZTYzbTM1Nk50WkFmSWJ3OUxnM1hVVGZHRHlDMw?oc=5",
+      "source": "読売新聞",
+      "published_at": "2023-06-28T07:00:00+00:00",
+      "summary": "「令和2年（2020年）7月豪雨」から学ぶ、豪雨災害に備えるポイントとは？    読売新聞",
       "feed_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
@@ -1568,14 +1592,6 @@
       "source": "読売新聞",
       "published_at": "2021-03-05T08:00:00+00:00",
       "summary": "進む激甚化？災害は実際に増えているのかを検証する    読売新聞",
-      "feed_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja"
-    },
-    {
-      "title": "水害・土砂災害から家族を守る！ - 読売新聞",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE03ZDgweGlQZmVCVzhmV2c4X2lpNWI3QlVENUJGeVM4aldXRGM3SWN1S3FoZF8xRkkyemFibUozUWNLQXY2YmN1QlVWaEtpMGJ5U2FlWk5ZRGVINWpXcEw4?oc=5",
-      "source": "読売新聞",
-      "published_at": "2020-08-17T07:00:00+00:00",
-      "summary": "水害・土砂災害から家族を守る！    読売新聞",
       "feed_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
