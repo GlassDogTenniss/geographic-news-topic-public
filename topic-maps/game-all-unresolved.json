@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "created_at": "2026-07-10T14:29:40.125560+00:00",
+  "created_at": "2026-07-10T16:57:16.945123+00:00",
   "stats": {
     "feed_id": "game-all",
     "feed_label": "ゲーム",
@@ -26,7 +26,7 @@
       "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja"
     ],
     "rss_url": "https://www.gamedeveloper.com/rss.xml",
-    "fetched": 998,
+    "fetched": 993,
     "fetched_by_url": {
       "https://www.gamedeveloper.com/rss.xml": 50,
       "https://www.gamesindustry.biz/feed": 100,
@@ -38,18 +38,18 @@
       "https://www.nag.co.za/feed/": 10,
       "https://www.kakuchopurei.com/feed/": 10,
       "https://www.afkgaming.com/feed": 0,
-      "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20India&hl=en-IN&gl=IN&ceid=IN:en": 79,
-      "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Philippines&hl=en-PH&gl=PH&ceid=PH:en": 77,
+      "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20India&hl=en-IN&gl=IN&ceid=IN:en": 78,
+      "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Philippines&hl=en-PH&gl=PH&ceid=PH:en": 75,
       "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Eastern%20Europe&hl=en&gl=PL&ceid=PL:en": 78,
       "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Africa&hl=en&gl=ZA&ceid=ZA:en": 79,
       "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Southeast%20Asia&hl=en-SG&gl=SG&ceid=SG:en": 78,
-      "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA&hl=ja&gl=JP&ceid=JP:ja": 73,
+      "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA&hl=ja&gl=JP&ceid=JP:ja": 72,
       "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja": 79,
-      "https://news.google.com/rss/search?q=%E6%B5%B7%E5%A4%96%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA&hl=ja&gl=JP&ceid=JP:ja": 78,
+      "https://news.google.com/rss/search?q=%E6%B5%B7%E5%A4%96%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA&hl=ja&gl=JP&ceid=JP:ja": 77,
       "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja": 78
     },
-    "filtered": 902,
-    "resolved": 860,
+    "filtered": 898,
+    "resolved": 856,
     "unresolved": 42,
     "rules": 384,
     "known_places": 1357,
@@ -1359,6 +1359,30 @@
   },
   "unresolved": [
     {
+      "title": "New release roundup: Astro Arena, Beat Hazard Arcade, ZakuzakuSlash, and more",
+      "link": "https://www.pocketgamer.biz/new-release-roundup-astro-arena-beat-hazard-arcade-zakuzakuslash-and-more/",
+      "source": "Latest Updates | PocketGamer.biz",
+      "published_at": "2026-07-10T14:50:00+00:00",
+      "summary": "While the deals and the stats of the gaming world are important, nothing would happen without the research, funding and, of course, development that goes into making a great game.\n\nSo here’s a collection of the most exciting new mobile games right now, the developers and publishers behind them, and why, exactly, they've made the cut. ... [ MORE ]",
+      "feed_url": "https://www.pocketgamer.biz/rss/"
+    },
+    {
+      "title": "Xbox executive Asha Sharma joins US Federal Reserve task force on jobs and productivity",
+      "link": "https://www.pocketgamer.biz/xbox-executive-asha-sharma-joins-federal-reserve-task-force-on-ai-and-productivity/",
+      "source": "Latest Updates | PocketGamer.biz",
+      "published_at": "2026-07-10T14:30:00+00:00",
+      "summary": "Microsoft Xbox CEO Asha Sharma has been appointed to a new US Federal Reserve task force examining the economic impact of artificial intelligence and emerging technologies.\n\nThe Federal Reserve announced five task forces that will evaluate key areas of its monetary policy framework, with each group co-led by external advisers from academia, business, and central banking.  ... [ MORE ]",
+      "feed_url": "https://www.pocketgamer.biz/rss/"
+    },
+    {
+      "title": "Vietnam's mobile games market hits 121m downloads and $23m in revenue during May 2026",
+      "link": "https://www.pocketgamer.biz/vietnams-mobile-games-market-hits-121m-downloads-and-23m-in-revenue-during-may-2026/",
+      "source": "Latest Updates | PocketGamer.biz",
+      "published_at": "2026-07-10T14:00:00+00:00",
+      "summary": "Vietnam's mobile games market recovered in May 2026, with downloads rising 3.98% month-over-month to 121 million. \n\nThat's according to a new report from Gamota, which showed that in-app purchase (IAP) revenue increased 3.13% to $23m.  ... [ MORE ]",
+      "feed_url": "https://www.pocketgamer.biz/rss/"
+    },
+    {
       "title": "Can a top-down, focused software strategy save Xbox? | Opinion",
       "link": "https://www.gamesindustry.biz/can-a-top-down-focused-software-strategy-save-xbox-opinion",
       "source": "GamesIndustry.biz Latest Articles Feed",
@@ -1404,14 +1428,6 @@
       "source": "Latest Updates | PocketGamer.biz",
       "published_at": "2026-07-10T09:42:00+00:00",
       "summary": "Mobile ad tech firm PubMatic and developer Zynga have announced a partnership to give advertisers direct access to Zynga's premium mobile gaming audiences.\n\nBoth companies aim to give advertisers new buying pathways like agentic advertising, immersive commerce-enabled creative, and more efficient media buying solutions. ... [ MORE ]",
-      "feed_url": "https://www.pocketgamer.biz/rss/"
-    },
-    {
-      "title": "New release roundup: Astro Arena, Beat Hazard Arcade, ZakuzakuSlash, and more",
-      "link": "https://www.pocketgamer.biz/new-release-roundup-astro-arena-beat-hazard-arcade-zakuzakuslash-and-more/",
-      "source": "Latest Updates | PocketGamer.biz",
-      "published_at": "2026-07-10T09:18:00+00:00",
-      "summary": "While the deals and the stats of the gaming world are important, nothing would happen without the research, funding and, of course, development that goes into making a great game.\n\nSo here’s a collection of the most exciting new mobile games right now, the developers and publishers behind them, and why, exactly, they've made the cut. ... [ MORE ]",
       "feed_url": "https://www.pocketgamer.biz/rss/"
     },
     {
@@ -1599,14 +1615,6 @@
       "feed_url": "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
-      "title": "SB19 teams up with Japanese gaming company for new 'Dungka!' video - ABS-CBN",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdGg5ZmM1Y2h5S2FzTjJQa1NEbFhzNjd1RzNiWmlLYXY5eEFCZWlUQWpRYklDV2QwZE14Q0RUcmhNQkZLRjVsSWVDSDVYTmxkUXV2YlBfcFg4NzdJenZ1VElrSFhrTDlyUlFnR0FDMXFmbEhvYUpFWC1XeWVRMlhZTGctVWoxZlllNjdUdV9EWl9fUktXalZDRGhsYWF5MFZ1ZHpiQzhnbWh3aDVrZ05yekUyM1JfVXl5Vi1TQ21wbXlpVzlvY1V0MThR?oc=5",
-      "source": "ABS-CBN",
-      "published_at": "2025-05-26T07:00:00+00:00",
-      "summary": "SB19 teams up with Japanese gaming company for new 'Dungka!' video    ABS-CBN",
-      "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Philippines&hl=en-PH&gl=PH&ceid=PH:en"
-    },
-    {
       "title": "Krafton acquires controlling stake in Indian gaming studio Nautilus Mobile for $14M - TechCrunch",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdzFtdU80MDJaVmg2cGhvLXFNU2ZVZUdrODR0cHBRUTdnR2FSR21pclk4RmcxLTVqRHR0X0JkZTI5NklBald5STlaQ1Bta2w2aGtYVjlRSWI0ZFh3QmVNN3RUSTIwYWhVU2NnS3d5d0lraTNpOEh2RFFYUTlrdjY0VUhHN0lGSHBLQVFpdXFQWmZUbEhENnJKRi1pMFl1R3lFbVFxc1duNXBnR3JRY1lxYWhxYkx5bWg1?oc=5",
       "source": "TechCrunch",
@@ -1663,14 +1671,6 @@
       "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Philippines&hl=en-PH&gl=PH&ceid=PH:en"
     },
     {
-      "title": "Roblox uses popular game platform to back new kids' projects - ABS-CBN",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYUpxRVNFRFJSMFd5dUxBUzJSV2l0YVVyNzlVclkybWJ3RTVGQ2NxLVRaVFl1aVRpY2FRemEwbVBHbXJOOEoxRFN5LURENjVpS0l1SjBZZUhsN1dNbFRxcmV2QWVoTkcyY2pCTnhpNkd0WkRxZXdaR2oxM3psZHgtZkxNNmxUclB2R1BTVXBEY1V0MVU?oc=5",
-      "source": "ABS-CBN",
-      "published_at": "2021-11-16T08:00:00+00:00",
-      "summary": "Roblox uses popular game platform to back new kids' projects    ABS-CBN",
-      "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Philippines&hl=en-PH&gl=PH&ceid=PH:en"
-    },
-    {
       "title": "This Pinoy game studio secretly worked on ‘The Last of Us Part II’ for years. This is their story - Spin.ph",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNk5Cb2lURTlkYkdKVmxTaUZtSFZpREVPTjNhbEVpTkUxU013M212bzVpeDlxV0dudmptNmFJZFlvS1gwSlFwOFpIcU1wQmRqaEEtN25EMlkwbDFSR3hEVldhSm5UU2dnTjNxSlZyNVBDTDFFNHRieTg1Z0EyR2gzNjZKb0t5bGU0UUhBMWxBV2xUQ1M5ZXRJbUZEajBnUmprZmJPMDI2UHFsNzFVS2c?oc=5",
       "source": "Spin.ph",
@@ -1687,12 +1687,12 @@
       "feed_url": "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
-      "title": "「FGO」運営会社、新作スマホゲーム「ミコノート」発表 19年配信予定 - ITmedia",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9hQks0OVVwak9NNHNSRWhFSVVDT1M5UFBXVExNNVJFNjhjODR6ZGtRd0dhRDl6a3FUT2FhTHl2RjNBZnoxdVRCRFB0dHRtVktmYld5eVJsb2VEV09xV3hwbDVELXdjQkprS0ppeg?oc=5",
-      "source": "ITmedia",
-      "published_at": "2019-02-05T08:00:00+00:00",
-      "summary": "「FGO」運営会社、新作スマホゲーム「ミコノート」発表 19年配信予定    ITmedia",
-      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA&hl=ja&gl=JP&ceid=JP:ja"
+      "title": "Philippine Government 'Supports' Video Game Industry - Game Developer",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNekE2SmlHQmdoWXRBc1N6VTR1WEJVbkJxclhhUTBxeTJrLXI0YmZ4MGhEOHE5NXdSREk3UC02akt5bVRiQVY3bXBJUW92T0dwYTQ4ZVRKdHhCZ0lJWm5vb0FkNWwxQ042aXlHc2dna0RsVklLSUJqR01DLVpfdTd2MlVxRGJiR3g0SVhPeFhpM29xcDA?oc=5",
+      "source": "Game Developer",
+      "published_at": "2013-04-11T07:00:00+00:00",
+      "summary": "Philippine Government 'Supports' Video Game Industry    Game Developer",
+      "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Philippines&hl=en-PH&gl=PH&ceid=PH:en"
     }
   ]
 }
