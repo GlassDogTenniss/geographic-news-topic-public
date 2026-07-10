@@ -1,8 +1,8 @@
 {
   "type": "FeatureCollection",
   "properties": {
-    "created_at": "2026-07-10T04:52:56.528275+00:00",
-    "count": 29,
+    "created_at": "2026-07-10T08:23:48.079294+00:00",
+    "count": 26,
     "stats": {
       "feed_id": "google-news-disaster-ja",
       "feed_label": "Google News: 災害・地震・大雨",
@@ -10,13 +10,13 @@
         "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja"
       ],
       "rss_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja",
-      "fetched": 77,
+      "fetched": 76,
       "fetched_by_url": {
-        "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja": 77
+        "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja": 76
       },
-      "filtered": 69,
-      "resolved": 29,
-      "unresolved": 40,
+      "filtered": 68,
+      "resolved": 26,
+      "unresolved": 42,
       "rules": 384,
       "known_places": 1357,
       "loaded_data_files": [
@@ -1425,33 +1425,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.5023,
-          34.6937
-        ]
-      },
-      "properties": {
-        "title": "活発な梅雨前線影響…西日本で大雨 2つの台風も北上中、大雨災害に厳重警戒を（2026年6月25日掲載）｜日テレNEWS NNN - 日テレNEWS NNN",
-        "source": "日テレNEWS NNN",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBkYjdpYWw5dTNWVTh3Tk5ONW5MMExjeTNEM3dDU04yWkRHdEhBcHhzTk1MRkVNSVJST1FYd0d1M0JsNFp6TE5sNDRBSm91Nm12UlBRY1ZYcHJUa2FVNW1VVTZET1B6LXFQcDNnV2JhczVSVF9pZ2MteXNYVkQ?oc=5",
-        "published_at": "2026-06-25T07:00:00+00:00",
-        "representative_place": "West Japan heavy-rain region / Osaka representative",
-        "place_label": "日本-大阪府-大阪市-西日本梅雨前線大雨警戒代表点",
-        "sort_place_label": "日本-大阪府-大阪市-西日本梅雨前線大雨警戒代表点",
-        "geocode_query": "Osaka Japan West Japan Baiu front heavy rain double typhoon warning",
-        "place_type": "broad_weather_region_representative",
-        "location_precision": "city",
-        "place_reason": "The title identifies West Japan as the affected heavy-rain region and mentions two typhoons moving north. No narrower municipality, river basin, or landslide site is exposed in the title. Use Osaka as a West Japan representative point with low confidence rather than a media-office location.（一致語: 活発な梅雨前線影響…西日本で大雨 2つの台風も北上中、大雨災害に厳重警戒を（2026年6月25日掲載）｜日テレNEWS NNN - 日テレNEWS NNN）",
-        "confidence": 0.42,
-        "rule_id": "disaster_202606_west_japan_baiu_front_heavy_rain_double_typhoon",
-        "matched_text": "活発な梅雨前線影響…西日本で大雨 2つの台風も北上中、大雨災害に厳重警戒を（2026年6月25日掲載）｜日テレNEWS NNN - 日テレNEWS NNN",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           130.4017,
           33.5902
         ]
@@ -1687,33 +1660,6 @@
         "confidence": 0.58,
         "rule_id": "disaster_202501_202606_noto_earthquake_heavy_rain_recovery",
         "matched_text": "【データで見る能登の復興②】住まい編…地震と大雨で約10万棟の家屋が被害 - 読売新聞",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          140.8877,
-          37.0505
-        ]
-      },
-      "properties": {
-        "title": "災害廃棄物の置き場所、住民が事前に協議！福島県いわき市の全国初の取り組みとは - 読売新聞",
-        "source": "読売新聞",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9FOWUxRXV3bkZuckJHZWlWRnZmVG4zUElibXdtR0lSR09TSlNTUS1GSUUyZjFpU0lBZC15OHJyNDZlZjdiazVyWm8tQkxEWGZEdE41YjZ0RE9IUnpiSUFUZXltcm5aSzg?oc=5",
-        "published_at": "2025-01-22T08:00:00+00:00",
-        "representative_place": "Iwaki City / disaster waste consultation representative",
-        "place_label": "日本-福島県-いわき市-災害廃棄物置き場所事前協議代表点",
-        "sort_place_label": "日本-福島県-いわき市-災害廃棄物置き場所事前協議代表点",
-        "geocode_query": "Iwaki City Fukushima disaster waste site consultation",
-        "place_type": "municipal_disaster_policy_site",
-        "location_precision": "municipality",
-        "place_reason": "The unresolved article title explicitly identifies Fukushima Prefecture's Iwaki City and discusses a municipal disaster-waste placement initiative. No specific disposal site or neighborhood is named in the title, so use Iwaki City as the article-specific municipal representative point rather than the publisher location.（一致語: 災害廃棄物の置き場所、住民が事前に協議！福島県いわき市の全国初の取り組みとは - 読売新聞）",
-        "confidence": 0.82,
-        "rule_id": "disaster_202501_iwaki_disaster_waste_site_consultation",
-        "matched_text": "災害廃棄物の置き場所、住民が事前に協議！福島県いわき市の全国初の取り組みとは - 読売新聞",
         "match_source": "known_place_title"
       }
     },
@@ -2038,33 +1984,6 @@
         "confidence": 0.86,
         "rule_id": "disaster_201903_mori_town_shizuoka_natural_disasters_page",
         "matched_text": "自然災害(台風・集中豪雨・地震) - town.morimachi.shizuoka.jp",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          132.4553,
-          34.3853
-        ]
-      },
-      "properties": {
-        "title": "平成２３年度の大雨，台風，地震等による被害等の状況について - 防災・災害情報 - pref.hiroshima.lg.jp",
-        "source": "pref.hiroshima.lg.jp",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUTlxOWlpc0tNcjhIUlJ0RGVhUEJXQks5N1JCOTNkazNna1JYT0NNeldhS0JvbW9UXzhiNFJHMTR6ajJDVlFzY3N2dVRZemdtMXcyZ1o0SzA2ZmlhRUNTSDEwWEJ4bkw3MTUtd0l2RGsxdDdZOVVnWENLWXUtcHRQUg?oc=5",
-        "published_at": "2011-12-01T08:00:00+00:00",
-        "representative_place": "Hiroshima Prefecture / Hiroshima City representative",
-        "place_label": "日本-広島県-広島市-平成23年度大雨・台風・地震被害状況代表点",
-        "sort_place_label": "日本-広島県-広島市-平成23年度大雨・台風・地震被害状況代表点",
-        "geocode_query": "Hiroshima Prefecture Hiroshima City FY2011 heavy rain typhoon earthquake damage status",
-        "place_type": "prefectural_disaster_damage_report_representative",
-        "location_precision": "city",
-        "place_reason": "The unresolved item is a Hiroshima Prefecture disaster-information page about FY2011 damage from heavy rain, typhoons, earthquakes, and similar events. The title and source identify the prefectural public-information actor, but not a single damaged municipality or site, so use Hiroshima City as the prefectural representative point rather than an arbitrary disaster location.（一致語: 平成２３年度の大雨，台風，地震等による被害等の状況について - 防災・災害情報 - pref.hiroshima.lg.jp）",
-        "confidence": 0.78,
-        "rule_id": "disaster_201112_hiroshima_prefecture_fy2011_damage_status",
-        "matched_text": "平成２３年度の大雨，台風，地震等による被害等の状況について - 防災・災害情報 - pref.hiroshima.lg.jp",
         "match_source": "known_place_title"
       }
     }
