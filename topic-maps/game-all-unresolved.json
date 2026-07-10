@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "created_at": "2026-07-10T08:23:48.079294+00:00",
+  "created_at": "2026-07-10T11:53:12.001259+00:00",
   "stats": {
     "feed_id": "game-all",
     "feed_label": "ゲーム",
@@ -26,7 +26,7 @@
       "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja"
     ],
     "rss_url": "https://www.gamedeveloper.com/rss.xml",
-    "fetched": 1000,
+    "fetched": 998,
     "fetched_by_url": {
       "https://www.gamedeveloper.com/rss.xml": 50,
       "https://www.gamesindustry.biz/feed": 100,
@@ -38,7 +38,7 @@
       "https://www.nag.co.za/feed/": 10,
       "https://www.kakuchopurei.com/feed/": 10,
       "https://www.afkgaming.com/feed": 0,
-      "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20India&hl=en-IN&gl=IN&ceid=IN:en": 80,
+      "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20India&hl=en-IN&gl=IN&ceid=IN:en": 79,
       "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Philippines&hl=en-PH&gl=PH&ceid=PH:en": 78,
       "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Eastern%20Europe&hl=en&gl=PL&ceid=PL:en": 78,
       "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Africa&hl=en&gl=ZA&ceid=ZA:en": 79,
@@ -48,9 +48,9 @@
       "https://news.google.com/rss/search?q=%E6%B5%B7%E5%A4%96%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA&hl=ja&gl=JP&ceid=JP:ja": 78,
       "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja": 78
     },
-    "filtered": 899,
-    "resolved": 870,
-    "unresolved": 29,
+    "filtered": 901,
+    "resolved": 862,
+    "unresolved": 39,
     "rules": 384,
     "known_places": 1357,
     "loaded_data_files": [
@@ -1359,6 +1359,62 @@
   },
   "unresolved": [
     {
+      "title": "New Zealand game studios grow revenue 17% to $829m with rebate support",
+      "link": "https://www.pocketgamer.biz/new-zealand-game-studios-grow-revenue-17-to-829m-with-rebate-support/",
+      "source": "Latest Updates | PocketGamer.biz",
+      "published_at": "2026-07-10T10:44:00+00:00",
+      "summary": "New Zealand's game development studios generated a combined $829 million in revenue in 2025/26, up 17% year-over-year.\n\nThat's according to new data from NZ On Air, which showed that the milestone comes with support from the Game Development Sector Rebate (GDSR) after distributing $21.9m in rebates to 43 studios in 2026 compared to $22.4m distributed in 2025.  ... [ MORE ]",
+      "feed_url": "https://www.pocketgamer.biz/rss/"
+    },
+    {
+      "title": "Own goal specialist Xbox rifles another into the roof of the net - Patch Notes #60",
+      "link": "https://www.gamedeveloper.com/business/the-state-of-play-after-a-truly-torrid-week-for-xbox-patch-notes-60",
+      "source": "gamedeveloper",
+      "published_at": "2026-07-10T10:18:09+00:00",
+      "summary": "In a change to our scheduled programming, we break down how one of the most significant weeks in the recent history of Xbox unfolded.",
+      "feed_url": "https://www.gamedeveloper.com/rss.xml"
+    },
+    {
+      "title": "PubMatic and Zynga partner to expand advertiser access to premium mobile games audiences",
+      "link": "https://www.pocketgamer.biz/pubmatic-and-zynga-partner-to-expand-advertiser-access-to-premium-mobile-games-audiences/",
+      "source": "Latest Updates | PocketGamer.biz",
+      "published_at": "2026-07-10T09:42:00+00:00",
+      "summary": "Mobile ad tech firm PubMatic and developer Zynga have announced a partnership to give advertisers direct access to Zynga's premium mobile gaming audiences.\n\nBoth companies aim to give advertisers new buying pathways like agentic advertising, immersive commerce-enabled creative, and more efficient media buying solutions. ... [ MORE ]",
+      "feed_url": "https://www.pocketgamer.biz/rss/"
+    },
+    {
+      "title": "New release roundup: Astro Arena, Beat Hazard Arcade, ZakuzakuSlash, and more",
+      "link": "https://www.pocketgamer.biz/new-release-roundup-astro-arena-beat-hazard-arcade-zakuzakuslash-and-more/",
+      "source": "Latest Updates | PocketGamer.biz",
+      "published_at": "2026-07-10T09:18:00+00:00",
+      "summary": "While the deals and the stats of the gaming world are important, nothing would happen without the research, funding and, of course, development that goes into making a great game.\n\nSo here’s a collection of the most exciting new mobile games right now, the developers and publishers behind them, and why, exactly, they've made the cut. ... [ MORE ]",
+      "feed_url": "https://www.pocketgamer.biz/rss/"
+    },
+    {
+      "title": "'We mean business:' Xbox union workers fighting back with 'Save Our Devs' rally on July 15",
+      "link": "https://www.gamedeveloper.com/business/-we-mean-business-xbox-union-workers-fighting-back-with-save-our-devs-rally-on-july-15",
+      "source": "gamedeveloper",
+      "published_at": "2026-07-10T09:02:11+00:00",
+      "summary": "The protest is being organized by union members at Bethesda Game Studios.",
+      "feed_url": "https://www.gamedeveloper.com/rss.xml"
+    },
+    {
+      "title": "10 Most Anticipated Board Games of 2026 and Beyond",
+      "link": "https://www.nag.co.za/2026/07/10/10-most-anticipated-board-games-of-2026-and-beyond/",
+      "source": "NAG",
+      "published_at": "2026-07-10T08:59:23+00:00",
+      "summary": "Board gaming is determined to make a complete mockery of both my free time and whatever remains of my shelf space. The next wave of tabletop releases includes everything from cooperative pirate campaigns and zombie-infested superhero battles to enormous economic games capable of swallowing an entire afternoon. There are clever two-player adventures, new versions of beloved favourites and enough sprawling campaign games to keep a dedicated group occupied for months. Some of these games build on systems I already know […] \n The post  10 Most Anticipated Board Games of 2026 and Beyond  appeared first on  NAG .",
+      "feed_url": "https://www.nag.co.za/feed/"
+    },
+    {
+      "title": "Asha Sharma to co-lead US Federal Reserve's Productivity and Jobs task force",
+      "link": "https://www.gamesindustry.biz/asha-sharma-to-co-lead-us-federal-reserves-productivity-and-jobs-task-force",
+      "source": "GamesIndustry.biz Latest Articles Feed",
+      "published_at": "2026-07-10T08:43:21+00:00",
+      "summary": "The United States Federal Reserve has appointed Xbox CEO Asha Sharma to co-lead its Productivity and Jobs task force.    Read more",
+      "feed_url": "https://www.gamesindustry.biz/feed"
+    },
+    {
       "title": "Why two games media veterans think a \"classic old-school style multi-format video games website\" will flourish in 2026",
       "link": "https://www.gamesindustry.biz/why-two-games-media-veterans-think-a-classic-old-school-style-multi-format-video-games-website-will-flourish-in-2026",
       "source": "GamesIndustry.biz Latest Articles Feed",
@@ -1543,6 +1599,22 @@
       "feed_url": "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20India&hl=en-IN&gl=IN&ceid=IN:en"
     },
     {
+      "title": "MMORPGを開発しながら会社も経営するSLG「Let's Build a Dungeon」が発表！関係者全員が幸せになるゲーム開発を目指せ - Gamer",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBaMmt1LXVLZUt1NWtaT2VhRDdjZnZlRjk1MW9GWm9TUHlrMFdveWxuNEVNQkJka210YW1wLWh3RkFEV3ZIUmt3TFA5Sjg4d29uWVZheg?oc=5",
+      "source": "Gamer",
+      "published_at": "2024-08-15T07:00:00+00:00",
+      "summary": "MMORPGを開発しながら会社も経営するSLG「Let's Build a Dungeon」が発表！関係者全員が幸せになるゲーム開発を目指せ    Gamer",
+      "feed_url": "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "title": "Tango GameworksをKRAFTONが事業継承。『サイコブレイク』『Hi-Fi RUSH』のゲーム開発スタジオ。『Hi-Fi RUSH』のIP拡大に向けた開発にも着手 - ファミ通",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE83dmtraXJ1Q1F2S1JEU3ZtNHhRTTJwcEJqdVpqOTJrUy1FRW1HcHFETWYxZHJ4TzQ3aldhWEVnekg2UFg5djNLcGQ5UHdqa2dkX1lENU5rTQ?oc=5",
+      "source": "ファミ通",
+      "published_at": "2024-08-12T07:00:00+00:00",
+      "summary": "Tango GameworksをKRAFTONが事業継承。『サイコブレイク』『Hi-Fi RUSH』のゲーム開発スタジオ。『Hi-Fi RUSH』のIP拡大に向けた開発にも着手    ファミ通",
+      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
       "title": "Tencent’s gaming cash cow Honor of Kings sets sights on MENA - TechCrunch",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUXRPUWVnRl9jcFl2VzZ0b0pYTWdWTV8tclNNamRVN2wyVHE4NVRUblo2X3BXeERIZTRqWVczaUhNY3IzdGVQVGVTRjV1TE5oM2hFUi1rOHpDZU9PV2JFNklPdFRQanZNOEVRd0tBSDY5bEtqXzZKYmZCbTF4WVlIYmE1dkdqRXpac3VDdUZFUWUtR3ZOOHRQYnln?oc=5",
       "source": "TechCrunch",
@@ -1589,6 +1661,14 @@
       "published_at": "2020-05-13T07:00:00+00:00",
       "summary": "『ディアブロ』シリーズを生んだ開発者による新パブリッシャー「Skystone Games」設立―インディー開発者の支援と販売業務が目的    GameBusiness.jp",
       "feed_url": "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "title": "「FGO」運営会社、新作スマホゲーム「ミコノート」発表 19年配信予定 - ITmedia",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9hQks0OVVwak9NNHNSRWhFSVVDT1M5UFBXVExNNVJFNjhjODR6ZGtRd0dhRDl6a3FUT2FhTHl2RjNBZnoxdVRCRFB0dHRtVktmYld5eVJsb2VEV09xV3hwbDVELXdjQkprS0ppeg?oc=5",
+      "source": "ITmedia",
+      "published_at": "2019-02-05T08:00:00+00:00",
+      "summary": "「FGO」運営会社、新作スマホゲーム「ミコノート」発表 19年配信予定    ITmedia",
+      "feed_url": "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA&hl=ja&gl=JP&ceid=JP:ja"
     }
   ]
 }
