@@ -1,8 +1,8 @@
 {
   "type": "FeatureCollection",
   "properties": {
-    "created_at": "2026-07-10T18:25:55.234123+00:00",
-    "count": 114,
+    "created_at": "2026-07-10T20:24:19.160421+00:00",
+    "count": 116,
     "stats": {
       "feed_id": "game-general",
       "feed_label": "ゲーム一般ニュース",
@@ -13,15 +13,15 @@
         "https://news.google.com/rss/search?q=%E4%BB%BB%E5%A4%A9%E5%A0%82%20PlayStation%20Xbox%20Steam%20%E3%82%B2%E3%83%BC%E3%83%A0&hl=ja&gl=JP&ceid=JP:ja"
       ],
       "rss_url": "https://news.google.com/rss/search?q=video%20games%20gaming%20news%20Nintendo%20PlayStation%20Xbox%20Steam&hl=en&gl=US&ceid=US:en",
-      "fetched": 283,
+      "fetched": 286,
       "fetched_by_url": {
         "https://news.google.com/rss/search?q=video%20games%20gaming%20news%20Nintendo%20PlayStation%20Xbox%20Steam&hl=en&gl=US&ceid=US:en": 75,
         "https://news.google.com/rss/search?q=game%20release%20update%20Nintendo%20PlayStation%20Xbox%20Steam&hl=en&gl=US&ceid=US:en": 74,
-        "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%20%E6%96%B0%E4%BD%9C%20Switch%20PS5%20Xbox%20Steam&hl=ja&gl=JP&ceid=JP:ja": 74,
+        "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%20%E6%96%B0%E4%BD%9C%20Switch%20PS5%20Xbox%20Steam&hl=ja&gl=JP&ceid=JP:ja": 75,
         "https://news.google.com/rss/search?q=%E4%BB%BB%E5%A4%A9%E5%A0%82%20PlayStation%20Xbox%20Steam%20%E3%82%B2%E3%83%BC%E3%83%A0&hl=ja&gl=JP&ceid=JP:ja": 78
       },
-      "filtered": 250,
-      "resolved": 114,
+      "filtered": 252,
+      "resolved": 116,
       "unresolved": 136,
       "rules": 384,
       "known_places": 1357,
@@ -2333,6 +2333,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          139.7652,
+          35.6697
+        ]
+      },
+      "properties": {
+        "title": "KONAMI新作『Darwin‘s Paradox!』開発ZDT Studioインタビュー。「メタルギア」コラボやタコ、カモフラージュ軸のゲーム性を選んだ理由とは？ - 電撃オンライン",
+        "source": "電撃オンライン",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XSGdGdUR0Wm1oUUJDMHpyZnhKc0VDcWxhNm91Z21EWk1FbWxGSS1yS3h0alhjMGlncDZqbUgzdVVEaW9rQl90VU8wUGY2bnB2RHg0NFBPTW10Zw?oc=5",
+        "published_at": "2026-03-02T08:00:00+00:00",
+        "representative_place": "KONAMI / コナミクリエイティブセンター銀座",
+        "place_label": "日本-東京都-中央区-銀座-コナミクリエイティブセンター銀座",
+        "sort_place_label": "日本-東京都-中央区-銀座-コナミクリエイティブセンター銀座",
+        "geocode_query": "KONAMI Creative Center Ginza Chuo Tokyo Japan",
+        "place_type": "institution_site",
+        "location_precision": "headquarters_area",
+        "place_reason": "KONAMIに関する企業・ゲーム記事は、東京都中央区代表ではなく銀座のKONAMI本社周辺として扱う。番地固定ではなく本社周辺粒度に止める（一致語: KONAMI）",
+        "confidence": 0.76,
+        "rule_id": "observed_konami_ginza_headquarters_refined_202606",
+        "matched_text": "KONAMI",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           139.6503,
           35.6762
         ]
@@ -2460,6 +2487,33 @@
         "confidence": 0.62,
         "rule_id": "observed_rockshot_valhalla_game_studios_tokyo_legacy_201805",
         "matched_text": "Steam",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7516,
+          35.6581
+        ]
+      },
+      "properties": {
+        "title": "『零 ～紅い蝶～ REMAKE』の体験版が3月5日に配信決定！『SILENT HILL f』との相互コラボも (1/2) - ASCII.jp",
+        "source": "ASCII.jp",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBLUklNWjhGdHF1ZTNVZk5EQUNDam5zbW1XM2hoZHpycjlxUjRBZG93MU05Sk16RGpoend2RmE2SmU5cmF3cm9lQjEwZFk5VnZFeG53eQ?oc=5",
+        "published_at": "2026-01-28T08:00:00+00:00",
+        "representative_place": "Bandai Namco Entertainment / Minato, Tokyo representative",
+        "place_label": "日本-東京都-港区-Bandai Namco Entertainment / SAO Memory Defrag",
+        "sort_place_label": "日本-東京都-港区-Bandai Namco Entertainment / SAO Memory Defrag",
+        "geocode_query": "Bandai Namco Entertainment Minato Tokyo Sword Art Online Memory Defrag",
+        "place_type": "mobile_game_publisher_district_representative_uncertain_title_team",
+        "location_precision": "district",
+        "place_reason": "The legacy active entry treated the Sword Art Online Memory Defrag preregistration item as a broad Japan mobile-game launch-market topic. Recheck confirmed the game as a Bandai Namco Entertainment mobile title, and public company context places Bandai Namco Entertainment in Minato, Tokyo after its 2016 move. This override therefore moves the article from a Japan country representative point to a Minato, Tokyo publisher-context representative point. This is not a confirmed title-team office, article venue, exact Bandai Namco Entertainment office coordinate, or media office; replace it if the article body, official game page, store page, or company profile identifies a more precise publisher/developer/operator site.（一致語: 配信決定）",
+        "confidence": 0.64,
+        "rule_id": "observed_sao_memory_defrag_bandai_namco_minato_tokyo_201801",
+        "matched_text": "配信決定",
         "match_source": "known_place_title"
       }
     },
@@ -2747,6 +2801,33 @@
         "source": "BBC",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2Y2NLQWN0eXBQYnM4TTVIdzlDWVZtMXMzeXRrakE5LTdfUld1X09Xd1VHVENsWUdrbzVKcng0NFp0a2J2bHZpNlZ3SWxNSjJjb05EVG1CU1Bhdw?oc=5",
         "published_at": "2025-11-13T08:00:00+00:00",
+        "representative_place": "Valhalla Game Studios / Tokyo",
+        "place_label": "日本-東京-Valhalla Game Studios / RockShot",
+        "sort_place_label": "日本-東京-Valhalla Game Studios / RockShot",
+        "geocode_query": "Valhalla Game Studios Tokyo RockShot",
+        "place_type": "game_development_studio_announcement_city_uncertain_office",
+        "location_precision": "city",
+        "place_reason": "The legacy active entry treated the RockShot / Devil's Third developer item as a broad launch-market and access-restriction topic. A later repository entry for the same article already anchors the development subject to Valhalla Game Studios in Tokyo. This override aligns the older multi-region entry with the later same-topic Tokyo studio representative. This is not a confirmed exact Valhalla Game Studios office address, Steam distribution endpoint, media office, or article venue; replace it if the article body or an official company source identifies a more precise studio location.（一致語: Steam）",
+        "confidence": 0.62,
+        "rule_id": "observed_rockshot_valhalla_game_studios_tokyo_legacy_201805",
+        "matched_text": "Steam",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6503,
+          35.6762
+        ]
+      },
+      "properties": {
+        "title": "『イナズマイレブン 英雄たちのヴィクトリーロード』先行アクセス始まるや否やSteam同接2万人超え。とうとう出た待望作、絶好調のキックオフ - AUTOMATON",
+        "source": "AUTOMATON",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNlRJY2JEbEhTSDFXMG1ybHg1WE42b0NrQlRQM1RqVXhxcUtjb3JrSGRTVUlBX05VRVluS3Z4eDd6NEhrZjQxdFhWX0QySEZsQWk5bVNRTG9haGFkM1ZCa0RiWFZSMGhmX3V1YkEzb3BkU3lMNTk5QlNvSWtZNWE0dQ?oc=5",
+        "published_at": "2025-11-11T08:00:00+00:00",
         "representative_place": "Valhalla Game Studios / Tokyo",
         "place_label": "日本-東京-Valhalla Game Studios / RockShot",
         "sort_place_label": "日本-東京-Valhalla Game Studios / RockShot",
@@ -3985,33 +4066,6 @@
         ]
       },
       "properties": {
-        "title": "『キャットクエスト3』PS/Xbox/Steam版が6月4日23時より予約開始。Steam Nextフェスではデモ版の配信も - 電撃オンライン",
-        "source": "電撃オンライン",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1FaXpVanJoYmtxcGMxcGNUQ21NVjdNWXJwSS1UZmlBZ3NIN19VaDY5V3FoVzhkS1d4WnpVV21IVVZGNjZRaHNuQTRzS3doNUEwV3BFS2Q4VTc?oc=5",
-        "published_at": "2024-06-03T07:00:00+00:00",
-        "representative_place": "Valhalla Game Studios / Tokyo",
-        "place_label": "日本-東京-Valhalla Game Studios / RockShot",
-        "sort_place_label": "日本-東京-Valhalla Game Studios / RockShot",
-        "geocode_query": "Valhalla Game Studios Tokyo RockShot",
-        "place_type": "game_development_studio_announcement_city_uncertain_office",
-        "location_precision": "city",
-        "place_reason": "The legacy active entry treated the RockShot / Devil's Third developer item as a broad launch-market and access-restriction topic. A later repository entry for the same article already anchors the development subject to Valhalla Game Studios in Tokyo. This override aligns the older multi-region entry with the later same-topic Tokyo studio representative. This is not a confirmed exact Valhalla Game Studios office address, Steam distribution endpoint, media office, or article venue; replace it if the article body or an official company source identifies a more precise studio location.（一致語: Steam）",
-        "confidence": 0.62,
-        "rule_id": "observed_rockshot_valhalla_game_studios_tokyo_legacy_201805",
-        "matched_text": "Steam",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.6503,
-          35.6762
-        ]
-      },
-      "properties": {
         "title": "すごろく型ボードゲーム『鬼滅の刃 目指せ！最強隊士！』PS、Xbox、Steam版が7月17日に発売決定。無料アプデで全プラットフォームにカナヲも追加 - ファミ通",
         "source": "ファミ通",
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9oN2FBTW1oOXV0UXA0NWZSZDlCYmxJSnRpbW83N09tX0s1SUY1TWVoeE1NQ2VJbjFhajJfekk5RVpqeDdsWE9PV0xRMmxSMUNmeHlZVEJ3?oc=5",
@@ -4120,6 +4174,33 @@
         ]
       },
       "properties": {
+        "title": "戦略的なバトルが魅力の神話ファンタジーRPG「刃神のアマテラス」がPS5/PS4/Xbox Series X|S/Xbox One/Switch/Steam向けに配信！ - Gamer",
+        "source": "Gamer",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE56cWlFNTVybkQwZmNLTTlqZWRNejdoVjZQZHd4dkJkb2I1V25BS25IVW5FNlRPSTIyRnQ1WVJHZWlNdUFrMVdPM0I5ZlpZaTJtV191Xw?oc=5",
+        "published_at": "2023-12-22T08:00:00+00:00",
+        "representative_place": "Valhalla Game Studios / Tokyo",
+        "place_label": "日本-東京-Valhalla Game Studios / RockShot",
+        "sort_place_label": "日本-東京-Valhalla Game Studios / RockShot",
+        "geocode_query": "Valhalla Game Studios Tokyo RockShot",
+        "place_type": "game_development_studio_announcement_city_uncertain_office",
+        "location_precision": "city",
+        "place_reason": "The legacy active entry treated the RockShot / Devil's Third developer item as a broad launch-market and access-restriction topic. A later repository entry for the same article already anchors the development subject to Valhalla Game Studios in Tokyo. This override aligns the older multi-region entry with the later same-topic Tokyo studio representative. This is not a confirmed exact Valhalla Game Studios office address, Steam distribution endpoint, media office, or article venue; replace it if the article body or an official company source identifies a more precise studio location.（一致語: Steam）",
+        "confidence": 0.62,
+        "rule_id": "observed_rockshot_valhalla_game_studios_tokyo_legacy_201805",
+        "matched_text": "Steam",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6503,
+          35.6762
+        ]
+      },
+      "properties": {
         "title": "Award-winning Steam RPG currently free to download and keep, just not for everyone - GAMINGbible",
         "source": "GAMINGbible",
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVVJ5c19uc3ZVb2lleVA5TFFsOWtJNTY3OE1paDVWUFpKZzBJTHV2MDNFNEV2UHpNR01tdVdnT01meTNjZFFhQXpCekYyOFViMmI3aVExMXpDWHVQTUdqMmdzZFJicUY4a1JtV3V5VWpndWpnNjd2ZTQ3VE9GTW4xSFo1VV9VeFhydWFpM3lyUkFCZlU3a3lTQ2lZNWtwcFk?oc=5",
@@ -4151,33 +4232,6 @@
         "source": "ファミ通",
         "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9TX2tZbjR3bVQzQkVzTXdmWEVvWW1LTXhNRVhldTJXWWstUVlCcUF0UkdaOFk4bjRCbENtSUVaNW9JdHFHU3hHTWdreF8tNjJ5UUM0eXNZdnpSTXRlRGc?oc=5",
         "published_at": "2023-06-14T07:00:00+00:00",
-        "representative_place": "Valhalla Game Studios / Tokyo",
-        "place_label": "日本-東京-Valhalla Game Studios / RockShot",
-        "sort_place_label": "日本-東京-Valhalla Game Studios / RockShot",
-        "geocode_query": "Valhalla Game Studios Tokyo RockShot",
-        "place_type": "game_development_studio_announcement_city_uncertain_office",
-        "location_precision": "city",
-        "place_reason": "The legacy active entry treated the RockShot / Devil's Third developer item as a broad launch-market and access-restriction topic. A later repository entry for the same article already anchors the development subject to Valhalla Game Studios in Tokyo. This override aligns the older multi-region entry with the later same-topic Tokyo studio representative. This is not a confirmed exact Valhalla Game Studios office address, Steam distribution endpoint, media office, or article venue; replace it if the article body or an official company source identifies a more precise studio location.（一致語: Steam）",
-        "confidence": 0.62,
-        "rule_id": "observed_rockshot_valhalla_game_studios_tokyo_legacy_201805",
-        "matched_text": "Steam",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.6503,
-          35.6762
-        ]
-      },
-      "properties": {
-        "title": "「バベルの図書館」がPS5/PS4/XboxSX|S/Xbox One/Switch/Steamでリリース！ロボットに支配された世界を舞台にしたSFステルスACT - Gamer",
-        "source": "Gamer",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9GaHBzWlJWLVFFQkxnVTFTXzF4ZGxEYV9KQWs1MzlhM2VES0EyLVRQZFZUcmRHZHJuNm0xbGhfTUVOdVlRNWJwaXNScDNDZm9kTzZzY0J3c0FYU05peWxv?oc=5",
-        "published_at": "2023-04-07T07:00:00+00:00",
         "representative_place": "Valhalla Game Studios / Tokyo",
         "place_label": "日本-東京-Valhalla Game Studios / RockShot",
         "sort_place_label": "日本-東京-Valhalla Game Studios / RockShot",
