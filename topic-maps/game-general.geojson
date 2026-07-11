@@ -1,8 +1,8 @@
 {
   "type": "FeatureCollection",
   "properties": {
-    "created_at": "2026-07-11T15:58:19.674846+00:00",
-    "count": 113,
+    "created_at": "2026-07-11T17:07:32.346839+00:00",
+    "count": 115,
     "stats": {
       "feed_id": "game-general",
       "feed_label": "ゲーム一般ニュース",
@@ -13,16 +13,16 @@
         "https://news.google.com/rss/search?q=%E4%BB%BB%E5%A4%A9%E5%A0%82%20PlayStation%20Xbox%20Steam%20%E3%82%B2%E3%83%BC%E3%83%A0&hl=ja&gl=JP&ceid=JP:ja"
       ],
       "rss_url": "https://news.google.com/rss/search?q=video%20games%20gaming%20news%20Nintendo%20PlayStation%20Xbox%20Steam&hl=en&gl=US&ceid=US:en",
-      "fetched": 285,
+      "fetched": 286,
       "fetched_by_url": {
         "https://news.google.com/rss/search?q=video%20games%20gaming%20news%20Nintendo%20PlayStation%20Xbox%20Steam&hl=en&gl=US&ceid=US:en": 75,
         "https://news.google.com/rss/search?q=game%20release%20update%20Nintendo%20PlayStation%20Xbox%20Steam&hl=en&gl=US&ceid=US:en": 75,
-        "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%20%E6%96%B0%E4%BD%9C%20Switch%20PS5%20Xbox%20Steam&hl=ja&gl=JP&ceid=JP:ja": 74,
+        "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%20%E6%96%B0%E4%BD%9C%20Switch%20PS5%20Xbox%20Steam&hl=ja&gl=JP&ceid=JP:ja": 76,
         "https://news.google.com/rss/search?q=%E4%BB%BB%E5%A4%A9%E5%A0%82%20PlayStation%20Xbox%20Steam%20%E3%82%B2%E3%83%BC%E3%83%A0&hl=ja&gl=JP&ceid=JP:ja": 78
       },
       "filtered": 251,
-      "resolved": 113,
-      "unresolved": 138,
+      "resolved": 115,
+      "unresolved": 136,
       "rules": 384,
       "known_places": 1357,
       "loaded_data_files": [
@@ -1604,6 +1604,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          126.978,
+          37.5665
+        ]
+      },
+      "properties": {
+        "title": "Shift Up reveals Stellar Blade sequel, Blood Rain - Video Games Chronicle",
+        "source": "Video Games Chronicle",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMFJ3VURpRlJXMXNyZGJ5UWc2bTl1ZXprZXZOMGZFY0FDQ3JaTU9QX2hBX01vRFlONzQ1WmRZamlRMkJfTHpVS0UtVWRPWTVfTlRNVFVZY2ZOOVFMWmZGZ3hiM0RCaERDRnhkVHBSV0g1X0J3ZDRNcVpzZkFKUFhaUGhNTmJfT2p2eUprVkpiWklUdlRL?oc=5",
+        "published_at": "2026-06-05T07:00:00+00:00",
+        "representative_place": "Shift Up / Seoul",
+        "place_label": "韓国-ソウル-Shift Up / Unbound acquisition",
+        "sort_place_label": "韓国-ソウル-Shift Up / Unbound acquisition",
+        "geocode_query": "Shift Up Seoul South Korea",
+        "place_type": "studio_company_acquisition_site",
+        "location_precision": "city",
+        "place_reason": "Shift UpによるUnbound買収記事なので、買収対象の詳細住所を推測せず、買い手主体Shift Upの本社都市Seoulに置く。（一致語: Shift Up）",
+        "confidence": 0.78,
+        "rule_id": "observed_shift_up_unbound_acquisition_seoul_202604",
+        "matched_text": "Shift Up",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           139.6503,
           35.6762
         ]
@@ -1798,6 +1825,33 @@
         ]
       },
       "properties": {
+        "title": "「プラグマタ」の全世界販売本数が200万本を突破！PS5/Xbox/Steamでの発売からわずか16日間 - Gamer",
+        "source": "Gamer",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA1eTVWbzE0YTFOeE81Vk9DNV9sUm1ISHI3RnRiSkJlaERrSV9OU2l0U2tVM1Y2aDY2b2dxT2l0emllX3ZSeF9EU2s4RE5xSFJGVW1fNw?oc=5",
+        "published_at": "2026-05-07T07:00:00+00:00",
+        "representative_place": "Valhalla Game Studios / Tokyo",
+        "place_label": "日本-東京-Valhalla Game Studios / RockShot",
+        "sort_place_label": "日本-東京-Valhalla Game Studios / RockShot",
+        "geocode_query": "Valhalla Game Studios Tokyo RockShot",
+        "place_type": "game_development_studio_announcement_city_uncertain_office",
+        "location_precision": "city",
+        "place_reason": "The legacy active entry treated the RockShot / Devil's Third developer item as a broad launch-market and access-restriction topic. A later repository entry for the same article already anchors the development subject to Valhalla Game Studios in Tokyo. This override aligns the older multi-region entry with the later same-topic Tokyo studio representative. This is not a confirmed exact Valhalla Game Studios office address, Steam distribution endpoint, media office, or article venue; replace it if the article body or an official company source identifies a more precise studio location.（一致語: Steam）",
+        "confidence": 0.62,
+        "rule_id": "observed_rockshot_valhalla_game_studios_tokyo_legacy_201805",
+        "matched_text": "Steam",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6503,
+          35.6762
+        ]
+      },
+      "properties": {
         "title": "Valve's £85 Steam Controller divides gamers ahead of May launch - BBC",
         "source": "BBC",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9pc3VESDhWMGtubUVKZDBXTVRQTlM2czcwQlgtQVdMbDhDdmNPdzFPLTJ3eWJvMGZGV2RDekFnZG80WERqa291a29wTXRtS0k1aGxOVk8wdXdCUQ?oc=5",
@@ -1825,8 +1879,8 @@
         ]
       },
       "properties": {
-        "title": "「R-TYPE DX」がSwitch、PS4、Xbox Series X|S、Steamで復活！ 「R-TYPE DX: Music Encore」4月30日発売 - GAME Watch",
-        "source": "GAME Watch",
+        "title": "「R-TYPE DX」がSwitch、PS4、Xbox Series X|S、Steamで復活！ 「R-TYPE DX: Music Encore」4月30日発売 - game.watch.impress.co.jp",
+        "source": "game.watch.impress.co.jp",
         "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1haEVsc1R2a3RuTFQwVmQ0eGFaSm9RT1o5ajdWZ0E3N1k5RUp2WkhYNEJjeTRSSDdlWHRJVmZBWjhONURad0pjQm5rRXAwZmRNREN1aXA2RnIyNmFXXzlqWVRqeHlFQQ?oc=5",
         "published_at": "2026-04-23T07:00:00+00:00",
         "representative_place": "Valhalla Game Studios / Tokyo",
@@ -2541,6 +2595,33 @@
         "confidence": 0.62,
         "rule_id": "observed_rockshot_valhalla_game_studios_tokyo_legacy_201805",
         "matched_text": "Steam",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.006,
+          40.7128
+        ]
+      },
+      "properties": {
+        "title": "The 11 biggest video game news stories of 2025 – from Switch 2 to GTA 6 - Metro.co.uk",
+        "source": "Metro.co.uk",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQTBlRzJLOXNuTkZfWGZPQ1dGYnQ1Zm9peldfLWZtQ2wtY2JpX3RPTEh1ZklLUVFwRloxMVVfX3RET0Y1VWphM1ViNUpxYUl4OXJ5bmNiRUNTaVdnbTVhZmhzVzlrUjRDNU96UFYwX3RzT0VIVDd5NkpBamhTa2Z3VHJYVUFQUW12MWdQUExWRlpDdThObVFkcEcza9IBoAFBVV95cUxNdjB0dEpkOGQ0djNpa2FZdFF6V0dOSUY0dDBmanNCU29ZS011OERIdm01UGN3Qld1WWJjZDd2Z0ZILTM2Vnh5QjZMWTVsbWhrT1VyaWdOdUcwTXBXOENsZkRLckhpb3ZqZDc5VWt5dUxTak9neVpXN1Q0Nk1CNW1BTGZuQUNvOVN6c1dCUWpyUS1tTlJCYlp4V1F1QkJJYk5h?oc=5",
+        "published_at": "2025-12-25T08:00:00+00:00",
+        "representative_place": "Rockstar Games / New York City",
+        "place_label": "米国-ニューヨーク州-ニューヨーク-Rockstar Games",
+        "sort_place_label": "米国-ニューヨーク州-ニューヨーク-Rockstar Games",
+        "geocode_query": "Rockstar Games New York City United States",
+        "place_type": "publisher_company_site",
+        "location_precision": "city",
+        "place_reason": "GTA 6の価格・販売予測記事なので、架空舞台ではなく発行元Rockstar Gamesの本社都市New York Cityに置く。（一致語: GTA 6）",
+        "confidence": 0.76,
+        "rule_id": "observed_rockstar_gta6_pricing_new_york_202606",
+        "matched_text": "GTA 6",
         "match_source": "known_place_title"
       }
     },
@@ -3341,33 +3422,6 @@
         "source": "Gamer",
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1wS0FkdnZ3a1RFOEdoSlFBTnpFcnVzdTJvc0g5cnRTbVU0aElMemVRNmFscWJhN0JFMTE1a2dsVEd2TEROWHV6WkN3Wjg1c3NtS1dpdA?oc=5",
         "published_at": "2025-05-28T07:00:00+00:00",
-        "representative_place": "Valhalla Game Studios / Tokyo",
-        "place_label": "日本-東京-Valhalla Game Studios / RockShot",
-        "sort_place_label": "日本-東京-Valhalla Game Studios / RockShot",
-        "geocode_query": "Valhalla Game Studios Tokyo RockShot",
-        "place_type": "game_development_studio_announcement_city_uncertain_office",
-        "location_precision": "city",
-        "place_reason": "The legacy active entry treated the RockShot / Devil's Third developer item as a broad launch-market and access-restriction topic. A later repository entry for the same article already anchors the development subject to Valhalla Game Studios in Tokyo. This override aligns the older multi-region entry with the later same-topic Tokyo studio representative. This is not a confirmed exact Valhalla Game Studios office address, Steam distribution endpoint, media office, or article venue; replace it if the article body or an official company source identifies a more precise studio location.（一致語: Steam）",
-        "confidence": 0.62,
-        "rule_id": "observed_rockshot_valhalla_game_studios_tokyo_legacy_201805",
-        "matched_text": "Steam",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.6503,
-          35.6762
-        ]
-      },
-      "properties": {
-        "title": "Star Wars Battlefront 2 smashes all-time Steam numbers bolstered by social media campaign - Video Games Chronicle",
-        "source": "Video Games Chronicle",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMVpmWGhJZ0dMOHlXOF8xTWFnc2owYnBvaERNV29DN05CNk4zZUhWVzlxMnVIWGlqNGIzeUpJa2t3MTJpd3N6bF9zNF9pallsQlJPc25ZekZ6Wl9VVHdlWjUwSm00UWhsVG4yUk5WODZKSXFoNkxWTTJmb2VlanM2SGZDd2gzbVNDWGJRRkdsaFo0Wk1GMUlwU2pPZ3pXSmcyZU5LTjVlRUthMG4zUTYxMDhaOENPMF9vcHVnZWE1SHFaVDA2OVM0YXF4WQ?oc=5",
-        "published_at": "2025-05-27T07:00:00+00:00",
         "representative_place": "Valhalla Game Studios / Tokyo",
         "place_label": "日本-東京-Valhalla Game Studios / RockShot",
         "sort_place_label": "日本-東京-Valhalla Game Studios / RockShot",

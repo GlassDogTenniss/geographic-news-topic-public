@@ -1,8 +1,8 @@
 {
   "type": "FeatureCollection",
   "properties": {
-    "created_at": "2026-07-11T15:58:19.674846+00:00",
-    "count": 840,
+    "created_at": "2026-07-11T17:07:32.346839+00:00",
+    "count": 841,
     "stats": {
       "feed_id": "game-all",
       "feed_label": "ゲーム",
@@ -50,8 +50,8 @@
         "https://news.google.com/rss/search?q=%E6%B5%B7%E5%A4%96%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA&hl=ja&gl=JP&ceid=JP:ja": 77,
         "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja": 78
       },
-      "filtered": 892,
-      "resolved": 840,
+      "filtered": 893,
+      "resolved": 841,
       "unresolved": 52,
       "rules": 384,
       "known_places": 1357,
@@ -1506,7 +1506,7 @@
         ]
       },
       "properties": {
-        "title": "NAG’s Friday Steam Wishlist Sale: No One Said Cheap",
+        "title": "NAGs Friday Steam Wishlist Sale: No One Said Cheap",
         "source": "NAG",
         "link": "https://www.nag.co.za/2026/07/10/nags-friday-steam-wishlist-sale-no-one-said-cheap/",
         "published_at": "2026-07-10T10:45:25+00:00",
@@ -4409,33 +4409,6 @@
         "confidence": 0.62,
         "rule_id": "observed_atmospheric_farnborough_202606",
         "matched_text": "Atmospheric",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.6503,
-          35.6762
-        ]
-      },
-      "properties": {
-        "title": "アニメ『ハイキュー!!』の新作スマホゲーム『ハイキュー!! TOUCH AND CONNECT』が配信開始 - South65",
-        "source": "South65",
-        "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxQQ1duNjZhMUhuVHh4QUMwRGMwS3IyMUNLVnZNdFhjRW9WNHc5YjllTFRLS1Jub25sd2RXM3RCZF9wVHBLZHd1VmpnSFhCLUlMdWhZUWxmdEFFNXhVSzFOZVZNZHo0bmJDVUlGZVhTeE8wWjFoQW15Vmd2UDZQQTUwZmFNTTVtQ2RnQWhXV1hoM2tBZ2F4WXRVVG5JRHkwS25hdFNxS1NGX2ZLME50cktJY3hBUHdGdF9CSWZXQzZmRUl1M1E1VHlHalZTZVZDd20yYi1vekItTVhLT004UUhRV0xMaWEtNVNRMHk5TzItUFBiblFYMXdPXzgwOFNuUFJYV0RDd3RoSEVxM2cySThaWVlVQ1FkVHBubXl1RzhodV96T05lckl4eUNJYlNzZUxDVjZJVUFPXzc5NVExX2w00gHEAkFVX3lxTE5WekROUGpDUU5FR1RKOG9HeDhVZjlGTW5iUzdaMUpWamlHR0hpYjZTbDYxLVNOVlh6MG5JOWpyV2JHTG1IT1BjQUtlOVE3REozSkpYUElJaS16UUoxcDNKNGJWMkZiQUZTOVJXRjE3d0VzcEpqUU53TkVkNHdnSWVEZGZJNE5PVEYxQ1EwN0lUS0xlYmUtVXRSUDlxUTVxYVRNN3JweFdIRmpUejQ2bkFISkwyUmhwQ3VZVXRLeVN4NER4eUpWLUZEc0VQZ2JvNTQ4QWZtalIwcjRUbnVhck9wZk9HcjhoX3ZCNkMybEc4cGhVTjZncklabWVoT3JQamVMc3BzaUMyek9makh3RUx1Z2tjUmRWRmoxMU5nNFRrTjlfLVBQRDNGYjdUbGdFdzJwTU5SV1ZIdUhkNDJpRVhqaXdfYg?oc=5",
-        "published_at": "2026-06-30T07:00:00+00:00",
-        "representative_place": "Haikyu!! TOUCH AND CONNECT / Tokyo representative",
-        "place_label": "日本-東京都-東京-ハイキュー新作スマホゲーム配信代表点",
-        "sort_place_label": "日本-東京都-東京-ハイキュー新作スマホゲーム配信代表点",
-        "geocode_query": "Tokyo Japan Haikyu TOUCH AND CONNECT mobile game",
-        "place_type": "anime_ip_mobile_game_release_representative",
-        "location_precision": "city",
-        "place_reason": "The unresolved South65 item is a release article for a new mobile game based on the Haikyu!! anime IP. Public title searches in this pass did not expose a reliable developer, operator, publisher office, event venue, or official announcement location for this specific title. A broad Japan centroid is avoided; Tokyo is used as a low-confidence representative point because the subject is a Japanese anime-IP mobile-game release and the likely rights / media-company context is concentrated there. Replace with the operator or developer headquarters if a verifiable official source becomes available.（一致語: アニメ『ハイキュー!!』の新作スマホゲーム『ハイキュー!! TOUCH AND CONNECT』が配信開始 - South65）",
-        "confidence": 0.44,
-        "rule_id": "observed_haikyu_touch_connect_south65_tokyo_202606",
-        "matched_text": "アニメ『ハイキュー!!』の新作スマホゲーム『ハイキュー!! TOUCH AND CONNECT』が配信開始 - South65",
         "match_source": "known_place_title"
       }
     },
@@ -9898,33 +9871,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.7516,
-          35.6581
-        ]
-      },
-      "properties": {
-        "title": "「対魔忍スクワッド」正式配信開始！井河アサギが登場―事前登録30万人達成報酬も - OnlineGamer",
-        "source": "OnlineGamer",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1mQjNDODh6NWpnQmcwNUZiRGhBcHRxZHpIWlFTVzZIZDNYMUtxeXh0eE83Ujg0cVJQNFNsTVRrSVA4N2dPZ3NsaE9vQmdYMlJkY0hwZUNTWGY?oc=5",
-        "published_at": "2026-03-05T08:00:00+00:00",
-        "representative_place": "Bandai Namco Entertainment / Minato, Tokyo representative",
-        "place_label": "日本-東京都-港区-Bandai Namco Entertainment / SAO Memory Defrag",
-        "sort_place_label": "日本-東京都-港区-Bandai Namco Entertainment / SAO Memory Defrag",
-        "geocode_query": "Bandai Namco Entertainment Minato Tokyo Sword Art Online Memory Defrag",
-        "place_type": "mobile_game_publisher_district_representative_uncertain_title_team",
-        "location_precision": "district",
-        "place_reason": "The legacy active entry treated the Sword Art Online Memory Defrag preregistration item as a broad Japan mobile-game launch-market topic. Recheck confirmed the game as a Bandai Namco Entertainment mobile title, and public company context places Bandai Namco Entertainment in Minato, Tokyo after its 2016 move. This override therefore moves the article from a Japan country representative point to a Minato, Tokyo publisher-context representative point. This is not a confirmed title-team office, article venue, exact Bandai Namco Entertainment office coordinate, or media office; replace it if the article body, official game page, store page, or company profile identifies a more precise publisher/developer/operator site.（一致語: 事前登録）",
-        "confidence": 0.64,
-        "rule_id": "observed_sao_memory_defrag_bandai_namco_minato_tokyo_201801",
-        "matched_text": "事前登録",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -122.0841,
           37.422
         ]
@@ -11815,33 +11761,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.7516,
-          35.6581
-        ]
-      },
-      "properties": {
-        "title": "【ガールズバンドクライ First Riff】配信日・事前登録特典・最新情報まとめ - 電撃オンライン",
-        "source": "電撃オンライン",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8wdmFpU1NRdDJzUUt1OWpFRVUxVUt2bzM3ZW45TDdveS1IcU9RWXV6cU40X3lsbVFzMnFiM09RWGZ5b0YyUVdJLVg5aVR2N2hMcFFxOF9xa1B5UQ?oc=5",
-        "published_at": "2025-10-21T07:00:00+00:00",
-        "representative_place": "Bandai Namco Entertainment / Minato, Tokyo representative",
-        "place_label": "日本-東京都-港区-Bandai Namco Entertainment / SAO Memory Defrag",
-        "sort_place_label": "日本-東京都-港区-Bandai Namco Entertainment / SAO Memory Defrag",
-        "geocode_query": "Bandai Namco Entertainment Minato Tokyo Sword Art Online Memory Defrag",
-        "place_type": "mobile_game_publisher_district_representative_uncertain_title_team",
-        "location_precision": "district",
-        "place_reason": "The legacy active entry treated the Sword Art Online Memory Defrag preregistration item as a broad Japan mobile-game launch-market topic. Recheck confirmed the game as a Bandai Namco Entertainment mobile title, and public company context places Bandai Namco Entertainment in Minato, Tokyo after its 2016 move. This override therefore moves the article from a Japan country representative point to a Minato, Tokyo publisher-context representative point. This is not a confirmed title-team office, article venue, exact Bandai Namco Entertainment office coordinate, or media office; replace it if the article body, official game page, store page, or company profile identifies a more precise publisher/developer/operator site.（一致語: 事前登録）",
-        "confidence": 0.64,
-        "rule_id": "observed_sao_memory_defrag_bandai_namco_minato_tokyo_201801",
-        "matched_text": "事前登録",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           103.7873,
           1.2992
         ]
@@ -12495,8 +12414,8 @@
         ]
       },
       "properties": {
-        "title": "Gamescom: How is Poland's gaming industry faring? - DW.com",
-        "source": "DW.com",
+        "title": "Gamescom: How is Poland's gaming industry faring? - dw.com",
+        "source": "dw.com",
         "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTGJfR2VoUjF0NW1WZXc1UWpoenFHbU5jRzZ3WXlYS3ZCd2JPMVhodVpaWHEtcWY5c05peGxNQ2t3M21OeEtsUHNyeDVtVTBqTjVVYy1TQ0RIWXRhTGsxU29PU1FGRWhtY3JRcllvUFphUE5JcENmSllaTVYyV1I5Y2ZmcUloQdIBhgFBVV95cUxOQ1FhTnNLYy1EZ3VwSXBaSGFwNTJXWmJ1VVA3aDhkeVhoRHlPMUJrSlY3SjVGbGR5ZzFrSDhRV0JsRzlwV1doU0JPaGtkelVZdFFNOTM4QUNiMnZ5a0ZkR1VkTU1Tbk9NR09hT1RIeTUxQjNoMVlxSUsxOWFSREg1WGFMUWd3UQ?oc=5",
         "published_at": "2025-08-22T07:00:00+00:00",
         "representative_place": "Gamescom 2025 / Koelnmesse",
@@ -13062,6 +12981,33 @@
         ]
       },
       "properties": {
+        "title": "【スターセイヴァー】配信日・事前登録特典・最新情報まとめ - 電撃オンライン",
+        "source": "電撃オンライン",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5EdUU0bHRma0kzdkt3MXFBd0MtbUdqSk5rZEVOa3p0NTFWMTdFRFRyWnZkNUZtVEoyWkV4QU5RQ3NQMmFGR3pEdGxma2VmVEJlS0YyRmZlZFBUUQ?oc=5",
+        "published_at": "2025-07-16T09:59:34+00:00",
+        "representative_place": "Bandai Namco Entertainment / Minato, Tokyo representative",
+        "place_label": "日本-東京都-港区-Bandai Namco Entertainment / SAO Memory Defrag",
+        "sort_place_label": "日本-東京都-港区-Bandai Namco Entertainment / SAO Memory Defrag",
+        "geocode_query": "Bandai Namco Entertainment Minato Tokyo Sword Art Online Memory Defrag",
+        "place_type": "mobile_game_publisher_district_representative_uncertain_title_team",
+        "location_precision": "district",
+        "place_reason": "The legacy active entry treated the Sword Art Online Memory Defrag preregistration item as a broad Japan mobile-game launch-market topic. Recheck confirmed the game as a Bandai Namco Entertainment mobile title, and public company context places Bandai Namco Entertainment in Minato, Tokyo after its 2016 move. This override therefore moves the article from a Japan country representative point to a Minato, Tokyo publisher-context representative point. This is not a confirmed title-team office, article venue, exact Bandai Namco Entertainment office coordinate, or media office; replace it if the article body, official game page, store page, or company profile identifies a more precise publisher/developer/operator site.（一致語: 事前登録）",
+        "confidence": 0.64,
+        "rule_id": "observed_sao_memory_defrag_bandai_namco_minato_tokyo_201801",
+        "matched_text": "事前登録",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7516,
+          35.6581
+        ]
+      },
+      "properties": {
         "title": "【七つの大罪：Origin】配信日・事前登録特典・最新情報まとめ - 電撃オンライン",
         "source": "電撃オンライン",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQbTNTV1k1azlaVkJFR3VkSExyQ09PMFVicUp4MGJtQ2MzRnlaWmlVaHhBWXdVeTFrcENQRGJiTjhjMlJacmhuRk5YOXhsVl9YeGZBNllkbmQ4dw?oc=5",
@@ -13413,8 +13359,8 @@
         ]
       },
       "properties": {
-        "title": "How Olivier Madiba set up Cameroon's first gaming studio - DW.com",
-        "source": "DW.com",
+        "title": "How Olivier Madiba set up Cameroon's first gaming studio - dw.com",
+        "source": "dw.com",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUjdORzlBZ1hLMXZyNUlmSzJrb0dYRV9EV0paT0RDWXgwQUxKN3gtV1dXLXZCWHJ1c1ItTHFEdUNCbWdzcmhZa1czNXdJQ2pqV2NlbTktVEZSMDZVTE9TejM1Z01CNWRqejFYUHB3Y3pnRXdINkpPOEdGdjAwT3ZyTS1tdUNjRElCSTBsa3VaOFV2WW9wZUln?oc=5",
         "published_at": "2025-06-26T07:00:00+00:00",
         "representative_place": "Kiro'o Games / Yaoundé",
@@ -13791,8 +13737,8 @@
         ]
       },
       "properties": {
-        "title": "Summer Game Fest 2025 guide and schedule - Epic Games Store",
-        "source": "Epic Games Store",
+        "title": "Summer Game Fest 2025 guide and schedule - Epic Games",
+        "source": "Epic Games",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTTluR2V5YlJCdkhMeVZMVGh1RmVVamMyMUVBTW1VZWlUNjJ4QW9SeVF2RDN6NVNJSWh1aEFZclliQlh0LUZpdE91WF9ldi1yemNBd1BBS3RwV0J1RGUwMWRuNjZFeU9YSVBPUlJwa2Vaa1NJZ3dmZGRFdnkxcTFzeGJfR1Z4aEdfZU9iR2ZSdWdIMjlwM3c?oc=5",
         "published_at": "2025-06-02T07:00:00+00:00",
         "representative_place": "Summer Game Fest 2025 / YouTube Theater",
@@ -15271,33 +15217,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.6503,
-          35.6762
-        ]
-      },
-      "properties": {
-        "title": "元プラチナゲームズ・神谷英樹氏が率いる新スタジオ「クローバーズ」正式始動！『大神 完全新作』を鋭意開発中 - インサイド",
-        "source": "インサイド",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9qRFhiZjNaWnlFMEJleUZubU5tZGNoQlUwYXduOWVQVDU4Q0ZNaVNzck9rUjJjUkZ3a0VEN2JiR2VsbkttZHVlT1hUbUZfcEY4OVVGNWM3czNUZUpNeE55dFhiZFl3Qi0wNEE?oc=5",
-        "published_at": "2024-12-13T08:00:00+00:00",
-        "representative_place": "Clovers / Tokyo representative",
-        "place_label": "日本-東京都",
-        "sort_place_label": "日本-東京都",
-        "geocode_query": "Clovers Hideki Kamiya Okami new project Tokyo representative",
-        "place_type": "game_studio_launch_new_title_city_representative_uncertain_office",
-        "location_precision": "city",
-        "place_reason": "The generated unresolved item is another exact unresolved title about Clovers formally starting and developing a new Okami project. Use the same Clovers / Tokyo studio-side representative as the paired PR TIMES item rather than the media source. This is not an exact office coordinate and is intentionally duplicated only for title-specific matching.（一致語: 元プラチナゲームズ・神谷英樹氏が率いる新スタジオ「クローバーズ」正式始動！『大神 完全新作』を鋭意開発中 - インサイド）",
-        "confidence": 0.52,
-        "rule_id": "game_all_20260709_clovers_okami_new_project_tokyo_inside_202412",
-        "matched_text": "元プラチナゲームズ・神谷英樹氏が率いる新スタジオ「クローバーズ」正式始動！『大神 完全新作』を鋭意開発中 - インサイド",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.3522,
           48.8566
         ]
@@ -15317,6 +15236,33 @@
         "confidence": 0.72,
         "rule_id": "observed_rematch_sloclap_paris_202412",
         "matched_text": "『SIFU』の開発スタジオが手がける新作サッカーアクションゲーム『REMATCH』発表 - 電ファミニコゲーマー",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6503,
+          35.6762
+        ]
+      },
+      "properties": {
+        "title": "元プラチナゲームズ・神谷英樹氏が率いる新スタジオ「クローバーズ」正式始動！『大神 完全新作』を鋭意開発中 - インサイド",
+        "source": "インサイド",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9qRFhiZjNaWnlFMEJleUZubU5tZGNoQlUwYXduOWVQVDU4Q0ZNaVNzck9rUjJjUkZ3a0VEN2JiR2VsbkttZHVlT1hUbUZfcEY4OVVGNWM3czNUZUpNeE55dFhiZFl3Qi0wNEE?oc=5",
+        "published_at": "2024-12-13T08:00:00+00:00",
+        "representative_place": "Clovers / Tokyo representative",
+        "place_label": "日本-東京都",
+        "sort_place_label": "日本-東京都",
+        "geocode_query": "Clovers Hideki Kamiya Okami new project Tokyo representative",
+        "place_type": "game_studio_launch_new_title_city_representative_uncertain_office",
+        "location_precision": "city",
+        "place_reason": "The generated unresolved item is another exact unresolved title about Clovers formally starting and developing a new Okami project. Use the same Clovers / Tokyo studio-side representative as the paired PR TIMES item rather than the media source. This is not an exact office coordinate and is intentionally duplicated only for title-specific matching.（一致語: 元プラチナゲームズ・神谷英樹氏が率いる新スタジオ「クローバーズ」正式始動！『大神 完全新作』を鋭意開発中 - インサイド）",
+        "confidence": 0.52,
+        "rule_id": "game_all_20260709_clovers_okami_new_project_tokyo_inside_202412",
+        "matched_text": "元プラチナゲームズ・神谷英樹氏が率いる新スタジオ「クローバーズ」正式始動！『大神 完全新作』を鋭意開発中 - インサイド",
         "match_source": "known_place_title"
       }
     },
@@ -15492,8 +15438,8 @@
         ]
       },
       "properties": {
-        "title": "Where are the video games from Africa? - DW.com",
-        "source": "DW.com",
+        "title": "Where are the video games from Africa? - dw.com",
+        "source": "dw.com",
         "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE84ZXdrYnpYYnc0ZjVlalNzX1JpbkZ2SHVNWS1ZOG5FSGQ4RDdJTkRCcVJKejhFeVdVVml5OGdxVk13UXB6REJqWWRoQWhSemI5N2FDazRyYWpNZ3lvZHNrbGRMNW1PSjZHUmx3OWh4MUI1VnpwMGVQcEZ30gF6QVVfeXFMUGFFNGdBOWt0c216Q3RGcDJoc0FBUHplSmlPY3RTNGZXeWJZYmhRa3JNaDR6dEFZVERNa1lqeFg4aTNncm1WaEl2ZEJ3YmswQzdJcnM5ejgzQ3FpY2RlOW5WQnBjNHlZSjdUb0xCN3ZQS3J6MUxzVi1nY3c?oc=5",
         "published_at": "2024-12-02T08:00:00+00:00",
         "representative_place": "African game-development sector / Johannesburg representative",
@@ -17971,6 +17917,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          103.7873,
+          1.2992
+        ]
+      },
+      "properties": {
+        "title": "Indie Jam 2023 To Showcase Southeast Asian Gaming Excellence in Kuala Lumpur - Pokde.Net",
+        "source": "Pokde.Net",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9UcHhBdW1aTzZGeENrUWtNNUtTZC16UXIwSjY5RlZyQ0pMWERSajVGVjJVYW91Zm9xdjV3QTJuV1VtS3M0aTZaM2QwT0R1LTFPVG9LcnJJYjUzWWFORWtxcnkzT2pWSlE?oc=5",
+        "published_at": "2023-11-12T08:00:00+00:00",
+        "representative_place": "Virtuos / Fusionopolis, Singapore",
+        "place_label": "シンガポール-Fusionopolis-Virtuos",
+        "sort_place_label": "シンガポール-Fusionopolis-Virtuos",
+        "geocode_query": "Virtuos Fusionopolis Singapore",
+        "place_type": "game_services_company_site",
+        "location_precision": "city_district",
+        "place_reason": "Virtuosの東南アジア開発体制に関する記事なので、地域代表点ではなく同社本社所在地であるSingapore / Fusionopolisに置く。（一致語: Southeast Asia）",
+        "confidence": 0.78,
+        "rule_id": "observed_virtuos_southeast_asia_singapore_202512",
+        "matched_text": "Southeast Asia",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           101.6869,
           3.139
         ]
@@ -19650,8 +19623,8 @@
         ]
       },
       "properties": {
-        "title": "A customized app store for Africa's game developers - DW.com",
-        "source": "DW.com",
+        "title": "A customized app store for Africa's game developers - dw.com",
+        "source": "dw.com",
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5TZF80akZrM19oM0tTdElRQnB4eHRsZDN3dF9INGZMdVZEb0tvRHNHbDBfM0tYZ3JpblZWM0dBQkxsWUl4c0JGMGhPVUpyZWZlZjg0Qk9ublFFc3hjVDBFYlZyS1VMOE5vMnkzVHBBWUNraXc?oc=5",
         "published_at": "2022-07-29T07:00:00+00:00",
         "representative_place": "Africa game developers app store / Lagos representative",
@@ -20563,33 +20536,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.6503,
-          35.6762
-        ]
-      },
-      "properties": {
-        "title": "「作りたいものを作る、作れる！」SIE・吉田修平氏がインディーゲームの意義を語る - GAME Watch",
-        "source": "GAME Watch",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBaaVVmMUttaFNPR04tUGFPeWhSOVJxemZGaXJsMFJORE82WnZRX1BRWUp6b2NyajM0djZLOUdBV0R4NlhYd2d4Q3dvQnF4QmxoOVFUVlBHaENLZElsX3dNTjJqZEs4QQ?oc=5",
-        "published_at": "2021-08-25T07:00:00+00:00",
-        "representative_place": "Sony Interactive Entertainment / Tokyo representative",
-        "place_label": "日本-東京都-SIE / Shuhei Yoshida indie games talk",
-        "sort_place_label": "日本-東京都-SIE / Shuhei Yoshida indie games talk",
-        "geocode_query": "Sony Interactive Entertainment Tokyo Japan Shuhei Yoshida PlayStation Indies",
-        "place_type": "game_industry_interview_company_representative",
-        "location_precision": "city",
-        "place_reason": "The GAME Watch RSS item is an interview/article in which Sony Interactive Entertainment's Shuhei Yoshida discusses the significance of indie games. The concrete place-bearing subject is Yoshida in his SIE / PlayStation Indies role rather than the article publisher or an unspecified event venue. Because Yoshida's PlayStation Indies work and SIE corporate context are tied to Sony Interactive Entertainment, Tokyo is used as the representative Japan-side SIE point for this Japanese interview item. Exact interview venue was not confirmed in this pass, so city precision is used.（一致語: 「作りたいものを作る、作れる！」SIE・吉田修平氏がインディーゲームの意義を語る - GAME Watch）",
-        "confidence": 0.68,
-        "rule_id": "observed_sie_yoshida_indie_games_tokyo_202108",
-        "matched_text": "「作りたいものを作る、作れる！」SIE・吉田修平氏がインディーゲームの意義を語る - GAME Watch",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           72.8777,
           19.076
         ]
@@ -21157,6 +21103,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          139.7288,
+          35.6197
+        ]
+      },
+      "properties": {
+        "title": "【スタースマッシュ】配信日・リリース日はいつ？事前登録情報【スタスマ】 - AppMedia",
+        "source": "AppMedia",
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5maXcyYlpGZzFuYncwZnRpdEZWWE1ReUlMcmgwUnVNQ0x6TEpxNFlNaFdFT25SbjN2bjJJTlR3WlM5NlBKc0w4bk9YYw?oc=5",
+        "published_at": "2020-11-16T08:00:00+00:00",
+        "representative_place": "SEGA / Osaki Garden Tower",
+        "place_label": "日本-東京都-品川区-西品川1-1-1-大崎ガーデンタワー-SEGA / Persona 5: The Phantom X broadcast",
+        "sort_place_label": "日本-東京都-品川区-西品川1-1-1-大崎ガーデンタワー-SEGA / Persona 5: The Phantom X broadcast",
+        "geocode_query": "東京都品川区西品川1-1-1 住友不動産大崎ガーデンタワー SEGA Persona 5 The Phantom X P5X通信",
+        "place_type": "mobile_game_publisher_broadcast_company_site_uncertain_title_team",
+        "location_precision": "exact_site",
+        "place_reason": "旧エントリはP5Xのリリース日発表・公式放送記事を日本country代表点に置いていた。リポジトリ内の同作後続エントリでは、SEGA公式告知文脈としてOsaki Garden TowerのSEGA本社サイトへ配置済みであり、同じP5Xの日本向け告知記事として発表主体SEGA側に寄せるのが妥当である。このため旧country代表点をSEGAの公開本社ビル代表点へ補正する。これはBlack Wings Game Studioの開発拠点、配信番組の収録場所、媒体所在地、タイトル担当部署ではない。記事本文や公式サイトで別の運営会社・担当部署・収録会場が確認された場合は差し替える。（一致語: ペルソナ５: The Phantom X / P5X通信 / SEGA）（一致語: リリース日）",
+        "confidence": 0.78,
+        "rule_id": "observed_persona_5_phantom_x_release_broadcast_japan_202505",
+        "matched_text": "リリース日",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           139.8174,
           35.6729
         ]
@@ -21508,6 +21481,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          139.7288,
+          35.6197
+        ]
+      },
+      "properties": {
+        "title": "【Fallout Shelter Online】配信日・リリース日はいつ？事前登録情報 - AppMedia",
+        "source": "AppMedia",
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1yaFZzS0xaaHI3dGViMHZkc2sxb3dxVTNReG5LdWVMZ3VNOThqWTNGa2hwWFpSRlZWN0pMQXd3bGFfXzIxbFpSUVpMbw?oc=5",
+        "published_at": "2020-06-01T07:00:00+00:00",
+        "representative_place": "SEGA / Osaki Garden Tower",
+        "place_label": "日本-東京都-品川区-西品川1-1-1-大崎ガーデンタワー-SEGA / Persona 5: The Phantom X broadcast",
+        "sort_place_label": "日本-東京都-品川区-西品川1-1-1-大崎ガーデンタワー-SEGA / Persona 5: The Phantom X broadcast",
+        "geocode_query": "東京都品川区西品川1-1-1 住友不動産大崎ガーデンタワー SEGA Persona 5 The Phantom X P5X通信",
+        "place_type": "mobile_game_publisher_broadcast_company_site_uncertain_title_team",
+        "location_precision": "exact_site",
+        "place_reason": "旧エントリはP5Xのリリース日発表・公式放送記事を日本country代表点に置いていた。リポジトリ内の同作後続エントリでは、SEGA公式告知文脈としてOsaki Garden TowerのSEGA本社サイトへ配置済みであり、同じP5Xの日本向け告知記事として発表主体SEGA側に寄せるのが妥当である。このため旧country代表点をSEGAの公開本社ビル代表点へ補正する。これはBlack Wings Game Studioの開発拠点、配信番組の収録場所、媒体所在地、タイトル担当部署ではない。記事本文や公式サイトで別の運営会社・担当部署・収録会場が確認された場合は差し替える。（一致語: ペルソナ５: The Phantom X / P5X通信 / SEGA）（一致語: リリース日）",
+        "confidence": 0.78,
+        "rule_id": "observed_persona_5_phantom_x_release_broadcast_japan_202505",
+        "matched_text": "リリース日",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           135.7681,
           35.0116
         ]
@@ -21581,6 +21581,33 @@
         "confidence": 0.78,
         "rule_id": "observed_virtuos_southeast_asia_singapore_202512",
         "matched_text": "Southeast Asia",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7288,
+          35.6197
+        ]
+      },
+      "properties": {
+        "title": "【勇者の飯】配信日・リリース日はいつ？事前登録情報 - AppMedia",
+        "source": "AppMedia",
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5vN0dydHRjam1YcklMTFU0cTMxUi04UDVicGxRRFFCV3pYa3NnbHBkX3VLVDF5ZXE2ZnlJWkhIVGZ0dWFZQmlvMDlIcw?oc=5",
+        "published_at": "2020-04-30T07:00:00+00:00",
+        "representative_place": "SEGA / Osaki Garden Tower",
+        "place_label": "日本-東京都-品川区-西品川1-1-1-大崎ガーデンタワー-SEGA / Persona 5: The Phantom X broadcast",
+        "sort_place_label": "日本-東京都-品川区-西品川1-1-1-大崎ガーデンタワー-SEGA / Persona 5: The Phantom X broadcast",
+        "geocode_query": "東京都品川区西品川1-1-1 住友不動産大崎ガーデンタワー SEGA Persona 5 The Phantom X P5X通信",
+        "place_type": "mobile_game_publisher_broadcast_company_site_uncertain_title_team",
+        "location_precision": "exact_site",
+        "place_reason": "旧エントリはP5Xのリリース日発表・公式放送記事を日本country代表点に置いていた。リポジトリ内の同作後続エントリでは、SEGA公式告知文脈としてOsaki Garden TowerのSEGA本社サイトへ配置済みであり、同じP5Xの日本向け告知記事として発表主体SEGA側に寄せるのが妥当である。このため旧country代表点をSEGAの公開本社ビル代表点へ補正する。これはBlack Wings Game Studioの開発拠点、配信番組の収録場所、媒体所在地、タイトル担当部署ではない。記事本文や公式サイトで別の運営会社・担当部署・収録会場が確認された場合は差し替える。（一致語: ペルソナ５: The Phantom X / P5X通信 / SEGA）（一致語: リリース日）",
+        "confidence": 0.78,
+        "rule_id": "observed_persona_5_phantom_x_release_broadcast_japan_202505",
+        "matched_text": "リリース日",
         "match_source": "known_place_title"
       }
     },
@@ -23614,33 +23641,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.8174,
-          35.6729
-        ]
-      },
-      "properties": {
-        "title": "「メタルマックス」シリーズ最新作 超改造戦車RPG「METAL MAX FIREWORKS」 事前登録開始！ 登録特典【戦車つきプレミアム☆GAL】を手に入れろ！ - PR TIMES",
-        "source": "PR TIMES",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9XY0hoM0tQZXdzZURNYXdReTdRSGctbm5NZnFNMnB6M1piZnVDdmlRc1ViMlJzU0dLVVN0NVpyUHNjWVd1NmphcEhiN25VQnBZVnowUmY3b1RJblNhcEpyeFZ1Z21uaUlWX2c?oc=5",
-        "published_at": "2015-07-10T07:00:00+00:00",
-        "representative_place": "Crea-Tech / Koto, Tokyo representative",
-        "place_label": "日本-東京都-江東区-Crea-Tech / METAL MAX FIREWORKS",
-        "sort_place_label": "日本-東京都-江東区-Crea-Tech / METAL MAX FIREWORKS",
-        "geocode_query": "Crea-Tech Koto Tokyo Metal Max Fireworks",
-        "place_type": "mobile_game_developer_district_representative_uncertain_office",
-        "location_precision": "district",
-        "place_reason": "The legacy entry treated the METAL MAX FIREWORKS preregistration article as a generic Japan mobile-RPG launch-market topic. Recheck confirmed that Metal Max: Fireworks is part of the Metal Max series and is connected to Crea-Tech / Kadokawa development-publishing context; Crea-Tech is publicly described as based in Koto, Tokyo. This override therefore moves the topic from a Japan country representative point to a Koto, Tokyo developer-context representative point. This is not a confirmed article venue, exact Crea-Tech office address, Kadokawa office, or current operating-team site; replace it if the article body, official game site, store page, or company profile identifies a more precise development/publishing location.（一致語: METAL MAX FIREWORKS）",
-        "confidence": 0.66,
-        "rule_id": "observed_metal_max_fireworks_createch_koto_tokyo_201507",
-        "matched_text": "METAL MAX FIREWORKS",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           3.3792,
           6.5244
         ]
@@ -23768,6 +23768,33 @@
         "confidence": 0.7,
         "rule_id": "observed_no_mans_sky_hello_games_guildford_201501",
         "matched_text": "『No Man's Sky』開発者インタビュー―小さなインディースタジオが創造する壮大な宇宙 - Game*Spark",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0244,
+          14.5547
+        ]
+      },
+      "properties": {
+        "title": "7 big foreign gaming firms eye PH - Inquirer.net",
+        "source": "Inquirer.net",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9EUHZKSFBzVmZsLUFoYWFqb294OXdwdjM0dE9SWnNKOHBvZ0NjOHZlMDItQXFXald2dGVVLXBORE9wazJfSDh3QU5ZYW5mZk0tWDNSdkdESllvTzNySWp0aGRDU1ZwOHoydFZGLUIwa25ialJYSW1hSWR30gF_QVVfeXFMT1E2MzQ1RkxpeU5nVlo2Tkhwa0x0ZFRnWVAtNXpqZlVHdnZGTTFjWE9MWk93aDViWXlwZ2RnZ29RYmhBY0gtLWFUTnZySWdWWEg5LVZfMm9GX2lmczAzMVliZ0pPclRENHlnNnVfdUs0dzRWZGxKT1BWcm9zaE0tRQ?oc=5",
+        "published_at": "2014-10-04T07:00:00+00:00",
+        "representative_place": "Inquirer.net / Makati representative",
+        "place_label": "フィリピン-マニラ首都圏-マカティ-Inquirer.net / foreign gaming firms eye PH article",
+        "sort_place_label": "フィリピン-マニラ首都圏-マカティ-Inquirer.net / foreign gaming firms eye PH article",
+        "geocode_query": "Inquirer.net Makati Philippines foreign gaming firms",
+        "place_type": "industry_news_publisher_city",
+        "location_precision": "city",
+        "place_reason": "Inquirer.net記事は、複数の海外ゲーム企業がフィリピン市場・拠点に関心を示しているという産業ニュースであり、未解決レコード上では単一の会社、会場、都市を特定できない。記事タイトルの場所性はフィリピンのゲーム産業・投資文脈にあるが、具体的な進出先都市や対象企業を本文から確認できていないため、過去batchで使用したInquirer.netのMakati代表地点を低〜中confidenceの代表地点として使用する。本文解析で具体的な企業名や進出予定地が確認できた場合は差し替える。（一致語: 7 big foreign gaming firms eye PH - Inquirer.net）",
+        "confidence": 0.6,
+        "rule_id": "observed_foreign_gaming_firms_eye_ph_inquirer_makati_201410",
+        "matched_text": "7 big foreign gaming firms eye PH - Inquirer.net",
         "match_source": "known_place_title"
       }
     },
