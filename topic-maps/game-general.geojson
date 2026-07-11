@@ -1,8 +1,8 @@
 {
   "type": "FeatureCollection",
   "properties": {
-    "created_at": "2026-07-11T08:48:30.551480+00:00",
-    "count": 114,
+    "created_at": "2026-07-11T10:16:01.599757+00:00",
+    "count": 115,
     "stats": {
       "feed_id": "game-general",
       "feed_label": "ゲーム一般ニュース",
@@ -21,8 +21,8 @@
         "https://news.google.com/rss/search?q=%E4%BB%BB%E5%A4%A9%E5%A0%82%20PlayStation%20Xbox%20Steam%20%E3%82%B2%E3%83%BC%E3%83%A0&hl=ja&gl=JP&ceid=JP:ja": 78
       },
       "filtered": 249,
-      "resolved": 114,
-      "unresolved": 135,
+      "resolved": 115,
+      "unresolved": 134,
       "rules": 384,
       "known_places": 1357,
       "loaded_data_files": [
@@ -1342,7 +1342,7 @@
         "title": "\"Sony waited for Rockstar to make the first move\": Founding Xbox member warns against PlayStation's all-digital future, says \"I trust\" Steam games won't just disappear - GamesRadar+",
         "source": "GamesRadar+",
         "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNb0Ffcmo5aE0yYUhzb3kxNnV6M2VtOVRKUGlRUXI2d01uQm9kTEZYcWRIek9NUmJDSnlITGZqQWFKbUlSZlQtaVFBaE8zTG5WZmtEM3Zhb3RMUDJvSFZsUVpwUFJ6b3ZUTExrT19LRzFpOU11NFkzQTIyOXlEYjF2cDVUWi1pQ3lQcWJpX2dGMk1PbDhxeEFjcU9ZWFNGMEQxYXlXU2dGdTlKSExwTW1RSDB1RVZtYWFhU0xZUVJCUjlHMC1RSHExZlF4T1U2WXk5TmRaUW1iNm5KNWlrdWZmYzJnb1BmR2pFNWJNTHBiLUVsMUpVRnh1Y0lPaERlbGtFU3lqcE5wWnhiZkZ3V2ItQVYxRENKeXRnV2p5Y2ZxWlh0b093Wk9ZUWk0UXZlc3EwejZJ?oc=5",
-        "published_at": "2026-07-11T00:17:05+00:00",
+        "published_at": "2026-07-11T00:15:04+00:00",
         "representative_place": "Valhalla Game Studios / Tokyo",
         "place_label": "日本-東京-Valhalla Game Studios / RockShot",
         "sort_place_label": "日本-東京-Valhalla Game Studios / RockShot",
@@ -1596,6 +1596,33 @@
         "confidence": 0.82,
         "rule_id": "observed_summer_game_fest_2026_showcases_inglewood",
         "matched_text": "Summer Game Fest 2026",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.978,
+          37.5665
+        ]
+      },
+      "properties": {
+        "title": "Shift Up reveals Stellar Blade sequel, Blood Rain - Video Games Chronicle",
+        "source": "Video Games Chronicle",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMFJ3VURpRlJXMXNyZGJ5UWc2bTl1ZXprZXZOMGZFY0FDQ3JaTU9QX2hBX01vRFlONzQ1WmRZamlRMkJfTHpVS0UtVWRPWTVfTlRNVFVZY2ZOOVFMWmZGZ3hiM0RCaERDRnhkVHBSV0g1X0J3ZDRNcVpzZkFKUFhaUGhNTmJfT2p2eUprVkpiWklUdlRL?oc=5",
+        "published_at": "2026-06-05T07:00:00+00:00",
+        "representative_place": "Shift Up / Seoul",
+        "place_label": "韓国-ソウル-Shift Up / Unbound acquisition",
+        "sort_place_label": "韓国-ソウル-Shift Up / Unbound acquisition",
+        "geocode_query": "Shift Up Seoul South Korea",
+        "place_type": "studio_company_acquisition_site",
+        "location_precision": "city",
+        "place_reason": "Shift UpによるUnbound買収記事なので、買収対象の詳細住所を推測せず、買い手主体Shift Upの本社都市Seoulに置く。（一致語: Shift Up）",
+        "confidence": 0.78,
+        "rule_id": "observed_shift_up_unbound_acquisition_seoul_202604",
+        "matched_text": "Shift Up",
         "match_source": "known_place_title"
       }
     },
@@ -1933,8 +1960,8 @@
         ]
       },
       "properties": {
-        "title": "「プラグマタ」PS5/Xbox Series X|S/Steam版が本日発売。パズルとアクションが融合したSFアクションADVお披露目はPS5の発売前！ 2020年発表のカプコン新作がついに - news.livedoor.com",
-        "source": "news.livedoor.com",
+        "title": "「プラグマタ」PS5/Xbox Series X|S/Steam版が本日発売。パズルとアクションが融合したSFアクションADVお披露目はPS5の発売前！ 2020年発表のカプコン新作がついに - ライブドアニュース",
+        "source": "ライブドアニュース",
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9oSERGamw0YlFEcEE5bEpJOGlhUnRyWXlMOUpoSzRIUUJTVG9yZldqX0JlMFQ2anZiNS1PaE5PQ1ZYUHpnMllsSElmcXVBTXZIMllRbjlkeDJsZU1tb0xrWWdBT2F4TnVoV1VkQUhmaUp1NVdwaXIxaA?oc=5",
         "published_at": "2026-04-17T07:00:00+00:00",
         "representative_place": "Valhalla Game Studios / Tokyo",

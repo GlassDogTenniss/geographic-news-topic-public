@@ -1,7 +1,7 @@
 {
   "type": "FeatureCollection",
   "properties": {
-    "created_at": "2026-07-11T08:48:30.551480+00:00",
+    "created_at": "2026-07-11T10:16:01.599757+00:00",
     "count": 845,
     "stats": {
       "feed_id": "game-all",
@@ -28,7 +28,7 @@
         "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja"
       ],
       "rss_url": "https://www.gamedeveloper.com/rss.xml",
-      "fetched": 993,
+      "fetched": 992,
       "fetched_by_url": {
         "https://www.gamedeveloper.com/rss.xml": 50,
         "https://www.gamesindustry.biz/feed": 100,
@@ -50,9 +50,9 @@
         "https://news.google.com/rss/search?q=%E6%B5%B7%E5%A4%96%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA&hl=ja&gl=JP&ceid=JP:ja": 77,
         "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja": 78
       },
-      "filtered": 895,
+      "filtered": 894,
       "resolved": 845,
-      "unresolved": 50,
+      "unresolved": 49,
       "rules": 384,
       "known_places": 1357,
       "loaded_data_files": [
@@ -9925,33 +9925,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.7516,
-          35.6581
-        ]
-      },
-      "properties": {
-        "title": "「対魔忍スクワッド」正式配信開始！井河アサギが登場―事前登録30万人達成報酬も - OnlineGamer",
-        "source": "OnlineGamer",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1mQjNDODh6NWpnQmcwNUZiRGhBcHRxZHpIWlFTVzZIZDNYMUtxeXh0eE83Ujg0cVJQNFNsTVRrSVA4N2dPZ3NsaE9vQmdYMlJkY0hwZUNTWGY?oc=5",
-        "published_at": "2026-03-05T08:00:00+00:00",
-        "representative_place": "Bandai Namco Entertainment / Minato, Tokyo representative",
-        "place_label": "日本-東京都-港区-Bandai Namco Entertainment / SAO Memory Defrag",
-        "sort_place_label": "日本-東京都-港区-Bandai Namco Entertainment / SAO Memory Defrag",
-        "geocode_query": "Bandai Namco Entertainment Minato Tokyo Sword Art Online Memory Defrag",
-        "place_type": "mobile_game_publisher_district_representative_uncertain_title_team",
-        "location_precision": "district",
-        "place_reason": "The legacy active entry treated the Sword Art Online Memory Defrag preregistration item as a broad Japan mobile-game launch-market topic. Recheck confirmed the game as a Bandai Namco Entertainment mobile title, and public company context places Bandai Namco Entertainment in Minato, Tokyo after its 2016 move. This override therefore moves the article from a Japan country representative point to a Minato, Tokyo publisher-context representative point. This is not a confirmed title-team office, article venue, exact Bandai Namco Entertainment office coordinate, or media office; replace it if the article body, official game page, store page, or company profile identifies a more precise publisher/developer/operator site.（一致語: 事前登録）",
-        "confidence": 0.64,
-        "rule_id": "observed_sao_memory_defrag_bandai_namco_minato_tokyo_201801",
-        "matched_text": "事前登録",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -122.0841,
           37.422
         ]
@@ -16027,6 +16000,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          140.811,
+          42.8265
+        ]
+      },
+      "properties": {
+        "title": "「Ghost of Tsushima」開発スタジオの新作「Ghost of Yōtei」発表、舞台は1603年の北海道・羊蹄山で2025年発売 - ライブドアニュース",
+        "source": "ライブドアニュース",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB2cGMtb0ktQzlaVDlYeHRoVUh4UlFVRlNzQnM3NlNIRHFudGNUNUt2WEpRSkhqc0s0NVplTkVMRllyYjgzNVJWLTNEVDUzNDgzTGJCRzJ6Y1VoMGxGVlM3TW9OZDBLeEloa2ZyT1VEWHlhN1M3N1RVcg?oc=5",
+        "published_at": "2024-09-25T07:00:00+00:00",
+        "representative_place": "Mount Yōtei / Hokkaido in-game setting representative",
+        "place_label": "日本-北海道-羊蹄山-Ghost of Yōtei舞台代表点",
+        "sort_place_label": "日本-北海道-羊蹄山-Ghost of Yōtei舞台代表点",
+        "geocode_query": "北海道 羊蹄山 Ghost of Yotei Mount Yotei Hokkaido",
+        "place_type": "game_setting_real_world_place",
+        "location_precision": "exact_site",
+        "place_reason": "Replaces the batch 1554 entry that used a non-accepted precision value. The title explicitly identifies the new game's setting as Hokkaido's Mount Yōtei, so the named real-world setting is the geographic subject for this article.（一致語: 「Ghost of Tsushima」開発スタジオの新作「Ghost of Yōtei」発表、舞台は1603年の北海道・羊蹄山で2025年発売 - ライブドアニュース）",
+        "confidence": 0.84,
+        "rule_id": "game_all_20260709_ghost_of_yotei_mount_yotei_202409",
+        "matched_text": "「Ghost of Tsushima」開発スタジオの新作「Ghost of Yōtei」発表、舞台は1603年の北海道・羊蹄山で2025年発売 - ライブドアニュース",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           72.8777,
           19.076
         ]
@@ -16810,6 +16810,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          139.7516,
+          35.6581
+        ]
+      },
+      "properties": {
+        "title": "新作スマホゲーム『チョコットスタジアム』を発表！７月３日(水)より事前登録を開始！ - PR TIMES",
+        "source": "PR TIMES",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9HNnlENkpHZ3pQSEZwZFVsejA0bW1KU1RLMExPOEMwUjV0Qk50YVlWalRpc0xuZnFtdFdiT09udHo5LUlzWXZ5d2FSLWF4b3JEU09DMzZOdy1LeVl0eWRWaEk2SjI4b0phTVE?oc=5",
+        "published_at": "2024-07-03T07:00:00+00:00",
+        "representative_place": "Bandai Namco Entertainment / Minato, Tokyo representative",
+        "place_label": "日本-東京都-港区-Bandai Namco Entertainment / SAO Memory Defrag",
+        "sort_place_label": "日本-東京都-港区-Bandai Namco Entertainment / SAO Memory Defrag",
+        "geocode_query": "Bandai Namco Entertainment Minato Tokyo Sword Art Online Memory Defrag",
+        "place_type": "mobile_game_publisher_district_representative_uncertain_title_team",
+        "location_precision": "district",
+        "place_reason": "The legacy active entry treated the Sword Art Online Memory Defrag preregistration item as a broad Japan mobile-game launch-market topic. Recheck confirmed the game as a Bandai Namco Entertainment mobile title, and public company context places Bandai Namco Entertainment in Minato, Tokyo after its 2016 move. This override therefore moves the article from a Japan country representative point to a Minato, Tokyo publisher-context representative point. This is not a confirmed title-team office, article venue, exact Bandai Namco Entertainment office coordinate, or media office; replace it if the article body, official game page, store page, or company profile identifies a more precise publisher/developer/operator site.（一致語: 事前登録）",
+        "confidence": 0.64,
+        "rule_id": "observed_sao_memory_defrag_bandai_namco_minato_tokyo_201801",
+        "matched_text": "事前登録",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           120.9842,
           14.5995
         ]
@@ -17332,33 +17359,6 @@
         "source": "インサイド",
         "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYWVWeFlUckxac05ycVlJSlVxWEpwQi1sZHQwZUl1a3dHbTdVc1lfOW9WSjgxclZmc0xMZFR5aThJOXllME9FSFViZnNVTDk4eWRSbHdjWlBDbHVTd0tIT3lNVE03MGlPQnl1OXIzR29zYXI4Z1dqeS1XeW5IVVh5VUkxZw?oc=5",
         "published_at": "2024-03-24T07:00:00+00:00",
-        "representative_place": "Mintrocket / Nexon Korea / Seoul",
-        "place_label": "韓国-ソウル-Mintrocket / Nexon Korea / Dave the Diver",
-        "sort_place_label": "韓国-ソウル-Mintrocket / Nexon Korea / Dave the Diver",
-        "geocode_query": "Nexon Korea Mintrocket Seoul South Korea",
-        "place_type": "studio_company_site",
-        "location_precision": "city",
-        "place_reason": "Dave the Diverの配信日・事前登録情報記事なので、日本語メディアや配信ストアではなく、開発・発行元Mintrocket/Nexon Koreaの本社都市Seoulに置く。Mintrocket単独の番地は固定しない。（一致語: デイヴ・ザ・ダイバー）",
-        "confidence": 0.72,
-        "rule_id": "observed_dave_the_diver_mintrocket_seoul_202606",
-        "matched_text": "デイヴ・ザ・ダイバー",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          126.978,
-          37.5665
-        ]
-      },
-      "properties": {
-        "title": "私達はインディーではない―インディーの境界線論争に対し『デイヴ・ザ・ダイバー』開発、多数のインディー賞得たスタジオ自身が「インディーの定義」再考促す - Game*Spark",
-        "source": "Game*Spark",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4xYzhFN0h5azZQbWhpUnFrdm5WSnNaVWR1NHJTM1Y3SnRlaVBScWF1Tmw0WFdnQnFlM1FsNW1ub2hNS1hyNklUUTRwaUM5dXp6bE5fVFlnUW1NenBIRzhrTk9FM1FqQQ?oc=5",
-        "published_at": "2024-03-23T07:00:00+00:00",
         "representative_place": "Mintrocket / Nexon Korea / Seoul",
         "place_label": "韓国-ソウル-Mintrocket / Nexon Korea / Dave the Diver",
         "sort_place_label": "韓国-ソウル-Mintrocket / Nexon Korea / Dave the Diver",
