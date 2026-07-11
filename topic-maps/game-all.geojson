@@ -1,8 +1,8 @@
 {
   "type": "FeatureCollection",
   "properties": {
-    "created_at": "2026-07-11T14:55:19.815192+00:00",
-    "count": 843,
+    "created_at": "2026-07-11T15:58:19.674846+00:00",
+    "count": 840,
     "stats": {
       "feed_id": "game-all",
       "feed_label": "ゲーム",
@@ -28,7 +28,7 @@
         "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja"
       ],
       "rss_url": "https://www.gamedeveloper.com/rss.xml",
-      "fetched": 993,
+      "fetched": 992,
       "fetched_by_url": {
         "https://www.gamedeveloper.com/rss.xml": 50,
         "https://www.gamesindustry.biz/feed": 100,
@@ -50,9 +50,9 @@
         "https://news.google.com/rss/search?q=%E6%B5%B7%E5%A4%96%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA&hl=ja&gl=JP&ceid=JP:ja": 77,
         "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja": 78
       },
-      "filtered": 894,
-      "resolved": 843,
-      "unresolved": 51,
+      "filtered": 892,
+      "resolved": 840,
+      "unresolved": 52,
       "rules": 384,
       "known_places": 1357,
       "loaded_data_files": [
@@ -4741,33 +4741,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.4074,
-          39.9042
-        ]
-      },
-      "properties": {
-        "title": "Chinese video games gain global appeal through technology, cultural storytelling - Big News Network.com",
-        "source": "Big News Network.com",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNLXNDQzV5Z2RmQ2Y5REFOMVo1dUp4V2dqWUFGWUM2anNTQlpTYTNUYkxBeENKU3hGTW01aXhQMXlENmtQMTRPWmsyVWtoajdCX3R4TmJOU2FXNkljRkNBVC1vMnE3LWdrU0huQjZidV9fbGxwOVQxN2xsQzJtTEJDcHFLOEkybXVrdEIyLXlSUzRtaEgyMnYyWjVvdVFuNjFJUjlXcXlUbUh1VXY2ZnI0VFNDS0lubGdIeUM0NFBNU0JVNms?oc=5",
-        "published_at": "2026-06-27T19:45:00+00:00",
-        "representative_place": "Chinese games industry / Beijing representative",
-        "place_label": "中国-北京市-Chinese games industry / global appeal article",
-        "sort_place_label": "中国-北京市-Chinese games industry / global appeal article",
-        "geocode_query": "Beijing China Chinese video games industry cultural storytelling",
-        "place_type": "national_games_industry_article_representative_uncertain_specific_studio",
-        "location_precision": "city",
-        "place_reason": "既存disabled entryは、Big News Network.comの『Chinese video games gain global appeal through technology, cultural storytelling』について、中国ゲームの技術・文化的ストーリーテリングによる国際的訴求という産業・文化一般記事であり、個別の開発会社、展示会、作品制作拠点が確認できないため無配置としていた。既存B2 override `data/unresolved_known_places_1146.json` では、同一記事対象および近い表題の『Chinese developers gain ground in global gaming』をまとめて、単一の開発会社、作品、イベント会場、行政機関、調査会社は未確認のまま、国内ゲーム産業・メディア・行政文脈の代表都市としてBeijingへ低confidenceで暫定配置している。今回も本文からTencent/Shenzhen、miHoYo/Shanghai、NetEase/Hangzhou、ChinaJoy/Shanghai、Xinhua等の具体的発信主体や記事主題地点は確認できないため、詳細地点にはせず、既存B2と同じChinese games industry / Beijing representativeへ寄せる。これは中国ゲーム産業の中心地、特定スタジオ所在地、イベント会場、媒体所在地を確認したものではなく、本文確認で具体的主体・都市・イベント・発信主体が判明した場合は必ず差し替える。（一致語: Chinese video games / global appeal / cultural storytelling / Chinese developers / Beijing representative）（一致語: Chinese video games gain global appeal through technology, cultural storytelling - Big News Network.com）",
-        "confidence": 0.38,
-        "rule_id": "disabled_chinese_games_global_appeal_cultural_storytelling_202606",
-        "matched_text": "Chinese video games gain global appeal through technology, cultural storytelling - Big News Network.com",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.3522,
           48.8566
         ]
@@ -6636,8 +6609,8 @@
         ]
       },
       "properties": {
-        "title": "NODWIN Gaming and Nodding Heads Games Partner with Summer Game Fest for the Inaugural ‘India Games Showcase’ - IT Voice Media",
-        "source": "IT Voice Media",
+        "title": "NODWIN Gaming and Nodding Heads Games Partner with Summer Game Fest for the Inaugural ‘India Games Showcase’ - IT Voice Media Pvt. Ltd.",
+        "source": "IT Voice Media Pvt. Ltd.",
         "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWGl3WjU4N1BfV2hlQ0dybkIzU2ZBSjdabXhXTEVNMklHOUY5aWRXelBqNUpnbWJhSDlFeGxILUNNY0VaQjE0bTZIRmdGZ3lfbGZINUVtWkRSZkZtVlkwSFNYUlVrTkVzdEEwNTVlWjRla00ySGVRVkowTHJKaGNseGJmYjdzZEJMbDNRLWNibTBxQ29vSTNGQlZ3OHdtWmhlM20yMUNrS1dzSkZvcUJxT3g1aGRBNVFsNGlULWRVOEpvYlFSLXFNYg?oc=5",
         "published_at": "2026-06-04T07:00:00+00:00",
         "representative_place": "Nodding Heads Games / Pune",
@@ -7973,33 +7946,6 @@
         "confidence": 0.36,
         "rule_id": "disabled_c1_south_asian_representation_npr_overview_202604",
         "matched_text": "How South Asian representation in gaming is growing - NPR",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.7562,
-          34.9697
-        ]
-      },
-      "properties": {
-        "title": "任天堂がうらやましい…海外メディアが報じた｢日本のゲーム会社が世界で売れるヒット作を連発できる理由 - PRESIDENT Online（プレジデントオンライン）",
-        "source": "PRESIDENT Online（プレジデントオンライン）",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE41VzhmMnQtbl8tZFZyeW1jT1ZZM1VnRktXSnFlUEZ6Ym5obFpMZWZZcVByQjk5Y2NJTlF2TGJUR2lEVS1LdDhJNGtoM2FkalRNODUzS0xmbEU?oc=5",
-        "published_at": "2026-04-30T07:00:00+00:00",
-        "representative_place": "Nintendo Co., Ltd. / 11-1 Hokotate-cho",
-        "place_label": "日本-京都府-京都市-南区-上鳥羽鉾立町11-1-任天堂",
-        "sort_place_label": "日本-京都府-京都市-南区-上鳥羽鉾立町11-1-任天堂",
-        "geocode_query": "11-1 Hokotate-cho Kamitoba Minami-ku Kyoto Nintendo headquarters Japanese game companies global hits President Online",
-        "place_type": "game_company_analysis_article_company_site",
-        "location_precision": "exact_site",
-        "place_reason": "Task 1 refinement for file 1535: the item was already resolved to Nintendo / Kyoto at city precision. Because the title foregrounds Nintendo and the repository already contains a Nintendo headquarters exact-site reference at 11-1 Hokotate-cho, use the Nintendo company-side representative rather than a generic Kyoto city point. This does not claim the article's interview site or publication office.（一致語: 任天堂がうらやましい…海外メディアが報じた｢日本のゲーム会社が世界で売れるヒット作を連発できる理由 - PRESIDENT Online（プレジデントオンライン））",
-        "confidence": 0.62,
-        "rule_id": "game_all_20260709_president_japanese_game_companies_nintendo_kyoto_202604",
-        "matched_text": "任天堂がうらやましい…海外メディアが報じた｢日本のゲーム会社が世界で売れるヒット作を連発できる理由 - PRESIDENT Online（プレジデントオンライン）",
         "match_source": "known_place_title"
       }
     },
@@ -10146,33 +10092,6 @@
         ]
       },
       "properties": {
-        "title": "元『Forza Horizon』開発陣が放つAAA級オープンワールドドライブゲーム、Amazonがパブリッシング契約を打ち切る。一方開発者は「心配しないで」と開発継続を明言 - AUTOMATON",
-        "source": "AUTOMATON",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9KZGRMbXNrdTA0dUtEeUNUcExFR0VjdWlHaFlQUUJfS0hnVmU0OHBKRGNIeWkzVEJVQy15d2o1RHhwdVZ3U0MzZ0pIdVNOcGJUYXNVS0JubEswWGg1WnRkekk1aUFkS0toWnI3MA?oc=5",
-        "published_at": "2026-02-26T08:00:00+00:00",
-        "representative_place": "Maverick Games / Leamington Spa representative",
-        "place_label": "英国-イングランド-レミントン・スパ-Maverick Games代表点",
-        "sort_place_label": "英国-イングランド-レミントン・スパ-Maverick Games代表点",
-        "geocode_query": "Maverick Games Leamington Spa Forza Horizon Amazon publishing contract",
-        "place_type": "studio_publishing_contract_change_city_representative",
-        "location_precision": "city",
-        "place_reason": "The Japanese syndicated item concerns Amazon ending a publishing deal for the open-world driving game by Maverick Games, a UK studio founded by former Forza Horizon developers. Use Maverick Games / Leamington Spa as the developer-side representative rather than Amazon or a broad UK label.（一致語: 元『Forza Horizon』開発陣が放つAAA級オープンワールドドライブゲーム、Amazonがパブリッシング契約を打ち切る。一方開発者は「心配しないで」と開発継続を明言 - AUTOMATON）",
-        "confidence": 0.72,
-        "rule_id": "game_all_20260709_maverick_games_amazon_contract_leamington_spa_202602",
-        "matched_text": "元『Forza Horizon』開発陣が放つAAA級オープンワールドドライブゲーム、Amazonがパブリッシング契約を打ち切る。一方開発者は「心配しないで」と開発継続を明言 - AUTOMATON",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.52,
-          52.2852
-        ]
-      },
-      "properties": {
         "title": "Amazon Gamesが『Forza Horizon』元開発者率いるMaverick Gamesとのパブリッシング契約解消―オープンワールドの新作ドライブゲーム開発は順調で年内に更なる情報公開予定 - Game*Spark",
         "source": "Game*Spark",
         "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5OTkN3ZTRyd3dlbUlHMXNMYTZ3bmdPQ3g3TkhhRXFkZDhmVzZfRzI2U3VKbjFEby1fZXluRjl6eWZQQ25WNTJHdzVhN0hzZWhNeWlhVGt0czJHRjdVRXZBS3BGUXZFQQ?oc=5",
@@ -11996,6 +11915,33 @@
         "confidence": 0.35,
         "rule_id": "disabled_c1_top_indian_indie_game_studios_2025_list_202510",
         "matched_text": "Top Indian Indie Game Studios in 2025",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2015,
+          47.6101
+        ]
+      },
+      "properties": {
+        "title": "PS5『ゴースト・オブ・ヨウテイ』開発元トップ、これからも“1本勝負”の制作を宣言。『ゴースト・オブ』新作でも『怪盗スライ・クーパー』新作でも、1作集中開発 - AUTOMATON",
+        "source": "AUTOMATON",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPLXp0SUpzUkdaS0dsTlZYNnVTT284YTFsaHR2RVhON3A2MjZIb0hneTJFMmo3VldJY3IzS1hsMzhxXzBKM0xnVUJMTG5Ibmw3bjJCSWw5RHBFR3htSHdEN2FMZURaM3NqSFh5NlpsenJHenY4Vk1sM09EeElSSExxSG1qWE5XTEtpamRWbkNB?oc=5",
+        "published_at": "2025-10-15T07:00:00+00:00",
+        "representative_place": "Sucker Punch Productions / Bellevue",
+        "place_label": "米国-ワシントン州-ベルビュー-Sucker Punch Productions / Ghost of Yotei",
+        "sort_place_label": "米国-ワシントン州-ベルビュー-Sucker Punch Productions / Ghost of Yotei",
+        "geocode_query": "Sucker Punch Productions Bellevue Washington Ghost of Yotei",
+        "place_type": "game_development_studio_interview_site_uncertain_office",
+        "location_precision": "city",
+        "place_reason": "記事主語はGhost of Yotei開発元トップの制作方針。作品と開発元はSucker Punch Productionsで、同社はBellevue, Washington拠点として確認できる。正確なオフィス住所までは今回確定していないためB1に留める。（一致語: PS5『ゴースト・オブ・ヨウテイ』開発元トップ、これからも“1本勝負”の制作を宣言。『ゴースト・オブ』新作でも『怪盗スライ・クーパー』新作でも、1作集中開発 - AUTOMATON）",
+        "confidence": 0.74,
+        "rule_id": "observed_ghost_of_yotei_sucker_punch_bellevue_202510",
+        "matched_text": "PS5『ゴースト・オブ・ヨウテイ』開発元トップ、これからも“1本勝負”の制作を宣言。『ゴースト・オブ』新作でも『怪盗スライ・クーパー』新作でも、1作集中開発 - AUTOMATON",
         "match_source": "known_place_title"
       }
     },
@@ -13845,8 +13791,8 @@
         ]
       },
       "properties": {
-        "title": "Summer Game Fest 2025 guide and schedule - Epic Games",
-        "source": "Epic Games",
+        "title": "Summer Game Fest 2025 guide and schedule - Epic Games Store",
+        "source": "Epic Games Store",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTTluR2V5YlJCdkhMeVZMVGh1RmVVamMyMUVBTW1VZWlUNjJ4QW9SeVF2RDN6NVNJSWh1aEFZclliQlh0LUZpdE91WF9ldi1yemNBd1BBS3RwV0J1RGUwMWRuNjZFeU9YSVBPUlJwa2Vaa1NJZ3dmZGRFdnkxcTFzeGJfR1Z4aEdfZU9iR2ZSdWdIMjlwM3c?oc=5",
         "published_at": "2025-06-02T07:00:00+00:00",
         "representative_place": "Summer Game Fest 2025 / YouTube Theater",
@@ -15325,33 +15271,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3522,
-          48.8566
-        ]
-      },
-      "properties": {
-        "title": "『SIFU』の開発スタジオが手がける新作サッカーアクションゲーム『REMATCH』発表 - 電ファミニコゲーマー",
-        "source": "電ファミニコゲーマー",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1xMUc2MWcwSHFKY2c4XzdxQVFCZHhoQncxeXNrTElDUTFLczdRSVlQUHhVXzZQYjRPQWxkcXkzT1dObUpOQnpfakFyZVBRZVFod2hTMDR4aVk?oc=5",
-        "published_at": "2024-12-13T08:00:00+00:00",
-        "representative_place": "Sloclap / Paris",
-        "place_label": "フランス-パリ-Sloclap / REMATCH",
-        "sort_place_label": "フランス-パリ-Sloclap / REMATCH",
-        "geocode_query": "Sloclap Paris REMATCH Sifu developer",
-        "place_type": "game_development_studio_announcement_site_uncertain_office",
-        "location_precision": "city",
-        "place_reason": "記事主語は『SIFU』開発スタジオSloclapによる新作サッカーアクション『REMATCH』発表。SloclapはParis-based developerとして確認できる。正確なオフィス住所までは今回確定していないためB1に留める。（一致語: 『SIFU』の開発スタジオが手がける新作サッカーアクションゲーム『REMATCH』発表 - 電ファミニコゲーマー）",
-        "confidence": 0.72,
-        "rule_id": "observed_rematch_sloclap_paris_202412",
-        "matched_text": "『SIFU』の開発スタジオが手がける新作サッカーアクションゲーム『REMATCH』発表 - 電ファミニコゲーマー",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           139.6503,
           35.6762
         ]
@@ -15371,6 +15290,33 @@
         "confidence": 0.52,
         "rule_id": "game_all_20260709_clovers_okami_new_project_tokyo_inside_202412",
         "matched_text": "元プラチナゲームズ・神谷英樹氏が率いる新スタジオ「クローバーズ」正式始動！『大神 完全新作』を鋭意開発中 - インサイド",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3522,
+          48.8566
+        ]
+      },
+      "properties": {
+        "title": "『SIFU』の開発スタジオが手がける新作サッカーアクションゲーム『REMATCH』発表 - 電ファミニコゲーマー",
+        "source": "電ファミニコゲーマー",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1xMUc2MWcwSHFKY2c4XzdxQVFCZHhoQncxeXNrTElDUTFLczdRSVlQUHhVXzZQYjRPQWxkcXkzT1dObUpOQnpfakFyZVBRZVFod2hTMDR4aVk?oc=5",
+        "published_at": "2024-12-13T08:00:00+00:00",
+        "representative_place": "Sloclap / Paris",
+        "place_label": "フランス-パリ-Sloclap / REMATCH",
+        "sort_place_label": "フランス-パリ-Sloclap / REMATCH",
+        "geocode_query": "Sloclap Paris REMATCH Sifu developer",
+        "place_type": "game_development_studio_announcement_site_uncertain_office",
+        "location_precision": "city",
+        "place_reason": "記事主語は『SIFU』開発スタジオSloclapによる新作サッカーアクション『REMATCH』発表。SloclapはParis-based developerとして確認できる。正確なオフィス住所までは今回確定していないためB1に留める。（一致語: 『SIFU』の開発スタジオが手がける新作サッカーアクションゲーム『REMATCH』発表 - 電ファミニコゲーマー）",
+        "confidence": 0.72,
+        "rule_id": "observed_rematch_sloclap_paris_202412",
+        "matched_text": "『SIFU』の開発スタジオが手がける新作サッカーアクションゲーム『REMATCH』発表 - 電ファミニコゲーマー",
         "match_source": "known_place_title"
       }
     },
@@ -17080,33 +17026,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          28.0473,
-          -26.2041
-        ]
-      },
-      "properties": {
-        "title": "eSport game changer - The Media Online",
-        "source": "The Media Online",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBXd0d4OUVSaE5GYmZ0WWMzbjU0VG5jOVZpSTZqRGZuXzlLb1ZkdU1Db3JDUjR4VHJIMC1UTGNOY0hqb2JSVnhBR2xTVFNJTklzeTNJN1lSYW9LbTU4X0lvVGQ2N0RTeHY5?oc=5",
-        "published_at": "2024-05-09T07:00:00+00:00",
-        "representative_place": "South African esports article / Johannesburg representative",
-        "place_label": "南アフリカ-ヨハネスブルグ",
-        "sort_place_label": "南アフリカ-ヨハネスブルグ",
-        "geocode_query": "eSport game changer The Media Online South Africa Johannesburg representative",
-        "place_type": "esports_article_source_market_city_representative_uncertain_subject_location",
-        "location_precision": "city",
-        "place_reason": "The generated unresolved item is a short-title esports article from a South Africa-oriented feed. The unresolved record does not expose a tournament, venue, team, company, or city, so use Johannesburg as a low-confidence South African esports/media-market representative rather than a non-point Africa placement. This is not an exact event or publication office coordinate.（一致語: eSport game changer - The Media Online）",
-        "confidence": 0.28,
-        "rule_id": "game_all_20260709_esport_game_changer_johannesburg_rep_202405",
-        "matched_text": "eSport game changer - The Media Online",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           139.7516,
           35.6581
         ]
@@ -18052,33 +17971,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.7873,
-          1.2992
-        ]
-      },
-      "properties": {
-        "title": "Indie Jam 2023 To Showcase Southeast Asian Gaming Excellence in Kuala Lumpur - Pokde.Net",
-        "source": "Pokde.Net",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9UcHhBdW1aTzZGeENrUWtNNUtTZC16UXIwSjY5RlZyQ0pMWERSajVGVjJVYW91Zm9xdjV3QTJuV1VtS3M0aTZaM2QwT0R1LTFPVG9LcnJJYjUzWWFORWtxcnkzT2pWSlE?oc=5",
-        "published_at": "2023-11-12T08:00:00+00:00",
-        "representative_place": "Virtuos / Fusionopolis, Singapore",
-        "place_label": "シンガポール-Fusionopolis-Virtuos",
-        "sort_place_label": "シンガポール-Fusionopolis-Virtuos",
-        "geocode_query": "Virtuos Fusionopolis Singapore",
-        "place_type": "game_services_company_site",
-        "location_precision": "city_district",
-        "place_reason": "Virtuosの東南アジア開発体制に関する記事なので、地域代表点ではなく同社本社所在地であるSingapore / Fusionopolisに置く。（一致語: Southeast Asia）",
-        "confidence": 0.78,
-        "rule_id": "observed_virtuos_southeast_asia_singapore_202512",
-        "matched_text": "Southeast Asia",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           101.6869,
           3.139
         ]
@@ -18314,6 +18206,33 @@
         "confidence": 0.4,
         "rule_id": "game_all_20260709_award_winning_filipino_indie_games_manila_202309",
         "matched_text": "These award-winning Filipino indie games are fruits of passion, process - Philstar.com",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0122,
+          52.2297
+        ]
+      },
+      "properties": {
+        "title": "Zakazane raises $1M for game studio packed with Eastern European veterans - GamesBeat",
+        "source": "GamesBeat",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTkxXZ1JrQ1lWMzNGT25LWVZzUDZ1T3FRaWxDWkU5dGktVHk5QWFsNzNzV3VQOWtORmFkTTdqbDVkNk5WSGtVUXpKcmpuTHhRREVmUHd4ckdPRU96RFpucUFTbi10SEVKVXFtRmRTT3FRRm9UZGhfQ0Z1VlFnc0lwX090eVBPajRCRzg2eTQ2SlVxTXBlWFpKZzJiZw?oc=5",
+        "published_at": "2023-09-28T07:00:00+00:00",
+        "representative_place": "Zakazane / Warsaw representative",
+        "place_label": "ポーランド-ワルシャワ",
+        "sort_place_label": "ポーランド-ワルシャワ",
+        "geocode_query": "Zakazane game studio Eastern European veterans Warsaw",
+        "place_type": "game_studio_funding_city_representative_uncertain_office",
+        "location_precision": "country_city",
+        "place_reason": "The generated unresolved item is a funding article about Zakazane, described as a game studio with Eastern European veterans. The unresolved record does not expose the legal office or exact operating city, so use Warsaw as a low-confidence Poland/Eastern-Europe studio representative rather than GamesBeat or a non-point Eastern Europe placement. This should be refined if official company records identify a different city.（一致語: Zakazane raises $1M for game studio packed with Eastern European veterans - GamesBeat）",
+        "confidence": 0.34,
+        "rule_id": "game_all_20260709_zakazane_raises_1m_warsaw_202309",
+        "matched_text": "Zakazane raises $1M for game studio packed with Eastern European veterans - GamesBeat",
         "match_source": "known_place_title"
       }
     },
@@ -19151,6 +19070,33 @@
         "confidence": 0.64,
         "rule_id": "observed_sao_memory_defrag_bandai_namco_minato_tokyo_201801",
         "matched_text": "事前登録",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4241,
+          -33.9249
+        ]
+      },
+      "properties": {
+        "title": "South African gaming startup, Carry1st, secures $27 million pre-Series B to develop and publish new games - Techpoint Africa",
+        "source": "Techpoint Africa",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBLRDVySnBSMjZVNUhBbm9yZ1J1cEJ6WVEwZ1dDNHQ5b0xGM3lSMHpGXzlsTEdXSG9KWlBicGpTazNkM211VTI0cU5XaGlXMVBYTnIyZjZOU05wa0NFVnBfdGZsWTdwZ1VwdlVoSTBFVUVNMmJjQnc?oc=5",
+        "published_at": "2023-01-17T08:00:00+00:00",
+        "representative_place": "Carry1st / Cape Town representative",
+        "place_label": "南アフリカ-西ケープ州-ケープタウン-Carry1st / pre-Series B funding",
+        "sort_place_label": "南アフリカ-西ケープ州-ケープタウン-Carry1st / pre-Series B funding",
+        "geocode_query": "Carry1st Cape Town South Africa gaming startup",
+        "place_type": "game_startup_funding_company_representative",
+        "location_precision": "city",
+        "place_reason": "The Techpoint Africa RSS item is a funding article about South African gaming startup Carry1st raising a pre-Series B round to develop and publish games. The concrete place-bearing subject is Carry1st rather than the article publisher or a generic Africa market point. Public company references describe Carry1st as a South African / Cape Town-founded games and payments company, although some later materials also use broader distributed or international headquarters wording. Cape Town is therefore used as a moderate-confidence representative company point for this 2023 funding article. Replace if the full article or company filings identify a more precise registered office or a different primary headquarters.（一致語: South African gaming startup, Carry1st, secures $27 million pre-Series B to develop and publish new games - Techpoint Africa）",
+        "confidence": 0.66,
+        "rule_id": "observed_carry1st_preseries_b_cape_town_202301",
+        "matched_text": "South African gaming startup, Carry1st, secures $27 million pre-Series B to develop and publish new games - Techpoint Africa",
         "match_source": "known_place_title"
       }
     },
@@ -20617,6 +20563,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          139.6503,
+          35.6762
+        ]
+      },
+      "properties": {
+        "title": "「作りたいものを作る、作れる！」SIE・吉田修平氏がインディーゲームの意義を語る - GAME Watch",
+        "source": "GAME Watch",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBaaVVmMUttaFNPR04tUGFPeWhSOVJxemZGaXJsMFJORE82WnZRX1BRWUp6b2NyajM0djZLOUdBV0R4NlhYd2d4Q3dvQnF4QmxoOVFUVlBHaENLZElsX3dNTjJqZEs4QQ?oc=5",
+        "published_at": "2021-08-25T07:00:00+00:00",
+        "representative_place": "Sony Interactive Entertainment / Tokyo representative",
+        "place_label": "日本-東京都-SIE / Shuhei Yoshida indie games talk",
+        "sort_place_label": "日本-東京都-SIE / Shuhei Yoshida indie games talk",
+        "geocode_query": "Sony Interactive Entertainment Tokyo Japan Shuhei Yoshida PlayStation Indies",
+        "place_type": "game_industry_interview_company_representative",
+        "location_precision": "city",
+        "place_reason": "The GAME Watch RSS item is an interview/article in which Sony Interactive Entertainment's Shuhei Yoshida discusses the significance of indie games. The concrete place-bearing subject is Yoshida in his SIE / PlayStation Indies role rather than the article publisher or an unspecified event venue. Because Yoshida's PlayStation Indies work and SIE corporate context are tied to Sony Interactive Entertainment, Tokyo is used as the representative Japan-side SIE point for this Japanese interview item. Exact interview venue was not confirmed in this pass, so city precision is used.（一致語: 「作りたいものを作る、作れる！」SIE・吉田修平氏がインディーゲームの意義を語る - GAME Watch）",
+        "confidence": 0.68,
+        "rule_id": "observed_sie_yoshida_indie_games_tokyo_202108",
+        "matched_text": "「作りたいものを作る、作れる！」SIE・吉田修平氏がインディーゲームの意義を語る - GAME Watch",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           72.8777,
           19.076
         ]
@@ -21851,33 +21824,6 @@
         "confidence": 0.46,
         "rule_id": "observed_bright_memory_fyqd_studio_china_representative_202001",
         "matched_text": "『Bright Memory アーリーアクセス版』をほぼひとりで作り上げたFYQD-Studioの超絶クオリティーを実現したヒミツに迫る - ファミ通",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.9842,
-          14.5995
-        ]
-      },
-      "properties": {
-        "title": "Professionals and hobbyist game devs celebrated at GDAP’s Game On 2019 Awards - Rappler",
-        "source": "Rappler",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZUZCX01QNTF6SXE4OHVmaDRBZW9tTVdhbTd2aEQzUE1qS0o1Q0JUQnF1aGItQzlxLUxuRmtYTEE2Szdta24wdGNCbV8tS3dtcEduanZwVVYtajBrTW56dkxqeUtkZ2tXYmlmdlZLT28zbEVUY1pDUjJPek9tM1dFT2ZBSlJqa0lmRlBUTQ?oc=5",
-        "published_at": "2020-01-04T08:00:00+00:00",
-        "representative_place": "GDAP Game On 2019 Awards / Manila representative",
-        "place_label": "フィリピン-マニラ首都圏-マニラ",
-        "sort_place_label": "フィリピン-マニラ首都圏-マニラ",
-        "geocode_query": "GDAP Game On 2019 Awards Manila game developers Philippines",
-        "place_type": "game_developer_awards_city_representative_uncertain_venue",
-        "location_precision": "city",
-        "place_reason": "The generated unresolved item is an awards article for GDAP's Game On 2019 Awards. The unresolved record does not expose the exact venue, so use Manila as the event/association-side representative rather than Rappler or one award winner. This is not an exact awards venue coordinate.（一致語: Professionals and hobbyist game devs celebrated at GDAP’s Game On 2019 Awards - Rappler）",
-        "confidence": 0.58,
-        "rule_id": "game_all_20260709_gdap_game_on_2019_awards_manila_202001",
-        "matched_text": "Professionals and hobbyist game devs celebrated at GDAP’s Game On 2019 Awards - Rappler",
         "match_source": "known_place_title"
       }
     },
@@ -23660,33 +23606,6 @@
         "confidence": 0.62,
         "rule_id": "observed_poland_video_game_powerhouse_warsaw_201507",
         "matched_text": "How Poland turned into a video game powerhouse - South China Morning Post",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          21.0186,
-          52.2695
-        ]
-      },
-      "properties": {
-        "title": "Polish video game 'The Witcher' enchants world - Phys.org",
-        "source": "Phys.org",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1rdURTeTYtX0ZqSW1MZFJmdFdIUlh0cW51bFRDX3hOZ3lfci00Wldyc3ZZUGNjcjNmbHNkX2d6ZjI5T2ZlaWdrR1h0anc1WG1BSW1oQjdQMkFvVlh3T1RQQ3RjNnZkWldIZWt6ekg5MkQ3VDd5R1BN?oc=5",
-        "published_at": "2015-07-19T07:00:00+00:00",
-        "representative_place": "CD PROJEKT S.A. / ul. Jagiellońska 74 building E",
-        "place_label": "ポーランド-ワルシャワ-ul. Jagiellońska 74 building E-CD PROJEKT",
-        "sort_place_label": "ポーランド-ワルシャワ-ul. Jagiellońska 74 building E-CD PROJEKT",
-        "geocode_query": "ul. Jagiellońska 74 building E 03-301 Warszawa CD PROJEKT",
-        "place_type": "company_site",
-        "location_precision": "building",
-        "place_reason": "The Witcher historical article anchored to the CD PROJEKT official company address. The Witcher, CD Projekt, CD Projekt Red, and Polish video game standalone terms are not used as triggers.（一致語: Polish video game 'The Witcher' enchants world）",
-        "confidence": 0.84,
-        "rule_id": "observed_cd_projekt_warsaw_witcher_201507",
-        "matched_text": "Polish video game 'The Witcher' enchants world",
         "match_source": "known_place_title"
       }
     },
