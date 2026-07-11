@@ -1,8 +1,8 @@
 {
   "type": "FeatureCollection",
   "properties": {
-    "created_at": "2026-07-10T23:59:07.166243+00:00",
-    "count": 25,
+    "created_at": "2026-07-11T03:32:55.701534+00:00",
+    "count": 24,
     "stats": {
       "feed_id": "google-news-disaster-ja",
       "feed_label": "Google News: 災害・地震・大雨",
@@ -15,8 +15,8 @@
         "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja": 77
       },
       "filtered": 68,
-      "resolved": 25,
-      "unresolved": 43,
+      "resolved": 24,
+      "unresolved": 44,
       "rules": 384,
       "known_places": 1357,
       "loaded_data_files": [
@@ -1349,6 +1349,33 @@
         ]
       },
       "properties": {
+        "title": "山梨で震度6弱の地震 17人けが 土砂災害警戒レベル引き下げ 富士山に異常なし 台風の大雨と余震に警戒 - FNNプライムオンライン",
+        "source": "FNNプライムオンライン",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9sTUdEU1hUTUx1Xzh1MDcxVGJ0V0Y1U2xVcVZPN1FDR2NURXRFWUxNT2JrSF9xRXdBa0pkdXE5TXdUb0NmSzFFOGlnM3Rfdw?oc=5",
+        "published_at": "2026-06-27T07:00:00+00:00",
+        "representative_place": "Yamanashi Prefecture / Kofu representative",
+        "place_label": "日本-山梨県-甲府市-山梨県地震・台風7号土砂災害警戒代表点",
+        "sort_place_label": "日本-山梨県-甲府市-山梨県地震・台風7号土砂災害警戒代表点",
+        "geocode_query": "Yamanashi Prefecture Kofu Japan earthquake typhoon 7 landslide warning",
+        "place_type": "disaster_prefecture_representative",
+        "location_precision": "city",
+        "place_reason": "Non-game disaster-category coverage. These unresolved articles explicitly focus on the Yamanashi earthquake area and typhoon/heavy-rain landslide risk. The titles do not expose a narrower epicenter, municipality, slope, shelter, or disaster-site address, so use Kofu as the prefectural representative point for Yamanashi rather than leaving the items unresolved or mapping them to publisher locations.（一致語: 山梨で震度6弱の地震 17人けが 土砂災害警戒レベル引き下げ 富士山に異常なし 台風の大雨と余震に警戒 - FNNプライムオンライン）",
+        "confidence": 0.62,
+        "rule_id": "disaster_202606_yamanashi_earthquake_typhoon7_landslide_risk",
+        "matched_text": "山梨で震度6弱の地震 17人けが 土砂災害警戒レベル引き下げ 富士山に異常なし 台風の大雨と余震に警戒 - FNNプライムオンライン",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.5683,
+          35.6639
+        ]
+      },
+      "properties": {
         "title": "最大震度6弱の山梨県や関東では27日に台風が最接近　土砂災害やがけ崩れに厳重警戒(気象予報士 牧　良幸 2026年06月26日) - tenki.jp",
         "source": "tenki.jp",
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9RX2U5YjdUWXh4a1owWGFBLThqdDFaQi1sWFJON3dZQ25OdGhZTkhiTDkxOU5Mb0VYUktVUDl3ZDFUZklYdUdobmNLUjBMS21lYk9wVXdhQ3ByQXRxUll3NXZQRzljNm_SAWxBVV95cUxNS3ZsTmFIVVl5UUFBRGhaUEpIRWtrT0k3M0Ezb18wc3FjaG5zLUpmdUNDZlVxV3JCd1l5YWtaUmVvQWx2akpKWlhzMGlzTG56SHY0aUtzQ3Rfam5TUVItRllsVDZENldBV1NCcHA?oc=5",
@@ -1560,33 +1587,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.9842,
-          14.5995
-        ]
-      },
-      "properties": {
-        "title": "【緊急】フィリピンで大型台風の被害により100万人以上が避難。台風と地震の複合災害の緊急支援を拡大・強化 - PR TIMES",
-        "source": "PR TIMES",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1aV2VBNG5vc0J2d2o0Y3RGT3gzU1A0aUs0WjRvc2ZtczhQajVISUlBNUpETmNVYUdQZnRReVVQaVprSzgyS3dzakNyVEZJc3BKbk5ET1lBbDYxWFIzYUxxUVdxVmxPcFdqX1E?oc=5",
-        "published_at": "2025-11-12T08:00:00+00:00",
-        "representative_place": "Philippines / Manila representative",
-        "place_label": "フィリピン-マニラ-大型台風・地震複合災害支援代表点",
-        "sort_place_label": "フィリピン-マニラ-大型台風・地震複合災害支援代表点",
-        "geocode_query": "Philippines Manila typhoon earthquake compound disaster emergency relief",
-        "place_type": "international_disaster_country_representative",
-        "location_precision": "country_city",
-        "place_reason": "The title explicitly identifies the Philippines as the country affected by a large typhoon and compound typhoon/earthquake disaster, but does not expose a province, municipality, evacuation center, or damaged-site coordinate. Use Manila as a low-confidence country representative point for this international disaster-relief item rather than the PR TIMES source location.（一致語: 【緊急】フィリピンで大型台風の被害により100万人以上が避難。台風と地震の複合災害の緊急支援を拡大・強化 - PR TIMES）",
-        "confidence": 0.5,
-        "rule_id": "disaster_202511_philippines_typhoon_earthquake_relief",
-        "matched_text": "【緊急】フィリピンで大型台風の被害により100万人以上が避難。台風と地震の複合災害の緊急支援を拡大・強化 - PR TIMES",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           136.8992,
           37.3906
         ]
@@ -1768,33 +1768,6 @@
         "confidence": 0.7,
         "rule_id": "disaster_yomiuri_kyoto_university_dpri_heavy_rain_risk_article",
         "matched_text": "【京都大防災研から】大雨の時は土砂災害や氾濫リスクに備えてください - 読売新聞",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.5023,
-          34.6937
-        ]
-      },
-      "properties": {
-        "title": "過去30年、大雨シーズン（6月～9月）に降水量が多い西日本エリア。6月「震災対策技術展」大阪でハザードマップ入手、台風・ゲリラ豪雨対策セミナーを聴講し、梅雨・大型台風シーズンに備えましょう！ - PR TIMES",
-        "source": "PR TIMES",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE01S2xneXVYb0xKYThybURxVEVjakN0MEctbWxTNWpwTnYzLTFsWXlNTUlpamNoQWw2MEZhdkVfeVBDenNlTDZaQU1kWlVSRlByVkxDWkRLVnVWdEhqN21xbDV6WWR3VG4tX2c?oc=5",
-        "published_at": "2022-05-10T07:00:00+00:00",
-        "representative_place": "LEVEL5 comcept / Osaka development base topic",
-        "place_label": "日本-大阪府-大阪市-LEVEL5 comcept",
-        "sort_place_label": "日本-大阪府-大阪市-LEVEL5 comcept",
-        "geocode_query": "Osaka Japan LEVEL5 comcept development base",
-        "place_type": "studio_site",
-        "location_precision": "city",
-        "place_reason": "LEVEL5 comceptを大阪に設立した記事なので大阪市に置く。番地は固定せずcityに止める（一致語: 大阪）",
-        "confidence": 0.78,
-        "rule_id": "observed_level5_comcept_osaka_studio_201706",
-        "matched_text": "大阪",
         "match_source": "known_place_title"
       }
     },
