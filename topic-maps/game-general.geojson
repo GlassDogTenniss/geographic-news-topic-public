@@ -1,8 +1,8 @@
 {
   "type": "FeatureCollection",
   "properties": {
-    "created_at": "2026-07-11T03:32:55.701534+00:00",
-    "count": 112,
+    "created_at": "2026-07-11T06:14:26.151856+00:00",
+    "count": 114,
     "stats": {
       "feed_id": "game-general",
       "feed_label": "ゲーム一般ニュース",
@@ -16,13 +16,13 @@
       "fetched": 282,
       "fetched_by_url": {
         "https://news.google.com/rss/search?q=video%20games%20gaming%20news%20Nintendo%20PlayStation%20Xbox%20Steam&hl=en&gl=US&ceid=US:en": 75,
-        "https://news.google.com/rss/search?q=game%20release%20update%20Nintendo%20PlayStation%20Xbox%20Steam&hl=en&gl=US&ceid=US:en": 75,
-        "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%20%E6%96%B0%E4%BD%9C%20Switch%20PS5%20Xbox%20Steam&hl=ja&gl=JP&ceid=JP:ja": 75,
+        "https://news.google.com/rss/search?q=game%20release%20update%20Nintendo%20PlayStation%20Xbox%20Steam&hl=en&gl=US&ceid=US:en": 74,
+        "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%20%E6%96%B0%E4%BD%9C%20Switch%20PS5%20Xbox%20Steam&hl=ja&gl=JP&ceid=JP:ja": 74,
         "https://news.google.com/rss/search?q=%E4%BB%BB%E5%A4%A9%E5%A0%82%20PlayStation%20Xbox%20Steam%20%E3%82%B2%E3%83%BC%E3%83%A0&hl=ja&gl=JP&ceid=JP:ja": 78
       },
-      "filtered": 249,
-      "resolved": 112,
-      "unresolved": 137,
+      "filtered": 250,
+      "resolved": 114,
+      "unresolved": 136,
       "rules": 384,
       "known_places": 1357,
       "loaded_data_files": [
@@ -1771,6 +1771,33 @@
         ]
       },
       "properties": {
+        "title": "「プラグマタ」の全世界販売本数が200万本を突破！PS5/Xbox/Steamでの発売からわずか16日間 - Gamer",
+        "source": "Gamer",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA1eTVWbzE0YTFOeE81Vk9DNV9sUm1ISHI3RnRiSkJlaERrSV9OU2l0U2tVM1Y2aDY2b2dxT2l0emllX3ZSeF9EU2s4RE5xSFJGVW1fNw?oc=5",
+        "published_at": "2026-05-07T07:00:00+00:00",
+        "representative_place": "Valhalla Game Studios / Tokyo",
+        "place_label": "日本-東京-Valhalla Game Studios / RockShot",
+        "sort_place_label": "日本-東京-Valhalla Game Studios / RockShot",
+        "geocode_query": "Valhalla Game Studios Tokyo RockShot",
+        "place_type": "game_development_studio_announcement_city_uncertain_office",
+        "location_precision": "city",
+        "place_reason": "The legacy active entry treated the RockShot / Devil's Third developer item as a broad launch-market and access-restriction topic. A later repository entry for the same article already anchors the development subject to Valhalla Game Studios in Tokyo. This override aligns the older multi-region entry with the later same-topic Tokyo studio representative. This is not a confirmed exact Valhalla Game Studios office address, Steam distribution endpoint, media office, or article venue; replace it if the article body or an official company source identifies a more precise studio location.（一致語: Steam）",
+        "confidence": 0.62,
+        "rule_id": "observed_rockshot_valhalla_game_studios_tokyo_legacy_201805",
+        "matched_text": "Steam",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6503,
+          35.6762
+        ]
+      },
+      "properties": {
         "title": "Valve's £85 Steam Controller divides gamers ahead of May launch - BBC",
         "source": "BBC",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9pc3VESDhWMGtubUVKZDBXTVRQTlM2czcwQlgtQVdMbDhDdmNPdzFPLTJ3eWJvMGZGV2RDekFnZG80WERqa291a29wTXRtS0k1aGxOVk8wdXdCUQ?oc=5",
@@ -1802,33 +1829,6 @@
         "source": "GAME Watch",
         "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1haEVsc1R2a3RuTFQwVmQ0eGFaSm9RT1o5ajdWZ0E3N1k5RUp2WkhYNEJjeTRSSDdlWHRJVmZBWjhONURad0pjQm5rRXAwZmRNREN1aXA2RnIyNmFXXzlqWVRqeHlFQQ?oc=5",
         "published_at": "2026-04-23T07:00:00+00:00",
-        "representative_place": "Valhalla Game Studios / Tokyo",
-        "place_label": "日本-東京-Valhalla Game Studios / RockShot",
-        "sort_place_label": "日本-東京-Valhalla Game Studios / RockShot",
-        "geocode_query": "Valhalla Game Studios Tokyo RockShot",
-        "place_type": "game_development_studio_announcement_city_uncertain_office",
-        "location_precision": "city",
-        "place_reason": "The legacy active entry treated the RockShot / Devil's Third developer item as a broad launch-market and access-restriction topic. A later repository entry for the same article already anchors the development subject to Valhalla Game Studios in Tokyo. This override aligns the older multi-region entry with the later same-topic Tokyo studio representative. This is not a confirmed exact Valhalla Game Studios office address, Steam distribution endpoint, media office, or article venue; replace it if the article body or an official company source identifies a more precise studio location.（一致語: Steam）",
-        "confidence": 0.62,
-        "rule_id": "observed_rockshot_valhalla_game_studios_tokyo_legacy_201805",
-        "matched_text": "Steam",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.6503,
-          35.6762
-        ]
-      },
-      "properties": {
-        "title": "「精霊機フレイリート」がPS5/PS4/Xbox Series X|S/Xbox One/Switch/Steamで開発始動！どこか懐かしさを感じるノスタルジック2Dアクションゲーム - Gamer",
-        "source": "Gamer",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9VMDc4akhNZGVwWXlEMGFaUHNUNjFrcmNZYkNnNkw0ZWNzZEZJRWt6cW9hWlhoM1NhVHFlYTVoazVlSnpRXzN1SVdRbEp1SXNGblVhc2lDN2hLWDUtNWc4?oc=5",
-        "published_at": "2026-04-21T11:11:31+00:00",
         "representative_place": "Valhalla Game Studios / Tokyo",
         "place_label": "日本-東京-Valhalla Game Studios / RockShot",
         "sort_place_label": "日本-東京-Valhalla Game Studios / RockShot",
@@ -3040,9 +3040,9 @@
         ]
       },
       "properties": {
-        "title": "Hollow Knight: Silksong demand prompts Steam and game store crash - BBC",
-        "source": "BBC",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE40dzd3bU9Eek9zclR4ZWlRZjVTU1Z6OWhUNTRkeG0wSUlnM2MxRXdadTNzUnBlRU1MdkY5NHMyWVRaWHFUZVBXRVZBS2ZOQXhVWXZ0NDl0TEdkUQ?oc=5",
+        "title": "Silksong’s release is hammering Steam, Xbox, PlayStation, and Nintendo stores - The Verge",
+        "source": "The Verge",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORjBZSnctTGdrYUlvVkpJTVFobFNLaVBfSDFKVFp4LUV2b25rbGw5NlFLU3R1V19INzlOZnZYQmRpX3NXN0g4eW1ka0RMbVBMVkxoeGtMMWtrOHV5ZEpPQ25NZmJQWDh0SVIyZVdRR0stcnU4a1RfLWNacnQtTGNPQ09BbXBVcEI3?oc=5",
         "published_at": "2025-09-04T07:00:00+00:00",
         "representative_place": "Valhalla Game Studios / Tokyo",
         "place_label": "日本-東京-Valhalla Game Studios / RockShot",
@@ -3067,9 +3067,9 @@
         ]
       },
       "properties": {
-        "title": "Silksong’s release is hammering Steam, Xbox, PlayStation, and Nintendo stores - The Verge",
-        "source": "The Verge",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORjBZSnctTGdrYUlvVkpJTVFobFNLaVBfSDFKVFp4LUV2b25rbGw5NlFLU3R1V19INzlOZnZYQmRpX3NXN0g4eW1ka0RMbVBMVkxoeGtMMWtrOHV5ZEpPQ25NZmJQWDh0SVIyZVdRR0stcnU4a1RfLWNacnQtTGNPQ09BbXBVcEI3?oc=5",
+        "title": "Hollow Knight: Silksong demand prompts Steam and game store crash - BBC",
+        "source": "BBC",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE40dzd3bU9Eek9zclR4ZWlRZjVTU1Z6OWhUNTRkeG0wSUlnM2MxRXdadTNzUnBlRU1MdkY5NHMyWVRaWHFUZVBXRVZBS2ZOQXhVWXZ0NDl0TEdkUQ?oc=5",
         "published_at": "2025-09-04T07:00:00+00:00",
         "representative_place": "Valhalla Game Studios / Tokyo",
         "place_label": "日本-東京-Valhalla Game Studios / RockShot",
@@ -3368,6 +3368,33 @@
         "source": "Gamer",
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1lRm4xRjVzM0hoRDFxNWZkczc5UW54eWFfRnBBWHl2N2piVnVSaFlTMmtrTjVJQzNrdVl4ZU1lZVVrUDkyeUo4NUs0QUw0WTJ1Mm5lUw?oc=5",
         "published_at": "2025-06-08T07:00:00+00:00",
+        "representative_place": "Valhalla Game Studios / Tokyo",
+        "place_label": "日本-東京-Valhalla Game Studios / RockShot",
+        "sort_place_label": "日本-東京-Valhalla Game Studios / RockShot",
+        "geocode_query": "Valhalla Game Studios Tokyo RockShot",
+        "place_type": "game_development_studio_announcement_city_uncertain_office",
+        "location_precision": "city",
+        "place_reason": "The legacy active entry treated the RockShot / Devil's Third developer item as a broad launch-market and access-restriction topic. A later repository entry for the same article already anchors the development subject to Valhalla Game Studios in Tokyo. This override aligns the older multi-region entry with the later same-topic Tokyo studio representative. This is not a confirmed exact Valhalla Game Studios office address, Steam distribution endpoint, media office, or article venue; replace it if the article body or an official company source identifies a more precise studio location.（一致語: Steam）",
+        "confidence": 0.62,
+        "rule_id": "observed_rockshot_valhalla_game_studios_tokyo_legacy_201805",
+        "matched_text": "Steam",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6503,
+          35.6762
+        ]
+      },
+      "properties": {
+        "title": "反則なし肉弾サッカーゲーム『REMATCH』すぐさまSteam同接14万人超で人気爆発中。『Sifu』開発元の新作、発売前から大ブーム - AUTOMATON",
+        "source": "AUTOMATON",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE95S1pNZEdnY25keHdNdUJ5ZDlvYmNJLVBSeVdER0lYNWNvR3F0SkRiOXpOZVExNkhpamhxdFMzZVZmczVVRDktRkdLT3lsbTloR0FEOFByRFpxamxTSmtaX2R3UXhRb0pBM1BIRnU2MDZ1M1FTRGxV?oc=5",
+        "published_at": "2025-05-29T07:00:00+00:00",
         "representative_place": "Valhalla Game Studios / Tokyo",
         "place_label": "日本-東京-Valhalla Game Studios / RockShot",
         "sort_place_label": "日本-東京-Valhalla Game Studios / RockShot",
@@ -3985,6 +4012,33 @@
         ]
       },
       "properties": {
+        "title": "「精霊機フレイリート」がPS5/PS4/Xbox Series X|S/Xbox One/Switch/Steamで開発始動！どこか懐かしさを感じるノスタルジック2Dアクションゲーム - Gamer",
+        "source": "Gamer",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9qSFRtMllZaEI2bnBqWWFOMld2eUpjcTJSZGRSek5udmlxWkV1NFBDcTJxVHR2Z25KMmN6S09KaUlWY2luMFg1UGk0U0UwZzFzenZXUQ?oc=5",
+        "published_at": "2024-07-19T07:00:00+00:00",
+        "representative_place": "Valhalla Game Studios / Tokyo",
+        "place_label": "日本-東京-Valhalla Game Studios / RockShot",
+        "sort_place_label": "日本-東京-Valhalla Game Studios / RockShot",
+        "geocode_query": "Valhalla Game Studios Tokyo RockShot",
+        "place_type": "game_development_studio_announcement_city_uncertain_office",
+        "location_precision": "city",
+        "place_reason": "The legacy active entry treated the RockShot / Devil's Third developer item as a broad launch-market and access-restriction topic. A later repository entry for the same article already anchors the development subject to Valhalla Game Studios in Tokyo. This override aligns the older multi-region entry with the later same-topic Tokyo studio representative. This is not a confirmed exact Valhalla Game Studios office address, Steam distribution endpoint, media office, or article venue; replace it if the article body or an official company source identifies a more precise studio location.（一致語: Steam）",
+        "confidence": 0.62,
+        "rule_id": "observed_rockshot_valhalla_game_studios_tokyo_legacy_201805",
+        "matched_text": "Steam",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6503,
+          35.6762
+        ]
+      },
+      "properties": {
         "title": "『キャットクエスト3』PS/Xbox/Steam版が6月4日23時より予約開始。Steam Nextフェスではデモ版の配信も - 電撃オンライン",
         "source": "電撃オンライン",
         "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1FaXpVanJoYmtxcGMxcGNUQ21NVjdNWXJwSS1UZmlBZ3NIN19VaDY5V3FoVzhkS1d4WnpVV21IVVZGNjZRaHNuQTRzS3doNUEwV3BFS2Q4VTc?oc=5",
@@ -4097,6 +4151,33 @@
         "source": "The Direct",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQLWo2ellzTDVvVURWUW5kY0RKMzUzMHh3ZWJUSGRKLUwzdmUyWE0zYmg4UnplZEY4N0RSVnE4cjhfaXNYY1RPNHI3V0dmVGhVRHNsRU1OTzBwMTJEZzRCQ1BKT2pTUVJEalBHTDZ4c3pyU1RORU42em9OcUdwV210ZlptdWU?oc=5",
         "published_at": "2024-05-06T07:00:00+00:00",
+        "representative_place": "Valhalla Game Studios / Tokyo",
+        "place_label": "日本-東京-Valhalla Game Studios / RockShot",
+        "sort_place_label": "日本-東京-Valhalla Game Studios / RockShot",
+        "geocode_query": "Valhalla Game Studios Tokyo RockShot",
+        "place_type": "game_development_studio_announcement_city_uncertain_office",
+        "location_precision": "city",
+        "place_reason": "The legacy active entry treated the RockShot / Devil's Third developer item as a broad launch-market and access-restriction topic. A later repository entry for the same article already anchors the development subject to Valhalla Game Studios in Tokyo. This override aligns the older multi-region entry with the later same-topic Tokyo studio representative. This is not a confirmed exact Valhalla Game Studios office address, Steam distribution endpoint, media office, or article venue; replace it if the article body or an official company source identifies a more precise studio location.（一致語: Steam）",
+        "confidence": 0.62,
+        "rule_id": "observed_rockshot_valhalla_game_studios_tokyo_legacy_201805",
+        "matched_text": "Steam",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6503,
+          35.6762
+        ]
+      },
+      "properties": {
+        "title": "戦略的なバトルが魅力の神話ファンタジーRPG「刃神のアマテラス」がPS5/PS4/Xbox Series X|S/Xbox One/Switch/Steam向けに配信！ - Gamer",
+        "source": "Gamer",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE56cWlFNTVybkQwZmNLTTlqZWRNejdoVjZQZHd4dkJkb2I1V25BS25IVW5FNlRPSTIyRnQ1WVJHZWlNdUFrMVdPM0I5ZlpZaTJtV191Xw?oc=5",
+        "published_at": "2023-12-22T08:00:00+00:00",
         "representative_place": "Valhalla Game Studios / Tokyo",
         "place_label": "日本-東京-Valhalla Game Studios / RockShot",
         "sort_place_label": "日本-東京-Valhalla Game Studios / RockShot",
@@ -4313,33 +4394,6 @@
         "source": "ファミ通",
         "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBPOG9pM01lRTBvU09Bd2UzMVpKSzVtTWZWLVpiZV9SMzBxWkVhaFI3c2E4UmJTS1NmX0tZNE5vVDZpcEgyYk40Y3ozNTBoTFdBLXBzUFprUkhnNHRwSkE?oc=5",
         "published_at": "2021-06-16T07:00:00+00:00",
-        "representative_place": "Valhalla Game Studios / Tokyo",
-        "place_label": "日本-東京-Valhalla Game Studios / RockShot",
-        "sort_place_label": "日本-東京-Valhalla Game Studios / RockShot",
-        "geocode_query": "Valhalla Game Studios Tokyo RockShot",
-        "place_type": "game_development_studio_announcement_city_uncertain_office",
-        "location_precision": "city",
-        "place_reason": "The legacy active entry treated the RockShot / Devil's Third developer item as a broad launch-market and access-restriction topic. A later repository entry for the same article already anchors the development subject to Valhalla Game Studios in Tokyo. This override aligns the older multi-region entry with the later same-topic Tokyo studio representative. This is not a confirmed exact Valhalla Game Studios office address, Steam distribution endpoint, media office, or article venue; replace it if the article body or an official company source identifies a more precise studio location.（一致語: Steam）",
-        "confidence": 0.62,
-        "rule_id": "observed_rockshot_valhalla_game_studios_tokyo_legacy_201805",
-        "matched_text": "Steam",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.6503,
-          35.6762
-        ]
-      },
-      "properties": {
-        "title": "Remastered Tales of Vesperia: Definitive Edition now available for Xbox One, PS4, Nintendo Switch, and Steam - Notebookcheck",
-        "source": "Notebookcheck",
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPTVlNaE5mTC1Wb3lxUmEtYk8za3VRTktTRThEVTF0YzNYeV93Sk9DY0pIWDd6ZWtMZlMwN2hVdWNZRHNzX08zRVZOVFI1MG9kNUpzQUZJZkZfaFhzYmhVaTRuOElsQkxUMnAtOTJQNGw5QzdoakRYVUtaeEtDWktWZFVYcmh6eFlNMldaVXVydDBEOXlKbU9vYVkyX2lPZFZRX0RfY3lvb3dJT3RJQ0hNelNfSmhUWE9pU0lUODJNcUh0VlBQdGoydHM4MFhQLVpCSDZIRGRzVTRyV1ZsbHBndWJR?oc=5",
-        "published_at": "2019-01-11T08:00:00+00:00",
         "representative_place": "Valhalla Game Studios / Tokyo",
         "place_label": "日本-東京-Valhalla Game Studios / RockShot",
         "sort_place_label": "日本-東京-Valhalla Game Studios / RockShot",

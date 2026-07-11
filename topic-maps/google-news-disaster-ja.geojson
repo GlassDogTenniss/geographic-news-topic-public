@@ -1,7 +1,7 @@
 {
   "type": "FeatureCollection",
   "properties": {
-    "created_at": "2026-07-11T03:32:55.701534+00:00",
+    "created_at": "2026-07-11T06:14:26.151856+00:00",
     "count": 24,
     "stats": {
       "feed_id": "google-news-disaster-ja",
@@ -1457,60 +1457,6 @@
         ]
       },
       "properties": {
-        "title": "【天気】九州で線状降水帯発生のおそれ 大雨災害に厳重な警戒を 台風7号は週末にかけて日本列島に - 日テレNEWS NNN",
-        "source": "日テレNEWS NNN",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5rT25QYjR5LUMxVVZ4SnEydFNwOEJRZjBOZGlDVHg3MG1MOW9leWJyVEFydzlfLVRFMEFjWk5ieHQxZFgwc09LdmVHdXZKc1NtazVWU0NuZFhYaGtFZlhQWXUzUXVvSno5bkw3cFkxajZ5RVExaDlNTjhzNXM?oc=5",
-        "published_at": "2026-06-24T07:00:00+00:00",
-        "representative_place": "Kyushu / Fukuoka representative",
-        "place_label": "日本-福岡県-福岡市-九州大雨・線状降水帯警戒代表点",
-        "sort_place_label": "日本-福岡県-福岡市-九州大雨・線状降水帯警戒代表点",
-        "geocode_query": "Kyushu Fukuoka Japan heavy rain linear rainband typhoon 7 warning",
-        "place_type": "weather_region_representative",
-        "location_precision": "city",
-        "place_reason": "The titles identify Kyushu as the affected weather region but do not expose a narrower municipality, river basin, or landslide site. Use Fukuoka as a Kyushu regional representative point for these broad heavy-rain and linear-rainband warnings rather than leaving them unresolved or mapping them to a media office.（一致語: 【天気】九州で線状降水帯発生のおそれ 大雨災害に厳重な警戒を 台風7号は週末にかけて日本列島に - 日テレNEWS NNN）",
-        "confidence": 0.52,
-        "rule_id": "disaster_202606_kyushu_heavy_rain_typhoons_linear_rainband",
-        "matched_text": "【天気】九州で線状降水帯発生のおそれ 大雨災害に厳重な警戒を 台風7号は週末にかけて日本列島に - 日テレNEWS NNN",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          131.4202,
-          31.9077
-        ]
-      },
-      "properties": {
-        "title": "【台風7号】週末に九州へ最接近の恐れ 地盤が緩む宮崎県内、大雨・土砂災害に最大級の警戒を - 日テレNEWS NNN",
-        "source": "日テレNEWS NNN",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5peGhRWGJaamNVVXlDVWRGaHQ4OURVem1pcS1sVHJUMHlldTBWOGZDdHNZZ3Z0V25EMU1vU1g1UV80R3RpQUF3b2lNVHNxb0hLZVJXWFpzUVhzcHNiVENRVDBGLW1IOFJDUjh0NVNabm84N25vaXFHdGdVemtZSm8?oc=5",
-        "published_at": "2026-06-24T07:00:00+00:00",
-        "representative_place": "Miyazaki Prefecture / Miyazaki City representative",
-        "place_label": "日本-宮崎県-宮崎市-台風7号大雨・土砂災害警戒代表点",
-        "sort_place_label": "日本-宮崎県-宮崎市-台風7号大雨・土砂災害警戒代表点",
-        "geocode_query": "Miyazaki City Miyazaki Prefecture Japan typhoon 7 heavy rain landslide warning",
-        "place_type": "disaster_prefecture_representative",
-        "location_precision": "city",
-        "place_reason": "Non-game disaster-category coverage. The unresolved article title explicitly identifies Miyazaki Prefecture as the area where loosened ground raises heavy-rain and landslide risk as Typhoon 7 approaches Kyushu. The title does not expose a narrower municipality, slope, river basin, shelter, or damaged-site address, so use Miyazaki City as the prefectural representative point rather than a publisher location.（一致語: 【台風7号】週末に九州へ最接近の恐れ 地盤が緩む宮崎県内、大雨・土砂災害に最大級の警戒を - 日テレNEWS NNN）",
-        "confidence": 0.66,
-        "rule_id": "disaster_202606_miyazaki_typhoon7_landslide_risk",
-        "matched_text": "【台風7号】週末に九州へ最接近の恐れ 地盤が緩む宮崎県内、大雨・土砂災害に最大級の警戒を - 日テレNEWS NNN",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          130.4017,
-          33.5902
-        ]
-      },
-      "properties": {
         "title": "九州で線状降水帯が発生のおそれ 大雨による災害発生のおそれ ふたつの台風、週末にかけ日本列島へ近づく見込み - 日テレNEWS NNN",
         "source": "日テレNEWS NNN",
         "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBCR1JkQmVQS0FjQTcweGE0UWhzVXJqZURNT3NFRUJLRm5FRTA5cGhJdDhlMlJVSFRVRnctemlXekxNenY4Rmc2N0pEdlRKMC13RnJBekY5QVZJYmxvMGdPS0dWbHZUazRzdEFSTmhPRVdJMlN4Z3pWMkc3RzA?oc=5",
@@ -1579,6 +1525,33 @@
         "confidence": 0.44,
         "rule_id": "disaster_202603_east_japan_earthquake_nankai_trough_book_feature",
         "matched_text": "東日本大震災から15年！防災特集Vol.1】南海トラフ地震やゲリラ豪雨はいつ起こる？地震や豪雨の“仕組みと備え”がわかる『自然災害のトリセツ～地震・火山噴火・異常気象のしくみと備えがわかる本 - ほんのひきだし",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9842,
+          14.5995
+        ]
+      },
+      "properties": {
+        "title": "【緊急】フィリピンで大型台風の被害により100万人以上が避難。台風と地震の複合災害の緊急支援を拡大・強化 - PR TIMES",
+        "source": "PR TIMES",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1aV2VBNG5vc0J2d2o0Y3RGT3gzU1A0aUs0WjRvc2ZtczhQajVISUlBNUpETmNVYUdQZnRReVVQaVprSzgyS3dzakNyVEZJc3BKbk5ET1lBbDYxWFIzYUxxUVdxVmxPcFdqX1E?oc=5",
+        "published_at": "2025-11-12T08:00:00+00:00",
+        "representative_place": "Philippines / Manila representative",
+        "place_label": "フィリピン-マニラ-大型台風・地震複合災害支援代表点",
+        "sort_place_label": "フィリピン-マニラ-大型台風・地震複合災害支援代表点",
+        "geocode_query": "Philippines Manila typhoon earthquake compound disaster emergency relief",
+        "place_type": "international_disaster_country_representative",
+        "location_precision": "country_city",
+        "place_reason": "The title explicitly identifies the Philippines as the country affected by a large typhoon and compound typhoon/earthquake disaster, but does not expose a province, municipality, evacuation center, or damaged-site coordinate. Use Manila as a low-confidence country representative point for this international disaster-relief item rather than the PR TIMES source location.（一致語: 【緊急】フィリピンで大型台風の被害により100万人以上が避難。台風と地震の複合災害の緊急支援を拡大・強化 - PR TIMES）",
+        "confidence": 0.5,
+        "rule_id": "disaster_202511_philippines_typhoon_earthquake_relief",
+        "matched_text": "【緊急】フィリピンで大型台風の被害により100万人以上が避難。台風と地震の複合災害の緊急支援を拡大・強化 - PR TIMES",
         "match_source": "known_place_title"
       }
     },
@@ -1768,6 +1741,33 @@
         "confidence": 0.7,
         "rule_id": "disaster_yomiuri_kyoto_university_dpri_heavy_rain_risk_article",
         "matched_text": "【京都大防災研から】大雨の時は土砂災害や氾濫リスクに備えてください - 読売新聞",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5023,
+          34.6937
+        ]
+      },
+      "properties": {
+        "title": "過去30年、大雨シーズン（6月～9月）に降水量が多い西日本エリア。6月「震災対策技術展」大阪でハザードマップ入手、台風・ゲリラ豪雨対策セミナーを聴講し、梅雨・大型台風シーズンに備えましょう！ - PR TIMES",
+        "source": "PR TIMES",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE01S2xneXVYb0xKYThybURxVEVjakN0MEctbWxTNWpwTnYzLTFsWXlNTUlpamNoQWw2MEZhdkVfeVBDenNlTDZaQU1kWlVSRlByVkxDWkRLVnVWdEhqN21xbDV6WWR3VG4tX2c?oc=5",
+        "published_at": "2022-05-10T07:00:00+00:00",
+        "representative_place": "LEVEL5 comcept / Osaka development base topic",
+        "place_label": "日本-大阪府-大阪市-LEVEL5 comcept",
+        "sort_place_label": "日本-大阪府-大阪市-LEVEL5 comcept",
+        "geocode_query": "Osaka Japan LEVEL5 comcept development base",
+        "place_type": "studio_site",
+        "location_precision": "city",
+        "place_reason": "LEVEL5 comceptを大阪に設立した記事なので大阪市に置く。番地は固定せずcityに止める（一致語: 大阪）",
+        "confidence": 0.78,
+        "rule_id": "observed_level5_comcept_osaka_studio_201706",
+        "matched_text": "大阪",
         "match_source": "known_place_title"
       }
     },
