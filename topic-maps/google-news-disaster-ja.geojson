@@ -1,8 +1,8 @@
 {
   "type": "FeatureCollection",
   "properties": {
-    "created_at": "2026-07-11T10:16:01.599757+00:00",
-    "count": 23,
+    "created_at": "2026-07-11T11:53:21.450873+00:00",
+    "count": 14,
     "stats": {
       "feed_id": "google-news-disaster-ja",
       "feed_label": "Google News: 災害・地震・大雨",
@@ -10,13 +10,13 @@
         "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja"
       ],
       "rss_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja",
-      "fetched": 77,
+      "fetched": 65,
       "fetched_by_url": {
-        "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja": 77
+        "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja": 65
       },
-      "filtered": 69,
-      "resolved": 23,
-      "unresolved": 46,
+      "filtered": 57,
+      "resolved": 14,
+      "unresolved": 43,
       "rules": 384,
       "known_places": 1357,
       "loaded_data_files": [
@@ -1349,33 +1349,6 @@
         ]
       },
       "properties": {
-        "title": "山梨で震度6弱の地震 17人けが 土砂災害警戒レベル引き下げ 富士山に異常なし 台風の大雨と余震に警戒 - FNNプライムオンライン",
-        "source": "FNNプライムオンライン",
-        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9sTUdEU1hUTUx1Xzh1MDcxVGJ0V0Y1U2xVcVZPN1FDR2NURXRFWUxNT2JrSF9xRXdBa0pkdXE5TXdUb0NmSzFFOGlnM3Rfdw?oc=5",
-        "published_at": "2026-06-27T07:00:00+00:00",
-        "representative_place": "Yamanashi Prefecture / Kofu representative",
-        "place_label": "日本-山梨県-甲府市-山梨県地震・台風7号土砂災害警戒代表点",
-        "sort_place_label": "日本-山梨県-甲府市-山梨県地震・台風7号土砂災害警戒代表点",
-        "geocode_query": "Yamanashi Prefecture Kofu Japan earthquake typhoon 7 landslide warning",
-        "place_type": "disaster_prefecture_representative",
-        "location_precision": "city",
-        "place_reason": "Non-game disaster-category coverage. These unresolved articles explicitly focus on the Yamanashi earthquake area and typhoon/heavy-rain landslide risk. The titles do not expose a narrower epicenter, municipality, slope, shelter, or disaster-site address, so use Kofu as the prefectural representative point for Yamanashi rather than leaving the items unresolved or mapping them to publisher locations.（一致語: 山梨で震度6弱の地震 17人けが 土砂災害警戒レベル引き下げ 富士山に異常なし 台風の大雨と余震に警戒 - FNNプライムオンライン）",
-        "confidence": 0.62,
-        "rule_id": "disaster_202606_yamanashi_earthquake_typhoon7_landslide_risk",
-        "matched_text": "山梨で震度6弱の地震 17人けが 土砂災害警戒レベル引き下げ 富士山に異常なし 台風の大雨と余震に警戒 - FNNプライムオンライン",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          138.5683,
-          35.6639
-        ]
-      },
-      "properties": {
         "title": "最大震度6弱の山梨県や関東では27日に台風が最接近　土砂災害やがけ崩れに厳重警戒(気象予報士 牧　良幸 2026年06月26日) - tenki.jp",
         "source": "tenki.jp",
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9RX2U5YjdUWXh4a1owWGFBLThqdDFaQi1sWFJON3dZQ25OdGhZTkhiTDkxOU5Mb0VYUktVUDl3ZDFUZklYdUdobmNLUjBMS21lYk9wVXdhQ3ByQXRxUll3NXZQRzljNm_SAWxBVV95cUxNS3ZsTmFIVVl5UUFBRGhaUEpIRWtrT0k3M0Ezb18wc3FjaG5zLUpmdUNDZlVxV3JCd1l5YWtaUmVvQWx2akpKWlhzMGlzTG56SHY0aUtzQ3Rfam5TUVItRllsVDZENldBV1NCcHA?oc=5",
@@ -1479,87 +1452,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          140.8694,
-          38.2682
-        ]
-      },
-      "properties": {
-        "title": "東日本大震災から15年！防災特集Vol.1】南海トラフ地震やゲリラ豪雨はいつ起こる？地震や豪雨の“仕組みと備え”がわかる『自然災害のトリセツ～地震・火山噴火・異常気象のしくみと備えがわかる本 - ほんのひきだし",
-        "source": "ほんのひきだし",
-        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAyT3hNUWdISkRrTnNpQm50SHpzWkV1RFJuallTZXk2WHhtZEhXYjV0OVY1YllDcURaSUh1ZUJ6X3k2T0l3WlQ1Nmlnbl85bWpuQUo2WlVBSQ?oc=5",
-        "published_at": "2026-03-11T07:00:00+00:00",
-        "representative_place": "Great East Japan Earthquake / Sendai representative",
-        "place_label": "日本-宮城県-仙台市-東日本大震災15年・防災特集代表点",
-        "sort_place_label": "日本-宮城県-仙台市-東日本大震災15年・防災特集代表点",
-        "geocode_query": "Great East Japan Earthquake Sendai Miyagi disaster preparedness feature Nankai Trough heavy rain",
-        "place_type": "historic_disaster_preparedness_feature_representative",
-        "location_precision": "city",
-        "place_reason": "The title is a preparedness/book-feature article, but it explicitly anchors the feature to the 15th year since the Great East Japan Earthquake while also discussing Nankai Trough earthquake and heavy-rain mechanisms. Because no single Nankai Trough impact site, publisher office, school, or book-event venue is exposed, use Sendai as a conservative Great East Japan Earthquake regional representative. This is a low-confidence disaster-history/preparedness anchor rather than a precise epicenter or future-disaster prediction point.（一致語: 東日本大震災から15年！防災特集Vol.1】南海トラフ地震やゲリラ豪雨はいつ起こる？地震や豪雨の“仕組みと備え”がわかる『自然災害のトリセツ～地震・火山噴火・異常気象のしくみと備えがわかる本 - ほんのひきだし）",
-        "confidence": 0.44,
-        "rule_id": "disaster_202603_east_japan_earthquake_nankai_trough_book_feature",
-        "matched_text": "東日本大震災から15年！防災特集Vol.1】南海トラフ地震やゲリラ豪雨はいつ起こる？地震や豪雨の“仕組みと備え”がわかる『自然災害のトリセツ～地震・火山噴火・異常気象のしくみと備えがわかる本 - ほんのひきだし",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.9842,
-          14.5995
-        ]
-      },
-      "properties": {
-        "title": "【緊急】フィリピンで大型台風の被害により100万人以上が避難。台風と地震の複合災害の緊急支援を拡大・強化 - PR TIMES",
-        "source": "PR TIMES",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1aV2VBNG5vc0J2d2o0Y3RGT3gzU1A0aUs0WjRvc2ZtczhQajVISUlBNUpETmNVYUdQZnRReVVQaVprSzgyS3dzakNyVEZJc3BKbk5ET1lBbDYxWFIzYUxxUVdxVmxPcFdqX1E?oc=5",
-        "published_at": "2025-11-12T08:00:00+00:00",
-        "representative_place": "Philippines / Manila representative",
-        "place_label": "フィリピン-マニラ-大型台風・地震複合災害支援代表点",
-        "sort_place_label": "フィリピン-マニラ-大型台風・地震複合災害支援代表点",
-        "geocode_query": "Philippines Manila typhoon earthquake compound disaster emergency relief",
-        "place_type": "international_disaster_country_representative",
-        "location_precision": "country_city",
-        "place_reason": "The title explicitly identifies the Philippines as the country affected by a large typhoon and compound typhoon/earthquake disaster, but does not expose a province, municipality, evacuation center, or damaged-site coordinate. Use Manila as a low-confidence country representative point for this international disaster-relief item rather than the PR TIMES source location.（一致語: 【緊急】フィリピンで大型台風の被害により100万人以上が避難。台風と地震の複合災害の緊急支援を拡大・強化 - PR TIMES）",
-        "confidence": 0.5,
-        "rule_id": "disaster_202511_philippines_typhoon_earthquake_relief",
-        "matched_text": "【緊急】フィリピンで大型台風の被害により100万人以上が避難。台風と地震の複合災害の緊急支援を拡大・強化 - PR TIMES",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          136.8992,
-          37.3906
-        ]
-      },
-      "properties": {
-        "title": "能登半島豪雨から１年 地震×雨…複合災害への備えどうする？ - 読売新聞",
-        "source": "読売新聞",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1GNmF1RnVScnhYT0xzeW5nWGRMd0hUMmFfNGNNbVF6eHY2RW82MEE0VTBvY0pYX0pNQUhQQnoxYmxOLS1FbS1HSlZpU1lzRmlHZndNNGJwNGx4dkZhQW9xWTlOZF9WNUE?oc=5",
-        "published_at": "2025-10-01T07:00:00+00:00",
-        "representative_place": "Noto Peninsula / Wajima representative",
-        "place_label": "日本-石川県-輪島市-能登半島豪雨1年・複合災害代表点",
-        "sort_place_label": "日本-石川県-輪島市-能登半島豪雨1年・複合災害代表点",
-        "geocode_query": "Noto Peninsula Wajima Ishikawa heavy rain anniversary earthquake rain compound disaster",
-        "place_type": "regional_disaster_representative",
-        "location_precision": "city",
-        "place_reason": "The article title explicitly identifies the Noto Peninsula heavy rain anniversary and combined earthquake/rain disaster preparedness. It does not name one damaged building, shelter, river, or municipality. Use Wajima as a Noto Peninsula disaster representative point, consistent with the earlier Noto earthquake/heavy-rain entries.（一致語: 能登半島豪雨から１年 地震×雨…複合災害への備えどうする？ - 読売新聞）",
-        "confidence": 0.58,
-        "rule_id": "disaster_202510_noto_peninsula_heavy_rain_anniversary",
-        "matched_text": "能登半島豪雨から１年 地震×雨…複合災害への備えどうする？ - 読売新聞",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           136.8992,
           37.3906
         ]
@@ -1579,33 +1471,6 @@
         "confidence": 0.58,
         "rule_id": "disaster_202501_202606_noto_earthquake_heavy_rain_recovery",
         "matched_text": "【データで見る能登の復興②】住まい編…地震と大雨で約10万棟の家屋が被害 - 読売新聞",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          136.8992,
-          37.3906
-        ]
-      },
-      "properties": {
-        "title": "【2025中学受験の時事】能登半島地震、台風や豪雨の災害（解説動画付き） - 朝日新聞",
-        "source": "朝日新聞",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5pNDNOYW9pUW5RYjEtTG53bk5CSVFISG1pczJlNklHeFpfRGJQc1hlcnV0S2c4MEk0NWVzdWRyYjV4T3U5QWZiT1FlR2lLWF83QTFuM1hiZ0gtVkwweHJwNHJDQ0FJbHdI?oc=5",
-        "published_at": "2024-12-20T08:00:00+00:00",
-        "representative_place": "Noto Peninsula / Wajima representative",
-        "place_label": "日本-石川県-輪島市-能登半島地震・台風豪雨時事解説代表点",
-        "sort_place_label": "日本-石川県-輪島市-能登半島地震・台風豪雨時事解説代表点",
-        "geocode_query": "Noto Peninsula Wajima Ishikawa Noto earthquake typhoon heavy rain current affairs",
-        "place_type": "regional_disaster_education_representative",
-        "location_precision": "city",
-        "place_reason": "Non-game disaster-category coverage. The title explicitly identifies the Noto Peninsula earthquake together with typhoon and heavy-rain disasters as an exam-current-affairs topic. It does not expose a single school, damaged building, shelter, river, or municipality, so use Wajima as a Noto Peninsula disaster representative point consistent with earlier Noto disaster entries. This does not claim the article-production site or a precise epicenter.（一致語: 【2025中学受験の時事】能登半島地震、台風や豪雨の災害（解説動画付き） - 朝日新聞）",
-        "confidence": 0.54,
-        "rule_id": "disaster_202412_noto_earthquake_typhoon_heavy_rain_exam_current_affairs",
-        "matched_text": "【2025中学受験の時事】能登半島地震、台風や豪雨の災害（解説動画付き） - 朝日新聞",
         "match_source": "known_place_title"
       }
     },
@@ -1722,60 +1587,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.5023,
-          34.6937
-        ]
-      },
-      "properties": {
-        "title": "過去30年、大雨シーズン（6月～9月）に降水量が多い西日本エリア。6月「震災対策技術展」大阪でハザードマップ入手、台風・ゲリラ豪雨対策セミナーを聴講し、梅雨・大型台風シーズンに備えましょう！ - PR TIMES",
-        "source": "PR TIMES",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE01S2xneXVYb0xKYThybURxVEVjakN0MEctbWxTNWpwTnYzLTFsWXlNTUlpamNoQWw2MEZhdkVfeVBDenNlTDZaQU1kWlVSRlByVkxDWkRLVnVWdEhqN21xbDV6WWR3VG4tX2c?oc=5",
-        "published_at": "2022-05-10T07:00:00+00:00",
-        "representative_place": "LEVEL5 comcept / Osaka development base topic",
-        "place_label": "日本-大阪府-大阪市-LEVEL5 comcept",
-        "sort_place_label": "日本-大阪府-大阪市-LEVEL5 comcept",
-        "geocode_query": "Osaka Japan LEVEL5 comcept development base",
-        "place_type": "studio_site",
-        "location_precision": "city",
-        "place_reason": "LEVEL5 comceptを大阪に設立した記事なので大阪市に置く。番地は固定せずcityに止める（一致語: 大阪）",
-        "confidence": 0.78,
-        "rule_id": "observed_level5_comcept_osaka_studio_201706",
-        "matched_text": "大阪",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          138.1948,
-          36.6486
-        ]
-      },
-      "properties": {
-        "title": "台風19号の浸水面積は地球温暖化で13・4倍！東京理科大・京大など推計 - 読売新聞",
-        "source": "読売新聞",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE43YUtLbmZCdElEbmhEZmRrU0hxNk9QWHY4cWp4T0tOUFRUNUh0T1pyY21DdmZ0NHJ3ekgta3JHRzhqNmk4R0RPcVRXUTQwZGlTRzQ5dUtsQTNLWkt0anREaw?oc=5",
-        "published_at": "2021-12-04T08:00:00+00:00",
-        "representative_place": "Typhoon Hagibis / Nagano-Chikuma River representative",
-        "place_label": "日本-長野県-長野市-台風19号浸水面積推計代表点",
-        "sort_place_label": "日本-長野県-長野市-台風19号浸水面積推計代表点",
-        "geocode_query": "Typhoon Hagibis Chikuma River Nagano flooding climate estimate Tokyo University of Science Kyoto University",
-        "place_type": "historic_disaster_research_representative",
-        "location_precision": "city",
-        "place_reason": "Non-game disaster-category coverage. The title is a research article about Typhoon 19 / Hagibis flood-area expansion under climate warming. It names research institutions but the disaster subject is the typhoon/flooding rather than a campus news item. Use Nagano City / Chikuma River as a representative major Hagibis flood-impact area with moderate-low confidence; this does not claim the exact modeled polygon, a damaged building, or the research lab location.（一致語: 台風19号の浸水面積は地球温暖化で13・4倍！東京理科大・京大など推計 - 読売新聞）",
-        "confidence": 0.46,
-        "rule_id": "disaster_202112_typhoon19_flood_area_climate_estimate",
-        "matched_text": "台風19号の浸水面積は地球温暖化で13・4倍！東京理科大・京大など推計 - 読売新聞",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           140.0764,
           36.0835
         ]
@@ -1795,60 +1606,6 @@
         "confidence": 0.42,
         "rule_id": "disaster_202105_oyo_japan_many_disasters_column",
         "matched_text": "地震・台風・豪雨 ～なぜ日本は災害が多いのか？｜コラム｜目からウロコな防災メディア「防災・減災のススメ」 - oyo.co.jp",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.7496,
-          35.6676
-        ]
-      },
-      "properties": {
-        "title": "台風や地震のことは気象庁の「気象科学館」で学ぼう！ - 読売新聞",
-        "source": "読売新聞",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1SRmFUa0JjLXlVMjlxY25CVVk5ZTNVVXNHaTgwWFRqUVVFbHI4eHV4TERGU2dVQmNnOGE1ZVUyRUtUM3dOWFhKSWpaQUhVMGpzVUgwcUVJOV9NOTBxU0UzRnZzcUxHUTRzUlE?oc=5",
-        "published_at": "2020-10-10T07:00:00+00:00",
-        "representative_place": "Japan Meteorological Agency Meteorological Science Museum / Tokyo representative",
-        "place_label": "日本-東京都-港区-気象庁気象科学館-台風・地震学習代表点",
-        "sort_place_label": "日本-東京都-港区-気象庁気象科学館-台風・地震学習代表点",
-        "geocode_query": "Japan Meteorological Agency Meteorological Science Museum Tokyo typhoon earthquake learning",
-        "place_type": "disaster_weather_education_institution_site",
-        "location_precision": "institution_building_area",
-        "place_reason": "The title explicitly names the Japan Meteorological Agency's Meteorological Science Museum as the place to learn about typhoons and earthquakes. Unlike generic preparedness explainers, the museum/institution itself is the article-specific place-bearing subject, so use the JMA museum area in Tokyo rather than the Yomiuri source location. This does not claim a disaster impact site.（一致語: 台風や地震のことは気象庁の「気象科学館」で学ぼう！ - 読売新聞）",
-        "confidence": 0.72,
-        "rule_id": "disaster_202010_jma_meteorological_science_museum_learning",
-        "matched_text": "台風や地震のことは気象庁の「気象科学館」で学ぼう！ - 読売新聞",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.7299,
-          35.6925
-        ]
-      },
-      "properties": {
-        "title": "自衛隊のノウハウを初公開！ 地震・台風・大雨…災害時に役立つテクニック - ダ・ヴィンチWeb",
-        "source": "ダ・ヴィンチWeb",
-        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9Hb2pOanJscHdWaGluM2hIX25ENm83MGNzWlNwQnpKV0pzbWFkZG94YlZ6YkRwcDhfUk1uc3htd2xrQU5ob3ZVNlZWejYzUQ?oc=5",
-        "published_at": "2020-09-01T07:00:00+00:00",
-        "representative_place": "Japan Self-Defense Forces / Ichigaya representative",
-        "place_label": "日本-東京都-新宿区-市ヶ谷-自衛隊災害時テクニック代表点",
-        "sort_place_label": "日本-東京都-新宿区-市ヶ谷-自衛隊災害時テクニック代表点",
-        "geocode_query": "Japan Self Defense Forces Ichigaya disaster techniques earthquake typhoon heavy rain",
-        "place_type": "disaster_response_institution_representative",
-        "location_precision": "institution_building_area",
-        "place_reason": "The title explicitly frames the article around Self-Defense Force know-how for earthquakes, typhoons, and heavy rain. It is not tied to a specific disaster site, so use the JSDF / Ichigaya institutional representative rather than the media source location. This does not claim an emergency deployment site or training location.（一致語: 自衛隊のノウハウを初公開！ 地震・台風・大雨…災害時に役立つテクニック - ダ・ヴィンチWeb）",
-        "confidence": 0.62,
-        "rule_id": "disaster_202009_self_defense_force_disaster_techniques_book",
-        "matched_text": "自衛隊のノウハウを初公開！ 地震・台風・大雨…災害時に役立つテクニック - ダ・ヴィンチWeb",
         "match_source": "known_place_title"
       }
     },
