@@ -1,8 +1,8 @@
 {
   "type": "FeatureCollection",
   "properties": {
-    "created_at": "2026-07-12T21:52:56.062908+00:00",
-    "count": 828,
+    "created_at": "2026-07-12T22:51:28.713838+00:00",
+    "count": 829,
     "stats": {
       "feed_id": "game-all",
       "feed_label": "ゲーム",
@@ -28,7 +28,7 @@
         "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja"
       ],
       "rss_url": "https://www.gamedeveloper.com/rss.xml",
-      "fetched": 994,
+      "fetched": 995,
       "fetched_by_url": {
         "https://www.gamedeveloper.com/rss.xml": 50,
         "https://www.gamesindustry.biz/feed": 100,
@@ -51,8 +51,8 @@
         "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja": 79
       },
       "filtered": 894,
-      "resolved": 828,
-      "unresolved": 66,
+      "resolved": 829,
+      "unresolved": 65,
       "rules": 384,
       "known_places": 1357,
       "loaded_data_files": [
@@ -7846,33 +7846,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.4492,
-          34.1511
-        ]
-      },
-      "properties": {
-        "title": "Xsolla to Showcase Global Commerce Platform and Expanded Vietnam Presence at Vietnam GameVerse 2026 - Business Wire",
-        "source": "Business Wire",
-        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNeVB0UEhkc3JsYi1jWnJMWVRUWTV2UGQtMlREZ2lXTXhOYUpqR2xjYXZ5UVlEZGxjdVB4NEppa1NKMUw0NmNxQWNGWjNlQmtKWG5oalRMRkhmWURaM3BTUDNENFBHcnd0a25WMGxJRTEtVG0wSnV4MTRpc1Y3N1JrX1E5VVR6U1R6TjI5cEExbWgwb2N3aTNfVUZ4elNrazR2QWRRcUUzajgxWnpldFVMTWoyZ3E4cnFTRWs1eFEwb0ZROHdfWk5BVEUxcklrYWxHT0xLOE5CM0NrcEVPN3dvX1FDOU90N0RHUzJMTQ?oc=5",
-        "published_at": "2026-05-05T07:00:00+00:00",
-        "representative_place": "Xsolla / Sherman Oaks headquarters area",
-        "place_label": "米国-カリフォルニア州-ロサンゼルス-Sherman Oaks-Xsolla",
-        "sort_place_label": "米国-カリフォルニア州-ロサンゼルス-Sherman Oaks-Xsolla",
-        "geocode_query": "Xsolla Sherman Oaks Los Angeles California United States",
-        "place_type": "game_commerce_company_site",
-        "location_precision": "headquarters_area",
-        "place_reason": "XsollaのVietnam GameVerse出展・ベトナム展開記事なので、会場名が未確認のイベント点ではなくXsolla本社周辺に置く。（一致語: Vietnam GameVerse 2026）",
-        "confidence": 0.7,
-        "rule_id": "observed_xsolla_vietnam_gameverse_sherman_oaks_202605",
-        "matched_text": "Vietnam GameVerse 2026",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           114.0579,
           22.5431
         ]
@@ -9439,33 +9412,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          46.6753,
-          24.7136
-        ]
-      },
-      "properties": {
-        "title": "Savvy Games to Buy Moonton in $6 Billion Mobile Gaming Deal - Analytics Insight",
-        "source": "Analytics Insight",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdTE2bS1oeHBYZk1SMnl5RDNuZGg0YUlrUUUzTmo0RGtSN3BoX1ozS1NseEQ1TVhfSjYydFZNdFZCdmVDajNDOU1LRVhoSnFyV3ZmUk12SjNxUDEwZzE4TjVhaEVqb1ZJWFZNUjNPMU9YMGp6cjhkTUdjY25uUngzekljdGEya3JJOVN0TzB2MzVSQ0R1M0hQcHQzamLSAaoBQVVfeXFMTzFIQ3loYWJ3Rm1YcGQxbUw0U1JqNDdidEpOakdQMU5TTV9zZ05KTVZDQkpmNzFhRHdid1NnY1N2ZTlqcHdveWlaQm1mRjBGS2oxQ1ltaEpHMFhfQ0RRWDhOa3dNVHA1UFFvTm1oUzFLcU9yblpyM2hXOFpsZHR1c252aG1ydjRVSE0wMWp4dWh6UGttZVUxR1ZrUzhBR0NDbkN2NGFFRS1GM1E?oc=5",
-        "published_at": "2026-03-20T07:00:00+00:00",
-        "representative_place": "Savvy Games Group / Riyadh",
-        "place_label": "サウジアラビア-リヤド-Savvy Games Group / Moonton deal",
-        "sort_place_label": "サウジアラビア-リヤド-Savvy Games Group / Moonton deal",
-        "geocode_query": "Savvy Games Group Riyadh Saudi Arabia",
-        "place_type": "game_company_acquisition_site",
-        "location_precision": "city",
-        "place_reason": "Savvy GamesによるMoonton買収記事なので、東南アジア一般ではなく買い手主体Savvy Games Groupの本拠Riyadhに置く。（一致語: Savvy Games to Buy Moonton）",
-        "confidence": 0.76,
-        "rule_id": "observed_savvy_moonton_riyadh_202603",
-        "matched_text": "Savvy Games to Buy Moonton",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           73.8567,
           18.5204
         ]
@@ -10627,6 +10573,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          139.7516,
+          35.6581
+        ]
+      },
+      "properties": {
+        "title": "【白銀の城】配信日・事前登録特典・最新情報まとめ - 電撃オンライン",
+        "source": "電撃オンライン",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jeklzYWdJOS1QeTdpc1N2UW85V1VzNFR3dGk1a2NINmRYSk5rTXkzaVNlRkxwRG02VjBoTjcwdWI2YnluOFVKZEV4bU5UN0RJMkpyRkFBc0VjUQ?oc=5",
+        "published_at": "2026-01-26T08:00:00+00:00",
+        "representative_place": "Bandai Namco Entertainment / Minato, Tokyo representative",
+        "place_label": "日本-東京都-港区-Bandai Namco Entertainment / SAO Memory Defrag",
+        "sort_place_label": "日本-東京都-港区-Bandai Namco Entertainment / SAO Memory Defrag",
+        "geocode_query": "Bandai Namco Entertainment Minato Tokyo Sword Art Online Memory Defrag",
+        "place_type": "mobile_game_publisher_district_representative_uncertain_title_team",
+        "location_precision": "district",
+        "place_reason": "The legacy active entry treated the Sword Art Online Memory Defrag preregistration item as a broad Japan mobile-game launch-market topic. Recheck confirmed the game as a Bandai Namco Entertainment mobile title, and public company context places Bandai Namco Entertainment in Minato, Tokyo after its 2016 move. This override therefore moves the article from a Japan country representative point to a Minato, Tokyo publisher-context representative point. This is not a confirmed title-team office, article venue, exact Bandai Namco Entertainment office coordinate, or media office; replace it if the article body, official game page, store page, or company profile identifies a more precise publisher/developer/operator site.（一致語: 事前登録）",
+        "confidence": 0.64,
+        "rule_id": "observed_sao_memory_defrag_bandai_namco_minato_tokyo_201801",
+        "matched_text": "事前登録",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.417,
           48.8422
         ]
@@ -10970,33 +10943,6 @@
         "confidence": 0.62,
         "rule_id": "observed_rockshot_valhalla_game_studios_tokyo_legacy_201805",
         "matched_text": "Steam",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.7516,
-          35.6581
-        ]
-      },
-      "properties": {
-        "title": "桃源暗鬼 Crimson Infernoの配信日と事前登録情報 - GameWith",
-        "source": "GameWith",
-        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5xRkhPbDRidDMyMlVsS1NJazR3RmZxLWdkT3VOR0FlRDRaODFzTGVhUEpRSUpWN2c4TVRFanV1cjBBb1JPNFN3?oc=5",
-        "published_at": "2025-12-25T08:00:00+00:00",
-        "representative_place": "Bandai Namco Entertainment / Minato, Tokyo representative",
-        "place_label": "日本-東京都-港区-Bandai Namco Entertainment / SAO Memory Defrag",
-        "sort_place_label": "日本-東京都-港区-Bandai Namco Entertainment / SAO Memory Defrag",
-        "geocode_query": "Bandai Namco Entertainment Minato Tokyo Sword Art Online Memory Defrag",
-        "place_type": "mobile_game_publisher_district_representative_uncertain_title_team",
-        "location_precision": "district",
-        "place_reason": "The legacy active entry treated the Sword Art Online Memory Defrag preregistration item as a broad Japan mobile-game launch-market topic. Recheck confirmed the game as a Bandai Namco Entertainment mobile title, and public company context places Bandai Namco Entertainment in Minato, Tokyo after its 2016 move. This override therefore moves the article from a Japan country representative point to a Minato, Tokyo publisher-context representative point. This is not a confirmed title-team office, article venue, exact Bandai Namco Entertainment office coordinate, or media office; replace it if the article body, official game page, store page, or company profile identifies a more precise publisher/developer/operator site.（一致語: 事前登録）",
-        "confidence": 0.64,
-        "rule_id": "observed_sao_memory_defrag_bandai_namco_minato_tokyo_201801",
-        "matched_text": "事前登録",
         "match_source": "known_place_title"
       }
     },
@@ -11950,6 +11896,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          139.7516,
+          35.6581
+        ]
+      },
+      "properties": {
+        "title": "【ガールズバンドクライ First Riff】配信日・事前登録特典・最新情報まとめ - 電撃オンライン",
+        "source": "電撃オンライン",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8wdmFpU1NRdDJzUUt1OWpFRVUxVUt2bzM3ZW45TDdveS1IcU9RWXV6cU40X3lsbVFzMnFiM09RWGZ5b0YyUVdJLVg5aVR2N2hMcFFxOF9xa1B5UQ?oc=5",
+        "published_at": "2025-10-21T07:00:00+00:00",
+        "representative_place": "Bandai Namco Entertainment / Minato, Tokyo representative",
+        "place_label": "日本-東京都-港区-Bandai Namco Entertainment / SAO Memory Defrag",
+        "sort_place_label": "日本-東京都-港区-Bandai Namco Entertainment / SAO Memory Defrag",
+        "geocode_query": "Bandai Namco Entertainment Minato Tokyo Sword Art Online Memory Defrag",
+        "place_type": "mobile_game_publisher_district_representative_uncertain_title_team",
+        "location_precision": "district",
+        "place_reason": "The legacy active entry treated the Sword Art Online Memory Defrag preregistration item as a broad Japan mobile-game launch-market topic. Recheck confirmed the game as a Bandai Namco Entertainment mobile title, and public company context places Bandai Namco Entertainment in Minato, Tokyo after its 2016 move. This override therefore moves the article from a Japan country representative point to a Minato, Tokyo publisher-context representative point. This is not a confirmed title-team office, article venue, exact Bandai Namco Entertainment office coordinate, or media office; replace it if the article body, official game page, store page, or company profile identifies a more precise publisher/developer/operator site.（一致語: 事前登録）",
+        "confidence": 0.64,
+        "rule_id": "observed_sao_memory_defrag_bandai_namco_minato_tokyo_201801",
+        "matched_text": "事前登録",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           103.7873,
           1.2992
         ]
@@ -12733,6 +12706,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          139.7516,
+          35.6581
+        ]
+      },
+      "properties": {
+        "title": "アニメ「フェアリーテイル」のスマホ向け新作ゲーム「FAIRY TAIL 魔導士クロニクル」が2025年冬に配信！事前登録がスタート - Gamer",
+        "source": "Gamer",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1fcDcxS0xuQjlScmdFOGNKdGtOOXAxUXpmZ0hPc21fVGxrNWk3LW9WS0ZFMDVFdTJjU0ExVm9UcUdSNVV2MEE3RVpjRVRlSzZUUWVsXw?oc=5",
+        "published_at": "2025-08-06T07:00:00+00:00",
+        "representative_place": "Bandai Namco Entertainment / Minato, Tokyo representative",
+        "place_label": "日本-東京都-港区-Bandai Namco Entertainment / SAO Memory Defrag",
+        "sort_place_label": "日本-東京都-港区-Bandai Namco Entertainment / SAO Memory Defrag",
+        "geocode_query": "Bandai Namco Entertainment Minato Tokyo Sword Art Online Memory Defrag",
+        "place_type": "mobile_game_publisher_district_representative_uncertain_title_team",
+        "location_precision": "district",
+        "place_reason": "The legacy active entry treated the Sword Art Online Memory Defrag preregistration item as a broad Japan mobile-game launch-market topic. Recheck confirmed the game as a Bandai Namco Entertainment mobile title, and public company context places Bandai Namco Entertainment in Minato, Tokyo after its 2016 move. This override therefore moves the article from a Japan country representative point to a Minato, Tokyo publisher-context representative point. This is not a confirmed title-team office, article venue, exact Bandai Namco Entertainment office coordinate, or media office; replace it if the article body, official game page, store page, or company profile identifies a more precise publisher/developer/operator site.（一致語: 事前登録）",
+        "confidence": 0.64,
+        "rule_id": "observed_sao_memory_defrag_bandai_namco_minato_tokyo_201801",
+        "matched_text": "事前登録",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           139.7289,
           35.6158
         ]
@@ -13427,6 +13427,33 @@
         "confidence": 0.24,
         "rule_id": "game_all_20260709_video_games_cost_day_wages_bbc_london_rep_202506",
         "matched_text": "'New video games cost me a whole day's wages' - BBC",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1551,
+          30.2741
+        ]
+      },
+      "properties": {
+        "title": "If NetEase Is Going To Keep Copying Games, Could It Please Stop Making Them So Damn Boring - TheGamer",
+        "source": "TheGamer",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMGhMc1JZcldjVElETXRQcDdVUHRxSWNfNFFQTG9CVG9hdnd0VjRsRDB4bW5RSmtrdEFvWktRWTZfc09vNkhBaldmT0Vka3lkTnhCLS15cmtNR3Y4ay1oWWZLUERFU2VIVXdIZVZEZkNLakFrY0VfRGxkSGtFaUhEeGtnZy12SG5nVXc?oc=5",
+        "published_at": "2025-06-27T07:00:00+00:00",
+        "representative_place": "NetEase Games / Hangzhou representative",
+        "place_label": "中国-浙江省-杭州市",
+        "sort_place_label": "中国-浙江省-杭州市",
+        "geocode_query": "NetEase Games Hangzhou copying games TheGamer opinion",
+        "place_type": "game_company_opinion_article_city_representative_uncertain_office",
+        "location_precision": "city",
+        "place_reason": "The generated unresolved item is an opinion article centered on NetEase and game-copying criticism. Use NetEase Games / Hangzhou as the company-side representative rather than TheGamer's source location or a broad China point. This is not an exact office coordinate or development-site claim for a particular game.（一致語: If NetEase Is Going To Keep Copying Games, Could It Please Stop Making Them So Damn Boring - TheGamer）",
+        "confidence": 0.58,
+        "rule_id": "game_all_20260709_netease_copying_games_hangzhou_rep_202506",
+        "matched_text": "If NetEase Is Going To Keep Copying Games, Could It Please Stop Making Them So Damn Boring - TheGamer",
         "match_source": "known_place_title"
       }
     },
@@ -15155,33 +15182,6 @@
         "confidence": 0.46,
         "rule_id": "game_all_20260709_turkiye_gaming_ecosystem_istanbul_rep_202501",
         "matched_text": "Türkiye’s gaming ecosystem emerges as new powerhouse in global industry - Anadolu Ajansı",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.9842,
-          14.5995
-        ]
-      },
-      "properties": {
-        "title": "Video games in 2024: The ‘Tetris’ beater, ‘Palworld’ hype, PH’s ‘Until Then’ - Rappler",
-        "source": "Rappler",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbHVZTjlmSndOcmdleThiQUtSd1RiZFpUOHNMSVlvcHlFdno2M1Jubk1HdkhRUEFvZExLbk52dXZjSWVjaDNXR053Qnc4RGdYTlBXUmhzNHFWY3c5T19IUHJVYTFGTnFlNlA5LUpXeTgtUU9wY0Vld0M2MTBsMUVaSXRoSDlaQVhyeE1Ob0lPZkpBcDA4a0lrXzVPREQxbHdXN1ZXU0lXam5lWnc?oc=5",
-        "published_at": "2024-12-16T08:00:00+00:00",
-        "representative_place": "Philippine games 2024 roundup / Manila representative",
-        "place_label": "フィリピン-マニラ首都圏-マニラ",
-        "sort_place_label": "フィリピン-マニラ首都圏-マニラ",
-        "geocode_query": "Rappler video games 2024 Philippines Until Then Manila representative",
-        "place_type": "year_end_game_roundup_city_representative_uncertain_subject_location",
-        "location_precision": "city",
-        "place_reason": "The generated unresolved item is a year-end games roundup that includes the Philippine title Until Then. The unresolved record does not expose one studio, event, or exact city, so use Manila as a low-confidence Philippine games representative rather than the source alone or an arbitrary global title from the roundup. This is not an exact development site.（一致語: Video games in 2024: The ‘Tetris’ beater, ‘Palworld’ hype, PH’s ‘Until Then’ - Rappler）",
-        "confidence": 0.36,
-        "rule_id": "game_all_20260709_rappler_video_games_2024_until_then_manila_rep_202412",
-        "matched_text": "Video games in 2024: The ‘Tetris’ beater, ‘Palworld’ hype, PH’s ‘Until Then’ - Rappler",
         "match_source": "known_place_title"
       }
     },
@@ -17863,6 +17863,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          116.4074,
+          39.9042
+        ]
+      },
+      "properties": {
+        "title": "ByteDance restructures Nuverse in retreat from game development and publishing - Niko Partners",
+        "source": "Niko Partners",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOVVRWFRKQUpfQnNCVWZUZ1FHYjhxbU9nQTdDaVZmekwxS204MTg0NGMyS29mTlk2MUtNVUFfd0pGQkNYSnNzSURCT0RITEI0NmRQanpmNXVfV2RtaXJ2QTduRTllVEpfV2dGc0pOd2dkMkh1bTNLVnpKWDJLSHZZQ2xrZEN2aHZkOEFsQW1fTk1Yd21IQWR0dHh2VGlncjh6b3lJMEpsTQ?oc=5",
+        "published_at": "2023-12-04T08:00:00+00:00",
+        "representative_place": "ByteDance / Nuverse Beijing representative",
+        "place_label": "中国-北京市-ByteDance / Nuverse restructuring",
+        "sort_place_label": "中国-北京市-ByteDance / Nuverse restructuring",
+        "geocode_query": "ByteDance Nuverse headquarters Beijing China",
+        "place_type": "game_business_restructuring_company_representative",
+        "location_precision": "city",
+        "place_reason": "The Niko Partners RSS item is about ByteDance restructuring Nuverse and retreating from game development and publishing. The main place-bearing subject is ByteDance / Nuverse rather than the article publisher or a regional market. External confirmation identifies ByteDance as headquartered in Beijing; Nuverse is ByteDance's games business unit. Because a separate stable Nuverse office address was not confirmed in this pass, Beijing is used as the parent-company representative point. Replace if a public Nuverse headquarters or article-specific restructuring office is confirmed.（一致語: ByteDance restructures Nuverse in retreat from game development and publishing - Niko Partners）",
+        "confidence": 0.74,
+        "rule_id": "observed_bytedance_nuverse_restructuring_beijing_202312",
+        "matched_text": "ByteDance restructures Nuverse in retreat from game development and publishing - Niko Partners",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           140.035,
           35.647
         ]
@@ -18017,6 +18044,33 @@
         "confidence": 0.3,
         "rule_id": "game_all_20260709_europe_video_games_industry_brussels_202310",
         "matched_text": "The video games industry in Europe: current situation, issues and prospects - Fondation Robert Schuman",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4194,
+          37.7749
+        ]
+      },
+      "properties": {
+        "title": "Clash of Clans: Tips & Tricks From Pro-gamers in Nigeria, Africa’s Largest Gaming Community - IGN Africa",
+        "source": "IGN Africa",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUFhWQlZrd2NaSUt1emlMeG5GTVJvTWNFTXBEMlV0ZURsZWdidVhLZ21YZXJyR25PRGV1WFFHYlZVd3lMQVJFMTVINnVRYWxSaVJ3RjhBalVXU3V3bGViT2lEOTVCbWVuUlhzeHQ4X2diVmhQSVNvMVNWbG50RDRsZmhVVldyTTl4MVppSFlZMVF0VHlCc1NhSlR2dy1nbXFrRjYwdWFmWkdRbTVqYkFxdDRxaE5xUmJ5OEduREM5VmdxNnA1aFJHTS1QZHI1RVE0?oc=5",
+        "published_at": "2023-10-20T07:00:00+00:00",
+        "representative_place": "Unity / San Francisco",
+        "place_label": "米国-カリフォルニア州-サンフランシスコ-Unity",
+        "sort_place_label": "米国-カリフォルニア州-サンフランシスコ-Unity",
+        "geocode_query": "Unity Technologies San Francisco California United States",
+        "place_type": "game_technology_company_site",
+        "location_precision": "city",
+        "place_reason": "UnityによるSupersonic売却・ironSource Ads Network終了の記事なので、広告ネットワーク一般ではなく意思決定主体Unityの本社都市San Franciscoに置く。（一致語: Unity）",
+        "confidence": 0.74,
+        "rule_id": "observed_unity_supersonic_ironsource_san_francisco_202603",
+        "matched_text": "Unity",
         "match_source": "known_place_title"
       }
     },
@@ -18341,6 +18395,33 @@
         "confidence": 0.36,
         "rule_id": "game_all_20260709_pinoy_indie_games_educate_manila_202308",
         "matched_text": "These Pinoy Indie Games prove that gaming can also educate audiences",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9842,
+          14.5995
+        ]
+      },
+      "properties": {
+        "title": "Gaming god? These Filipino mythology-inspired games can make you one - INQUIRER.net USA",
+        "source": "INQUIRER.net USA",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQnlheXdwcWFlZEJsc2JZdUFuRWhmLTFhS1lyenZtNTYxeWppblZKTFNtc2dGUUF2Tm1pRnlUR0xHRTBvWXBJSmM3T0xSVXB3VE9pa1hIbUV3OWQ1dWFvYVdMWUduY3dqNnJFWTFSNlNpWlBEdTV4X1V5NGZJekttaFZGVWROa0dGVEh6d2lMQldJeV83TmZLLVZvaktRR2xM?oc=5",
+        "published_at": "2023-08-24T07:00:00+00:00",
+        "representative_place": "Filipino mythology-inspired games / Manila representative",
+        "place_label": "フィリピン-マニラ首都圏-マニラ",
+        "sort_place_label": "フィリピン-マニラ首都圏-マニラ",
+        "geocode_query": "Filipino mythology inspired games Manila representative",
+        "place_type": "national_game_culture_roundup_city_representative_uncertain_subject_location",
+        "location_precision": "city",
+        "place_reason": "The generated unresolved item is a Philippine games/culture roundup about mythology-inspired games. The unresolved record does not expose one studio, developer city, or specific title as the article focus, so use Manila as a low-confidence Philippine cultural-games representative. This is not an exact studio or setting coordinate.（一致語: Gaming god? These Filipino mythology-inspired games can make you one - INQUIRER.net USA）",
+        "confidence": 0.36,
+        "rule_id": "game_all_20260709_filipino_mythology_inspired_games_manila_202308",
+        "matched_text": "Gaming god? These Filipino mythology-inspired games can make you one - INQUIRER.net USA",
         "match_source": "known_place_title"
       }
     },
@@ -19375,33 +19456,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.8219,
-          -1.2921
-        ]
-      },
-      "properties": {
-        "title": "How A Kenyan Startup (Plus Donald Trump) Is Lifting Africa’s Gaming Industry - WeeTracker",
-        "source": "WeeTracker",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5rMXNvS19NZlJ4M0t6cVlUVXVhRTQzRjAzUlVneVRlQk9ZVVRzYkdjWmdpZDBha0tKQlhWWU53dTY1UWtRR2E4TWtkYzUzeUJ0Q2twRk1sa2FBVllWRTYzQUJZSzRpcjVyMjJSdjgyM1NuN19NU1E?oc=5",
-        "published_at": "2022-09-08T07:00:00+00:00",
-        "representative_place": "Kenyan gaming startup / Nairobi representative",
-        "place_label": "ケニア-ナイロビ",
-        "sort_place_label": "ケニア-ナイロビ",
-        "geocode_query": "Kenyan startup lifting Africa gaming industry Nairobi representative WeeTracker",
-        "place_type": "game_startup_profile_city_representative_uncertain_company_location",
-        "location_precision": "city",
-        "place_reason": "The generated unresolved item is centered on a Kenyan startup lifting Africa's gaming industry. The unresolved record does not expose the startup name or exact office, so use Nairobi as a conservative Kenya startup representative rather than a broad Africa point or WeeTracker source location. This is not an exact company coordinate.（一致語: How A Kenyan Startup (Plus Donald Trump) Is Lifting Africa’s Gaming Industry - WeeTracker）",
-        "confidence": 0.46,
-        "rule_id": "game_all_20260709_kenyan_startup_africa_gaming_nairobi_202209",
-        "matched_text": "How A Kenyan Startup (Plus Donald Trump) Is Lifting Africa’s Gaming Industry - WeeTracker",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           24.9384,
           60.1699
         ]
@@ -19556,33 +19610,6 @@
         "confidence": 0.42,
         "rule_id": "game_all_20260709_krafton_india_investment_bengaluru_202207",
         "matched_text": "Krafton invests over $100M in India, expands beyond games - TechCrunch",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.7516,
-          35.6581
-        ]
-      },
-      "properties": {
-        "title": "NetEase Gamesの新作モン娘RPG『クローバーシアター』が8月3日に配信決定 - ASCII.jp",
-        "source": "ASCII.jp",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5wakEzN2haVk0zdE9ORUpjZlNNRmlNQklMcGNuV0pFak5QaVc4a3RSSmZ1UU9Lek82aXhrUXcwTDdJV2hNNVpuUEZnbUVDbDB0bXl5bg?oc=5",
-        "published_at": "2022-07-21T07:00:00+00:00",
-        "representative_place": "Bandai Namco Entertainment / Minato, Tokyo representative",
-        "place_label": "日本-東京都-港区-Bandai Namco Entertainment / SAO Memory Defrag",
-        "sort_place_label": "日本-東京都-港区-Bandai Namco Entertainment / SAO Memory Defrag",
-        "geocode_query": "Bandai Namco Entertainment Minato Tokyo Sword Art Online Memory Defrag",
-        "place_type": "mobile_game_publisher_district_representative_uncertain_title_team",
-        "location_precision": "district",
-        "place_reason": "The legacy active entry treated the Sword Art Online Memory Defrag preregistration item as a broad Japan mobile-game launch-market topic. Recheck confirmed the game as a Bandai Namco Entertainment mobile title, and public company context places Bandai Namco Entertainment in Minato, Tokyo after its 2016 move. This override therefore moves the article from a Japan country representative point to a Minato, Tokyo publisher-context representative point. This is not a confirmed title-team office, article venue, exact Bandai Namco Entertainment office coordinate, or media office; replace it if the article body, official game page, store page, or company profile identifies a more precise publisher/developer/operator site.（一致語: 配信決定）",
-        "confidence": 0.64,
-        "rule_id": "observed_sao_memory_defrag_bandai_namco_minato_tokyo_201801",
-        "matched_text": "配信決定",
         "match_source": "known_place_title"
       }
     },
@@ -19961,33 +19988,6 @@
         "confidence": 0.36,
         "rule_id": "game_all_20260709_filipina_gamers_safe_spaces_manila_202203",
         "matched_text": "7 communities and safe spaces for Filipina gamers - speed.ph",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.1297,
-          47.6401
-        ]
-      },
-      "properties": {
-        "title": "Microsoft PC Game Pass preview starts in Philippines, 4 other SEA countries - Rappler",
-        "source": "Rappler",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaEc4dUt2TXk1cS1CY0ZWWExKZ2dJT0tpU2pjbEd5Q1hEWjRodTVDbmVwYjd2WlNwSXlxckxJMlI0NUEtdEZkQVcxTnFaNDdPTzZEaVZMZG10eTdhU2FRUWJDc0x6SWhCQTUzNVJVR2hkVjZyNHJfZ1prU2FpZTc0TGlYRmI5RzVIUGJIZ082MnI0MVRZUGVSaUJReU9OMkIycWc?oc=5",
-        "published_at": "2022-03-29T07:00:00+00:00",
-        "representative_place": "Microsoft / One Microsoft Way Redmond campus",
-        "place_label": "米国-ワシントン州-レドモンド-One Microsoft Way-Microsoft Gaming/Xbox",
-        "sort_place_label": "米国-ワシントン州-レドモンド-One Microsoft Way-Microsoft Gaming/Xbox",
-        "geocode_query": "One Microsoft Way Redmond WA Microsoft Xbox",
-        "place_type": "platform_company_site",
-        "location_precision": "exact_site",
-        "place_reason": "Microsoft/Xbox PC Game Pass regional availability articles anchored to Microsoft Redmond. Microsoft, Xbox, Game Pass, PC Game Pass, country names, and SEA standalone terms are not used as triggers.（一致語: Microsoft PC Game Pass preview starts in Philippines, 4 other SEA countries - Rappler）",
-        "confidence": 0.78,
-        "rule_id": "observed_xbox_game_pass_sea_launch_redmond_202203",
-        "matched_text": "Microsoft PC Game Pass preview starts in Philippines, 4 other SEA countries - Rappler",
         "match_source": "known_place_title"
       }
     },
@@ -20663,6 +20663,33 @@
         "confidence": 0.64,
         "rule_id": "observed_bytedance_tencent_feud_small_studios_beijing_202104",
         "matched_text": "ByteDance-Tencent feud a boon to small gaming studios - South China Morning Post",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7873,
+          1.2992
+        ]
+      },
+      "properties": {
+        "title": "‘After School Afterlife’ Mixes Platforming and Rhythm Gameplay With Peranakan Aesthetics - IGN Southeast Asia",
+        "source": "IGN Southeast Asia",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbGF1X3oxS1E4MThTMHpnRUoxX3JXWEFfYnc2SGJ2YnRnTnF6Q0NxM2dWekhITkJnN1ZCLTdjei1YalpReU1ycWozYjVvSXpCNzFSQmRsZmwxdjREUUVJYmZoNlZMNko4bl9ubUtxd1dKQURVNlR5NjZlQjlmREp1bmdodm9nSjNXMGJ3S0g1dFhSbi16Q0p5dS04LTJTcUxmaGJ6QUFoci0zVUFSVHIybjN2X21BRVVQblFkdWVNUmxFc0ZCd2lBcDBRb0RnZw?oc=5",
+        "published_at": "2021-04-21T07:00:00+00:00",
+        "representative_place": "Virtuos / Fusionopolis, Singapore",
+        "place_label": "シンガポール-Fusionopolis-Virtuos",
+        "sort_place_label": "シンガポール-Fusionopolis-Virtuos",
+        "geocode_query": "Virtuos Fusionopolis Singapore",
+        "place_type": "game_services_company_site",
+        "location_precision": "city_district",
+        "place_reason": "Virtuosの東南アジア開発体制に関する記事なので、地域代表点ではなく同社本社所在地であるSingapore / Fusionopolisに置く。（一致語: Southeast Asia）",
+        "confidence": 0.78,
+        "rule_id": "observed_virtuos_southeast_asia_singapore_202512",
+        "matched_text": "Southeast Asia",
         "match_source": "known_place_title"
       }
     },
