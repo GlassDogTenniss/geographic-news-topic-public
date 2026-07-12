@@ -1,7 +1,7 @@
 {
   "type": "FeatureCollection",
   "properties": {
-    "created_at": "2026-07-12T16:04:37.179322+00:00",
+    "created_at": "2026-07-12T17:59:30.446260+00:00",
     "count": 112,
     "stats": {
       "feed_id": "game-general",
@@ -13,16 +13,16 @@
         "https://news.google.com/rss/search?q=%E4%BB%BB%E5%A4%A9%E5%A0%82%20PlayStation%20Xbox%20Steam%20%E3%82%B2%E3%83%BC%E3%83%A0&hl=ja&gl=JP&ceid=JP:ja"
       ],
       "rss_url": "https://news.google.com/rss/search?q=video%20games%20gaming%20news%20Nintendo%20PlayStation%20Xbox%20Steam&hl=en&gl=US&ceid=US:en",
-      "fetched": 287,
+      "fetched": 286,
       "fetched_by_url": {
         "https://news.google.com/rss/search?q=video%20games%20gaming%20news%20Nintendo%20PlayStation%20Xbox%20Steam&hl=en&gl=US&ceid=US:en": 75,
         "https://news.google.com/rss/search?q=game%20release%20update%20Nintendo%20PlayStation%20Xbox%20Steam&hl=en&gl=US&ceid=US:en": 74,
         "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%20%E6%96%B0%E4%BD%9C%20Switch%20PS5%20Xbox%20Steam&hl=ja&gl=JP&ceid=JP:ja": 76,
-        "https://news.google.com/rss/search?q=%E4%BB%BB%E5%A4%A9%E5%A0%82%20PlayStation%20Xbox%20Steam%20%E3%82%B2%E3%83%BC%E3%83%A0&hl=ja&gl=JP&ceid=JP:ja": 78
+        "https://news.google.com/rss/search?q=%E4%BB%BB%E5%A4%A9%E5%A0%82%20PlayStation%20Xbox%20Steam%20%E3%82%B2%E3%83%BC%E3%83%A0&hl=ja&gl=JP&ceid=JP:ja": 77
       },
-      "filtered": 254,
+      "filtered": 253,
       "resolved": 112,
-      "unresolved": 142,
+      "unresolved": 141,
       "rules": 384,
       "known_places": 1357,
       "loaded_data_files": [
@@ -1423,7 +1423,7 @@
         "title": "【無料】『DbD』PS、Xbox、Steam版のフリートライアル開催。ホラー界のレジェンド“ジェイソン”が実装され、同時接続プレイヤー数は過去最大の25万人を突破 - famitsu.com",
         "source": "famitsu.com",
         "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBidkhuSzZENG1SaWZwNHdiaHI5dTBxZjBMVUVudUo4NG1Kb255XzdVeXNWNVpxRHI4VDZsNTIzMnJRZWNKbVRaUmkwMkhRcEZPLXhfTVZPaw?oc=5",
-        "published_at": "2026-06-16T07:00:00+00:00",
+        "published_at": "2026-06-17T07:00:00+00:00",
         "representative_place": "Valhalla Game Studios / Tokyo",
         "place_label": "日本-東京-Valhalla Game Studios / RockShot",
         "sort_place_label": "日本-東京-Valhalla Game Studios / RockShot",
@@ -2824,8 +2824,35 @@
         ]
       },
       "properties": {
-        "title": "Random: Steam's Brand New Game Console Sure Looks Awfully Familiar - nintendolife.com",
-        "source": "nintendolife.com",
+        "title": "Steam Machine just put the PS5 and Xbox on notice – if Valve nails one more thing - The Shortcut | Matt Swider",
+        "source": "The Shortcut | Matt Swider",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWU1FV1lyR1g1QVpzVjh6SmlBWThmNjNPM0ctdzFCd21zQVpBQlR5RmZhcVBYYjY4TW5FNHo4Ym9UWnZuR2RpMUlld1pfRkQwbVNORG1ybkNDSk9pOHVDUS00Sk1ZbnNsNFpOaGFFRHVYV2dlV0RmdFBDSXp0U1hoeGlzTjMxcHdoQ0s2ODNTME1oc25mTURBTFBHZWlQT1diSDg1aEF6dzd3WkkzOUE?oc=5",
+        "published_at": "2025-11-13T08:00:00+00:00",
+        "representative_place": "Valhalla Game Studios / Tokyo",
+        "place_label": "日本-東京-Valhalla Game Studios / RockShot",
+        "sort_place_label": "日本-東京-Valhalla Game Studios / RockShot",
+        "geocode_query": "Valhalla Game Studios Tokyo RockShot",
+        "place_type": "game_development_studio_announcement_city_uncertain_office",
+        "location_precision": "city",
+        "place_reason": "The legacy active entry treated the RockShot / Devil's Third developer item as a broad launch-market and access-restriction topic. A later repository entry for the same article already anchors the development subject to Valhalla Game Studios in Tokyo. This override aligns the older multi-region entry with the later same-topic Tokyo studio representative. This is not a confirmed exact Valhalla Game Studios office address, Steam distribution endpoint, media office, or article venue; replace it if the article body or an official company source identifies a more precise studio location.（一致語: Steam）",
+        "confidence": 0.62,
+        "rule_id": "observed_rockshot_valhalla_game_studios_tokyo_legacy_201805",
+        "matched_text": "Steam",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6503,
+          35.6762
+        ]
+      },
+      "properties": {
+        "title": "Random: Steam's Brand New Game Console Sure Looks Awfully Familiar - Nintendo Life",
+        "source": "Nintendo Life",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOElrQ2ZhUGFwcWJjaE9jZHRjbWQwbjk1bEVBeXpnVy0yak9BckZua1FoZ0FCWVh4b0x3bW9Qd2tnSjZ6YkwzYXl3bzhfdnhXRmxJTThDeExCRWFQM3RNSjM4R1hpM3ByVVdwbWE0VWFHRm1aUUlnRHkxV2dSNjNnQ3dpeV9ZWTM0SEMxVXljOWtCVkJyQVE2cWs5ejFSU3VORlB0ZjVPNlZ4UQ?oc=5",
         "published_at": "2025-11-12T08:00:00+00:00",
         "representative_place": "Valhalla Game Studios / Tokyo",
@@ -4043,33 +4070,6 @@
         "source": "Comfy Cozy Gaming",
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9hTW5lOTlSZHR1MEJQdUFkaHV1alU0eWFEWEdLZ1M5WjdvMFVFUy1sc3Z6bmRDY01sYl9tbHBIOXhTNTYyX0lVRW81ZWNpUFVtQktNUVVlV01XbFBVV01yTG9CRHh4S1p2WjZ4OXNlR3l1NVY5R3lhYw?oc=5",
         "published_at": "2024-05-17T07:00:00+00:00",
-        "representative_place": "Valhalla Game Studios / Tokyo",
-        "place_label": "日本-東京-Valhalla Game Studios / RockShot",
-        "sort_place_label": "日本-東京-Valhalla Game Studios / RockShot",
-        "geocode_query": "Valhalla Game Studios Tokyo RockShot",
-        "place_type": "game_development_studio_announcement_city_uncertain_office",
-        "location_precision": "city",
-        "place_reason": "The legacy active entry treated the RockShot / Devil's Third developer item as a broad launch-market and access-restriction topic. A later repository entry for the same article already anchors the development subject to Valhalla Game Studios in Tokyo. This override aligns the older multi-region entry with the later same-topic Tokyo studio representative. This is not a confirmed exact Valhalla Game Studios office address, Steam distribution endpoint, media office, or article venue; replace it if the article body or an official company source identifies a more precise studio location.（一致語: Steam）",
-        "confidence": 0.62,
-        "rule_id": "observed_rockshot_valhalla_game_studios_tokyo_legacy_201805",
-        "matched_text": "Steam",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.6503,
-          35.6762
-        ]
-      },
-      "properties": {
-        "title": "すごろく型ボードゲーム『鬼滅の刃 目指せ！最強隊士！』PS、Xbox、Steam版が7月17日に発売決定。無料アプデで全プラットフォームにカナヲも追加 - famitsu.com",
-        "source": "famitsu.com",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9oN2FBTW1oOXV0UXA0NWZSZDlCYmxJSnRpbW83N09tX0s1SUY1TWVoeE1NQ2VJbjFhajJfekk5RVpqeDdsWE9PV0xRMmxSMUNmeHlZVEJ3?oc=5",
-        "published_at": "2024-05-13T07:00:00+00:00",
         "representative_place": "Valhalla Game Studios / Tokyo",
         "place_label": "日本-東京-Valhalla Game Studios / RockShot",
         "sort_place_label": "日本-東京-Valhalla Game Studios / RockShot",
