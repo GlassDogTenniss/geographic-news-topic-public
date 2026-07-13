@@ -1,8 +1,8 @@
 {
   "type": "FeatureCollection",
   "properties": {
-    "created_at": "2026-07-12T23:56:25.726501+00:00",
-    "count": 22,
+    "created_at": "2026-07-13T03:29:02.004404+00:00",
+    "count": 21,
     "stats": {
       "feed_id": "google-news-disaster-ja",
       "feed_label": "Google News: 災害・地震・大雨",
@@ -10,13 +10,13 @@
         "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja"
       ],
       "rss_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja",
-      "fetched": 76,
+      "fetched": 75,
       "fetched_by_url": {
-        "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja": 76
+        "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja": 75
       },
-      "filtered": 69,
-      "resolved": 22,
-      "unresolved": 47,
+      "filtered": 67,
+      "resolved": 21,
+      "unresolved": 46,
       "rules": 384,
       "known_places": 1357,
       "loaded_data_files": [
@@ -1687,33 +1687,6 @@
         "confidence": 0.44,
         "rule_id": "disaster_202308_line_works_disaster_information_sharing",
         "matched_text": "豪雨、台風、地震…災害対応で問われる情報共有 復旧や応援にLINE WORKSの活用広がる[Sponsored] - 産経ニュース",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.803,
-          34.914
-        ]
-      },
-      "properties": {
-        "title": "【京都大防災研から】大雨の時は土砂災害や氾濫リスクに備えてください - 読売新聞",
-        "source": "読売新聞",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1qWVRuT0lMQkxCemJiUmxpLUYzS3B6TUlCaHlDNlJ4SFJnbS1kdDdXeHNTTXN5Zms5MU4yZ1VuVEdkb2Vocjc1ei1MNkZNblhIUVJNY1dONzRPMFQ2WXA1Mw?oc=5",
-        "published_at": "2022-09-10T07:00:00+00:00",
-        "representative_place": "Kyoto University Disaster Prevention Research Institute / Uji representative",
-        "place_label": "日本-京都府-宇治市-京都大学防災研究所-大雨リスク解説代表点",
-        "sort_place_label": "日本-京都府-宇治市-京都大学防災研究所-大雨リスク解説代表点",
-        "geocode_query": "Kyoto University Disaster Prevention Research Institute Uji Kyoto heavy rain landslide flood risk",
-        "place_type": "institution_expert_article_representative",
-        "location_precision": "institution_building_area",
-        "place_reason": "The title explicitly frames the article as coming from Kyoto University's Disaster Prevention Research Institute. This is an expert/institution article rather than an event-site disaster report, so use the DPRI/Uji institutional representative rather than Yomiuri's publisher office or an arbitrary flood/landslide location.（一致語: 【京都大防災研から】大雨の時は土砂災害や氾濫リスクに備えてください - 読売新聞）",
-        "confidence": 0.7,
-        "rule_id": "disaster_yomiuri_kyoto_university_dpri_heavy_rain_risk_article",
-        "matched_text": "【京都大防災研から】大雨の時は土砂災害や氾濫リスクに備えてください - 読売新聞",
         "match_source": "known_place_title"
       }
     },

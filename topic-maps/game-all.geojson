@@ -1,8 +1,8 @@
 {
   "type": "FeatureCollection",
   "properties": {
-    "created_at": "2026-07-12T23:56:25.726501+00:00",
-    "count": 831,
+    "created_at": "2026-07-13T03:29:02.004404+00:00",
+    "count": 796,
     "stats": {
       "feed_id": "game-all",
       "feed_label": "ゲーム",
@@ -28,7 +28,7 @@
         "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja"
       ],
       "rss_url": "https://www.gamedeveloper.com/rss.xml",
-      "fetched": 996,
+      "fetched": 989,
       "fetched_by_url": {
         "https://www.gamedeveloper.com/rss.xml": 50,
         "https://www.gamesindustry.biz/feed": 100,
@@ -41,18 +41,18 @@
         "https://www.kakuchopurei.com/feed/": 10,
         "https://www.afkgaming.com/feed": 0,
         "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20India&hl=en-IN&gl=IN&ceid=IN:en": 79,
-        "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Philippines&hl=en-PH&gl=PH&ceid=PH:en": 77,
+        "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Philippines&hl=en-PH&gl=PH&ceid=PH:en": 76,
         "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Eastern%20Europe&hl=en&gl=PL&ceid=PL:en": 78,
-        "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Africa&hl=en&gl=ZA&ceid=ZA:en": 78,
-        "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Southeast%20Asia&hl=en-SG&gl=SG&ceid=SG:en": 78,
+        "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Africa&hl=en&gl=ZA&ceid=ZA:en": 72,
+        "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Southeast%20Asia&hl=en-SG&gl=SG&ceid=SG:en": 77,
         "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA&hl=ja&gl=JP&ceid=JP:ja": 71,
-        "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja": 79,
+        "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja": 78,
         "https://news.google.com/rss/search?q=%E6%B5%B7%E5%A4%96%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA&hl=ja&gl=JP&ceid=JP:ja": 76,
         "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja": 79
       },
-      "filtered": 895,
-      "resolved": 831,
-      "unresolved": 64,
+      "filtered": 887,
+      "resolved": 796,
+      "unresolved": 91,
       "rules": 384,
       "known_places": 1357,
       "loaded_data_files": [
@@ -5767,33 +5767,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          127.1389,
-          37.4449
-        ]
-      },
-      "properties": {
-        "title": "ネオウィズ、インディゲーム『ワインドアップデッドマン』のパブリッシング契約を締結 - jp.ajunews.com",
-        "source": "jp.ajunews.com",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MVlJwSjBhcm1lVXRUbDVVUGVuY0YxODBrVlhzRFVhMFB2eEVFOHRBYzdvVEY1ZzM0RmU2Q240b2NUOGNwSXlSaURYQm5rR2lXSFRZWXgtQUs0Q2c?oc=5",
-        "published_at": "2026-06-23T01:00:00+00:00",
-        "representative_place": "NEOWIZ / Seongnam",
-        "place_label": "韓国-京畿道-城南市-NEOWIZ",
-        "sort_place_label": "韓国-京畿道-城南市-NEOWIZ",
-        "geocode_query": "NEOWIZ Seongnam South Korea",
-        "place_type": "publisher_site",
-        "location_precision": "city",
-        "place_reason": "ネオウィズのパブリッシング契約記事なので、韓国一般ではなくNEOWIZ本拠のSeongnamに置く。（一致語: ワインドアップデッドマン）",
-        "confidence": 0.8,
-        "rule_id": "observed_neowiz_wind_up_deadman_seongnam_202606",
-        "matched_text": "ワインドアップデッドマン",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -96.797,
           32.7767
         ]
@@ -7495,33 +7468,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.009,
-          37.3349
-        ]
-      },
-      "properties": {
-        "title": "Africa Has 349 Million Gamers. The App Store Is Failing Most of Them. - Business Insider Africa",
-        "source": "Business Insider Africa",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMFlZekNOcDZWaHJWTXk5VmNRMlR0alJ0cnR6czNNZ2Q5bFNfdUU0OTJpS3FxVzBPR2k4cXRyckJFbkQ2U3hrMnlyMG01bHhGSEtyUmhjM2JDV0ZKU2JpdEpOMjMxc1RRc1dQZE9BSHAwQzRBcWE4VnZhdG03Zi0wNnluazZvREtBR1RHTmVvN05sS2VHMkxQUFlEMUxSdFZKRDc5TmZ5MkZMT01JMjhlV1ZMMFJsdVlVeTZRdWplTE1jMUtW?oc=5",
-        "published_at": "2026-05-15T07:00:00+00:00",
-        "representative_place": "Apple App Store / Cupertino representative",
-        "place_label": "米国-カリフォルニア州-クパチーノ-Apple App Store代表点",
-        "sort_place_label": "米国-カリフォルニア州-クパチーノ-Apple App Store代表点",
-        "geocode_query": "Apple App Store Cupertino Africa 349 million gamers Business Insider Africa",
-        "place_type": "app_store_platform_policy_article_company_representative",
-        "location_precision": "city",
-        "place_reason": "Replaces the batch 1554 entry that used a non-accepted precision value. The article is an Africa-wide mobile-games market critique, but the explicit institutional subject is the App Store, represented by Apple/Cupertino rather than a non-point Africa label.（一致語: Africa Has 349 Million Gamers. The App Store Is Failing Most of Them. - Business Insider Africa）",
-        "confidence": 0.42,
-        "rule_id": "game_all_20260709_africa_app_store_failing_apple_cupertino_202605",
-        "matched_text": "Africa Has 349 Million Gamers. The App Store Is Failing Most of Them. - Business Insider Africa",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -78.7811,
           35.7915
         ]
@@ -8899,33 +8845,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          28.0473,
-          -26.2041
-        ]
-      },
-      "properties": {
-        "title": "Game on! Why a fast, reliable fibre internet connection is key to the success of SAʼs gaming landscape - ITWeb",
-        "source": "ITWeb",
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQdURaQTF1NG5acHZnLVh5SlR2TlAxWXAyTkJzMUgyYlliZHQ3SmhEQmJ2QXVtekQ4SUlDOEtMdUJ1X2tBN2FxNDgyWUN5dEZaZHlkajNfcHRSdUZVajNfQUFuUlBPMl9xNWhQelRrNTlfd3dZcUZQVE1GM0dzNjF0NVpPcHExUm1rUWtHdDBGV1Bvanc3UUx0ZEZWdEd6TURXVUlteGhJWkdOamlVVUZQVFhTaXU1eGlRV0lkdVB3WjgxbXU4QWo5UERDcFR4Q2xVNXFfOEFRckNrLTRjQUNQX213?oc=5",
-        "published_at": "2026-04-01T07:00:00+00:00",
-        "representative_place": "ITWeb / Johannesburg representative",
-        "place_label": "南アフリカ-ハウテン州-ヨハネスブルグ-ITWeb / SA gaming landscape article",
-        "sort_place_label": "南アフリカ-ハウテン州-ヨハネスブルグ-ITWeb / SA gaming landscape article",
-        "geocode_query": "ITWeb Johannesburg South Africa technology media",
-        "place_type": "media_market_article_representative_uncertain_subject_location",
-        "location_precision": "city",
-        "place_reason": "Google News RSS上のタイトルは、南アフリカのゲーム環境における安定した光回線の重要性を論じるITWeb記事。タイトル/要約から単一のゲーム会社、イベント会場、行政機関、通信事業者拠点などは確認できない。南アフリカ全体を扱う市場・インフラ記事として国土中心に置くより、発行主体であるITWebのJohannesburg拠点を低confidenceの代表地点にする。本文確認で特定の通信事業者、都市、調査主体、イベントが主題だと分かった場合は差し替える。（一致語: Game on! Why a fast, reliable fibre internet connection is key to the success of SAʼs gaming landscape - ITWeb）",
-        "confidence": 0.45,
-        "rule_id": "observed_sa_fibre_gaming_itweb_johannesburg_202604",
-        "matched_text": "Game on! Why a fast, reliable fibre internet connection is key to the success of SAʼs gaming landscape - ITWeb",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           126.978,
           37.5665
         ]
@@ -9520,33 +9439,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          18.4241,
-          -33.9249
-        ]
-      },
-      "properties": {
-        "title": "What's behind the big reaction to a new South African video game? - CBC",
-        "source": "CBC",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQnJVcUdvbEhLM3Z5ZDJuQ1lZVHBnczJwTHdBa2czSVB4c2lIMjdmd3VkcktnTFhoaG9jNGxGWHl6am1BQ1pjaVBMYXFYMzQxZkpjc0J2Z2M4MXlvNGtZY1VQcUdLa2RSOF8tbzRUWnFRT3Y2bElZS2hNS1lEVTVYc3pzdGlVYjh0SXVCTnF4dGR6b1d5Yl9pcXhyR0JKa0lQLWdZZURzNVRaTjB5?oc=5",
-        "published_at": "2026-03-18T07:00:00+00:00",
-        "representative_place": "Nyamakop / Cape Town",
-        "place_label": "南アフリカ-西ケープ州-ケープタウン-Nyamakop / Relooted",
-        "sort_place_label": "南アフリカ-西ケープ州-ケープタウン-Nyamakop / Relooted",
-        "geocode_query": "Nyamakop Cape Town South Africa",
-        "place_type": "studio_site",
-        "location_precision": "city",
-        "place_reason": "既存のRelooted / Nyamakop辞書では記事タイトルにRelootedやNyamakopが出ない別配信記事を拾えないため、looted artefactsを扱う南アフリカ製ゲーム記事として開発元Nyamakopの拠点Cape Townに置く。South African video game単独では広いため、記事固有タイトル語も併用する。（一致語: new South African video game）",
-        "confidence": 0.76,
-        "rule_id": "observed_relooted_south_african_video_game_cape_town_202604",
-        "matched_text": "new South African video game",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -121.9637,
           37.3699
         ]
@@ -9581,7 +9473,7 @@
       "properties": {
         "title": "NVIDIA introduces DLSS 5 for better game graphics - YugaTech",
         "source": "YugaTech",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWllmdFFmZFBZbXRvWjdleS01SHRtcVMxVkVvUTB3WHVYcUdnWXFRNFp2Z05iR2FzTXlSdm90VnhxemtLOHpQZm1EUk5MeUczbDFSd2RFRFRXNjNhdjBaTS10TGEwTUkzQ1NOQVg5SUNiUkRtTDdtbENlS3JJajNLYmVZdGZ0T0U?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdXgyRnlsdlRSQ09tS0RiX3FrUXUxOVBxdWJjOHMzSUlScXVONEMzLWRfZVRTZ1hwNVpUQ2tXd1pDY3BpSUtmWkpSREhYZDRFM0lUN2tKMTF2eDMxMGNrZUtuUGN1TTVLWlZTaTlKSl9pZ1ZuRXEwOFZIc0tiWGdRTEdZVGNDdXlRNnA5cS1JekpucWU0NWMwSDhR?oc=5",
         "published_at": "2026-03-17T07:00:00+00:00",
         "representative_place": "NVIDIA / 2788 San Tomas Expressway",
         "place_label": "USA-California-Santa Clara-2788 San Tomas Expressway-NVIDIA",
@@ -10087,33 +9979,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          28.0473,
-          -26.2041
-        ]
-      },
-      "properties": {
-        "title": "Africa Games Industry Report 95% of Users Play on Mobile - games.gg",
-        "source": "games.gg",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JWWQ0SVJpY1hOQnJ6NkhTOC1saXM0YmJwTTJMUDNIN3dWLW52ZWh0S3p5QmlzWjlwS3pSSm9lRzZlLXE0clVfRjJ0bTdWTEIteTFDSS1qRUtBbFdxdnRyc2tpc3ZXaGZ4MHdXNVRqTDQ4TVJuLWI1c3lEUXhnSTQ?oc=5",
-        "published_at": "2026-02-27T00:50:28+00:00",
-        "representative_place": "Africa games-industry report / Johannesburg representative",
-        "place_label": "南アフリカ-ヨハネスブルグ-アフリカゲーム市場代表点",
-        "sort_place_label": "南アフリカ-ヨハネスブルグ-アフリカゲーム市場代表点",
-        "geocode_query": "Africa Games Industry Report 95% users mobile Johannesburg representative",
-        "place_type": "regional_games_market_report_city_representative_uncertain",
-        "location_precision": "city",
-        "place_reason": "The item is a continent-wide market-report article, not a single studio or event. Johannesburg is used as a low-confidence African games/business hub representative to avoid a non-point Africa placement; this is not an exact report-production site.（一致語: Africa Games Industry Report 95% of Users Play on Mobile - games.gg）",
-        "confidence": 0.24,
-        "rule_id": "game_all_20260709_africa_games_industry_report_mobile_johannesburg_202602",
-        "matched_text": "Africa Games Industry Report 95% of Users Play on Mobile - games.gg",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           139.6503,
           35.6762
         ]
@@ -10600,33 +10465,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.8174,
-          35.6729
-        ]
-      },
-      "properties": {
-        "title": "「スマスロ 北斗の拳 転生の章2」事前登録開始！無料パチンコ・パチスロアプリ「777Real」で配信決定！ - PR TIMES",
-        "source": "PR TIMES",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBJY0t5eVAzSlVmRmRCeHk2MjhXODNhc3ZGY05VV0VzXzZqUDFienJ0M3ZILUZ0VDhERUo0aENaVVFTRzdmSm8wVGFoZ3R1LXJUQzNjYzJLWjE4c2JHcFZvUVNjSlVOMy1BYUE?oc=5",
-        "published_at": "2026-01-29T08:00:00+00:00",
-        "representative_place": "Crea-Tech / Koto, Tokyo representative",
-        "place_label": "日本-東京都-江東区-Crea-Tech / METAL MAX FIREWORKS",
-        "sort_place_label": "日本-東京都-江東区-Crea-Tech / METAL MAX FIREWORKS",
-        "geocode_query": "Crea-Tech Koto Tokyo Metal Max Fireworks",
-        "place_type": "mobile_game_developer_district_representative_uncertain_office",
-        "location_precision": "district",
-        "place_reason": "The legacy entry treated the METAL MAX FIREWORKS preregistration article as a generic Japan mobile-RPG launch-market topic. Recheck confirmed that Metal Max: Fireworks is part of the Metal Max series and is connected to Crea-Tech / Kadokawa development-publishing context; Crea-Tech is publicly described as based in Koto, Tokyo. This override therefore moves the topic from a Japan country representative point to a Koto, Tokyo developer-context representative point. This is not a confirmed article venue, exact Crea-Tech office address, Kadokawa office, or current operating-team site; replace it if the article body, official game site, store page, or company profile identifies a more precise development/publishing location.（一致語: 事前登録開始）",
-        "confidence": 0.66,
-        "rule_id": "observed_metal_max_fireworks_createch_koto_tokyo_201507",
-        "matched_text": "事前登録開始",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           139.7516,
           35.6581
         ]
@@ -10735,33 +10573,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.0038,
-          55.605
-        ]
-      },
-      "properties": {
-        "title": "ユービーアイソフトの相次ぐレイオフ、『ディビジョン』の開発元にも―計55人削減へ、Massiveとストックホルムスタジオにて - Game*Spark",
-        "source": "Game*Spark",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE90SEg1V1pONDRGUy1YQy1KYVNRX3Y2ZkFDbm9oMzZ5azZlSzhWX2QxaWx0eEVzbU1kZE5Qc3F1ZDNBcHRMSlVuS0NESjE0UXlBb25HV3lMajR3V3VIbnR2ak1hYnFpUQ?oc=5",
-        "published_at": "2026-01-14T08:00:00+00:00",
-        "representative_place": "Massive Entertainment / Malmö",
-        "place_label": "スウェーデン-マルメ-Massive Entertainment / Ubisoft layoffs",
-        "sort_place_label": "スウェーデン-マルメ-Massive Entertainment / Ubisoft layoffs",
-        "geocode_query": "Massive Entertainment Malmö Sweden Ubisoft layoffs",
-        "place_type": "game_studio_layoff_site_uncertain_office",
-        "location_precision": "city",
-        "place_reason": "記事主語はUbisoftのレイオフで、対象はThe Division開発元Massive EntertainmentとUbisoft Stockholm。複数地点記事だが、タイトル上の中心は『ディビジョン』開発元Massiveであり、MassiveはMalmö拠点として扱える。Stockholmも影響対象のため単一地点として完全ではないが、Massive側の都市精度は妥当なのでB1とする。（一致語: ユービーアイソフトの相次ぐレイオフ、『ディビジョン』の開発元にも―計55人削減へ、Massiveとストックホルムスタジオにて - Game*Spark）",
-        "confidence": 0.68,
-        "rule_id": "observed_ubisoft_layoffs_massive_malmo_stockholm_202601",
-        "matched_text": "ユービーアイソフトの相次ぐレイオフ、『ディビジョン』の開発元にも―計55人削減へ、Massiveとストックホルムスタジオにて - Game*Spark",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           106.6297,
           10.8231
         ]
@@ -10808,33 +10619,6 @@
         "confidence": 0.76,
         "rule_id": "observed_savvy_moonton_riyadh_202603",
         "matched_text": "Moonton",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          18.4241,
-          -33.9249
-        ]
-      },
-      "properties": {
-        "title": "A Video Game Lets You Take Back Looted Artifacts - Hyperallergic",
-        "source": "Hyperallergic",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYzBCM3RkTVhhNzVsN3A2TGVBSDN4Uzd3a0JzQ1o1U1JqdEk1N3BiXzBwbThvZ2pld1pMY3hLZWV3VE9MVHc3aUZiUi12Sk5jMTNGSUdRbURXeTdfY2pNUlFuM0g3RGZhdk05ckFFaFlCajBueHdESEZTNFVSYzFOTA?oc=5",
-        "published_at": "2026-01-12T08:00:00+00:00",
-        "representative_place": "Nyamakop / Cape Town",
-        "place_label": "南アフリカ-西ケープ州-ケープタウン-Nyamakop / Relooted",
-        "sort_place_label": "南アフリカ-西ケープ州-ケープタウン-Nyamakop / Relooted",
-        "geocode_query": "Nyamakop Cape Town South Africa",
-        "place_type": "studio_site",
-        "location_precision": "city",
-        "place_reason": "HyperallergicのRelooted別タイトル記事で、タイトルにRelootedやNyamakopが出ないため、looted artifacts固有語から既存のRelooted / Nyamakop文脈としてCape Townに置く。一般的な南アフリカ記事には広げない。（一致語: A Video Game Lets You Take Back Looted Artifacts）",
-        "confidence": 0.74,
-        "rule_id": "observed_relooted_hyperallergic_looted_artifacts_cape_town_202601",
-        "matched_text": "A Video Game Lets You Take Back Looted Artifacts",
         "match_source": "known_place_title"
       }
     },
@@ -11545,33 +11329,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.1278,
-          51.5074
-        ]
-      },
-      "properties": {
-        "title": "The best video games of 2025 - The Economist",
-        "source": "The Economist",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1HTjl4NGV1TlQzcno4bWMydXhPRzdLaFR5QVdWck02eGVYekNVWmtPOVdkMmVhTWliR21BWDN6cGgwa1c0WTJwWHB5NHhMaVk1bzk1WFFMWF9VVEtSaHdnN0g2bVRwcHVvTm96YUlUZjNiZFJyY3NvRU5lMTEwZw?oc=5",
-        "published_at": "2025-11-27T08:00:00+00:00",
-        "representative_place": "The Economist / London representative",
-        "place_label": "英国-ロンドン",
-        "sort_place_label": "英国-ロンドン",
-        "geocode_query": "The Economist London best video games of 2025 list",
-        "place_type": "best_games_list_source_city_representative_uncertain_subject_location",
-        "location_precision": "city",
-        "place_reason": "This is a source-limited multi-title best-games list and older rules disabled it as C1. It is included here as a point-compatible exact-title override only for the dictionary-side completion pass, using The Economist / London as a low-confidence source-side representative rather than selecting one arbitrary game from the list. If the item is not present in `game-all` after rebuild, this entry is harmless but can be revisited.（一致語: The best video games of 2025 - The Economist）",
-        "confidence": 0.2,
-        "rule_id": "game_all_20260709_best_video_games_2025_economist_london_202511",
-        "matched_text": "The best video games of 2025 - The Economist",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           73.8567,
           18.5204
         ]
@@ -12274,6 +12031,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          139.7516,
+          35.6581
+        ]
+      },
+      "properties": {
+        "title": "Efun Company、新作スマホRPG『百花ランブル』の事前登録を近日中に開始 - gamebiz【ゲームビズ】",
+        "source": "gamebiz【ゲームビズ】",
+        "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5FNjdKQ0RKSDh3YWcyemdpRGQ4cTBFcHVELV9lMzd0Uk9KSGV6a0ZSYUhnVjZNU3hsU2xQMGtrN2ZGeU5M?oc=5",
+        "published_at": "2025-09-20T05:26:53+00:00",
+        "representative_place": "Bandai Namco Entertainment / Minato, Tokyo representative",
+        "place_label": "日本-東京都-港区-Bandai Namco Entertainment / SAO Memory Defrag",
+        "sort_place_label": "日本-東京都-港区-Bandai Namco Entertainment / SAO Memory Defrag",
+        "geocode_query": "Bandai Namco Entertainment Minato Tokyo Sword Art Online Memory Defrag",
+        "place_type": "mobile_game_publisher_district_representative_uncertain_title_team",
+        "location_precision": "district",
+        "place_reason": "The legacy active entry treated the Sword Art Online Memory Defrag preregistration item as a broad Japan mobile-game launch-market topic. Recheck confirmed the game as a Bandai Namco Entertainment mobile title, and public company context places Bandai Namco Entertainment in Minato, Tokyo after its 2016 move. This override therefore moves the article from a Japan country representative point to a Minato, Tokyo publisher-context representative point. This is not a confirmed title-team office, article venue, exact Bandai Namco Entertainment office coordinate, or media office; replace it if the article body, official game page, store page, or company profile identifies a more precise publisher/developer/operator site.（一致語: 事前登録）",
+        "confidence": 0.64,
+        "rule_id": "observed_sao_memory_defrag_bandai_namco_minato_tokyo_201801",
+        "matched_text": "事前登録",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.9707,
           56.462
         ]
@@ -12814,33 +12598,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.7516,
-          35.6581
-        ]
-      },
-      "properties": {
-        "title": "アニメ「フェアリーテイル」のスマホ向け新作ゲーム「FAIRY TAIL 魔導士クロニクル」が2025年冬に配信！事前登録がスタート - Gamer",
-        "source": "Gamer",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1fcDcxS0xuQjlScmdFOGNKdGtOOXAxUXpmZ0hPc21fVGxrNWk3LW9WS0ZFMDVFdTJjU0ExVm9UcUdSNVV2MEE3RVpjRVRlSzZUUWVsXw?oc=5",
-        "published_at": "2025-08-06T07:00:00+00:00",
-        "representative_place": "Bandai Namco Entertainment / Minato, Tokyo representative",
-        "place_label": "日本-東京都-港区-Bandai Namco Entertainment / SAO Memory Defrag",
-        "sort_place_label": "日本-東京都-港区-Bandai Namco Entertainment / SAO Memory Defrag",
-        "geocode_query": "Bandai Namco Entertainment Minato Tokyo Sword Art Online Memory Defrag",
-        "place_type": "mobile_game_publisher_district_representative_uncertain_title_team",
-        "location_precision": "district",
-        "place_reason": "The legacy active entry treated the Sword Art Online Memory Defrag preregistration item as a broad Japan mobile-game launch-market topic. Recheck confirmed the game as a Bandai Namco Entertainment mobile title, and public company context places Bandai Namco Entertainment in Minato, Tokyo after its 2016 move. This override therefore moves the article from a Japan country representative point to a Minato, Tokyo publisher-context representative point. This is not a confirmed title-team office, article venue, exact Bandai Namco Entertainment office coordinate, or media office; replace it if the article body, official game page, store page, or company profile identifies a more precise publisher/developer/operator site.（一致語: 事前登録）",
-        "confidence": 0.64,
-        "rule_id": "observed_sao_memory_defrag_bandai_namco_minato_tokyo_201801",
-        "matched_text": "事前登録",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           139.7289,
           35.6158
         ]
@@ -12941,33 +12698,6 @@
         "confidence": 0.36,
         "rule_id": "game_all_20260709_tunisia_first_all_female_studio_tunis_202508",
         "matched_text": "Gaming world turns its spotlight on Tunisia’s first all-female game studio - Focus Gaming News",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.0473,
-          -26.2041
-        ]
-      },
-      "properties": {
-        "title": "Orange, MTN, Airtel: Mobile gaming emerges as the next frontier for telecoms - The Africa Report",
-        "source": "The Africa Report",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUVFqc29zLXpUTVBaWGtuRnBXTktIYzdZVG5aZk1jRGNZU1FKcU1iaUtSX1hPYU5PRmJfTnJJenBYcXVycDE4TnlaWWhyZG8yUHl1ckhFeGtrYzg4anFMaVNub1JvbG0wUl9NUkpOajdhNGhrVmJzNDZ1aTVXempjNGItMmhibmRIS1F2dXdoaExVYW5sbXFCWTd6QWpFNldkdjFZUzNFYlBTNFBQXzNXZ29wZw?oc=5",
-        "published_at": "2025-07-30T07:00:00+00:00",
-        "representative_place": "African telecom mobile-gaming market / Johannesburg representative",
-        "place_label": "南アフリカ-ヨハネスブルグ",
-        "sort_place_label": "南アフリカ-ヨハネスブルグ",
-        "geocode_query": "Orange MTN Airtel mobile gaming telecoms Africa Johannesburg representative",
-        "place_type": "regional_mobile_gaming_market_article_city_representative_uncertain_subject_location",
-        "location_precision": "country_city",
-        "place_reason": "The generated unresolved item covers mobile gaming as a telecom opportunity across Africa and names multiple telecom operators. The unresolved record does not expose a single operator office, interview site, or country focus, so use Johannesburg as a low-confidence African telecom/gaming-market representative rather than a non-point Africa region. This is not an exact company or publication office.（一致語: Orange, MTN, Airtel: Mobile gaming emerges as the next frontier for telecoms - The Africa Report）",
-        "confidence": 0.3,
-        "rule_id": "game_all_20260709_africa_mobile_gaming_telecoms_johannesburg_rep_202507",
-        "matched_text": "Orange, MTN, Airtel: Mobile gaming emerges as the next frontier for telecoms - The Africa Report",
         "match_source": "known_place_title"
       }
     },
@@ -13111,33 +12841,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.006,
-          40.7128
-        ]
-      },
-      "properties": {
-        "title": "Black-Owned Games To Download ASAP Or Try At Your Next Game Night - Yahoo Tech",
-        "source": "Yahoo Tech",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNXVMaEpnU3VDOEhsb19tanF4U1NsTWd1cmJMRUxLbm12LTAyNnpPcXUxY3BCcWlNYlB4NVFRcmk1eElFSC1SSk1meWtyMDZNS3JReWZyWWVTNXJGNEszZXNodjItZlRFYWhTNFNLcUdrZGU5eDVuOEhxNVNCV3plRUVpZVVXZjN2TmJNSlB3?oc=5",
-        "published_at": "2025-07-21T07:00:00+00:00",
-        "representative_place": "Yahoo Tech / New York representative",
-        "place_label": "米国-ニューヨーク州-ニューヨーク",
-        "sort_place_label": "米国-ニューヨーク州-ニューヨーク",
-        "geocode_query": "Yahoo Tech New York Black-Owned Games list article",
-        "place_type": "multi_game_list_source_city_representative_uncertain_subject_location",
-        "location_precision": "city",
-        "place_reason": "The generated unresolved item is a multi-game recommendation/list article about Black-owned games. The unresolved record does not expose one developer, event, city, or primary game location, so use a low-confidence source-side Yahoo Tech / New York representative rather than arbitrarily choosing one game or using a broad diaspora/continent placement. This is not an exact newsroom coordinate.（一致語: Black-Owned Games To Download ASAP Or Try At Your Next Game Night - Yahoo Tech）",
-        "confidence": 0.28,
-        "rule_id": "game_all_20260709_black_owned_games_yahoo_new_york_rep_202507",
-        "matched_text": "Black-Owned Games To Download ASAP Or Try At Your Next Game Night - Yahoo Tech",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           139.7516,
           35.6581
         ]
@@ -13265,33 +12968,6 @@
         "confidence": 0.8,
         "rule_id": "observed_acquire_uae_partnership_akihabara_202507",
         "matched_text": "アクワイア、なんとアラブ系スタジオとタッグ締結",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          18.4241,
-          -33.9249
-        ]
-      },
-      "properties": {
-        "title": "Relooted: African Gamers Steal Back Stolen History - EBONY Magazine",
-        "source": "EBONY Magazine",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBHVWg1R3h1cnN6dDZqSm9QX2t0OTdsVnpvV2R2NmxDbW0xN1lKTFhHRTFJNWJQa011amhtbkJGWFRybmNBNHZKUWFtQmdXQXVhdjZQc3NqOUFDVEs2cDVSWkt5bWRmZw?oc=5",
-        "published_at": "2025-07-09T07:00:00+00:00",
-        "representative_place": "Nyamakop / Cape Town",
-        "place_label": "南アフリカ-西ケープ州-ケープタウン-Nyamakop",
-        "sort_place_label": "南アフリカ-西ケープ州-ケープタウン-Nyamakop",
-        "geocode_query": "Nyamakop Cape Town South Africa",
-        "place_type": "studio_site",
-        "location_precision": "city",
-        "place_reason": "Relooted関連の記事は、南アフリカ代表点ではなく開発元Nyamakopの拠点都市Cape Townに置く。（一致語: Relooted）",
-        "confidence": 0.82,
-        "rule_id": "observed_relooted_nyamakop_cape_town_202607",
-        "matched_text": "Relooted",
         "match_source": "known_place_title"
       }
     },
@@ -13543,33 +13219,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.1551,
-          30.2741
-        ]
-      },
-      "properties": {
-        "title": "If NetEase Is Going To Keep Copying Games, Could It Please Stop Making Them So Damn Boring - TheGamer",
-        "source": "TheGamer",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMGhMc1JZcldjVElETXRQcDdVUHRxSWNfNFFQTG9CVG9hdnd0VjRsRDB4bW5RSmtrdEFvWktRWTZfc09vNkhBaldmT0Vka3lkTnhCLS15cmtNR3Y4ay1oWWZLUERFU2VIVXdIZVZEZkNLakFrY0VfRGxkSGtFaUhEeGtnZy12SG5nVXc?oc=5",
-        "published_at": "2025-06-27T07:00:00+00:00",
-        "representative_place": "NetEase Games / Hangzhou representative",
-        "place_label": "中国-浙江省-杭州市",
-        "sort_place_label": "中国-浙江省-杭州市",
-        "geocode_query": "NetEase Games Hangzhou copying games TheGamer opinion",
-        "place_type": "game_company_opinion_article_city_representative_uncertain_office",
-        "location_precision": "city",
-        "place_reason": "The generated unresolved item is an opinion article centered on NetEase and game-copying criticism. Use NetEase Games / Hangzhou as the company-side representative rather than TheGamer's source location or a broad China point. This is not an exact office coordinate or development-site claim for a particular game.（一致語: If NetEase Is Going To Keep Copying Games, Could It Please Stop Making Them So Damn Boring - TheGamer）",
-        "confidence": 0.58,
-        "rule_id": "game_all_20260709_netease_copying_games_hangzhou_rep_202506",
-        "matched_text": "If NetEase Is Going To Keep Copying Games, Could It Please Stop Making Them So Damn Boring - TheGamer",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           11.5021,
           3.848
         ]
@@ -13589,6 +13238,33 @@
         "confidence": 0.74,
         "rule_id": "observed_olivier_madiba_kiroo_games_yaounde_202506",
         "matched_text": "How Olivier Madiba set up Cameroon's first gaming studio - dw.com",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4241,
+          -33.9249
+        ]
+      },
+      "properties": {
+        "title": "Relooted Is a Heist Game About Returning African Artifacts to Their Home Countries - CNET",
+        "source": "CNET",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUnpKcmpZMGRNTkxyeDhlaEFtNE9Ga0h1eERQZ0NTOTgxV1dkZ0hrcmttb2JuYzhiQV9aRDR0Vk5tYkcyYUE4V3ZVWk9QQXJ6WUFfajdLVi1vTWFsamw2aFVSUzJZa1JtOEhnZDFBVWZ2cTJkMWJkdW80dU1XcjQ0RGpEelJUczB3WGlvc0VYNjgtdmRXWnV6dDJ3WDJhVXMwLWVPMjg4VUxrTlFxUFdjOURjMmFCcm8?oc=5",
+        "published_at": "2025-06-26T07:00:00+00:00",
+        "representative_place": "Nyamakop / Cape Town",
+        "place_label": "南アフリカ-西ケープ州-ケープタウン-Nyamakop",
+        "sort_place_label": "南アフリカ-西ケープ州-ケープタウン-Nyamakop",
+        "geocode_query": "Nyamakop Cape Town South Africa",
+        "place_type": "studio_site",
+        "location_precision": "city",
+        "place_reason": "Relooted関連の記事は、南アフリカ代表点ではなく開発元Nyamakopの拠点都市Cape Townに置く。（一致語: Relooted）",
+        "confidence": 0.82,
+        "rule_id": "observed_relooted_nyamakop_cape_town_202607",
+        "matched_text": "Relooted",
         "match_source": "known_place_title"
       }
     },
@@ -13759,6 +13435,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          73.8567,
+          18.5204
+        ]
+      },
+      "properties": {
+        "title": "Shooter Games Market Size, Share & Trends | Analysis [2034] - Fortune Business Insights",
+        "source": "Fortune Business Insights",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9BbkNFdmEyTUtIWHhURDAxV25GUVh3dlVFNGNBX2FNZWt6cG13UnFKOW9Gc3kycGIzSlZHcEtERTYwMEE2Z0NtY2V5MTJ1LUVVZVllYW14dDB5Z19OMjlDSnZrNnlUMFhmUFB5cW9sTTBMQlRUMlE?oc=5",
+        "published_at": "2025-06-17T08:53:17+00:00",
+        "representative_place": "Fortune Business Insights / Pune representative",
+        "place_label": "インド-マハーラーシュトラ州-プネー-Fortune Business Insights / board games market report",
+        "sort_place_label": "インド-マハーラーシュトラ州-プネー-Fortune Business Insights / board games market report",
+        "geocode_query": "Fortune Business Insights Pune board games market report",
+        "place_type": "market_research_report_publisher_representative",
+        "location_precision": "city",
+        "place_reason": "The legacy active entry treated the Board Games Market 2034 report item as a global / multi-region market-report topic. A later repository entry for the same Fortune Business Insights board-games market report already uses Pune as the concrete publisher-context representative, while noting that the report itself is not a single game studio, launch, or event venue. This override aligns the older global market-report entry with that later same-topic Pune representative. This is not a board-game market event, company in the report, exact publisher office coordinate, or media office; replace it if the full report page is later parsed into a more specific company, region, or office anchor.（一致語: Trends）",
+        "confidence": 0.6,
+        "rule_id": "observed_board_games_market_fortune_business_insights_pune_legacy_202108",
+        "matched_text": "Trends",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           72.8777,
           19.076
         ]
@@ -13894,25 +13597,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          18.4241,
-          -33.9249
+          139.7289,
+          35.6158
         ]
       },
       "properties": {
-        "title": "Rescue African artifacts from colonizers' museums in the heist game Relooted - Engadget",
-        "source": "Engadget",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcmJ1Z1hQeHFZZVUyZzdpbENWQlVpUDJFUW95S1ZlWTRjTEhtT2ctdXpjcktqR1pHenVXVVFKV29Ic29wbVh0c0g1NHNtVnpqbTEyYW84Ui12bmNnSmlMaFprNC0yRnItYVg4aUl3ZnlSTFZGZklEY01Eby10UDY4dWNpdXdkbEYyMFJFbmJHaFZMM3N1UGpXc0lDQlBSRkF2d1pmOG9HcjZnOFI3dVUwemMtOF9fVzNLVHNDbW1iUQ?oc=5",
-        "published_at": "2025-06-06T07:00:00+00:00",
-        "representative_place": "Nyamakop / Cape Town",
-        "place_label": "南アフリカ-西ケープ州-ケープタウン-Nyamakop",
-        "sort_place_label": "南アフリカ-西ケープ州-ケープタウン-Nyamakop",
-        "geocode_query": "Nyamakop Cape Town South Africa",
-        "place_type": "studio_site",
-        "location_precision": "city",
-        "place_reason": "Relooted関連の記事は、南アフリカ代表点ではなく開発元Nyamakopの拠点都市Cape Townに置く。（一致語: Relooted）",
-        "confidence": 0.82,
-        "rule_id": "observed_relooted_nyamakop_cape_town_202607",
-        "matched_text": "Relooted",
+        "title": "龍が如くスタジオの新作『STRANGER THAN HEAVEN』正式発表。舞台は1943年の日本、レトロで煌びやかな本格ゲームプレイお披露目 - AUTOMATON",
+        "source": "AUTOMATON",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE05amYwczZ4Qml2ZzhXczVfSWxuTEpHcGdvOXM2N0ZYQWR5MDhfazE2bXFjOFFDVWJKNmZYQmlDNWJDeGlXZXFuTUg4RlJpeWExVmhLaVVCVjBHOE05S0ZTR2lTTy03WXlLdk95cQ?oc=5",
+        "published_at": "2025-06-07T07:00:00+00:00",
+        "representative_place": "SEGA / Ryu Ga Gotoku Studio at Sumitomo Fudosan Osaki Garden Tower",
+        "place_label": "日本-東京都-品川区-西品川-住友不動産大崎ガーデンタワー-SEGA / RGG Studio",
+        "sort_place_label": "日本-東京都-品川区-西品川-住友不動産大崎ガーデンタワー-SEGA / RGG Studio",
+        "geocode_query": "Sumitomo Fudosan Osaki Garden Tower Nishi-Shinagawa Tokyo Japan SEGA",
+        "place_type": "studio_company_site",
+        "location_precision": "building",
+        "place_reason": "Ryu Ga Gotoku Studio / STRANGER THAN HEAVEN announcement article anchored to the established SEGA/RGG Studio Osaki Garden Tower site. RGG Studio, SEGA, STRANGER THAN HEAVEN, and Japan standalone terms are not used as triggers.（一致語: 龍が如くスタジオの新作『STRANGER THAN HEAVEN』正式発表。舞台は1943年の日本、レトロで煌びやかな本格ゲームプレイお披露目）",
+        "confidence": 0.8,
+        "rule_id": "observed_rgg_stranger_than_heaven_osaki_202506",
+        "matched_text": "龍が如くスタジオの新作『STRANGER THAN HEAVEN』正式発表。舞台は1943年の日本、レトロで煌びやかな本格ゲームプレイお披露目",
         "match_source": "known_place_title"
       }
     },
@@ -14488,33 +14191,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.3896,
-          6.5158
-        ]
-      },
-      "properties": {
-        "title": "UNILAG Hosts Nigeria’s First Video Game Devlp’t Laboratory; “Gamr Lab” - University Of Lagos",
-        "source": "University Of Lagos",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSVFrS0JrV1VERkFMU3V1bU5EdmI1Q2F5WWtlV2JYLUZZWG00NF9zazQyYlFzMDFKNklWQ1owMmJCaGNZTTVCTWZlNDhRaFZxcXJ6OTg2ZV9Zc2ViRkRZVDdxNU5kWFVhUFJOTHpXcVp4VWZmTElvdW1tUWV1MU1pczJyY09Fa01TN1pR?oc=5",
-        "published_at": "2025-03-21T07:00:00+00:00",
-        "representative_place": "University of Lagos / Gamr Lab",
-        "place_label": "ナイジェリア-ラゴス-University of Lagos / Gamr Lab",
-        "sort_place_label": "ナイジェリア-ラゴス-University of Lagos / Gamr Lab",
-        "geocode_query": "University of Lagos Akoka Lagos Gamr Lab",
-        "place_type": "university_game_lab_site",
-        "location_precision": "exact_site",
-        "place_reason": "記事主語はUniversity of LagosがNigeria's first video game development laboratoryであるGamr Labをhostしたというもの。媒体所在地ではなく、記事タイトル自体に出ているUNILAG/Gamr Labの大学施設側に置ける。大学キャンパス内の具体施設として扱えるためAとするが、建物内の部屋番号までは未確認。（一致語: Gamr Lab）",
-        "confidence": 0.8,
-        "rule_id": "observed_unilag_gamr_lab_lagos_exact_site_202503",
-        "matched_text": "Gamr Lab",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           28.0473,
           -26.2041
         ]
@@ -14920,60 +14596,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.3792,
-          6.5244
-        ]
-      },
-      "properties": {
-        "title": "Nigeria’s gaming studios weave quests in native culture - The Guardian Nigeria News",
-        "source": "The Guardian Nigeria News",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNd3Fjdkc3QzJWTE1tdy1fakkwRVBwUk5lcDU1TTBYVDk0allRZUlQTzV1U1ZKZEptczM3YUZMQ2ZROW9yMncxQ3dMaVRVbkRza3lpMHozYjhjdnlyUlpNX3pKdXBpUzFGVXFXR3B1aGMzdHBzaDctNzdXXzc0Y2dldlBoRDFFc3M?oc=5",
-        "published_at": "2025-02-06T08:00:00+00:00",
-        "representative_place": "Nigeria games industry / Lagos representative",
-        "place_label": "ナイジェリア-ラゴス-ゲームスタジオ代表点",
-        "sort_place_label": "ナイジェリア-ラゴス-ゲームスタジオ代表点",
-        "geocode_query": "Nigeria gaming studios native culture Lagos representative Guardian Nigeria",
-        "place_type": "national_games_industry_article_city_representative",
-        "location_precision": "city",
-        "place_reason": "The article concerns Nigerian gaming studios and native culture, plural. The generated record does not expose one studio or venue, so Lagos is used as a Nigerian games/media industry representative rather than a country-level Nigeria placement.（一致語: Nigeria’s gaming studios weave quests in native culture - The Guardian Nigeria News）",
-        "confidence": 0.34,
-        "rule_id": "game_all_20260709_nigeria_gaming_studios_lagos_202502",
-        "matched_text": "Nigeria’s gaming studios weave quests in native culture - The Guardian Nigeria News",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.3792,
-          6.5244
-        ]
-      },
-      "properties": {
-        "title": "Nigeria’s Gaming Studios Weave Quests In Native Culture - Channels Television",
-        "source": "Channels Television",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYWc1NHRla1g2M294c3kxbk9xbHFTajBIQUlYRkhuVlVCd3pKMHZtdWFfQlh5dFZaZmRxV19JODVNVFhLU21FaXpRZVFnMEJHUTFDbnlfcXFBR1MwNkx0cVNLV01HMG9uTFZ3dUEyc0JIU0J5LU1EUFhmRXRYdURkN0lqei1oNjNiMzE1MzVjZlBGbkxaVlpRWg?oc=5",
-        "published_at": "2025-01-29T08:00:00+00:00",
-        "representative_place": "Nigerian game studios / Lagos representative",
-        "place_label": "ナイジェリア-ラゴス",
-        "sort_place_label": "ナイジェリア-ラゴス",
-        "geocode_query": "Nigerian gaming studios native culture Lagos representative Channels Television",
-        "place_type": "national_game_studio_article_city_representative_uncertain_subject_location",
-        "location_precision": "city",
-        "place_reason": "The generated unresolved item is a national article about Nigerian gaming studios and native culture. The unresolved record does not expose a specific studio or city as the focus, so use Lagos as a Nigerian game-development representative rather than a country centroid or source-only point. This is not an exact studio location.（一致語: Nigeria’s Gaming Studios Weave Quests In Native Culture - Channels Television）",
-        "confidence": 0.48,
-        "rule_id": "game_all_20260709_nigeria_gaming_studios_native_culture_lagos_rep_202501",
-        "matched_text": "Nigeria’s Gaming Studios Weave Quests In Native Culture - Channels Television",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           139.7288,
           35.6249
         ]
@@ -15136,33 +14758,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.3792,
-          6.5244
-        ]
-      },
-      "properties": {
-        "title": "Nigerian studio’s first video game is an action-adventure steeped in Yoruba culture - thenationalnews.com",
-        "source": "thenationalnews.com",
-        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNVUxEMUNoWDB6amJ6OC1vZmgxQURyb3ZSNXVFUjVzSmZzMkRtLXNHMFotSzFJVUJITGdvOXVyb2NHam5yWEI1SnVRWkE3QXlrOUVlaTltV0xRaTNnSFhxT3gzR1Q5ZXNfZ2xuMlNBamtWZzlZd0dDOVdnc3BBNXBJOGE2RFlldklsRjZrRzRPUEh2aWZxVFg1Y2ZqaGhZMG9TUWlRbzFGOWVmb3BEVU5CX05wWlFzZEFyaG4xbnVQdkQxUzR0U2x3ci1xeEV6cGJaZWk3MmZuVFlHQldIb0xZOTNPeWt0Zw?oc=5",
-        "published_at": "2025-01-11T08:00:00+00:00",
-        "representative_place": "Nigerian game studio / Lagos representative",
-        "place_label": "ナイジェリア-ラゴス",
-        "sort_place_label": "ナイジェリア-ラゴス",
-        "geocode_query": "Nigerian studio first video game Yoruba culture Lagos representative",
-        "place_type": "game_studio_first_title_city_representative_uncertain_studio_location",
-        "location_precision": "city",
-        "place_reason": "The generated unresolved item is about a Nigerian studio's first game rooted in Yoruba culture. The unresolved record does not expose the studio name or city in the title/summary, so use Lagos as a conservative Nigerian game-studio representative rather than the publication source or a country centroid. This should be refined if full article parsing identifies the studio's actual city.（一致語: Nigerian studio’s first video game is an action-adventure steeped in Yoruba culture - thenationalnews.com）",
-        "confidence": 0.44,
-        "rule_id": "game_all_20260709_nigerian_studio_first_yoruba_game_lagos_rep_202501",
-        "matched_text": "Nigerian studio’s first video game is an action-adventure steeped in Yoruba culture - thenationalnews.com",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           0.0132,
           51.406
         ]
@@ -15236,6 +14831,60 @@
         "confidence": 0.46,
         "rule_id": "game_all_20260709_turkiye_gaming_ecosystem_istanbul_rep_202501",
         "matched_text": "Türkiye’s gaming ecosystem emerges as new powerhouse in global industry - Anadolu Ajansı",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7873,
+          1.2992
+        ]
+      },
+      "properties": {
+        "title": "Kakuchopurei’s Southeast Asia Game Awards & Appreciation 2024 - Kakuchopurei",
+        "source": "Kakuchopurei",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPelZvN1JROGJjbURFYWFkS1dWSkR1YzN4YWRXQWN3Wm9GUkMyb3gxS01nWHNQQzFENndzYnVGVlNQejZ2QXVaVW8xMW1OS3NNb0pUMk9HNjNkSlY0ODR1Nlo3VVcwQW1hdlZyY3A1bEp6bVJobVE5LW1TU1d1a0lpUWhZNjN4MmVZSzVFWXdR?oc=5",
+        "published_at": "2024-12-28T08:00:00+00:00",
+        "representative_place": "Virtuos / Fusionopolis, Singapore",
+        "place_label": "シンガポール-Fusionopolis-Virtuos",
+        "sort_place_label": "シンガポール-Fusionopolis-Virtuos",
+        "geocode_query": "Virtuos Fusionopolis Singapore",
+        "place_type": "game_services_company_site",
+        "location_precision": "city_district",
+        "place_reason": "Virtuosの東南アジア開発体制に関する記事なので、地域代表点ではなく同社本社所在地であるSingapore / Fusionopolisに置く。（一致語: Southeast Asia）",
+        "confidence": 0.78,
+        "rule_id": "observed_virtuos_southeast_asia_singapore_202512",
+        "matched_text": "Southeast Asia",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9842,
+          14.5995
+        ]
+      },
+      "properties": {
+        "title": "Video games in 2024: The ‘Tetris’ beater, ‘Palworld’ hype, PH’s ‘Until Then’ - Rappler",
+        "source": "Rappler",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbHVZTjlmSndOcmdleThiQUtSd1RiZFpUOHNMSVlvcHlFdno2M1Jubk1HdkhRUEFvZExLbk52dXZjSWVjaDNXR053Qnc4RGdYTlBXUmhzNHFWY3c5T19IUHJVYTFGTnFlNlA5LUpXeTgtUU9wY0Vld0M2MTBsMUVaSXRoSDlaQVhyeE1Ob0lPZkpBcDA4a0lrXzVPREQxbHdXN1ZXU0lXam5lWnc?oc=5",
+        "published_at": "2024-12-16T08:00:00+00:00",
+        "representative_place": "Philippine games 2024 roundup / Manila representative",
+        "place_label": "フィリピン-マニラ首都圏-マニラ",
+        "sort_place_label": "フィリピン-マニラ首都圏-マニラ",
+        "geocode_query": "Rappler video games 2024 Philippines Until Then Manila representative",
+        "place_type": "year_end_game_roundup_city_representative_uncertain_subject_location",
+        "location_precision": "city",
+        "place_reason": "The generated unresolved item is a year-end games roundup that includes the Philippine title Until Then. The unresolved record does not expose one studio, event, or exact city, so use Manila as a low-confidence Philippine games representative rather than the source alone or an arbitrary global title from the roundup. This is not an exact development site.（一致語: Video games in 2024: The ‘Tetris’ beater, ‘Palworld’ hype, PH’s ‘Until Then’ - Rappler）",
+        "confidence": 0.36,
+        "rule_id": "game_all_20260709_rappler_video_games_2024_until_then_manila_rep_202412",
+        "matched_text": "Video games in 2024: The ‘Tetris’ beater, ‘Palworld’ hype, PH’s ‘Until Then’ - Rappler",
         "match_source": "known_place_title"
       }
     },
@@ -15622,33 +15271,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.6503,
-          35.6762
-        ]
-      },
-      "properties": {
-        "title": "「うまく作れないゲームに時間をかけても仕方ないから、さっさと新作に取りかかった方がいい」。とあるインディーゲーム開発者が語る、ビジネスとしてのゲーム開発サイクル - AUTOMATON",
-        "source": "AUTOMATON",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcHpCeG8xV2l4UXJBMHFuSUhGQTQ2bEtiV3JxYkhKUE9ZZEo4SWtuMEJkcUp5bmEtem9kdURyV1duRDVWSGRsQnNfaXNjZWxucGVKRFJZWnJNakVZcmJWeDBNMW1FNHpIdDU3RXd0YmszdGhCUXRKanhiZUpZUXl3TQ?oc=5",
-        "published_at": "2024-11-19T08:00:00+00:00",
-        "representative_place": "indie game development cycle article / Tokyo representative",
-        "place_label": "日本-東京代表点-インディーゲーム開発サイクル記事",
-        "sort_place_label": "日本-東京代表点-インディーゲーム開発サイクル記事",
-        "geocode_query": "インディーゲーム開発サイクル AUTOMATON 東京 日本",
-        "place_type": "indie_game_developer_article_country_city_representative_uncertain",
-        "location_precision": "country_city",
-        "place_reason": "AUTOMATONの記事タイトルから、インディーゲーム開発者がビジネスとしてのゲーム開発サイクルを語る記事であることは確認できるが、今回の確認範囲ではゲーム名・開発者名・所属スタジオ・都市・住所を確認できなかった。前回はC2として無配置だったが、タスク2の方針に従い、媒体所在地そのものではなく日本語圏インディーゲーム開発記事文脈の低信頼代表点として東京へ暫定配置する。東京は確認済み開発者所在地ではない。本文、元記事、Steamページ、公式サイト、開発者プロフィールで具体的な場所が判明した場合は必ず差し替える。（一致語: ビジネスとしてのゲーム開発サイクル）（一致語: 「うまく作れないゲームに時間をかけても仕方ないから、さっさと新作に取りかかった方がいい」。とあるインディーゲーム開発者が語る、ビジネスとしてのゲーム開発サイクル - AUTOMATON）",
-        "confidence": 0.2,
-        "rule_id": "observed_indie_game_development_cycle_tokyo_uncertain_202411",
-        "matched_text": "「うまく作れないゲームに時間をかけても仕方ないから、さっさと新作に取りかかった方がいい」。とあるインディーゲーム開発者が語る、ビジネスとしてのゲーム開発サイクル - AUTOMATON",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           121.4737,
           31.2304
         ]
@@ -15911,33 +15533,6 @@
         "confidence": 0.48,
         "rule_id": "observed_fntastic_the_day_before_return_singapore_representative_202410",
         "matched_text": "発売後すぐに消えた『The Day Before』開発元、“復活”を掲げて新作をクラファンするも失敗。でもめげずにまた新作発表 - AUTOMATON",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.2437,
-          34.0522
-        ]
-      },
-      "properties": {
-        "title": "Netflix Closes Its All-Star AAA Video Game Studio, Which Made Zero Games - Forbes",
-        "source": "Forbes",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaW9zY21FX1RLdmpVaHRVR05xdEpxbnVUSkNMYXVSQ095a01aWlh6WUtwXzRZU05ORlAtWDRIa1kzWngwTG1DcjdEdmhJM19BeEl4ZWY1aS1Yc1U4NkdVMVl2SnlvMHdTcU5mRE1vMkVGd1JiZi13aHRpZTVWbHNVRjlnQk1LamE5TldUZl9hU0JQN1BSX2E1Q2lHQVNEVGk2RnJiZG9yb2hleThQM1R1RHhheHI2LWVNU0JzcmxRTQ?oc=5",
-        "published_at": "2024-10-23T07:00:00+00:00",
-        "representative_place": "Netflix Games / Team Blue Southern California representative",
-        "place_label": "米国-カリフォルニア州-ロサンゼルス-Netflix Games / Team Blue closure",
-        "sort_place_label": "米国-カリフォルニア州-ロサンゼルス-Netflix Games / Team Blue closure",
-        "geocode_query": "Netflix Team Blue AAA game studio Southern California Los Angeles",
-        "place_type": "game_studio_closure_city_representative",
-        "location_precision": "city",
-        "place_reason": "The Forbes/RSS item is about Netflix closing its all-star AAA game studio before it released a title. External coverage identifies the closed internal studio as Team Blue, the Netflix Games AAA studio announced as a Southern California studio led by Chacko Sonny. A specific public office address was not confirmed in this pass, but the studio context is Southern California and the relevant Netflix Games production cluster is in the Los Angeles area. Therefore Los Angeles is used as a moderate-confidence representative point instead of Netflix's corporate headquarters or the article publisher location. Replace if a specific Team Blue office city or address is confirmed.（一致語: Netflix Closes Its All-Star AAA Video Game Studio, Which Made Zero Games - Forbes）",
-        "confidence": 0.62,
-        "rule_id": "observed_netflix_team_blue_studio_closure_los_angeles_202410",
-        "matched_text": "Netflix Closes Its All-Star AAA Video Game Studio, Which Made Zero Games - Forbes",
         "match_source": "known_place_title"
       }
     },
@@ -16410,33 +16005,6 @@
         ]
       },
       "properties": {
-        "title": "Africa taking over the world's video game market - africanews.com",
-        "source": "africanews.com",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMm9ZblltNUcxNnJ5cFdPZUN5OG9wdnk5NGs0TTFMUkhkTUxOMllHaHBKci1vQ3cyU3FwMEo2VkhKdVl4MHVjY3k1VmYtWkxNV2lJTnBkSG5hRDdTdXVDa2Vza3dnYVNVN1FuOFU2bmMtN1dfVFJMaGV6ZS1NNmhlN01MNDZjMXFEX0hvR1J4aVnSAZYBQVVfeXFMTjFiNE5uLW5Sek5ETWZuU2c3dnpjNkNFZ25JM1lIekVBX21KX1BqVGk3RmhkN2R3S3JNdUFUaXBjazE3T3pNSVNoLVBsR3VzZkw1c1Q5Y3lmWnJCR0JMWjZBQlY4RVZLbWhCOVRfREktVERsZjEybGlBR2NNZHZsb1R1bkJ6d2pNU3VvSVotMmdfaUhEazNR?oc=5",
-        "published_at": "2024-08-13T07:00:00+00:00",
-        "representative_place": "African video-game market / Johannesburg representative",
-        "place_label": "南アフリカ-ヨハネスブルグ",
-        "sort_place_label": "南アフリカ-ヨハネスブルグ",
-        "geocode_query": "Africa taking over world video game market Johannesburg representative",
-        "place_type": "regional_game_market_article_city_representative_uncertain_subject_location",
-        "location_precision": "country_city",
-        "place_reason": "The generated unresolved item is a broad Africa-wide video-game-market article. The unresolved record does not expose a single country, studio, market report source, or event, so use Johannesburg as a low-confidence African game-market representative rather than a non-point Africa placement or Africanews source point. This is not an exact subject site.（一致語: Africa taking over the world's video game market - africanews.com）",
-        "confidence": 0.3,
-        "rule_id": "game_all_20260709_africa_taking_over_game_market_johannesburg_202408",
-        "matched_text": "Africa taking over the world's video game market - africanews.com",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.0473,
-          -26.2041
-        ]
-      },
-      "properties": {
         "title": "Africa, the latest \"El Dorado\" for the video gaming industry - africanews.com",
         "source": "africanews.com",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdHZQT1FoOHBzYVBpTTVFVW9GdTFPbVQ2aFVfTXFSbHZRdkw3S1ZOOE1kQjJvWmI2djAwZm9JOEJnTTBFVWZXeG1fQ0Q1RjUwZ0pQZVp6ZHhMX0ZzMENVNGhjeDhVOVpqME1BVzR5akg2Um0tbjhEVkNNMFhRQ1lTd3RNeFI0b0k4T0tQTmJZLU1qN1llNUNTQ3p2OVPSAaIBQVVfeXFMTzQ4REVfWWdUWWFFNXJqYlhDR1U2bUx5WEpGVGJXRjNaUXhUWEs3S2RVOXFrMG5tM3QxUm9TVW1zRXNSOGYxbDJ5SmZmTnJjNXZweFVuMzdScm5jZ2U0UUZtYXRrQnBZQTJNLVlsenlZeVN4SXVERmFYcGJVU1Y0YlNRMjdqTEhsdjZYNTNvZjV6ei1qVDJ0cTUzSklMS18wVE13?oc=5",
@@ -16451,33 +16019,6 @@
         "confidence": 0.3,
         "rule_id": "game_all_20260709_africa_el_dorado_video_gaming_johannesburg_202408",
         "matched_text": "Africa, the latest \"El Dorado\" for the video gaming industry - africanews.com",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.0473,
-          -26.2041
-        ]
-      },
-      "properties": {
-        "title": "Africa records high number of gamers with some turning professionals - africanews.com",
-        "source": "africanews.com",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOTZlNGUtYUVPSksyVEJoT3BDclNNOFIydnd4cXc5WnhGc2ZJa003NVNJVEotd3VMUTRDODlPczgwNHUwOVhxTWdnUUhSUnVaNmM2MkYtWW9vblA2RlRWNkpaOGJFQU9nRUl2aVZMRUw5UWZnQ0xDZkxtb3FXSDdRUG1HQm54VXhDa2NFOTJ5TU1obU1jZkxWS3dIYU9uMU12VklURm0zWFZtdjTSAbABQVVfeXFMTWdnWXp6YnNVVC1qSFBTMUJXZWFDUmlFTVZTMXB0dms1TzFWUktzdC1QQTVDOG9FQ2NqSW9aWFBRb0h0UE95N0l1X1o1b016azJ1N19IU0F3alR3aXBNeVBrOTc1SWs5bkdTV0NWTV85eFp1M2tXUnd5dGVjNXdZVEIxZFJra3MxU0JqSVJMNkQ1N0J6aHBINzlqQVA3SjlNLVk2ajJLNWdWRF9FOVc3dUc?oc=5",
-        "published_at": "2024-08-13T07:00:00+00:00",
-        "representative_place": "African professional-gaming market / Johannesburg representative",
-        "place_label": "南アフリカ-ヨハネスブルグ",
-        "sort_place_label": "南アフリカ-ヨハネスブルグ",
-        "geocode_query": "Africa gamers turning professionals Johannesburg representative",
-        "place_type": "regional_esports_game_market_article_city_representative_uncertain_subject_location",
-        "location_precision": "country_city",
-        "place_reason": "The generated unresolved item is a broad Africa-wide article about gaming participation and professionalization. The unresolved record does not expose one tournament, country, team, studio, or interview site, so use Johannesburg as a low-confidence representative rather than a non-point Africa placement. This is not an exact esports venue or labor-market site.（一致語: Africa records high number of gamers with some turning professionals - africanews.com）",
-        "confidence": 0.3,
-        "rule_id": "game_all_20260709_africa_gamers_turning_professional_johannesburg_202408",
-        "matched_text": "Africa records high number of gamers with some turning professionals - africanews.com",
         "match_source": "known_place_title"
       }
     },
@@ -16815,8 +16356,8 @@
         ]
       },
       "properties": {
-        "title": "Netflix Arcane series producer Thomas Vu hints Filipino mythology game is in the works - PEP.ph (Philippine Entertainment Portal)",
-        "source": "PEP.ph (Philippine Entertainment Portal)",
+        "title": "Netflix Arcane series producer Thomas Vu hints Filipino mythology game is in the works - PEP.ph",
+        "source": "PEP.ph",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNS0RxWGJ3TTFidXJ3VlVXNE5NVlVXeUtrT1VZelRkSVNTYkNxMENva01jVGhvOWdzaklFU3lud3JwX1JVYWZPdkhlc1dicE42d25lcmV6aDN4UTZYU2thRjlfN3p2SnM3Xzh3TXN0NGhSZE1pRTFORmIwSmljbHJYS01ERVBWd3NNVk9QbExhS3BvLTFfYWJ6Ym9mTDE?oc=5",
         "published_at": "2024-06-29T07:00:00+00:00",
         "representative_place": "Filipino mythology game article / Manila representative",
@@ -16837,25 +16378,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.5021,
-          3.848
+          139.7516,
+          35.6581
         ]
       },
       "properties": {
-        "title": "Cameroonian Studio Debuts the First African Role-Playing Game on Xbox - OkayAfrica",
-        "source": "OkayAfrica",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWFdJZVBiZGR5b3FEYkJHYXpsQVA3M2NVWDNSUVBGSW1RVG9XZzBTaUxNVV9BTVM2VVYyLVpzaW1ialNyLUhnMHFzWFpxTTFqM2NtMFczXzR5QmI4WkFubWNtYUhQay1GM3dNemF6ajVlMkhnSDZnUXZtaXkxeDI1b0lKaEpBNTdqYnpBS09EbzZlMUJTdkNYenE1dk5YaEhrYUdyRWtR?oc=5",
-        "published_at": "2024-06-13T07:00:00+00:00",
-        "representative_place": "Kiro'o Games / Yaoundé",
-        "place_label": "カメルーン-ヤウンデ-Kiro'o Games / Aurion on Xbox",
-        "sort_place_label": "カメルーン-ヤウンデ-Kiro'o Games / Aurion on Xbox",
-        "geocode_query": "Kiro'o Games Yaoundé Aurion Xbox",
-        "place_type": "game_studio_release_site_uncertain_office",
-        "location_precision": "city",
-        "place_reason": "記事主語はカメルーンのスタジオによるAfrican RPGのXbox展開。対象はKiro'o Games / Aurion文脈で、Kiro'o GamesはYaoundé拠点として確認できる。正確な建物住所までは今回確定していないためB1に留める。（一致語: Cameroonian Studio Debuts the First African Role-Playing Game on Xbox - OkayAfrica）",
-        "confidence": 0.76,
-        "rule_id": "observed_kiroo_games_aurion_xbox_yaounde_202406",
-        "matched_text": "Cameroonian Studio Debuts the First African Role-Playing Game on Xbox - OkayAfrica",
+        "title": "【パンドランド】配信日と事前登録情報｜最新情報｜PANDOLAND - AppMedia",
+        "source": "AppMedia",
+        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5rTHNhRTBESzdXTEZ1eW0tQVRFTmtPZWl0OGJPelVjV0dLUy1MYkljbjhObTR3UEEzcVl2ZXFXYnFDZk5SWmtlVm1qZF8?oc=5",
+        "published_at": "2024-06-24T07:00:00+00:00",
+        "representative_place": "Bandai Namco Entertainment / Minato, Tokyo representative",
+        "place_label": "日本-東京都-港区-Bandai Namco Entertainment / SAO Memory Defrag",
+        "sort_place_label": "日本-東京都-港区-Bandai Namco Entertainment / SAO Memory Defrag",
+        "geocode_query": "Bandai Namco Entertainment Minato Tokyo Sword Art Online Memory Defrag",
+        "place_type": "mobile_game_publisher_district_representative_uncertain_title_team",
+        "location_precision": "district",
+        "place_reason": "The legacy active entry treated the Sword Art Online Memory Defrag preregistration item as a broad Japan mobile-game launch-market topic. Recheck confirmed the game as a Bandai Namco Entertainment mobile title, and public company context places Bandai Namco Entertainment in Minato, Tokyo after its 2016 move. This override therefore moves the article from a Japan country representative point to a Minato, Tokyo publisher-context representative point. This is not a confirmed title-team office, article venue, exact Bandai Namco Entertainment office coordinate, or media office; replace it if the article body, official game page, store page, or company profile identifies a more precise publisher/developer/operator site.（一致語: 事前登録）",
+        "confidence": 0.64,
+        "rule_id": "observed_sao_memory_defrag_bandai_namco_minato_tokyo_201801",
+        "matched_text": "事前登録",
         "match_source": "known_place_title"
       }
     },
@@ -17404,33 +16945,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          18.4241,
-          -33.9249
-        ]
-      },
-      "properties": {
-        "title": "When gaming companies want to reach African gamers, they tap this company for help - Fast Company",
-        "source": "Fast Company",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRWs5QkI2dHZOclFpQ3JCNmp0TTVwVVg5MU8yWXN2N2RGVDhXMTV6UlBxazY5U3prUGhFaVNhYThad3NtVTJ1T0FuT1UteGFKcHppWkt4cGR5QmlUNUVGRkROeHk2YV8wZzNSQ1RVLVJONHhtdlduOThwZjRVOW9wV0NB?oc=5",
-        "published_at": "2024-03-19T07:00:00+00:00",
-        "representative_place": "Carry1st / Cape Town",
-        "place_label": "南アフリカ-ケープタウン-Carry1st / African gamers",
-        "sort_place_label": "南アフリカ-ケープタウン-Carry1st / African gamers",
-        "geocode_query": "Carry1st Cape Town African gamers Fast Company",
-        "place_type": "game_platform_company_profile_site_uncertain_office",
-        "location_precision": "city",
-        "place_reason": "記事はアフリカのゲーマーにリーチしたいゲーム会社が頼る企業を扱う会社プロフィール記事。対象企業はCarry1st文脈で、同社はCape Town拠点として扱える。正確なオフィス住所までは今回確定していないためB1に留める。（一致語: When gaming companies want to reach African gamers, they tap this company for help - Fast Company）",
-        "confidence": 0.66,
-        "rule_id": "observed_african_gamers_company_carry1st_cape_town_202403",
-        "matched_text": "When gaming companies want to reach African gamers, they tap this company for help - Fast Company",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           135.5023,
           34.6937
         ]
@@ -17863,33 +17377,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          28.0473,
-          -26.2041
-        ]
-      },
-      "properties": {
-        "title": "The African games industry in numbers - GamesIndustry.biz",
-        "source": "GamesIndustry.biz",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE03SHpTRDNrMEFaLWc1TE9leUJZN3U3Z3JodnFGTEI3MGJkemJPYlhpOWhRZE5jRzgyYVNwMFI5MlVWWFdZVkJuMGFudXhjWVdWUmpCOURRZlY3T3hsQjB1R3dwZUhMN0stVER1VjRhX0Q3U1JOR1E?oc=5",
-        "published_at": "2023-12-05T08:00:00+00:00",
-        "representative_place": "African games industry / Johannesburg representative",
-        "place_label": "南アフリカ-ヨハネスブルグ",
-        "sort_place_label": "南アフリカ-ヨハネスブルグ",
-        "geocode_query": "African games industry in numbers Johannesburg representative",
-        "place_type": "regional_game_industry_statistics_article_city_representative_uncertain_subject_location",
-        "location_precision": "country_city",
-        "place_reason": "The generated unresolved item is an Africa-wide statistics/industry article. The unresolved record does not expose a single country, studio, report office, or event, so use Johannesburg as a low-confidence African games-industry representative rather than a non-point Africa placement or GamesIndustry.biz source point. This is not an exact report source or subject site.（一致語: The African games industry in numbers - GamesIndustry.biz）",
-        "confidence": 0.3,
-        "rule_id": "game_all_20260709_african_games_industry_numbers_johannesburg_202312",
-        "matched_text": "The African games industry in numbers - GamesIndustry.biz",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           13.5036,
           59.3793
         ]
@@ -17963,33 +17450,6 @@
         "confidence": 0.8,
         "rule_id": "observed_filipino_devs_tokyo_game_show_2016",
         "matched_text": "Filipino game developers",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.0473,
-          -26.2041
-        ]
-      },
-      "properties": {
-        "title": "Annapurna Buys South African Video Game Studio 24 Bit Games - TheWrap",
-        "source": "TheWrap",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9HZXdtTjBDdWtXNG9SSWh4S28xYkFBbl9MNnFDbVhKbkcxX3Y2bmNqZUU4NUZVQWk4RUZjaUppZmdCRzZBaUczQ3BOUUxHMnVwYjAzd2dWQXBxRWJQNXNaN3pR?oc=5",
-        "published_at": "2023-11-16T08:00:00+00:00",
-        "representative_place": "24 Bit Games / Johannesburg representative",
-        "place_label": "南アフリカ-ヨハネスブルグ",
-        "sort_place_label": "南アフリカ-ヨハネスブルグ",
-        "geocode_query": "24 Bit Games Johannesburg Annapurna acquisition South African video game studio",
-        "place_type": "game_studio_acquisition_city_representative_uncertain_office",
-        "location_precision": "city",
-        "place_reason": "The generated unresolved item is an acquisition article about Annapurna buying the South African video-game studio 24 Bit Games. Use 24 Bit Games / Johannesburg as the acquired-studio representative rather than Annapurna or TheWrap. This is not an exact office coordinate.（一致語: Annapurna Buys South African Video Game Studio 24 Bit Games - TheWrap）",
-        "confidence": 0.66,
-        "rule_id": "game_all_20260709_annapurna_buys_24_bit_games_johannesburg_202311",
-        "matched_text": "Annapurna Buys South African Video Game Studio 24 Bit Games - TheWrap",
         "match_source": "known_place_title"
       }
     },
@@ -18098,33 +17558,6 @@
         "confidence": 0.3,
         "rule_id": "game_all_20260709_europe_video_games_industry_brussels_202310",
         "matched_text": "The video games industry in Europe: current situation, issues and prospects - Fondation Robert Schuman",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.4194,
-          37.7749
-        ]
-      },
-      "properties": {
-        "title": "Clash of Clans: Tips & Tricks From Pro-gamers in Nigeria, Africa’s Largest Gaming Community - IGN Africa",
-        "source": "IGN Africa",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUFhWQlZrd2NaSUt1emlMeG5GTVJvTWNFTXBEMlV0ZURsZWdidVhLZ21YZXJyR25PRGV1WFFHYlZVd3lMQVJFMTVINnVRYWxSaVJ3RjhBalVXU3V3bGViT2lEOTVCbWVuUlhzeHQ4X2diVmhQSVNvMVNWbG50RDRsZmhVVldyTTl4MVppSFlZMVF0VHlCc1NhSlR2dy1nbXFrRjYwdWFmWkdRbTVqYkFxdDRxaE5xUmJ5OEduREM5VmdxNnA1aFJHTS1QZHI1RVE0?oc=5",
-        "published_at": "2023-10-20T07:00:00+00:00",
-        "representative_place": "Unity / San Francisco",
-        "place_label": "米国-カリフォルニア州-サンフランシスコ-Unity",
-        "sort_place_label": "米国-カリフォルニア州-サンフランシスコ-Unity",
-        "geocode_query": "Unity Technologies San Francisco California United States",
-        "place_type": "game_technology_company_site",
-        "location_precision": "city",
-        "place_reason": "UnityによるSupersonic売却・ironSource Ads Network終了の記事なので、広告ネットワーク一般ではなく意思決定主体Unityの本社都市San Franciscoに置く。（一致語: Unity）",
-        "confidence": 0.74,
-        "rule_id": "observed_unity_supersonic_ironsource_san_francisco_202603",
-        "matched_text": "Unity",
         "match_source": "known_place_title"
       }
     },
@@ -18457,33 +17890,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.9842,
-          14.5995
-        ]
-      },
-      "properties": {
-        "title": "Gaming god? These Filipino mythology-inspired games can make you one - INQUIRER.net USA",
-        "source": "INQUIRER.net USA",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQnlheXdwcWFlZEJsc2JZdUFuRWhmLTFhS1lyenZtNTYxeWppblZKTFNtc2dGUUF2Tm1pRnlUR0xHRTBvWXBJSmM3T0xSVXB3VE9pa1hIbUV3OWQ1dWFvYVdMWUduY3dqNnJFWTFSNlNpWlBEdTV4X1V5NGZJekttaFZGVWROa0dGVEh6d2lMQldJeV83TmZLLVZvaktRR2xM?oc=5",
-        "published_at": "2023-08-24T07:00:00+00:00",
-        "representative_place": "Filipino mythology-inspired games / Manila representative",
-        "place_label": "フィリピン-マニラ首都圏-マニラ",
-        "sort_place_label": "フィリピン-マニラ首都圏-マニラ",
-        "geocode_query": "Filipino mythology inspired games Manila representative",
-        "place_type": "national_game_culture_roundup_city_representative_uncertain_subject_location",
-        "location_precision": "city",
-        "place_reason": "The generated unresolved item is a Philippine games/culture roundup about mythology-inspired games. The unresolved record does not expose one studio, developer city, or specific title as the article focus, so use Manila as a low-confidence Philippine cultural-games representative. This is not an exact studio or setting coordinate.（一致語: Gaming god? These Filipino mythology-inspired games can make you one - INQUIRER.net USA）",
-        "confidence": 0.36,
-        "rule_id": "game_all_20260709_filipino_mythology_inspired_games_manila_202308",
-        "matched_text": "Gaming god? These Filipino mythology-inspired games can make you one - INQUIRER.net USA",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           19.0402,
           47.4979
         ]
@@ -18530,6 +17936,33 @@
         "confidence": 0.76,
         "rule_id": "observed_jetsynthesys_evermerge_pune_202602",
         "matched_text": "JetSynthesys",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.0226,
+          34.7071
+        ]
+      },
+      "properties": {
+        "title": "Cyprus-based Gem Capital plans to inject €45 million into CEE’s gaming ecosystem - EU-Startups",
+        "source": "EU-Startups",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMEtiS1U3RVIyWURoZVJmcjNoWFUydU9wZzZGeVZuZmRCOG9DMG5qR0s4cDVXR0E0NENnVXpqWTZFdUJqRmJRS0xON0s3MDBQZUZYaG5lc3YtWXpxZVJiVi1qZWJHX3ZaQm95aS0tdXA4cjJSb252Mzg1U1hSSW8xRW9aRC1uam0yQ19XZXdaaEYwTDY2WTdJYkhUdTlzWEE0dlZKWF9sQ0pGa1YyYzk5amc4Z0lXdGM?oc=5",
+        "published_at": "2023-08-07T07:00:00+00:00",
+        "representative_place": "Gem Capital / Limassol representative",
+        "place_label": "キプロス-リマソール",
+        "sort_place_label": "キプロス-リマソール",
+        "geocode_query": "Gem Capital Cyprus Limassol CEE gaming ecosystem investment",
+        "place_type": "game_investment_firm_city_representative_uncertain_office",
+        "location_precision": "city",
+        "place_reason": "The generated unresolved item is investor-side coverage about Cyprus-based Gem Capital investing into the CEE gaming ecosystem. Use Gem Capital / Limassol as the company-side representative rather than a non-point CEE region or EU-Startups source point. This is not an exact office coordinate.（一致語: Cyprus-based Gem Capital plans to inject €45 million into CEE’s gaming ecosystem - EU-Startups）",
+        "confidence": 0.58,
+        "rule_id": "game_all_20260709_gem_capital_cee_gaming_limassol_202308_eustartups",
+        "matched_text": "Cyprus-based Gem Capital plans to inject €45 million into CEE’s gaming ecosystem - EU-Startups",
         "match_source": "known_place_title"
       }
     },
@@ -18646,33 +18079,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -17.4677,
-          14.7167
-        ]
-      },
-      "properties": {
-        "title": "How Teddy Kossoko is championing the games industry in Senegal - GamesIndustry.biz",
-        "source": "GamesIndustry.biz",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNU3RVMUdDa3Q5bzQ0WElIYzVOVU1PTVhkNS1ZV0I2SW5xaW10Nk8tWFdZVHNlWE85SDAwR2hwYzlPUkZFN3hiak40U3pNVGVjVXpxN3hOSnp3X3NFdEJuV2JKSS11ak4zTEQzN0J3aWtWYjNoOGFTMHJlb0FQRFFWM2cxSGg0V2ZVWFBPUmF0aG11b3NqSnZV?oc=5",
-        "published_at": "2023-07-19T07:00:00+00:00",
-        "representative_place": "Senegal games industry / Dakar representative",
-        "place_label": "セネガル-ダカール-ゲーム産業代表点",
-        "sort_place_label": "セネガル-ダカール-ゲーム産業代表点",
-        "geocode_query": "Teddy Kossoko games industry Senegal Dakar representative",
-        "place_type": "national_games_industry_profile_city_representative",
-        "location_precision": "city",
-        "place_reason": "The article is specifically about Teddy Kossoko championing the games industry in Senegal. The generated record does not expose a venue or single office, so Dakar is used as the national industry representative instead of a country-scale Senegal placement.（一致語: How Teddy Kossoko is championing the games industry in Senegal - GamesIndustry.biz）",
-        "confidence": 0.46,
-        "rule_id": "game_all_20260709_teddy_kossoko_senegal_dakar_202307",
-        "matched_text": "How Teddy Kossoko is championing the games industry in Senegal - GamesIndustry.biz",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -118.4912,
           34.0195
         ]
@@ -18719,33 +18125,6 @@
         "confidence": 0.7,
         "rule_id": "game_all_20260709_bitsummit_lets_go_stage_kyoto_202307",
         "matched_text": "インディーゲームの祭典「BitSummit Let’s Go!!」 注目タイトルやスタジオをピックアップするステージコンテンツ第2弾が発表 - ガジェット通信",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          32.5825,
-          0.3476
-        ]
-      },
-      "properties": {
-        "title": "Investors train eyes on African youth with gaming campuses - The Independent Uganda",
-        "source": "The Independent Uganda",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeDVFRG9sc0NaUXpjalZmNTJRVWJYTC1lV0d5c2xkaWtCczdKR04yMHhpaldHcVBKZ0s2MWh0bHZsSFFVUFpsV2k3cjFzR1lJYXkwUWdKVF9BZUNPREpFOURZek1hbTJXWEQzejc5Z1MxekozUV9SZHFiekFyd3k0T0cyYWZuSmNGXzU0VDNTVkdOYkk?oc=5",
-        "published_at": "2023-06-21T07:00:00+00:00",
-        "representative_place": "African youth gaming campuses / Kampala representative",
-        "place_label": "ウガンダ-カンパラ",
-        "sort_place_label": "ウガンダ-カンパラ",
-        "geocode_query": "African youth gaming campuses Kampala The Independent Uganda",
-        "place_type": "regional_game_training_campus_article_city_representative_uncertain_site",
-        "location_precision": "city",
-        "place_reason": "The generated unresolved item is about investors targeting African youth through gaming campuses and comes from a Uganda-specific source/feed context. The unresolved record does not expose a specific campus, investor office, or city, so use Kampala as a low-confidence Uganda/Africa game-training representative rather than a non-point Africa placement. This is not an exact campus coordinate.（一致語: Investors train eyes on African youth with gaming campuses - The Independent Uganda）",
-        "confidence": 0.34,
-        "rule_id": "game_all_20260709_african_youth_gaming_campuses_kampala_202306",
-        "matched_text": "Investors train eyes on African youth with gaming campuses - The Independent Uganda",
         "match_source": "known_place_title"
       }
     },
@@ -18808,33 +18187,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.5021,
-          3.848
-        ]
-      },
-      "properties": {
-        "title": "Olivier Madiba pioneers the African video game industry - We are Tech",
-        "source": "We are Tech",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZ045cVJnM2VQOXBySDNoZ2VpMDI2ajNjR1ZfQmZoMUZTNVlDamdRa01tSmlaX3oxWUd3Y2NpSWYyUm03ZGhuQXBuUGNnZ2htTzMtNW5WeHl4ekFKZGZJOHZlS2dQRU15SXYyVFNoLUJZbnFSSmRhRTUwaHBhbkhNSXNDMG9QcENBS1hiTkJYaERxdGJIQ01MRHk2cFM5WFplTVFjUU14MHVXQQ?oc=5",
-        "published_at": "2023-05-10T11:10:24+00:00",
-        "representative_place": "Kiro'o Games / Yaounde",
-        "place_label": "カメルーン-中央州-ヤウンデ-Kiro'o Games / Olivier Madiba",
-        "sort_place_label": "カメルーン-中央州-ヤウンデ-Kiro'o Games / Olivier Madiba",
-        "geocode_query": "Kiro'o Games headquarters Yaounde Cameroon Olivier Madiba",
-        "place_type": "game_industry_person_studio_representative",
-        "location_precision": "city",
-        "place_reason": "The We are Tech RSS item profiles Olivier Madiba as a pioneer in the African video game industry. External confirmation identifies Madiba as the founder of Kiro'o Games, and Kiro'o Games is headquartered in Yaounde, Cameroon. The article's concrete place-bearing subject is the person/studio pair rather than the article publisher or a generic Africa point, so Yaounde is used as the representative studio location. Exact current office address was not confirmed in this pass, so city precision is used.（一致語: Olivier Madiba pioneers the African video game industry - We are Tech）",
-        "confidence": 0.86,
-        "rule_id": "observed_olivier_madiba_kiroo_games_yaounde_202305",
-        "matched_text": "Olivier Madiba pioneers the African video game industry - We are Tech",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -3.1883,
           55.9533
         ]
@@ -18881,33 +18233,6 @@
         "confidence": 0.3,
         "rule_id": "game_all_20260709_cee_game_development_studios_sofia_202305",
         "matched_text": "A League of Their Own: 30+ Game Development Studios from the CEE - The Recursive",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.74,
-          9.03
-        ]
-      },
-      "properties": {
-        "title": "Local Gaming Industry on the Rise - Ethiopian Business Review",
-        "source": "Ethiopian Business Review",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0wOGlKZUFDSHA1QnhPcDBFSW8td0QtT2x6Z0x6RnZzUlk0aVhRRnNhVms1SUJGSGtiQVJqQlBmcUdTMnpLcmFzY1BWY0FHenZTbHpLWkFieldSMFJEeGJqRk5WeVBLQVVfWXRtMzhURElLOTlPN252cGR3?oc=5",
-        "published_at": "2023-04-13T15:04:18+00:00",
-        "representative_place": "Ethiopian local gaming industry / Addis Ababa representative",
-        "place_label": "エチオピア-アディスアベバ",
-        "sort_place_label": "エチオピア-アディスアベバ",
-        "geocode_query": "Ethiopian local gaming industry Addis Ababa representative",
-        "place_type": "national_game_industry_article_city_representative_uncertain_subject_location",
-        "location_precision": "city",
-        "place_reason": "The generated unresolved item is an Ethiopia-focused article about the local gaming industry. The unresolved record does not expose a specific studio, interview site, or event, so use Addis Ababa as a low-confidence Ethiopian games-industry representative rather than a non-point Ethiopia placement. This is not an exact studio or publication coordinate.（一致語: Local Gaming Industry on the Rise - Ethiopian Business Review）",
-        "confidence": 0.42,
-        "rule_id": "game_all_20260709_ethiopia_local_gaming_industry_addis_ababa_202304",
-        "matched_text": "Local Gaming Industry on the Rise - Ethiopian Business Review",
         "match_source": "known_place_title"
       }
     },
@@ -19097,33 +18422,6 @@
         "confidence": 0.66,
         "rule_id": "observed_carry1st_preseries_b_cape_town_202301",
         "matched_text": "South African gaming startup, Carry1st, secures $27 million pre-Series B to develop and publish new games - Techpoint Africa",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          18.4241,
-          -33.9249
-        ]
-      },
-      "properties": {
-        "title": "African gaming startup Carry1st raises $27M from Bitkraft Ventures and a16z - TechCrunch",
-        "source": "TechCrunch",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNzhyZnZCdlNWdVh2N29CWExkbEdQNllUYndvOHZhcEE0UmMtQWZBdlZlaHpDdHcxcjJIQUlLcmNqLTlfeDBUcUEyN25tbmtHV2NfSDBQVWFrVnAyM1k3cG9Kb2cxWGw1SHV5cF9YRjFnMFktRDBFekx5NDJkUS1PU3c3aUpqY2dHemNXS180RlVPUlZ5d0U0NFRnUm5nVGI3eHNZMDBXazR6T19DbGc?oc=5",
-        "published_at": "2023-01-17T08:00:00+00:00",
-        "representative_place": "Carry1st / Cape Town representative",
-        "place_label": "南アフリカ-西ケープ州-ケープタウン-Carry1st / funding article",
-        "sort_place_label": "南アフリカ-西ケープ州-ケープタウン-Carry1st / funding article",
-        "geocode_query": "Carry1st Cape Town South Africa African gaming startup funding",
-        "place_type": "game_startup_funding_company_representative",
-        "location_precision": "city",
-        "place_reason": "The TechCrunch RSS item is about African gaming startup Carry1st raising $27M from Bitkraft Ventures and a16z. The place-bearing subject is Carry1st as the funded gaming startup, not TechCrunch or the investors. Existing project context has already treated Carry1st as a Cape Town / South African company-context entry for the same funding cluster. Cape Town is therefore used as the representative company point, with city precision because an article-specific office address was not confirmed.（一致語: African gaming startup Carry1st raises $27M from Bitkraft Ventures and a16z - TechCrunch）",
-        "confidence": 0.76,
-        "rule_id": "observed_carry1st_techcrunch_funding_cape_town_202301",
-        "matched_text": "African gaming startup Carry1st raises $27M from Bitkraft Ventures and a16z - TechCrunch",
         "match_source": "known_place_title"
       }
     },
@@ -19510,33 +18808,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.9384,
-          60.1699
-        ]
-      },
-      "properties": {
-        "title": "Sony launches PlayStation Studios Mobile, acquires a game company - The Times of India",
-        "source": "The Times of India",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQd2o4aG9ScXlsOUs5eHdtT3RWZXNfb1pOUUJJaXdLNjFkVTllX2EtZkJaR3VURUMzalI1TzBKTmlSM3pnVlZCXzRCZXVFR3pQM2w1anNOb29jNkdZRmZOWVNUaTlMUWFWc2JaQUE5SDg5Mi1JX1lBTHo5Zkx2M01SenRWT2J0LVpBbWFUQkRKZ2xTZFBTVGhBREU0aVlocC1DVjlXTnlZZTJXS2tDbE1JVG1ZTWVOWTRjY2R2NXpiZngwNUdKR1dYQldwOWRCazVxb3hpcNIB2gFBVV95cUxObGlnOUhoWUxyMlBXeVBaZUZFSUwxb2ZueHRyRE5mTlBHSkRQZHE4czZfdGJjQXk2M2k0WlBzT183ZnBuaGw1TW1tQkxJRmFhSUFzQVJZcjVidFBZNEtqbjJoa3FaMnJfVERYdVQyOGxEbVNwZHFnREVpQTBISTE3cTAzaHNRMnMtNUt2MWlRY01jeXNlTUtaRVBtNEVESUY1b043a042NWZxUExGSVdWTFQwOWZXN25vYU9wRVF5Ti1FMFhMeFVuNHZvQUNSMGMxQWhLWE9GWDc1QQ?oc=5",
-        "published_at": "2022-08-29T07:00:00+00:00",
-        "representative_place": "Savage Game Studios / Helsinki and Berlin representative",
-        "place_label": "フィンランド-ヘルシンキ代表点-Savage Game Studios / PlayStation Studios Mobile acquisition",
-        "sort_place_label": "フィンランド-ヘルシンキ代表点-Savage Game Studios / PlayStation Studios Mobile acquisition",
-        "geocode_query": "Savage Game Studios Helsinki Berlin PlayStation Studios Mobile acquisition",
-        "place_type": "mobile_game_studio_acquisition_city_representative_uncertain",
-        "location_precision": "country_city",
-        "place_reason": "記事タイトルはSonyによるPlayStation Studios Mobile立ち上げとゲーム会社買収を扱う。既存C2では買収対象会社名・都市・所在地未確認として無配置だったが、外部確認では2022年8月の買収対象はSavage Game Studiosで、同社はHelsinkiとBerlinに拠点を持つモバイルゲーム開発会社として確認できる。単一住所ではなく複数拠点の買収記事であるため、暫定的にHelsinki代表点へ置き、Berlin拠点もラベル/理由で明記する。正確なオフィス住所・どちらの拠点が記事上の主対象かまでは今回確定していないためB1/B2境界のcountry_city精度に留める。（一致語: PlayStation Studios Mobile acquires a game company）（一致語: Sony launches PlayStation Studios Mobile, acquires a game company - The Times of India）",
-        "confidence": 0.62,
-        "rule_id": "observed_playstation_studios_mobile_savage_helsinki_berlin_202208",
-        "matched_text": "Sony launches PlayStation Studios Mobile, acquires a game company - The Times of India",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           103.7873,
           1.2992
         ]
@@ -19583,33 +18854,6 @@
         "confidence": 0.78,
         "rule_id": "observed_virtuos_southeast_asia_singapore_202512",
         "matched_text": "Southeast Asia",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.3792,
-          6.5244
-        ]
-      },
-      "properties": {
-        "title": "A customized app store for Africa's game developers - DW.com",
-        "source": "DW.com",
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5TZF80akZrM19oM0tTdElRQnB4eHRsZDN3dF9INGZMdVZEb0tvRHNHbDBfM0tYZ3JpblZWM0dBQkxsWUl4c0JGMGhPVUpyZWZlZjg0Qk9ublFFc3hjVDBFYlZyS1VMOE5vMnkzVHBBWUNraXc?oc=5",
-        "published_at": "2022-07-29T07:00:00+00:00",
-        "representative_place": "Africa game developers app store / Lagos representative",
-        "place_label": "Nigeria-Lagos-representative-Africa game developers app store",
-        "sort_place_label": "Nigeria-Lagos-representative-Africa game developers app store",
-        "geocode_query": "Africa game developers app store Lagos Nigeria",
-        "place_type": "game_distribution_platform_country_city_representative_uncertain",
-        "location_precision": "country_city",
-        "place_reason": "The article is about a customized app store for Africa's game developers, but the app-store name, operating company, city, and office location could not be confirmed in this pass. Use a very low-confidence Lagos representative point for the African game-developer distribution context until the article body, platform site, company profile, or official source identifies the operating entity and location. This is not a confirmed office, venue, or platform headquarters.（一致語: customized app store for Africa's game developers）",
-        "confidence": 0.18,
-        "rule_id": "observed_customized_app_store_africa_game_developers_lagos_uncertain_202207",
-        "matched_text": "customized app store for Africa's game developers",
         "match_source": "known_place_title"
       }
     },
@@ -19672,6 +18916,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          139.7516,
+          35.6581
+        ]
+      },
+      "properties": {
+        "title": "NetEase Gamesの新作モン娘RPG『クローバーシアター』が8月3日に配信決定 - ASCII.jp",
+        "source": "ASCII.jp",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5wakEzN2haVk0zdE9ORUpjZlNNRmlNQklMcGNuV0pFak5QaVc4a3RSSmZ1UU9Lek82aXhrUXcwTDdJV2hNNVpuUEZnbUVDbDB0bXl5bg?oc=5",
+        "published_at": "2022-07-21T07:00:00+00:00",
+        "representative_place": "Bandai Namco Entertainment / Minato, Tokyo representative",
+        "place_label": "日本-東京都-港区-Bandai Namco Entertainment / SAO Memory Defrag",
+        "sort_place_label": "日本-東京都-港区-Bandai Namco Entertainment / SAO Memory Defrag",
+        "geocode_query": "Bandai Namco Entertainment Minato Tokyo Sword Art Online Memory Defrag",
+        "place_type": "mobile_game_publisher_district_representative_uncertain_title_team",
+        "location_precision": "district",
+        "place_reason": "The legacy active entry treated the Sword Art Online Memory Defrag preregistration item as a broad Japan mobile-game launch-market topic. Recheck confirmed the game as a Bandai Namco Entertainment mobile title, and public company context places Bandai Namco Entertainment in Minato, Tokyo after its 2016 move. This override therefore moves the article from a Japan country representative point to a Minato, Tokyo publisher-context representative point. This is not a confirmed title-team office, article venue, exact Bandai Namco Entertainment office coordinate, or media office; replace it if the article body, official game page, store page, or company profile identifies a more precise publisher/developer/operator site.（一致語: 配信決定）",
+        "confidence": 0.64,
+        "rule_id": "observed_sao_memory_defrag_bandai_namco_minato_tokyo_201801",
+        "matched_text": "配信決定",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           3.3792,
           6.5244
         ]
@@ -19691,33 +18962,6 @@
         "confidence": 0.58,
         "rule_id": "observed_quartz_africa_fastest_growing_game_market_lagos_202207",
         "matched_text": "Why Africa will be the world’s fastest growing video game market - qz.com",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.3792,
-          6.5244
-        ]
-      },
-      "properties": {
-        "title": "African video game makers are breaking into the global industry with their own stories - qz.com",
-        "source": "qz.com",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPS2NjZ2l2ckkzcVo5ZUNqb0hmWlM2UEJtaTZuT3RRMnhJZF9xMEZNSWhhSnFjWmpWekNTTVpPTXdHNWJvZDZzbnV2cHgtU2tjYy0xYUFRQlNHM055U0tOSDV3RFBCUERaSzJOcm1JTVRzV0JaeUkxVk5FNVdqYWkxX1Z6YWs0Wlpib0RMc1lTdjRpSWE0cXpoNFJuTlFHY3FPaERrQ0tnalRfQjVXeUpUdzVKQkd1QQ?oc=5",
-        "published_at": "2022-07-20T07:00:00+00:00",
-        "representative_place": "African game-development scene / Lagos representative",
-        "place_label": "ナイジェリア-ラゴス-アフリカゲーム開発者記事",
-        "sort_place_label": "ナイジェリア-ラゴス-アフリカゲーム開発者記事",
-        "geocode_query": "Lagos Nigeria African video game makers Quartz Africa",
-        "place_type": "game_industry_media_article_city_representative",
-        "location_precision": "city",
-        "place_reason": "The Quartz RSS item is a broad feature about African video game makers entering the global industry with their own stories, not a single studio announcement or physical event. The unresolved title does not expose the individual makers, studios, or cities. A continent centroid is avoided; Lagos is used as a concrete representative point for the African game-development scene because Nigeria / Lagos is a recurring high-signal anchor in the project for African game-market and game-development articles. Replace or split later if the full article identifies specific developers, studios, or reporting cities.（一致語: African video game makers are breaking into the global industry with their own stories - qz.com）",
-        "confidence": 0.58,
-        "rule_id": "observed_quartz_african_game_makers_lagos_202207",
-        "matched_text": "African video game makers are breaking into the global industry with their own stories - qz.com",
         "match_source": "known_place_title"
       }
     },
@@ -20158,6 +19402,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.5697,
+          38.1074
+        ]
+      },
+      "properties": {
+        "title": "10 Black Innovators Who Changed the Gaming Industry - Nerdist",
+        "source": "Nerdist",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE83UlpiQWpOSUZ6UFZtT3huT0Z0M2pGRlRCWE9rZVNrb3V5bTV2cXB5YjNZQkxzemFBMWFOYWU1ekNaZHRaOHE1ZzZubHZCcjZWNVVheVViSHktVWx6UERZTmVDVTQwX0ZkWWsybmJPSnRUNjBwRDMxNw?oc=5",
+        "published_at": "2022-02-07T08:00:00+00:00",
+        "representative_place": "Toys for Bob / Novato studio area",
+        "place_label": "米国-カリフォルニア州-ノバト-Toys for Bob",
+        "sort_place_label": "米国-カリフォルニア州-ノバト-Toys for Bob",
+        "geocode_query": "Toys for Bob Novato California United States",
+        "place_type": "studio_site",
+        "location_precision": "city",
+        "place_reason": "Toys for Bob / Spyro系の記事だけを拾う。Novato拠点までは安定しているが、現行拠点の番地を確実に固定できないためcityに止める（一致語: Novato）",
+        "confidence": 0.72,
+        "rule_id": "observed_toys_for_bob_spyro_novato_202606",
+        "matched_text": "Novato",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -118.2437,
           34.0522
         ]
@@ -20177,6 +19448,33 @@
         "confidence": 0.72,
         "rule_id": "observed_mina_the_hollower_yacht_club_games_los_angeles_202202",
         "matched_text": "『ショベルナイト』の開発スタジオ・Yacht Club Gamesが新作ゲーム『Mina the Hollower』を発表。ダークな雰囲気のゲームボーイカラー風アクション - 電ファミニコゲーマー",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4194,
+          37.7749
+        ]
+      },
+      "properties": {
+        "title": "Microsoft to acquire Activision Blizzard to bring the joy and community of gaming to everyone, across every device - Microsoft Source",
+        "source": "Microsoft Source",
+        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPZUxzWVpXM1VXdUtpWnBmbm5XSG5wX2V4WnNid3RqQXZRZElFNDdVUm1KdEx4M1kzMHNISTNNbjlRVG03aG8wVkxQZ28zNGlpSDVENkVVLU5hU2ZsYnN5QjJmZ0tadnNXU0lvc2FJMlBXcEZMR1I0bFE1Z01ZZFowejFiOHBMMHBWWHNXU0NpUURkbGFYN0N3UW44a0tOWlJiVloyT2pJLW9iVWREVmlLNkxLLVBzZnotaF9NUmpFYTduYnNPdGk4ZW1NZmthcm5IbkJWV2V4Tmh1cEd0bjk2Tkg5UEdHNnlvNng5aDBwbk4?oc=5",
+        "published_at": "2022-01-18T08:00:00+00:00",
+        "representative_place": "Unity / San Francisco",
+        "place_label": "米国-カリフォルニア州-サンフランシスコ-Unity",
+        "sort_place_label": "米国-カリフォルニア州-サンフランシスコ-Unity",
+        "geocode_query": "Unity Technologies San Francisco California United States",
+        "place_type": "game_technology_company_site",
+        "location_precision": "city",
+        "place_reason": "UnityによるSupersonic売却・ironSource Ads Network終了の記事なので、広告ネットワーク一般ではなく意思決定主体Unityの本社都市San Franciscoに置く。（一致語: Unity）",
+        "confidence": 0.74,
+        "rule_id": "observed_unity_supersonic_ironsource_san_francisco_202603",
+        "matched_text": "Unity",
         "match_source": "known_place_title"
       }
     },
@@ -20482,6 +19780,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          73.8567,
+          18.5204
+        ]
+      },
+      "properties": {
+        "title": "Board Games Market Size, Share, Trends | Growth Report [2034] - Fortune Business Insights",
+        "source": "Fortune Business Insights",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB2el9oa1pfUmtsWVV4SDBLLU5kdlBOZzhCRW0wUUpjRndqQzJHWEltcWNZUDNnR041NXppVVdEdDRoZ080X1YwX2dOc2dRall0Nk95NWZnX052bjRxTFI5UmtrMjdtRFh6SEduQVhvWHo1MG8?oc=5",
+        "published_at": "2021-08-10T10:39:32+00:00",
+        "representative_place": "Fortune Business Insights / Pune representative",
+        "place_label": "インド-マハーラーシュトラ州-プネー-Fortune Business Insights / board games market report",
+        "sort_place_label": "インド-マハーラーシュトラ州-プネー-Fortune Business Insights / board games market report",
+        "geocode_query": "Fortune Business Insights Pune board games market report",
+        "place_type": "market_research_report_publisher_representative",
+        "location_precision": "city",
+        "place_reason": "The Fortune Business Insights RSS item is a market-size / growth-report page about board games, not a single game studio, launch, or event venue. The unresolved record does not expose any specific physical market event or company from the report content. To avoid mapping the report to the broad Africa feed context or to a generic market centroid, the concrete available location anchor is the market-research publisher. Fortune Business Insights is treated as a Pune-based market-research context, so Pune is used as a low-to-moderate confidence representative point. Replace if the full report page is later parsed into a more specific company, region, or office anchor.（一致語: Board Games Market Size, Share, Trends | Growth Report [2034] - Fortune Business Insights）",
+        "confidence": 0.6,
+        "rule_id": "observed_board_games_market_fortune_business_insights_pune_202108",
+        "matched_text": "Board Games Market Size, Share, Trends | Growth Report [2034] - Fortune Business Insights",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -118.3965,
           34.0211
         ]
@@ -20730,33 +20055,6 @@
         ]
       },
       "properties": {
-        "title": "‘After School Afterlife’ Mixes Platforming and Rhythm Gameplay With Peranakan Aesthetics - IGN Southeast Asia",
-        "source": "IGN Southeast Asia",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbGF1X3oxS1E4MThTMHpnRUoxX3JXWEFfYnc2SGJ2YnRnTnF6Q0NxM2dWekhITkJnN1ZCLTdjei1YalpReU1ycWozYjVvSXpCNzFSQmRsZmwxdjREUUVJYmZoNlZMNko4bl9ubUtxd1dKQURVNlR5NjZlQjlmREp1bmdodm9nSjNXMGJ3S0g1dFhSbi16Q0p5dS04LTJTcUxmaGJ6QUFoci0zVUFSVHIybjN2X21BRVVQblFkdWVNUmxFc0ZCd2lBcDBRb0RnZw?oc=5",
-        "published_at": "2021-04-21T07:00:00+00:00",
-        "representative_place": "Virtuos / Fusionopolis, Singapore",
-        "place_label": "シンガポール-Fusionopolis-Virtuos",
-        "sort_place_label": "シンガポール-Fusionopolis-Virtuos",
-        "geocode_query": "Virtuos Fusionopolis Singapore",
-        "place_type": "game_services_company_site",
-        "location_precision": "city_district",
-        "place_reason": "Virtuosの東南アジア開発体制に関する記事なので、地域代表点ではなく同社本社所在地であるSingapore / Fusionopolisに置く。（一致語: Southeast Asia）",
-        "confidence": 0.78,
-        "rule_id": "observed_virtuos_southeast_asia_singapore_202512",
-        "matched_text": "Southeast Asia",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          103.7873,
-          1.2992
-        ]
-      },
-      "properties": {
         "title": "Malaysia-Based Studio Develops Video Game For Balenciaga - IGN Southeast Asia",
         "source": "IGN Southeast Asia",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUS14U1RMNi1CcExwbWVzM3RCNE15aHNrejlpbUJrY1hYZGNGa2lWd1JxVGNvZnN6UEd0VzFRRWNkSHpNQmlwR0pDZFdTRDZsOThkS044TWwwU2JIVUNCZjc3bkdHMklldFUxWk5vZW5iSE1oV0xYaTVCRG1rdUR4VVBBVkE3dVRROHlUTnAtMVI1bThjMGlkNmk3ODVfTHVsdnd3VmR3RQ?oc=5",
@@ -20906,33 +20204,6 @@
         "confidence": 0.62,
         "rule_id": "observed_rockshot_valhalla_game_studios_tokyo_legacy_201805",
         "matched_text": "Steam",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.3792,
-          6.5244
-        ]
-      },
-      "properties": {
-        "title": "Top 10 Game Development Companies in Nigeria - ShockNG",
-        "source": "ShockNG",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5nS0N4ZVNpYXhqWFNHSEd1SllqZ2JBb0xuQjJfT1RvaHNGRW0yay1DYldCR0w1TmYzWWxCUFZVdHpTb0tSbEVocVJvRXk2TEdzYm5uN1ROZmQ5c0paby1faVlmQXRpdw?oc=5",
-        "published_at": "2020-12-30T08:00:00+00:00",
-        "representative_place": "Nigerian game development cluster / Lagos representative",
-        "place_label": "ナイジェリア-ラゴス-ゲーム開発会社クラスター",
-        "sort_place_label": "ナイジェリア-ラゴス-ゲーム開発会社クラスター",
-        "geocode_query": "Lagos Nigeria game development companies Maliyo Kuluya Gamsole",
-        "place_type": "industry_list_city_representative",
-        "location_precision": "city",
-        "place_reason": "The ShockNG RSS item is a list article about Nigerian game development companies rather than a single studio announcement. Public game-industry references identify several of Nigeria's most prominent local game developers, including Maliyo Games, Kuluya, and Gamsole, as Lagos-based or Lagos-context companies. Because the article's concrete subject is the Nigerian game-development company cluster, Lagos is used as the representative city point rather than the article publisher or Nigeria as a whole. This is a moderate-confidence industry-list representative and should be replaced if the original article is later parsed into individual company entries.（一致語: Top 10 Game Development Companies in Nigeria - ShockNG）",
-        "confidence": 0.64,
-        "rule_id": "observed_top_nigeria_game_development_companies_lagos_202012",
-        "matched_text": "Top 10 Game Development Companies in Nigeria - ShockNG",
         "match_source": "known_place_title"
       }
     },
@@ -21292,33 +20563,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.8219,
-          -1.2921
-        ]
-      },
-      "properties": {
-        "title": "‘Nairobi X’ puts Kenya on world gaming map - The EastAfrican",
-        "source": "The EastAfrican",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdG1oc25oYXJhY1BTU0phdDJIeEpaRnl0RU5LZ2stelZCc19hOEZCdUlKTmlHOVlCTnpkVW1NdzZwTDk4QUZMQ0szQ1ZxWkdvd1luSjlhRGJWSlZWNHZDRElETi1VYTFjc0NoNzFIVnc4NVlNdzRUOXQ3RXAxUDhGM0FuRHE4aHNGRkhnaTBOcHhoRk02SGlzSndPV0U?oc=5",
-        "published_at": "2020-07-06T07:00:00+00:00",
-        "representative_place": "Nairobi X / Nairobi",
-        "place_label": "ケニア-ナイロビ-Nairobi X",
-        "sort_place_label": "ケニア-ナイロビ-Nairobi X",
-        "geocode_query": "Nairobi X Kenya game Nairobi",
-        "place_type": "game_profile_city_context_uncertain_developer_site",
-        "location_precision": "city",
-        "place_reason": "記事主語はケニアのゲーム『Nairobi X』が世界のゲーム地図に載るという文脈。タイトル上の都市・国文脈が強く、媒体所在地ではなくNairobi側に置く。開発会社の正確な住所までは今回確定していないためB1に留める。（一致語: ‘Nairobi X’ puts Kenya on world gaming map - The EastAfrican）",
-        "confidence": 0.58,
-        "rule_id": "observed_nairobi_x_black_division_games_nairobi_202007",
-        "matched_text": "‘Nairobi X’ puts Kenya on world gaming map - The EastAfrican",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           139.7516,
           35.6581
         ]
@@ -21589,25 +20833,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.7516,
-          35.6581
+          73.8567,
+          18.5204
         ]
       },
       "properties": {
-        "title": "『オーバーロード』原作のスマホゲーム「MASS FOR THE DEAD」英語版配信が決定！世界100以上の国と地域での配信に向けて事前登録を開始！ - PR TIMES",
-        "source": "PR TIMES",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA3TWkxYVpyNWh5YXlBS3RUVkcyTlhNdFBPS05WOXZPTDJUUndoTjFWWlpyS0xGSllXMFJqYlJHbHVVTzFJVFJZSEhHMEVtbUNLbjB5U2ZIdVBVVWhEd0ptNUpKUHp1cmlyblE?oc=5",
-        "published_at": "2020-04-02T07:00:00+00:00",
-        "representative_place": "Bandai Namco Entertainment / Minato, Tokyo representative",
-        "place_label": "日本-東京都-港区-Bandai Namco Entertainment / SAO Memory Defrag",
-        "sort_place_label": "日本-東京都-港区-Bandai Namco Entertainment / SAO Memory Defrag",
-        "geocode_query": "Bandai Namco Entertainment Minato Tokyo Sword Art Online Memory Defrag",
-        "place_type": "mobile_game_publisher_district_representative_uncertain_title_team",
-        "location_precision": "district",
-        "place_reason": "The legacy active entry treated the Sword Art Online Memory Defrag preregistration item as a broad Japan mobile-game launch-market topic. Recheck confirmed the game as a Bandai Namco Entertainment mobile title, and public company context places Bandai Namco Entertainment in Minato, Tokyo after its 2016 move. This override therefore moves the article from a Japan country representative point to a Minato, Tokyo publisher-context representative point. This is not a confirmed title-team office, article venue, exact Bandai Namco Entertainment office coordinate, or media office; replace it if the article body, official game page, store page, or company profile identifies a more precise publisher/developer/operator site.（一致語: 事前登録）",
-        "confidence": 0.64,
-        "rule_id": "observed_sao_memory_defrag_bandai_namco_minato_tokyo_201801",
-        "matched_text": "事前登録",
+        "title": "Video Game Market Size, Share, Growth, Research, 2026-2034 - Fortune Business Insights",
+        "source": "Fortune Business Insights",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE53OWtMYlE5dTZldnE1TWhnZDg5Snc5dEdzeDFSTW5KclhUS1RzTXUxU2lJZWJpZ3hyX0FMVnpWaTZ1Mi05cVhKcGdjMFBtSGs0T3c1anFxVnJEY0FEM2h1RHlKYms5bjcwdmR3YVZCTXpVdw?oc=5",
+        "published_at": "2020-04-04T00:20:54+00:00",
+        "representative_place": "Fortune Business Insights / Pune representative",
+        "place_label": "インド-マハーラーシュトラ州-プネー-Fortune Business Insights / board games market report",
+        "sort_place_label": "インド-マハーラーシュトラ州-プネー-Fortune Business Insights / board games market report",
+        "geocode_query": "Fortune Business Insights Pune board games market report",
+        "place_type": "market_research_report_publisher_representative",
+        "location_precision": "city",
+        "place_reason": "The legacy active entry treated the Board Games Market 2034 report item as a global / multi-region market-report topic. A later repository entry for the same Fortune Business Insights board-games market report already uses Pune as the concrete publisher-context representative, while noting that the report itself is not a single game studio, launch, or event venue. This override aligns the older global market-report entry with that later same-topic Pune representative. This is not a board-game market event, company in the report, exact publisher office coordinate, or media office; replace it if the full report page is later parsed into a more specific company, region, or office anchor.（一致語: Share）",
+        "confidence": 0.6,
+        "rule_id": "observed_board_games_market_fortune_business_insights_pune_legacy_202108",
+        "matched_text": "Share",
         "match_source": "known_place_title"
       }
     },
@@ -21778,33 +21022,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.5697,
-          38.1074
-        ]
-      },
-      "properties": {
-        "title": "2Kが『バイオショック』新作を開発する新スタジオの設立を発表 - GameBusiness.jp",
-        "source": "GameBusiness.jp",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1FMWV5V3pqMXBMd0FiczBsRVhyQm1MV3RpVmx3MjQzLThDSW1laE5WQlVoUDd3VDZfRGRmaENERk9Rc1VVRmw2YUFlbG1DaFJsaDJiZVViSkZGSTdSM2NsMGlvWVlrSG5K?oc=5",
-        "published_at": "2019-12-10T08:00:00+00:00",
-        "representative_place": "Cloud Chamber / Novato representative",
-        "place_label": "米国-カリフォルニア州-ノバト",
-        "sort_place_label": "米国-カリフォルニア州-ノバト",
-        "geocode_query": "Cloud Chamber Novato new BioShock studio 2K",
-        "place_type": "game_studio_launch_city_representative_uncertain_office",
-        "location_precision": "city",
-        "place_reason": "The generated unresolved item is about 2K announcing a new studio to develop the next BioShock. Use Cloud Chamber / Novato as the studio-side representative rather than GameBusiness.jp or generic 2K. This is not an exact office coordinate and should be refined if the article exposes the precise studio address.（一致語: 2Kが『バイオショック』新作を開発する新スタジオの設立を発表 - GameBusiness.jp）",
-        "confidence": 0.66,
-        "rule_id": "game_all_20260709_2k_bioshock_new_studio_novato_201912",
-        "matched_text": "2Kが『バイオショック』新作を開発する新スタジオの設立を発表 - GameBusiness.jp",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           139.7288,
           35.6197
         ]
@@ -21851,6 +21068,33 @@
         "confidence": 0.58,
         "rule_id": "observed_video_games_studied_inquirer_makati_201910",
         "matched_text": "Video games ruin studies? But here they are studied - Inquirer.net",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7038,
+          40.4168
+        ]
+      },
+      "properties": {
+        "title": "とある新作ゲームが『Cuphead』の盗作であるとして批判を受ける。あまりに似すぎた作品の行く末は - AUTOMATON",
+        "source": "AUTOMATON",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1yamtlbG45NnpMTEV6MFp5WWt1c1BJbXF5YnRRYmxNWEN2b0xQTW9LVDZmZXk0YlRwTHlkS211Z3B4ZHBjaGJWb0VBOU1QdlpMVUlwNzNxcWN1Y3I4eUkwUF9kem9ZdTlySHVzZw?oc=5",
+        "published_at": "2019-10-10T07:00:00+00:00",
+        "representative_place": "Xixo Games Studio / Spain representative",
+        "place_label": "スペイン代表点-Xixo Games Studio / Enchanted Portals",
+        "sort_place_label": "スペイン代表点-Xixo Games Studio / Enchanted Portals",
+        "geocode_query": "Xixo Games Studio Spain Enchanted Portals",
+        "place_type": "game_development_studio_country_representative",
+        "location_precision": "country_city",
+        "place_reason": "記事主語は『Cuphead』に似すぎているとして批判された新作ゲーム『Enchanted Portals』。開発主体はXixo Games Studio文脈で扱えるが、今回の確認範囲では都市・住所を確定できない。Madridはスペイン国内の暫定代表点であり詳細地点ではないためB2として後で再精査する。（一致語: とある新作ゲームが『Cuphead』の盗作であるとして批判を受ける。あまりに似すぎた作品の行く末は - AUTOMATON）",
+        "confidence": 0.48,
+        "rule_id": "observed_enchanted_portals_xixo_games_spain_representative_201910",
+        "matched_text": "とある新作ゲームが『Cuphead』の盗作であるとして批判を受ける。あまりに似すぎた作品の行く末は - AUTOMATON",
         "match_source": "known_place_title"
       }
     },
@@ -22210,6 +21454,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          80.2707,
+          13.0827
+        ]
+      },
+      "properties": {
+        "title": "Rockstar Games and Electronic Arts Inc deals add XP to India’s gaming industry - The Hindu",
+        "source": "The Hindu",
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTnptalhLNWNtSHM2ckhxMjVIRjY3YkRGWGVXejJ1NXNBRGR1Q0VYTHdhTy10VEdnRUF4U3FtQ1dlTlRoUTl0ekFNQndlcl9sT1pLUHhtUzZEQlhvaXk2QUdReEhyaUVyV1pUbDZGaC1SUG5WOWs4ZmY1R1MxTnQ4WEk2WDh2Nm5NQWM1SHBGTXRBeWU1RENXeHlmYi1NRjFoWi12TGJTYU5PMXBtWl9rck5vR3FsUlpXVVZ0SXVMTnJmRE1VTXNBUnpGQ25iZzVZdVotUWNJRTV4Y216M2RTdkszQ3FSd9IB7AFBVV95cUxQS1c5eWtIYU1SdDZhSFR5Q2Q4bFVyN2hyam04U1k3NHljRGtmOEh4c3BHa2xCcmkyM0dPQk1MOG5BelQ0c2ZTcS1CU2NvSU55aHpIc3o2eE1GMFJKVFlLdUFTZ1czUTFSaEwwVzlCTm02aTNkTzRIWE5NM2UteHY5aml1eFFaS3FwdWlvdElFelBJeUxtcHdnaks2YTBHQWFTVnQwMm5BMHhZbWlsQ0ZtTHVzQWx2dWV6NkJkc0VQeElRbG9sTUZEVnJnNEpyUjRseWx0VWtTQVV6NmhzR05Pemh1alVnR2hLRXV4MQ?oc=5",
+        "published_at": "2019-05-28T07:00:00+00:00",
+        "representative_place": "The Hindu / Chennai representative",
+        "place_label": "インド-タミル・ナードゥ州-チェンナイ-The Hindu / India gaming industry deals article",
+        "sort_place_label": "インド-タミル・ナードゥ州-チェンナイ-The Hindu / India gaming industry deals article",
+        "geocode_query": "The Hindu Chennai India gaming industry Rockstar Games Electronic Arts deals",
+        "place_type": "industry_news_publisher_city",
+        "location_precision": "city",
+        "place_reason": "The Hindu記事は、Rockstar GamesやElectronic Arts Incとの契約・取引がインドのゲーム産業にもたらす影響を扱う産業記事。未解決レコード上では、具体的なインド側スタジオ、契約企業、都市、会場を確定できないため、Rockstar/EAの海外本社ではなく、インド国内の産業記事としてThe HinduのChennai代表地点を使用する。本文解析でインド側の具体的な受託開発会社や都市が確認できた場合は、その地点へ差し替えるべき低〜中confidenceの代表地点。（一致語: Rockstar Games and Electronic Arts Inc deals add XP to India’s gaming industry - The Hindu）",
+        "confidence": 0.58,
+        "rule_id": "observed_rockstar_ea_deals_india_gaming_hindu_chennai_201905",
+        "matched_text": "Rockstar Games and Electronic Arts Inc deals add XP to India’s gaming industry - The Hindu",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -6.2603,
           53.3498
         ]
@@ -22480,33 +21751,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.5021,
-          3.848
-        ]
-      },
-      "properties": {
-        "title": "Cameroon Gaming Stars Train New Generation of Business Superheroes - VOA - Voice of America English News",
-        "source": "VOA - Voice of America English News",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbzBScDJ0cFdxdWNvNzJwSVRFWjktYWVWaEVGUnJmSTVGR1pQTURIR2FvTDBuR1NZVl9VQ2VicE5lOXFIaURicjJGY2pMUkNndHpjQ2FGY21XRy1NMzR4RTN6NmdWWmJLbWxyaHVlcGxGMDVEdVRxcFdlcUs3MU5vMmxNcEc0ZlFoT2xHNHBaelFhVVVSb1M4UUg2dE1BdW1OdmhPQ3lBMHk?oc=5",
-        "published_at": "2018-08-28T07:00:00+00:00",
-        "representative_place": "Kiro'o Games / Yaounde",
-        "place_label": "カメルーン-中央州-ヤウンデ-Kiro'o Games / gaming training article",
-        "sort_place_label": "カメルーン-中央州-ヤウンデ-Kiro'o Games / gaming training article",
-        "geocode_query": "Kiro'o Games Yaounde Cameroon gaming stars train new generation business superheroes VOA",
-        "place_type": "game_developer_training_profile",
-        "location_precision": "city",
-        "place_reason": "VOA記事は、カメルーンのゲーム関係者が次世代の起業家/制作者を育成する取り組みを扱う記事。タイトルと過去関連記事の文脈から、具体的な場所性はカメルーンのゲーム開発スタジオKiro'o Games / Olivier Madiba周辺にあると判断した。Kiro'o GamesはYaounde拠点のゲーム開発スタジオとして確認できるため、媒体所在地や抽象的なCameroon/Africa全体ではなくYaoundeを代表地点にする。記事固有の会場や正確な現行オフィス住所は今回確認していないためcity precisionとする。（一致語: Cameroon Gaming Stars Train New Generation of Business Superheroes - VOA - Voice of America English News）",
-        "confidence": 0.76,
-        "rule_id": "observed_cameroon_gaming_stars_kiroo_yaounde_201808",
-        "matched_text": "Cameroon Gaming Stars Train New Generation of Business Superheroes - VOA - Voice of America English News",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           121.0889,
           14.2843
         ]
@@ -22755,33 +21999,6 @@
         ]
       },
       "properties": {
-        "title": "『ソードアート・オンライン メモリー・デフラグ』が配信決定！ キャミソール アスナがもらえる事前登録が開始 - Appliv Games",
-        "source": "Appliv Games",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5mWlJIZ0ZKdDJIbVlLcl9SUlljU2g0b2p6dGxTMGFOWXgxSG9qUjhlM0NpWjFzdmNxRkppczBPdXprbV9COFVtZzJXUDBkY29RS1E?oc=5",
-        "published_at": "2018-01-19T04:03:50+00:00",
-        "representative_place": "Bandai Namco Entertainment / Minato, Tokyo representative",
-        "place_label": "日本-東京都-港区-Bandai Namco Entertainment / SAO Memory Defrag",
-        "sort_place_label": "日本-東京都-港区-Bandai Namco Entertainment / SAO Memory Defrag",
-        "geocode_query": "Bandai Namco Entertainment Minato Tokyo Sword Art Online Memory Defrag",
-        "place_type": "mobile_game_publisher_district_representative_uncertain_title_team",
-        "location_precision": "district",
-        "place_reason": "The legacy active entry treated the Sword Art Online Memory Defrag preregistration item as a broad Japan mobile-game launch-market topic. Recheck confirmed the game as a Bandai Namco Entertainment mobile title, and public company context places Bandai Namco Entertainment in Minato, Tokyo after its 2016 move. This override therefore moves the article from a Japan country representative point to a Minato, Tokyo publisher-context representative point. This is not a confirmed title-team office, article venue, exact Bandai Namco Entertainment office coordinate, or media office; replace it if the article body, official game page, store page, or company profile identifies a more precise publisher/developer/operator site.（一致語: ソードアート・オンライン メモリー・デフラグ）",
-        "confidence": 0.64,
-        "rule_id": "observed_sao_memory_defrag_bandai_namco_minato_tokyo_201801",
-        "matched_text": "ソードアート・オンライン メモリー・デフラグ",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.7516,
-          35.6581
-        ]
-      },
-      "properties": {
         "title": "『ハイキュー!!』初のスマホゲーム『ハイキュー!!ドンピシャマッチ!!』の配信が決定！ 事前登録がスタート - Appliv Games",
         "source": "Appliv Games",
         "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9wYTFXQXV3VnRsYmc2MEQyaUtuUzZfUmZZNUJNa2hXWnBqTUtJNzhpdTBab0NiWkhHWGRiNzhKZlJVLWFSWUR0YmtrbG13LXJm?oc=5",
@@ -22993,33 +22210,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.3792,
-          6.5244
-        ]
-      },
-      "properties": {
-        "title": "How African video games are taking on the world - The i Paper",
-        "source": "The i Paper",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1RVlF4UF9scjkwRGQ4ak1DeWdYc1h2ZkZCLUdqYTVpVG1XOHR4Y2d4dmZHUE9LRkFCWFpYQTA3TklhZjc1M0oxTUJXbnR3bEdVdGdUQW5kQ3paN3RNVlFpMUQ0cS1vTzVsZVJHeVlHWWswbExKQ1E?oc=5",
-        "published_at": "2017-01-18T08:00:00+00:00",
-        "representative_place": "African game-development scene / Lagos representative",
-        "place_label": "ナイジェリア-ラゴス-アフリカゲーム開発紹介記事",
-        "sort_place_label": "ナイジェリア-ラゴス-アフリカゲーム開発紹介記事",
-        "geocode_query": "Lagos Nigeria African video games taking on the world",
-        "place_type": "game_industry_media_article_city_representative",
-        "location_precision": "city",
-        "place_reason": "The i Paper RSS item is a broad feature about African video games reaching a global audience, not a single studio announcement, funding item, or physical event. The unresolved record does not expose the individual developers, titles, or cities discussed in the article. A continent centroid is avoided; Lagos is used as a concrete representative point for the African game-development scene because Nigeria / Lagos is a recurring high-signal anchor in the project for African game-development and market articles. Replace or split later if full article parsing identifies specific studios, makers, or city anchors.（一致語: How African video games are taking on the world - The i Paper）",
-        "confidence": 0.58,
-        "rule_id": "observed_i_paper_african_games_taking_on_world_lagos_201701",
-        "matched_text": "How African video games are taking on the world - The i Paper",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           120.9842,
           14.5995
         ]
@@ -23047,60 +22237,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.0808,
-          53.5675
-        ]
-      },
-      "properties": {
-        "title": "Resistance: remembering the blockbuster video game set in Grimsby – The i Paper - The i Paper",
-        "source": "The i Paper",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxON1A2elhzbW9wTjZMQ3g4U2x5RFY0NU1Ybi04b3dxSTFleEJNUTFXMHlqbzVIZWJlSUFWY1o4Z1NrRWVFdmFrN2MyOW9HbWowWWMxWkdqRno1YUNpLXJlUXR6V0F2M3JJUTJfYmVvdE9sanU4dGQ3MDA1Z0pXM0E0SndkNWRrR2xFaEdtdmE5NXlwazg?oc=5",
-        "published_at": "2016-11-16T08:00:00+00:00",
-        "representative_place": "Grimsby / England",
-        "place_label": "英国-イングランド-グリムズビー-Resistance game setting",
-        "sort_place_label": "英国-イングランド-グリムズビー-Resistance game setting",
-        "geocode_query": "Grimsby England Resistance video game setting",
-        "place_type": "game_setting_real_world_city",
-        "location_precision": "city",
-        "place_reason": "記事主語は実在都市Grimsbyを舞台にしたblockbuster video game『Resistance』を振り返るもの。開発会社ではなく記事タイトル上の地理的焦点である実在都市に置く。都市代表点であり建物・会場ではないためAではなくB1に留める。（一致語: Resistance: remembering the blockbuster video game set in Grimsby – The i Paper - The i Paper）",
-        "confidence": 0.62,
-        "rule_id": "observed_resistance_video_game_set_in_grimsby_201611",
-        "matched_text": "Resistance: remembering the blockbuster video game set in Grimsby – The i Paper - The i Paper",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.5021,
-          3.848
-        ]
-      },
-      "properties": {
-        "title": "African Fantasy Video Game 'Aurion: Legacy of the Kori-Odan' is Getting Made Into a Hollywood Movie - OkayAfrica",
-        "source": "OkayAfrica",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQXlLakpQUkh2dzduLUdVM1c5S3NQNl9uVm1FNFFLRTBQWmtIOFc3VHlIT3VVb2NfQXdwdnM2SnUxNVlnXzVac2dVN3U0T29HNFFSTUJYWTRTMDdCSmRlY25QWnZWSGZkSWZKTjVyTHNSZWFCa1V4NDZnMTY2U0RiclBXX2hoX1Z0TEJONGRPTmM1cU5aTUlGc1p1YTFOblp1QklEeGQzRUYwdzRjU3VnMWRXZ3dXSW8wWUU2a0Qwb3hLcklZRnlqeFVn?oc=5",
-        "published_at": "2016-10-12T07:00:00+00:00",
-        "representative_place": "Kiro'o Games / Yaounde representative",
-        "place_label": "カメルーン-ヤウンデ",
-        "sort_place_label": "カメルーン-ヤウンデ",
-        "geocode_query": "Kiro'o Games Yaounde Aurion Legacy of the Kori-Odan",
-        "place_type": "game_title_studio_movie_adaptation_city_representative_uncertain_office",
-        "location_precision": "city",
-        "place_reason": "The generated unresolved item is about the African fantasy game Aurion: Legacy of the Kori-Odan being adapted into a Hollywood movie. Use Kiro'o Games / Yaounde as the game-studio representative rather than OkayAfrica or a non-point Africa placement. This is not an exact office coordinate.（一致語: African Fantasy Video Game 'Aurion: Legacy of the Kori-Odan' is Getting Made Into a Hollywood Movie - OkayAfrica）",
-        "confidence": 0.72,
-        "rule_id": "game_all_20260709_aurion_legacy_kori_odan_movie_yaounde_201610",
-        "matched_text": "African Fantasy Video Game 'Aurion: Legacy of the Kori-Odan' is Getting Made Into a Hollywood Movie - OkayAfrica",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           140.035,
           35.647
         ]
@@ -23120,33 +22256,6 @@
         "confidence": 0.8,
         "rule_id": "observed_filipino_devs_tokyo_game_show_2016",
         "matched_text": "Filipino game developers showcase titles at Tokyo Game Show 2016 - Rappler",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.5021,
-          3.848
-        ]
-      },
-      "properties": {
-        "title": "This Exciting Afrofuturist Role-Playing Game Is Revolutionizing the Video Game Industry in Africa & Beyond - OkayAfrica",
-        "source": "OkayAfrica",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOOEZHZE96Q1dOOXVjQ3pxd1EtR2k0TW1FR1pPQmh5UUpKLURaeVNsd3JwWndoYm1uQ29JeFRUMl81VGtnZGlRaUZlYlJ2QnVzVmxQeFBLTVRJZjRRSlEtWUtTc0Y4Mm9Ua29yTXVaXzl6V3FGVUF4VGFTaFFUM2NpTkFxeWZTVk10RldlZW5HOVFXUXVZbHRXZUkxdEVHVzNqa2hHSmxXdVlJWi1DTFl1YmJyVmlfVTd4aTh2LXJTU3YzMXNwLU1aUDB1VTZFQXFrZFNIZQ?oc=5",
-        "published_at": "2016-07-21T07:00:00+00:00",
-        "representative_place": "Kiro'o Games / Yaounde",
-        "place_label": "カメルーン-中央州-ヤウンデ-Kiro'o Games / Aurion",
-        "sort_place_label": "カメルーン-中央州-ヤウンデ-Kiro'o Games / Aurion",
-        "geocode_query": "Kiro'o Games Yaounde Aurion Legacy of the Kori-Odan",
-        "place_type": "game_developer_headquarters",
-        "location_precision": "city",
-        "place_reason": "OkayAfrica記事は、アフロフューチャリストRPGとして注目された『Aurion: Legacy of the Kori-Odan』を通じてアフリカのゲーム産業を扱う記事と判断した。外部確認では『Aurion』はCameroonのKiro'o Games開発タイトルで、Kiro'o GamesはYaounde拠点のゲーム開発スタジオとして確認できる。記事の場所性は媒体所在地や抽象的なAfrica全体ではなく、具体的な開発スタジオと作品にあるため、Yaoundeを代表地点にする。正確な現行オフィス住所は今回確認していないためcity precisionとする。（一致語: This Exciting Afrofuturist Role-Playing Game Is Revolutionizing the Video Game Industry in Africa & Beyond - OkayAfrica）",
-        "confidence": 0.84,
-        "rule_id": "observed_aurion_kiroo_games_yaounde_201607",
-        "matched_text": "This Exciting Afrofuturist Role-Playing Game Is Revolutionizing the Video Game Industry in Africa & Beyond - OkayAfrica",
         "match_source": "known_place_title"
       }
     },
@@ -23398,33 +22507,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.3792,
-          6.5244
-        ]
-      },
-      "properties": {
-        "title": "Africa's games makers dream of exporting to the world - BBC",
-        "source": "BBC",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE14VG9uTUk5aUoycXhPamNvQjZjbDhtNEJSZm9IVzJseURwUUdQMHV4QnhKc0xoVHU1Y0swMlg0dTg0cTlJUERSRXp5Qld2RzV4a1ctRg?oc=5",
-        "published_at": "2015-07-03T07:00:00+00:00",
-        "representative_place": "Gamsole / Lagos representative",
-        "place_label": "ナイジェリア-ラゴス-Gamsole / Africa games makers feature",
-        "sort_place_label": "ナイジェリア-ラゴス-Gamsole / Africa games makers feature",
-        "geocode_query": "Gamsole Lagos Nigeria Abiola Olaniran BBC Africa games makers",
-        "place_type": "game_developer_profile_feature",
-        "location_precision": "city",
-        "place_reason": "BBC記事は、アフリカのゲーム制作者が海外市場を目指す動きを扱う記事。外部検索では記事URLがGamsole関連参照として確認でき、同時期のナイジェリアゲーム産業文脈ではGamsole / Abiola Olaniranが代表的なモバイルゲーム開発者として扱われている。Gamsoleはナイジェリアのモバイルゲーム会社で、Lagos文脈のNigeria game-development clusterに属するため、記事の代表地点としてLagosを使用する。記事が複数国・複数スタジオを扱う可能性があるため、本文が後で精密に解析できた場合は主題スタジオまたは複数記事への分割を検討する。（一致語: Africa's games makers dream of exporting to the world - BBC）",
-        "confidence": 0.66,
-        "rule_id": "observed_africa_games_makers_gamsole_lagos_201507",
-        "matched_text": "Africa's games makers dream of exporting to the world - BBC",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -81.2453,
           42.9849
         ]
@@ -23641,52 +22723,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          28.0473,
-          -26.2041
+          121.0851,
+          14.5764
         ]
       },
       "properties": {
-        "title": "Top 10 African game developers - IT News Africa",
-        "source": "IT News Africa",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE10T2w1eEM2MzNUOU1TLTY2X1FFQ0J5YnNjdTN6dnlfS1JmS0lrYV85d3VNLWcwT19id0owUzhCcmZheXo1Y2JLUmtTd25ZNzl5ZmlWZS1pWWRiUDFZMHloMzg1M2NKTXNZX0RtcW84bjBKby1XeWgw?oc=5",
-        "published_at": "2013-10-15T07:00:00+00:00",
-        "representative_place": "African game-development cluster / Johannesburg representative",
-        "place_label": "南アフリカ-ハウテン州-ヨハネスブルグ-アフリカゲーム開発者記事",
-        "sort_place_label": "南アフリカ-ハウテン州-ヨハネスブルグ-アフリカゲーム開発者記事",
-        "geocode_query": "IT News Africa Johannesburg Top 10 African game developers",
-        "place_type": "regional_game_developer_list_article",
-        "location_precision": "city",
-        "place_reason": "IT News Africa記事は、アフリカのゲーム開発者を紹介するランキング/リスト記事であり、単一スタジオ発表や物理イベントではない。未解決レコードからは掲載された各開発会社と都市を個別に確定できないため、アフリカ地域のゲーム開発者リスト記事として、South Africa / Johannesburgの地域メディア・産業代表地点を使用する。本文解析で個別スタジオが抽出できた場合は、複数の具体的なスタジオ地点へ分割または差し替えるべき低〜中confidenceの代表地点。（一致語: Top 10 African game developers - IT News Africa）",
-        "confidence": 0.58,
-        "rule_id": "observed_top_african_game_developers_johannesburg_201310",
-        "matched_text": "Top 10 African game developers - IT News Africa",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          121.0244,
-          14.5547
-        ]
-      },
-      "properties": {
-        "title": "Philippines can be a global leader in advergaming - Inquirer.net",
+        "title": "Gaming firm eyes hotel, leisure venture - Inquirer.net",
         "source": "Inquirer.net",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdTFHZ3JuLW1YalFSSGpRV3R0R3ZzQzhlRFJqTzZ4ekU2VkVGYkpjVVpFbU8xTGxyREdRMmR2dkNKOVR0YzFDZHkwSUFGbDJIb1Y3dWtnYXJlajhhaXFsOWxfY0lrNjh3WWVxa1JvYWY2Y201d3g5TVVfbzUxdUFwRW9HOG1Ec20yWE1XdkNDNNIBlAFBVV95cUxPUDRlVmNHUXg1RXRFdGszQ3pQS1A1eGhUUXpUMlZrbUxFQ0phMTlqeTZSRmRpMFRZMkJuMHdPNjRYbnZ3LW02VUlBTFE1RjRpaUtXTUV0cHdrZERqOWdqbEQzZWh4dU5ma25YamY0SGlKMUhNb1p5bDFQRGZSclRXSHJqTks0T3dWUDR6T1J4WnFiUDJk?oc=5",
-        "published_at": "2013-01-17T08:00:00+00:00",
-        "representative_place": "Inquirer.net / Makati representative",
-        "place_label": "フィリピン-マニラ首都圏-マカティ-Inquirer.net / Philippine advergaming article",
-        "sort_place_label": "フィリピン-マニラ首都圏-マカティ-Inquirer.net / Philippine advergaming article",
-        "geocode_query": "Inquirer.net Makati Philippines advergaming",
-        "place_type": "industry_opinion_publisher_city",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zdHJ5Y1FMdDlGSHZCWFpvX0p1T1pPQmw0NFhVRnhaT1lQLTg1QVM4M0ZpcXA5Smx5aXdORGVuWU93NExueW1rYXkyZkViaVVHMzB2QWREVElaaHBIb0FrdTZ3Q2VTS20ydENLVnFVZlhTRnpHV2tzcUF3ejZWREnSAYQBQVVfeXFMT3FlTDFqem1TcDNjMjE4LVRZZk9DRDBKbE5SV21jWDJsZ2QyTW1vdWRWTnNQQ0J5N0dJMGhFSldBY1dOeFFxenJveFlSNWNzbkdTbUFuYmlkd3duS3RLbVZLNEVyaHdBWG5BUzBUdXdrZTUyRXlwRnFBaXFqbkpMUHpNS0h3?oc=5",
+        "published_at": "2012-02-03T08:00:00+00:00",
+        "representative_place": "IP E-Games / Pasig",
+        "place_label": "フィリピン-メトロマニラ-パシッグ-IP E-Games / hotel leisure venture article",
+        "sort_place_label": "フィリピン-メトロマニラ-パシッグ-IP E-Games / hotel leisure venture article",
+        "geocode_query": "IP E-Games Pasig Metro Manila hotel leisure venture",
+        "place_type": "game_publisher_business_venture_article_city_uncertain_office",
         "location_precision": "city",
-        "place_reason": "Inquirer.net記事は、フィリピンがadvergamingで世界的リーダーになり得るという産業・意見記事であり、単一ゲーム、単一開発スタジオ、物理イベントを主題にしていない。未解決レコードだけでは具体的な企業や会場が取れないため、フィリピン国内のゲーム/広告産業記事として、過去batchで使ったInquirer.netのMakati代表地点を使用する。本文から特定のadvergaming会社、人物、会場が確認できた場合は差し替えるべき低〜中confidenceの出版社代表地点。（一致語: Philippines can be a global leader in advergaming - Inquirer.net）",
-        "confidence": 0.6,
-        "rule_id": "observed_philippines_advergaming_inquirer_makati_201301",
-        "matched_text": "Philippines can be a global leader in advergaming - Inquirer.net",
+        "place_reason": "既存C2再調査で、記事対象はPhilippinesのonline game publisher IP E-Games文脈として扱える可能性が高いと判断した。IP E-GamesはPasig, Metro Manilaの住所文脈が取れるため、媒体所在地やPhilippines代表点ではなく会社側に置く。ただし対象記事本文で会社名・事業地点を完全照合できていないため、正確な建物AではなくPasig city精度のB1に留める。（一致語: Gaming firm eyes hotel, leisure venture - Inquirer.net）",
+        "confidence": 0.56,
+        "rule_id": "observed_gaming_firm_hotel_leisure_ip_egames_pasig_201202",
+        "matched_text": "Gaming firm eyes hotel, leisure venture - Inquirer.net",
         "match_source": "known_place_title"
       }
     },
