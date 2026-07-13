@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "created_at": "2026-07-13T10:28:15.085824+00:00",
+  "created_at": "2026-07-13T16:35:27.472409+00:00",
   "stats": {
     "feed_id": "google-news-disaster-ja",
     "feed_label": "Google News: 災害・地震・大雨",
@@ -8,13 +8,13 @@
       "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja"
     ],
     "rss_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja",
-    "fetched": 76,
+    "fetched": 77,
     "fetched_by_url": {
-      "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja": 76
+      "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja": 77
     },
-    "filtered": 68,
-    "resolved": 20,
-    "unresolved": 48,
+    "filtered": 71,
+    "resolved": 22,
+    "unresolved": 49,
     "rules": 384,
     "known_places": 1357,
     "loaded_data_files": [
@@ -1299,6 +1299,14 @@
       "feed_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
+      "title": "【台風情報】台風7号　次第に山梨県から遠ざかる　警報級の大雨の可能性は低く　地震で地盤が緩んでいる所があり、土砂災害に注意　甲府地方気象台が発表 - ｄメニューニュース",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9JT2dlY1lYM0dvTGlTdms3TFpmRWRfNVJLSWRTVGI4eUxSZ1NqRjloZFRWbF9aX1V1TFFOTFlqZEhYZGV1QThqRDNfX3BBS3Q1ZGNKemFjZFJRR3FmY3NFTm1TcFVCY0dxV3Z5WC11QdIBdEFVX3lxTE42YUhoVVU2NmpnckZUbExXZm5xTHhTUVVpcmlYOWJBM1pxUV9NN3hUSDZYVnBWN1hrRlFZcW05YVpDdlZtYmtHcGRGSEx4MU1Xck94YmtORDdNTWxLclU2ZU40Q3lTalBuNHhMV1c3Tm1FcmtW?oc=5",
+      "source": "ｄメニューニュース",
+      "published_at": "2026-06-27T09:28:52+00:00",
+      "summary": "【台風情報】台風7号　次第に山梨県から遠ざかる　警報級の大雨の可能性は低く　地震で地盤が緩んでいる所があり、土砂災害に注意　甲府地方気象台が発表    ｄメニューニュース",
+      "feed_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
       "title": "台風7号(メーカラー)が関東に近づく 沿岸部は大雨による土砂災害などのおそれ - ウェザーニュース",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1NSnlhZ0pPSE44aFN0dTNIRzlwQWhIRVFlVWJreC0tSHg3bmhuZEhmVDZLaHdvLUJDc3k4YUFzOU0yQ0NaQ0N2UGNEd3FJSXhLZ1FyZA?oc=5",
       "source": "ウェザーニュース",
@@ -1347,27 +1355,11 @@
       "feed_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
-      "title": "【天気】九州で線状降水帯発生のおそれ 大雨災害に厳重な警戒を 台風7号は週末にかけて日本列島に（2026年6月24日掲載） - 日テレNEWS NNN",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5rT25QYjR5LUMxVVZ4SnEydFNwOEJRZjBOZGlDVHg3MG1MOW9leWJyVEFydzlfLVRFMEFjWk5ieHQxZFgwc09LdmVHdXZKc1NtazVWU0NuZFhYaGtFZlhQWXUzUXVvSno5bkw3cFkxajZ5RVExaDlNTjhzNXM?oc=5",
-      "source": "日テレNEWS NNN",
-      "published_at": "2026-06-24T07:00:00+00:00",
-      "summary": "【天気】九州で線状降水帯発生のおそれ 大雨災害に厳重な警戒を 台風7号は週末にかけて日本列島に（2026年6月24日掲載）    日テレNEWS NNN",
-      "feed_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja"
-    },
-    {
       "title": "活発な梅雨前線の影響…九州・四国で大雨 “ダブル台風”も 土砂災害などに厳重警戒（2026年6月23日掲載） - 日テレNEWS NNN",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE95X08weWM3Sk1KdUxMYnU1aTg4dTNKRHVXNVJ6ejZjSTlOMGdrWDJnXzVnOXIydWVEZWFTb1pRSjl4VVN0Tjk3aTYxWG1VYjk5RGFSWHJ4dTV1aTdNcjNEUS1xeEtPUXhNdFd5LTFQUXhiX2kxS09BNWIyMlE?oc=5",
       "source": "日テレNEWS NNN",
       "published_at": "2026-06-24T07:00:00+00:00",
       "summary": "活発な梅雨前線の影響…九州・四国で大雨 “ダブル台風”も 土砂災害などに厳重警戒（2026年6月23日掲載）    日テレNEWS NNN",
-      "feed_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja"
-    },
-    {
-      "title": "【天気】九州は大雨災害に厳重警戒 “ダブル台風”接近前から大雨に（2026年6月23日掲載） - 日テレNEWS NNN",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE93RDRld1VvMXczRUZzRHNYWjJOODVoNGRneEtuMnpBcXJ5ZWdjSDZNS0hEVk1GeFROYm05OFh1cWpjS1NHSDVvVnQ1bmNBRVczVUtFNnpvWUxuczQxanJsV1R3bTJHbGgyVGNNYWM4U0Z5bUJVMW5IUF9SbXk?oc=5",
-      "source": "日テレNEWS NNN",
-      "published_at": "2026-06-23T07:00:00+00:00",
-      "summary": "【天気】九州は大雨災害に厳重警戒 “ダブル台風”接近前から大雨に（2026年6月23日掲載）    日テレNEWS NNN",
       "feed_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
@@ -1427,11 +1419,35 @@
       "feed_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
+      "title": "台風25号は今夜ベトナム上陸へ 大雨や暴風災害に厳重警戒 - ウェザーニュース",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBDeWJYZktaT3l6Q001NjJYMUxuX09GR3Flbm1XQmJoZktreWtRVG1ybExYSlJEZkJ6QnNVc2VqQnN0eUpGaEFZTnhEa0FCWEY3WnF2ZA?oc=5",
+      "source": "ウェザーニュース",
+      "published_at": "2025-11-06T08:00:00+00:00",
+      "summary": "台風25号は今夜ベトナム上陸へ 大雨や暴風災害に厳重警戒    ウェザーニュース",
+      "feed_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "title": "伊豆諸島南部で線状降水帯による大雨 台風22号の影響 - ウェザーニュース",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5QZU5VLVM2X3RDR3dyNHVFUm83VHVvSzVPWnh5VmZOSVVWa3dZcnpXQXVTd25Ya0ZXSHdDSmVoazFEUWNEQ3czTEFVMU8tZGNYTFloeA?oc=5",
+      "source": "ウェザーニュース",
+      "published_at": "2025-10-09T07:00:00+00:00",
+      "summary": "伊豆諸島南部で線状降水帯による大雨 台風22号の影響    ウェザーニュース",
+      "feed_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
       "title": "防災まんが（降水量、大雨警報の仕組み） - 読売新聞",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1FalY4WTl1Vzk1YllsTjlnNWcteTZySG9MaVJXU3F3NXJxMFR3OWlNZTRfS3BjUm1ZUWNzMVowd2xRRFJ3N21VdlNlQ19MSXlZV1VwQmxZdG9rdno5UHN4bTFn?oc=5",
       "source": "読売新聞",
       "published_at": "2025-10-09T07:00:00+00:00",
       "summary": "防災まんが（降水量、大雨警報の仕組み）    読売新聞",
+      "feed_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "title": "台風20号がベトナムに上陸 大雨による災害発生のおそれ - ウェザーニュース",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE14WWJJY040UGlDeVl2anRRaWZQd29DbllmdlFqWjhqYnMzM3lCQll6ai1XUEFKampLRHhBWTZhaXFpdzJDMXhRVDRDREZKTzA5VmU0Vw?oc=5",
+      "source": "ウェザーニュース",
+      "published_at": "2025-09-29T07:00:00+00:00",
+      "summary": "台風20号がベトナムに上陸 大雨による災害発生のおそれ    ウェザーニュース",
       "feed_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
@@ -1571,14 +1587,6 @@
       "feed_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
-      "title": "増加する「都市型災害」！豪雨による浸水・内水氾濫に注意 - 読売新聞",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9NR3NTWDhvYXVjb0plV1dGLXR3NW1IQTBDTHo2OXlaMHRVcWtyeVJNQW1QMlBlRVV2MjRfRmlrOTJXcWJfbEZvVUt2aC1uLTd6VnFWUFgxbVlWQnQ3NlllUA?oc=5",
-      "source": "読売新聞",
-      "published_at": "2022-09-14T07:00:00+00:00",
-      "summary": "増加する「都市型災害」！豪雨による浸水・内水氾濫に注意    読売新聞",
-      "feed_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja"
-    },
-    {
       "title": "温暖化未対策なら70年後北海道も梅雨期に豪雨災害！九州の豪雨頻度1･5倍 - 読売新聞",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0zZ0IzZDJ3SkMzdGRqbUpuZ25xVGR5bnZETTJ6enJpU2FYVnBURUlmM0plMk5PQUN4YlVYdHJaNlhNWjI4aWtoZGQxaE9ZYnJuRV9vdzVFVEpjdUVBbHM5dw?oc=5",
       "source": "読売新聞",
@@ -1619,6 +1627,14 @@
       "feed_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
+      "title": "【解説】災害時の災害・避難情報を届ける「緊急速報メール」の裏側。今、何が起きているか知るために - ソフトバンク",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1Lb0l4WU9mdHpNcnJ4QVJrcnE0NU1INi1GYUJzbk9Yd2VjZ2JhWUdjbFlER2h3NkowajNDOWgxU1lTRjZmVE9kWmFLV2VWZDFBQnhOX21Kd3FScmFY?oc=5",
+      "source": "ソフトバンク",
+      "published_at": "2019-04-12T07:00:00+00:00",
+      "summary": "【解説】災害時の災害・避難情報を届ける「緊急速報メール」の裏側。今、何が起きているか知るために    ソフトバンク",
+      "feed_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
       "title": "NHKに聞く“ニュース速報”の意義、自然災害続く日本で「命を守るために必要な情報を」 - オリコンニュース",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9FTUE0SWJvNTc4c1hOSWRhSHRpWHZTdkVIcnVsWnpCS05oNmtPME56V2xKLXFyUnQxVnFHaUw4T01CMk1Bb292SnR4OTIxeUlN?oc=5",
       "source": "オリコンニュース",
@@ -1656,14 +1672,6 @@
       "source": "time-space.kddi.com",
       "published_at": "2017-09-21T07:00:00+00:00",
       "summary": "地震、大雨にミサイルまで！ 災害や緊急時に役立つTwitterアカウント    time-space.kddi.com",
-      "feed_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja"
-    },
-    {
-      "title": "(2)地震、台風、集中豪雨等の頻発 - mlit.go.jp",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE80ZVBlME5mNjktX2ZIQzEwdGU1Mk1Fb2wzY0htMEZqREVHeU1IQ1V0aHp4a3BLSlJHQTRaYXR2aEluUER4UjRPbEtGN0JESTNQWU1KS3Q1cmtBZ0V4NjlZTGY3eDlVWFdTbFRsc01VZW9pLWdZSElsUzhB?oc=5",
-      "source": "mlit.go.jp",
-      "published_at": "2007-07-21T03:03:00+00:00",
-      "summary": "(2)地震、台風、集中豪雨等の頻発    mlit.go.jp",
       "feed_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja"
     }
   ]
