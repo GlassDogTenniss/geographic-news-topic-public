@@ -1,8 +1,8 @@
 {
   "type": "FeatureCollection",
   "properties": {
-    "created_at": "2026-07-13T16:35:27.472409+00:00",
-    "count": 827,
+    "created_at": "2026-07-13T18:44:17.521128+00:00",
+    "count": 828,
     "stats": {
       "feed_id": "game-all",
       "feed_label": "ゲーム",
@@ -40,19 +40,19 @@
         "https://www.nag.co.za/feed/": 10,
         "https://www.kakuchopurei.com/feed/": 10,
         "https://www.afkgaming.com/feed": 0,
-        "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20India&hl=en-IN&gl=IN&ceid=IN:en": 79,
-        "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Philippines&hl=en-PH&gl=PH&ceid=PH:en": 76,
+        "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20India&hl=en-IN&gl=IN&ceid=IN:en": 78,
+        "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Philippines&hl=en-PH&gl=PH&ceid=PH:en": 75,
         "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Eastern%20Europe&hl=en&gl=PL&ceid=PL:en": 78,
         "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Africa&hl=en&gl=ZA&ceid=ZA:en": 79,
         "https://news.google.com/rss/search?q=gaming%20video%20games%20game%20studio%20Southeast%20Asia&hl=en-SG&gl=SG&ceid=SG:en": 78,
-        "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA&hl=ja&gl=JP&ceid=JP:ja": 71,
+        "https://news.google.com/rss/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA&hl=ja&gl=JP&ceid=JP:ja": 73,
         "https://news.google.com/rss/search?q=%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0%20%E6%96%B0%E4%BD%9C%20%E9%81%8B%E5%96%B6%20%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%20%E9%85%8D%E4%BF%A1&hl=ja&gl=JP&ceid=JP:ja": 80,
         "https://news.google.com/rss/search?q=%E6%B5%B7%E5%A4%96%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8%20%E9%96%8B%E7%99%BA&hl=ja&gl=JP&ceid=JP:ja": 79,
         "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%20%E9%96%8B%E7%99%BA%E8%80%85%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%96%B0%E4%BD%9C%20%E7%99%BA%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja": 78
       },
       "filtered": 901,
-      "resolved": 827,
-      "unresolved": 74,
+      "resolved": 828,
+      "unresolved": 73,
       "rules": 384,
       "known_places": 1357,
       "loaded_data_files": [
@@ -6550,6 +6550,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          30.3351,
+          59.9343
+        ]
+      },
+      "properties": {
+        "title": "過激表現多めスプラッターホラーアクション『ILL』ストーリートレイラー発表。2027年発売予定【State of Play】 - ファミ通",
+        "source": "ファミ通",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA3Vm1XdjV3OXlzcTlRWURxY0pqekd4emJkajZ6Y3pWdW5qdmRXN0RRRklwdWFrVUZhQ1B2SXlYclc1a2RpWE9xamlyLTEyYlRCYkJIMG1Jdw?oc=5",
+        "published_at": "2026-06-03T07:00:00+00:00",
+        "representative_place": "Team Clout / Saint Petersburg",
+        "place_label": "ロシア-サンクトペテルブルク-Team Clout / ILL",
+        "sort_place_label": "ロシア-サンクトペテルブルク-Team Clout / ILL",
+        "geocode_query": "Team Clout Saint Petersburg Russia ILL horror game",
+        "place_type": "game_developer_city_safe_title_match",
+        "location_precision": "city",
+        "place_reason": "batch 694で短いASCII別名ILL単独による誤爆をdisabled_rule化したため、真の『ILL』記事だけを拾う安全な長文タイトルaliasとして再登録する。対象記事はファミ通のState of Play記事で、作品『ILL』のストーリートレイラーと2027年発売予定を扱う。外部確認では『ILL』はTeam Cloutが開発するサバイバルホラーで、Team Cloutはサンクトペテルブルクで設立されたロシアのゲーム開発会社とされる。短い `ILL` 単独は名前に含めず、記事タイトルやTeam Cloutを伴う長い語句だけで一致させる。正確な事務所住所までは確認していないためcity precisionに留める。（一致語: 過激表現多めスプラッターホラーアクション『ILL』ストーリートレイラー発表。2027年発売予定【State of Play】 - ファミ通）",
+        "confidence": 0.8,
+        "rule_id": "observed_ill_team_clout_st_petersburg_safe_title_202606",
+        "matched_text": "過激表現多めスプラッターホラーアクション『ILL』ストーリートレイラー発表。2027年発売予定【State of Play】 - ファミ通",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.201169,
           47.617002
         ]
@@ -7414,33 +7441,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.4492,
-          34.1511
-        ]
-      },
-      "properties": {
-        "title": "Xsolla Showcases Industry Insights and Regional Commitment at Digital Dragons 2026 - PA Media",
-        "source": "PA Media",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZ3VBazYwRmJwN3dMTTRKc2FZZkJkUHpJU1MxWlllZktBV05TTFcwV2N3NThCc3dVWnVQRllaSnZsTEN3VjloZWJXU1VSVC1BX1lqWnZqRS1zT2p3OWp2RUNYYmtidnNJS3VUU0hxbXd0UTRWcWN0Rlg3a0ZZNWRPMjVpZGdlcGtFZzZKSmRGdE1TWjFzWmxOUU1UdHFGMUVzY1BNNGtoTXhyakF1QTFWYTZLXzJQZUI1WDc4UVdrUC1jbmxicllocG5yWmlKeW8?oc=5",
-        "published_at": "2026-05-14T07:00:00+00:00",
-        "representative_place": "Xsolla / Sherman Oaks headquarters area",
-        "place_label": "米国-カリフォルニア州-ロサンゼルス-Sherman Oaks-Xsolla",
-        "sort_place_label": "米国-カリフォルニア州-ロサンゼルス-Sherman Oaks-Xsolla",
-        "geocode_query": "Xsolla Sherman Oaks Los Angeles California United States",
-        "place_type": "game_commerce_company_site",
-        "location_precision": "headquarters_area",
-        "place_reason": "XsollaのVietnam GameVerse出展・ベトナム展開記事なので、会場名が未確認のイベント点ではなくXsolla本社周辺に置く。（一致語: Xsolla）",
-        "confidence": 0.7,
-        "rule_id": "observed_xsolla_vietnam_gameverse_sherman_oaks_202605",
-        "matched_text": "Xsolla",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           139.7279,
           35.6179
         ]
@@ -7919,6 +7919,33 @@
         "confidence": 0.82,
         "rule_id": "observed_wuchang_leenzee_chengdu_202604",
         "matched_text": "Wuchang: Fallen Feathers",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6503,
+          35.6762
+        ]
+      },
+      "properties": {
+        "title": "個人ゲーム開発者のPop Elephant Studio、架空国家崩壊後を舞台にした探索型クリックアドベンチャー『俺の解体史』を発表 - gamebiz【ゲームビズ】",
+        "source": "gamebiz【ゲームビズ】",
+        "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9JRll4V3N5YjZSM0paRS1SNE0yeG9yMTdDUG1WQUc1Y1l6ekJha3pmeG8zY0dKWjd5UEluX1Z0UUFlZmlr?oc=5",
+        "published_at": "2026-04-28T07:00:00+00:00",
+        "representative_place": "Pop Elephant Studio / Tokyo representative",
+        "place_label": "日本-東京都",
+        "sort_place_label": "日本-東京都",
+        "geocode_query": "Pop Elephant Studio 俺の解体史 gamebiz Tokyo indie developer",
+        "place_type": "indie_game_developer_announcement_city_representative_uncertain_location",
+        "location_precision": "country_city",
+        "place_reason": "The generated unresolved item is a single-developer announcement for Pop Elephant Studio and the game '俺の解体史'. The unresolved record does not expose the developer's city or exact site, so use a low-confidence Tokyo representative for the Japanese indie-game announcement rather than the media source or a country centroid. This is not a confirmed developer address or office location.（一致語: 個人ゲーム開発者のPop Elephant Studio、架空国家崩壊後を舞台にした探索型クリックアドベンチャー『俺の解体史』を発表 - gamebiz【ゲームビズ】）",
+        "confidence": 0.28,
+        "rule_id": "game_all_20260709_pop_elephant_ore_no_kaitai_shi_tokyo_rep_202604",
+        "matched_text": "個人ゲーム開発者のPop Elephant Studio、架空国家崩壊後を舞台にした探索型クリックアドベンチャー『俺の解体史』を発表 - gamebiz【ゲームビズ】",
         "match_source": "known_place_title"
       }
     },
@@ -9527,7 +9554,7 @@
       "properties": {
         "title": "Hasbro CEO Is Bullish on Exodus, Says Someone Will Figure Out How to Use AI to Make Games Better - Wccftech",
         "source": "Wccftech",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5xVllKaVk3QVZHUlVBMHlGWVhOZEZpemEwSF9TMmJpbVpnVkxoa3VadzZodjIxX3d3a2I0aWVxR1hJTG5sRjRaWGRaZm1zRFdBeXMtN0toX3pVcERUdGpuYlV2MFRSMXlwX3ZzVHl2Rk03a2ozenF3?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5xVllKaVk3QVZHUlVBMHlGWVhOZEZpemEwSF9TMmJpbVpnVkxoa3VadzZodjIxX3d3a2I0aWVxR1hJTG5sRjRaWGRaZm1zRFdBeXMtN0toX3pVcERUdGpuYlV2MFRSMXlwX3ZzVHl2Rk03a2ozenF30gF8QVVfeXFMTmcyRWZwUlJXZjhoSFlmU09pbmlqUWhyN1FDbkxVRjZRaW02djZVVHB5RUloNkVYTUpaMzg1WkJHWDBZVjBEZnFNQ3Q4cjJmS3BQZDVtVlRMOEo1MEw4QTFraDJ1ZkZ2OW1aRUlLd2Y1ZTQ4Wm9UaFh6aEp4UA?oc=5",
         "published_at": "2026-03-13T07:00:00+00:00",
         "representative_place": "Hasbro gaming and digital divisions / Renton",
         "place_label": "米国-ワシントン州-レントン-Hasbro gaming and digital divisions",
@@ -11356,6 +11383,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.1278,
+          51.5074
+        ]
+      },
+      "properties": {
+        "title": "The best video games of 2025 - The Economist",
+        "source": "The Economist",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1HTjl4NGV1TlQzcno4bWMydXhPRzdLaFR5QVdWck02eGVYekNVWmtPOVdkMmVhTWliR21BWDN6cGgwa1c0WTJwWHB5NHhMaVk1bzk1WFFMWF9VVEtSaHdnN0g2bVRwcHVvTm96YUlUZjNiZFJyY3NvRU5lMTEwZw?oc=5",
+        "published_at": "2025-11-27T08:00:00+00:00",
+        "representative_place": "The Economist / London representative",
+        "place_label": "英国-ロンドン",
+        "sort_place_label": "英国-ロンドン",
+        "geocode_query": "The Economist London best video games of 2025 list",
+        "place_type": "best_games_list_source_city_representative_uncertain_subject_location",
+        "location_precision": "city",
+        "place_reason": "This is a source-limited multi-title best-games list and older rules disabled it as C1. It is included here as a point-compatible exact-title override only for the dictionary-side completion pass, using The Economist / London as a low-confidence source-side representative rather than selecting one arbitrary game from the list. If the item is not present in `game-all` after rebuild, this entry is harmless but can be revisited.（一致語: The best video games of 2025 - The Economist）",
+        "confidence": 0.2,
+        "rule_id": "game_all_20260709_best_video_games_2025_economist_london_202511",
+        "matched_text": "The best video games of 2025 - The Economist",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           73.8567,
           18.5204
         ]
@@ -13057,33 +13111,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.006,
-          40.7128
-        ]
-      },
-      "properties": {
-        "title": "Runway’s generative AI tools will soon let you create video games with a few prompts - The Indian Express",
-        "source": "The Indian Express",
-        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQOE9GTzhIM1JpMnF4dV9jSGYwSDVsWGdXZ0JFdjZ0TlJyYlAtYXVEV25VTnEtcGdCY192VEZZZDl2S1FOZ3F2RWlzVy1wZHVPWGRobDEwMmdOOXAzYzgxckIwbHhJalhodzFKOXdSS1hFRDFUaVVXa25CVi1uSHlya2V4VkdkWE5LdzRYb0xZWWFNa0JxQ1hFLUR5aHNFVUIwamJvNWF0QmZONDJFcGt5dzRqX3NfZi1QdW9zamFqVVZHQ2VaMEo0VkRkQlRLU09WOTVFQlZVRUZGWWUwLXNxaFNwNEhyRzFENkx6OVQ4VmkyeUNs0gH7AUFVX3lxTE9mMXpvVXpCWTZINEVUWFBqQW1kT3lmM1dvckVLOHUxNHo5LXFMMS1Ob0Jyb1JOd3BwX3h0aHlzSW0zdXJCRk5IcXRfLXJUakdQcjl1cmowWWNnOGpuaHNaMnZPWTl6LXZ0a3FYMzBpWlUtdENKdXd1SXhYNmFFRUJZQVZnX3JwaDk2OEVTRFJfcEZmOGExNU5tY1hudWJ3OTk3X25PZERQWHB6Vkg0MDRfNWFsRm9pQmkzT0hDVE1FTzRicm01OTc3RDFHUllSYWxpQ2p5YzRSWF8yREZJZ1c5U0Z6Z2VKNDBaWDlFbWQwY2JQd2xXNWItcU9B?oc=5",
-        "published_at": "2025-07-01T07:00:00+00:00",
-        "representative_place": "Runway AI / New York City",
-        "place_label": "米国-ニューヨーク州-ニューヨーク市-Runway AI / generative game tools",
-        "sort_place_label": "米国-ニューヨーク州-ニューヨーク市-Runway AI / generative game tools",
-        "geocode_query": "Runway AI headquarters New York City",
-        "place_type": "ai_company_headquarters_game_tool_article",
-        "location_precision": "city",
-        "place_reason": "The RSS item is about Runway's generative AI tools being used to create video games with prompts. The subject is the company/product, not an India-specific market article or a local event. External reference information identifies Runway AI as a New York City-based company. Therefore New York City is the most specific stable representative point available in this pass. Exact article-specific office coordinates were not confirmed, so city precision is used.（一致語: Runway’s generative AI tools will soon let you create video games with a few prompts - The Indian Express）",
-        "confidence": 0.78,
-        "rule_id": "observed_runway_ai_game_tools_new_york_202507",
-        "matched_text": "Runway’s generative AI tools will soon let you create video games with a few prompts - The Indian Express",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           28.0473,
           -26.2041
         ]
@@ -13651,33 +13678,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.6503,
-          35.6762
-        ]
-      },
-      "properties": {
-        "title": "Syberia Remastered Announced For Steam & PlayStation - Bleeding Cool News",
-        "source": "Bleeding Cool News",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPXzdiTS1UcmhYaDJjS09QSnVoZFlqS1NMT3hUSTRjU2JuYTN4amFqeWlEWlA3RF9DQm51MTNzNmp5R01Yc3Zva20wZ1dMWk03YlN4T1BKYzYtVnZWU2oyd1Jtd2hUYldLQWF6ODZoZC15b09pVm1NRDlXdVozRG9mV2k2Z1VEUlRBR2c?oc=5",
-        "published_at": "2025-05-20T07:00:00+00:00",
-        "representative_place": "Valhalla Game Studios / Tokyo",
-        "place_label": "日本-東京-Valhalla Game Studios / RockShot",
-        "sort_place_label": "日本-東京-Valhalla Game Studios / RockShot",
-        "geocode_query": "Valhalla Game Studios Tokyo RockShot",
-        "place_type": "game_development_studio_announcement_city_uncertain_office",
-        "location_precision": "city",
-        "place_reason": "The legacy active entry treated the RockShot / Devil's Third developer item as a broad launch-market and access-restriction topic. A later repository entry for the same article already anchors the development subject to Valhalla Game Studios in Tokyo. This override aligns the older multi-region entry with the later same-topic Tokyo studio representative. This is not a confirmed exact Valhalla Game Studios office address, Steam distribution endpoint, media office, or article venue; replace it if the article body or an official company source identifies a more precise studio location.（一致語: Steam）",
-        "confidence": 0.62,
-        "rule_id": "observed_rockshot_valhalla_game_studios_tokyo_legacy_201805",
-        "matched_text": "Steam",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           106.8456,
           -6.2088
         ]
@@ -14129,6 +14129,33 @@
         "confidence": 0.7,
         "rule_id": "observed_xsolla_vietnam_gameverse_sherman_oaks_202605",
         "matched_text": "Xsolla",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4016,
+          37.784
+        ]
+      },
+      "properties": {
+        "title": "GDC 2025: The Indian Video Games Industry Was Represented by… Real-Money Gaming Again - IGN India",
+        "source": "IGN India",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNU1Ia0x4M1FIZThqa28zLVdLcmtTYTRSUHF0ZDE1dTU4TzlpOHVGT3dLOXBiWklOcHk0WWdVWkc1Si1tM1BNY2xRYXk1cFdIMFhmZG56cGRmQ0dwNjd2Y1hZcDRfS3BuSklXU1FYbWVQdHltTXFocTZWMkFaQlF6TkxWaVRUWjNlX3FOYmlmcF83LXI2TXlCSWpmelpKSThWZ3hkZkJiOEV5RVp2ekFpSTFYUlFRc1dqV2ZwMmRqMzAyNWw2?oc=5",
+        "published_at": "2025-03-21T07:00:00+00:00",
+        "representative_place": "GDC 2025 / Moscone Center",
+        "place_label": "米国-カリフォルニア州-サンフランシスコ-Moscone Center-GDC 2025",
+        "sort_place_label": "米国-カリフォルニア州-サンフランシスコ-Moscone Center-GDC 2025",
+        "geocode_query": "Moscone Center San Francisco GDC 2025",
+        "place_type": "event_site",
+        "location_precision": "event_site",
+        "place_reason": "GDC 2025 article anchored to the Moscone Center event venue. GDC, India, real-money gaming, and San Francisco standalone terms are not used as triggers.（一致語: GDC 2025: The Indian Video Games Industry Was Represented by… Real-Money Gaming Again）",
+        "confidence": 0.8,
+        "rule_id": "observed_gdc_2025_india_moscone_202503",
+        "matched_text": "GDC 2025: The Indian Video Games Industry Was Represented by… Real-Money Gaming Again",
         "match_source": "known_place_title"
       }
     },
@@ -15573,8 +15600,8 @@
         ]
       },
       "properties": {
-        "title": "Gamer's World | Rising SEA: Unmissable Videogames from Southeast Asia - japan-forward.com",
-        "source": "japan-forward.com",
+        "title": "Gamer's World | Rising SEA: Unmissable Videogames from Southeast Asia - JAPAN Forward",
+        "source": "JAPAN Forward",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPS2xkeS10eDR0TnBwamR2QnE3eGQwcUtiNlJWQWx3cTBkN0RxQlhqMHZIVlZSdDJyMGZFMXJ1RFI3TG9EYm5Odzl3T3JyQXQzeGdrTWZqYnQyNmtNc3Jxb3haMW5IZE90OHQ2NkxfWjUza3ppcVlYeVFUTnlKMlFWRXZ4OWhyMVU1Z1k2R29tV1NQLURiZUhZ?oc=5",
         "published_at": "2024-10-31T07:00:00+00:00",
         "representative_place": "Virtuos / Fusionopolis, Singapore",
@@ -15668,6 +15695,33 @@
         "confidence": 0.48,
         "rule_id": "observed_fntastic_the_day_before_return_singapore_representative_202410",
         "matched_text": "発売後すぐに消えた『The Day Before』開発元、“復活”を掲げて新作をクラファンするも失敗。でもめげずにまた新作発表 - AUTOMATON",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2437,
+          34.0522
+        ]
+      },
+      "properties": {
+        "title": "Netflix Closes Its All-Star AAA Video Game Studio, Which Made Zero Games - Forbes",
+        "source": "Forbes",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaW9zY21FX1RLdmpVaHRVR05xdEpxbnVUSkNMYXVSQ095a01aWlh6WUtwXzRZU05ORlAtWDRIa1kzWngwTG1DcjdEdmhJM19BeEl4ZWY1aS1Yc1U4NkdVMVl2SnlvMHdTcU5mRE1vMkVGd1JiZi13aHRpZTVWbHNVRjlnQk1LamE5TldUZl9hU0JQN1BSX2E1Q2lHQVNEVGk2RnJiZG9yb2hleThQM1R1RHhheHI2LWVNU0JzcmxRTQ?oc=5",
+        "published_at": "2024-10-23T07:00:00+00:00",
+        "representative_place": "Netflix Games / Team Blue Southern California representative",
+        "place_label": "米国-カリフォルニア州-ロサンゼルス-Netflix Games / Team Blue closure",
+        "sort_place_label": "米国-カリフォルニア州-ロサンゼルス-Netflix Games / Team Blue closure",
+        "geocode_query": "Netflix Team Blue AAA game studio Southern California Los Angeles",
+        "place_type": "game_studio_closure_city_representative",
+        "location_precision": "city",
+        "place_reason": "The Forbes/RSS item is about Netflix closing its all-star AAA game studio before it released a title. External coverage identifies the closed internal studio as Team Blue, the Netflix Games AAA studio announced as a Southern California studio led by Chacko Sonny. A specific public office address was not confirmed in this pass, but the studio context is Southern California and the relevant Netflix Games production cluster is in the Los Angeles area. Therefore Los Angeles is used as a moderate-confidence representative point instead of Netflix's corporate headquarters or the article publisher location. Replace if a specific Team Blue office city or address is confirmed.（一致語: Netflix Closes Its All-Star AAA Video Game Studio, Which Made Zero Games - Forbes）",
+        "confidence": 0.62,
+        "rule_id": "observed_netflix_team_blue_studio_closure_los_angeles_202410",
+        "matched_text": "Netflix Closes Its All-Star AAA Video Game Studio, Which Made Zero Games - Forbes",
         "match_source": "known_place_title"
       }
     },
@@ -17998,6 +18052,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          4.9041,
+          52.3676
+        ]
+      },
+      "properties": {
+        "title": "Generative AI will account for half of game development - Consultancy.eu",
+        "source": "Consultancy.eu",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdWs1dDdyN294WF9JTnh5aXE3X29qTjNncjJfbEJoNG9ITEZPQ05WbFZoRGVQZVVMRWk0OWZfR0ljbVdqVTFDdzRNdEtVSGM3ZkM4VWVwcEJzajBXOHBYM0dBczJhUnJpS3Judm9hbXl6Nkl5a2dhSTZWbUdTaWlTTW1meHFCSS1BcUg1d3hsbWd4dS15MnY00gGcAUFVX3lxTFAxaGMwSjRIdFloMGNSNURkMlhYVU5xTHZtc0dvMEVIN01qZ0V4ZGNoYlpjVEdNb2xOd1N5ZHhjN2ExRnUyWlVodTBlRDdlblVJYnhzOGU3cEVURmFYN3Y3Mk0yb0VCRnI1MU5reXZ6OWF5bFp1bndyNWUwWWZMUTVBd0w5RTVGX1RHczJBazdvZXhrQ3kyV0FySnZtNQ?oc=5",
+        "published_at": "2023-10-04T07:00:00+00:00",
+        "representative_place": "Consultancy.eu / Amsterdam representative",
+        "place_label": "オランダ-アムステルダム",
+        "sort_place_label": "オランダ-アムステルダム",
+        "geocode_query": "Consultancy.eu Amsterdam generative AI half of game development",
+        "place_type": "game_industry_ai_report_source_city_representative_uncertain_subject_location",
+        "location_precision": "city",
+        "place_reason": "The generated unresolved item is a general report/article about generative AI's share of game development. The unresolved record does not expose the research source, surveyed studios, or subject city, so use a low-confidence Consultancy.eu / Amsterdam source-side representative rather than the Eastern Europe feed geography. This is not an exact research or studio location.（一致語: Generative AI will account for half of game development - Consultancy.eu）",
+        "confidence": 0.26,
+        "rule_id": "game_all_20260709_generative_ai_half_game_dev_amsterdam_rep_202310",
+        "matched_text": "Generative AI will account for half of game development - Consultancy.eu",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           21.0186,
           52.2695
         ]
@@ -19267,6 +19348,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          139.6882,
+          35.6856
+        ]
+      },
+      "properties": {
+        "title": "【速報】gumiの開発スタジオStudio FgG、新作『アスタータタリクス』を発表！ 今泉潤氏がプロデュースするオリジナルSPRG！ - gamebiz【ゲームビズ】",
+        "source": "gamebiz【ゲームビズ】",
+        "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBlSnVJdnJtYTlWa1RjNWJfajE4aXh3TlpyU1JHQ3hMdENYYmdpU2RwSXVZYjNFZlNWVWJsWmFiOUp4Vldl?oc=5",
+        "published_at": "2022-11-05T08:18:42+00:00",
+        "representative_place": "株式会社gumi / 住友不動産西新宿ビル5号館3階",
+        "place_label": "日本-東京都-新宿区-西新宿4-34-7-住友不動産西新宿ビル5号館-gumi",
+        "sort_place_label": "日本-東京都-新宿区-西新宿4-34-7-住友不動産西新宿ビル5号館-gumi",
+        "geocode_query": "東京都新宿区西新宿4-34-7 住友不動産西新宿ビル5号館 株式会社gumi",
+        "place_type": "studio_company_site",
+        "location_precision": "exact_site",
+        "place_reason": "gumi / Studio FgG game announcement articles anchored to the established gumi Tokyo headquarters address. gumi, FgG, Aster Tatariqus, preregistration, and game-title standalone terms are not used as triggers.（一致語: 【速報】gumiの開発スタジオStudio FgG、新作『アスタータタリクス』を発表！ 今泉潤氏がプロデュースするオリジナルSPRG！）",
+        "confidence": 0.8,
+        "rule_id": "observed_gumi_fgg_aster_tatariqus_nishishinjuku_202211",
+        "matched_text": "【速報】gumiの開発スタジオStudio FgG、新作『アスタータタリクス』を発表！ 今泉潤氏がプロデュースするオリジナルSPRG！",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           72.8777,
           19.076
         ]
@@ -19880,33 +19988,6 @@
         "confidence": 0.78,
         "rule_id": "observed_xbox_game_pass_sea_launch_redmond_202203",
         "matched_text": "Xbox Game Pass Finally Coming to Indonesia, Malaysia, Philippines, Thailand and Vietnam - IGN Southeast Asia",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.6503,
-          35.6762
-        ]
-      },
-      "properties": {
-        "title": "『GhostWire: Tokyo』などに携わったゲームクリエイター中村育美が新ゲームスタジオ「Unseen」を設立 新スタジオにかける想いをIGN独占インタビュー - IGN Japan",
-        "source": "IGN Japan",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxMXk5TFJyM2NZdFdsQTY1UjFwZHJQTXZnczZBVnZVN05NUEdZR0pYbThvcXppakZXbjZhYlk2Qmt4eDRXVkRBMkpLUV84QS1xMkNKVnlmZVA2dw?oc=5",
-        "published_at": "2022-03-10T08:00:00+00:00",
-        "representative_place": "Unseen / Tokyo",
-        "place_label": "日本-東京-Unseen / Ikumi Nakamura",
-        "sort_place_label": "日本-東京-Unseen / Ikumi Nakamura",
-        "geocode_query": "Unseen Ikumi Nakamura Tokyo game studio",
-        "place_type": "game_studio_launch_site_uncertain_office",
-        "location_precision": "city",
-        "place_reason": "記事主語は中村育美氏による新ゲームスタジオUnseen設立。Unseenは東京のゲームスタジオ文脈で扱えるが、今回の確認範囲では正確なオフィス住所までは確定していないためB1に留める。（一致語: 『GhostWire: Tokyo』などに携わったゲームクリエイター中村育美が新ゲームスタジオ「Unseen」を設立 新スタジオにかける想いをIGN独占インタビュー - IGN Japan）",
-        "confidence": 0.68,
-        "rule_id": "observed_unseen_ikumi_nakamura_tokyo_202203",
-        "matched_text": "『GhostWire: Tokyo』などに携わったゲームクリエイター中村育美が新ゲームスタジオ「Unseen」を設立 新スタジオにかける想いをIGN独占インタビュー - IGN Japan",
         "match_source": "known_place_title"
       }
     },
@@ -21373,33 +21454,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.7681,
-          35.0116
-        ]
-      },
-      "properties": {
-        "title": "インディーゲームイベント「BitSummit Gaiden」詳細発表！78タイトルが参加し、期間限定ながら一部は無料プレイも可能に - IGN Japan",
-        "source": "IGN Japan",
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9hNzlxc05mMVN2dGFseS0zbno3SVBaVWtBQmZfMmdHOGhzV1BRUmg3Q3hvVEFISjl6S2pITkhiam5OVDZ1a1FqUGpIa2EwQWRoOEtjZmJSYVpJZmpNQm5qdDh0SHZxbnI1Y3YtcjhVYnJ0RXc?oc=5",
-        "published_at": "2020-05-28T07:00:00+00:00",
-        "representative_place": "BitSummit / Kyoto representative",
-        "place_label": "日本-京都府-京都市-BitSummit Gaiden",
-        "sort_place_label": "日本-京都府-京都市-BitSummit Gaiden",
-        "geocode_query": "BitSummit Gaiden Kyoto Japan indie game event",
-        "place_type": "indie_game_event_city_representative",
-        "location_precision": "city",
-        "place_reason": "The IGN Japan RSS item is about BitSummit Gaiden, the 2020 online edition of the BitSummit indie-game event. BitSummit is a Kyoto-origin indie game festival and is consistently described as a Kyoto event, while the 2020 Gaiden edition was held online rather than at a single public venue. The article's place-bearing subject is therefore the BitSummit event organization/series rather than the article publisher or any one participating title. Kyoto city is used as the representative event point, not as a physical venue for the online edition.（一致語: インディーゲームイベント「BitSummit Gaiden」詳細発表！78タイトルが参加し、期間限定ながら一部は無料プレイも可能に - IGN Japan）",
-        "confidence": 0.72,
-        "rule_id": "observed_bitsummit_gaiden_kyoto_202005",
-        "matched_text": "インディーゲームイベント「BitSummit Gaiden」詳細発表！78タイトルが参加し、期間限定ながら一部は無料プレイも可能に - IGN Japan",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -122.4194,
           37.7749
         ]
@@ -21446,6 +21500,33 @@
         "confidence": 0.84,
         "rule_id": "observed_cd_projekt_polish_giant_202606",
         "matched_text": "Poland’s CD Projekt beats out Ubisoft",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0568,
+          59.3205
+        ]
+      },
+      "properties": {
+        "title": "『マインクラフト』開発会社Mojangが ｢Mojang Studios｣ に改称　新ロゴも公開 - corriente.jp",
+        "source": "corriente.jp",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9xTmFDT0xGMGpMcjM5U3BWSmNnOThJbUUtQVhncGxHS0pHMWkwUjdwVTlPUEN4M2gySkZnV1dMM0V4aUJadzBBcjdocDRyRVZnSVFJ0gFYQVVfeXFMTnFuMTJHTC1hYWtESTNFM1ZVd3E2TUhORDNDV2VSU0d3OFlNQlJsVllzUVlnSkcyTm15TnR3QlJiWkVLRzcxUEo0TnVPR1VjZENrX2FwT1Z5ag?oc=5",
+        "published_at": "2020-05-18T07:00:00+00:00",
+        "representative_place": "Mojang Studios / Söder Mälarstrand 43 headquarters",
+        "place_label": "スウェーデン-ストックホルム-Söder Mälarstrand 43-Mojang Studios",
+        "sort_place_label": "スウェーデン-ストックホルム-Söder Mälarstrand 43-Mojang Studios",
+        "geocode_query": "Mojang Studios Söder Mälarstrand 43 Stockholm Sweden",
+        "place_type": "studio_site",
+        "location_precision": "building",
+        "place_reason": "MojangがMojang Studiosへ改称し新ロゴを公開した記事であり、会社名変更そのものが記事の出来事である。Mojang StudiosはStockholm拠点で、本社建物としてSöder Mälarstrand 43が確認できるため、Stockholm市代表点ではなく同社本社建物代表点に置く。MinecraftやMojang単体では一致させず、該当する改称・新ロゴ公開記事だけを対象にする。（一致語: 『マインクラフト』開発会社Mojangが ｢Mojang Studios｣ に改称　新ロゴも公開 - corriente.jp）",
+        "confidence": 0.8,
+        "rule_id": "observed_mojang_studios_rebrand_sodermalarstrand_202005",
+        "matched_text": "『マインクラフト』開発会社Mojangが ｢Mojang Studios｣ に改称　新ロゴも公開 - corriente.jp",
         "match_source": "known_place_title"
       }
     },
@@ -21608,33 +21689,6 @@
         "confidence": 0.72,
         "rule_id": "observed_avalanche_studios_just_cause_stockholm_202604",
         "matched_text": "Avalanche Studiosが「3分社化」",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.2015,
-          47.6101
-        ]
-      },
-      "properties": {
-        "title": "Why Half-Life’s City 17 was pivotal to gaming’s post-Soviet obsession - The Verge",
-        "source": "The Verge",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZVBSVlNjOHhOOTNxZFk5LW9GZUxGOUxDTTZsOFUyOWVlSzRpb0htT2JtYnB2Q1JGNFlsQnpGdGM1aENfWFVPRklDQVN1QTBxQXh1UnBrNm1qT2NyLWxwZjhCSVdyejJvVnpsS0FjUEs0N3lJb2cxQVZrbnAwLVotZlpvSVF2NW1uS3BQTjZfX3hVdldVeHlvemdMUFo0SnM?oc=5",
-        "published_at": "2020-03-25T07:00:00+00:00",
-        "representative_place": "Valve / 10400 NE 4th St Bellevue",
-        "place_label": "米国-ワシントン州-ベルビュー-10400 NE 4th St-Valve / Half-Life City 17記事代表点",
-        "sort_place_label": "米国-ワシントン州-ベルビュー-10400 NE 4th St-Valve / Half-Life City 17記事代表点",
-        "geocode_query": "Valve 10400 NE 4th St Bellevue Washington Half-Life City 17",
-        "place_type": "game_developer_critical_history_hq_representative",
-        "location_precision": "exact_site",
-        "place_reason": "Task 1 refinement for the older Half-Life / City 17 article override. The existing mapping already treated Valve/Bellevue as the concrete game-related subject rather than the fictional City 17 setting or The Verge source. Existing later dictionary context uses Valve / 10400 NE 4th St Bellevue as an accepted exact-site representative for Valve company-side articles, so refine the older city-level representative to the same exact-site point. This does not claim City 17, a post-Soviet setting, The Verge office, or an article-production site.（一致語: Why Half-Life’s City 17 was pivotal to gaming’s post-Soviet obsession - The Verge）",
-        "confidence": 0.78,
-        "rule_id": "observed_half_life_city17_post_soviet_valve_bellevue_202003",
-        "matched_text": "Why Half-Life’s City 17 was pivotal to gaming’s post-Soviet obsession - The Verge",
         "match_source": "known_place_title"
       }
     },
@@ -23552,33 +23606,6 @@
         "confidence": 0.58,
         "rule_id": "observed_top_african_game_developers_johannesburg_201310",
         "matched_text": "Top 10 African game developers - IT News Africa",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          72.8777,
-          19.076
-        ]
-      },
-      "properties": {
-        "title": "Online gaming company Games2win acquires casual games studio Backyard Game FactorRy - Techcircle",
-        "source": "Techcircle",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWG1Yemh1WjBVS3J2RmFqUUl6OWh5T3lMZDJrVHdnc2FfWVdqZWNvd1BQSVo2YllyZGR0M2dDbEdyYWFBVjhMQmpqbkh6d3Z1RjBFSmYtNGhobjFYZ3ZQVmJ2Y2RXeDl6YTJ6a1VFVkt6SGtPQWpLVUVXaG5pNUYxTDU4YXc1c1J4eTg2RTVDYkZ2Z1RlTnlPMFVnYlZ5TlJhQkstSFpkUHlzUE1LSTdmY0hldnhlNHFSMk9EaWZR?oc=5",
-        "published_at": "2013-06-06T07:00:00+00:00",
-        "representative_place": "Games2win / Mumbai representative",
-        "place_label": "インド-マハーラーシュトラ州-ムンバイ",
-        "sort_place_label": "インド-マハーラーシュトラ州-ムンバイ",
-        "geocode_query": "Games2win Mumbai acquires Backyard Game FactorRy",
-        "place_type": "game_company_acquisition_city_representative_uncertain_office",
-        "location_precision": "city",
-        "place_reason": "The generated unresolved item is about Games2win acquiring casual games studio Backyard Game FactorRy. Use Games2win / Mumbai as the acquiring-company representative rather than Techcircle or a generic India point. This is not an exact office coordinate.（一致語: Online gaming company Games2win acquires casual games studio Backyard Game FactorRy - Techcircle）",
-        "confidence": 0.58,
-        "rule_id": "game_all_20260709_games2win_acquires_backyard_game_factory_mumbai_201306",
-        "matched_text": "Online gaming company Games2win acquires casual games studio Backyard Game FactorRy - Techcircle",
         "match_source": "known_place_title"
       }
     },
