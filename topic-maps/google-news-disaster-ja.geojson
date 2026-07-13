@@ -1,8 +1,8 @@
 {
   "type": "FeatureCollection",
   "properties": {
-    "created_at": "2026-07-13T20:16:33.504705+00:00",
-    "count": 23,
+    "created_at": "2026-07-13T21:58:04.482571+00:00",
+    "count": 22,
     "stats": {
       "feed_id": "google-news-disaster-ja",
       "feed_label": "Google News: 災害・地震・大雨",
@@ -14,8 +14,8 @@
       "fetched_by_url": {
         "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja": 77
       },
-      "filtered": 72,
-      "resolved": 23,
+      "filtered": 71,
+      "resolved": 22,
       "unresolved": 49,
       "rules": 384,
       "known_places": 1357,
@@ -1741,33 +1741,6 @@
         "confidence": 0.78,
         "rule_id": "observed_level5_comcept_osaka_studio_201706",
         "matched_text": "大阪",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          138.1948,
-          36.6486
-        ]
-      },
-      "properties": {
-        "title": "台風19号の浸水面積は地球温暖化で13・4倍！東京理科大・京大など推計 - 読売新聞",
-        "source": "読売新聞",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE43YUtLbmZCdElEbmhEZmRrU0hxNk9QWHY4cWp4T0tOUFRUNUh0T1pyY21DdmZ0NHJ3ekgta3JHRzhqNmk4R0RPcVRXUTQwZGlTRzQ5dUtsQTNLWkt0anREaw?oc=5",
-        "published_at": "2021-12-04T08:00:00+00:00",
-        "representative_place": "Typhoon Hagibis / Nagano-Chikuma River representative",
-        "place_label": "日本-長野県-長野市-台風19号浸水面積推計代表点",
-        "sort_place_label": "日本-長野県-長野市-台風19号浸水面積推計代表点",
-        "geocode_query": "Typhoon Hagibis Chikuma River Nagano flooding climate estimate Tokyo University of Science Kyoto University",
-        "place_type": "historic_disaster_research_representative",
-        "location_precision": "city",
-        "place_reason": "Non-game disaster-category coverage. The title is a research article about Typhoon 19 / Hagibis flood-area expansion under climate warming. It names research institutions but the disaster subject is the typhoon/flooding rather than a campus news item. Use Nagano City / Chikuma River as a representative major Hagibis flood-impact area with moderate-low confidence; this does not claim the exact modeled polygon, a damaged building, or the research lab location.（一致語: 台風19号の浸水面積は地球温暖化で13・4倍！東京理科大・京大など推計 - 読売新聞）",
-        "confidence": 0.46,
-        "rule_id": "disaster_202112_typhoon19_flood_area_climate_estimate",
-        "matched_text": "台風19号の浸水面積は地球温暖化で13・4倍！東京理科大・京大など推計 - 読売新聞",
         "match_source": "known_place_title"
       }
     },
