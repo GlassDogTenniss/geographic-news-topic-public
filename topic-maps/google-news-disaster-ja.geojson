@@ -1,8 +1,8 @@
 {
   "type": "FeatureCollection",
   "properties": {
-    "created_at": "2026-07-13T03:29:02.004404+00:00",
-    "count": 21,
+    "created_at": "2026-07-13T06:54:26.506724+00:00",
+    "count": 20,
     "stats": {
       "feed_id": "google-news-disaster-ja",
       "feed_label": "Google News: 災害・地震・大雨",
@@ -10,13 +10,13 @@
         "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja"
       ],
       "rss_url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja",
-      "fetched": 75,
+      "fetched": 76,
       "fetched_by_url": {
-        "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja": 75
+        "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja": 76
       },
-      "filtered": 67,
-      "resolved": 21,
-      "unresolved": 46,
+      "filtered": 70,
+      "resolved": 20,
+      "unresolved": 50,
       "rules": 384,
       "known_places": 1357,
       "loaded_data_files": [
@@ -1444,33 +1444,6 @@
         "confidence": 0.54,
         "rule_id": "disaster_202606_kyushu_linear_rainband_double_typhoon_warning",
         "matched_text": "九州で線状降水帯が発生のおそれ 大雨による災害発生のおそれ ふたつの台風、週末にかけ日本列島へ近づく見込み - 日テレNEWS NNN",
-        "match_source": "known_place_title"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          138.5683,
-          35.6639
-        ]
-      },
-      "properties": {
-        "title": "台風6号「土砂災害“レベル4”の可能性」3日に最接近 “警報級”大雨に注意 山梨（2026年6月1日掲載）｜YBS NEWS NNN - 日テレNEWS NNN",
-        "source": "日テレNEWS NNN",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVE1XODVHbmFtWGdXem9sbjd3RkNRWm1MaTh6VnNra3N1S3Q3OEMxbXZ0a0xKcG13bldBeXNaVTBRdU8wMDEyOUxJdXg3bjVMaTEtMFZqY0tEVC1UeVY2eDc1UmtjUFFKY1o4MVJGOWdHMDA0ZFFSU2JiNnpFdU5oNWpwMVNhOTg?oc=5",
-        "published_at": "2026-06-01T07:00:00+00:00",
-        "representative_place": "Yamanashi Prefecture / Kofu representative",
-        "place_label": "日本-山梨県-甲府市-台風6号土砂災害・警報級大雨代表点",
-        "sort_place_label": "日本-山梨県-甲府市-台風6号土砂災害・警報級大雨代表点",
-        "geocode_query": "Yamanashi Prefecture Kofu Japan typhoon 6 landslide level 4 warning heavy rain",
-        "place_type": "disaster_prefecture_representative",
-        "location_precision": "city",
-        "place_reason": "The unresolved article title explicitly says Typhoon 6 would make its closest approach and warns of possible landslide alert level 4 / warning-class heavy rain in Yamanashi. No narrower municipality, slope, river, or damage site is given in the title, so use Kofu as the Yamanashi prefectural representative point.（一致語: 台風6号「土砂災害“レベル4”の可能性」3日に最接近 “警報級”大雨に注意 山梨（2026年6月1日掲載）｜YBS NEWS NNN - 日テレNEWS NNN）",
-        "confidence": 0.64,
-        "rule_id": "disaster_202606_yamanashi_typhoon6_landslide_warning",
-        "matched_text": "台風6号「土砂災害“レベル4”の可能性」3日に最接近 “警報級”大雨に注意 山梨（2026年6月1日掲載）｜YBS NEWS NNN - 日テレNEWS NNN",
         "match_source": "known_place_title"
       }
     },
