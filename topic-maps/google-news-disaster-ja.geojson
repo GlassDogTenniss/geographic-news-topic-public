@@ -1,8 +1,8 @@
 {
   "type": "FeatureCollection",
   "properties": {
-    "created_at": "2026-07-13T23:03:14.000302+00:00",
-    "count": 23,
+    "created_at": "2026-07-14T02:35:39.695712+00:00",
+    "count": 24,
     "stats": {
       "feed_id": "google-news-disaster-ja",
       "feed_label": "Google News: 災害・地震・大雨",
@@ -15,8 +15,8 @@
         "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20%E5%9C%B0%E9%9C%87%20%E5%A4%A7%E9%9B%A8%20%E5%8F%B0%E9%A2%A8&hl=ja&gl=JP&ceid=JP:ja": 77
       },
       "filtered": 71,
-      "resolved": 23,
-      "unresolved": 48,
+      "resolved": 24,
+      "unresolved": 47,
       "rules": 384,
       "known_places": 1357,
       "loaded_data_files": [
@@ -1417,6 +1417,33 @@
         "confidence": 0.42,
         "rule_id": "disaster_202606_west_japan_baiu_front_heavy_rain_double_typhoon",
         "matched_text": "活発な梅雨前線影響…西日本で大雨 2つの台風も北上中、大雨災害に厳重警戒を（2026年6月25日掲載）｜日テレNEWS NNN - 日テレNEWS NNN",
+        "match_source": "known_place_title"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.4017,
+          33.5902
+        ]
+      },
+      "properties": {
+        "title": "九州で大雨 2つの台風が日本の南を北上中 土砂災害などに厳重警戒（2026年6月24日掲載）｜日テレNEWS NNN - 日テレNEWS NNN",
+        "source": "日テレNEWS NNN",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1zVjNubFlpU0pvVzhJOWprQ0s1TnB0UFQ1c0dCaHlfNlB1YmRXeHJYOG5QSlA3ODFjME1oUi1DWnpZZmIwWHJvTTYwdW5Gc1JXRURwaUp6WTU1NUthZ3hJQ053anRNZ3RhUUtvU1V3VklSd3VTX1h2cXFyR0w?oc=5",
+        "published_at": "2026-06-24T07:00:00+00:00",
+        "representative_place": "Kyushu / Fukuoka representative",
+        "place_label": "日本-福岡県-福岡市-九州大雨・線状降水帯警戒代表点",
+        "sort_place_label": "日本-福岡県-福岡市-九州大雨・線状降水帯警戒代表点",
+        "geocode_query": "Kyushu Fukuoka Japan heavy rain linear rainband typhoon 7 warning",
+        "place_type": "weather_region_representative",
+        "location_precision": "city",
+        "place_reason": "The titles identify Kyushu as the affected weather region but do not expose a narrower municipality, river basin, or landslide site. Use Fukuoka as a Kyushu regional representative point for these broad heavy-rain and linear-rainband warnings rather than leaving them unresolved or mapping them to a media office.（一致語: 九州で大雨 2つの台風が日本の南を北上中 土砂災害などに厳重警戒（2026年6月24日掲載）｜日テレNEWS NNN - 日テレNEWS NNN）",
+        "confidence": 0.52,
+        "rule_id": "disaster_202606_kyushu_heavy_rain_typhoons_linear_rainband",
+        "matched_text": "九州で大雨 2つの台風が日本の南を北上中 土砂災害などに厳重警戒（2026年6月24日掲載）｜日テレNEWS NNN - 日テレNEWS NNN",
         "match_source": "known_place_title"
       }
     },
